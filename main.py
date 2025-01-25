@@ -295,7 +295,7 @@ def output(sec, language):
                     except Exception as e:
                         entry.summary = None
                         with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed, append the original article\n")
+                            f.write(f"Summarization failed in custom_model, append the original article\n")
                             f.write(f"error: {e}\n")
                 else:
                     try:
@@ -312,7 +312,7 @@ def output(sec, language):
                         except Exception as e:
                             entry.summary = None
                             with open(log_file, 'a') as f:
-                                f.write(f"Summarization failed, append the original article\n")
+                                f.write(f"Summarization failed in gpt-4o, append the original article\n")
                                 f.write(f"error: {e}\n")
 
             append_entries.append(entry)
