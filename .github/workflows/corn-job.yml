@@ -41,7 +41,6 @@ jobs:
           CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           U_NAME: ${{ secrets.U_NAME }}
-          CUSTOM_MODEL: ${{ secrets.CUSTOM_MODEL }}
              
       - name: PUSH
         run: |
