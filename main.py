@@ -9,6 +9,7 @@ import re
 import datetime
 import requests
 from fake_useragent import UserAgent
+import glob
 #from dateutil.parser import parse
 
 def get_cfg(sec, name, default=None):
@@ -335,10 +336,23 @@ def output(sec, language):
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
 
+def clean_logs():
+    """清理docs目录下的所有log文件"""
+    log_files = glob.glob(os.path.join(BASE, "*.log"))
+    for log_file in log_files:
+        try:
+            os.remove(log_file)
+            print(f"已删除日志文件: {log_file}")
+        except Exception as e:
+            print(f"删除日志文件失败 {log_file}: {str(e)}")
+
 try:
     os.mkdir(BASE)
 except:
     pass
+
+# 在处理RSS之前清理日志文件
+clean_logs()
 
 feeds = []
 links = []
