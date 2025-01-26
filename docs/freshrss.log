@@ -1,6 +1,21 @@
 ------------------------------------------------------
-Started: 2025-01-25 21:49:18.813494
+Started: 2025-01-26 08:18:27.240474
 Existing_entries: 12
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-Finish: 2025-01-25 21:49:20.162093
+Token length: 278
+Summarized using gpt-3.5-turbo
+Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [泡泡玛特急需开光师](https://www.36kr.com/p/3137702150855169)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“轻断亲”的年轻人，选择回乡不回家](https://www.36kr.com/p/3138882149138183)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为什么聪明人无法影响决策者：向高层做技术汇报的技巧](https://www.36kr.com/p/3113520574696964)
+Token length: 119
+Summarized using gpt-3.5-turbo
+Append: [掘金 ‧ 工具资源本周最热](https://tophub.today/n/rx9ozQ6eXb)
+append_entries: 5
+Finish: 2025-01-26 08:18:33.645352
