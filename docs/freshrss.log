@@ -1,66 +1,60 @@
 ------------------------------------------------------
-Started: 2025-01-26 21:49:31.467658
-Existing_entries: 0
+Started: 2025-01-27 03:40:05.597413
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 45
+Token length: 2781
 Summarized using gpt-3.5-turbo
-Append: [OpenTiny/tiny-engine](https://gitee.com/opentiny/tiny-engine)
-Token length: 96
+Append: [10省份发布今年重点项目清单，各地全力扩投资稳增长](https://www.yicai.com/news/102457269.html)
+Token length: 1345
 Summarized using gpt-3.5-turbo
-Append: [weibaohui/k8m](https://gitee.com/weibaohui/k8m)
-Token length: 22
+Append: [去年12月工业利润增速转正，今年走势如何](https://www.yicai.com/news/102457284.html)
+Token length: 693
 Summarized using gpt-3.5-turbo
-Append: [PageSpy/page-spy](https://gitee.com/pagespy/page-spy)
-Token length: 112
+Append: [DeepSeek冲击全球算力，A股寒武纪跌近10%，日本半导体股下挫，纳指期货跌近2%](https://wallstreetcn.com/articles/3740097)
+Token length: 1481
 Summarized using gpt-3.5-turbo
-Append: [住京华/moodiary](https://gitee.com/cheesexz/moodiary)
-Token length: 121
+Append: [中国1月官方制造业PMI 49.1，重回收缩区间](https://wallstreetcn.com/articles/3740099)
+Token length: 1374
 Summarized using gpt-3.5-turbo
-Append: [神岛实验室/ArenaPro Creator](https://gitee.com/box3lab/arena-vscode-plugin)
-Token length: 153
+Append: [1月制造业PMI为49.1%，比上月下降1.0个百分点](https://www.yicai.com/news/102457181.html)
+Token length: 631
 Summarized using gpt-3.5-turbo
-Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
-Token length: 238
+Append: [滚动更新丨沪指涨0.12%，AI智能体概念涨幅居前](https://www.yicai.com/news/102457166.html)
+Token length: 1321
 Summarized using gpt-3.5-turbo
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 278
+Append: [当开源追上了闭源](https://wallstreetcn.com/articles/3740087)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一次性内窥镜，国产已有单品销售破亿！](https://www.36kr.com/p/3138815150824193)
+Token length: 1906
 Summarized using gpt-3.5-turbo
-Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
-Token length: 94
-Summarized using gpt-3.5-turbo
-Append: [不上班研究所 ‧ 什么值得做](https://tophub.today/n/WmoOyyDd4E)
-Token length: 111
-Summarized using gpt-3.5-turbo
-Append: [产品经理@唐杰](https://tophub.today/n/DOvnNB1vEB)
-Token length: 173
-Summarized using gpt-3.5-turbo
-Append: [Trump Hits Colombia With Tariffs in Feud Over Military Deportation Flights](https://www.nytimes.com/2025/01/26/world/americas/colombia-us-deportation-flights.html)
-Token length: 28
-Summarized using gpt-3.5-turbo
-Append: [How a German Thinker Explains MAGA Morality](https://www.nytimes.com/2025/01/26/opinion/trump-maga-schmitt.html)
-Token length: 182
-Summarized using gpt-3.5-turbo
-Append: [Start of Eaton Fire Focus Attention on Southern California Edison](https://www.nytimes.com/2025/01/26/us/los-angeles-eaton-fire-cause.html)
-Token length: 313
-Summarized using gpt-3.5-turbo
-Append: [Gitee ‧ 今日热门](https://tophub.today/n/BwdG5GaoPx)
-Token length: 191
-Summarized using gpt-3.5-turbo
-Append: [Belarus’s Strong-Arm Leader, Aleksandr Lukashenko, Cruises to Re-election](https://www.nytimes.com/2025/01/26/world/europe/belarus-lukashenko-re-election.html)
-Token length: 31
-Summarized using gpt-3.5-turbo
-Append: [Hamas objects after Trump urges Jordan, Egypt to take Gazans | REUTERS](https://www.youtube.com/watch?v=eOkpEVZtnbo)
-Token length: 124
-Summarized using gpt-3.5-turbo
-Append: [Charges Dropped Against Doctor Who Leaked About Minors’ Transgender Care](https://www.nytimes.com/2025/01/26/us/trump-transgender-texas-doctor.html)
-Token length: 97
-Summarized using gpt-3.5-turbo
-Append: [广州小橘灯信息科技有限公司/nexfly](https://gitee.com/xjd2020/nexfly)
+Append: [中免24年净利下降36.5%，免税购物不再受欢迎了？](https://www.36kr.com/p/3137764464787208)
 Token length: 157
 Summarized using gpt-3.5-turbo
-Append: [Italy Begins Shipping Migrants to Albania, Reviving Stalled Program](https://www.nytimes.com/2025/01/26/world/europe/italy-migrants-albania.html)
-Token length: 299
+Append: [从0到1构建开源 vue-uniapp-template：使用 UniApp + Vue3 + TypeScript 和 VSCoe、CLI 开发跨平台移动端脚手架](https://www.cnblogs.com/haoxianrui/p/18684753)
+Token length: 154
 Summarized using gpt-3.5-turbo
-Append: [Trump administration memo tells USAID to put "America First" in reviewing foreign aid](https://www.reuters.com/world/us/trump-administration-memo-tells-usaid-put-america-first-reviewing-foreign-aid-2025-01-26/)
-append_entries: 20
-Finish: 2025-01-26 21:50:05.523861
+Append: [.NET9 AOT部署](https://www.cnblogs.com/hudean/p/18685670)
+Token length: 205
+Summarized using gpt-3.5-turbo
+Append: [Israeli Army Raids Home of Freed Hamas Member Amid Tensions Over Hostage Deal](https://www.nytimes.com/2025/01/26/world/middleeast/israel-army-palestinian-prisoners.html)
+Token length: 184
+Summarized using gpt-3.5-turbo
+Append: [As Thousands Try to Return Home, Fragile Mideast Cease-Fires Are Tested](https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-gaza-cease-fires.html)
+Token length: 155
+Summarized using gpt-3.5-turbo
+Append: [How ‘Nickel Boys’ Achieved Its Singular Visual Style](https://www.nytimes.com/2025/01/24/movies/nickel-boys-cinematography-camera.html)
+Token length: 2881
+Summarized using gpt-3.5-turbo
+Append: [华尔街到陆家嘴精选丨DeepSeek开源大模型震撼全球AI界！AI代理工具Operator亮眼 会自己操作电脑网购订位安排假期！特朗普上台首周 美股波动加剧 美元下跌](https://www.yicai.com/news/102457023.html)
+Token length: 1362
+Summarized using gpt-3.5-turbo
+Append: [特朗普第二周：关税、反移民激烈开启！美股应声走低，美元走高](https://wallstreetcn.com/articles/3740092)
+Token length: 323
+Summarized using gpt-3.5-turbo
+Append: [Explainer: What is FEMA, US emergency agency under fire from Trump?](https://www.reuters.com/world/us/what-is-fema-us-emergency-agency-under-fire-trump-2025-01-27/)
+Token length: 164
+Summarized using gpt-3.5-turbo
+Append: [Trump directs US government to override California water policies if necessary](https://www.reuters.com/world/us/trump-directs-us-government-override-california-water-policies-if-necessary-2025-01-27/)
+append_entries: 18
+Finish: 2025-01-27 03:40:38.328582
