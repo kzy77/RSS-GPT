@@ -1,60 +1,60 @@
 ------------------------------------------------------
-Started: 2025-01-27 03:40:05.597413
-Existing_entries: 20
+Started: 2025-01-27 08:22:09.942306
+Existing_entries: 38
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2781
+Token length: 122
 Summarized using gpt-3.5-turbo
-Append: [10省份发布今年重点项目清单，各地全力扩投资稳增长](https://www.yicai.com/news/102457269.html)
-Token length: 1345
+Append: [A股今日共45只个股涨停 这只机器人概念股6连板](https://www.yicai.com/news/102457611.html)
+Token length: 864
 Summarized using gpt-3.5-turbo
-Append: [去年12月工业利润增速转正，今年走势如何](https://www.yicai.com/news/102457284.html)
-Token length: 693
+Append: [创业板指跌2.73%，AI智能体板块涨幅居前](https://www.yicai.com/news/102457609.html)
+Token length: 3058
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek冲击全球算力，A股寒武纪跌近10%，日本半导体股下挫，纳指期货跌近2%](https://wallstreetcn.com/articles/3740097)
-Token length: 1481
+Append: [“人在天堂，钱在银行”！无主财产如何处理？](https://www.yicai.com/news/102456860.html)
+Token length: 286
 Summarized using gpt-3.5-turbo
-Append: [中国1月官方制造业PMI 49.1，重回收缩区间](https://wallstreetcn.com/articles/3740099)
-Token length: 1374
+Append: [杨德龙：制造业企业用工景气度保持稳定 装备制造业压舱石作用凸显](https://www.yicai.com/video/102457584.html)
+Token length: 861
 Summarized using gpt-3.5-turbo
-Append: [1月制造业PMI为49.1%，比上月下降1.0个百分点](https://www.yicai.com/news/102457181.html)
-Token length: 631
+Append: [多名泰国军警涉嫌参与绑架中国公民被捕，受害人被高薪招聘广告诱骗](https://www.huxiu.com/article/3949644.html)
+Token length: 389
 Summarized using gpt-3.5-turbo
-Append: [滚动更新丨沪指涨0.12%，AI智能体概念涨幅居前](https://www.yicai.com/news/102457166.html)
-Token length: 1321
+Append: [阿勒泰的粉雪与流量：从“冷资源”到“热经济”的逆袭之路](https://www.yicai.com/video/102457527.html)
+Token length: 54
 Summarized using gpt-3.5-turbo
-Append: [当开源追上了闭源](https://wallstreetcn.com/articles/3740087)
+Append: [美国副总统万斯：40年了，美国一场仗都没赢过](https://m.thepaper.cn/detail/30042415)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [一次性内窥镜，国产已有单品销售破亿！](https://www.36kr.com/p/3138815150824193)
-Token length: 1906
+Append: [第一批回老家的人，已经后悔县城有房了](https://www.36kr.com/p/3140380617595649)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [提高外汇储备在港资产配置比例，意味着什么？](https://wallstreetcn.com/articles/3740090)
+Token length: 2830
 Summarized using gpt-3.5-turbo
-Append: [中免24年净利下降36.5%，免税购物不再受欢迎了？](https://www.36kr.com/p/3137764464787208)
-Token length: 157
+Append: [法治课｜张大大被指职场霸凌，无忧传媒或需承担连带责任](https://m.thepaper.cn/detail/30037081)
+Token length: 72
 Summarized using gpt-3.5-turbo
-Append: [从0到1构建开源 vue-uniapp-template：使用 UniApp + Vue3 + TypeScript 和 VSCoe、CLI 开发跨平台移动端脚手架](https://www.cnblogs.com/haoxianrui/p/18684753)
-Token length: 154
+Append: [一次解雇17名监察长，特朗普“深夜清洗”为政府滥权铺路？](https://m.thepaper.cn/detail/30035601)
+Token length: 268
 Summarized using gpt-3.5-turbo
-Append: [.NET9 AOT部署](https://www.cnblogs.com/hudean/p/18685670)
-Token length: 205
+Append: [国家移民管理局干部人事司司长孙鸿滨已赴中国融通集团履新](https://m.thepaper.cn/detail/30035528)
+Token length: 2295
 Summarized using gpt-3.5-turbo
-Append: [Israeli Army Raids Home of Freed Hamas Member Amid Tensions Over Hostage Deal](https://www.nytimes.com/2025/01/26/world/middleeast/israel-army-palestinian-prisoners.html)
-Token length: 184
+Append: [沪苏湖高铁开通运营“满月” ，运送旅客超250万人次](https://m.thepaper.cn/detail/30035160)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [巨头环伺，精酿啤酒能跑出一匹上市黑马？](https://www.36kr.com/p/3135471715778308)
+Token length: 866
 Summarized using gpt-3.5-turbo
-Append: [As Thousands Try to Return Home, Fragile Mideast Cease-Fires Are Tested](https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-gaza-cease-fires.html)
-Token length: 155
+Append: [雷军开车直播被指存在违规行为遭抖音封禁，机器判断失误？开车能直播吗？](https://m.thepaper.cn/detail/30034161)
+Token length: 1220
 Summarized using gpt-3.5-turbo
-Append: [How ‘Nickel Boys’ Achieved Its Singular Visual Style](https://www.nytimes.com/2025/01/24/movies/nickel-boys-cinematography-camera.html)
-Token length: 2881
+Append: [Trae使用体验，未来已至？](https://juejin.cn/post/7462622680609538086)
+Token length: 60
 Summarized using gpt-3.5-turbo
-Append: [华尔街到陆家嘴精选丨DeepSeek开源大模型震撼全球AI界！AI代理工具Operator亮眼 会自己操作电脑网购订位安排假期！特朗普上台首周 美股波动加剧 美元下跌](https://www.yicai.com/news/102457023.html)
-Token length: 1362
+Append: [How Europe Swung to the Right](https://www.nytimes.com/2025/01/27/opinion/europe-elections-immigration-far-right.html)
+Token length: 171
 Summarized using gpt-3.5-turbo
-Append: [特朗普第二周：关税、反移民激烈开启！美股应声走低，美元走高](https://wallstreetcn.com/articles/3740092)
-Token length: 323
-Summarized using gpt-3.5-turbo
-Append: [Explainer: What is FEMA, US emergency agency under fire from Trump?](https://www.reuters.com/world/us/what-is-fema-us-emergency-agency-under-fire-trump-2025-01-27/)
-Token length: 164
-Summarized using gpt-3.5-turbo
-Append: [Trump directs US government to override California water policies if necessary](https://www.reuters.com/world/us/trump-directs-us-government-override-california-water-policies-if-necessary-2025-01-27/)
+Append: [Eric Adams to Limit Public Schedule to Undergo Routine Medical Tests](https://www.nytimes.com/2025/01/27/nyregion/eric-adams-limits-public-schedule.html)
 append_entries: 18
-Finish: 2025-01-27 03:40:38.328582
+Finish: 2025-01-27 08:22:39.925065
