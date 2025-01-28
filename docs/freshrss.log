@@ -1,21 +1,48 @@
 ------------------------------------------------------
-Started: 2025-01-28 08:14:55.393836
-Existing_entries: 74
+Started: 2025-01-28 10:11:45.291806
+Existing_entries: 79
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 989
+Token length: 1416
 Summarized using gpt-3.5-turbo
-Append: [2025年春晚开播在即，将有哪些“AI味”？](https://www.yicai.com/news/102458344.html)
-Token length: 2292
+Append: [美股盘前纳指期货涨0.6%，半导体、核电股集体回升，英伟达涨近5%，港股龙年收官日，科指全年上涨51%！](https://wallstreetcn.com/articles/3740154)
+Token length: 1777
 Summarized using gpt-3.5-turbo
-Append: [对OpenAI发起直接挑战，DeepSeek“杀入”文生图领域](https://www.yicai.com/news/102458348.html)
-Token length: 192
+Append: [生态环境部：推行渐进式执法模式，严防执法“一刀切”](https://www.yicai.com/news/102458367.html)
+Token length: 77
 Summarized using gpt-3.5-turbo
-Append: [Workers at Philadelphia Whole Foods store vote to unionize](https://www.reuters.com/business/retail-consumer/workers-philadelphia-whole-foods-store-vote-unionize-2025-01-28/)
-Token length: 185
+Append: [小浪花过大年｜“歪果仁”为何也来过中国年？快去魔都街头找答案](https://m.thepaper.cn/detail/30044997)
+Token length: 2596
 Summarized using gpt-3.5-turbo
-Append: [Trump Moves Toward Pushing Openly Transgender People Out of Military](https://www.nytimes.com/2025/01/28/us/politics/trump-military-transgender-dei-orders.html)
-Token length: 1894
+Append: [上海蛇年“派利是”：家电补贴新增18类，适老产品补贴30%](https://www.yicai.com/news/102458353.html)
+Token length: 552
 Summarized using gpt-3.5-turbo
-Append: [蒸汽机发明了，煤炭就少用了吗？英伟达暴跌之夜，这是华尔街最热门的讨论](https://wallstreetcn.com/articles/3740151)
-append_entries: 5
-Finish: 2025-01-28 08:15:06.061031
+Append: [中央广播电视总台《2025年春节联欢晚会》节目单发布](https://m.thepaper.cn/detail/30052992)
+Token length: 2989
+Summarized using gpt-3.5-turbo
+Append: [持续更新·除夕24小时｜因手速飞快走红的铁路售票员正在坚守岗位](https://m.thepaper.cn/detail/30046476)
+Token length: 141
+Summarized using gpt-3.5-turbo
+Append: [India, China to Resume Direct Flights After Nearly Five Years](https://www.nytimes.com/2025/01/28/world/asia/india-china-direct-flights.html)
+Token length: 3126
+Summarized using gpt-3.5-turbo
+Append: [Deepseek又出连招：刚发布了超越DALL-E3的多模态模型](https://www.36kr.com/p/3142062147967492)
+Token length: 156
+Summarized using gpt-3.5-turbo
+Append: [Japan Stocks Sink as Rout in Technology Shares Spreads to Asia](https://www.nytimes.com/2025/01/28/business/stocks-sp500-deepseek.html)
+Token length: 61
+Summarized using gpt-3.5-turbo
+Append: [特朗普：DeepSeek的出现很好，不用再烧那么多钱了](https://m.thepaper.cn/detail/30052000)
+Token length: 1458
+Summarized using gpt-3.5-turbo
+Append: [韩国棋院就LG杯决赛风波道歉：将与中日棋院讨论统一规则](https://m.thepaper.cn/detail/30051986)
+Token length: 1231
+Summarized using gpt-3.5-turbo
+Append: [美股投资者反馈...超出想象的悲观](https://wallstreetcn.com/articles/3740155)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [华尔街见闻早餐FM-Radio | 2025年1月28日](https://wallstreetcn.com/articles/3740145)
+Token length: 78
+Summarized using gpt-3.5-turbo
+Append: [2025新闻日历｜澎湃早晚报合辑（一月）](https://m.thepaper.cn/detail/29933695)
+append_entries: 14
+Finish: 2025-01-28 10:12:12.070282
