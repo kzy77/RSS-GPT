@@ -1,39 +1,33 @@
 ------------------------------------------------------
-Started: 2025-01-29 04:13:28.240772
-Existing_entries: 204
+Started: 2025-01-29 06:15:38.060337
+Existing_entries: 215
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1991
+Token length: 175
 Summarized using gpt-3.5-turbo
-Append: [特斯拉和宝马起诉欧盟，反对对自中国进口的电动汽车加征关税](https://www.yicai.com/news/102458484.html)
-Token length: 477
+Append: [US solar group seeks major energy storage expansion](https://www.reuters.com/business/energy/us-solar-group-seeks-major-energy-storage-expansion-2025-01-29/)
+Token length: 175
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek 多模态大模型Janus-Pro-7B，本地部署教程！支持图像识别和图像生成](https://www.freedidi.com/18354.html)
-Token length: 284
+Append: [The Citizen Scientists of Fukushima](https://www.nytimes.com/2025/01/29/world/asia/citizen-scientists-japan-fukushima.html)
+Token length: 106
 Summarized using gpt-3.5-turbo
-Append: [鼓励主动辞职 美国将为联邦政府辞职雇员补偿8个月薪酬](https://www.yicai.com/news/102458485.html)
-Token length: 79
+Append: [American Children’s Reading Skills Reach New Lows](https://www.nytimes.com/2025/01/29/us/reading-skills-naep.html)
+Token length: 206
 Summarized using gpt-3.5-turbo
-Append: [Lunar New Year 2025 Photos: See Year of the Snake Celebrations Across Asia](https://www.nytimes.com/2025/01/28/world/asia/lunar-new-year-photos.html)
-Token length: 190
+Append: [Pentagon Removes General Milley’s Security Detail and Orders Review of His Record](https://www.nytimes.com/2025/01/28/us/politics/trump-pentagon-milley-security.html)
+Token length: 1679
 Summarized using gpt-3.5-turbo
-Append: [Elon Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts](https://www.nytimes.com/2025/01/28/science/musk-spacex-trump-nasa.html)
-Token length: 856
+Append: [中国不只有DeepSeek，阿里除夕夜抛出重磅新模型，是时候整体重估中国AI资产了吗？](https://wallstreetcn.com/articles/3740181)
+Token length: 174
 Summarized using gpt-3.5-turbo
-Append: [最高增加4000亿，31省份2023年GDP全部调增](https://www.yicai.com/news/102457752.html)
-Token length: 2329
+Append: [Trump Officials Revoke Biden’s Extension of Protections for Venezuelans](https://www.nytimes.com/2025/01/28/us/politics/trump-tps-venezuelan-immigrants.html)
+Token length: 217
 Summarized using gpt-3.5-turbo
-Append: [管涛：债务置换与楼市回暖助力经济明显回升 | 蛇年经济展望](https://www.yicai.com/news/102458470.html)
-Token length: 2316
+Append: [东部战区发布新春献礼视频《以武止戈》，战区官兵坚守战位](https://m.thepaper.cn/detail/30056919)
+Token length: 1768
 Summarized using gpt-3.5-turbo
-Append: [当麦克风成为权力：“乔·罗根”们如何用播客重塑美国政治话语｜全球人物](https://www.yicai.com/news/102458448.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [刘擎严飞聊乡愁：因为离开，才会有故乡丨新春书摘](https://www.yicai.com/news/102457376.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [郭玉洁：像阿瑟·米勒一样切开时代的心灵｜年度阅读](https://www.yicai.com/news/102457416.html)
-Token length: 131
+Append: [中国的春晚，世界的春节](https://m.thepaper.cn/detail/30054031)
+Token length: 2204
 Summarized using gpt-3.5-turbo
-Append: [Bourbon, a Hog Farm and a Nun’s Van: Man Charged in Bizarre Murder Plot](https://www.nytimes.com/2025/01/28/nyregion/murder-hire-hit-man-new-york.html)
-append_entries: 11
-Finish: 2025-01-29 04:13:55.140310
+Append: [第一个上春晚的外卖诗人，为春节写下了这些诗](https://m.thepaper.cn/detail/30054241)
+append_entries: 9
+Finish: 2025-01-29 06:15:54.560423
