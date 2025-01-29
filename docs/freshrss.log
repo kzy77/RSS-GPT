@@ -1,60 +1,39 @@
 ------------------------------------------------------
-Started: 2025-01-29 02:38:52.217360
-Existing_entries: 186
+Started: 2025-01-29 04:13:28.240772
+Existing_entries: 204
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 119
+Token length: 1991
 Summarized using gpt-3.5-turbo
-Append: [Trump Signs Order Restricting Gender-Affirming Treatments for Minors](https://www.nytimes.com/2025/01/28/us/politics/trump-trans-gender-affirming-care.html)
-Token length: 214
+Append: [特斯拉和宝马起诉欧盟，反对对自中国进口的电动汽车加征关税](https://www.yicai.com/news/102458484.html)
+Token length: 477
 Summarized using gpt-3.5-turbo
-Append: [F-35 fighter jet crashes in Alaska, pilot safe, AP reports](https://www.reuters.com/world/us/f-35-fighter-jet-crashes-alaska-pilot-safe-ap-reports-2025-01-29/)
-Token length: 117
+Append: [DeepSeek 多模态大模型Janus-Pro-7B，本地部署教程！支持图像识别和图像生成](https://www.freedidi.com/18354.html)
+Token length: 284
 Summarized using gpt-3.5-turbo
-Append: [Typhoon Yagi Scrambles Vietnam’s Lunar New Year Tradition](https://www.nytimes.com/2025/01/28/world/asia/lunar-new-year-vietnam-kumquats.html)
-Token length: 144
+Append: [鼓励主动辞职 美国将为联邦政府辞职雇员补偿8个月薪酬](https://www.yicai.com/news/102458485.html)
+Token length: 79
 Summarized using gpt-3.5-turbo
-Append: [Caroline Kennedy’s Video Exposes the Fight Over a Fading Family Legacy](https://www.nytimes.com/2025/01/28/us/politics/caroline-robert-kennedy-trump.html)
-Token length: 164
+Append: [Lunar New Year 2025 Photos: See Year of the Snake Celebrations Across Asia](https://www.nytimes.com/2025/01/28/world/asia/lunar-new-year-photos.html)
+Token length: 190
 Summarized using gpt-3.5-turbo
-Append: [Stampede at India’s Maha Kumbh Mela Hindu Festival Leaves Pilgrims Hurt](https://www.nytimes.com/2025/01/28/world/asia/india-stampede-maha-kumbh-festival.html)
-Token length: 200
+Append: [Elon Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts](https://www.nytimes.com/2025/01/28/science/musk-spacex-trump-nasa.html)
+Token length: 856
 Summarized using gpt-3.5-turbo
-Append: [全国铁路今天预计发送旅客550万人次](https://www.yicai.com/news/102458462.html)
-Token length: 231
+Append: [最高增加4000亿，31省份2023年GDP全部调增](https://www.yicai.com/news/102457752.html)
+Token length: 2329
 Summarized using gpt-3.5-turbo
-Append: [ICE to use U.S. military base in Colorado to detain migrants](https://www.reuters.com/world/us/ice-use-us-military-base-colorado-detain-migrants-2025-01-29/)
-Token length: 117
+Append: [管涛：债务置换与楼市回暖助力经济明显回升 | 蛇年经济展望](https://www.yicai.com/news/102458470.html)
+Token length: 2316
 Summarized using gpt-3.5-turbo
-Append: [Kenichiro Yoshida Will Step Down as C.E.O. of Sony](https://www.nytimes.com/2025/01/28/business/sony-ceo-kenichiro-yoshida.html)
-Token length: 234
-Summarized using gpt-3.5-turbo
-Append: [US moves to repeal Biden administration vehicle fuel economy standards](https://www.reuters.com/world/us/us-moves-repeal-biden-administration-vehicle-fuel-economy-standards-2025-01-29/)
-Token length: 166
-Summarized using gpt-3.5-turbo
-Append: [State Department Permits Distribution of H.I.V. Medications to Resume — for Now](https://www.nytimes.com/2025/01/28/health/trump-pepfar-freeze.html)
-Token length: 191
-Summarized using gpt-3.5-turbo
-Append: [Democrats Find a Voice in Opposition to Trump’s Funding Halt](https://www.nytimes.com/2025/01/28/us/politics/democrats-trump-funding-freeze.html)
-Token length: 155
-Summarized using gpt-3.5-turbo
-Append: [Trump’s Picks to Replace Gaetz and Waltz in the House Win Florida Primaries](https://www.nytimes.com/2025/01/28/us/politics/gaetz-waltz-florida-special-primaries.html)
-Token length: 2344
-Summarized using gpt-3.5-turbo
-Append: [英伟达+9%...“Jevons悖论”的大反击](https://wallstreetcn.com/articles/3740178)
+Append: [当麦克风成为权力：“乔·罗根”们如何用播客重塑美国政治话语｜全球人物](https://www.yicai.com/news/102458448.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [中国出海2.0｜锂电池巨头在前、国产设备商在后，“内卷”下的新业务增长点](https://m.thepaper.cn/detail/30043706)
+Append: [刘擎严飞聊乡愁：因为离开，才会有故乡丨新春书摘](https://www.yicai.com/news/102457376.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [华尔街见闻早餐FM-Radio | 2025年1月29日](https://wallstreetcn.com/articles/3740171)
-Token length: 874
+Append: [郭玉洁：像阿瑟·米勒一样切开时代的心灵｜年度阅读](https://www.yicai.com/news/102457416.html)
+Token length: 131
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek的长期受益者：苹果、小米们？](https://wallstreetcn.com/articles/3740164)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [疗愈经济崛起，跑出八大创新业态](https://www.36kr.com/p/3140369231871495)
-Token length: 2570
-Summarized using gpt-3.5-turbo
-Append: [钱多事少离家近，不断“向下就业”的内马尔才是人生真赢家？](https://m.thepaper.cn/detail/30052979)
-append_entries: 18
-Finish: 2025-01-29 02:39:31.527648
+Append: [Bourbon, a Hog Farm and a Nun’s Van: Man Charged in Bizarre Murder Plot](https://www.nytimes.com/2025/01/28/nyregion/murder-hire-hit-man-new-york.html)
+append_entries: 11
+Finish: 2025-01-29 04:13:55.140310
