@@ -1,27 +1,51 @@
 ------------------------------------------------------
-Started: 2025-01-29 14:10:33.208965
-Existing_entries: 263
+Started: 2025-01-29 16:14:14.995195
+Existing_entries: 270
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 126
+Token length: 1560
 Summarized using gpt-3.5-turbo
-Append: [In Photos: The Aftermath of the Maha Kumbh Mela Stampede](https://www.nytimes.com/2025/01/29/world/asia/india-maha-kumbh-mela-stampede.html)
-Token length: 546
+Append: [标普纳指跌，欧股续创新高，英伟达跌5%，ASML发布业绩后欧股大涨11%](https://wallstreetcn.com/articles/3740191)
+Token length: 145
 Summarized using gpt-3.5-turbo
-Append: [ASML宣布2025年后不再按季度公布新增订单额](https://www.yicai.com/news/102458542.html)
-Token length: 1869
+Append: [Student Threatened With Expulsion Over Social Posts Gets $250,000 Settlement](https://www.nytimes.com/2025/01/29/us/student-expelled-instagram-tennessee.html)
+Token length: 186
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek被美国质疑“偷窃”，遭OpenAI微软调查，论文曝突破英伟达护城河](https://www.huxiu.com/article/3958099.html)
-Token length: 27
+Append: [PIMCO expects no disruption to LA muni bondholder payments after fires](https://www.reuters.com/world/us/pimco-expects-no-disruption-la-muni-bondholder-payments-after-fires-2025-01-29/)
+Token length: 240
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek 深夜放大招！视觉多模态 Janus-Pro-7B 正式开源，放心大胆文生图，附本地部署教程 | 零度解说](https://www.freedidi.com/18369.html)
-Token length: 190
+Append: [Trump administration to cancel student visas of all 'Hamas sympathizers', White House says](https://www.reuters.com/world/us/trump-administration-cancel-student-visas-all-hamas-sympathizers-white-house-2025-01-29/)
+Token length: 245
 Summarized using gpt-3.5-turbo
-Append: [U.K. Government Backs Heathrow Expansion in Push for Faster Growth](https://www.nytimes.com/2025/01/29/business/uk-economy-growth-rachel-reeves.html)
-Token length: 136
+Append: [Trump attorney general nominee Pam Bondi clears Senate panel](https://www.reuters.com/world/us/trump-attorney-general-nominee-pam-bondi-clears-senate-panel-2025-01-29/)
+Token length: 254
 Summarized using gpt-3.5-turbo
-Append: [Amid the Chaos, Trump Has a Simple Message: He’s in Charge](https://www.nytimes.com/2025/01/29/us/politics/trump-federal-government.html)
-Token length: 190
+Append: [Trump order would halt school funding over divisive measures, White House says](https://www.reuters.com/world/us/trump-sign-orders-school-choice-antisemitism-white-house-says-2025-01-29/)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [做家教、当网红…连券商首席都去陪滑雪，金融圈疯狂搞副业有多卷？](https://www.36kr.com/p/3141879017413376)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [生死教育｜罗冀兰：临终关怀是对人的最大尊重（三）](https://m.thepaper.cn/detail/30034503)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [生死教育｜罗冀兰：临终关怀是对人的最大尊重（二）](https://m.thepaper.cn/detail/30034458)
+Token length: 162
 Summarized using gpt-3.5-turbo
-Append: [Powerless, Democrats Debate Just How Deep in the Wilderness They Are](https://www.nytimes.com/2025/01/29/us/politics/democratic-party-rebuild.html)
-append_entries: 7
-Finish: 2025-01-29 14:10:48.674644
+Append: [Trump’s Middle East Envoy Visits Israel in Show of Support for Gaza Cease-Fire](https://www.nytimes.com/2025/01/29/world/middleeast/israel-gaza-witkoff-visit.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [互联网时代的名人谣言大起底](https://www.huxiu.com/article/3958503.html)
+Token length: 223
+Summarized using gpt-3.5-turbo
+Append: [White House will defend Trump's funding freeze in court](https://www.reuters.com/legal/white-house-set-fight-court-after-judge-pauses-trumps-funding-freeze-2025-01-29/)
+Token length: 228
+Summarized using gpt-3.5-turbo
+Append: [Coinbase adds Trump campaign manager, ex-senator to advisory council](https://www.reuters.com/world/us/trump-campaign-manager-ex-senator-join-coinbase-advisory-council-2025-01-29/)
+Token length: 234
+Summarized using gpt-3.5-turbo
+Append: [Trump's administration aims for 'greater transparency' in drug price negotiations](https://www.reuters.com/business/healthcare-pharmaceuticals/us-govt-looks-bring-greater-transparency-drug-price-negotiation-program-2025-01-29/)
+Token length: 1573
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek遭受大量海外攻击，奇安信：面临前所未有安全考验，攻击将持续](https://m.thepaper.cn/detail/30058949)
+append_entries: 15
+Finish: 2025-01-29 16:14:47.679567
