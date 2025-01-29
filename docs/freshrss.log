@@ -1,48 +1,63 @@
 ------------------------------------------------------
-Started: 2025-01-29 10:11:51.051113
-Existing_entries: 230
+Started: 2025-01-29 12:20:46.564423
+Existing_entries: 244
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [我们用DeepSeek分析迅雷5亿收购虎扑，结果……](https://www.36kr.com/p/3142052344404742)
-Token length: 190
+Token length: 110
 Summarized using gpt-3.5-turbo
-Append: [Elon Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts](https://www.nytimes.com/2025/01/28/science/musk-spacex-trump-nasa-astronauts.html)
-Token length: 2395
+Append: [Citizenship by Birthright? By Bloodline? Migration Is Complicating Both.](https://www.nytimes.com/2025/01/29/world/europe/citizenship-rules-debate.html)
+Token length: 439
 Summarized using gpt-3.5-turbo
-Append: [帕累托原则：重新掌控你的时间](https://www.36kr.com/p/3128282510907652)
-Token length: 230
+Append: [How transgender troops prepared to fight Trump's new policy](https://www.reuters.com/world/us/how-transgender-troops-prepared-fight-trumps-new-policy-2025-01-29/)
+Token length: 252
 Summarized using gpt-3.5-turbo
-Append: [塞尔维亚总理武切维奇宣布辞职](https://m.thepaper.cn/detail/30053493)
-Token length: 882
+Append: [Bob Menendez to be sentenced in gold bar bribery case that ended US Senate career](https://www.reuters.com/legal/bob-menendez-be-sentenced-gold-bar-bribery-case-that-ended-us-senate-career-2025-01-29/)
+Token length: 193
 Summarized using gpt-3.5-turbo
-Append: [司美格鲁肽肾病适应症获FDA批准，中国申请已受理](https://www.yicai.com/news/102458504.html)
+Append: [Trump health pick Kennedy faces US Senate scrutiny over vaccine, abortion views](https://www.reuters.com/world/us/trump-health-pick-kennedy-faces-us-senate-scrutiny-over-vaccine-abortion-views-2025-01-29/)
+Token length: 191
+Summarized using gpt-3.5-turbo
+Append: [Honda to recall over 290,000 US vehicles on engine issue, NHTSA says](https://www.reuters.com/business/autos-transportation/honda-recall-more-than-290000-vehicles-us-over-engine-stall-concerns-nhtsa-says-2025-01-29/)
+Token length: 250
+Summarized using gpt-3.5-turbo
+Append: [Fed likely to keep rates steady as it awaits more data, clarity on Trump policies](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
+Token length: 28
+Summarized using gpt-3.5-turbo
+Append: [Trump Administration Offers Federal Workers Payouts, and Kennedy’s Senate Test](https://www.nytimes.com/2025/01/29/podcasts/the-headlines/federal-payouts-kennedy-senate-reading-mona-lisa.html)
 Token length: 140
 Summarized using gpt-3.5-turbo
-Append: [涉食品添加剂、食用油运输等，2月起这些新规将施行](https://www.yicai.com/news/102458510.html)
-Token length: 1705
+Append: [Russia Seizes Another Town in Ukraine in Push to Take All of Donetsk](https://www.nytimes.com/2025/01/29/world/europe/russia-ukraine-war-donetsk-velyka-novosilka.html)
+Token length: 136
 Summarized using gpt-3.5-turbo
-Append: [“DeepSeek甚至绕过了CUDA”，论文细节再引热议，工程师灵魂提问：英伟达护城河还在吗？](https://wallstreetcn.com/articles/3740185)
-Token length: 1097
+Append: [Amid the Chaos, Trump Has a Simple Message: He’s in Charge](https://www.nytimes.com/2025/01/29/us/politics/amid-the-chaos-trump-has-a-simple-message-hes-in-charge.html)
+Token length: 105
 Summarized using gpt-3.5-turbo
-Append: [英伟达大幅反弹，周一的“DeepSeek”冲击结束了吗？](https://wallstreetcn.com/articles/3740184)
-Token length: 86
+Append: [Buttigieg Says Maybe, Whitmer Says No Way to Michigan Senate Race](https://www.nytimes.com/2025/01/29/us/politics/michigan-senate-gretchen-whitmer.html)
+Token length: 176
 Summarized using gpt-3.5-turbo
-Append: [玉渊谭天披露：DeepSeek遭暴力破解，攻击IP均来自美国](https://m.thepaper.cn/detail/30057554)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [缺席春晚13年，赵本山去哪儿了？](https://www.36kr.com/p/3143087498828295)
-Token length: 1581
+Append: [After DeepSeek, Venture Capital Investors Face Questions About Their A.I. Bets](https://www.nytimes.com/2025/01/29/technology/deepseek-ai-startups-venture-capital.html)
+Token length: 147
 Summarized using gpt-3.5-turbo
-Append: [拯救 i 人，试试 AI 拜年？](https://www.36kr.com/p/3142228081990148)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [DeepSeek“小力出奇迹”](https://www.36kr.com/p/3142363392612869)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [百余种非遗现身，央视蛇年春晚创下多个收视纪录](https://m.thepaper.cn/detail/30056920)
-Token length: 1017
+Append: [DeepSeek Shows Meta’s A.I. Strategy Is Working](https://www.nytimes.com/2025/01/29/technology/meta-deepseek-ai-open-source.html)
+Token length: 162
 Summarized using gpt-3.5-turbo
-Append: [MateChat V1.1.0版本更新啦~支持按需引入&支持markdown卡片](https://juejin.cn/post/7464189517891485707)
-append_entries: 14
-Finish: 2025-01-29 10:12:10.805647
+Append: [RFK Jr., Trump’s Pick for Health Secretary, Faces First Senate Confirmation Hearing](https://www.nytimes.com/2025/01/29/us/politics/rfk-jr-confirmation-hearing.html)
+Token length: 103
+Summarized using gpt-3.5-turbo
+Append: [Trump Takes on Whistle-Blowers](https://www.nytimes.com/2025/01/29/opinion/trump-congress-inspector-general-whistleblower.html)
+Token length: 126
+Summarized using gpt-3.5-turbo
+Append: [What to Watch at the Federal Reserve’s First Meeting of 2025](https://www.nytimes.com/2025/01/29/business/economy/federal-reserve-what-to-watch.html)
+Token length: 161
+Summarized using gpt-3.5-turbo
+Append: [He Survived 15 Months of War in Gaza, Then Died as Cease-Fire Neared](https://www.nytimes.com/2025/01/29/world/middleeast/gaza-cease-fire-deaths.html)
+Token length: 77
+Summarized using gpt-3.5-turbo
+Append: [The Bond Market Is Flashing a Warning about Trump Tariff and Spending Plans](https://www.nytimes.com/2025/01/29/opinion/trump-inflation-bonds-debt-yield.html)
+Token length: 202
+Summarized using gpt-3.5-turbo
+Append: [Leaving the W.H.O. Could Hurt Americans on a Range of Health Matters](https://www.nytimes.com/2025/01/29/health/who-us-withdrawal.html)
+Token length: 200
+Summarized using gpt-3.5-turbo
+Append: [When ‘Saturday Night Live’ Laughs at Itself](https://www.nytimes.com/2025/01/29/arts/television/breaking-saturday-night-live.html)
+append_entries: 19
+Finish: 2025-01-29 12:21:29.224883
