@@ -1,24 +1,48 @@
 ------------------------------------------------------
-Started: 2025-01-29 08:14:34.856724
-Existing_entries: 224
+Started: 2025-01-29 10:11:51.051113
+Existing_entries: 230
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 210
-Summarized using gpt-3.5-turbo
-Append: [Trump, Musk suggest sped-up return of NASA astronauts, but details scarce](https://www.reuters.com/technology/space/trump-musk-suggest-sped-up-return-nasa-astronauts-details-scarce-2025-01-29/)
-Token length: 1442
-Summarized using gpt-3.5-turbo
-Append: [云南连续曝光公职人员涉酒驾、赌博等问题：已涉10余名干部](https://m.thepaper.cn/detail/30057676)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [淘宝抖音美团组团抄作业，都想挤进微信关系圈](https://www.36kr.com/p/3142320627973892)
-Token length: 3682
+Append: [我们用DeepSeek分析迅雷5亿收购虎扑，结果……](https://www.36kr.com/p/3142052344404742)
+Token length: 190
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek砍掉英伟达台积电5万亿市值！登五大外媒头版，OpenAI急得发预告](https://www.36kr.com/p/3141910591789577)
+Append: [Elon Musk Suggests SpaceX Will Accelerate Return of NASA Astronauts](https://www.nytimes.com/2025/01/28/science/musk-spacex-trump-nasa-astronauts.html)
+Token length: 2395
+Summarized using gpt-3.5-turbo
+Append: [帕累托原则：重新掌控你的时间](https://www.36kr.com/p/3128282510907652)
+Token length: 230
+Summarized using gpt-3.5-turbo
+Append: [塞尔维亚总理武切维奇宣布辞职](https://m.thepaper.cn/detail/30053493)
+Token length: 882
+Summarized using gpt-3.5-turbo
+Append: [司美格鲁肽肾病适应症获FDA批准，中国申请已受理](https://www.yicai.com/news/102458504.html)
+Token length: 140
+Summarized using gpt-3.5-turbo
+Append: [涉食品添加剂、食用油运输等，2月起这些新规将施行](https://www.yicai.com/news/102458510.html)
+Token length: 1705
+Summarized using gpt-3.5-turbo
+Append: [“DeepSeek甚至绕过了CUDA”，论文细节再引热议，工程师灵魂提问：英伟达护城河还在吗？](https://wallstreetcn.com/articles/3740185)
+Token length: 1097
+Summarized using gpt-3.5-turbo
+Append: [英伟达大幅反弹，周一的“DeepSeek”冲击结束了吗？](https://wallstreetcn.com/articles/3740184)
+Token length: 86
+Summarized using gpt-3.5-turbo
+Append: [玉渊谭天披露：DeepSeek遭暴力破解，攻击IP均来自美国](https://m.thepaper.cn/detail/30057554)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [对话周鸿祎、李大海：DeepSeek能否改写AI战局？](https://m.thepaper.cn/detail/30054106)
-Token length: 154
+Append: [缺席春晚13年，赵本山去哪儿了？](https://www.36kr.com/p/3143087498828295)
+Token length: 1581
 Summarized using gpt-3.5-turbo
-Append: [【译】我们最喜欢的2024年的 Visual Studio 新功能](https://www.cnblogs.com/MeteorSeed/p/18687409)
-append_entries: 6
-Finish: 2025-01-29 08:14:43.594551
+Append: [拯救 i 人，试试 AI 拜年？](https://www.36kr.com/p/3142228081990148)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [DeepSeek“小力出奇迹”](https://www.36kr.com/p/3142363392612869)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [百余种非遗现身，央视蛇年春晚创下多个收视纪录](https://m.thepaper.cn/detail/30056920)
+Token length: 1017
+Summarized using gpt-3.5-turbo
+Append: [MateChat V1.1.0版本更新啦~支持按需引入&支持markdown卡片](https://juejin.cn/post/7464189517891485707)
+append_entries: 14
+Finish: 2025-01-29 10:12:10.805647
