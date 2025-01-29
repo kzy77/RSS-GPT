@@ -1,36 +1,60 @@
 ------------------------------------------------------
-Started: 2025-01-29 00:52:51.171996
-Existing_entries: 176
+Started: 2025-01-29 02:38:52.217360
+Existing_entries: 186
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 176
+Token length: 119
 Summarized using gpt-3.5-turbo
-Append: [Trump still expects to impose Feb 1 tariffs on Canada and Mexico, White House says](https://www.reuters.com/world/americas/trump-still-expects-impose-feb-1-tariffs-canada-mexico-white-house-says-2025-01-28/)
-Token length: 110
+Append: [Trump Signs Order Restricting Gender-Affirming Treatments for Minors](https://www.nytimes.com/2025/01/28/us/politics/trump-trans-gender-affirming-care.html)
+Token length: 214
 Summarized using gpt-3.5-turbo
-Append: [New CVS App Lets Customers Unlock Cabinets to Pick Up Products](https://www.nytimes.com/2025/01/28/business/cvs-app-pharmacy-locked-cabinets.html)
-Token length: 170
+Append: [F-35 fighter jet crashes in Alaska, pilot safe, AP reports](https://www.reuters.com/world/us/f-35-fighter-jet-crashes-alaska-pilot-safe-ap-reports-2025-01-29/)
+Token length: 117
 Summarized using gpt-3.5-turbo
-Append: [Bannon Accuses Manhattan D.A. of Being ‘Vindictive’ in Fraud Case](https://www.nytimes.com/2025/01/28/nyregion/bannon-fraud-filing-politics.html)
-Token length: 241
+Append: [Typhoon Yagi Scrambles Vietnam’s Lunar New Year Tradition](https://www.nytimes.com/2025/01/28/world/asia/lunar-new-year-vietnam-kumquats.html)
+Token length: 144
 Summarized using gpt-3.5-turbo
-Append: [White House press secretary channels Trump at first briefing](https://www.reuters.com/world/us/white-house-press-secretary-channels-trump-first-briefing-2025-01-28/)
-Token length: 154
+Append: [Caroline Kennedy’s Video Exposes the Fight Over a Fading Family Legacy](https://www.nytimes.com/2025/01/28/us/politics/caroline-robert-kennedy-trump.html)
+Token length: 164
 Summarized using gpt-3.5-turbo
-Append: [How the Trump Administration Is Scrutinizing Federal Spending](https://www.nytimes.com/2025/01/28/us/politics/trump-spending-pause.html)
-Token length: 189
+Append: [Stampede at India’s Maha Kumbh Mela Hindu Festival Leaves Pilgrims Hurt](https://www.nytimes.com/2025/01/28/world/asia/india-stampede-maha-kumbh-festival.html)
+Token length: 200
 Summarized using gpt-3.5-turbo
-Append: [How DeepSeek Changed the A.I. Game](https://www.nytimes.com/video/technology/100000009951972/how-deepseek-changed-the-ai-game.html)
-Token length: 465
+Append: [全国铁路今天预计发送旅客550万人次](https://www.yicai.com/news/102458462.html)
+Token length: 231
 Summarized using gpt-3.5-turbo
-Append: [Pentagon to pull Milley's security clearance, Fox News reports](https://www.reuters.com/world/us/pentagon-pull-milleys-security-clearance-fox-reports-2025-01-28/)
-Token length: 168
+Append: [ICE to use U.S. military base in Colorado to detain migrants](https://www.reuters.com/world/us/ice-use-us-military-base-colorado-detain-migrants-2025-01-29/)
+Token length: 117
 Summarized using gpt-3.5-turbo
-Append: [Trump orders end to federal support for gender affirming care for minors](https://www.reuters.com/world/us/trump-orders-end-federal-support-gender-affirming-care-minors-2025-01-28/)
-Token length: 237
+Append: [Kenichiro Yoshida Will Step Down as C.E.O. of Sony](https://www.nytimes.com/2025/01/28/business/sony-ceo-kenichiro-yoshida.html)
+Token length: 234
 Summarized using gpt-3.5-turbo
-Append: [Trump hobbles US anti-discrimination agency by firing Democrats](https://www.reuters.com/world/us/trump-hobbles-us-anti-discrimination-agency-by-firing-democrats-2025-01-28/)
-Token length: 253
+Append: [US moves to repeal Biden administration vehicle fuel economy standards](https://www.reuters.com/world/us/us-moves-repeal-biden-administration-vehicle-fuel-economy-standards-2025-01-29/)
+Token length: 166
 Summarized using gpt-3.5-turbo
-Append: [Trump to offer buyouts to federal workers who don't want to return to office, Axios reports](https://www.reuters.com/world/us/trump-offer-buyouts-federal-workers-who-dont-want-return-office-axios-reports-2025-01-28/)
-append_entries: 10
-Finish: 2025-01-29 00:53:10.268706
+Append: [State Department Permits Distribution of H.I.V. Medications to Resume — for Now](https://www.nytimes.com/2025/01/28/health/trump-pepfar-freeze.html)
+Token length: 191
+Summarized using gpt-3.5-turbo
+Append: [Democrats Find a Voice in Opposition to Trump’s Funding Halt](https://www.nytimes.com/2025/01/28/us/politics/democrats-trump-funding-freeze.html)
+Token length: 155
+Summarized using gpt-3.5-turbo
+Append: [Trump’s Picks to Replace Gaetz and Waltz in the House Win Florida Primaries](https://www.nytimes.com/2025/01/28/us/politics/gaetz-waltz-florida-special-primaries.html)
+Token length: 2344
+Summarized using gpt-3.5-turbo
+Append: [英伟达+9%...“Jevons悖论”的大反击](https://wallstreetcn.com/articles/3740178)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国出海2.0｜锂电池巨头在前、国产设备商在后，“内卷”下的新业务增长点](https://m.thepaper.cn/detail/30043706)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [华尔街见闻早餐FM-Radio | 2025年1月29日](https://wallstreetcn.com/articles/3740171)
+Token length: 874
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek的长期受益者：苹果、小米们？](https://wallstreetcn.com/articles/3740164)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [疗愈经济崛起，跑出八大创新业态](https://www.36kr.com/p/3140369231871495)
+Token length: 2570
+Summarized using gpt-3.5-turbo
+Append: [钱多事少离家近，不断“向下就业”的内马尔才是人生真赢家？](https://m.thepaper.cn/detail/30052979)
+append_entries: 18
+Finish: 2025-01-29 02:39:31.527648
