@@ -1,24 +1,60 @@
 ------------------------------------------------------
-Started: 2025-01-30 00:51:57.583935
-Existing_entries: 328
+Started: 2025-01-30 02:37:59.765429
+Existing_entries: 334
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 292
+Token length: 249
 Summarized using gpt-3.5-turbo
-Append: [Fed guided by economic goals and the law, not politics, says Powell](https://www.reuters.com/markets/us/fed-guided-by-economic-goals-law-not-politics-says-powell-2025-01-29/)
-Token length: 160
+Append: [Aid groups get blanket order to pause U.S.-funded programs as payments dry up](https://www.reuters.com/world/us/aid-groups-get-blanket-order-pause-us-funded-programs-payments-dry-up-2025-01-30/)
+Token length: 140
 Summarized using gpt-3.5-turbo
-Append: [Postal Worker Stole Sports Memorabilia Worth $100,000, U.S. Says](https://www.nytimes.com/2025/01/29/us/usps-employee-guilty-sports-memorabilia-theft.html)
-Token length: 182
+Append: [Resignation Push Deepens Worries About Effect on Government Services](https://www.nytimes.com/2025/01/29/us/politics/federal-workforce-resignations.html)
+Token length: 2151
 Summarized using gpt-3.5-turbo
-Append: [Meta Agrees to Pay Trump $25 Million to Settle His Lawsuit](https://www.nytimes.com/2025/01/29/technology/meta-trump-lawsuit-settlement.html)
-Token length: 189
+Append: [程实：全球经济“蛇”级而上](https://www.yicai.com/news/102458593.html)
+Token length: 265
 Summarized using gpt-3.5-turbo
-Append: [Gilgo Beach Killing Suspect Moves to Have Key DNA Evidence Thrown Out](https://www.nytimes.com/2025/01/29/nyregion/gilgo-beach-murders-dna-evidence.html)
-Token length: 195
+Append: [Exposed utility wires may have contributed to LA's Eaton Fire, law firm says](https://www.reuters.com/world/us/exposed-utility-wires-may-have-contributed-las-eaton-fire-law-firm-says-2025-01-30/)
+Token length: 1750
 Summarized using gpt-3.5-turbo
-Append: [Honda boosting investment in three Ohio auto plants by $300 million](https://www.reuters.com/business/autos-transportation/honda-boosting-investment-three-ohio-auto-plants-by-300-million-2025-01-29/)
-Token length: 134
+Append: [日本最大经济团体新掌门人是他](https://www.yicai.com/news/102458577.html)
+Token length: 215
 Summarized using gpt-3.5-turbo
-Append: [Microsoft Continues A.I. Spending Growth as Profit Grows 10%](https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html)
-append_entries: 6
-Finish: 2025-01-30 00:52:09.421408
+Append: [Meta to pay $25 million to settle Trump's 2021 lawsuit over suspended accounts](https://www.reuters.com/legal/meta-pay-25-million-settle-trumps-2021-lawsuit-over-suspended-accounts-2025-01-30/)
+Token length: 168
+Summarized using gpt-3.5-turbo
+Append: [15-Year-Old Is Killed in Shooting at Brooklyn Apartment Complex](https://www.nytimes.com/2025/01/29/nyregion/nyc-shooting-15-year-old-killed.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [蒋凡上春晚](https://www.36kr.com/p/3143754704994052)
+Token length: 135
+Summarized using gpt-3.5-turbo
+Append: [Senate Confirms Lee Zeldin to Head E.P.A.](https://www.nytimes.com/2025/01/29/climate/lee-zeldin-epa-confirmation.html)
+Token length: 3086
+Summarized using gpt-3.5-turbo
+Append: [鲍威尔：不急着调整政策，声明通胀表述并非发出信号，没跟特朗普联系过](https://wallstreetcn.com/articles/3740200)
+Token length: 110
+Summarized using gpt-3.5-turbo
+Append: [A Tropical, Chewy Lunar New Year Dessert](https://www.nytimes.com/2025/01/29/t-magazine/tang-yuan-dessert-recipe.html)
+Token length: 224
+Summarized using gpt-3.5-turbo
+Append: [超17亿！蛇年大年初一票房打破中国电影史单日票房历史纪录](https://m.thepaper.cn/detail/30059019)
+Token length: 1316
+Summarized using gpt-3.5-turbo
+Append: [“80后”清华硕士于会游履新丽水市委常委、莲都区委书记](https://m.thepaper.cn/detail/30058960)
+Token length: 3123
+Summarized using gpt-3.5-turbo
+Append: [两家大厂投了一家3D生成大模型公司｜WAVES](https://www.36kr.com/p/3123508311218182)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [两位科学家关于AI for science的开年演讲](https://www.36kr.com/p/3123514131781633)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻人的年夜饭，拼着吃](https://www.36kr.com/p/3143043651878405)
+Token length: 241
+Summarized using gpt-3.5-turbo
+Append: [Brazil, U.S. officials agree to discuss how deported migrants are treated](https://www.reuters.com/world/americas/brazil-us-officials-agree-discuss-how-deported-migrants-are-treated-2025-01-30/)
+Token length: 165
+Summarized using gpt-3.5-turbo
+Append: [5 Takeaways From R.F.K. Jr.’s First Confirmation Hearing](https://www.nytimes.com/2025/01/29/us/politics/rfk-jr-confirmation-hearing-takeaways.html)
+append_entries: 18
+Finish: 2025-01-30 02:38:40.322866
