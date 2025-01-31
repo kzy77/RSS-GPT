@@ -1,57 +1,42 @@
 ------------------------------------------------------
-Started: 2025-01-31 02:39:33.687752
-Existing_entries: 489
+Started: 2025-01-31 04:13:43.592752
+Existing_entries: 506
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 219
+Token length: 1721
 Summarized using gpt-3.5-turbo
-Append: [Congressional delegation to review Super Bowl security: report](https://www.reuters.com/sports/nfl/congressional-delegation-review-super-bowl-security-report-2025-01-31/)
-Token length: 151
+Append: [DeepSeek席卷美国，OpenAI坐不住了](https://www.yicai.com/news/102458901.html)
+Token length: 3168
 Summarized using gpt-3.5-turbo
-Append: [Takeaways From Day 2 of RFK Jr.’s Confirmation Hearings](https://www.nytimes.com/2025/01/30/us/politics/rfk-jr-confirmation-takeaways.html)
-Token length: 152
+Append: [刘擎严飞：现代人都是异乡客，但随时可以回家丨新春书摘](https://www.yicai.com/news/102458605.html)
+Token length: 168
 Summarized using gpt-3.5-turbo
-Append: [Rebecca Yarros’s ‘Onyx Storm’ Is the Fastest-Selling Adult Novel in 20 Years](https://www.nytimes.com/2025/01/30/books/rebecca-yarros-onyx-storm.html)
-Token length: 1828
+Append: [FireAid Concert Draws Huge Stars to Raise Money for Los Angeles](https://www.nytimes.com/2025/01/30/arts/music/fireaid-los-angeles-concert.html)
+Token length: 230
 Summarized using gpt-3.5-turbo
-Append: [苹果录得“历史最好”的季度业绩，大中华区成唯一收入下滑市场](https://www.yicai.com/news/102458844.html)
-Token length: 491
+Append: [Billie Eilish joins Green Day on stage at FireAid concerts](https://www.reuters.com/world/us/billie-eilish-joins-green-day-stage-fireaid-concerts-2025-01-31/)
+Token length: 160
 Summarized using gpt-3.5-turbo
-Append: [探寻沪上银发经济“新风口”：AI赋能康养 商场适老化 “银发族游”升温](https://www.yicai.com/video/102458858.html)
-Token length: 116
+Append: [North Korean Troops in Russia Taken off Front Lines](https://www.nytimes.com/2025/01/30/world/europe/north-korea-troops-ukraine-russia.html)
+Token length: 2321
 Summarized using gpt-3.5-turbo
-Append: [Paramount in Settlement Talks With Trump Over ‘60 Minutes’ Lawsuit](https://www.nytimes.com/2025/01/30/business/media/paramount-trump-cbs-news-settlement.html)
-Token length: 75
+Append: [连平：中国出口增长的韧劲在哪里 | 蛇年经济展望](https://www.yicai.com/news/102458877.html)
+Token length: 204
 Summarized using gpt-3.5-turbo
-Append: [男孩将鞭炮扔入化粪池引发沼气爆炸：多辆汽车受损，无人受伤](https://m.thepaper.cn/detail/30063410)
-Token length: 3433
-Summarized using gpt-3.5-turbo
-Append: [苹果重磅购物季营收创新高，iPhone收入意外逊色，在华销售暴雷，本季指引安抚市场 | 财报见闻](https://wallstreetcn.com/articles/3740231)
-Token length: 153
-Summarized using gpt-3.5-turbo
-Append: [Palestinians Gather in West Bank to Welcome Prisoners Released by Israel](https://www.nytimes.com/2025/01/30/world/middleeast/palestinians-gather-west-bank-welcome-prisoners.html)
-Token length: 1506
-Summarized using gpt-3.5-turbo
-Append: [特朗普又炮轰美联储，什么信号？“新美联储通讯社”：这次和八年前不同](https://wallstreetcn.com/articles/3740229)
+Append: [Taylor Swift unveiled as presenter at Sunday's Grammys](https://www.reuters.com/lifestyle/taylor-swift-unveiled-presenter-sundays-grammys-2025-01-31/)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [11年票房超78亿！“男主角”家喻户晓，春节档没它不完整？](https://www.36kr.com/p/3143821471898116)
-Token length: 1858
+Append: [《哪吒》逆袭，《射雕》降温：春节档背后的生死战](https://www.36kr.com/p/3144542038628866)
+Token length: 200
 Summarized using gpt-3.5-turbo
-Append: [春晚带火一大波同款，有爆品全网热卖上千万元](https://www.36kr.com/p/3143835920947712)
-Token length: 3352
+Append: [How a New Law Makes Deportations Easier](https://www.nytimes.com/video/us/politics/100000009961242/how-a-law-makes-deportations-easier.html)
+Token length: 1034
 Summarized using gpt-3.5-turbo
-Append: [原来，这些顶级大模型都是蒸馏的](https://juejin.cn/post/7464926870544089097)
-Token length: 3852
+Append: [DeepSeek重估中国AI资产？阿里领衔中概全线大涨，科技股ETF资金流入创10月来最高](https://wallstreetcn.com/articles/3740234)
+Token length: 3131
 Summarized using gpt-3.5-turbo
-Append: [【HuggingFace项目】：Open-R1 - DeepSeek-R1 大模型开源复现计划](https://juejin.cn/post/7464137929565224971)
-Token length: 152
+Append: [谁是春晚上的大赢家？](https://www.36kr.com/p/3144725655125768)
+Token length: 144
 Summarized using gpt-3.5-turbo
-Append: [Costco to raise hourly pay for most US store workers to over $30](https://www.reuters.com/business/retail-consumer/costco-raise-hourly-pay-most-us-store-workers-over-30-2025-01-31/)
-Token length: 153
-Summarized using gpt-3.5-turbo
-Append: [Immigrant Communities in Hiding: ‘People Think ICE Is Everywhere’](https://www.nytimes.com/2025/01/30/us/immigrant-communities-hiding-ice.html)
-Token length: 147
-Summarized using gpt-3.5-turbo
-Append: [Comatose and Washed Up, 1,000 Endangered Sea Turtles Are Rescued in Florida](https://www.nytimes.com/2025/01/30/us/florida-sea-turtle-rescues.html)
-append_entries: 17
-Finish: 2025-01-31 02:40:15.684429
+Append: [Doug Burgum Is Confirmed by Senate as Interior Secretary](https://www.nytimes.com/2025/01/30/climate/doug-burgum-interior-secretary.html)
+append_entries: 12
+Finish: 2025-01-31 04:16:09.430655
