@@ -1,21 +1,63 @@
 ------------------------------------------------------
-Started: 2025-01-31 14:10:18.017928
-Existing_entries: 567
+Started: 2025-01-31 16:13:25.355199
+Existing_entries: 572
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 146
+Token length: 108
 Summarized using gpt-3.5-turbo
-Append: [Norway Seizes Russian-Crewed Ship Suspected of Cutting an Undersea Cable](https://www.nytimes.com/2025/01/31/world/europe/norway-russia-ship-baltic-undersea-cable.html)
-Token length: 152
+Append: [The World Economy Awaits Trump’s First Round of Tariffs](https://www.nytimes.com/live/2025/01/30/us/president-trump-news/trump-tariffs-canada-mexico-china)
+Token length: 219
 Summarized using gpt-3.5-turbo
-Append: [Why There’s Nowhere to Hide From Trump’s Tariffs](https://www.nytimes.com/2025/01/31/business/dealbook/trumps-tariffs-colombia.html)
-Token length: 282
+Append: [LinkedIn lawsuit over use of customer data for AI models is dismissed](https://www.reuters.com/legal/linkedin-lawsuit-over-use-customer-data-ai-models-is-dismissed-2025-01-31/)
+Token length: 60
 Summarized using gpt-3.5-turbo
-Append: [Trump goes after New York migrants in publicity blitz, but arrests were routine](https://www.reuters.com/world/us/trump-goes-after-new-york-migrants-publicity-blitz-arrests-were-routine-2025-01-31/)
-Token length: 1
+Append: [Gaza’s Border Crossing at Rafah Reopens to Let Sick and Wounded Leave](https://www.nytimes.com/2025/01/31/world/middleeast/rafah-crossing-gaza-israel.html)
+Token length: 287
 Summarized using gpt-3.5-turbo
-Append: [Deepseek 爆火内幕！涉嫌抄袭 OpenAI？数据蒸馏、芯片禁售引发中美AI 之战！| 零度解说](https://www.freedidi.com/18374.html)
-Token length: 40
+Append: [Fed's Goolsbee says he likes inflation data, but cites policy uncertainties](https://www.reuters.com/markets/us/feds-goolsbee-says-he-likes-inflation-data-cites-policy-uncertainties-2025-01-31/)
+Token length: 154
 Summarized using gpt-3.5-turbo
-Append: [A Conflict in Congo](https://www.nytimes.com/2025/01/31/briefing/a-conflict-in-the-congo.html)
-append_entries: 5
-Finish: 2025-01-31 14:10:28.630298
+Append: [Trump Tariffs Could Hurt Oil Companies and Increase Gas Prices](https://www.nytimes.com/2025/01/31/business/energy-environment/trumps-tariffs-oil-gas-prices.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [DeepSeek冲击华尔街，基金经理连夜重估投资版图](https://www.yicai.com/news/102459056.html)
+Token length: 232
+Summarized using gpt-3.5-turbo
+Append: [FAA restricting helicopter flights near Reagan National after crash](https://www.reuters.com/world/us/faa-restricting-helicopter-flights-near-reagan-national-after-crash-2025-01-31/)
+Token length: 233
+Summarized using gpt-3.5-turbo
+Append: [FTX reaches settlement with ex-Clinton aide's investment firm](https://www.reuters.com/technology/ftx-reaches-settlement-with-ex-clinton-aides-investment-firm-2025-01-31/)
+Token length: 198
+Summarized using gpt-3.5-turbo
+Append: [New Group Aims to Help Justice Dept. Employees Alarmed by Trump](https://www.nytimes.com/2025/01/31/us/politics/trump-justice-department.html)
+Token length: 250
+Summarized using gpt-3.5-turbo
+Append: [Environmental workers race to clear toxic debris left by LA fires](https://www.reuters.com/world/us/environmental-workers-race-clear-toxic-debris-left-by-la-fires-2025-01-31/)
+Token length: 80
+Summarized using gpt-3.5-turbo
+Append: [Trump is Already Failing. That’s the Key to a Big Democratic Rebound.](https://www.nytimes.com/2025/01/31/opinion/trump-democratic-party-future.html)
+Token length: 1073
+Summarized using gpt-3.5-turbo
+Append: [扎克伯格在Meta内部会表态：DeepSeek不会冲击AI基建投资，全员准备“紧张的一年”](https://wallstreetcn.com/articles/3740247)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一文读懂苹果电话会：库克回应“中国市场、苹果智能、DeepSeek以及手机外形创新”](https://wallstreetcn.com/articles/3740244)
+Token length: 1088
+Summarized using gpt-3.5-turbo
+Append: [四只银行股连续获险资举牌，银行板块增量资金或持续流入](https://m.thepaper.cn/detail/30052933)
+Token length: 408
+Summarized using gpt-3.5-turbo
+Append: [解放军报：走访慰问要“走到”更要“问到”](https://m.thepaper.cn/detail/30064584)
+Token length: 154
+Summarized using gpt-3.5-turbo
+Append: [数据库服务器 SQL Server 版本升级公告](https://www.cnblogs.com/cmt/p/18692783)
+Token length: 1337
+Summarized using gpt-3.5-turbo
+Append: [百强房企1月业绩降幅收窄，市场止跌回稳态势延续](https://www.yicai.com/news/102459039.html)
+Token length: 168
+Summarized using gpt-3.5-turbo
+Append: [US labor costs rise moderately in fourth quarter](https://www.reuters.com/markets/us/us-labor-costs-rise-moderately-fourth-quarter-2025-01-31/)
+Token length: 582
+Summarized using gpt-3.5-turbo
+Append: [Traders bet Fed's next rate cut will wait until June](https://www.reuters.com/markets/us/traders-bet-feds-next-rate-cut-will-wait-until-june-2025-01-31/)
+append_entries: 19
+Finish: 2025-01-31 16:14:07.720293
