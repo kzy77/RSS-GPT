@@ -1,39 +1,27 @@
 ------------------------------------------------------
-Started: 2025-01-31 06:15:55.588256
-Existing_entries: 518
+Started: 2025-01-31 08:14:14.866991
+Existing_entries: 529
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 192
+Token length: 177
 Summarized using gpt-3.5-turbo
-Append: [Clues From D.C. Plane Crash Suggest Multiple Failures in Aviation Safety](https://www.nytimes.com/2025/01/31/business/dc-plane-helicopter-crash-cause.html)
-Token length: 178
+Append: [Investigators seek to salvage aircraft after deadly Washington crash](https://www.reuters.com/world/us/investigators-seek-salvage-aircraft-after-deadly-washington-crash-2025-01-31/)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [离开春晚12年，赵本山还好吗？](https://www.36kr.com/p/3144956882262789)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在县城创业13年，让家人过上了向往的生活｜小城创客](https://www.36kr.com/p/3145091743783686)
+Token length: 755
 Summarized using gpt-3.5-turbo
-Append: [Kremlin Chokes YouTube Service, but Russians Find Ways Around It](https://www.nytimes.com/2025/01/31/world/europe/russia-youtube.html)
-Token length: 140
+Append: [特朗普叫嚣关税2月1日落地！油价走高，黄金创历史新高](https://wallstreetcn.com/articles/3740237)
+Token length: 77
 Summarized using gpt-3.5-turbo
-Append: [Tesla and Chinese Carmakers Could Reap Billions From EU Emissions Rules](https://www.nytimes.com/2025/01/31/business/tesla-chinese-carmakers-europe-emissions.html)
-Token length: 2488
+Append: [湖南湘潭一家族180多人连续8年自办“春晚”](https://m.thepaper.cn/detail/30063465)
+Token length: 154
 Summarized using gpt-3.5-turbo
-Append: [经历了改名和变装的沙拉，能否为叙利亚翻开新篇？](https://www.yicai.com/news/102458915.html)
-Token length: 159
+Append: [互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（三）：用.NET IoT库控制舵机并多方法播放表情](https://www.cnblogs.com/GreenShade/p/18692804)
+Token length: 1378
 Summarized using gpt-3.5-turbo
-Append: [U.S. Says Sheriff Could Face Prosecution for Releasing Immigrant](https://www.nytimes.com/2025/01/30/nyregion/ny-sheriff-ithaca-immigration.html)
-Token length: 264
-Summarized using gpt-3.5-turbo
-Append: [外交部发言人就美国华盛顿发生客机和军机相撞事件答记者问](https://www.yicai.com/news/102458907.html)
-Token length: 247
-Summarized using gpt-3.5-turbo
-Append: [Senator questions military helicopter flights near civilian airplanes in DC](https://www.reuters.com/world/us/senator-questions-military-helicopter-flights-near-civilian-airplanes-dc-2025-01-31/)
-Token length: 247
-Summarized using gpt-3.5-turbo
-Append: [外交部发言人就美国华盛顿发生客机和军机相撞事件答记者问](https://m.thepaper.cn/detail/30065142)
-Token length: 2645
-Summarized using gpt-3.5-turbo
-Append: [171项专利，撑起了一个33亿IPO](https://www.36kr.com/p/3144947090201344)
-Token length: 3643
-Summarized using gpt-3.5-turbo
-Append: [电池跟弹夹一样换，这机子太野了](https://www.36kr.com/p/3146029578984198)
-Token length: 3593
-Summarized using gpt-3.5-turbo
-Append: [今年杭州最火独角兽](https://www.36kr.com/p/3144890438670853)
-append_entries: 11
-Finish: 2025-01-31 06:16:21.403668
+Append: [DeepSeek发布开源多模态大模型Janus-Pro-7B！本地部署+Colab部署！支持图像识别和图像生成！基准测试得分超越OpenAI的DALL·E 3](https://juejin.cn/post/7464608677757075456)
+append_entries: 7
+Finish: 2025-01-31 08:14:28.755847
