@@ -1,30 +1,60 @@
 ------------------------------------------------------
-Started: 2025-02-01 00:56:13.184273
-Existing_entries: 627
+Started: 2025-02-01 02:42:29.694071
+Existing_entries: 635
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 127
-Summarized using gpt-3.5-turbo
-Append: [Trump Raises New Threat to Sanctuary Cities: Blocking Transportation Dollars](https://www.nytimes.com/2025/01/31/upshot/sanctuary-cities-trump-transportation-funds.html)
-Token length: 149
-Summarized using gpt-3.5-turbo
-Append: [Belgium Forms a Government After 7 Months of Squabbling](https://www.nytimes.com/2025/01/31/world/europe/belgium-government-new-flemish-alliance.html)
-Token length: 133
-Summarized using gpt-3.5-turbo
-Append: [Federal Judge Orders White House to Keep Money Flowing to 22 States](https://www.nytimes.com/2025/01/31/us/trump-freeze-blocked.html)
-Token length: 197
-Summarized using gpt-3.5-turbo
-Append: [US to start to moving migrants to Guantanamo 'hopefully within 30 days,' Homan says](https://www.reuters.com/world/us/us-start-moving-migrants-guantanamo-hopefully-within-30-days-homan-says-2025-01-31/)
-Token length: 245
-Summarized using gpt-3.5-turbo
-Append: [Lawyers for Musk, Republican campaigns form new Washington firm](https://www.reuters.com/world/us/lawyers-musk-republican-campaigns-form-new-washington-firm-2025-01-31/)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [特朗普关税突袭市场！标普转跌，中概指数跌超3%，美元拉升，比特币跳水超4000美元，黄金跌落新高](https://wallstreetcn.com/articles/3740253)
-Token length: 104
+Append: [吴清《求是》刊文，明确推动资本市场高质量发展六大任务](https://www.yicai.com/news/102459094.html)
+Token length: 2422
 Summarized using gpt-3.5-turbo
-Append: [Army Withholds Identity of Helicopter Pilot Killed in Crash](https://www.nytimes.com/2025/01/31/us/politics/army-helicopter-crew.html)
-Token length: 167
+Append: [晓数点丨1月十大牛股出炉：冀东装备逾84%涨幅问鼎榜首](https://www.yicai.com/news/102459090.html)
+Token length: 122
 Summarized using gpt-3.5-turbo
-Append: [U.S. Considers Sending Israel 24,000 Assault Rifles Held Back Under Biden](https://www.nytimes.com/2025/01/31/us/politics/us-israel-assault-rifles.html)
-append_entries: 8
-Finish: 2025-02-01 00:56:50.370422
+Append: [只要买对股，10000变成17000000000，重生之我在A股当股神](https://www.yicai.com/video/102459084.html)
+Token length: 197
+Summarized using gpt-3.5-turbo
+Append: [Pentagon says it will no longer use official resources for cultural awareness months celebrations](https://www.reuters.com/world/us/pentagon-says-it-will-no-longer-use-official-resources-cultural-awareness-months-2025-02-01/)
+Token length: 233
+Summarized using gpt-3.5-turbo
+Append: [Trump moves to cancel recent union agreements with federal workers](https://www.reuters.com/world/us/trump-moves-cancel-recent-union-agreements-with-federal-workers-2025-02-01/)
+Token length: 3856
+Summarized using gpt-3.5-turbo
+Append: [重磅！OpenAI推o3-mini新模型，被DeepSeek逼急？定价仍打不过](https://www.36kr.com/p/3147159755004679)
+Token length: 227
+Summarized using gpt-3.5-turbo
+Append: [Starbucks, union withdraw lawsuits filed against each other, company says](https://www.reuters.com/business/retail-consumer/starbucks-union-withdraw-lawsuits-filed-against-each-other-company-says-2025-02-01/)
+Token length: 120
+Summarized using gpt-3.5-turbo
+Append: [How the D.C. Plane Crash Shattered Wichita’s Big Dreams of Skating and Flight](https://www.nytimes.com/2025/01/31/us/wichita-figure-skaters-plane-crash.html)
+Token length: 217
+Summarized using gpt-3.5-turbo
+Append: [How Trump’s Tariffs Could Affect Americans](https://www.nytimes.com/video/world/americas/100000009959908/how-trumps-tariffs-could-affect-americans.html)
+Token length: 1764
+Summarized using gpt-3.5-turbo
+Append: [美联储最爱的通胀指标温和，核心PCE物价指数同比涨2.8%，实际收入疲软](https://wallstreetcn.com/articles/3740254)
+Token length: 61
+Summarized using gpt-3.5-turbo
+Append: [春节档票房破48亿元](https://m.thepaper.cn/detail/30066470)
+Token length: 80
+Summarized using gpt-3.5-turbo
+Append: [姐姐出嫁，弟弟扶着婚车抹眼泪](https://m.thepaper.cn/detail/30063284)
+Token length: 717
+Summarized using gpt-3.5-turbo
+Append: [亚冬会冰上项目运动员村正式开村，服务900名运动员及官员](https://m.thepaper.cn/detail/30065065)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从神话仙侠剧到恐怖惊悚片，为何都偏爱让蛇当主角？](https://www.36kr.com/p/3144821538619144)
+Token length: 128
+Summarized using gpt-3.5-turbo
+Append: [Review: In Justin Peck’s New Dance, Air, Earth and Self-Help](https://www.nytimes.com/2025/01/30/arts/dance/review-justin-peck-mystic-familiar-new-york-city-ballet.html)
+Token length: 154
+Summarized using gpt-3.5-turbo
+Append: [【非技术】说说2024年我都干了些啥](https://www.cnblogs.com/tcjiaan/p/18693055)
+Token length: 1306
+Summarized using gpt-3.5-turbo
+Append: [PyCharm+Ollama+DeepSeek-Coder+CodeGPT构建本地大模型编程工具](https://juejin.cn/post/7464153856873938979)
+Token length: 154
+Summarized using gpt-3.5-turbo
+Append: [如何打造一个高并发系统？](https://www.cnblogs.com/lmz-blogs/p/18688280)
+append_entries: 18
+Finish: 2025-02-01 02:43:16.170721
