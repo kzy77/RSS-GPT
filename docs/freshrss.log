@@ -1,27 +1,45 @@
 ------------------------------------------------------
-Started: 2025-02-01 08:13:06.091725
-Existing_entries: 675
+Started: 2025-02-01 10:10:56.018878
+Existing_entries: 682
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [泰国都“塌房”了，为何来过春节的中国游客依旧这么多？](https://www.huxiu.com/article/3967662.html)
-Token length: 177
+Token length: 2565
 Summarized using gpt-3.5-turbo
-Append: [Palisades and Eaton Fires Are Fully Contained](https://www.nytimes.com/2025/02/01/us/los-angeles-fire-contained.html)
-Token length: 442
+Append: [万有AI力｜陪伴机器人初试商业化：什么是核心竞争力](https://www.yicai.com/news/102458970.html)
+Token length: 373
 Summarized using gpt-3.5-turbo
-Append: [黄仁勋与特朗普会面讨论哪些话题？英伟达回应](https://www.yicai.com/news/102459134.html)
-Token length: 1296
+Append: [著名相声表演艺术家武福星逝世，享年82岁](https://m.thepaper.cn/detail/30069246)
+Token length: 3622
 Summarized using gpt-3.5-turbo
-Append: [湖南永州筑7段堤坝截留罐车泄漏危化品，目前城区供水正常](https://www.yicai.com/news/102459137.html)
-Token length: 54
+Append: [奥特曼：在开源AI上，我们错了！DeepSeek让OpenAI优势不再，下一个是GPT-5](https://wallstreetcn.com/articles/3740269)
+Token length: 172
 Summarized using gpt-3.5-turbo
-Append: [中国是我第二个家！埃文凯尔返美前流泪告别](https://m.thepaper.cn/detail/30068537)
-Token length: 3652
+Append: [Deadly Crash Focuses Attention on Helicopter Traffic at Reagan Airport](https://www.nytimes.com/2025/01/31/business/faa-helicopter-flights-restricted-reagan-airport.html)
+Token length: 2322
 Summarized using gpt-3.5-turbo
-Append: [沉迷“寻宝”的东南亚人，把这款出海App干上总榜Top1](https://www.36kr.com/p/3146716012796673)
-Token length: 2001
+Append: [复旦学者Cell发文：发现防治冠状病毒新靶点并设计了双功能抗病毒候选药物](https://m.thepaper.cn/detail/30066481)
+Token length: 1120
 Summarized using gpt-3.5-turbo
-Append: [特斯拉 “比特币化”！当你掌控超级叙事，谁还在乎基本面？](https://wallstreetcn.com/articles/3740250)
-append_entries: 7
-Finish: 2025-02-01 08:13:21.209360
+Append: [欧冠附加赛皇马曼城提前相遇，瓜帅：这条不好走的路是自找的](https://m.thepaper.cn/detail/30066406)
+Token length: 1933
+Summarized using gpt-3.5-turbo
+Append: [多地景区发布门票提示：热门博物馆春节档持续火爆，上博古埃及特展节后一周已约满](https://m.thepaper.cn/detail/30066029)
+Token length: 712
+Summarized using gpt-3.5-turbo
+Append: [叙过渡总统首次全国讲话，呼吁所有叙利亚人共同参与建设国家](https://m.thepaper.cn/detail/30065769)
+Token length: 154
+Summarized using gpt-3.5-turbo
+Append: [Spring AI + Ollama 实现 deepseek-r1 的API服务和调用](https://www.cnblogs.com/didispace/p/18692823)
+Token length: 1333
+Summarized using gpt-3.5-turbo
+Append: [一周遭遇两轮暴击的美股：刚从“DeepSeek冲击”缓过来，又迎来了关税！](https://wallstreetcn.com/articles/3740264)
+Token length: 1547
+Summarized using gpt-3.5-turbo
+Append: [上海岁语｜曾在韩国求学的餐饮从业者，如何接住这波沪上“韩流”？](https://m.thepaper.cn/detail/30043830)
+Token length: 81
+Summarized using gpt-3.5-turbo
+Append: [破50亿！2025春节档电影票房再创新高](https://m.thepaper.cn/detail/30066949)
+Token length: 1113
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek具体到普通人的意义](https://juejin.cn/post/7465957236625129506)
+append_entries: 13
+Finish: 2025-02-01 10:11:40.530056
