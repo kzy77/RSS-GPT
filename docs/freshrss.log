@@ -1,36 +1,42 @@
 ------------------------------------------------------
-Started: 2025-02-01 04:13:04.420231
-Existing_entries: 653
+Started: 2025-02-01 06:14:23.143911
+Existing_entries: 663
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2599
+Token length: 198
 Summarized using gpt-3.5-turbo
-Append: [沈建光：2025中国面临的机遇与挑战](https://www.yicai.com/news/102459099.html)
-Token length: 1530
+Append: [Trump Officials Fire Jan. 6 Prosecutors and Plan Possible F.B.I. Purge](https://www.nytimes.com/2025/01/31/us/politics/trump-fbi-agents.html)
+Token length: 235
 Summarized using gpt-3.5-turbo
-Append: [1960年的《白蛇传》邮票，以中国画演绎京剧丨新春书摘](https://www.yicai.com/news/102459107.html)
-Token length: 1504
+Append: [Trump readies order for steep tariffs on goods from Mexico, Canada, China](https://www.reuters.com/business/trump-readies-order-steep-tariffs-goods-mexico-canada-china-2025-02-01/)
+Token length: 129
 Summarized using gpt-3.5-turbo
-Append: [OpenAI发布o3-mini卷入“价格战”，推理模型首次向免费用户开放](https://www.yicai.com/news/102459104.html)
+Append: [Moo Deng, the Toddler Hippopotamus, Still Has Star Power](https://www.nytimes.com/2025/02/01/world/asia/moo-deng-thailand-zoo.html)
+Token length: 128
+Summarized using gpt-3.5-turbo
+Append: [Deciphering Ancient Indus Valley Script Could Earn You $1 Million](https://www.nytimes.com/2025/02/01/world/asia/india-indus-script-prize.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [身价暴涨50倍，00后过年，把“菜场配角”捧上客厅C位](https://www.36kr.com/p/3146699404515847)
-Token length: 588
+Append: [美国客机和军机相撞，很难说“只是偶然”](https://www.huxiu.com/article/3964615.html)
+Token length: 240
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek刺激太大！Altman“认错”，称考虑OpenAI开源](https://wallstreetcn.com/articles/3740265)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [对 Deepseek 从赞叹到压制，硅谷为何一周内变脸](https://www.36kr.com/p/3146127487080969)
-Token length: 1545
+Append: [Trump Officials Release Water That Experts Say Will Serve Little Use](https://www.nytimes.com/2025/01/31/us/trump-water-california-central-valley.html)
+Token length: 259
 Summarized using gpt-3.5-turbo
-Append: [2025年，不要给自己设定太清晰的目标](https://www.36kr.com/p/3118113467273472)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [年轻人接管春节后，开始定制“好运”了](https://www.36kr.com/p/3146067940071941)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [DeepSeek在美两重天：五大巨头接入，政府诚惶诚恐](https://www.36kr.com/p/3146488102656514)
-Token length: 2761
+Append: [Trump's Pentagon says it will 'rotate' out some media from offices](https://www.reuters.com/world/us/trumps-pentagon-says-it-will-rotate-out-some-media-offices-2025-02-01/)
+Token length: 266
 Summarized using gpt-3.5-turbo
-Append: [受DeepSeek影响？OpenAI上线O3 Mini，推理模型首次免费](https://wallstreetcn.com/articles/3740259)
-append_entries: 10
-Finish: 2025-02-01 04:13:20.594580
+Append: [Los Angeles' Eaton Fire is 100% contained, Cal Fire says](https://www.reuters.com/world/us/los-angeles-eaton-fire-is-100-contained-cal-fire-says-2025-02-01/)
+Token length: 3322
+Summarized using gpt-3.5-turbo
+Append: [给机械臂装上轮子和大脑，工业机器人涌现新蓝海](https://www.yicai.com/news/102459122.html)
+Token length: 792
+Summarized using gpt-3.5-turbo
+Append: [媒体：解决剩菜剩饭问题，需在传承传统和适应现代生活间找到平衡](https://m.thepaper.cn/detail/30068536)
+Token length: 169
+Summarized using gpt-3.5-turbo
+Append: [Boy, 8, Is Fatally Shot in Newark, Officials Say](https://www.nytimes.com/2025/01/31/nyregion/shooting-boy-killed-newark-nj.html)
+Token length: 3084
+Summarized using gpt-3.5-turbo
+Append: [抠门的年轻人，让深圳水贝开卖黄金平替](https://www.36kr.com/p/3146582711926281)
+append_entries: 12
+Finish: 2025-02-01 06:14:48.916808
