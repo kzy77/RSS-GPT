@@ -1,33 +1,33 @@
 ------------------------------------------------------
-Started: 2025-02-02 04:12:46.916591
-Existing_entries: 784
+Started: 2025-02-02 06:14:27.580141
+Existing_entries: 793
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
+Token length: 160
+Summarized using gpt-3.5-turbo
+Append: [How US Tariffs Challenge China](https://www.nytimes.com/2025/02/02/business/trump-tariffs-china.html)
+Token length: 174
+Summarized using gpt-3.5-turbo
+Append: [The Divine, the Digital and the Political at Humanity’s Largest Gathering](https://www.nytimes.com/2025/02/02/world/asia/india-maha-kumbh-mela.html)
+Token length: 145
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek A.I. Is a Win for China, but a Danger to Party Control](https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html)
+Token length: 179
+Summarized using gpt-3.5-turbo
+Append: [US pilot messaging system experiencing outage, may lead to flight delays, Transportation Dept says](https://www.reuters.com/business/aerospace-defense/us-pilot-messaging-system-experiencing-outage-may-lead-flight-delays-2025-02-02/)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [潮汕火了](https://www.36kr.com/p/3147763635575553)
-Token length: 543
-Summarized using gpt-3.5-turbo
-Append: [外交部发言人就美方宣布对中国输美产品加征10%关税答记者问](https://www.yicai.com/news/102459270.html)
-Token length: 2961
-Summarized using gpt-3.5-turbo
-Append: [面对15万亿的增长空间，中国服务业如何加速？ | 蛇年经济展望](https://www.yicai.com/news/102459263.html)
+Append: [全国统一的春节零食，没人吃了](https://www.36kr.com/p/3148167676173061)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [毁誉参半的《封神2》，打了第一部的脸](https://www.36kr.com/p/3147831228324613)
-Token length: 1773
+Append: [机器人将无处不在，生活也将被彻底改变｜新春书摘](https://www.yicai.com/news/102458602.html)
+Token length: 439
 Summarized using gpt-3.5-turbo
-Append: [美加贸易战开打，油价会走高吗？美联储还能降息吗？](https://wallstreetcn.com/articles/3740281)
-Token length: 279
+Append: [外交部发言人就美方宣布对中国输美产品加征10%关税答记者问](https://m.thepaper.cn/detail/30071936)
+Token length: 251
 Summarized using gpt-3.5-turbo
-Append: [Trump diversity order hits federal workers in non-DEI jobs, Washington Post says](https://www.reuters.com/world/us/trump-diversity-order-hits-federal-workers-non-dei-jobs-washington-post-says-2025-02-02/)
-Token length: 271
+Append: [商务部新闻发言人就美方宣布对中国输美产品加征10%关税发表谈话](https://m.thepaper.cn/detail/30071887)
+Token length: 454
 Summarized using gpt-3.5-turbo
-Append: [报复措施来了 加拿大将对价值1550亿加元美国产品征收25%关税](https://www.yicai.com/news/102459253.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [代购凶猛，县城劲吹山姆风](https://www.36kr.com/p/3147831650074377)
-Token length: 2249
-Summarized using gpt-3.5-turbo
-Append: [本周外盘看点丨特朗普关税牵动市场情绪，美国非农、明星科技股财报来袭](https://www.yicai.com/news/102459251.html)
+Append: [贸易战爆发！报复美国征税，加拿大将对1550亿加元的美国商品加征25%关税](https://wallstreetcn.com/articles/3740285)
 append_entries: 9
-Finish: 2025-02-02 04:13:02.383697
+Finish: 2025-02-02 06:14:41.517028
