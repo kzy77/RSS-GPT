@@ -1,33 +1,36 @@
 ------------------------------------------------------
-Started: 2025-02-02 06:14:27.580141
-Existing_entries: 793
+Started: 2025-02-02 08:12:53.647047
+Existing_entries: 802
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 160
+Token length: 1803
 Summarized using gpt-3.5-turbo
-Append: [How US Tariffs Challenge China](https://www.nytimes.com/2025/02/02/business/trump-tariffs-china.html)
-Token length: 174
-Summarized using gpt-3.5-turbo
-Append: [The Divine, the Digital and the Political at Humanity’s Largest Gathering](https://www.nytimes.com/2025/02/02/world/asia/india-maha-kumbh-mela.html)
-Token length: 145
-Summarized using gpt-3.5-turbo
-Append: [DeepSeek A.I. Is a Win for China, but a Danger to Party Control](https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html)
-Token length: 179
-Summarized using gpt-3.5-turbo
-Append: [US pilot messaging system experiencing outage, may lead to flight delays, Transportation Dept says](https://www.reuters.com/business/aerospace-defense/us-pilot-messaging-system-experiencing-outage-may-lead-flight-delays-2025-02-02/)
+Append: [全球人物|曾任两国央行行长，卡尼将接棒特鲁多？](https://www.yicai.com/news/102459262.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [全国统一的春节零食，没人吃了](https://www.36kr.com/p/3148167676173061)
+Append: [零度解读1月30日美联储利率决议发布会](https://www.yicai.com/news/102459281.html)
+Token length: 93
+Summarized using gpt-3.5-turbo
+Append: [“I Feel Like a Superhero.” Hope Lives Amid Gaza’s Rubble.](https://www.nytimes.com/2025/02/02/opinion/gaza-israel-cease-fire-hope.html)
+Token length: 142
+Summarized using gpt-3.5-turbo
+Append: [F.A.A.’s Main Warning System for Pilots Is Down, U.S. Official Says](https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html)
+Token length: 3170
+Summarized using gpt-3.5-turbo
+Append: [24年鼠标行业卷疯了：更轻、更全能、更个性化](https://www.36kr.com/p/3149000586067713)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [机器人将无处不在，生活也将被彻底改变｜新春书摘](https://www.yicai.com/news/102458602.html)
-Token length: 439
+Append: [豆瓣9分，打工人必看神剧回归了](https://www.36kr.com/p/3147689284180487)
+Token length: 421
 Summarized using gpt-3.5-turbo
-Append: [外交部发言人就美方宣布对中国输美产品加征10%关税答记者问](https://m.thepaper.cn/detail/30071936)
-Token length: 251
+Append: [中方将反制！商务部回应美方对中国产品加征10%关税](https://wallstreetcn.com/articles/3740287)
+Token length: 70
 Summarized using gpt-3.5-turbo
-Append: [商务部新闻发言人就美方宣布对中国输美产品加征10%关税发表谈话](https://m.thepaper.cn/detail/30071887)
-Token length: 454
+Append: [The Moral and Strategic Case for Taking in the Afghan Refugees](https://www.nytimes.com/2025/02/01/opinion/afghanistan-refugees-us.html)
+Token length: 1655
 Summarized using gpt-3.5-turbo
-Append: [贸易战爆发！报复美国征税，加拿大将对1550亿加元的美国商品加征25%关税](https://wallstreetcn.com/articles/3740285)
-append_entries: 9
-Finish: 2025-02-02 06:14:41.517028
+Append: [人事时间｜他们都是奔赴西藏的清华优秀毕业生](https://m.thepaper.cn/detail/30069352)
+Token length: 2430
+Summarized using gpt-3.5-turbo
+Append: [“淘金”新思路！NBA计划打造欧洲联赛，再下一个是亚洲？](https://m.thepaper.cn/detail/30069242)
+append_entries: 10
+Finish: 2025-02-02 08:13:12.429983
