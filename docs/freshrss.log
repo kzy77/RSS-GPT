@@ -1,54 +1,33 @@
 ------------------------------------------------------
-Started: 2025-02-02 02:41:27.752177
-Existing_entries: 768
+Started: 2025-02-02 04:12:46.916591
+Existing_entries: 784
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3220
-Summarized using gpt-3.5-turbo
-Append: [放弃武力进攻后，元朝如何与日本展开贸易｜新春书摘](https://www.yicai.com/news/102459108.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [羽毛球“后进生”创业：不想赚快钱的球馆老板｜小城创客](https://www.36kr.com/p/3147924566366977)
+Append: [潮汕火了](https://www.36kr.com/p/3147763635575553)
+Token length: 543
+Summarized using gpt-3.5-turbo
+Append: [外交部发言人就美方宣布对中国输美产品加征10%关税答记者问](https://www.yicai.com/news/102459270.html)
+Token length: 2961
+Summarized using gpt-3.5-turbo
+Append: [面对15万亿的增长空间，中国服务业如何加速？ | 蛇年经济展望](https://www.yicai.com/news/102459263.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [外媒拆解DeepSeek制胜秘籍，OpenAI CEO终于认错：我们站在了历史错误的一边](https://www.36kr.com/p/3147635441211909)
-Token length: 185
+Append: [毁誉参半的《封神2》，打了第一部的脸](https://www.36kr.com/p/3147831228324613)
+Token length: 1773
 Summarized using gpt-3.5-turbo
-Append: [最新回应 墨西哥总统宣布将对美国加征关税](https://www.yicai.com/news/102459243.html)
-Token length: 304
+Append: [美加贸易战开打，油价会走高吗？美联储还能降息吗？](https://wallstreetcn.com/articles/3740281)
+Token length: 279
 Summarized using gpt-3.5-turbo
-Append: [加拿大不列颠哥伦比亚省：已开始对美国关税进行报复](https://www.yicai.com/news/102459237.html)
+Append: [Trump diversity order hits federal workers in non-DEI jobs, Washington Post says](https://www.reuters.com/world/us/trump-diversity-order-hits-federal-workers-non-dei-jobs-washington-post-says-2025-02-02/)
+Token length: 271
+Summarized using gpt-3.5-turbo
+Append: [报复措施来了 加拿大将对价值1550亿加元美国产品征收25%关税](https://www.yicai.com/news/102459253.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [百亿先生董宇辉的波折与重生](https://www.36kr.com/p/3147868139608840)
-Token length: 818
+Append: [代购凶猛，县城劲吹山姆风](https://www.36kr.com/p/3147831650074377)
+Token length: 2249
 Summarized using gpt-3.5-turbo
-Append: [鞭炮引爆沼气，小孩家庭支付天价赔偿？四川资中：假的](https://m.thepaper.cn/detail/30071572)
-Token length: 426
-Summarized using gpt-3.5-turbo
-Append: [美宣布对中国商品加征10%关税](https://wallstreetcn.com/articles/3740279)
-Token length: 289
-Summarized using gpt-3.5-turbo
-Append: [美宣布对中国商品加征10%关税](https://m.thepaper.cn/detail/30071557)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [回来才发现，老家县城彻底颠覆我认知](https://wallstreetcn.com/articles/3740274)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [6家车企斗艳，谁的营销最高明？](https://www.36kr.com/p/3145974920157954)
-Token length: 169
-Summarized using gpt-3.5-turbo
-Append: [Pitch of American Airlines Jet Turned Upward Just Before Crash](https://www.nytimes.com/2025/02/01/us/politics/american-airlines-crash-ntsb.html)
-Token length: 163
-Summarized using gpt-3.5-turbo
-Append: [Marianne Faithfull Was an Unforgettable Style Paragon](https://www.nytimes.com/2025/01/31/style/marianne-faithfull-style-influence.html)
-Token length: 605
-Summarized using gpt-3.5-turbo
-Append: [美宣布对中国商品加征10%关税](https://www.yicai.com/news/102459220.html)
-Token length: 208
-Summarized using gpt-3.5-turbo
-Append: [Soldier identified in DC plane crash, data shows helicopter may have been too high](https://www.reuters.com/world/us/soldier-identified-dc-plane-crash-data-shows-helicopter-may-have-been-too-high-2025-02-02/)
-Token length: 86
-Summarized using gpt-3.5-turbo
-Append: [Pump prices set to rise as Trump tariffs hit Canadian, Mexican oil](https://www.reuters.com/business/energy/pump-prices-set-rise-trump-tariffs-hit-canadian-mexican-oil-2025-02-01/)
-append_entries: 16
-Finish: 2025-02-02 02:41:52.921324
+Append: [本周外盘看点丨特朗普关税牵动市场情绪，美国非农、明星科技股财报来袭](https://www.yicai.com/news/102459251.html)
+append_entries: 9
+Finish: 2025-02-02 04:13:02.383697
