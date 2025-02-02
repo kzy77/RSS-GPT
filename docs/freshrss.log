@@ -1,36 +1,39 @@
 ------------------------------------------------------
-Started: 2025-02-02 08:12:53.647047
-Existing_entries: 802
+Started: 2025-02-02 10:10:29.622009
+Existing_entries: 812
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1803
+Token length: 78
 Summarized using gpt-3.5-turbo
-Append: [全球人物|曾任两国央行行长，卡尼将接棒特鲁多？](https://www.yicai.com/news/102459262.html)
+Append: [年俗里品年味 正月初五迎财神](https://www.yicai.com/image/102459297.html)
+Token length: 1268
+Summarized using gpt-3.5-turbo
+Append: [“最懂苹果的分析师”郭明琪：若苹果不改变策略，2026年就会见到iPhone营收出现中个位数衰退](https://wallstreetcn.com/articles/3740290)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [零度解读1月30日美联储利率决议发布会](https://www.yicai.com/news/102459281.html)
-Token length: 93
+Append: [理解城市｜沈阳“听劝”：游客来了，产业也兴了](https://m.thepaper.cn/detail/30072172)
+Token length: 2066
 Summarized using gpt-3.5-turbo
-Append: [“I Feel Like a Superhero.” Hope Lives Amid Gaza’s Rubble.](https://www.nytimes.com/2025/02/02/opinion/gaza-israel-cease-fire-hope.html)
-Token length: 142
+Append: [马斯克动手了！DOGE要全面控制美国政府？](https://wallstreetcn.com/articles/3740289)
+Token length: 1862
 Summarized using gpt-3.5-turbo
-Append: [F.A.A.’s Main Warning System for Pilots Is Down, U.S. Official Says](https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html)
-Token length: 3170
+Append: [玉渊谭天丨中方将反制！一图透视美国为何此时宣布加征关税](https://m.thepaper.cn/detail/30071986)
+Token length: 154
 Summarized using gpt-3.5-turbo
-Append: [24年鼠标行业卷疯了：更轻、更全能、更个性化](https://www.36kr.com/p/3149000586067713)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [豆瓣9分，打工人必看神剧回归了](https://www.36kr.com/p/3147689284180487)
-Token length: 421
+Append: [欧几里得相关算法【含万能欧几里得】](https://www.cnblogs.com/zhiyin123/p/18694566)
+Token length: 2113
 Summarized using gpt-3.5-turbo
-Append: [中方将反制！商务部回应美方对中国产品加征10%关税](https://wallstreetcn.com/articles/3740287)
-Token length: 70
+Append: [回访|韶关江湾镇的春节：住新房走新路，灾后重建完成90%以上](https://www.yicai.com/news/102459295.html)
+Token length: 2768
 Summarized using gpt-3.5-turbo
-Append: [The Moral and Strategic Case for Taking in the Afghan Refugees](https://www.nytimes.com/2025/02/01/opinion/afghanistan-refugees-us.html)
-Token length: 1655
+Append: [中方将向WTO提起诉讼，采取措施反制美国关税大棒](https://www.yicai.com/news/102459288.html)
+Token length: 482
 Summarized using gpt-3.5-turbo
-Append: [人事时间｜他们都是奔赴西藏的清华优秀毕业生](https://m.thepaper.cn/detail/30069352)
-Token length: 2430
+Append: [NBA或将诞生重量级交易：湖人送出戴维斯等换来东契奇](https://m.thepaper.cn/detail/30072566)
+Token length: 3736
 Summarized using gpt-3.5-turbo
-Append: [“淘金”新思路！NBA计划打造欧洲联赛，再下一个是亚洲？](https://m.thepaper.cn/detail/30069242)
-append_entries: 10
-Finish: 2025-02-02 08:13:12.429983
+Append: [出口额最高，中国芯片“卖爆”了](https://www.36kr.com/p/3147560566217478)
+Token length: 1277
+Summarized using gpt-3.5-turbo
+Append: [跌宕起伏的一周，尽管英伟达被重创，美股Mag 7整体“屹立不倒”](https://wallstreetcn.com/articles/3740282)
+append_entries: 11
+Finish: 2025-02-02 10:10:52.549807
