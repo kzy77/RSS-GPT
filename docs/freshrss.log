@@ -1,39 +1,36 @@
 ------------------------------------------------------
-Started: 2025-02-03 04:13:54.978495
-Existing_entries: 907
+Started: 2025-02-03 06:16:08.896601
+Existing_entries: 918
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 242
+Token length: 233
 Summarized using gpt-3.5-turbo
-Append: [大S徐熙媛病逝](https://www.yicai.com/news/102459422.html)
-Token length: 171
+Append: [Trump says Americans may feel 'pain' in trade war with Mexico, Canada, China](https://www.reuters.com/world/us/trump-says-americans-may-feel-pain-trade-war-with-mexico-canada-china-2025-02-03/)
+Token length: 150
 Summarized using gpt-3.5-turbo
-Append: [Marco Rubio Tells Panama’s Leader ‘Immediate Changes’ Are Needed](https://www.nytimes.com/2025/02/02/world/americas/marco-rubio-panama.html)
-Token length: 161
+Append: [Grammys 2025: Winners at Sunday's televised ceremony](https://www.reuters.com/lifestyle/grammys-2025-winners-sundays-televised-ceremony-2025-02-03/)
+Token length: 363
 Summarized using gpt-3.5-turbo
-Append: [URGENT Chappell Roan takes home best new artist Grammy](https://www.reuters.com/lifestyle/urgent-chappell-roan-takes-home-best-new-artist-grammy-2025-02-03/)
-Token length: 43
+Append: [上海二次元新消费火爆，“黑神话”联名断货，布鲁可热门IP周销50盒以上！Z世代“吃谷”动机何在？](https://www.yicai.com/video/102459418.html)
+Token length: 339
 Summarized using gpt-3.5-turbo
-Append: [中国台湾女演员徐熙媛（别名大S）病逝，年仅48岁](https://m.thepaper.cn/detail/30075302)
-Token length: 966
+Append: [商务部回应美方宣布对中国输美产品加征10%关税](https://www.yicai.com/news/102459258.html)
+Token length: 163
 Summarized using gpt-3.5-turbo
-Append: [大S徐熙媛病逝，终年48岁](https://m.thepaper.cn/detail/30075300)
-Token length: 2179
+Append: [Three Years After Ukraine Invasion, Europe Still Deals With Energy Crisis](https://www.nytimes.com/2025/02/03/business/ukraine-russia-energy-europe.html)
+Token length: 145
 Summarized using gpt-3.5-turbo
-Append: [高关税贸易壁垒浪潮中，她在WTO守卫多边贸易体系｜全球人物](https://www.yicai.com/news/102459412.html)
-Token length: 538
+Append: [With Trump’s Backing Uncertain, Europe Scrambles to Shore Up Its Own Defenses](https://www.nytimes.com/2025/02/03/world/europe/europe-trump-defense-budgets.html)
+Token length: 63
 Summarized using gpt-3.5-turbo
-Append: [港股蛇年首个交易日：恒科指跌超2%，阿里巴巴涨超4%，金山云涨超26%](https://wallstreetcn.com/articles/3740297)
-Token length: 1100
+Append: [Grammys 2025’s Unforgettable Looks: Bianca Censori, Taylor Swift, Chappell Roan](https://www.nytimes.com/2025/02/02/style/grammys-2025-red-carpet.html)
+Token length: 438
 Summarized using gpt-3.5-turbo
-Append: [加墨领导人通话，筹划对美“精准打击”，让美国感受到“关税之痛”](https://wallstreetcn.com/articles/3740300)
+Append: [港股午盘跌幅收窄，AI概念股逆势走高，金山云大涨34%](https://www.yicai.com/news/102459436.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [服务崩溃，DeepSeek该给金主一个贴金的机会](https://www.36kr.com/p/3149045371198210)
-Token length: 671
-Summarized using gpt-3.5-turbo
-Append: [欧盟：对美国向加拿大、墨西哥和中国加征关税表示遗憾，将“坚决回应”关税](https://wallstreetcn.com/articles/3740298)
-Token length: 1740
-Summarized using gpt-3.5-turbo
-Append: [从DeepSeek 2000万DAU说起](https://wallstreetcn.com/articles/3740296)
-append_entries: 11
-Finish: 2025-02-03 04:14:19.486453
+Append: [黄仁勋最新万字访谈：我们终将成为超人，不是因为拥有了超能力，而是因为拥有了超级AI](https://www.36kr.com/p/3150205182614273)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [破30亿，哪吒杀疯了](https://www.36kr.com/p/3149155146488325)
+append_entries: 10
+Finish: 2025-02-03 06:16:26.081911
