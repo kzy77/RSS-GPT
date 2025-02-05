@@ -1,39 +1,63 @@
 ------------------------------------------------------
-Started: 2025-02-05 06:15:59.997595
-Existing_entries: 1009
+Started: 2025-02-05 08:14:28.304674
+Existing_entries: 1011
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [蛇年春节不能错过的财经大事](https://www.yicai.com/news/102460651.html)
-Token length: 134
+Token length: 2119
 Summarized using gpt-3.5-turbo
-Append: [美国邮政：即日起停收来自中国内地和中国香港的包裹](https://www.yicai.com/news/102460624.html)
+Append: [日本流感大暴发，医院无药建议回家？真相并不那么可怕](https://www.yicai.com/news/102459690.html)
+Token length: 137
+Summarized using gpt-3.5-turbo
+Append: [1 Killed in Warehouse Shooting in Central Ohio](https://www.nytimes.com/2025/02/05/us/shooting-ohio-warehouse.html)
+Token length: 1095
+Summarized using gpt-3.5-turbo
+Append: [逾2万亿元逆回购到期，春节后资金面如何演绎？](https://www.yicai.com/news/102460824.html)
+Token length: 929
+Summarized using gpt-3.5-turbo
+Append: [白酒股节后首个交易日股价走弱，酒商观望节后旺季行情](https://www.yicai.com/news/102460709.html)
+Token length: 2217
+Summarized using gpt-3.5-turbo
+Append: [春节档电影刷新纪录，上海再成“票房第一城” ｜ 上海消费风向](https://www.yicai.com/news/102460832.html)
+Token length: 815
+Summarized using gpt-3.5-turbo
+Append: [沪指高开低走跌0.65%，DeepSeek概念全天领涨](https://www.yicai.com/news/102460849.html)
+Token length: 3186
+Summarized using gpt-3.5-turbo
+Append: [过年三件套平替爆火：商家月入200万，订单“根本发不完”](https://www.36kr.com/p/3153041728264712)
+Token length: 72
+Summarized using gpt-3.5-turbo
+Append: [特朗普说加沙人民先别回来了，记者：那是他们的家](https://m.thepaper.cn/detail/30082453)
+Token length: 323
+Summarized using gpt-3.5-turbo
+Append: [辜振甫夫人辜严倬云女士逝世，系严复先生孙女](https://m.thepaper.cn/detail/30082457)
+Token length: 54
+Summarized using gpt-3.5-turbo
+Append: [特朗普称希望美国接管加沙，内塔尼亚胡：你总说出别人不愿说的话](https://m.thepaper.cn/detail/30082450)
+Token length: 2782
+Summarized using gpt-3.5-turbo
+Append: [春节的8个晚上｜东北过年的老规矩和新年俗](https://m.thepaper.cn/detail/30043836)
+Token length: 194
+Summarized using gpt-3.5-turbo
+Append: [An Unbound Trump Pushes an Improbable Plan for Gaza](https://www.nytimes.com/2025/02/05/us/politics/trump-gaza-netanyahu-takeover.html)
+Token length: 257
+Summarized using gpt-3.5-turbo
+Append: [Trump’s new expansionist target: Gaza](https://www.reuters.com/world/us/trumps-gaza-stunner-builds-his-expansionist-aims-2025-02-05/)
+Token length: 1160
+Summarized using gpt-3.5-turbo
+Append: [马斯克执掌的政府效率部权限引争议，美国财政部解释“只读”](https://www.yicai.com/news/102460678.html)
 Token length: 177
 Summarized using gpt-3.5-turbo
-Append: [5 Takeaways From Trump’s News Conference With Netanyahu](https://www.nytimes.com/2025/02/04/us/politics/5-takeaways-from-trumps-news-conference-with-netanyahu.html)
-Token length: 1834
+Append: [5 Takeaways From Trump’s News Conference With Netanyahu](https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-netanyahu-takeaways.html)
+Token length: 1136
 Summarized using gpt-3.5-turbo
-Append: [赵建：DeepSeek是国运崛起还是一个奇迹](https://www.yicai.com/news/102460553.html)
-Token length: 1165
-Summarized using gpt-3.5-turbo
-Append: [1月TOP100房企销售总额2350.3亿元](https://www.yicai.com/news/102460564.html)
-Token length: 85
-Summarized using gpt-3.5-turbo
-Append: [Trump’s Proposal to ‘Take Over’ Gaza Sparks Immediate Rebukes](https://www.nytimes.com/2025/02/04/world/middleeast/trump-gaza-take-over-reactions.html)
-Token length: 1729
-Summarized using gpt-3.5-turbo
-Append: [Figure AI与OpenAI“分手”，人形机器人公司与大模型公司重新划定边界](https://www.yicai.com/news/102460559.html)
+Append: [新年车市价格战打响，特斯拉首次祭出“保险补贴+5年免息”优惠](https://www.yicai.com/news/102460672.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [挺过多次重大冲击的美国经济，正陷入最难解的困境](https://www.huxiu.com/article/3980262.html)
-Token length: 3438
+Append: [提升企业感受，上海营商环境8.0版攻坚“老大难”问题](https://www.yicai.com/news/102460661.html)
+Token length: 201
 Summarized using gpt-3.5-turbo
-Append: [美军涌入小红书频频泄密？](https://www.huxiu.com/article/3980603.html)
-Token length: 158
+Append: [Clean energy companies press US lawmakers to protect subsidies](https://www.reuters.com/business/energy/clean-energy-companies-press-us-lawmakers-protect-subsidies-2025-02-05/)
+Token length: 150
 Summarized using gpt-3.5-turbo
-Append: [Trump Proposes U.S. Takeover of Gaza and Says Palestinians Should Move](https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-strip-netanyahu.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [✨快速搭建✨DeepSeek本地RAG应用](https://juejin.cn/post/7467464255724142607)
-append_entries: 11
-Finish: 2025-02-05 06:16:17.887279
+Append: [Ohio warehouse shooting leaves five people wounded](https://www.reuters.com/world/us/several-injured-an-active-scene-near-warehouse-new-albany-ohio-nbc4-columbus-2025-02-05/)
+append_entries: 19
+Finish: 2025-02-05 08:15:08.670695
