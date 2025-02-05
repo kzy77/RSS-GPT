@@ -1,33 +1,39 @@
 ------------------------------------------------------
-Started: 2025-02-05 04:13:57.367582
-Existing_entries: 1011
+Started: 2025-02-05 06:15:59.997595
+Existing_entries: 1009
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 126
-Summarized using gpt-3.5-turbo
-Append: [Man Sentenced to 44 Years in Prison After Pleading Guilty to Qaeda Ties](https://www.nytimes.com/2025/02/04/nyregion/al-qaeda-london-heathrow-bomb-plot.html)
-Token length: 152
-Summarized using gpt-3.5-turbo
-Append: [US Postal Service suspends incoming packages from China, Hong Kong](https://www.reuters.com/world/us/us-postal-service-suspends-incoming-packages-china-hong-kong-2025-02-05/)
-Token length: 259
-Summarized using gpt-3.5-turbo
-Append: [泰国正式对泰缅边境的缅甸地区断电](https://www.yicai.com/news/102460432.html)
-Token length: 881
-Summarized using gpt-3.5-turbo
-Append: [国家发改委：积极推动发展冰雪经济纳入“十五五”相关规划](https://www.yicai.com/news/102460430.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [金价屡创新高 3000美元指日可待？金山云两日涨超44% 都与DeepSeek燃爆市场有关？苹果智能4月新增中文简体支持](https://www.yicai.com/news/102460427.html)
-Token length: 203
+Append: [蛇年春节不能错过的财经大事](https://www.yicai.com/news/102460651.html)
+Token length: 134
 Summarized using gpt-3.5-turbo
-Append: [CIA offers buyouts to entire workforce to align with Trump priorities, WSJ reports](https://www.reuters.com/world/us/cia-offers-buyouts-entire-workforce-align-with-trump-priorities-wsj-reports-2025-02-05/)
-Token length: 226
+Append: [美国邮政：即日起停收来自中国内地和中国香港的包裹](https://www.yicai.com/news/102460624.html)
+Token length: 177
 Summarized using gpt-3.5-turbo
-Append: [泰国正式对泰缅边境的缅甸地区断网、断电和断油](https://m.thepaper.cn/detail/30082465)
+Append: [5 Takeaways From Trump’s News Conference With Netanyahu](https://www.nytimes.com/2025/02/04/us/politics/5-takeaways-from-trumps-news-conference-with-netanyahu.html)
+Token length: 1834
+Summarized using gpt-3.5-turbo
+Append: [赵建：DeepSeek是国运崛起还是一个奇迹](https://www.yicai.com/news/102460553.html)
+Token length: 1165
+Summarized using gpt-3.5-turbo
+Append: [1月TOP100房企销售总额2350.3亿元](https://www.yicai.com/news/102460564.html)
+Token length: 85
+Summarized using gpt-3.5-turbo
+Append: [Trump’s Proposal to ‘Take Over’ Gaza Sparks Immediate Rebukes](https://www.nytimes.com/2025/02/04/world/middleeast/trump-gaza-take-over-reactions.html)
+Token length: 1729
+Summarized using gpt-3.5-turbo
+Append: [Figure AI与OpenAI“分手”，人形机器人公司与大模型公司重新划定边界](https://www.yicai.com/news/102460559.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [DeepSeek最强专业拆解来了，清交复教授超硬核解读](https://www.36kr.com/p/3152872354814728)
-Token length: 176
+Append: [挺过多次重大冲击的美国经济，正陷入最难解的困境](https://www.huxiu.com/article/3980262.html)
+Token length: 3438
 Summarized using gpt-3.5-turbo
-Append: [Daniel Penny Is Hired by Venture Capital Firm Whose Founder Backed Trump](https://www.nytimes.com/2025/02/04/nyregion/daniel-penny-hired-andreessen-horowitz.html)
-append_entries: 9
-Finish: 2025-02-05 04:14:17.558055
+Append: [美军涌入小红书频频泄密？](https://www.huxiu.com/article/3980603.html)
+Token length: 158
+Summarized using gpt-3.5-turbo
+Append: [Trump Proposes U.S. Takeover of Gaza and Says Palestinians Should Move](https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-strip-netanyahu.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [✨快速搭建✨DeepSeek本地RAG应用](https://juejin.cn/post/7467464255724142607)
+append_entries: 11
+Finish: 2025-02-05 06:16:17.887279
