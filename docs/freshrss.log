@@ -1,39 +1,33 @@
 ------------------------------------------------------
-Started: 2025-02-05 02:41:28.154492
-Existing_entries: 1020
+Started: 2025-02-05 04:13:57.367582
+Existing_entries: 1011
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 177
+Token length: 126
 Summarized using gpt-3.5-turbo
-Append: [Trump administration considers adding Shein, Temu to 'forced labor' list, Semafor reports](https://www.reuters.com/business/retail-consumer/trump-administration-considers-adding-shein-temu-forced-labor-list-semafor-2025-02-05/)
-Token length: 181
+Append: [Man Sentenced to 44 Years in Prison After Pleading Guilty to Qaeda Ties](https://www.nytimes.com/2025/02/04/nyregion/al-qaeda-london-heathrow-bomb-plot.html)
+Token length: 152
 Summarized using gpt-3.5-turbo
-Append: [Neo-Nazi leader found guilty in plot to attack Baltimore power grid](https://www.reuters.com/world/us/neo-nazi-leader-found-guilty-plot-attack-baltimore-power-grid-2025-02-05/)
-Token length: 1753
+Append: [US Postal Service suspends incoming packages from China, Hong Kong](https://www.reuters.com/world/us/us-postal-service-suspends-incoming-packages-china-hong-kong-2025-02-05/)
+Token length: 259
 Summarized using gpt-3.5-turbo
-Append: [WTO：去年前三季度全球服务贸易同比增长9%，货物贸易增2%](https://www.yicai.com/news/102460060.html)
-Token length: 442
+Append: [泰国正式对泰缅边境的缅甸地区断电](https://www.yicai.com/news/102460432.html)
+Token length: 881
 Summarized using gpt-3.5-turbo
-Append: [A股三大指数集体高开，DeepSeek概念股全线爆发](https://www.yicai.com/news/102460194.html)
-Token length: 223
-Summarized using gpt-3.5-turbo
-Append: [Trump administration cancels study on impact of trade on under-served communities](https://www.reuters.com/world/us/trump-administration-cancels-study-impact-trade-under-served-communities-2025-02-05/)
-Token length: 277
-Summarized using gpt-3.5-turbo
-Append: [Young techies underpin Musk's drive to slash size of US government](https://www.reuters.com/world/us/young-techies-underpin-musks-drive-slash-size-us-government-2025-02-05/)
-Token length: 212
-Summarized using gpt-3.5-turbo
-Append: [US Senate confirms Trump's nominee Pam Bondi as attorney general](https://www.reuters.com/world/us/us-senate-confirms-trumps-nominee-pam-bondi-attorney-general-2025-02-05/)
-Token length: 158
-Summarized using gpt-3.5-turbo
-Append: [US judge blocks Trump from sending transgender women to men's prisons](https://www.reuters.com/legal/us-judge-blocks-trump-sending-transgender-women-mens-prisons-2025-02-05/)
-Token length: 187
-Summarized using gpt-3.5-turbo
-Append: [Conditions May Have Stymied Black Hawk Crew Before Fatal Crash](https://www.nytimes.com/2025/02/04/us/politics/plane-helicopter-crash-reagan-airport.html)
+Append: [国家发改委：积极推动发展冰雪经济纳入“十五五”相关规划](https://www.yicai.com/news/102460430.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [8点1氪｜日本流感病例已超950万人；谷歌涉嫌违反《中华人民共和国反垄断法》；国内航线燃油附加费2月5日起上调](https://www.36kr.com/p/3152958238186246)
+Append: [金价屡创新高 3000美元指日可待？金山云两日涨超44% 都与DeepSeek燃爆市场有关？苹果智能4月新增中文简体支持](https://www.yicai.com/news/102460427.html)
+Token length: 203
+Summarized using gpt-3.5-turbo
+Append: [CIA offers buyouts to entire workforce to align with Trump priorities, WSJ reports](https://www.reuters.com/world/us/cia-offers-buyouts-entire-workforce-align-with-trump-priorities-wsj-reports-2025-02-05/)
+Token length: 226
+Summarized using gpt-3.5-turbo
+Append: [泰国正式对泰缅边境的缅甸地区断网、断电和断油](https://m.thepaper.cn/detail/30082465)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [DeepSeek获三大国产GPU力挺，给全世界上了重要一课](https://www.36kr.com/p/3151967282780679)
-append_entries: 11
-Finish: 2025-02-05 02:41:49.457802
+Append: [DeepSeek最强专业拆解来了，清交复教授超硬核解读](https://www.36kr.com/p/3152872354814728)
+Token length: 176
+Summarized using gpt-3.5-turbo
+Append: [Daniel Penny Is Hired by Venture Capital Firm Whose Founder Backed Trump](https://www.nytimes.com/2025/02/04/nyregion/daniel-penny-hired-andreessen-horowitz.html)
+append_entries: 9
+Finish: 2025-02-05 04:14:17.558055
