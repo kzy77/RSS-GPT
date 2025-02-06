@@ -1,63 +1,54 @@
 ------------------------------------------------------
-Started: 2025-02-06 12:21:43.637191
-Existing_entries: 1012
+Started: 2025-02-06 14:10:56.880846
+Existing_entries: 1019
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 22
+Token length: 905
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek R1 开启越狱模式！无审查、无思想钢印，突破道德枷锁！AI 真的自由了？ | 零度解说](https://www.freedidi.com/18439.html)
-Token length: 3619
+Append: [国家药监局发布新规支持化妆品原料创新，简化安评要求](https://www.yicai.com/news/102463138.html)
+Token length: 2140
 Summarized using gpt-3.5-turbo
-Append: [郑州比亚迪一次性招工2万人；胖东来回应所售“红色内裤掉色、过敏”](https://www.yicai.com/news/102463046.html)
-Token length: 1880
+Append: [13家上市银行2024年业绩快报出炉：信贷投放与资产质量双升](https://www.yicai.com/news/102463184.html)
+Token length: 2040
 Summarized using gpt-3.5-turbo
-Append: [马斯克面临利益冲突质疑，什么是“特别政府雇员”](https://www.yicai.com/news/102462990.html)
-Token length: 2683
+Append: [资金涌入DeepSeek概念股，多家上市公司否认合作](https://www.yicai.com/news/102463151.html)
+Token length: 1398
 Summarized using gpt-3.5-turbo
-Append: [货币ETF复牌后齐下挫，还有多只跨境ETF仍是高溢价](https://www.yicai.com/news/102463018.html)
-Token length: 159
+Append: [中国互联网30年，网民突破11亿，生成式人工智能用户约2.5亿人](https://www.yicai.com/news/102463177.html)
+Token length: 2649
 Summarized using gpt-3.5-turbo
-Append: [US banks raise equity to jumpstart deals, bolster balance sheets](https://www.reuters.com/business/finance/us-banks-raise-equity-jumpstart-deals-bolster-balance-sheets-2025-02-06/)
-Token length: 2063
+Append: [一文读懂2024年全国财政账本，举债增加，支出扩张稳经济](https://www.yicai.com/news/102463178.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [六小将铁腕夺权，马斯克改写华盛顿权力游戏](https://www.huxiu.com/article/3984773.html)
+Token length: 3500
 Summarized using gpt-3.5-turbo
-Append: [武汉“新春第一会”四次聚焦科技创新，今年准备怎么干？](https://www.yicai.com/news/102462963.html)
-Token length: 2287
+Append: [特朗普挥舞“关税大棒”，中国外贸人今年怎么做美国生意？](https://www.yicai.com/news/102463173.html)
+Token length: 279
 Summarized using gpt-3.5-turbo
-Append: [“AI终端大脑”SOC芯片股集体新高，资金涌入业绩预增热门股](https://www.yicai.com/news/102462962.html)
-Token length: 1838
+Append: [Musk’s DOGE agents access sensitive OPM personnel data, Washington Post reports](https://www.reuters.com/world/us/musks-doge-agents-access-sensitive-opm-personnel-data-washington-post-reports-2025-02-06/)
+Token length: 148
 Summarized using gpt-3.5-turbo
-Append: [“蛇年第一股”宏海科技首日涨超246%，北交所新股今年表现可期？](https://www.yicai.com/news/102462939.html)
-Token length: 403
+Append: [柬埔寨首相：将严厉打击网络诈骗和人口贩运](https://www.yicai.com/news/102463150.html)
+Token length: 133
 Summarized using gpt-3.5-turbo
-Append: [聚焦提升企业感受 上海发布优化营商环境8.0行动方案 打造国际一流营商环境](https://www.yicai.com/video/102462957.html)
-Token length: 40
+Append: [CMS Energy posts lower quarterly profit on higher operating costs](https://www.reuters.com/business/energy/cms-energy-posts-lower-quarterly-profit-higher-operating-costs-2025-02-06/)
+Token length: 181
 Summarized using gpt-3.5-turbo
-Append: [Midnight Deadline for Federal Workers, and Anti-Trump Protests Across U.S.](https://www.nytimes.com/2025/02/06/podcasts/the-headlines/federal-workers-deadline-anti-trump-protests.html)
-Token length: 2909
+Append: [Israel Tells Military to Draft Plan for Gazans to Leave](https://www.nytimes.com/2025/02/06/world/middleeast/israel-military-gaza-palestinians-leave.html)
+Token length: 114
 Summarized using gpt-3.5-turbo
-Append: [站在DeepSeek肩上，具身智能“起跳”](https://www.yicai.com/news/102462880.html)
-Token length: 241
+Append: [Bank of England Cuts Interest Rates as British Economy Weakens](https://www.nytimes.com/2025/02/06/business/bank-england-interest-rates.html)
+Token length: 285
 Summarized using gpt-3.5-turbo
-Append: [US government workers face buyout deadline as Trump presses ahead with overhaul](https://www.reuters.com/world/us/us-government-workers-face-buyout-deadline-trump-presses-ahead-with-overhaul-2025-02-06/)
-Token length: 292
+Append: [Trump makes unsubstantiated claim billions stolen at USAID](https://www.reuters.com/world/us/trump-makes-unsubstantiated-claim-billions-stolen-usaid-2025-02-06/)
+Token length: 2413
 Summarized using gpt-3.5-turbo
-Append: [香港网约车竟仍未合法 十年立法今年能否迎来终章？](https://www.yicai.com/video/102462859.html)
-Token length: 237
+Append: [科技巨头“烧钱”加码AI基础设施：数据中心需求激增、资本支出飙升](https://www.yicai.com/news/102463055.html)
+Token length: 2831
 Summarized using gpt-3.5-turbo
-Append: [机构买入这23股，抛售瑞芯微2.26亿元](https://www.yicai.com/news/102462917.html)
-Token length: 1005
+Append: [芯片需求走向分化，这些半导体制造商最新季度营收还在下降](https://www.yicai.com/news/102463044.html)
+Token length: 42
 Summarized using gpt-3.5-turbo
-Append: [因美纳被中国商务部列入不可靠实体清单，公司称正在寻求解决方案](https://www.yicai.com/news/102462908.html)
-Token length: 2558
-Summarized using gpt-3.5-turbo
-Append: [加拿大的“败阵”：分析特朗普逐个击破的关税策略](https://www.huxiu.com/article/3985310.html)
-Token length: 1900
-Summarized using gpt-3.5-turbo
-Append: [李湛：趋势与抗争，2025年宏观经济和投资策略](https://www.yicai.com/news/102460821.html)
-Token length: 244
-Summarized using gpt-3.5-turbo
-Append: [Honeywell to split into three independently listed companies in latest corporate breakup](https://www.reuters.com/business/aerospace-defense/honeywell-separate-its-aerospace-unit-automation-business-wsj-reports-2025-02-06/)
-Token length: 155
-Summarized using gpt-3.5-turbo
-Append: [For Europe’s Right, Trump Stirs Caution Alongside Celebration](https://www.nytimes.com/2025/02/06/world/europe/trump-tariffs-europe-right.html)
-append_entries: 19
-Finish: 2025-02-06 12:22:26.566266
+Append: [Trump’s Early Stumbles](https://www.nytimes.com/2025/02/06/briefing/trumps-early-stumbles.html)
+append_entries: 16
+Finish: 2025-02-06 14:11:34.363613
