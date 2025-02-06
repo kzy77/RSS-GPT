@@ -1,36 +1,33 @@
 ------------------------------------------------------
-Started: 2025-02-06 02:41:44.176171
-Existing_entries: 1019
+Started: 2025-02-06 04:14:07.239202
+Existing_entries: 1010
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 706
+Token length: 410
 Summarized using gpt-3.5-turbo
-Append: [A股三大指数翻红 DeepSeek概念股延续涨势](https://www.yicai.com/news/102462045.html)
+Append: [松下电器将出售或退出电视机业务？公司声明：未作出任何决定](https://www.yicai.com/news/102462269.html)
+Token length: 667
+Summarized using gpt-3.5-turbo
+Append: [Deepseek R1 越狱版！无审查、无内容限制，无思想钢印，无道德制高点….](https://www.freedidi.com/18431.html)
+Token length: 2154
+Summarized using gpt-3.5-turbo
+Append: [美丽城市建设施工图敲定，鼓励地方改革创新先行探索](https://www.yicai.com/news/102462161.html)
+Token length: 1525
+Summarized using gpt-3.5-turbo
+Append: [高通和Arm最新财报出炉，高管点评DeepSeek将推动端侧AI普及](https://www.yicai.com/news/102462127.html)
+Token length: 2165
+Summarized using gpt-3.5-turbo
+Append: [华尔街到陆家嘴精选丨松下壮士断腕 松下电器一拆三！联想DeepSeek一体机解决方案来了！高通ARM业绩超预期 为何盘后股价下跌？](https://www.yicai.com/news/102462068.html)
+Token length: 3029
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek 逼急 Gemini 放大招，ChatGPT 搜索功能免费开放，AI 掀起让利战](https://www.36kr.com/p/3154358516783621)
+Token length: 1018
+Summarized using gpt-3.5-turbo
+Append: [前追觅中国区执行总裁郭人杰创业，「乐享科技」宣布完成近2亿元天使轮融资 | 36氪首发](https://www.36kr.com/p/3142202686265865)
+Token length: 696
+Summarized using gpt-3.5-turbo
+Append: [特朗普施压美联储降息？美国新财长贝森特：我们更关注的是10年期美债收益率](https://wallstreetcn.com/articles/3740445)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [“火车一响黄金万两”，越南终于看在眼里](https://www.huxiu.com/article/3983449.html)
-Token length: 150
-Summarized using gpt-3.5-turbo
-Append: [Trump Administration Deepens Pressure on Federal Workers to Resign](https://www.nytimes.com/2025/02/05/us/politics/trump-musk-federal-workers.html)
-Token length: 226
-Summarized using gpt-3.5-turbo
-Append: [U.S. AI Safety Institute director leaves role](https://www.reuters.com/technology/us-ai-safety-institute-director-leaves-role-2025-02-06/)
-Token length: 128
-Summarized using gpt-3.5-turbo
-Append: [State Dept says US government vessels can now transit Panama Canal without fees](https://www.reuters.com/world/state-dept-says-us-government-vessels-can-now-transit-panama-canal-without-fees-2025-02-06/)
-Token length: 279
-Summarized using gpt-3.5-turbo
-Append: [Trump's ban on transgender sports may be difficult to enforce](https://www.reuters.com/world/us/trumps-ban-transgender-sports-may-be-difficult-enforce-2025-02-06/)
-Token length: 92
-Summarized using gpt-3.5-turbo
-Append: [Beneath Trump’s Plan for Gaza, Painful Echoes of Forced Displacement](https://www.nytimes.com/2025/02/05/us/politics/trump-gaza-takeover-displacement-palestinians.html)
-Token length: 1949
-Summarized using gpt-3.5-turbo
-Append: [金条疯狂涌入美国，金价再创新高](https://wallstreetcn.com/articles/3740442)
-Token length: 90
-Summarized using gpt-3.5-turbo
-Append: [Trump Signs Order Barring Transgender Student-Athletes From Women’s Sports](https://www.nytimes.com/2025/02/05/us/politics/trump-order-transgender-athletes-womens-sports.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [8点1氪｜DeepSeek招聘实习生月薪过万；泰国已对泰缅边境缅甸地区断电；日本松下官宣放弃电视机业务](https://www.36kr.com/p/3154379128101638)
-append_entries: 10
-Finish: 2025-02-06 02:42:02.088224
+Append: [DeepSeek：人工智能的微信时刻？](https://m.thepaper.cn/detail/30082449)
+append_entries: 9
+Finish: 2025-02-06 04:14:25.446507
