@@ -1,36 +1,42 @@
 ------------------------------------------------------
-Started: 2025-02-06 08:15:22.503238
-Existing_entries: 1013
+Started: 2025-02-06 10:12:14.819334
+Existing_entries: 1010
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 896
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“我曾以为，布什的八年任期已经是美国反智的巅峰”](https://www.huxiu.com/article/3980967.html)
+Token length: 2737
 Summarized using gpt-3.5-turbo
-Append: [收盘｜上证指数涨1.27% AI+赋能再度引爆市场](https://www.yicai.com/news/102462603.html)
-Token length: 3247
+Append: [OpenAI后谷歌又有大动作，DeepSeek“鲶鱼效应”搅动硅谷科技圈](https://www.yicai.com/news/102462722.html)
+Token length: 84
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek有望推动端侧AI成本降低，但AI应用落地仍具挑战](https://www.yicai.com/news/102462588.html)
-Token length: 1116
+Append: [https://subtick.ticklitickli.ir:2096/sub/de/rErKOLywoJBeACdM ساب لینک🟢 مخصوص هیدیفای 🟢](https://t.me/V2rayNg_madam/4410)
+Token length: 1892
 Summarized using gpt-3.5-turbo
-Append: [最热1月！欧盟气候机构：又一个令人惊讶的月份](https://www.yicai.com/news/102462568.html)
-Token length: 1372
+Append: [印度央行或开启五年来首次降息，疲软卢比、美国贸易政策添迷雾](https://www.yicai.com/news/102462713.html)
+Token length: 759
 Summarized using gpt-3.5-turbo
-Append: [“反击”黄仁勋言论，谷歌计划5年内发布商业量子计算应用](https://www.yicai.com/news/102462523.html)
-Token length: 170
+Append: [今晚成品油调价迎来年内首次搁浅，后续走势如何变化](https://www.yicai.com/news/102462712.html)
+Token length: 744
 Summarized using gpt-3.5-turbo
-Append: [Exclusive: Trump team considers demanding WHO reforms, including American in charge](https://www.reuters.com/world/trump-team-considers-demanding-who-reforms-including-american-charge-2025-02-06/)
-Token length: 990
+Append: [两款肿瘤药涉嫌逃税！阿斯利康称将面临最高450万美元罚款](https://www.yicai.com/news/102462711.html)
+Token length: 3079
 Summarized using gpt-3.5-turbo
-Append: [朝令夕改！美国邮政答一财，美业界敦促政府勿给全球贸易增负担](https://www.yicai.com/news/102462444.html)
-Token length: 141
+Append: [马斯克权大无边？](https://www.huxiu.com/article/3984749.html)
+Token length: 1137
 Summarized using gpt-3.5-turbo
-Append: [Marco Rubio Asks U.S.A.I.D. Worker for ‘Trust’ and ‘Patience’](https://www.nytimes.com/2025/02/06/us/politics/rubio-usaid-worker-trust.html)
-Token length: 2921
+Append: [比亚迪全系车型将推智驾方案，多只股票涨停](https://www.yicai.com/news/102462663.html)
+Token length: 314
 Summarized using gpt-3.5-turbo
-Append: [德银：不只是DeepSeek，2025年将是中国企业在全球崛起的一年，中国股票“估值折价”将消失](https://wallstreetcn.com/articles/3740454)
-Token length: 2764
+Append: [一些国家禁止、限制使用DeepSeek，外交部回应](https://www.yicai.com/news/102462668.html)
+Token length: 208
 Summarized using gpt-3.5-turbo
-Append: [过年返乡，我看到了县城AI的真实景象](https://www.36kr.com/p/3154506188275205)
-Token length: 117
+Append: [ArcelorMittal to build new steel plant in US to meet auto sector demand](https://www.reuters.com/markets/commodities/arcelormittal-build-new-steel-plant-us-meet-auto-sector-demand-2025-02-06/)
+Token length: 2790
 Summarized using gpt-3.5-turbo
-Append: [White House Orders C.I.A. to Send an Unclassified Email With Names of Some Employees](https://www.nytimes.com/2025/02/05/us/politics/cia-names-list.html)
-append_entries: 10
-Finish: 2025-02-06 08:15:47.781536
+Append: [中国对美国反制加征油气关税，进口成本抬高对市场有何影响](https://www.yicai.com/news/102462587.html)
+Token length: 2178
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek的最终受害者，不是英伟达｜氪金·大事件](https://www.36kr.com/p/3154720611621378)
+append_entries: 12
+Finish: 2025-02-06 10:12:43.875467
