@@ -1,33 +1,63 @@
 ------------------------------------------------------
-Started: 2025-02-07 00:54:09.858005
-Existing_entries: 1019
+Started: 2025-02-07 02:42:41.638982
+Existing_entries: 1009
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 207
+Token length: 168
 Summarized using gpt-3.5-turbo
-Append: [Baseball star Ohtani's ex-interpreter sentenced to prison for theft](https://www.reuters.com/sports/baseball/baseball-star-ohtanis-ex-interpreter-sentenced-prison-theft-2025-02-06/)
+Append: [Trump Imposes Sanctions on the ICC, Accusing It of Targeting the U.S. and Israel](https://www.nytimes.com/2025/02/06/us/politics/trump-icc-sanctions.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [一些国家禁止、限制使用DeepSeek，外交部回应；特朗普：巴以冲突结束后，加沙地带将被以色列转交给美国](https://www.yicai.com/news/102463335.html)
-Token length: 214
+Append: [经济大省浙江晒财政账本，有何看点？](https://www.yicai.com/news/102463795.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [寻找城市“托马森”：无用角落背后的有用之人](https://www.yicai.com/news/102463770.html)
+Token length: 2045
 Summarized using gpt-3.5-turbo
-Append: [Lockheed Martin settles US allegations of defective pricing on F-35 contracts](https://www.reuters.com/business/aerospace-defense/lockheed-martin-settles-us-allegations-defective-pricing-f-35-contracts-2025-02-06/)
-Token length: 134
+Append: [马可·波罗游记更适合对读，历史学家姚大力推荐这些图书](https://www.yicai.com/news/102463776.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这位顶级人类学家为何要说：“我们都是食人族”](https://www.yicai.com/news/102463780.html)
+Token length: 681
 Summarized using gpt-3.5-turbo
-Append: [Trump names Gadyaces Serralta to lead US Marshals Service](https://www.reuters.com/world/us/trump-names-gadyaces-serralta-lead-us-marshals-service-2025-02-06/)
-Token length: 137
+Append: [市场监管总局出台两个《清单》优化消费环境](https://www.yicai.com/news/102463779.html)
+Token length: 1103
 Summarized using gpt-3.5-turbo
-Append: [House Committee to Examine Secret Navy Effort on Pilot Brain Injuries](https://www.nytimes.com/2025/02/06/us/topgun-navy-pilot-brain-injury.html)
-Token length: 228
+Append: [无视国际规则，肆意推行单边，贸易措施岂容任性滥用？](https://www.yicai.com/news/102463709.html)
+Token length: 1330
 Summarized using gpt-3.5-turbo
-Append: [FAA to review airports with high nearby helicopter, airplane traffic](https://www.reuters.com/world/us/faa-review-airports-with-high-nearby-helicopter-airplane-traffic-2025-02-06/)
-Token length: 188
+Append: [标普三连阳，亚马逊展望逊预期盘后大跌](https://www.yicai.com/news/102463334.html)
+Token length: 879
 Summarized using gpt-3.5-turbo
-Append: [NCAA bans transgender women from sports a day after Trump executive order](https://www.reuters.com/sports/ncaa-bans-transgender-women-sports-day-after-trump-executive-order-2025-02-06/)
-Token length: 142
+Append: [沪指跌0.04% DeepSeek概念反复活跃](https://www.yicai.com/news/102463673.html)
+Token length: 166
 Summarized using gpt-3.5-turbo
-Append: [Human Torso Found in Suitcase in the East River Near Manhattan](https://www.nytimes.com/2025/02/06/nyregion/human-remains-suitcase-nyc-east-river.html)
-Token length: 242
+Append: [Kamala Harris Tours the Destruction in the Palisades](https://www.nytimes.com/2025/02/06/us/kamala-harris-tours-palisades.html)
+Token length: 1023
 Summarized using gpt-3.5-turbo
-Append: [Republicans say they are nearing deal on Trump's tax cuts, but not there yet](https://www.reuters.com/world/us/republicans-say-nearing-deal-trumps-tax-cuts-not-there-yet-2025-02-06/)
-append_entries: 9
-Finish: 2025-02-07 00:54:24.212206
+Append: [DeepSeek算力不够了？](https://wallstreetcn.com/articles/3740535)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [8点1氪｜哪吒2登顶中国影史票房榜首；返程高峰旅客有票无法上车，车站回应：“买短乘长”导致超员；胖东来回应所售红色内裤掉色过敏](https://www.36kr.com/p/3155797338544648)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“月入几十万”直播梦醒背后：密集仲裁，双面MCN和不完美“受害人”](https://m.thepaper.cn/detail/29966735)
+Token length: 261
+Summarized using gpt-3.5-turbo
+Append: [Exclusive: Trump's Paris AI summit delegation won't include AI Safety Institute staff, sources say](https://www.reuters.com/technology/trumps-paris-ai-summit-delegation-not-include-ai-safety-institute-staff-sources-2025-02-06/)
+Token length: 666
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek杀疯全球，国家队终于出手！支持DeepSeek全民使用，完全免费！](https://juejin.cn/post/7468203093035057190)
+Token length: 117
+Summarized using gpt-3.5-turbo
+Append: [39名妙瓦底电诈园区中国受害者被解救](https://m.thepaper.cn/detail/30094576)
+Token length: 1969
+Summarized using gpt-3.5-turbo
+Append: [以资源换援助，乌克兰稀土真能“奇货可居”？](https://m.thepaper.cn/detail/30091953)
+Token length: 366
+Summarized using gpt-3.5-turbo
+Append: [我用AI工具做了一个哪吒，3D建模师要失业了....](https://juejin.cn/post/7468119018269311010)
+append_entries: 19
+Finish: 2025-02-07 02:43:09.328860
