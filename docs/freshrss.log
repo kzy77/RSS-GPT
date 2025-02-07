@@ -1,30 +1,39 @@
 ------------------------------------------------------
-Started: 2025-02-07 06:16:23.891545
-Existing_entries: 1012
+Started: 2025-02-07 08:14:53.054044
+Existing_entries: 1008
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 237
+Token length: 1030
 Summarized using gpt-3.5-turbo
-Append: [Moderate US job growth expected in noisy January employment report](https://www.reuters.com/markets/us/moderate-us-job-growth-expected-noisy-january-employment-report-2025-02-07/)
-Token length: 2344
+Append: [路威酩轩产品生产或向美转移，“欧洲制造”光环正在褪色？](https://www.yicai.com/news/102464139.html)
+Token length: 1122
 Summarized using gpt-3.5-turbo
-Append: [A股蛇年两日成交额持续攀升，资金都流向了哪里？](https://www.yicai.com/news/102463118.html)
-Token length: 203
+Append: [吉利汽车接入DeepSeek，AI大模型上车已到加速阶段](https://www.yicai.com/news/102464150.html)
+Token length: 2117
 Summarized using gpt-3.5-turbo
-Append: [Alaska authorities search for missing passenger plane with 10 on board](https://www.reuters.com/world/us/alaska-authorities-search-missing-passenger-plane-with-10-board-2025-02-07/)
-Token length: 1204
+Append: [临港今年突出跨境、离岸业务开放创新，聚焦几个重点领域](https://www.yicai.com/news/102464147.html)
+Token length: 248
 Summarized using gpt-3.5-turbo
-Append: [《哪吒2》获中国影史票房冠军：饺子成为百亿票房导演，团队花5年潜心创作](https://www.yicai.com/news/102462446.html)
-Token length: 1790
+Append: [Trump meets Japan's Ishiba as China trade war simmers](https://www.reuters.com/world/us/trump-meets-japans-ishiba-china-trade-war-simmers-2025-02-07/)
+Token length: 79
 Summarized using gpt-3.5-turbo
-Append: [赤藓糖醇股们业绩刚复苏，美国“双反”调查又有新进展](https://www.yicai.com/news/102463976.html)
-Token length: 2387
+Append: [Reimagining the American War Machine](https://www.nytimes.com/2025/02/07/opinion/us-military-weapons-pentagon.html)
+Token length: 126
 Summarized using gpt-3.5-turbo
-Append: [李飞飞团队低成本复刻DeepSeek-R1模型？算力成本桎梏正在被打破](https://www.yicai.com/news/102463983.html)
-Token length: 2508
+Append: [Small Plane With 10 Onboard Goes Missing in Alaska](https://www.nytimes.com/2025/02/07/us/alaska-plane-missing.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [搭上人形机器人“风口”，这座三线城市的房价率先突围 | 楼市地理](https://www.yicai.com/news/102464107.html)
+Token length: 163
 Summarized using gpt-3.5-turbo
-Append: [南方人流大，北方增速高！春节旅游热门地渐变](https://www.yicai.com/news/102463201.html)
-Token length: 2115
+Append: [Europe’s Trump Playbook: Offer Carrots but Warn That You Have a Big Stick](https://www.nytimes.com/2025/02/07/world/europe/eu-tariffs-trump.html)
+Token length: 3488
 Summarized using gpt-3.5-turbo
-Append: [“中国核潜艇之父”黄旭华逝世，他常说“此生属于核潜艇，此生属于祖国”](https://m.thepaper.cn/detail/30099077)
-append_entries: 8
-Finish: 2025-02-07 06:16:43.984964
+Append: [实测华为小艺版 DeepSeek，和满血版 R1 有差别吗？](https://www.36kr.com/p/3154978883246598)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [泡泡玛特笑到了最后](https://www.36kr.com/p/3155095128955652)
+Token length: 1438
+Summarized using gpt-3.5-turbo
+Append: [DeepSeek引发行业变局，2025 IT人该如何破局抓住机遇](https://juejin.cn/post/7468203211725783094)
+append_entries: 11
+Finish: 2025-02-07 08:15:13.637573
