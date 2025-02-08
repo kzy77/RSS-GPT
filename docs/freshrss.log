@@ -1,27 +1,42 @@
 ------------------------------------------------------
-Started: 2025-02-08 12:19:07.743690
-Existing_entries: 1016
+Started: 2025-02-08 14:09:25.455077
+Existing_entries: 1007
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 575
+Token length: 48
 Summarized using gpt-3.5-turbo
-Append: [吴清：投资者是市场之本，保护投资者合法权益是证券监管的首要任务](https://www.yicai.com/news/102465326.html)
-Token length: 1331
+Append: [minrag/minrag](https://gitee.com/minrag/minrag)
+Token length: 281
 Summarized using gpt-3.5-turbo
-Append: [吉利之后，宝骏、智己等多车企搭上DeepSeek“智能快车”](https://www.yicai.com/news/102465311.html)
-Token length: 899
+Append: [US judge temporarily blocks Musk's DOGE from accessing payment systems](https://www.reuters.com/legal/us-judge-temporarily-blocks-musks-doge-accessing-payment-systems-2025-02-08/)
+Token length: 24
 Summarized using gpt-3.5-turbo
-Append: [《哪吒之魔童闹海》进入全球票房前60，国外影院一票难求](https://www.yicai.com/news/102465310.html)
-Token length: 194
+Append: [DeepSeek R1 满血开源！本地 & 云端部署，绕过硬件限制，小鸡扛大炮实测！ | 零度解说](https://www.freedidi.com/18460.html)
+Token length: 302
 Summarized using gpt-3.5-turbo
-Append: [Trump, headed to Super Bowl LIX, has long and tangled relationship with football](https://www.reuters.com/world/us/trump-headed-super-bowl-lix-has-long-tangled-relationship-with-football-2025-02-08/)
-Token length: 908
+Append: [US farmers turn to Airbnb, corn mazes to outlast agricultural downturn](https://www.reuters.com/markets/us/us-farmers-turn-airbnb-corn-mazes-outlast-agricultural-downturn-2025-02-08/)
+Token length: 2592
 Summarized using gpt-3.5-turbo
-Append: [中国证监会依法吊销和合期货有限公司期货业务许可证](https://www.yicai.com/news/102465308.html)
-Token length: 464
+Append: [特朗普盯上吸管了](https://www.huxiu.com/article/3993480.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [马斯克带着6个00后革美国的命](https://www.huxiu.com/article/3993047.html)
+Token length: 75
 Summarized using gpt-3.5-turbo
-Append: [习近平对四川宜宾市筠连县山体滑坡作出重要指示](https://www.yicai.com/news/102465302.html)
-Token length: 79
+Append: [四川宜宾筠连县山体滑坡已致30余人失联，救援正在展开](https://m.thepaper.cn/detail/30109592)
+Token length: 60
 Summarized using gpt-3.5-turbo
-Append: [警方通报“警车连撞三车司机逃逸”：警车未锁门，被一就诊男子开走](https://m.thepaper.cn/detail/30108767)
-append_entries: 7
-Finish: 2025-02-08 12:19:22.334813
+Append: [四川宜宾市筠连县山体滑坡已造成10户民房被掩埋、30余人失联](https://m.thepaper.cn/detail/30109583)
+Token length: 1361
+Summarized using gpt-3.5-turbo
+Append: [为了对付特朗普，欧洲花了整整一年准备，如今要用了](https://wallstreetcn.com/articles/3740647)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [万万没想到，最先被AI取代的是内娱？](https://www.36kr.com/p/3157216035625481)
+Token length: 204
+Summarized using gpt-3.5-turbo
+Append: [How War Has Wreaked Havoc on Ukraine’s Classrooms](https://www.nytimes.com/2025/02/08/world/europe/ukraine-russia-war-education.html)
+Token length: 43
+Summarized using gpt-3.5-turbo
+Append: [Playing DOGE-ball With the Government](https://www.nytimes.com/2025/02/08/opinion/trump-musk-doge.html)
+append_entries: 12
+Finish: 2025-02-08 14:09:46.021297
