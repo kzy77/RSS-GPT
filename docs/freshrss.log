@@ -1,30 +1,45 @@
 ------------------------------------------------------
-Started: 2025-02-08 04:13:09.989108
-Existing_entries: 1018
+Started: 2025-02-08 06:14:20.490300
+Existing_entries: 1008
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 459
+Token length: 1093
 Summarized using gpt-3.5-turbo
-Append: [巴拿马拟终止中巴共建“一带一路”谅解备忘录，中方提出严正交涉](https://www.yicai.com/news/102465130.html)
-Token length: 777
+Append: [抖音出手打击无底线博流量行为!永封张兰等直播间](https://www.yicai.com/news/102465182.html)
+Token length: 1196
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek-R1 满血版模型！671b 本地/云端部署，跟官方一样高级聪明！](https://www.freedidi.com/18453.html)
+Append: [蛇年首家！连续20日市值不足5亿元，*ST大药触发强制退市](https://www.yicai.com/news/102465176.html)
+Token length: 3448
+Summarized using gpt-3.5-turbo
+Append: [万亿GDP城市去年座次排定：泉州增速领跑，6城市进位](https://www.yicai.com/news/102465175.html)
+Token length: 1400
+Summarized using gpt-3.5-turbo
+Append: [新规“压垮”美国海关，特朗普暂时恢复小额包裹免税政策](https://www.yicai.com/news/102465161.html)
+Token length: 2476
+Summarized using gpt-3.5-turbo
+Append: [“新灵渠”！湖南人期盼半个多世纪的这项工程迎重大进展](https://www.yicai.com/news/102465148.html)
+Token length: 1741
+Summarized using gpt-3.5-turbo
+Append: [欧盟或削减美国进口汽车关税求放过？欧洲议会官员称“反胁迫工具”也在准备中](https://www.yicai.com/news/102465144.html)
+Token length: 256
+Summarized using gpt-3.5-turbo
+Append: [US judge declines to block Elon Musk's DOGE from Labor Department systems](https://www.reuters.com/world/us/us-judge-declines-block-elon-musks-doge-labor-department-systems-2025-02-08/)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [德银重磅预测：2025，中国企业，“吃掉全球”？](https://www.huxiu.com/article/3992039.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [特朗普暂缓对加墨25%关税，《哪吒2》成全球单一市场票房冠军丨一周热点回顾](https://www.yicai.com/news/102465088.html)
-Token length: 236
+Append: [中泰联合声明：以零容忍的坚决态度，加强打击人口贩运、电信网络诈骗等跨境犯罪](https://m.thepaper.cn/detail/30107701)
+Token length: 80
 Summarized using gpt-3.5-turbo
-Append: [US cities, counties challenge Trump's 'sanctuary' city crackdown](https://www.reuters.com/world/us/us-cities-counties-challenge-trumps-sanctuary-city-crackdown-2025-02-08/)
-Token length: 220
+Append: [张兰、汪小菲抖音账号无限期封禁：利用大S去世恶意炒作营销](https://m.thepaper.cn/detail/30107700)
+Token length: 755
 Summarized using gpt-3.5-turbo
-Append: [TikTok to let US Android users download app via kits on its website](https://www.reuters.com/technology/tiktok-give-package-kits-its-website-us-android-users-download-app-2025-02-08/)
-Token length: 894
+Append: [抖音：利用逝者恶意炒作营销，对“张兰·俏生活”、“汪小菲”等账号予以无限期封禁](https://m.thepaper.cn/detail/30107606)
+Token length: 405
 Summarized using gpt-3.5-turbo
-Append: [华尔街轮番唱多！美银：美股优势开始减弱，建议做多中国股市](https://wallstreetcn.com/articles/3740625)
-Token length: 788
+Append: [巴拿马拟终止中巴共建“一带一路”谅解备忘录，中方提出严正交涉](https://m.thepaper.cn/detail/30107600)
+Token length: 1822
 Summarized using gpt-3.5-turbo
-Append: [明查｜美国商务部以“国家安全”为由封杀电影《哪吒2》？](https://m.thepaper.cn/detail/30100499)
-append_entries: 8
-Finish: 2025-02-08 04:13:23.163392
+Append: [医药的“DeepSeek时刻”，中国创新药也已达到了](https://wallstreetcn.com/articles/3740633)
+Token length: 59
+Summarized using gpt-3.5-turbo
+Append: [最高检对李微微作出逮捕决定](https://m.thepaper.cn/detail/30107474)
+append_entries: 13
+Finish: 2025-02-08 06:14:45.624545
