@@ -1,45 +1,24 @@
 ------------------------------------------------------
-Started: 2025-02-08 06:14:20.490300
-Existing_entries: 1008
+Started: 2025-02-08 08:13:16.677500
+Existing_entries: 1013
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1093
+Token length: 141
 Summarized using gpt-3.5-turbo
-Append: [抖音出手打击无底线博流量行为!永封张兰等直播间](https://www.yicai.com/news/102465182.html)
-Token length: 1196
-Summarized using gpt-3.5-turbo
-Append: [蛇年首家！连续20日市值不足5亿元，*ST大药触发强制退市](https://www.yicai.com/news/102465176.html)
-Token length: 3448
-Summarized using gpt-3.5-turbo
-Append: [万亿GDP城市去年座次排定：泉州增速领跑，6城市进位](https://www.yicai.com/news/102465175.html)
-Token length: 1400
-Summarized using gpt-3.5-turbo
-Append: [新规“压垮”美国海关，特朗普暂时恢复小额包裹免税政策](https://www.yicai.com/news/102465161.html)
-Token length: 2476
-Summarized using gpt-3.5-turbo
-Append: [“新灵渠”！湖南人期盼半个多世纪的这项工程迎重大进展](https://www.yicai.com/news/102465148.html)
-Token length: 1741
-Summarized using gpt-3.5-turbo
-Append: [欧盟或削减美国进口汽车关税求放过？欧洲议会官员称“反胁迫工具”也在准备中](https://www.yicai.com/news/102465144.html)
-Token length: 256
-Summarized using gpt-3.5-turbo
-Append: [US judge declines to block Elon Musk's DOGE from Labor Department systems](https://www.reuters.com/world/us/us-judge-declines-block-elon-musks-doge-labor-department-systems-2025-02-08/)
+Append: [Modi’s BJP Leads in Elections in Delhi Region](https://www.nytimes.com/2025/02/08/world/asia/india-delhi-election-results.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [中泰联合声明：以零容忍的坚决态度，加强打击人口贩运、电信网络诈骗等跨境犯罪](https://m.thepaper.cn/detail/30107701)
-Token length: 80
+Append: [特朗普“风暴式改革”，前景如何？](https://www.huxiu.com/article/3992054.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [特朗普的2025计划，在130年前就写好了](https://www.huxiu.com/article/3991659.html)
+Token length: 739
 Summarized using gpt-3.5-turbo
-Append: [张兰、汪小菲抖音账号无限期封禁：利用大S去世恶意炒作营销](https://m.thepaper.cn/detail/30107700)
-Token length: 755
+Append: [特朗普：DeepSeek不会对国家安全构成威胁，美国将从中受益](https://www.yicai.com/news/102465186.html)
+Token length: 838
 Summarized using gpt-3.5-turbo
-Append: [抖音：利用逝者恶意炒作营销，对“张兰·俏生活”、“汪小菲”等账号予以无限期封禁](https://m.thepaper.cn/detail/30107606)
-Token length: 405
-Summarized using gpt-3.5-turbo
-Append: [巴拿马拟终止中巴共建“一带一路”谅解备忘录，中方提出严正交涉](https://m.thepaper.cn/detail/30107600)
-Token length: 1822
-Summarized using gpt-3.5-turbo
-Append: [医药的“DeepSeek时刻”，中国创新药也已达到了](https://wallstreetcn.com/articles/3740633)
-Token length: 59
-Summarized using gpt-3.5-turbo
-Append: [最高检对李微微作出逮捕决定](https://m.thepaper.cn/detail/30107474)
-append_entries: 13
-Finish: 2025-02-08 06:14:45.624545
+Append: [特朗普周末不休息！高盛交易员：周一和周五市场波动加大，现在已不是秘密了](https://wallstreetcn.com/articles/3740637)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [如何更好的为 DeepSeek R1 或 OpenAI o1 这样的推理模型写提示词？](https://juejin.cn/post/7468659119278014475)
+append_entries: 6
+Finish: 2025-02-08 08:13:23.243356
