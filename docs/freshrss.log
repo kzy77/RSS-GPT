@@ -1,42 +1,36 @@
 ------------------------------------------------------
-Started: 2025-02-08 14:09:25.455077
-Existing_entries: 1007
+Started: 2025-02-08 16:11:58.338809
+Existing_entries: 1012
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 48
+Token length: 144
 Summarized using gpt-3.5-turbo
-Append: [minrag/minrag](https://gitee.com/minrag/minrag)
-Token length: 281
+Append: [Trump Says He’s Revoking Biden’s Security Clearance](https://www.nytimes.com/live/2025/02/08/us/trump-administration-news/trump-biden-security-clearances)
+Token length: 3205
 Summarized using gpt-3.5-turbo
-Append: [US judge temporarily blocks Musk's DOGE from accessing payment systems](https://www.reuters.com/legal/us-judge-temporarily-blocks-musks-doge-accessing-payment-systems-2025-02-08/)
-Token length: 24
+Append: [泡泡玛特和《哪吒》心有灵犀](https://www.36kr.com/p/3156676482636289)
+Token length: 747
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek R1 满血开源！本地 & 云端部署，绕过硬件限制，小鸡扛大炮实测！ | 零度解说](https://www.freedidi.com/18460.html)
-Token length: 302
+Append: [“新美联储通讯社”：1月就业报告难改美联储观望态度](https://wallstreetcn.com/articles/3740623)
+Token length: 18
 Summarized using gpt-3.5-turbo
-Append: [US farmers turn to Airbnb, corn mazes to outlast agricultural downturn](https://www.reuters.com/markets/us/us-farmers-turn-airbnb-corn-mazes-outlast-agricultural-downturn-2025-02-08/)
-Token length: 2592
+Append: [轻松部署无限节点代理池！从零开始小白轻松上手！CM喂饭干货满满！](https://blog.cmliussss.com/p/ProxyPool/)
+Token length: 1744
 Summarized using gpt-3.5-turbo
-Append: [特朗普盯上吸管了](https://www.huxiu.com/article/3993480.html)
+Append: [《哪吒2》登顶中国影史票房，凭什么｜乐言商业](https://www.yicai.com/news/102465380.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [马斯克带着6个00后革美国的命](https://www.huxiu.com/article/3993047.html)
-Token length: 75
+Append: [老有所依｜进入生命的“加时赛”，如何活得更有质量？](https://www.yicai.com/news/102465377.html)
+Token length: 112
 Summarized using gpt-3.5-turbo
-Append: [四川宜宾筠连县山体滑坡已致30余人失联，救援正在展开](https://m.thepaper.cn/detail/30109592)
-Token length: 60
+Append: [Wintry Mess Predicted Across Parts of the Northeast](https://www.nytimes.com/2025/02/08/weather/new-york-boston-northeast-snow.html)
+Token length: 229
 Summarized using gpt-3.5-turbo
-Append: [四川宜宾市筠连县山体滑坡已造成10户民房被掩埋、30余人失联](https://m.thepaper.cn/detail/30109583)
-Token length: 1361
+Append: [TB, malaria, newborn health services must restart, says USAID memo](https://www.reuters.com/business/healthcare-pharmaceuticals/tb-malaria-newborn-health-services-must-restart-says-usaid-memo-2025-02-08/)
+Token length: 1101
 Summarized using gpt-3.5-turbo
-Append: [为了对付特朗普，欧洲花了整整一年准备，如今要用了](https://wallstreetcn.com/articles/3740647)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [万万没想到，最先被AI取代的是内娱？](https://www.36kr.com/p/3157216035625481)
-Token length: 204
+Append: [vless://9f43e546-6c58-4637-88e3-d1cc6997ce98@alacoidssds.alcatelindan.com:40161?security=reality&encryption=none&pbk=bVq_MJRnzs_9xWxqIG0IB-G5C3jBVn4d7...](https://t.me/V2rayNg_madam/4415)
+Token length: 119
 Summarized using gpt-3.5-turbo
-Append: [How War Has Wreaked Havoc on Ukraine’s Classrooms](https://www.nytimes.com/2025/02/08/world/europe/ukraine-russia-war-education.html)
-Token length: 43
-Summarized using gpt-3.5-turbo
-Append: [Playing DOGE-ball With the Government](https://www.nytimes.com/2025/02/08/opinion/trump-musk-doge.html)
-append_entries: 12
-Finish: 2025-02-08 14:09:46.021297
+Append: [Trump’s aid freeze sparks mayhem around the world](https://www.reuters.com/world/us/trumps-aid-freeze-keeps-life-saving-programs-shut-sparks-mayhem-2025-02-08/)
+append_entries: 10
+Finish: 2025-02-08 16:12:14.773847
