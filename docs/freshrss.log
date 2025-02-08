@@ -1,24 +1,54 @@
 ------------------------------------------------------
-Started: 2025-02-08 08:13:16.677500
-Existing_entries: 1013
+Started: 2025-02-08 10:10:34.286761
+Existing_entries: 1006
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 141
+Token length: 396
 Summarized using gpt-3.5-turbo
-Append: [Modi’s BJP Leads in Elections in Delhi Region](https://www.nytimes.com/2025/02/08/world/asia/india-delhi-election-results.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [特朗普“风暴式改革”，前景如何？](https://www.huxiu.com/article/3992054.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [特朗普的2025计划，在130年前就写好了](https://www.huxiu.com/article/3991659.html)
-Token length: 739
+Append: [十部门联合印发《互联网军事信息传播管理办法》](https://www.yicai.com/news/102465280.html)
+Token length: 1510
 Summarized using gpt-3.5-turbo
-Append: [特朗普：DeepSeek不会对国家安全构成威胁，美国将从中受益](https://www.yicai.com/news/102465186.html)
-Token length: 838
+Append: [习近平：深入落实推动新时代东北全面振兴战略部署 在中国式现代化建设中展现更大作为](https://www.yicai.com/news/102465247.html)
+Token length: 2765
 Summarized using gpt-3.5-turbo
-Append: [特朗普周末不休息！高盛交易员：周一和周五市场波动加大，现在已不是秘密了](https://wallstreetcn.com/articles/3740637)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [如何更好的为 DeepSeek R1 或 OpenAI o1 这样的推理模型写提示词？](https://juejin.cn/post/7468659119278014475)
-append_entries: 6
-Finish: 2025-02-08 08:13:23.243356
+Append: [马斯克的“娃娃兵”，掀起“美国第二次大革命”](https://www.huxiu.com/article/3993063.html)
+Token length: 881
+Summarized using gpt-3.5-turbo
+Append: [GDP突破3200亿，光谷综合排名升至全国高新区第六](https://www.yicai.com/news/102465228.html)
+Token length: 854
+Summarized using gpt-3.5-turbo
+Append: [解决美毒品问题在于加强国际合作而非单边加征关税｜专家解读](https://www.yicai.com/news/102465245.html)
+Token length: 1228
+Summarized using gpt-3.5-turbo
+Append: [全球流感大暴发！美国感染率升至15年新高](https://www.yicai.com/news/102465260.html)
+Token length: 1903
+Summarized using gpt-3.5-turbo
+Append: [“冷”资源成“热”引擎，借体育盛事“冬“风冰雪装备迎增长](https://www.yicai.com/news/102465261.html)
+Token length: 148
+Summarized using gpt-3.5-turbo
+Append: [Woman arrested after reporter covering Super Bowl found dead](https://www.reuters.com/world/us/woman-arrested-after-reporter-covering-super-bowl-found-dead-2025-02-08/)
+Token length: 964
+Summarized using gpt-3.5-turbo
+Append: [马上评｜张兰汪小菲封号：公序良俗底线不容突破](https://m.thepaper.cn/detail/30108645)
+Token length: 2795
+Summarized using gpt-3.5-turbo
+Append: [马斯克的“娃娃兵”，掀起“美国第二次大革命”](https://wallstreetcn.com/articles/3740645)
+Token length: 261
+Summarized using gpt-3.5-turbo
+Append: [一警车连撞3车后驾驶员逃逸？官方通报](https://m.thepaper.cn/detail/30108525)
+Token length: 80
+Summarized using gpt-3.5-turbo
+Append: [这张珍贵的合影，已空无一人](https://m.thepaper.cn/detail/30108331)
+Token length: 1858
+Summarized using gpt-3.5-turbo
+Append: [大生意！中交城投首进上海的最大旧改项目开工了](https://www.36kr.com/p/3157333911968512)
+Token length: 199
+Summarized using gpt-3.5-turbo
+Append: [Judge Halts DOGE Access to Treasury Payment Systems](https://www.nytimes.com/2025/02/07/nyregion/attorneys-general-trump-musk-suit.html)
+Token length: 283
+Summarized using gpt-3.5-turbo
+Append: [USAID families have their lives upended by Trump move to shut agency](https://www.reuters.com/world/us/usaid-families-have-their-lives-upended-by-trump-move-shut-agency-2025-02-08/)
+Token length: 1083
+Summarized using gpt-3.5-turbo
+Append: [抖音账号遭无限期封禁后，张兰微博账号直播功能已被暂停](https://m.thepaper.cn/detail/30108589)
+append_entries: 16
+Finish: 2025-02-08 10:11:08.348175
