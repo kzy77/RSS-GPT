@@ -1,30 +1,60 @@
 ------------------------------------------------------
-Started: 2025-02-08 00:52:21.789222
-Existing_entries: 1018
+Started: 2025-02-08 02:38:22.042077
+Existing_entries: 1008
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 158
+Token length: 264
 Summarized using gpt-3.5-turbo
-Append: [Critics Choice Awards Photos: All the Looks From the 2025 Red Carpet](https://www.nytimes.com/2025/02/07/style/critics-choice-red-carpet-photos-2025.html)
-Token length: 174
+Append: [Russell Vought took over as acting director of consumer protection office, WSJ reports](https://www.reuters.com/world/us/russell-vought-took-over-acting-director-consumer-protection-office-wsj-reports-2025-02-08/)
+Token length: 207
 Summarized using gpt-3.5-turbo
-Append: [Fire Destroys Ohio Farm Building Holding Thousands of Chickens](https://www.nytimes.com/2025/02/07/us/ohio-chicken-farm-fire.html)
-Token length: 165
+Append: [Pentagon doubles number of news outlets to 'rotate' out from office spaces](https://www.reuters.com/world/us/pentagon-doubles-number-news-outlets-rotate-out-office-spaces-2025-02-08/)
+Token length: 128
 Summarized using gpt-3.5-turbo
-Append: [Tony Roberts, Nonchalant Fixture in Woody Allen Films, Dies at 85](https://www.nytimes.com/2025/02/07/movies/tony-roberts-dead.html)
-Token length: 152
+Append: [“哪吒” 狂飙，“蛟龙” 搁浅，影视传媒股的冰火两重天丨股市演义](https://www.yicai.com/video/102465034.html)
+Token length: 144
 Summarized using gpt-3.5-turbo
-Append: [Trump Says He Will Install Himself as Kennedy Center Chairman](https://www.nytimes.com/2025/02/07/us/politics/trump-kennedy-center.html)
-Token length: 234
+Append: [Judge Will Freeze Elements of Trump Plan to Shut Down U.S.A.I.D.](https://www.nytimes.com/live/2025/02/07/us/trump-administration-updates/judge-will-freeze-elements-of-trump-plan-to-shut-down-usaid)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [在加沙踢足球：这里没有新闻](https://www.huxiu.com/article/3990061.html)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [9点1氪｜接入DeepSeek键盘鼠标日销售额近百万；电影院按摩椅背后公司九个月赚1亿；达美乐将在全球关闭205家亏损门店](https://www.36kr.com/p/3156520856607497)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一年成交1300亿，谁在抖音这条万亿赛道闷声赚钱？](https://www.36kr.com/p/3156157170277128)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [华尔街见闻早餐FM-Radio | 2025年2月8日](https://wallstreetcn.com/articles/3740630)
+Token length: 1657
 Summarized using gpt-3.5-turbo
-Append: [US states ask judge to enforce order blocking Trump funding freeze](https://www.reuters.com/world/us/us-states-ask-judge-enforce-order-blocking-trump-funding-freeze-2025-02-07/)
-Token length: 83
+Append: [微博有偿公开访客记录被华东政法学生起诉，相关界面已修改](https://m.thepaper.cn/detail/30101545)
+Token length: 1602
 Summarized using gpt-3.5-turbo
-Append: [Trump Defended Musk’s Cost-Cutting Effort](https://www.nytimes.com/2025/02/07/briefing/trump-elon-musk-pentagon-usaid-job-cuts.html)
-Token length: 169
+Append: [“超”级杯！申花3比2海港，神奇逆转迎来两连冠](https://m.thepaper.cn/detail/30101583)
+Token length: 78
 Summarized using gpt-3.5-turbo
-Append: [Musk speaks at JPMorgan event attended by CEO Dimon, source says](https://www.reuters.com/world/us/musk-speaks-jpmorgan-event-attended-by-ceo-dimon-source-says-2025-02-07/)
+Append: [突破67.922亿！哪吒2登顶全球影史单一市场票房第1](https://m.thepaper.cn/detail/30102759)
+Token length: 3091
+Summarized using gpt-3.5-turbo
+Append: [苹果机器人首次曝光，一个有情绪会蹦迪的“台灯”，皮克斯动画照进现实](https://www.36kr.com/p/3156437179357954)
+Token length: 2699
+Summarized using gpt-3.5-turbo
+Append: [不一样的哈尔滨亚冬会，看到中国走向体育强国的底气](https://m.thepaper.cn/detail/30099405)
+Token length: 80
+Summarized using gpt-3.5-turbo
+Append: [深切缅怀黄旭华院士！上海交大有“旭华路”“旭华班”，还有段椅子的故事](https://m.thepaper.cn/detail/30100230)
+Token length: 154
+Summarized using gpt-3.5-turbo
+Append: [使用C# 调用deepseek api接口,来实现正常访问](https://www.cnblogs.com/MarsPanda/p/18702486)
 Token length: 141
 Summarized using gpt-3.5-turbo
-Append: [Trump Says Nippon Steel Will Make Major Investment in U.S. Steel](https://www.nytimes.com/2025/02/07/us/politics/trump-nippon-steel-us.html)
-append_entries: 8
-Finish: 2025-02-08 00:52:36.253664
+Append: [The Artist Alonzo Davis’s Life and Work in Pictures](https://www.nytimes.com/2025/02/04/arts/alonzo-davis-photos.html)
+Token length: 237
+Summarized using gpt-3.5-turbo
+Append: [USDA freezes farmer funding for some programs, conservation contracts](https://www.reuters.com/world/us/usda-freezes-farmer-funding-some-programs-conservation-contracts-2025-02-08/)
+Token length: 73
+Summarized using gpt-3.5-turbo
+Append: [Critics Choice Awards Winners 2025: See the Full List](https://www.nytimes.com/2025/02/07/style/critics-choice-awards-winners-complete-list.html)
+append_entries: 18
+Finish: 2025-02-08 02:38:49.849210
