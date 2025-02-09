@@ -1,66 +1,30 @@
 ------------------------------------------------------
-Started: 2025-02-09 02:43:17.258450
-Existing_entries: 1007
+Started: 2025-02-09 04:13:17.569888
+Existing_entries: 1020
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2222
+Token length: 110
 Summarized using gpt-3.5-turbo
-Append: [中国1月CPI同比上涨0.5%，PPI同比下降2.3%](https://wallstreetcn.com/articles/3740660)
-Token length: 2035
+Append: [产品经理@唐杰](https://tophub.today/n/DOvnNB1vEB)
+Token length: 163
 Summarized using gpt-3.5-turbo
-Append: [国家统计局解读CPI和PPI数据：2025年1月份CPI涨幅扩大 PPI同比下降](https://www.yicai.com/news/102465476.html)
-Token length: 1847
+Append: [Federal Financial Watchdog Ordered to Cease Activity](https://www.nytimes.com/2025/02/08/us/politics/cfpb-vought-staff-finance-watchdog.html)
+Token length: 2090
 Summarized using gpt-3.5-turbo
-Append: [优化新股发行承销机制等，证监会多措并举支持新质生产力发展](https://www.yicai.com/news/102464698.html)
-Token length: 1638
+Append: [本周外盘看点丨鲍威尔亮相国会听证，1月CPI如何影响美联储](https://www.yicai.com/news/102465496.html)
+Token length: 238
 Summarized using gpt-3.5-turbo
-Append: [中介机构IPO服务新规将施行，这些投资机会最靠谱](https://www.yicai.com/news/102465451.html)
-Token length: 1094
+Append: [US intelligence candidates face Trump loyalty tests, Washington Post says](https://www.reuters.com/world/us/us-intelligence-candidates-face-trump-loyalty-tests-washington-post-says-2025-02-09/)
+Token length: 2953
 Summarized using gpt-3.5-turbo
-Append: [上海发布优化营商环境8.0版方案；中国外贸人今年怎么做美国生意](https://www.yicai.com/news/102465455.html)
-Token length: 4234
+Append: [蚂蚁集团高层变动；张兰汪小菲抖音账号被永封；DeepSeek将推动端侧AI普及](https://www.yicai.com/news/102465490.html)
+Token length: 2192
 Summarized using gpt-3.5-turbo
-Append: [DeepSeek日活跃用户数突破3000万；谷歌发布Gemini 2.0“全家桶”](https://www.yicai.com/news/102465452.html)
-Token length: 210
-Summarized using gpt-3.5-turbo
-Append: [Musk Team’s Treasury Access Raises Security Fears, Despite Judge’s Ordered Halt](https://www.nytimes.com/2025/02/08/us/politics/treasury-systems-raised-security-concerns.html)
-Token length: 80
-Summarized using gpt-3.5-turbo
-Append: [“幼儿园关停潮”下的幼儿园园长：负债2千万后直播卖酒自救](https://m.thepaper.cn/detail/30100005)
-Token length: 392
-Summarized using gpt-3.5-turbo
-Append: [四川筠连山体滑坡灾害原因公布，初步核查29人失联](https://m.thepaper.cn/detail/30114715)
-Token length: 54
-Summarized using gpt-3.5-turbo
-Append: [《哪吒2》成为首部进入全球票房榜前50的亚洲电影](https://m.thepaper.cn/detail/30111266)
-Token length: 1819
-Summarized using gpt-3.5-turbo
-Append: [老人被控“劝返途中抢方向盘案”有新进展：事故过程录音被鉴定为未发现剪辑处理](https://m.thepaper.cn/detail/30110419)
-Token length: 72
-Summarized using gpt-3.5-turbo
-Append: [苹果机器人首次曝光：一个会跳舞、高情商的“台灯”](https://m.thepaper.cn/detail/30109563)
+Append: [苹果折叠屏iPhone最全爆料：做大折叠，冲千万销量，九大亮点抢先看](https://www.36kr.com/p/3158644725242371)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [预测2025年家居人最关心的几大问题，DeepSeek的回答堪称砖家](https://www.36kr.com/p/3157346672499458)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [刚开年，好多国资就忍不住投资上海了](https://www.36kr.com/p/3157335605271044)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [占全球90%市场，人工关节陶瓷国产新秀何时替代这一霸主](https://www.36kr.com/p/3157219205503745)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [短剧春节档集体哑火](https://www.36kr.com/p/3156610641582598)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [不要说搭乘，许多泰国人连高铁的样子都没见过](https://www.huxiu.com/article/3995056.html)
-Token length: 187
+Append: [胖东来是药店的解药？](https://wallstreetcn.com/articles/3740656)
+Token length: 3994
 Summarized using gpt-3.5-turbo
-Append: [Bird Flu Suspected in Deaths of Ducks and Wild Birds at N.Y.C. Zoos](https://www.nytimes.com/2025/02/08/nyregion/bird-flu-bronx-queens-zoo.html)
-Token length: 202
-Summarized using gpt-3.5-turbo
-Append: [Trump revokes security clearances for Antony Blinken, Jake Sullivan](https://www.reuters.com/world/us/trump-revokes-security-clearances-top-diplomat-security-official-under-biden-2025-02-09/)
-Token length: 191
-Summarized using gpt-3.5-turbo
-Append: [Democratic Lawmakers Denied Entry to the Department of Education](https://www.nytimes.com/2025/02/08/us/politics/trump-department-education-democrats.html)
-append_entries: 20
-Finish: 2025-02-09 02:43:44.567835
+Append: [体验苹果新应用两天后，我开始期待微信「抄作业」](https://www.36kr.com/p/3157449408059912)
+append_entries: 8
+Finish: 2025-02-09 04:13:32.393631
