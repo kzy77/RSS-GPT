@@ -1,21 +1,9 @@
 ------------------------------------------------------
-Started: 2025-02-09 18:13:34.312165
-Existing_entries: 1018
+Started: 2025-02-09 20:10:39.761979
+Existing_entries: 1005
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 200
+Token length: 125
 Summarized using gpt-3.5-turbo
-Append: [Gyalo Thondup, Political Operator and Brother of the Dalai Lama, Dies at 97](https://www.nytimes.com/2025/02/09/obituaries/gyalo-thondup-dead-dalai-lama-brother.html)
-Token length: 740
-Summarized using gpt-3.5-turbo
-Append: [全国手机等数码产品购新补贴申请人数突破2000万](https://m.thepaper.cn/detail/30117003)
-Token length: 54
-Summarized using gpt-3.5-turbo
-Append: [I Do Not Want Revenge for My Father’s Death](https://www.nytimes.com/2025/02/09/opinion/israel-hostages-killer-father.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [中国短道速滑2金2银4铜收官，争议之外，我们还需加速追赶](https://m.thepaper.cn/detail/30116701)
-Token length: 92
-Summarized using gpt-3.5-turbo
-Append: [How Much Does a Dog’s Breed Affect Its Health and Behavior?](https://www.nytimes.com/2025/02/09/science/dog-breed-health-behavior-westminster.html)
-append_entries: 5
-Finish: 2025-02-09 18:13:43.851073
+Append: [Three Men Convicted of Playing a Role in Ring That Preyed on U.S. Museums](https://www.nytimes.com/2025/02/09/arts/design/three-convicted-in-museum-thefts.html)
+append_entries: 1
+Finish: 2025-02-09 20:10:43.027252
