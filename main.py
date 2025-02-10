@@ -47,29 +47,18 @@ def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
     try:
         print(f"Gemini Config - Model: {GEMINI_MODEL}")
-        # 设置生成配置
-        generation_config = {
-            "temperature": 1,
-            "top_p": 0.95,
-            "top_k": 40,
-            "max_output_tokens": 8192,
-            "response_mime_type": "text/plain",
-        }
-        
-        # 创建模型实例
-        model = generativeai.GenerativeModel(
-            model_name=GEMINI_MODEL,
-            generation_config=generation_config,
-        )
 
         if language == "zh":
             prompt = f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"
         else:
             prompt = f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"
         
-        chat = model.start_chat()
-        response = chat.send_message(f"{prompt}\n\n{query}")
-        return response.text
+        response = generativeai.generate_text(
+            model=GEMINI_MODEL,
+            prompt=f"{prompt}\n\n{query}",
+        )
+        return response
+
     except Exception as e:
         raise Exception(f"Gemini summary failed with model {GEMINI_MODEL}: {str(e)}")
 
