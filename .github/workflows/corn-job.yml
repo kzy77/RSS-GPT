@@ -38,9 +38,9 @@ jobs:
           ls -al docs/
         env:
           # OpenAI 配置
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}  # 应该是 https://api.openai.com/v1
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}  # gpt-3.5-turbo
           
           # Gemini 配置
           GEMINI_BASE_URL: ${{ secrets.GEMINI_BASE_URL }}

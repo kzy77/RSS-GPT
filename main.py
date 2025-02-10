@@ -26,7 +26,9 @@ max_entries = 1000
 
 # OpenAI 配置
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1')
+# 确保 base URL 总是以 /v1 结尾
+base_url = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com')
+OPENAI_BASE_URL = base_url if base_url.endswith('/v1') else f"{base_url.rstrip('/')}/v1"
 OPENAI_MODEL = os.environ.get('OPENAI_MODEL', 'gpt-3.5-turbo')
 
 # Gemini 配置
@@ -196,6 +198,8 @@ def truncate_entries(entries, max_entries):
 
 def gpt_summary(query, model, language):
     """使用 OpenAI GPT 生成摘要"""
+    # 打印 API 配置信息
+    print(f"OpenAI Config - Base URL: {OPENAI_BASE_URL}, Model: {model}")
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
@@ -322,8 +326,9 @@ def output(sec, language):
                 try:
                     provider = get_cfg(sec, 'provider', DEFAULT_PROVIDER)
                     model = get_cfg(sec, 'model', OPENAI_MODEL if provider.lower() == 'openai' else GEMINI_MODEL)
-                    # 打印当前使用的提供商和模型
-                    print(f"Processing {get_cfg(sec, 'name')} with provider: {provider}, model: {model}")
+                    # 打印处理信息
+                    print(f"Processing feed: {get_cfg(sec, 'name')}")
+                    print(f"Provider config - Type: {provider}, Model: {model}")
                     
                     if provider.lower() == 'gemini':
                         entry.summary = gemini_summary(cleaned_article, language)
@@ -334,7 +339,7 @@ def output(sec, language):
                         f.write(f"Token length: {token_length}\n")
                         f.write(f"Summarized using {provider} model: {model}\n")
                 except Exception as e:
-                    print(f"Summarization failed for {get_cfg(sec, 'name')} - Provider: {provider}, Model: {model}, Error: {str(e)}")
+                    print(f"Error: Feed '{get_cfg(sec, 'name')}' failed with {provider}/{model} - {str(e)}")
                     entry.summary = None
                     with open(log_file, 'a') as f:
                         f.write(f"Summarization failed: {str(e)}\n")
