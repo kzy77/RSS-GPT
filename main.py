@@ -11,7 +11,7 @@ import requests
 from fake_useragent import UserAgent
 import glob
 #from dateutil.parser import parse
-from google import generativeai
+from google import genai
 
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
@@ -34,14 +34,14 @@ OPENAI_MODEL = os.environ.get('OPENAI_MODEL', 'gpt-3.5-turbo')
 # Gemini 配置
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 GEMINI_BASE_URL = os.environ.get('GEMINI_BASE_URL')  # 如果未设置则使用默认
-GEMINI_MODEL = os.environ.get('GEMINI_MODEL', 'gemini-pro')
+GEMINI_MODEL = os.environ.get('GEMINI_MODEL', 'gemini-2.0-flash-exp')
 
 # 默认提供商
 DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
 
 # 修改 Gemini 初始化
 if GEMINI_API_KEY:
-    generativeai.configure(api_key=GEMINI_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
 def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
@@ -53,11 +53,11 @@ def gemini_summary(query, language):
         else:
             prompt = f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"
         
-        response = generativeai.generate_text(
+        response = client.models.generate_content(
             model=GEMINI_MODEL,
-            prompt=f"{prompt}\n\n{query}",
+            contents=f"{prompt}\n\n{query}",
         )
-        return response
+        return response.text
 
     except Exception as e:
         raise Exception(f"Gemini summary failed with model {GEMINI_MODEL}: {str(e)}")
