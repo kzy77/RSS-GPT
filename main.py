@@ -389,6 +389,21 @@ def generate_atom_feed(feeds_data):
     # 限制条目数量，避免文件过大
     all_entries = all_entries[:max_entries]
     
+    # 转义特殊字符
+    def escape_xml(text):
+        if isinstance(text, str):
+            return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
+        return text
+
+    # 处理每个条目中的特殊字符
+    for entry in all_entries:
+        if hasattr(entry, 'title'):
+            entry.title = escape_xml(entry.title)
+        if hasattr(entry, 'link'):
+            entry.link = escape_xml(entry.link)
+        if hasattr(entry, 'summary'):
+            entry.summary = escape_xml(entry.summary)
+    
     try:
         with open(os.path.join(BASE, 'atom.xml'), 'w', encoding='utf-8') as f:
             rss = template.render(
