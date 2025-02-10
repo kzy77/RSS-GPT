@@ -11,6 +11,8 @@ import requests
 from fake_useragent import UserAgent
 import glob
 #from dateutil.parser import parse
+import google.generativeai as googleai
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
@@ -23,10 +25,58 @@ secs = config.sections()
 # Maxnumber of entries to in a feed.xml file
 max_entries = 1000
 
+# OpenAI 配置
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1')
+OPENAI_MODEL = os.environ.get('OPENAI_MODEL', 'gpt-3.5-turbo')
+
+# Gemini 配置
+GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
+GEMINI_BASE_URL = os.environ.get('GEMINI_BASE_URL')  # 如果未设置则使用默认
+GEMINI_MODEL = os.environ.get('GEMINI_MODEL', 'gemini-pro')
+
+# 默认提供商
+DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
+
+# 修改 Gemini 初始化
+if GEMINI_API_KEY:
+    googleai_config = {
+        'api_key': GEMINI_API_KEY,
+        'transport': 'rest'
+    }
+    # 如果设置了自定义端点则使用
+    if GEMINI_BASE_URL:
+        googleai_config['client_options'] = {'api_endpoint': GEMINI_BASE_URL}
+    
+    googleai.configure(**googleai_config)
+    # 配置安全设置
+    safety_settings = {
+        HarmCategory.HARASSMENT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
+        HarmCategory.HATE_SPEECH: HarmBlockThreshold.MEDIUM_AND_ABOVE,
+        HarmCategory.SEXUALLY_EXPLICIT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
+        HarmCategory.DANGEROUS_CONTENT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
+    }
+
+def gemini_summary(query, language):
+    """使用 Gemini 生成摘要"""
+    try:
+        # 使用配置的模型或默认模型
+        model = googleai.GenerativeModel(GEMINI_MODEL)
+        if language == "zh":
+            prompt = f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"
+        else:
+            prompt = f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"
+        
+        response = model.generate_content(
+            f"{prompt}\n\n{query}",
+            safety_settings=safety_settings
+        )
+        return response.text
+    except Exception as e:
+        raise Exception(f"Gemini summary failed: {str(e)}")
+
 U_NAME = os.environ.get('U_NAME')
 OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.openai.com/v1')
 custom_model = os.environ.get('CUSTOM_MODEL', 'gpt-3.5-turbo')
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
@@ -388,21 +438,6 @@ def generate_atom_feed(feeds_data):
     
     # 限制条目数量，避免文件过大
     all_entries = all_entries[:max_entries]
-    
-    # 转义特殊字符
-    def escape_xml(text):
-        if isinstance(text, str):
-            return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
-        return text
-
-    # 处理每个条目中的特殊字符
-    for entry in all_entries:
-        if hasattr(entry, 'title'):
-            entry.title = escape_xml(entry.title)
-        if hasattr(entry, 'link'):
-            entry.link = escape_xml(entry.link)
-        if hasattr(entry, 'summary'):
-            entry.summary = escape_xml(entry.summary)
     
     try:
         with open(os.path.join(BASE, 'atom.xml'), 'w', encoding='utf-8') as f:
