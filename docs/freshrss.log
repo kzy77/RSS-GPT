@@ -1,12 +1,57 @@
 ------------------------------------------------------
-Started: 2025-02-10 13:50:46.689982
-Existing_entries: 18
+Started: 2025-02-10 14:11:12.129954
+Existing_entries: 2
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 250
+Token length: 633
 Summarized using gpt-3.5-turbo
-Append: [tinyflow-ai/tinyflow](https://gitee.com/tinyflow-ai/tinyflow)
-Token length: 238
+Append: [DeepSeek获顶级域名ai.com认可](https://www.yicai.com/news/102467336.html)
+Token length: 217
 Summarized using gpt-3.5-turbo
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-append_entries: 2
-Finish: 2025-02-10 13:50:52.967977
+Append: [Acting CFPB chief tells all staff to cease 'any work tasks'](https://www.reuters.com/world/us/acting-cfpb-chief-tells-all-staff-cease-any-work-tasks-2025-02-10/)
+Token length: 1400
+Summarized using gpt-3.5-turbo
+Append: [买华为手表可刷医保被抢购？记者实地探访上海药店，还发现了这些信息](https://www.yicai.com/news/102467312.html)
+Token length: 161
+Summarized using gpt-3.5-turbo
+Append: [Senate Democrats create new portal for Trump whistleblowers](https://www.reuters.com/world/us/senate-democrats-create-new-portal-trump-whistleblowers-2025-02-10/)
+Token length: 348
+Summarized using gpt-3.5-turbo
+Append: [我国消费市场持续火热 A股实现三连阳](https://www.yicai.com/video/102467317.html)
+Token length: 1611
+Summarized using gpt-3.5-turbo
+Append: [一财社论：资本市场信心复苏，需依赖理性而非情绪](https://www.yicai.com/news/102467318.html)
+Token length: 2841
+Summarized using gpt-3.5-turbo
+Append: [贸易关税纷争不断，人民币中间价为何不贬反升](https://www.yicai.com/news/102467305.html)
+Token length: 1137
+Summarized using gpt-3.5-turbo
+Append: [比亚迪推出高阶智驾系统“天神之眼”，10万级及以上全系标配，璇玑架构全面接入DeepSeek](https://wallstreetcn.com/articles/3740775)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中小企业“要账难”，除了完善立法更要强化执行](https://www.yicai.com/news/102467286.html)
+Token length: 244
+Summarized using gpt-3.5-turbo
+Append: [Trump's foreign aid cuts 'catastrophic,' says global Catholic charity arm](https://www.reuters.com/world/us/trumps-foreign-aid-cuts-catastrophic-says-global-catholic-charity-arm-2025-02-10/)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一财首席经济学家调研：更多积极政策有望出台，年内仍有降息降准可能](https://www.yicai.com/news/102467245.html)
+Token length: 940
+Summarized using gpt-3.5-turbo
+Append: [李强主持召开国务院常务会议：研究提振消费有关工作，审议通过《2025年稳外资行动方案》](https://m.thepaper.cn/detail/30122293)
+Token length: 635
+Summarized using gpt-3.5-turbo
+Append: [丽江机场“值机员撕登机牌”调查结果：两名涉事人员待岗，多个部门负责人被警告](https://m.thepaper.cn/detail/30122173)
+Token length: 2020
+Summarized using gpt-3.5-turbo
+Append: [澎湃暗访“下脚料制假棉被”追踪：多地监管部门紧急行动，部分涉事商品已下架](https://m.thepaper.cn/detail/30122036)
+Token length: 188
+Summarized using gpt-3.5-turbo
+Append: [Israeli Police Raid Two Palestinian Bookshops in East Jerusalem](https://www.nytimes.com/2025/02/10/world/middleeast/israel-east-jerusalem-bookstore.html)
+Token length: 211
+Summarized using gpt-3.5-turbo
+Append: [Amazon faces union vote at North Carolina warehouse](https://www.reuters.com/technology/amazon-faces-union-vote-north-carolina-warehouse-2025-02-10/)
+Token length: 2949
+Summarized using gpt-3.5-turbo
+Append: [开年月余多家央国企筹划重组，业内预计并购市场持续增温](https://www.yicai.com/news/102467134.html)
+append_entries: 17
+Finish: 2025-02-10 14:11:49.319753
