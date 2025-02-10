@@ -250,11 +250,12 @@ def output(sec, language):
         raise Exception('filter_apply, type, rule must be set together')
 
     # Max number of items to summarize
-    max_items = get_cfg(sec, 'max_items')
-    if not max_items:
-        max_items = 0
-    else:
-        max_items = int(max_items)
+    try:
+        max_items = int(get_cfg(sec, 'max_items', '10'))  # 默认为10
+    except ValueError:
+        max_items = 10
+        print(f"Warning: Invalid max_items value for {get_cfg(sec, 'name')}, using default: 10")
+
     cnt = 0
     existing_entries = read_entry_from_file(sec)
     with open(log_file, 'a') as f:
