@@ -328,8 +328,6 @@ def output(sec, language):
                     if provider.lower() == 'gemini':
                         entry.summary = gemini_summary(cleaned_article, language)
                     else:  # openai
-                        # 确保模型名称符合要求（小写，无特殊字符）
-                        model = model.lower().replace('-', '')
                         entry.summary = gpt_summary(cleaned_article, model, language)
                     
                     with open(log_file, 'a') as f:
