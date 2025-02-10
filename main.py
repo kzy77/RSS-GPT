@@ -65,9 +65,8 @@ def gemini_summary(query, language):
     except Exception as e:
         raise Exception(f"Gemini summary failed: {str(e)}")
 
+# 其他配置
 U_NAME = os.environ.get('U_NAME')
-OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-custom_model = os.environ.get('CUSTOM_MODEL', 'gpt-3.5-turbo')
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
 keyword_length = int(get_cfg('cfg', 'keyword_length'))
@@ -195,31 +194,24 @@ def truncate_entries(entries, max_entries):
         entries = entries[:max_entries]
     return entries
 
-def gpt_summary(query,model,language):
+def gpt_summary(query, model, language):
+    """使用 OpenAI GPT 生成摘要"""
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'，<br>是HTML的换行符，输出时必须保留2个，并且必须在'总结:'二字之前"}
+            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"}
         ]
     else:
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
+            {"role": "assistant", "content": f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"}
         ]
-    if not OPENAI_PROXY:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            base_url=OPENAI_BASE_URL,
-        )
-    else:
-        client = OpenAI(
-            api_key=OPENAI_API_KEY,
-            # Or use the `OPENAI_BASE_URL` env var
-            base_url=OPENAI_BASE_URL,
-            # example: "http://my.test.server.example.com:8083",
-            http_client=httpx.Client(proxy=OPENAI_PROXY),
-            # example:"http://my.test.proxy.example.com",
-        )
+
+    client = OpenAI(
+        api_key=OPENAI_API_KEY,
+        base_url=OPENAI_BASE_URL,
+    )
+
     completion = client.chat.completions.create(
         model=model,
         messages=messages,
@@ -325,36 +317,23 @@ def output(sec, language):
             cnt += 1
             if cnt > max_items:
                 entry.summary = None
-            elif OPENAI_API_KEY:
+            else:
                 token_length = len(cleaned_article)
-                if custom_model:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model=custom_model, language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using {custom_model}\n")
-                    except Exception as e:
-                        entry.summary = None
-                        with open(log_file, 'a') as f:
-                            f.write(f"Summarization failed in custom_model, append the original article\n")
-                            f.write(f"error: {e}\n")
-                else:
-                    try:
-                        entry.summary = gpt_summary(cleaned_article,model="gpt-4o-mini", language=language)
-                        with open(log_file, 'a') as f:
-                            f.write(f"Token length: {token_length}\n")
-                            f.write(f"Summarized using gpt-4o-mini\n")
-                    except:
-                        try:
-                            entry.summary = gpt_summary(cleaned_article,model="gpt-4o", language=language)
-                            with open(log_file, 'a') as f:
-                                f.write(f"Token length: {token_length}\n")
-                                f.write(f"Summarized using GPT-4o\n")
-                        except Exception as e:
-                            entry.summary = None
-                            with open(log_file, 'a') as f:
-                                f.write(f"Summarization failed in gpt-4o, append the original article\n")
-                                f.write(f"error: {e}\n")
+                try:
+                    provider = get_cfg(sec, 'provider', DEFAULT_PROVIDER)
+                    model = get_cfg(sec, 'model', OPENAI_MODEL if provider.lower() == 'openai' else GEMINI_MODEL)
+                    if provider.lower() == 'gemini':
+                        entry.summary = gemini_summary(cleaned_article, language)
+                    else:  # openai
+                        entry.summary = gpt_summary(cleaned_article, model, language)
+                    
+                    with open(log_file, 'a') as f:
+                        f.write(f"Token length: {token_length}\n")
+                        f.write(f"Summarized using {provider} model: {model}\n")
+                except Exception as e:
+                    entry.summary = None
+                    with open(log_file, 'a') as f:
+                        f.write(f"Summarization failed: {str(e)}\n")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
