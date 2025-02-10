@@ -381,3 +381,45 @@ with open(os.path.join(BASE, 'index.html'), 'w') as f:
 # 生成聚合的 atom.xml
 if feeds_data:
     generate_atom_feed(feeds_data)
+
+def generate_atom_feed(feeds_data):
+    """生成聚合的atom.xml，包含所有源的条目"""
+    template = Template(open('template.xml').read())
+    
+    # 合并所有源的条目
+    all_entries = []
+    for feed_data in feeds_data:
+        if feed_data and 'entries' in feed_data:
+            all_entries.extend(feed_data['entries'])
+    
+    # 按时间排序（如果有更新时间的话）
+    try:
+        all_entries.sort(key=lambda x: x.updated if hasattr(x, 'updated') else '', reverse=True)
+    except:
+        pass
+    
+    # 创建聚合feed的基本信息
+    aggregated_feed = {
+        'feed': {
+            'title': 'RSS-GPT Aggregated Feed',
+            'link': deployment_url,
+            'updated': datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            'author': U_NAME,
+            'id': deployment_url
+        }
+    }
+    
+    # 限制条目数量，避免文件过大
+    all_entries = all_entries[:max_entries]
+    
+    try:
+        with open(os.path.join(BASE, 'atom.xml'), 'w', encoding='utf-8') as f:
+            rss = template.render(
+                feed=aggregated_feed, 
+                append_entries=all_entries,
+                existing_entries=[]
+            )
+            f.write(rss)
+            print(f"Successfully generated atom.xml with {len(all_entries)} entries")
+    except Exception as e:
+        print(f"Error generating atom.xml: {str(e)}")
