@@ -52,6 +52,7 @@ if GEMINI_API_KEY:
 def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
     try:
+        print(f"Gemini Config - Model: {GEMINI_MODEL}")
         # 使用配置的模型或默认模型
         model = genai.GenerativeModel(GEMINI_MODEL)
         if language == "zh":
@@ -59,13 +60,12 @@ def gemini_summary(query, language):
         else:
             prompt = f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"
         
-        # 新版本 API 不再需要 safety_settings
         response = model.generate_content(
             f"{prompt}\n\n{query}"
         )
         return response.text
     except Exception as e:
-        raise Exception(f"Gemini summary failed: {str(e)}")
+        raise Exception(f"Gemini summary failed with model {GEMINI_MODEL}: {str(e)}")
 
 # 其他配置
 U_NAME = os.environ.get('U_NAME')
@@ -327,8 +327,7 @@ def output(sec, language):
                     provider = get_cfg(sec, 'provider', DEFAULT_PROVIDER)
                     model = get_cfg(sec, 'model', OPENAI_MODEL if provider.lower() == 'openai' else GEMINI_MODEL)
                     # 打印处理信息
-                    print(f"Processing feed: {get_cfg(sec, 'name')}")
-                    print(f"Provider config - Type: {provider}, Model: {model}")
+                    print(f"Processing '{get_cfg(sec, 'name')}' with {provider}/{model}")
                     
                     if provider.lower() == 'gemini':
                         entry.summary = gemini_summary(cleaned_article, language)
@@ -339,10 +338,11 @@ def output(sec, language):
                         f.write(f"Token length: {token_length}\n")
                         f.write(f"Summarized using {provider} model: {model}\n")
                 except Exception as e:
-                    print(f"Error: Feed '{get_cfg(sec, 'name')}' failed with {provider}/{model} - {str(e)}")
+                    error_msg = f"Summarization failed for '{get_cfg(sec, 'name')}' ({provider}/{model}): {str(e)}"
+                    print(error_msg)
                     entry.summary = None
                     with open(log_file, 'a') as f:
-                        f.write(f"Summarization failed: {str(e)}\n")
+                        f.write(f"{error_msg}\n")
 
             append_entries.append(entry)
             with open(log_file, 'a') as f:
