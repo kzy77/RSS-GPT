@@ -331,10 +331,12 @@ def output(sec, language):
             f.write(rss)
         with open(log_file, 'a') as f:
             f.write(f'Finish: {datetime.datetime.now()}\n')
+        return {'feed': feed, 'entries': append_entries}
     except:
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
+        return None
 
 def clean_logs():
     """清理docs目录下的所有log文件"""
@@ -354,31 +356,28 @@ except:
 # 在处理RSS之前清理日志文件
 clean_logs()
 
+# 收集所有feed数据
+feeds_data = []
 feeds = []
 links = []
 
-for x in secs[1:]:
-    output(x, language=language)
-    feed = {"url": get_cfg(x, 'url').replace(',','<br>'), "name": get_cfg(x, 'name')}
-    feeds.append(feed)  # for rendering index.html
-    links.append("- "+ get_cfg(x, 'url').replace(',',', ') + " -> " + deployment_url + feed['name'] + ".xml\n")
+for x in secs[1:]:  # 跳过[cfg]部分
+    feed_data = output(x, language=language)
+    if feed_data:
+        feeds_data.append(feed_data)
+        feeds.append(feed_data['feed'])
+        links.append("- "+ get_cfg(x, 'url').replace(',',', ') + " -> " + deployment_url + feed_data['feed']['feed']['title'] + ".xml\n")
 
-def append_readme(readme, links):
-    with open(readme, 'r') as f:
-        readme_lines = f.readlines()
-    while readme_lines[-1].startswith('- ') or readme_lines[-1] == '\n':
-        readme_lines = readme_lines[:-1]  # remove 1 line from the end for each feed
-    readme_lines.append('\n')
-    readme_lines.extend(links)
-    with open(readme, 'w') as f:
-        f.writelines(readme_lines)
-
+# 更新 README
 append_readme("README.md", links)
 append_readme("README-zh.md", links)
 
-# Rendering index.html used in my GitHub page, delete this if you don't need it.
-# Modify template.html to change the style
+# 生成 index.html
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
     html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), feeds=feeds)
     f.write(html)
+
+# 生成聚合的 atom.xml
+if feeds_data:
+    generate_atom_feed(feeds_data)
