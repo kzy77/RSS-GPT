@@ -54,4 +54,5 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24 -> https://kzy77.github.io/RSS-GPT/freshrss.xml
+- https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24 -> https://kzy77.github.io/RSS-GPT/首页 | FreshRSS.xml
+- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://kzy77.github.io/RSS-GPT/小众软件官方论坛 - 使用macos标记的话题.xml
