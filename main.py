@@ -12,7 +12,6 @@ from fake_useragent import UserAgent
 import glob
 #from dateutil.parser import parse
 import google.generativeai as genai
-from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
