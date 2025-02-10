@@ -1,39 +1,33 @@
 ------------------------------------------------------
-Started: 2025-02-10 06:16:44.344355
-Existing_entries: 1009
+Started: 2025-02-10 08:15:39.881649
+Existing_entries: 1011
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [金融圈加速DeepSeek本地化部署，AI大战“底盘”仍是人工](https://www.yicai.com/news/102465710.html)
-Token length: 1702
+Append: [特朗普强推“去多元化”，学生担心完不成学业](https://www.huxiu.com/article/4000376.html)
+Token length: 147
 Summarized using gpt-3.5-turbo
-Append: [县域春节档电影票房榜：昆山江阴义乌位居前三](https://www.yicai.com/news/102465631.html)
-Token length: 159
+Append: [Ecuador’s President Faces Runoff After Falling Short in Re-Election Bid](https://www.nytimes.com/2025/02/09/world/americas/ecuador-president-election-2025.html)
+Token length: 883
 Summarized using gpt-3.5-turbo
-Append: [Kendrick Lamar’s Super Bowl Halftime Show: The Peak of All Rap Battles?](https://www.nytimes.com/2025/02/09/arts/music/kendrick-lamar-super-bowl-halftime-review.html)
-Token length: 2494
+Append: [江西彩民再中奖超2亿元，但这次交了20%个税](https://www.yicai.com/news/102466188.html)
+Token length: 3075
 Summarized using gpt-3.5-turbo
-Append: [赵建丨DeepSeek：中国大模型的“春雷”，A股市场的“惊蛰”](https://www.yicai.com/news/102466420.html)
-Token length: 1066
+Append: [城市探索｜上海邮政博物馆恢复开放，摩西会堂修缮完成](https://www.yicai.com/news/102466555.html)
+Token length: 228
 Summarized using gpt-3.5-turbo
-Append: [合并重组传闻带动，“东风系”“兵装系”上市公司股价大涨，多只股票涨停](https://www.yicai.com/news/102466392.html)
-Token length: 947
+Append: [DeepSeek概念强势，有公司公告：投的是“深度搜索”，不是“深度求索”丨一大板块](https://www.yicai.com/video/102466538.html)
+Token length: 933
 Summarized using gpt-3.5-turbo
-Append: [黑芝麻智能盘中跳水跌超50%，澄清与比亚迪为长期合作关系](https://www.yicai.com/news/102466388.html)
-Summarization failed in custom_model, append the original article
-error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [秦朔：创新最宜是杭州？](https://www.yicai.com/news/102466380.html)
-Token length: 187
+Append: [又一款国产带状疱疹疫苗申报上市，中老年人的接种市场仍待撬开](https://www.yicai.com/news/102466523.html)
+Token length: 108
 Summarized using gpt-3.5-turbo
-Append: [Trump Will Impose Tariffs on Steel and Aluminum on Monday](https://www.nytimes.com/2025/02/09/business/economy/trump-tariff-foreign-metals.html)
-Token length: 1803
+Append: [Trump Has Given Netanyahu the Ultimate Gift: A Lifeline](https://www.nytimes.com/2025/02/10/opinion/trump-netanyahu-gaza-israel.html)
+Token length: 3009
 Summarized using gpt-3.5-turbo
-Append: [库迪开始卖饭](https://www.36kr.com/p/3157817055198722)
-Token length: 132
+Append: [印度要做自己的DeepSeek：有芯片也有人，10个月内搞定](https://www.huxiu.com/article/3999962.html)
+Token length: 3584
 Summarized using gpt-3.5-turbo
-Append: [US judge blocks possible transfer of Venezuelan detainees to Guantanamo](https://www.reuters.com/world/americas/venezuelan-detainees-us-file-motion-over-possible-guantanamo-transfer-2025-02-10/)
-Token length: 74
-Summarized using gpt-3.5-turbo
-Append: [孩子不满压岁钱被代管，报警“求助”称有坏人抢钱](https://m.thepaper.cn/detail/30116568)
-append_entries: 11
-Finish: 2025-02-10 06:17:08.390431
+Append: [2380元，徕卡iPhone影像套装来了，德味十足背刺小米？](https://www.36kr.com/p/3157465859030535)
+append_entries: 9
+Finish: 2025-02-10 08:16:06.812004
