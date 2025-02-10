@@ -1,30 +1,30 @@
 ------------------------------------------------------
-Started: 2025-02-09 22:10:53.603412
-Existing_entries: 1001
+Started: 2025-02-10 00:54:54.369222
+Existing_entries: 1008
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 130
+Token length: 171
 Summarized using gpt-3.5-turbo
-Append: [Tom Robbins, Whose Comic Novels Drew a Cult Following, Dies at 92](https://www.nytimes.com/2025/02/09/obituaries/tom-robins-dead.html)
-Token length: 207
+Append: [Author Tom Robbins dies at 92](https://www.reuters.com/lifestyle/author-tom-robbins-dies-92-2025-02-09/)
+Token length: 2872
 Summarized using gpt-3.5-turbo
-Append: [Russell Vought Orders Consumer Protection Bureau’s Headquarters Closed for a Week](https://www.nytimes.com/2025/02/09/us/russell-vought-consumer-bureau-protect-hq-close.html)
-Token length: 179
+Append: [特朗普：已与普京通话；美国最高金融监管机构暂停所有活动；《哪吒2》进入全球票房榜前35](https://www.yicai.com/news/102465738.html)
+Token length: 86
 Summarized using gpt-3.5-turbo
-Append: [Sunshine, tight security greet fans arriving at Super Bowl](https://www.reuters.com/sports/nfl/sunshine-tight-security-greet-fans-arriving-super-bowl-2025-02-09/)
-Token length: 226
+Append: [澎湃AI晚新闻丨2025年2月9日](https://m.thepaper.cn/detail/30117432)
+Token length: 2214
 Summarized using gpt-3.5-turbo
-Append: [Vance Accuses Judges Who Block Trump’s Executive Orders of Acting Illegally](https://www.nytimes.com/2025/02/09/us/politics/vance-trump-federal-courts-executive-order.html)
-Token length: 147
+Append: [纪念黄旭华｜六年前，一位可爱又寻常的老人曾坐在我面前](https://m.thepaper.cn/detail/30116881)
+Token length: 3382
 Summarized using gpt-3.5-turbo
-Append: [Rutherford Chang, Who Turned Collections Into Art, Dies at 45](https://www.nytimes.com/2025/02/09/arts/rutherford-chang-dead.html)
-Token length: 317
+Append: [尴尬的「学生手机」：家长买起来费心，学生用着也不高兴](https://www.36kr.com/p/3157607176879880)
+Token length: 143
 Summarized using gpt-3.5-turbo
-Append: [CFPB's headquarters to be closed for coming week, email says](https://www.reuters.com/world/us/cfpbs-headquarters-be-closed-coming-week-email-says-2025-02-09/)
-Token length: 134
+Append: [Kendrick Lamar Can’t Save the World. Why Do We Expect Him To?](https://www.nytimes.com/2025/02/09/opinion/kendrick-lamar-super-bowl.html)
+Token length: 70
 Summarized using gpt-3.5-turbo
-Append: [2 Million Baked Goods Are Recalled Over Listeria Risk](https://www.nytimes.com/2025/02/09/health/fda-donuts-recall-listeria.html)
-Token length: 391
-Summarized using gpt-3.5-turbo
-Append: [视频丨高速行驶中，塞尔维亚总统武契奇所乘车辆轮胎脱落](https://m.thepaper.cn/detail/30116853)
+Append: [美国流感病例激增，死亡病例超1.3万](https://m.thepaper.cn/detail/30115184)
+Summarization failed in custom_model, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [春晚C位，为什么我们依然需要李子柒｜先锋女性](https://www.36kr.com/p/3157297952914952)
 append_entries: 8
-Finish: 2025-02-09 22:11:09.588679
+Finish: 2025-02-10 00:55:07.748024
