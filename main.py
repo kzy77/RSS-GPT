@@ -11,7 +11,7 @@ import requests
 from fake_useragent import UserAgent
 import glob
 #from dateutil.parser import parse
-import google.generativeai as googleai
+import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 def get_cfg(sec, name, default=None):
@@ -40,15 +40,15 @@ DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
 
 # 修改 Gemini 初始化
 if GEMINI_API_KEY:
-    googleai_config = {
+    genai_config = {
         'api_key': GEMINI_API_KEY,
         'transport': 'rest'
     }
     # 如果设置了自定义端点则使用
     if GEMINI_BASE_URL:
-        googleai_config['client_options'] = {'api_endpoint': GEMINI_BASE_URL}
+        genai_config['client_options'] = {'api_endpoint': GEMINI_BASE_URL}
     
-    googleai.configure(**googleai_config)
+    genai.configure(**genai_config)
     # 配置安全设置
     safety_settings = {
         HarmCategory.HARASSMENT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
@@ -61,7 +61,7 @@ def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
     try:
         # 使用配置的模型或默认模型
-        model = googleai.GenerativeModel(GEMINI_MODEL)
+        model = genai.GenerativeModel(GEMINI_MODEL)
         if language == "zh":
             prompt = f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"
         else:
