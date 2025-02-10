@@ -9,9 +9,9 @@
     <id>{{ feed.feed.id }}</id>
     {% for entry in append_entries %}
     <entry>
-        <title>{{ entry.title }}</title>
+        <title><![CDATA[{{ entry.title }}]]></title>
         <link href="{{ entry.link }}" />
-        <id>{{ entry.id }}</id>
+        <id>{{ entry.link }}</id>
         <updated>{{ entry.updated }}</updated>
         <summary type="html"><![CDATA[{{ entry.summary }}]]></summary>
     </entry>
