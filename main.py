@@ -10,6 +10,7 @@ import datetime
 import requests
 from fake_useragent import UserAgent
 import glob
+import time
 #from dateutil.parser import parse
 from google import genai
 
@@ -43,9 +44,37 @@ DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
 if GEMINI_API_KEY:
     client = genai.Client(api_key=GEMINI_API_KEY)
 
+# 限流控制
+class RateLimiter:
+    def __init__(self, max_requests, time_window):
+        self.max_requests = max_requests  # 最大请求数
+        self.time_window = time_window    # 时间窗口（秒）
+        self.requests = []                # 请求时间戳列表
+
+    def wait_if_needed(self):
+        now = time.time()
+        # 清理过期的请求记录
+        self.requests = [req_time for req_time in self.requests 
+                        if now - req_time < self.time_window]
+        
+        if len(self.requests) >= self.max_requests:
+            # 需要等待的时间
+            sleep_time = self.requests[0] + self.time_window - now
+            if sleep_time > 0:
+                print(f"Rate limit reached, waiting for {sleep_time:.2f} seconds...")
+                time.sleep(sleep_time)
+            # 清理已过期的请求
+            self.requests = self.requests[1:]
+        
+        self.requests.append(now)
+
+# 创建限流器实例：每分钟最多10次请求
+rate_limiter = RateLimiter(max_requests=10, time_window=60)
+
 def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
     try:
+        rate_limiter.wait_if_needed()
         print(f"Gemini Config - Model: {GEMINI_MODEL}")
 
         if language == "zh":
@@ -193,29 +222,32 @@ def truncate_entries(entries, max_entries):
 
 def gpt_summary(query, model, language):
     """使用 OpenAI GPT 生成摘要"""
-    # 打印 API 配置信息
-    print(f"OpenAI Config - Base URL: {OPENAI_BASE_URL}, Model: {model}")
-    if language == "zh":
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"}
-        ]
-    else:
-        messages = [
-            {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"}
-        ]
+    try:
+        rate_limiter.wait_if_needed()
+        print(f"OpenAI Config - Base URL: {OPENAI_BASE_URL}, Model: {model}")
+        if language == "zh":
+            messages = [
+                {"role": "user", "content": query},
+                {"role": "assistant", "content": f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"}
+            ]
+        else:
+            messages = [
+                {"role": "user", "content": query},
+                {"role": "assistant", "content": f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"}
+            ]
 
-    client = OpenAI(
-        api_key=OPENAI_API_KEY,
-        base_url=OPENAI_BASE_URL,
-    )
+        client = OpenAI(
+            api_key=OPENAI_API_KEY,
+            base_url=OPENAI_BASE_URL,
+        )
 
-    completion = client.chat.completions.create(
-        model=model,
-        messages=messages,
-    )
-    return completion.choices[0].message.content
+        completion = client.chat.completions.create(
+            model=model,
+            messages=messages,
+        )
+        return completion.choices[0].message.content
+    except Exception as e:
+        raise Exception(f"GPT summary failed with model {model}: {str(e)}")
 
 def output(sec, language):
     """ output
