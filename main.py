@@ -485,13 +485,13 @@ append_readme("README-zh.md", links)
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
     # 为每个 feed 添加配置信息
-    for feed_data in feeds:
+    for feed_data in feeds_data:  # 使用 feeds_data 而不是 feeds
         feed_data['feed']['url'] = get_cfg(feed_data['section'], 'url')
         feed_data['feed']['name'] = get_cfg(feed_data['section'], 'name')
     
     html = template.render(
         update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        feeds=feeds
+        feeds=[f['feed'] for f in feeds_data]  # 只传递 feed 部分
     )
     f.write(html)
 
