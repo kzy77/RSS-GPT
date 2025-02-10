@@ -355,7 +355,7 @@ def output(sec, language):
             f.write(rss)
         with open(log_file, 'a') as f:
             f.write(f'Finish: {datetime.datetime.now()}\n')
-        return {'feed': feed, 'entries': append_entries}
+        return {'feed': feed, 'entries': append_entries, 'section': sec}
     except:
         with open (log_file, 'a') as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
@@ -452,7 +452,15 @@ append_readme("README-zh.md", links)
 # 生成 index.html
 with open(os.path.join(BASE, 'index.html'), 'w') as f:
     template = Template(open('template.html').read())
-    html = template.render(update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"), feeds=feeds)
+    # 为每个 feed 添加配置信息
+    for feed_data in feeds:
+        feed_data['feed']['url'] = get_cfg(feed_data['section'], 'url')
+        feed_data['feed']['name'] = get_cfg(feed_data['section'], 'name')
+    
+    html = template.render(
+        update_time=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        feeds=feeds
+    )
     f.write(html)
 
 # 生成聚合的 atom.xml
