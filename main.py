@@ -322,15 +322,21 @@ def output(sec, language):
                 try:
                     provider = get_cfg(sec, 'provider', DEFAULT_PROVIDER)
                     model = get_cfg(sec, 'model', OPENAI_MODEL if provider.lower() == 'openai' else GEMINI_MODEL)
+                    # 打印当前使用的提供商和模型
+                    print(f"Using provider: {provider}, model: {model}")
+                    
                     if provider.lower() == 'gemini':
                         entry.summary = gemini_summary(cleaned_article, language)
                     else:  # openai
+                        # 确保模型名称符合要求（小写，无特殊字符）
+                        model = model.lower().replace('-', '')
                         entry.summary = gpt_summary(cleaned_article, model, language)
                     
                     with open(log_file, 'a') as f:
                         f.write(f"Token length: {token_length}\n")
                         f.write(f"Summarized using {provider} model: {model}\n")
                 except Exception as e:
+                    print(f"Summarization failed for provider: {provider}, model: {model}")
                     entry.summary = None
                     with open(log_file, 'a') as f:
                         f.write(f"Summarization failed: {str(e)}\n")
