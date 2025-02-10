@@ -1,33 +1,39 @@
 ------------------------------------------------------
-Started: 2025-02-10 04:14:45.910249
-Existing_entries: 1019
+Started: 2025-02-10 06:16:44.344355
+Existing_entries: 1009
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 79
-Summarized using gpt-3.5-turbo
-Append: [Trump Orders Treasury to Halt Minting New Pennies to Cut Waste](https://www.nytimes.com/2025/02/09/us/politics/trump-stop-minting-pennies.html)
-Token length: 201
-Summarized using gpt-3.5-turbo
-Append: [Billionaire Trump says time's up for lowly US penny](https://www.reuters.com/world/us/billionaire-trump-says-times-up-lowly-us-penny-2025-02-10/)
-Token length: 180
-Summarized using gpt-3.5-turbo
-Append: [Eagles deny Chiefs historic three-peat with thumping Super Bowl win](https://www.reuters.com/sports/nfl/eagles-deny-chiefs-historic-three-peat-with-thumping-super-bowl-win-2025-02-10/)
-Token length: 154
-Summarized using gpt-3.5-turbo
-Append: [A Super Bowl Halftime Performer Surprised Organizers With a Sudan-Gaza Flag](https://www.nytimes.com/2025/02/09/us/sudan-gaza-flag-protest.html)
-Token length: 89
-Summarized using gpt-3.5-turbo
-Append: [直播丨送别！“中国核潜艇先驱”黄旭华院士遗体送别仪式在武汉举行](https://m.thepaper.cn/detail/30119385)
-Token length: 154
-Summarized using gpt-3.5-turbo
-Append: [Sdcb Chats 重磅更新：深度集成 DeepSeek-R1，思维链让 AI 更透明！](https://www.cnblogs.com/sdcb/p/18707091/20250209-configure-deepseek-in-chats)
-Token length: 681
-Summarized using gpt-3.5-turbo
-Append: [高盛解读资金流：基金“由硬转软”，对冲基金增持中国，资金逃离韩股](https://wallstreetcn.com/articles/3740694)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [第五消费时代：拼多多、小红书、泡泡玛特、胖东来们的相继崛起，都有一个共同的底层逻辑](https://www.36kr.com/p/3160022950402560)
+Append: [金融圈加速DeepSeek本地化部署，AI大战“底盘”仍是人工](https://www.yicai.com/news/102465710.html)
+Token length: 1702
+Summarized using gpt-3.5-turbo
+Append: [县域春节档电影票房榜：昆山江阴义乌位居前三](https://www.yicai.com/news/102465631.html)
+Token length: 159
+Summarized using gpt-3.5-turbo
+Append: [Kendrick Lamar’s Super Bowl Halftime Show: The Peak of All Rap Battles?](https://www.nytimes.com/2025/02/09/arts/music/kendrick-lamar-super-bowl-halftime-review.html)
+Token length: 2494
+Summarized using gpt-3.5-turbo
+Append: [赵建丨DeepSeek：中国大模型的“春雷”，A股市场的“惊蛰”](https://www.yicai.com/news/102466420.html)
+Token length: 1066
+Summarized using gpt-3.5-turbo
+Append: [合并重组传闻带动，“东风系”“兵装系”上市公司股价大涨，多只股票涨停](https://www.yicai.com/news/102466392.html)
+Token length: 947
+Summarized using gpt-3.5-turbo
+Append: [黑芝麻智能盘中跳水跌超50%，澄清与比亚迪为长期合作关系](https://www.yicai.com/news/102466388.html)
 Summarization failed in custom_model, append the original article
 error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://api.chatanywhere.tech/#/shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://api.chatanywhere.tech/#/shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
-Append: [医药翻身之年](https://wallstreetcn.com/articles/3740687)
-append_entries: 9
-Finish: 2025-02-10 04:15:01.001466
+Append: [秦朔：创新最宜是杭州？](https://www.yicai.com/news/102466380.html)
+Token length: 187
+Summarized using gpt-3.5-turbo
+Append: [Trump Will Impose Tariffs on Steel and Aluminum on Monday](https://www.nytimes.com/2025/02/09/business/economy/trump-tariff-foreign-metals.html)
+Token length: 1803
+Summarized using gpt-3.5-turbo
+Append: [库迪开始卖饭](https://www.36kr.com/p/3157817055198722)
+Token length: 132
+Summarized using gpt-3.5-turbo
+Append: [US judge blocks possible transfer of Venezuelan detainees to Guantanamo](https://www.reuters.com/world/americas/venezuelan-detainees-us-file-motion-over-possible-guantanamo-transfer-2025-02-10/)
+Token length: 74
+Summarized using gpt-3.5-turbo
+Append: [孩子不满压岁钱被代管，报警“求助”称有坏人抢钱](https://m.thepaper.cn/detail/30116568)
+append_entries: 11
+Finish: 2025-02-10 06:17:08.390431
