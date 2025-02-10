@@ -53,4 +53,4 @@
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24 -> https://kzy77.github.io/RSS-GPT/首页 | FreshRSS.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://kzy77.github.io/RSS-GPT/小众软件官方论坛 - 使用macos标记的话题.xml
+- https://7techlife.blogspot.com/rss.xml -> https://kzy77.github.io/RSS-GPT/Seven科技生活.xml
