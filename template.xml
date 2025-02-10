@@ -13,7 +13,7 @@
         <link href="{{ entry.link }}" />
         <id>{{ entry.id }}</id>
         <updated>{{ entry.updated }}</updated>
-        <summary type="html">{{ entry.summary }}</summary>
+        <summary type="html"><![CDATA[{{ entry.summary }}]]></summary>
     </entry>
     {% endfor %}
 </feed>
