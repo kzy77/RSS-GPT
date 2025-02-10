@@ -42,20 +42,11 @@ DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
 if GEMINI_API_KEY:
     genai_config = {
         'api_key': GEMINI_API_KEY,
-        'transport': 'rest'
     }
-    # 如果设置了自定义端点则使用
     if GEMINI_BASE_URL:
         genai_config['client_options'] = {'api_endpoint': GEMINI_BASE_URL}
     
     genai.configure(**genai_config)
-    # 配置安全设置
-    safety_settings = {
-        HarmCategory.HARASSMENT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
-        HarmCategory.HATE_SPEECH: HarmBlockThreshold.MEDIUM_AND_ABOVE,
-        HarmCategory.SEXUALLY_EXPLICIT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
-        HarmCategory.DANGEROUS_CONTENT: HarmBlockThreshold.MEDIUM_AND_ABOVE,
-    }
 
 def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
@@ -67,9 +58,9 @@ def gemini_summary(query, language):
         else:
             prompt = f"Please summarize this article in {language}, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all points in {summary_length} words in {language}, output in order by points, and output '<br><br>Summary:'"
         
+        # 新版本 API 不再需要 safety_settings
         response = model.generate_content(
-            f"{prompt}\n\n{query}",
-            safety_settings=safety_settings
+            f"{prompt}\n\n{query}"
         )
         return response.text
     except Exception as e:
