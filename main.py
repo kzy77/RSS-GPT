@@ -11,7 +11,7 @@ import requests
 from fake_useragent import UserAgent
 import glob
 #from dateutil.parser import parse
-import google.generativeai as genai
+from google import generativeai
 
 def get_cfg(sec, name, default=None):
     value=config.get(sec, name, fallback=default)
@@ -41,20 +41,14 @@ DEFAULT_PROVIDER = os.environ.get('DEFAULT_PROVIDER', 'openai')
 
 # 修改 Gemini 初始化
 if GEMINI_API_KEY:
-    genai_config = {
-        'api_key': GEMINI_API_KEY,
-    }
-    if GEMINI_BASE_URL:
-        genai_config['client_options'] = {'api_endpoint': GEMINI_BASE_URL}
-    
-    genai.configure(**genai_config)
+    generativeai.configure(api_key=GEMINI_API_KEY)
 
 def gemini_summary(query, language):
     """使用 Gemini 生成摘要"""
     try:
         print(f"Gemini Config - Model: {GEMINI_MODEL}")
         # 使用配置的模型或默认模型
-        model = genai.GenerativeModel(GEMINI_MODEL)
+        model = generativeai.GenerativeModel(GEMINI_MODEL)
         if language == "zh":
             prompt = f"请用中文总结这篇文章，先提取出{keyword_length}个关键词，在同一行内输出，然后换行，用中文在{summary_length}字内写一个包含所有要点的总结，按顺序分要点输出，并按照以下格式输出'<br><br>总结:'"
         else:
