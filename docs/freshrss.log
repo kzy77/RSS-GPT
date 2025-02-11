@@ -1,48 +1,65 @@
 ------------------------------------------------------
-Started: 2025-02-10 22:11:03.112092
-Existing_entries: 10
+Started: 2025-02-11 00:53:45.955126
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 208
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [GPUStack/gguf-parser-go](https://gitee.com/gpustack/gguf-parser-go)
-Token length: 238
+Append: [Trump Says He Could Cut Aid to Jordan and Egypt Over Gaza Development Plan](https://www.nytimes.com/2025/02/10/us/politics/trump-jordan-egypt-gaza-development.html)
+Token length: 132
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 127
+Append: [Adams May Get His Charges Dropped, but His Re-election Fight Remains](https://www.nytimes.com/2025/02/10/nyregion/eric-adams-mayor-primary.html)
+Token length: 175
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Bus Plunges off Bridge in Guatemala City, Killing at Least 53](https://www.nytimes.com/2025/02/10/world/americas/guatemala-bus-crash-bridge.html)
-Token length: 133
+Append: [DNA and a Thumbprint Help Authorities Solve 2003 Long Island Murder](https://www.nytimes.com/2025/02/10/us/long-island-murder-cold-case-thumbprint.html)
+Token length: 290
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [3 Convicted of Murder for Luring Men From Gay Bars to Their Deaths](https://www.nytimes.com/2025/02/10/nyregion/gay-bay-murder-charges.html)
-Token length: 143
+Append: [特朗普签署行政令 对所有输美钢铝征收25%关税](https://www.yicai.com/news/102467544.html)
+Token length: 1887
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Elon Musk Leads Bid to Buy OpenAI for $97.4 Billion](https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html)
-Token length: 227
+Append: [特朗普关税“助攻”！国际金价本周有望迎3000美元里程碑](https://www.yicai.com/news/102467507.html)
+Token length: 1740
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Boston man cleared of US charges he acted as Chinese agent](https://www.reuters.com/legal/boston-man-cleared-us-charges-he-acted-chinese-agent-2025-02-10/)
-Token length: 236
+Append: [美国1月CPI前瞻：服务业通胀暗藏风险，美联储上半年降息无望？](https://www.yicai.com/news/102467516.html)
+Token length: 117
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump to loosen enforcement of US law banning bribery of foreign officials](https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10/)
-Token length: 213
+Append: [Here Are the Charges Against Eric Adams](https://www.nytimes.com/2025/02/10/nyregion/eric-adams-charges.html)
+Token length: 4213
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Coffee in New York jumps 6% to new record amid 'panic buying'](https://www.reuters.com/markets/commodities/coffee-new-york-jumps-6-new-record-amid-panic-buying-2025-02-10/)
-Token length: 142
+Append: [特朗普取消DEI政策，为何如此受欢迎](https://www.huxiu.com/article/4002717.html)
+Token length: 3027
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump plans presidential pardon for former Illinois Governor Blagojevich, source says](https://www.reuters.com/world/us/trump-plans-presidential-pardon-former-illinois-governor-blagojevich-source-says-2025-02-10/)
-Token length: 138
+Append: [央企集团筹划重组；金价创历史新高](https://www.yicai.com/news/102467484.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Fiery Directives Under Trump’s Justice Dept. Signal a Significant Shift](https://www.nytimes.com/2025/02/10/us/politics/justice-dept-trump-bondi.html)
+Token length: 1423
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [5 Notes from the Big Paris A.I. Summit](https://www.nytimes.com/2025/02/10/technology/ai-summit-paris-technology.html)
-Token length: 178
+Append: [顶住关税利空！美股全线反弹纳指涨近1%](https://www.yicai.com/news/102467461.html)
+Token length: 124
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Reversing Biden, FAA reinstates 'Notice to Airmen' pilot message name](https://www.reuters.com/business/aerospace-defense/reversing-biden-faa-reinstates-notice-airmen-pilot-message-name-2025-02-10/)
-Token length: 150
+Append: [Israeli Hostages’ Accounts of Abuse Raise Alarms for Remaining Captives](https://www.nytimes.com/2025/02/10/world/middleeast/israel-hostages-abuse-hamas.html)
+Token length: 3670
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [FTC hires Heritage Foundation policy alum as tech chief](https://www.reuters.com/world/us/ftc-hires-heritage-foundation-policy-alum-tech-chief-2025-02-10/)
-Token length: 267
+Append: [国常会重磅部署；特朗普下令：立即解散；去年全国结婚登记数再度下探](https://www.yicai.com/news/102467462.html)
+Token length: 80
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Former Trump advisor Bannon to plead guilty in border wall fraud case, avoid jail, Law360 reports](https://www.reuters.com/world/us/former-trump-advisor-bannon-plead-guilty-border-wall-fraud-case-avoid-jail-2025-02-10/)
-Token length: 181
+Append: [Trump’s New Tariffs Target Foreign Metals](https://www.nytimes.com/2025/02/10/briefing/trumps-new-tariffs-target-foreign-metals.html)
+Token length: 5545
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Woman Files First U.S. Lawsuit Against Andrew Tate and His Brother](https://www.nytimes.com/2025/02/10/world/europe/andrew-tate-tristan-lawsuit-us.html)
-append_entries: 14
-Finish: 2025-02-10 22:12:09.576839
+Append: [华尔街见闻早餐FM-Radio | 2025年2月11日](https://wallstreetcn.com/articles/3740799)
+Token length: 171
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Joy Rider Who Damaged Rare Plants in Death Valley Dunes Remains at Large](https://www.nytimes.com/2025/02/10/us/eureka-dunes-driver-damaged-plants.html)
+Token length: 93
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [What Was the Happiest Moment of Your Life, So Far? Share It With Us.](https://www.nytimes.com/2025/02/10/magazine/happiest-moment-share-video.html)
+Token length: 2153
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [诺奖得主DeepMind CEO放话：DeepSeek是中国最好AI模型，但没任何科学进步](https://www.36kr.com/p/3160462493194753)
+Token length: 3261
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [咖啡圈大地震，豆价疯涨有人破产，有人收入翻3倍](https://www.36kr.com/p/3160069940566793)
+Token length: 3510
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [《哪吒2》全球登顶，有人涨停有人愁](https://www.36kr.com/p/3157820254804744)
+append_entries: 20
+Finish: 2025-02-11 00:55:06.003939
