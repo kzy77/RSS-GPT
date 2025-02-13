@@ -1,51 +1,65 @@
 ------------------------------------------------------
-Started: 2025-02-13 00:54:18.937741
-Existing_entries: 18
+Started: 2025-02-13 02:42:29.208374
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 238
+Token length: 156
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 113
+Append: [Woman Gives Birth to Baby Girl on NYC Subway](https://www.nytimes.com/2025/02/12/nyregion/nyc-subway-birth-baby.html)
+Token length: 3539
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Measles Outbreak Hits Town in Texas](https://www.nytimes.com/2025/02/12/science/measles-vaccination-texas.html)
-Token length: 44
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [It’s America That Suffers When We Cut Foreign Aid](https://www.nytimes.com/2025/02/12/opinion/usaid-foreign-aid.html)
-Token length: 99
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump and Putin Discussed the War in Ukraine](https://www.nytimes.com/2025/02/12/briefing/trump-putin-call-inflation-valentines-day.html)
-Token length: 217
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US judge allows Trump to proceed with government employee buyout](https://www.reuters.com/world/us/us-judge-allows-trump-proceed-with-government-employee-buyout-2025-02-12/)
-Token length: 221
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump directs Rubio to reform US Foreign Service](https://www.reuters.com/world/us/trump-directs-rubio-reform-us-foreign-service-2025-02-12/)
-Token length: 256
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US senators call for increased funding, staffing for air traffic control](https://www.reuters.com/world/us/senators-call-increased-funding-staffing-air-traffic-control-2025-02-12/)
-Token length: 202
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US Department of Justice to stop defending independence of FTC, NLRB, letter says](https://www.reuters.com/world/us/us-justice-department-will-stop-defending-independence-ftc-nlrb-letter-says-2025-02-12/)
+Append: [美国CPI数据利空 中概股毅然暴涨！苹果与阿里合作在中国推出人工智能功能；美股去年最牛股AppLovin业绩超预期 盘后大涨；GPT-4.5和5.0即将发布](https://www.yicai.com/news/102470947.html)
 Token length: 199
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Unions sue Trump, fearing mass firings of federal employees](https://www.reuters.com/legal/unions-sue-trump-fearing-mass-firings-federal-employees-2025-02-12/)
-Token length: 197
+Append: [Bondi Announces Lawsuit Against New York Over Immigration](https://www.nytimes.com/2025/02/12/us/politics/bondi-new-york-immigration-lawsuit.html)
+Token length: 872
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Kennedy Center board, with Trump as the new chair, fires its president](https://www.reuters.com/world/us/kennedy-center-board-with-trump-new-chair-fires-its-president-2025-02-12/)
-Token length: 175
+Append: [滚动更新丨A股三大指数集体低开，阿里概念股再度高开](https://www.yicai.com/news/102470873.html)
+Token length: 162
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US sues New York state officials over immigration enforcement, attorney general says](https://www.reuters.com/world/us/us-sues-new-york-state-officials-over-immigration-enforcement-attorney-general-2025-02-12/)
-Token length: 155
+Append: [Elon Musk’s DOGE Overhauls the Consumer Financial Protection Bureau](https://www.nytimes.com/2025/02/12/us/politics/elon-musk-doge-cfpb-trump.html)
+Token length: 250
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Google Calendar Removes a Number of Cultural Events](https://www.nytimes.com/2025/02/12/technology/google-black-history-womens-history.html)
-Token length: 232
+Append: [OpenAI says Musk's takeover bid contradicts his lawsuit against it](https://www.reuters.com/technology/artificial-intelligence/openai-says-musks-takeover-bid-contradicts-his-lawsuit-against-it-2025-02-13/)
+Token length: 180
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Acting NASA chief says DOGE reviewing agency spending as hundreds take buyout](https://www.reuters.com/world/us/acting-nasa-chief-says-doge-plans-examine-space-agencys-spending-2025-02-12/)
-Token length: 142
+Append: [Ford CEO holds meetings with lawmakers after raising concerns about tariffs](https://www.reuters.com/business/autos-transportation/ford-ceo-holds-meetings-with-lawmakers-after-raising-concerns-about-tariffs-2025-02-13/)
+Token length: 240
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Deputy Attorney General Nominee Decries Treatment of His Client](https://www.nytimes.com/2025/02/12/us/politics/trump-deputy-attorney-general-hearing.html)
+Append: [Family of Black woman killed by Illinois police to get $10 million in settlement](https://www.reuters.com/world/us/family-black-woman-killed-by-illinois-police-get-10-million-settlement-2025-02-13/)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Czech Dam Project Was Stalled by Bureaucracy. Beavers Built Their Own.](https://www.nytimes.com/2025/02/12/world/europe/czech-dam-project-was-stalled-by-bureaucracy-beavers-built-their-own.html)
+Token length: 2822
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [美欧乌各怀心思将聚首慕安会，“交易”成为关键词](https://m.thepaper.cn/detail/30139881)
+Token length: 75
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [和你聊会儿丨《哪吒2》89岁配音演员王德顺：人生，就是玩儿](https://m.thepaper.cn/detail/30137690)
+Token length: 187
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [New York Got $80 Million for Migrants. The White House Took It Back.](https://www.nytimes.com/2025/02/12/nyregion/doge-migrant-hotel-shelters.html)
+Token length: 1323
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [昏迷前守护52名乘客，大巴司机成植物人却无法认定工伤？法院出手了](https://m.thepaper.cn/detail/30139975)
+Token length: 1288
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [主食吃得少还需要这么多粮食吗？人民日报发文从三个角度探讨](https://m.thepaper.cn/detail/30145658)
+Token length: 403
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [美俄总统通电话，特朗普：通话富有成效](https://m.thepaper.cn/detail/30141605)
+Token length: 4100
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [宁德时代和比亚迪的最大对手来了](https://www.36kr.com/p/3163343488543496)
+Token length: 79
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [美日防长将讨论台湾问题是否影响王毅访日计划？外交部回应](https://m.thepaper.cn/detail/30139004)
+Token length: 3885
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [DeepSeek被曝估值1500亿达OpenAI一半？巴黎地铁70岁老人都在聊](https://www.36kr.com/p/3163274405112325)
 Token length: 148
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [David Edward Byrd, Whose Posters Captured Rock’s Energy, Dies at 83](https://www.nytimes.com/2025/02/12/arts/design/david-edward-byrd-dead.html)
-append_entries: 15
-Finish: 2025-02-13 00:55:26.010408
+Append: [在线客服的独立产品之路：如何将复杂的 .NET 系统打包到 Docker 镜像，使之能一键上线](https://www.cnblogs.com/sheng_chao/p/18711288)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [.NET Core内存结构体系(Windows环境)底层原理浅谈](https://www.cnblogs.com/lmy5215006/p/18707150)
+append_entries: 20
+Finish: 2025-02-13 02:43:48.888271
