@@ -1,21 +1,53 @@
 ------------------------------------------------------
-Started: 2025-02-13 06:15:45.091448
-Existing_entries: 9
+Started: 2025-02-13 08:15:14.515349
+Existing_entries: 5
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 322
+Token length: 148
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [OpenAI将在未来几个月内发布GPT-5](https://www.yicai.com/news/102471264.html)
-Token length: 3589
+Append: [Honda and Nissan Scrap $50 Billion Merger Plan](https://www.nytimes.com/2025/02/13/business/honda-nissan-merger.html)
+Token length: 238
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [强化重大政策靠前发力，2025年上海将出台哪些政策举措，一起来看](https://www.yicai.com/news/102471221.html)
-Token length: 346
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 201
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [上汽大众回应网传“采购部举报信”：属谣言，已报案处理](https://www.yicai.com/news/102471213.html)
-Token length: 160
+Append: [蔡崇信确认阿里与苹果合作](https://www.yicai.com/news/102471431.html)
+Token length: 3114
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [State Dept. Draws Up List of Cartels to Be Labeled Terrorist Groups](https://www.nytimes.com/2025/02/12/us/politics/state-dept-terrorist-designation.html)
-Token length: 104
+Append: [DeepSeek引爆AI热潮，机构重估中国科技投资价值](https://www.yicai.com/news/102470424.html)
+Token length: 1804
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Woman Gives Birth to Baby Girl on NYC Subway](https://www.nytimes.com/2025/02/12/nyregion/nyc-subway-birth-baby.html)
-append_entries: 5
-Finish: 2025-02-13 06:15:53.188504
+Append: [张晖出任国都证券总经理，“浙商+国都”业务整合临考](https://www.yicai.com/news/102471381.html)
+Token length: 1708
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [DeepSeek概念股集体下挫，这波行情暂时告一段落？](https://www.yicai.com/news/102471342.html)
+Token length: 253
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [港股大涨！恒生科技指数涨超3%，阿里健康涨超13%](https://www.yicai.com/news/102471344.html)
+Token length: 1642
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [OpenAI决定不单独推出o3模型，DeepSeek“逼出”了GPT-5](https://www.yicai.com/news/102471340.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [出台大规模提振消费的增量政策仍十分必要](https://www.yicai.com/news/102471250.html)
+Token length: 887
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [无惧美国通胀升温扰动，港股突破22000点｜市场观察](https://www.yicai.com/news/102471263.html)
+Token length: 3440
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [刘煜辉：A股有三类投资机会，黄金适合个人投资](https://www.yicai.com/news/102471228.html)
+Token length: 3635
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [DeepSeek打服OpenAI ：GPT-5将免费](https://www.36kr.com/p/3164463515500040)
+Token length: 1523
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [中国科学家发现政和八闽鸟化石，鸟类起源时间提早两千万年](https://m.thepaper.cn/detail/30145888)
+Token length: 78
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [薪水几十万净资产却达千万，马斯克怒批美国官僚：钱从哪来的？](https://m.thepaper.cn/detail/30145743)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [在缓慢中沉淀，在挑战中重生！2024个人总结！](https://www.cnblogs.com/xuwujing/p/18712312)
+Token length: 76
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [澎湃AI晚新闻丨2025年2月12日](https://m.thepaper.cn/detail/30141211)
+append_entries: 16
+Finish: 2025-02-13 08:16:26.250101
