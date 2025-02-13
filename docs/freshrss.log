@@ -1,53 +1,63 @@
 ------------------------------------------------------
-Started: 2025-02-13 08:15:14.515349
-Existing_entries: 5
+Started: 2025-02-13 10:12:15.559212
+Existing_entries: 16
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 148
+Token length: 165
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Honda and Nissan Scrap $50 Billion Merger Plan](https://www.nytimes.com/2025/02/13/business/honda-nissan-merger.html)
-Token length: 238
+Append: [俄总统新闻秘书：普京和特朗普双方工作团队已开始为会晤进行筹备](https://www.yicai.com/news/102471725.html)
+Token length: 118
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 201
+Append: [连板股追踪丨A股共74只个股涨停 这两只DeepSeek概念股7连板](https://www.yicai.com/news/102471595.html)
+Token length: 1762
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [蔡崇信确认阿里与苹果合作](https://www.yicai.com/news/102471431.html)
-Token length: 3114
+Append: [央行报告专题解读，两项资本市场支持工具落地显效](https://www.yicai.com/news/102471714.html)
+Token length: 2316
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DeepSeek引爆AI热潮，机构重估中国科技投资价值](https://www.yicai.com/news/102470424.html)
-Token length: 1804
+Append: [特朗普与普京通话90分钟，如何影响俄乌冲突？](https://www.yicai.com/news/102471680.html)
+Token length: 1227
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [张晖出任国都证券总经理，“浙商+国都”业务整合临考](https://www.yicai.com/news/102471381.html)
-Token length: 1708
+Append: [十余家车企春节后推降价促销政策](https://www.yicai.com/news/102471647.html)
+Token length: 3254
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DeepSeek概念股集体下挫，这波行情暂时告一段落？](https://www.yicai.com/news/102471342.html)
-Token length: 253
+Append: [并非货币紧缩！如何正确看待央行缩表？](https://www.yicai.com/news/102471683.html)
+Token length: 2037
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [港股大涨！恒生科技指数涨超3%，阿里健康涨超13%](https://www.yicai.com/news/102471344.html)
-Token length: 1642
+Append: [央行：实施好适度宽松的货币政策 把促进物价合理回升作为把握货币政策的重要考量](https://www.yicai.com/news/102471682.html)
+Token length: 354
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [OpenAI决定不单独推出o3模型，DeepSeek“逼出”了GPT-5](https://www.yicai.com/news/102471340.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [出台大规模提振消费的增量政策仍十分必要](https://www.yicai.com/news/102471250.html)
-Token length: 887
+Append: [敦促美方回到正确轨道 商务部回应美对进口钢铝征收25%关税](https://www.yicai.com/news/102471565.html)
+Token length: 314
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [无惧美国通胀升温扰动，港股突破22000点｜市场观察](https://www.yicai.com/news/102471263.html)
-Token length: 3440
+Append: [外交部：中方始终认为对话谈判是解决乌克兰危机的唯一可行出路](https://www.yicai.com/news/102471570.html)
+Token length: 380
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [刘煜辉：A股有三类投资机会，黄金适合个人投资](https://www.yicai.com/news/102471228.html)
-Token length: 3635
+Append: [商务部再回应将美国PVH集团和因美纳公司纳入不可靠实体清单](https://www.yicai.com/news/102471583.html)
+Token length: 402
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DeepSeek打服OpenAI ：GPT-5将免费](https://www.36kr.com/p/3164463515500040)
-Token length: 1523
+Append: [本田、日产和三菱汽车终止合并](https://www.yicai.com/news/102471577.html)
+Token length: 869
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国科学家发现政和八闽鸟化石，鸟类起源时间提早两千万年](https://m.thepaper.cn/detail/30145888)
-Token length: 78
+Append: [美对钢铝产品进口加征25%关税，商务部：敦促美方摒弃零和思维，纠正错误做法](https://www.yicai.com/news/102471668.html)
+Token length: 210
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [薪水几十万净资产却达千万，马斯克怒批美国官僚：钱从哪来的？](https://m.thepaper.cn/detail/30145743)
-Token length: 154
+Append: [广州天河人民法院工作人员：L3级自动驾驶首例判决为假消息](https://www.yicai.com/news/102471657.html)
+Token length: 806
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [在缓慢中沉淀，在挑战中重生！2024个人总结！](https://www.cnblogs.com/xuwujing/p/18712312)
-Token length: 76
+Append: [中国海油集团原总经理李勇被提起公诉，年薪近百万，退休后被查](https://www.yicai.com/news/102471646.html)
+Token length: 1309
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [澎湃AI晚新闻丨2025年2月12日](https://m.thepaper.cn/detail/30141211)
-append_entries: 16
-Finish: 2025-02-13 08:16:26.250101
+Append: [1月车市格局生变，吉利汽车零售量反超比亚迪](https://www.yicai.com/news/102471639.html)
+Token length: 1185
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [港股尾盘跳水，恒科指跌近1%，中芯国际创新高后转跌，A股震荡收跌，阿里概念强势](https://wallstreetcn.com/articles/3741000)
+Token length: 822
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [低价影响创收？火山引擎总裁隔空回应百度“恶意价格战”观点](https://www.yicai.com/news/102471612.html)
+Token length: 124
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [台中市一百货大楼爆炸，已致5死13伤](https://m.thepaper.cn/detail/30147974)
+Token length: 3024
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [揭秘比亚迪智驾普及战：一场蓄力已久的“阳谋”](https://www.36kr.com/p/3163409554320133)
+append_entries: 19
+Finish: 2025-02-13 10:13:37.548535
