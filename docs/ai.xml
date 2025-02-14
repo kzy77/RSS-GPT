@@ -8,4 +8,85 @@
     </author>
     <id>tag:blogger.com,1999:blog-6793225987970179847</id>
     
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, API, 本地部署, 应用使用  
+Deepseek是一个搜索引擎工具，可以通过网页端、API和本地部署来使用。它还可以与Perplexity等应用结合使用。用户可以访问官方网站或下载官方手机客户端来体验Deepseek，也可以使用API来进行沉浸式翻译、Chatbox等操作。另外，用户还可以选择本地部署方式使用Deepseek，只需安装Ollama并运行相应指令即可。详细操作方法和模型选择都包含在视频中。总之，Deepseek提供了多样化的使用方式，满足用户不同的需求。 <br><br>总结: Deepseek提供了多种使用方式，包括网页端、API和本地部署，可与Perplexity等应用结合使用，帮助用户满足不同需求。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[Cloudflare、Serv00、代理节点、Cloudflare Argo、SSH客户端<br>
+总结: 本视频介绍了搭建代理节点Serv00的方法选择，包括注册登录、云端隧道设置和进程保活等内容。具体步骤包括使用Cloudflare Argo固定隧道、GitHub保号以及远程保活等功能。在SSH登录IP被封时，提供了两种方法，一是使用未被封的域名进行登录，二是设置系统代理进行登录。最后介绍了Cloudflare Argo固定隧道的设置方法，需要有域名并在Cloudflare上进行相关设置。详情请观看Youtube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[ChatGPT、降智、科学上网、节点IP、操作方法
+<br>
+在本文中，介绍了使用不同科学上网节点IP进行测试的解决办法。通过更换不同节点IP，发现甲骨文云和谷歌云等节点的降智情况。对于降智的节点，可以通过Serv00节点修改节点IP的方法来解决。推荐使用Serv00-Play脚本进行搭建并修改IP地址，然后重新启动singbox进行调整。详细操作步骤可以在Youtube视频中查看。总之，选择合适的节点IP、进行必要的操作方法可以提高ChatGPT的智能表现。  
+<br><br>
+总结: ChatGPT降智问题需要通过更换节点IP和操作方法来解决，关键在于选择合适的科学上网节点IP并进行必要的修改和重启操作。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、注册、闲鱼、成品号、验证手机号<br>
+<br>
+总结: 本文介绍了在Serv00帐号注册困难的情况下，可以通过闲鱼购买成品号来解决。购买成品号需要进行验证手机号、添加备用邮箱、重置密码等操作，确保账户安全。还提到了如何查看Serv00的IP是否被封，以及搭建科学上网节点等相关内容。此外，还推荐了其他视频内容，具体操作过程可以查看视频了解。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[Gemini API、第三方应用、Chatbox、欧路词典、Github Actions功能。<br>
+API免费获取Gemini，可以用于Chatbox和欧路词典等第三方应用。通过Github Actions创建Cloudflare Worker作为中转教程openai-gemini项目，在其中绑定自定义域名。设置参数包括选择Openai作为服务提供商或自定义接口地址，添加gemini-2.0-flash-exp模型。详细教程和操作步骤可查看Youtube视频。Gemini API在云端中转完成聊天对话、词典查询等功能，起到连接、转发的作用，为用户提供更便捷的体验。Gemini的应用范围广泛，可以为不同类型的第三方应用提供技术支持和功能拓展。Gemini API功能强大，应用简便，让开发者和用户都能得到实际的价值和便利。 <br><br>总结: Gemini API可用于多种第三方应用，通过中转教程和设置参数来实现功能的叠加和扩展，在云端和自定义域名上运行。Gemini API为用户和开发者提供了更便捷、更强大的API应用体验和功能支持。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
 </feed>
