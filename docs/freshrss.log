@@ -1,30 +1,40 @@
 ------------------------------------------------------
-Started: 2025-02-14 18:15:12.020652
-Existing_entries: 20
+Started: 2025-02-14 20:12:13.286318
+Existing_entries: 8
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
+Token length: 238
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
 Token length: 161
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Man Is Briefly ‘Swallowed’ by Whale in Chile](https://www.nytimes.com/2025/02/14/world/americas/whale-swallowed-man-chile.html)
-Token length: 164
+Append: [Mayor Adams May Avoid a Criminal Trial. He Still Faces Political Peril.](https://www.nytimes.com/2025/02/14/nyregion/eric-adams-resignation-future.html)
+Token length: 142
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Tensions Build in Syria Between New Leaders and Kurdish-Led Militia](https://www.nytimes.com/2025/02/14/world/middleeast/syria-kurdish-militia.html)
-Token length: 267
+Append: [Rare February Downpours Expected in Kentucky and Tennessee This Weekend](https://www.nytimes.com/2025/02/14/weather/flood-rain-forecast-tennessee-kentucky.html)
+Token length: 189
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Exclusive: US global disaster response teams unable to deploy following USAID shutdown, sources say](https://www.reuters.com/world/us/us-disaster-response-teams-unable-deploy-following-usaid-shutdown-sources-say-2025-02-14/)
-Token length: 225
+Append: [Trump administration lays off over 2,000 workers at Interior Department, sources say](https://www.reuters.com/world/us/trump-administration-lays-off-over-2000-workers-interior-department-sources-say-2025-02-14/)
+Token length: 166
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Heavy rain raises threat of more mudslides in Southern California](https://www.reuters.com/world/us/heavy-rain-raises-threat-more-mudslides-southern-california-2025-02-14/)
-Token length: 62
+Append: [Hagan Scotten, Adams’s Lead Prosecutor, Quits Defiantly](https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html)
+Token length: 213
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Lorne Michaels Reflects on His ‘S.N.L.’ Legacy Ahead of the 50th Anniversary](https://www.nytimes.com/2025/02/14/arts/television/lorne-michaels-saturday-night-live.html)
-Token length: 186
+Append: [USDA probationary staff fired at three agencies, sources say](https://www.reuters.com/world/us/usda-probationary-staff-fired-two-research-agencies-sources-say-2025-02-14/)
+Token length: 175
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Tensions Mount in Lebanon as Deadline Nears for Israeli Withdrawal](https://www.nytimes.com/2025/02/14/world/europe/lebanon-israeli-withdrawal.html)
-Token length: 295
+Append: [Trump Cracks Down on Diversity Initiatives Celebrated in His First Term](https://www.nytimes.com/2025/02/14/us/politics/trump-diversity-education-department.html)
+Token length: 266
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US Treasury watchdog begins audit of DOGE access to federal payment system, AP reports](https://www.reuters.com/world/us/us-treasury-watchdog-begins-audit-doge-access-federal-payment-system-ap-reports-2025-02-14/)
-Token length: 254
+Append: [US prosecutor agrees to seek dismissal of Adams charges under pressure, sources say](https://www.reuters.com/world/us/federal-prosecutor-will-sign-motion-dismiss-adams-charges-bid-save-colleagues-2025-02-14/)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Barbie Hsu, Taiwanese Actress and Star of ‘Meteor Garden,’ Dies at 48](https://www.nytimes.com/2025/02/14/world/asia/barbie-hsu-dead.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Texas County Declares an Emergency Over Toxic Fertilizer](https://www.nytimes.com/2025/02/14/climate/forever-chemicals-sewage-sludge-fertilizer-texas.html)
+Token length: 141
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Sweeping US energy department layoffs hit nuclear security, loans office, sources say](https://www.reuters.com/world/us/sweeping-us-energy-department-layoffs-hit-nuclear-security-loans-office-sources-2025-02-14/)
-append_entries: 8
-Finish: 2025-02-14 18:15:22.578306
+Append: [For Fans of Nicholas Sparks, This North Carolina City Is the Capital of Love](https://www.nytimes.com/2025/02/14/us/nicholas-sparks-north-carolina-new-bern.html)
+Token length: 759
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [花旗：中国科技股尚未过热](https://wallstreetcn.com/articles/3741088)
+append_entries: 12
+Finish: 2025-02-14 20:13:17.027696

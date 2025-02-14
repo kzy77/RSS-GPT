@@ -8,4 +8,87 @@
     </author>
     <id>tag:blogger.com,1999:blog-6793225987970179847</id>
     
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, API, 应用, 本地部署<br>
+<br>
+Deepseek是一个搜索工具，可以通过网页端、APP以及API服务，可以在Perplexity等应用中使用。用户也可以选择进行本地部署。详细使用方法可以参考官方网站，官方手机客户端，或者第三方应用。本地部署需要安装Ollama并输入指令来运行。这些工具可以帮助用户进行沉浸式翻译、Chatbox以及欧路词典等操作。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[Cloudflare、Serv00、搭建节点、SSH客户端、保活<br>
+<br>
+总结: 该视频介绍了在Serv00搭建节点的方法选择，包括注册、登录、搭建代理节点等步骤。同时还介绍了Cloudflare Argo固定隧道的设置方法，以及GitHub保号和远程保活的操作步骤。在SSH登录IP被封的情况下，可以通过系统代理登录。Cloudflare Argo固定隧道的前提条件是需要有域名并托管到Cloudflare上。配置隧道时需要设置域名类型选HTTP，URL输入“localhost:端口号”。该视频提供了详细的操作步骤，帮助用户顺利搭建节点并保持节点的稳定运行。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[ChatGPT、降智、科学上网、IP节点、搭建节点<br>
+<br>
+总结：<br>
+ChatGPT在某些情况下可能出现降智表现，解决方法是更换其他IP节点进行科学上网。具体实验结果显示不同IP节点的降智情况不同，建议使用Serv00-Play脚本搭建节点，并在网页后台修改节点IP地址以解决降智问题。需注意三个主要IP地址是否被墙，可以通过重启singbox等方法进行调整。详细步骤可参考相关视频教程。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[Serv00, 注册, 国外, 闲鱼, 成品号
+
+Serv00帐号目前很难注册成功，可以请国外朋友帮忙或者上闲鱼购买成品号。购买成品号需要验证手机号解锁邮箱账户，添加备用邮箱，重置密码等步骤。同时需要查看后台验证是否有残留，修改登录密码和邮箱登录密码。另外，需检查Serv00的IP是否被封。该过程较为复杂，可以参考相关视频进行操作。总结: Serv00注册困难，可通过国外朋友或闲鱼购买成品号，需要验证、添加邮箱、重置密码等步骤，同时注意IP封锁情况。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[Gemini API, Chatbox, 欧路词典, openai-gemini, Github Actions<br>
+<br>
+Gemini API免费获取Chatbox和欧路词典第三方应用，通过openai-gemini项目实现中转教程。该项目利用Github Actions在Cloudflare上创建Worker作为中转，并需绑定自定义域名。具体设置参数包括选择服务提供商和填入API域名或接口地址，以及添加模型gemini-2.0-flash-exp。详细教程可在Youtube上观看。<br><br>总结: Gemini API提供Chatbox和欧路词典免费获取，通过openai-gemini实现中转，利用Github Actions创建Cloudflare Worker，需绑定自定义域名，设置参数包括选择服务提供商、填入API域名或接口地址，并添加特定模型。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
 </feed>
