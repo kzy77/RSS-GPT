@@ -1,45 +1,63 @@
 ------------------------------------------------------
-Started: 2025-02-15 00:53:16.504151
-Existing_entries: 18
+Started: 2025-02-15 02:41:01.863372
+Existing_entries: 13
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 238
+Token length: 125
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 183
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US cats euthanized after testing positive for bird flu linked to raw pet food](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cats-euthanized-after-testing-positive-bird-flu-linked-raw-pet-food-2025-02-14/)
-Token length: 226
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US Forest Service fires 3,400 workers, Park Service cuts 1,000](https://www.reuters.com/world/us/us-forest-service-fires-3400-workers-park-service-cuts-1000-2025-02-14/)
+Append: [Judges Generally Let Prosecutors Drop Charges. Maybe Not for Adams.](https://www.nytimes.com/2025/02/14/nyregion/adams-charges-judge.html)
 Token length: 198
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Considers Paving Grass at White House Rose Garden to Match Mar-a-Lago](https://www.nytimes.com/2025/02/14/us/politics/mar-a-lago-trump-grass-rose-garden.html)
-Token length: 223
+Append: [Judge Refuses to Immediately Reinstate Inspectors General Fired by Trump](https://www.nytimes.com/2025/02/14/us/politics/trump-inspectors-general-ruling.html)
+Token length: 166
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Wyoming identifies first human case of bird flu](https://www.reuters.com/business/healthcare-pharmaceuticals/wyoming-identifies-first-human-case-bird-flu-2025-02-14/)
-Token length: 279
+Append: [Zelensky Says Ukraine Is Unlikely to Survive the War Without U.S. Support](https://www.nytimes.com/2025/02/14/world/europe/zelensky-nbc-meet-the-press.html)
+Token length: 2425
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How hard have US agencies been bit by Trump and Musk's layoffs?](https://www.reuters.com/world/us/how-hard-have-us-agencies-been-bit-by-trump-musks-layoffs-2025-02-14/)
-Token length: 219
+Append: [跳水2%！黄金冲关3000美元遇阻，何时迎来新里程碑](https://www.yicai.com/news/102473962.html)
+Token length: 136
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump administration terminates 388 EPA staff](https://www.reuters.com/world/us/trump-administration-terminates-388-epa-staff-2025-02-14/)
-Token length: 96
+Append: [Hagan Scotten, Emil Bove and the Collective Punishment Test](https://www.nytimes.com/live/2025/02/12/opinion/thepoint/emil-bove-hagan-scotten-eric-adams)
+Token length: 2007
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Officials Pushed Ahead With Mass Layoffs](https://www.nytimes.com/2025/02/14/briefing/trump-mass-layoffs-eric-adams-new-york.html)
-Token length: 259
+Append: [持续看好中国资产，高瓴HHLR最新持仓有哪些看点？](https://www.yicai.com/news/102473955.html)
+Token length: 102
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump administration agrees not to fire more CFPB staff for now, court order says](https://www.reuters.com/world/us/trump-administration-agrees-not-fire-more-cfpb-staff-now-court-order-says-2025-02-14/)
-Token length: 256
+Append: [With Trump’s Help, Intel Could Hand Control of Chip Plants to TSMC](https://www.nytimes.com/2025/02/14/technology/intel-tsmc-talks-trump.html)
+Token length: 95
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump administration to overhaul appliance efficiency standards](https://www.reuters.com/business/energy/us-energy-department-postpone-seven-mandates-appliance-efficiency-standards-2025-02-14/)
-Token length: 250
+Append: [用DeepSeek在股市搞钱，靠谱吗？丨股市演义](https://www.yicai.com/video/102473953.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [FBI dismisses Homeland Security secretary's claims that called FBI corrupt](https://www.reuters.com/world/us/fbi-dismisses-homeland-security-secretarys-claims-that-called-fbi-corrupt-2025-02-15/)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [JD Vance Is in Charge of Getting a TikTok Deal. Can He Find a Buyer?](https://www.nytimes.com/2025/02/14/business/jd-vance-tiktok.html)
+Token length: 146
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump funding freeze halts wildfire prevention work](https://www.reuters.com/world/us/trump-funding-freeze-halts-wildfire-prevention-work-2025-02-14/)
-Token length: 153
+Append: [Layoffs Expand at Federal Agencies, Part of Trump Purge](https://www.nytimes.com/2025/02/14/us/politics/energy-department-layoffs.html)
+Token length: 1448
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Many Want Hochul to Force Adams From Office. She Isn’t So Sure.](https://www.nytimes.com/2025/02/14/nyregion/hochul-adams-removal.html)
-Token length: 202
+Append: [除了加码西方石油，巴菲特还有大动作：Q4减持银行股，增持餐饮股，未再减持苹果](https://wallstreetcn.com/articles/3741162)
+Token length: 118
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why Emil Bove’s Battle Against Danielle Sassoon Is So Self-Defeating](https://www.nytimes.com/2025/02/14/opinion/emil-bove-danielle-sassoon-doj-trump.html)
-append_entries: 13
-Finish: 2025-02-15 00:54:21.245756
+Append: [California Bill Would Force Insurers to Pay Full Coverage Without Requiring Itemization](https://www.nytimes.com/2025/02/14/realestate/la-fire-home-insurance-legislation.html)
+Token length: 3964
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [短视频平台隐秘的“私刑”：谁在操弄“封号权”？](https://m.thepaper.cn/detail/30157092)
+Token length: 608
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [王毅谈中方对中美关系原则立场：中美不能冲突，否则世界遭殃](https://m.thepaper.cn/detail/30164383)
+Token length: 4383
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [华尔街见闻早餐FM-Radio | 2025年2月15日](https://wallstreetcn.com/articles/3741164)
+Token length: 177
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [A Night at the Kennedy Center, Just After Trump’s Takeover](https://www.nytimes.com/2025/02/14/arts/music/kennedy-center-donald-trump.html)
+Token length: 168
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Eleanor Maguire, Memory Expert Who Studied London Cabbies, Dies at 54](https://www.nytimes.com/2025/02/14/science/eleanor-maguire-dead.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [英伟达Q4持仓曝光！文远知行盘中翻倍，“英伟达概念股”遭清仓后暴跌](https://wallstreetcn.com/articles/3741153)
+Token length: 75
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [逐渐失去耐心……特朗普被印度记者问懵：我听不懂](https://m.thepaper.cn/detail/30157878)
+append_entries: 20
+Finish: 2025-02-15 02:42:17.914774
