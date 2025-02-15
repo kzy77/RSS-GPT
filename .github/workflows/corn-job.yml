@@ -64,6 +64,7 @@ jobs:
           git add README*
           export TZ='Asia/Shanghai'
           git commit -m "Auto Build at `date +"%Y-%m-%d %H:%M"`"
-        
+          echo "======git pull===="
+          git pull --rebase origin main
           echo "======git push===="
           git push
