@@ -11,7 +11,7 @@ import requests
 from fake_useragent import UserAgent
 import glob
 import time
-import pytz  # 引入pytz模块处理时区
+from zoneinfo import ZoneInfo  # 使用 zoneinfo 模块处理时区
 #from dateutil.parser import parse
 from google import genai
 
@@ -491,7 +491,7 @@ with open(os.path.join(BASE, 'index.html'), 'w') as f:
         feed_data['feed']['name'] = get_cfg(feed_data['section'], 'name')
     
     # 使用Asia/Shanghai时区获取当前时间
-    shanghai_tz = pytz.timezone('Asia/Shanghai')
+    shanghai_tz = ZoneInfo("Asia/Shanghai")
     current_time = datetime.datetime.now(shanghai_tz).strftime("%Y-%m-%d %H:%M:%S")
     
     html = template.render(
