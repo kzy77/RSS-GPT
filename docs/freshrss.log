@@ -1,66 +1,62 @@
 ------------------------------------------------------
-Started: 2025-02-18 14:11:19.725956
-Existing_entries: 13
+Started: 2025-02-18 16:14:30.746661
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 146
+Token length: 254
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Hamas Says Remains of Israeli Captives Will Be Handed Over on Thursday](https://www.nytimes.com/2025/02/18/world/middleeast/hamas-hostages-remains.html)
-Token length: 169
+Append: [Judge expected to rule on Musk and DOGE access at several US agencies](https://www.reuters.com/world/us/judge-expected-rule-musk-doge-access-several-us-agencies-2025-02-18/)
+Token length: 299
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Alexander Brothers Face More Lawsuits Accusing Them of Sexual Assault](https://www.nytimes.com/2025/02/18/realestate/tal-oren-alexander-brothers-lawsuits-sexual-assault.html)
-Token length: 166
+Append: [Musk's team may access US Education Department systems, judge rules](https://www.reuters.com/legal/musks-team-may-access-us-education-department-systems-judge-rules-2025-02-18/)
+Token length: 293
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [When a Journey Home to Israeli-Occupied Lebanon Becomes Deadly](https://www.nytimes.com/2025/02/18/world/europe/israel-lebanon-hezbollah-displaced.html)
-Token length: 238
+Append: [Senior U.S. prosecutor resigns, citing demands to open probe into Biden-era contract](https://www.reuters.com/world/us/senior-us-prosecutor-resigns-citing-demands-open-probe-into-biden-era-contract-2025-02-18/)
+Token length: 179
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 383
+Append: [US homebuilder sentiment drops to five-month low in February](https://www.reuters.com/world/us/us-homebuilder-sentiment-drops-five-month-low-february-2025-02-18/)
+Token length: 253
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [俄美代表沙特会谈结束，两国元首具体会面时间尚无定论](https://www.yicai.com/news/102477473.html)
-Token length: 447
+Append: [Native American activist Leonard Peltier released from prison](https://www.reuters.com/world/us/native-american-activist-leonard-peltier-released-prison-2025-02-18/)
+Token length: 2293
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [马斯克旗下xAI发布Grok 3聊天机器人](https://www.yicai.com/news/102477475.html)
-Token length: 2350
+Append: [马斯克 xAI 正式发布Grok3大模型！“地表最聪明AI”？](https://www.freedidi.com/18588.html)
+Token length: 1172
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [生态优先取代开发优先！长江沿线城市未来10年有哪些机遇](https://www.yicai.com/news/102477472.html)
-Token length: 3071
+Append: [东方购物打造“白玉兰直播间”，赋能“文旅商体展”融合发展](https://www.yicai.com/news/102477644.html)
+Token length: 322
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [31省份今年财政收入预计平均增长2.8%，释放哪些信号](https://www.yicai.com/news/102477471.html)
-Token length: 1476
+Append: [美说与俄会谈达成四点共识](https://www.yicai.com/news/102477630.html)
+Token length: 93
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [吉利控股投资雷诺巴西公司，五菱加码纯电商用车|第一财经汽车日评](https://www.yicai.com/news/102477435.html)
-Token length: 1082
+Append: [Arctic Air Could Bring Dangerous Temperatures to Parts of the U.S.](https://www.nytimes.com/2025/02/18/weather/arctic-cold-snow.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [They’ve Been Waiting Years to Go Public. They’re Still Waiting.](https://www.nytimes.com/2025/02/18/technology/tech-ipo-delays.html)
+Token length: 75
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [万科披露新融资，联合险资设立Pre-REIT基金收回约14亿](https://www.yicai.com/news/102477438.html)
-Token length: 17
+Append: [Elon Musk Is Leading a ‘Hostile Takeover of the Federal Government’](https://www.nytimes.com/2025/02/18/opinion/musk-trump-doge-tech.html)
+Token length: 3532
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [直击业绩会 | 百度2024年第四季度业绩说明会](https://www.yicai.com/live/102475207.html)
-Token length: 4045
+Append: [AI浪潮将重塑金融五大领域，“成长的烦恼”与机会并存](https://www.yicai.com/news/102477593.html)
+Token length: 222
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国统一大市场建设即将提速](https://www.yicai.com/news/102477444.html)
-Token length: 2820
+Append: [Delaware bill would limit investor lawsuits as companies threaten to leave the state](https://www.reuters.com/legal/delaware-bill-would-limit-investor-lawsuits-companies-threaten-leave-state-2025-02-18-2/)
+Token length: 228
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [2025年适度宽松货币政策适时降准降息如何实施](https://www.yicai.com/news/102477443.html)
-Token length: 815
+Append: [US Border Patrol arrested 29,000 migrants illegally crossing Mexico border in January, lowest since May 2020](https://www.reuters.com/world/us/us-border-patrol-arrested-29000-migrants-illegally-crossing-mexico-border-2025-02-18/)
+Token length: 181
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [又一车企加入“全面智驾”战，车市智能化竞争持续升级](https://www.yicai.com/news/102477413.html)
-Token length: 1702
+Append: [Judge orders hearing over Trump DOJ's bid to toss Eric Adams corruption case](https://www.reuters.com/legal/judge-orders-hearing-over-motion-dismiss-charges-against-nyc-mayor-2025-02-18/)
+Token length: 675
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [瀚川智能陷股权冻结风波，定增“差额补足”条款埋隐患](https://www.yicai.com/news/102477358.html)
-Token length: 1918
+Append: [《哪吒2》登顶全球动画电影票房榜；马斯克发布Grok3大模型](https://www.yicai.com/news/102477582.html)
+Token length: 344
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [“趁热”冲刺A+H，赤峰黄金九成收入“绑”黄金](https://www.yicai.com/news/102477399.html)
-Token length: 1909
+Append: [AI大模型领域再掀波澜 马斯克旗下xAI发布Grok 3人工智能聊天机器人](https://www.yicai.com/video/102477563.html)
+Token length: 1519
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [ST新潮被主力资金大举卖出，内控缺陷、长期不分红遭监管“追函”](https://www.yicai.com/news/102477396.html)
-Token length: 2897
+Append: [一财社论：中国资产价值重估需谨防认知偏见](https://www.yicai.com/news/102477581.html)
+Token length: 2289
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [港股科技ETF大涨遭净流出， 资金高低切换涌入红利赛道](https://www.yicai.com/news/102477340.html)
-Token length: 817
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [潘功胜：中国政府将实施更加积极的财政政策和适度宽松的货币政策](https://www.yicai.com/news/102477376.html)
-Token length: 1150
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [资源紧张！微信用户对DeepSeek搜索热情超预期](https://www.yicai.com/news/102477378.html)
-append_entries: 20
-Finish: 2025-02-18 14:12:40.852866
+Append: [开年银行“二永债“仅发行230亿元，多因素或致今年发行规模缩水](https://www.yicai.com/news/102477500.html)
+append_entries: 19
+Finish: 2025-02-18 16:15:50.999762
