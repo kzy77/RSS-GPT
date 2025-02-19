@@ -1,54 +1,62 @@
 ------------------------------------------------------
-Started: 2025-02-19 18:14:51.902090
-Existing_entries: 14
+Started: 2025-02-19 20:12:31.859952
+Existing_entries: 16
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 238
+Token length: 157
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 177
+Append: [S.S. United States, Historic 20th Century Ocean Liner, Sets Out for Final Voyage](https://www.nytimes.com/2025/02/19/us/ss-united-states-final-voyage.html)
+Token length: 260
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Migrants Deported to Panama by Trump Administration Taken to Jungle Camp](https://www.nytimes.com/2025/02/19/world/americas/us-migrants-panama-jungle-camp.html)
-Token length: 261
+Append: [Key NASA officials' departure casts more uncertainty over US moon program](https://www.reuters.com/world/us/key-nasa-officials-departure-casts-more-uncertainty-over-us-moon-program-2025-02-19/)
+Token length: 116
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [U.S. aid freeze 'decimates' life-saving work globally, survey finds](https://www.reuters.com/world/us/us-aid-freeze-decimates-life-saving-work-globally-survey-finds-2025-02-19/)
-Token length: 298
+Append: [Ukrainians Say They Feel Betrayed by Trump and U.S.](https://www.nytimes.com/2025/02/19/world/europe/ukrainians-trump-voices.html)
+Token length: 324
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Washington prosecutor probes threats against DOGE, names Schumer as target](https://www.reuters.com/world/us/washington-prosecutor-probes-threats-against-doge-names-schumer-target-2025-02-19/)
-Token length: 242
+Append: [Potential impact of Trump policies stoked inflation concerns at Fed, minutes show](https://www.reuters.com/markets/us/potential-impact-trump-policies-raised-inflation-concerns-fed-minutes-show-2025-02-19/)
+Token length: 173
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump administration keeps USAID contracts frozen despite court order](https://www.reuters.com/world/us/trump-administration-keeps-usaid-contracts-frozen-despite-court-order-2025-02-19/)
-Token length: 1489
+Append: [Gerd Stern, Beat Era Poet and Multimedia Artist, Dies at 96](https://www.nytimes.com/2025/02/19/arts/gerd-stern-dead.html)
+Token length: 262
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [阿布扎比资本来了！沪企抢抓中东新机遇，加速资源接洽](https://www.yicai.com/news/102479301.html)
-Token length: 200
+Append: [Democratic lawmakers urge Rubio to renew New START nuclear pact with Russia](https://www.reuters.com/world/us/democratic-lawmakers-urge-rubio-renew-new-start-nuclear-pact-with-russia-2025-02-19/)
+Token length: 294
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A Frustrated Trump Wants His New Air Force One Planes Pronto](https://www.nytimes.com/2025/02/19/us/politics/trump-musk-air-force-one-boeing.html)
-Token length: 187
+Append: [Jewish American group helping refugees scrambles after Trump aid cuts](https://www.reuters.com/world/us/jewish-american-group-helping-refugees-scrambles-after-trump-aid-cuts-2025-02-19/)
+Token length: 121
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US aviation sector calls for emergency funding for air traffic technology, staffing](https://www.reuters.com/business/aerospace-defense/us-aviation-sector-calls-emergency-funding-air-traffic-technology-staffing-2025-02-19/)
-Token length: 209
+Append: [Israeli Military Prosecutor Charges Five Soldiers in Abuse of Palestinian Detainee](https://www.nytimes.com/2025/02/19/world/middleeast/israeli-soldiers-charged-abuse-palestinian-detainee.html)
+Token length: 354
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump says unfair to US if Musk builds factory in India](https://www.reuters.com/world/trump-says-unfair-us-if-musk-builds-factory-india-2025-02-19/)
-Token length: 191
+Append: [本科毕业6年半，李钦宾已任华中科技大学教授、博导](https://m.thepaper.cn/detail/30194901)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Apple Unveils Lower-Priced iPhone 16e With A.I. Features](https://www.nytimes.com/2025/02/19/business/apple-iphone-16e-ai.html)
+Token length: 197
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [New Poll Shows Americans’ Approval for Congress Has Soared, but Probably Not for Long](https://www.nytimes.com/2025/02/19/us/politics/congress-approval-republicans.html)
-Token length: 151
+Append: [Trump Administration Moves to End New York’s Congestion Pricing Tolls](https://www.nytimes.com/2025/02/19/nyregion/trump-congestion-pricing-nyc.html)
+Token length: 244
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Microsoft Says It Has Created a New State of Matter to Power Quantum Computers](https://www.nytimes.com/2025/02/19/technology/microsoft-quantum-computing-topological-qubit.html)
-Token length: 1951
+Append: [FAA says Musk DOGE team will help engineer solutions on airspace reforms](https://www.reuters.com/world/us/faa-says-elon-musk-doge-team-will-help-engineer-solutions-airspace-reforms-2025-02-19/)
+Token length: 248
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [多地政务服务接入DeepSeek，应用在哪些领域](https://www.yicai.com/news/102478501.html)
-Token length: 257
+Append: [Who is Dale Ho, the judge deciding whether to drop Eric Adams' case?](https://www.reuters.com/world/us/who-is-dale-ho-judge-deciding-whether-drop-eric-adams-case-2025-02-19/)
+Token length: 113
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US Army Corps lists 600 "emergency" projects to bypass environmental review](https://www.reuters.com/world/us/us-army-corps-lists-600-emergency-projects-bypass-environmental-review-2025-02-19/)
-Token length: 252
+Append: [Trump Falsely Suggests Ukraine Is to Blame for the War: What to Know](https://www.nytimes.com/2025/02/19/world/europe/trump-zelensky-ukraine-comments.html)
+Token length: 157
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [香港“简化转板”一年迎来首家上市公司 创业板公司想上车仍需“闯关”](https://www.yicai.com/video/102479287.html)
-Token length: 1782
+Append: [Dorothy Chin Brandt, Trailblazing Asian American Judge, Dies at 78](https://www.nytimes.com/2025/02/19/nyregion/dorothy-chin-brandt-dead.html)
+Token length: 164
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [关税威胁又起，美股回落，英特尔一度跌7%，盘中中概指数跌1%，百度跌超3%](https://wallstreetcn.com/articles/3741423)
-Token length: 161
+Append: [Millions of Dead People on Social Security? The Agency’s Own Data Says Otherwise.](https://www.nytimes.com/2025/02/19/upshot/social-security-fraud-claim-musk.html)
+Token length: 230
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Eyes a Bigger, Better Trade Deal With China](https://www.nytimes.com/2025/02/19/business/economy/trump-china-trade-deal.html)
-append_entries: 16
-Finish: 2025-02-19 18:16:02.479969
+Append: [Civil rights, housing, AIDS groups challenge Trump DEIA restrictions](https://www.reuters.com/legal/civil-rights-housing-aids-groups-challenge-trump-deia-restrictions-2025-02-19/)
+Token length: 863
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [苹果发布4499元廉价版iPhone，也能运行AI模型](https://www.yicai.com/news/102479307.html)
+Token length: 212
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [US withdraws approval of New York City's congestion pricing program](https://www.reuters.com/world/us/us-withdraws-approval-new-york-citys-congestion-pricing-program-2025-02-19/)
+append_entries: 19
+Finish: 2025-02-19 20:13:45.076351
