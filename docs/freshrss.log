@@ -1,30 +1,41 @@
 ------------------------------------------------------
-Started: 2025-02-19 02:42:48.745802
-Existing_entries: 20
+Started: 2025-02-19 04:14:10.102345
+Existing_entries: 8
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 837
+Token length: 238
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家统计局：1月份一二三线城市商品住宅销售价格同比降幅均持续收窄](https://www.yicai.com/news/102477949.html)
-Token length: 537
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 4202
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [滚动更新丨上证指数跌0.11%，人形机器人概念冲高](https://www.yicai.com/news/102477943.html)
-Token length: 183
+Append: [本田日产三菱的囚徒困境深度解读](https://www.yicai.com/news/102478188.html)
+Token length: 210
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump restricts AP access over Gulf of Mexico issue](https://www.reuters.com/world/us/trump-restricts-ap-access-over-gulf-mexico-issue-2025-02-19/)
-Token length: 2932
+Append: [Trump to nominate career government official Lukas as No. 2 spy chief, source says](https://www.reuters.com/world/us/trump-nominate-career-government-official-lukas-no-2-spy-chief-source-says-2025-02-19/)
+Token length: 626
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [人形机器人大战 宇树要和Meta联手？Grok 3来了 数月后开源！](https://www.yicai.com/news/102477845.html)
-Token length: 206
+Append: [数据要素市场化价值化加速推进，机构看好三条主线](https://www.yicai.com/news/102478186.html)
+Token length: 357
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Jury acquits rapper A$AP Rocky in Hollywood gun assault case](https://www.reuters.com/world/us/jury-finds-rapper-aap-rocky-not-guilty-charges-gun-assault-case-2025-02-19/)
-Token length: 225
+Append: [2025年高考时间定了！6月7日开始举行](https://www.yicai.com/news/102478189.html)
+Token length: 1236
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [USDA works to rehire bird flu officials it fired, NBC news reports](https://www.reuters.com/world/us/usda-works-rehire-bird-flu-officials-it-fired-nbc-news-reports-2025-02-19/)
-Token length: 7053
+Append: [部分格力专卖店变身“董明珠健康家”引热议，是否将成“双刃剑”？](https://www.yicai.com/news/102478124.html)
+Token length: 235
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [8点1氪｜马斯克称Grok3大模型性能超越DeepSeek V3；深圳首批“AI公务员”上岗；iPhone 17 Pro模具曝光](https://www.36kr.com/p/3172774115066246)
-Token length: 3217
+Append: [US man accused of hate crime after Israelis thought to be Palestinian were shot](https://www.reuters.com/world/us/us-man-accused-hate-crime-after-israelis-thought-be-palestinian-were-shot-2025-02-19/)
+Token length: 726
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [从西海固到哈尔滨，一场跨越二十余年的相逢｜寻找苏志强后记](https://m.thepaper.cn/detail/30184571)
-append_entries: 8
-Finish: 2025-02-19 02:43:04.256466
+Append: [科技巨头加速布局，人形机器人概念大涨，这个细分领域或打开百亿市场](https://www.yicai.com/news/102478074.html)
+Token length: 167
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump administration reverses plan to shut down free COVID test program, Washington Post reports](https://www.reuters.com/world/us/trump-administration-reverses-plan-shut-down-free-covid-test-program-washington-2025-02-19/)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [石药达成潜在金额超12亿美元交易，中国药企“青苗”为何持续受青睐](https://www.yicai.com/news/102478027.html)
+Token length: 1516
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [马斯克的DOGE又爆猛料：美国财政部4.7万亿美元付款下落不明](https://wallstreetcn.com/articles/3741370)
+Token length: 1833
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [美俄相谈甚欢提“建立互信”三步骤，泽连斯基称公平谈判应有乌欧参与](https://m.thepaper.cn/detail/30186310)
+append_entries: 12
+Finish: 2025-02-19 04:15:16.661454
