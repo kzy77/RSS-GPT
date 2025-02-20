@@ -1,36 +1,53 @@
 ------------------------------------------------------
-Started: 2025-02-20 10:12:26.690484
-Existing_entries: 20
+Started: 2025-02-20 12:21:55.911766
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 714
+Token length: 238
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [央行：探索拓展中央银行宏观审慎与金融稳定功能，维护金融市场稳健运行](https://www.yicai.com/news/102480543.html)
-Token length: 462
+Append: [机构买入这16股，抛售东华软件1.31亿元](https://www.yicai.com/news/102480683.html)
+Token length: 2452
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [温氏股份业绩快报：2024年净利润同比上升244.68% 扭亏为盈](https://www.yicai.com/news/102480522.html)
-Token length: 1337
+Append: [关税战没有出路也不会有赢家，商务部回应美方拟实施所谓对等关税](https://www.yicai.com/news/102480572.html)
+Token length: 4320
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [多平台宣布“骑手入社保” 影响几何？专家分析](https://www.yicai.com/news/102480514.html)
-Token length: 757
+Append: [中国对外开放再加码，《稳外资行动方案》6次强调“落实”](https://www.yicai.com/news/102480575.html)
+Token length: 1068
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [vless://TELEGRAM-NUFiLTER-04bb4395e6eb@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Cteleg...](https://t.me/V2rayNg_madam/4430)
-Token length: 9102
+Append: [2954美元！国际金价迭创新高，关税预期和跨市套利加剧波动](https://www.yicai.com/news/102480569.html)
+Token length: 3408
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [裁员裁到大动脉，马斯克把核武器专家都开了](https://www.huxiu.com/article/4039569.html)
-Token length: 847
+Append: [一大波“地王”项目即将上新，有望带动改善住房需求释放](https://www.yicai.com/news/102480563.html)
+Token length: 4897
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家金融监管总局：允许港澳银行内地分行开办外币银行卡业务](https://www.yicai.com/news/102480472.html)
-Token length: 117
+Append: [从全球价值链洞察对华关税影响](https://www.yicai.com/news/102479719.html)
+Token length: 1613
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [连板股追踪丨A股今日共107只个股涨停 杭齿前进7连板](https://www.yicai.com/news/102480459.html)
-Token length: 1171
+Append: [越南通过政府“瘦身”计划，10万公务员或受影响](https://www.yicai.com/news/102480544.html)
+Token length: 143
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [瞄准中国科技热土，阿布扎比向中国创业者抛出“黄金门票”](https://www.yicai.com/news/102480425.html)
-Token length: 2444
+Append: [Hamas Hands Bodies of 4 Hostages Back to Israel](https://www.nytimes.com/2025/02/20/world/middleeast/israel-hamas-hostages-bodies.html)
+Token length: 1161
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [专访穆迪首席经济学家赞迪：特朗普关税将导致美国经济放缓，美联储或“秋后算账”](https://www.yicai.com/news/102480389.html)
-Token length: 1464
+Append: [减重药近40%体重减轻来自肌肉！新药能否让肥胖患者长出肌肉？](https://www.yicai.com/news/102480535.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [缅甸妙瓦底地区首批200名中国籍涉诈犯罪嫌疑人被押解回国](https://www.yicai.com/news/102480611.html)
+Token length: 1532
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [一月新房环比上涨城市有24个，南京、成都领涨](https://www.yicai.com/news/102478195.html)
-append_entries: 10
-Finish: 2025-02-20 10:12:49.004579
+Append: [2月20日这些公告有看头](https://www.yicai.com/news/102480596.html)
+Token length: 1377
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [保障集采药质量、鼓励原研地产，国家药监局最新表态来了](https://www.yicai.com/news/102480501.html)
+Token length: 1518
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [无创血糖检测迎科研突破，拉曼光谱技术能否超越传统“金标准”？](https://www.yicai.com/news/102480481.html)
+Token length: 99
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Tom Friedman on Just How Far Trump Could Push the World](https://www.nytimes.com/2025/02/20/opinion/trump-putin-ukraine-europe.html)
+Token length: 106
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Germany’s Far-Right Comeback](https://www.nytimes.com/2025/02/20/opinion/germany-elections-afd.html)
+Token length: 2152
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [商务部：中欧互为重要的经贸伙伴，已形成强大的经济共生关系](https://www.yicai.com/news/102480464.html)
+append_entries: 16
+Finish: 2025-02-20 12:23:12.529802
