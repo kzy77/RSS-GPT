@@ -1,50 +1,45 @@
 ------------------------------------------------------
-Started: 2025-02-21 06:16:10.207465
-Existing_entries: 13
+Started: 2025-02-21 08:14:58.015406
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 232
+Token length: 917
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 2194
+Append: [国务院国资委部署深化中央企业“AI+”专项行动](https://www.yicai.com/news/102482266.html)
+Token length: 823
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [生产基地大量停产三月未复产被ST，晨鸣纸业去年预亏75亿危机加剧](https://www.yicai.com/news/102482005.html)
-Token length: 154
+Append: [科创50指数大涨近6% 算力、液冷服务器领涨](https://www.yicai.com/news/102482249.html)
+Token length: 1242
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Arab Leaders Scramble to Counter Trump’s Gaza Plans](https://www.nytimes.com/2025/02/21/world/middleeast/arab-leaders-plan-gaza.html)
-Token length: 180
+Append: [新卫生部长上任后，美疫苗咨询委员会首次会议被无限期推迟](https://www.yicai.com/news/102482076.html)
+Token length: 1373
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How a Hong Kong Artist Got Fired From McDonald’s](https://www.nytimes.com/2025/02/21/world/asia/hong-kong-artist-workplace-activism.html)
-Token length: 75
+Append: [生物医药股集体飙涨！摩根士丹利放弃看跌中国股市](https://www.yicai.com/news/102482072.html)
+Token length: 106
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [一张合影，暴露欧洲特殊时刻](https://m.thepaper.cn/detail/30204624)
-Token length: 1581
+Append: [直播丨最高检召开“依法从严打击证券违法犯罪 促进资本市场健康稳定发展”新闻发布会](https://www.yicai.com/live/102481970.html)
+Token length: 162
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全美“蛋荒”？美国农业部称今年蛋价或涨逾20%，特朗普政府如何应对](https://www.yicai.com/news/102480456.html)
-Token length: 1045
+Append: [iPhone 16e vs iPhone 16 价格配置对比，看完你还想入手吗？](https://uuzi.net/iphone-16e-vs-16/)
+Token length: 1015
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [手握1亿股格力电器，71岁董明珠看中的接班“苗子”可能是谁？](https://www.yicai.com/news/102480306.html)
-Token length: 2223
+Append: [受益AI红利，中国联通涨停、中国电信股价创新高](https://www.yicai.com/news/102481946.html)
+Token length: 2388
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [万亿之城能级跃升，常州发布机器人、AI等九大赛道投资机遇](https://www.yicai.com/news/102481834.html)
-Token length: 1131
+Append: [《哪吒2》周边“一吒难求”：盲盒最早4月才发货，手办众筹金额超3100万元](https://www.yicai.com/news/102480538.html)
+Token length: 602
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美国政府滥征关税动摇多边贸易体制根基｜专家热评](https://www.yicai.com/news/102481937.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Overnight ‘Vote-a-Rama’ in the Senate Frames a Contentious Budget Debate](https://www.nytimes.com/2025/02/20/us/politics/senate-vote-budget.html)
-Token length: 1540
+Append: [全国人大常委会法工委发言人办公室回应民营经济促进法立法进展](https://www.yicai.com/news/102482177.html)
+Token length: 1548
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [证券交易犯罪典型案例公布，内幕交易、操纵证券市场获刑](https://www.yicai.com/news/102481898.html)
-Token length: 1649
+Append: [减半征收“六税两费”、加大信贷投放力度......上海发布21项减轻企业负担举措](https://www.yicai.com/news/102482190.html)
+Token length: 1278
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [交通基础设施数字化转型提速，首批试点任务下达](https://www.yicai.com/news/102481805.html)
-Token length: 141
+Append: [尊界首款车型计划5月上市，江淮汽车能否重振业绩？](https://www.yicai.com/news/102482032.html)
+Token length: 87
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Claims Power to Fire Administrative Law Judges at Will](https://www.nytimes.com/2025/02/20/us/politics/trump-power-administrative-law-judges.html)
-Token length: 1151
+Append: [Germany Is in Big Trouble](https://www.nytimes.com/2025/02/21/opinion/germany-election-economy.html)
+Token length: 120
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [生态环境部：发挥科技领军企业“出题人、答题人、阅卷人”作用](https://www.yicai.com/news/102481821.html)
-Token length: 830
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [三大电信运营商冲高，中国联通、中国电信涨停](https://www.yicai.com/news/102481839.html)
-append_entries: 15
-Finish: 2025-02-21 06:17:21.476780
+Append: [缅甸妙瓦底电诈园区300名中国籍人员被遣返](https://m.thepaper.cn/detail/30210432)
+append_entries: 13
+Finish: 2025-02-21 08:16:08.083882
