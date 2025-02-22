@@ -9,89 +9,13 @@
     <id>tag:blogger.com,1999:blog-6793225987970179847</id>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, Perplexity
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <summary type="html"><![CDATA[OpenRouter, 微软Azure, 硅基流动, 百度千帆, 腾讯云
 <br>
-Deepseek是一款可以用于沉浸式翻译、Chatbox、欧路词典等软件的搜索引擎工具。用户可以通过Deepseek官方网站、手机客户端或第三方应用来使用。API注册并使用需要+86手机号，注册后送10元体验金，有效期一个月。同时，Deepseek也支持本地部署，用户可以通过下载Ollama并安装，在终端输入运行指令来使用。在使用Chatbox时，需选择Ollama API作为模型提供方。硬件选择上可以参考模型相关指南。整体来说，Deepseek为用户提供了多种方式使用和应用，是一个强大的搜索引擎工具。<br><br>总结: Deepseek是一个多功能的搜索引擎工具，用户可以通过网页端、APP、API以及本地部署等方式进行使用，支持沉浸式翻译、Chatbox、欧路词典等应用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、节点搭建、Cloudflare Argo、GitHub、SSH客户端
-<br>
-Serv00视频介绍了搭建节点的方法选择、注册登录、代理节点搭建、进程保活、GitHub保号和远程保活等内容。其中介绍了Cloudflare Argo固定隧道的设置步骤，包括需要有域名并托管到Cloudflare上，设置隧道路径等。另外，还讲解了SSH登录IP被封的解决方法，可以使用未被封的域名进行登录或设置系统代理。整个视频内容详细介绍了Serv00主机的注册地址、Serv00-Play项目地址、检测Serv00 IP是否被墙的方法以及SSH客户端WindTerm的使用。总体来说，视频内容涵盖了节点搭建及相关设置的整个过程，是一个比较全面的教学视频。 
-<br><br> 
-总结: 该视频内容涵盖了Serv00节点搭建的全过程，包括注册登录、代理节点搭建、Cloudflare Argo固定隧道设置、GitHub保号、SSH登录IP被封的处理方法等，为用户提供了详细的操作指导和解决方案。整体内容较为全面，适合想要学习节点搭建的用户参考学习。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、降智、节点IP、解决办法
-
-科学上网工具ChatGPT出现降智问题时，可以考虑更换不同节点IP来解决。测试结果显示，在不同科学上网节点中，甲骨文云的A节点有降智现象，但B节点不受影响；谷歌云目前未出现降智情况；而Serv00的S15节点降智，S6节点未受影响。针对降智节点的解决方法包括使用Serv00-Play脚本进行搭建，并在Serv00的网页后台中修改IP地址。通过重新启动singbox来消除降智问题。这些解决方法可以为科学上网用户提供一种有效应对降智情况的途径。 
-
-<br><br>总结: 科学上网工具ChatGPT出现降智问题时，可以考虑更换不同节点IP来解决。在甲骨文云和Serv00节点中，不同IP会对降智产生不同影响，通过更换IP或使用特定脚本可解决降智问题。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[Serv00账号注册、闲鱼购买、成品号操作、密码修改、IP检测。
-
-购买Serv00账号成品号需验证手机号、添加备用邮箱，确保密码安全。检查后台验证是否有残留，修改登录密码和邮箱密码确保安全性。在IP被封时可通过搭建科学上网节点解决。视频中将详细展示购买成品号的操作步骤和注意事项，以及Serv00系统初始化、IP问题处理等相关内容。需密切关注账号和进程保活，确保账号正常使用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[Gemini API、Chatbox、欧路词典、中转教程openai-gemini、Github Actions<br>
-<br>
-Gemini API通过Github Actions功能，在Cloudflare创建Worker中转第三方应用Chatbox和欧路词典的请求。用户需绑定自定义域名并设置参数：方法一选择Openai作为服务提供商，填入Cloudflare Worker的自定义域名和添加gemini-2.0-flash-exp模型；方法二选自定义服务商，填入自定义域名/v1/chat/completionsAPI接口地址和添加gemini-2.0-flash-exp模型。详细教程可观看Youtube视频。Gemini API允许免费获取Chatbox和欧路词典的功能，并实现中转请求的流程。Gemini API通过Github Actions和Cloudflare Worker实现中转功能，并需要设置参数以实现不同服务商和模型的对接。Gemini API功能强大，便捷实用，适合用于多元化的第三方应用中。<br><br>总结: Gemini API提供了免费获取第三方应用功能的解决方案，并通过中转教程openai-gemini实现在Cloudflare上进行请求路由的操作，让用户能够充分利用Gemini API的功能。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+主流大厂Deepseek-R1满血版羊毛汇总：OpenRouter免费提供低速率版，微软Azure暂时免费，需绑定信用卡，硅基流动免费提供2000万token，百度千帆2月18日前免费体验，腾讯云2月25日前免费体验。英伟达通过邮箱赠送次数，火山方舟免费提供50万token，阿里云百炼免费提供100万token，有效期180天。推荐使用Cherry Studio、Chatbox、Chatwise进行API客户端操作，在R1满血版中可联网搜索秘塔AI搜索、纳米AI搜索和Perplexity。]]></summary>
     </entry>
     
 </feed>
