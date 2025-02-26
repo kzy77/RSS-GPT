@@ -1,51 +1,62 @@
 ------------------------------------------------------
-Started: 2025-02-26 04:14:31.741312
-Existing_entries: 11
+Started: 2025-02-26 06:16:57.181525
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 236
+Token length: 67
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Mother of Palestinian boy killed in US says they were targeted for being Muslim](https://www.reuters.com/world/us/mother-palestinian-boy-killed-us-says-they-were-targeted-being-muslim-2025-02-26/)
-Token length: 751
+Append: [沐曦集成电路（上海）有限公司/FlashMLA](https://gitee.com/metax-maca/FlashMLA)
+Token length: 221
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [徐工汽车混改募资超60亿元，计划5年内IPO上市](https://www.yicai.com/news/102486968.html)
-Token length: 2573
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 1178
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [开年近50家会计所违规被“点名”，引入“AI审计师”能否识别财务骗局？](https://www.yicai.com/news/102487719.html)
-Token length: 1879
+Append: [鸿蒙原生版京东引领网购体验革新，登录、搜索、查物流等处处有惊喜](https://www.yicai.com/news/102488037.html)
+Token length: 3717
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [42天11场辩论！尹锡悦弹劾案进入“最后时刻”，3月中上旬很关键](https://www.yicai.com/news/102487635.html)
-Token length: 244
+Append: [美国小额包裹关税悬而未决，中国卖家已经行动起来了](https://www.yicai.com/news/102487956.html)
+Token length: 1548
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US East Coast dockworkers ratify new six-year contract](https://www.reuters.com/world/us/us-east-coast-dockworkers-ratify-new-six-year-contract-2025-02-26/)
-Token length: 343
+Append: [提出“独立于美国”，赢了大选的联盟党和默茨下一步怎么走？](https://www.yicai.com/news/102487885.html)
+Token length: 172
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [雷军：小米SU7 Ultra 1万台的全年销量目标，已有9成把握](https://www.yicai.com/news/102487659.html)
-Token length: 193
+Append: [Nebraska Man Struggles to Change Daughter’s Name From ‘Unakite Thirteen Hotel’](https://www.nytimes.com/2025/02/25/us/unakite-thirteen-hotel-baby-name-nebraska.html)
+Token length: 148
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Administration Plans to Require Undocumented Immigrants to Register](https://www.nytimes.com/2025/02/25/us/politics/immigrants-registry-trump.html)
-Token length: 65
+Append: [As Poverty Rises in New York City, 1 in 4 Can’t Afford Essentials](https://www.nytimes.com/2025/02/26/nyregion/robin-hood-poverty-nyc.html)
+Token length: 187
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [What Can House Republicans Cut Instead of Medicaid? Not Much.](https://www.nytimes.com/2025/02/25/upshot/republicans-medicaid-house-budget.html)
-Token length: 177
+Append: [US agency halts Trump administration's firing of six government employees](https://www.reuters.com/world/us/us-agency-halts-trump-administrations-firing-six-government-employees-2025-02-26/)
+Token length: 2940
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Israel Strikes Syria Hours After Country’s Leader Demands Withdrawal](https://www.nytimes.com/2025/02/25/world/middleeast/israel-strikes-syria.html)
+Append: [香港预算案发表：今年经济增长介乎2%-3%、全速推进人民币柜台纳入港股通……](https://www.yicai.com/news/102487964.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [张斌：通过更积极的总需求管理政策实现更合理的经济增速｜首席观大势](https://www.yicai.com/video/102487961.html)
+Token length: 1091
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [百威亚太换帅股价大涨逾11%，四季度中国业务去库存销量下滑](https://www.yicai.com/news/102487912.html)
+Token length: 1882
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [专家建言民营经济促进法草案完善：对违规收费、罚款进行追责](https://www.yicai.com/news/102487915.html)
+Token length: 2139
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [BCA Research欧洲投资首席策略师：全球机械贸易将迎来转折点，利好德国](https://www.yicai.com/news/102487924.html)
+Token length: 1613
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [DeepSeek开源第三日，行业影响几何？](https://www.yicai.com/news/102487927.html)
+Token length: 4426
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [独家丨又一贵州城投非标融资打折兑付，万向信托西南交投项目本金打93、94折](https://www.yicai.com/news/102487108.html)
+Token length: 961
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [金融监管总局：坚决消除阻碍民营和小微企业的融资壁垒](https://www.yicai.com/news/102487903.html)
 Token length: 1175
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [为什么近期欧洲极右翼党领袖出现多位女性](https://www.huxiu.com/article/4057272.html)
-Token length: 143
+Append: [领英谈AI时代企业用人：2030年70%岗位需求将变化](https://www.yicai.com/news/102487919.html)
+Token length: 196
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Baltimore State’s Attorney to Withdraw Motion to Vacate Adnan Syed’s Conviction](https://www.nytimes.com/2025/02/25/us/adnan-syed-serial-withdraw-motion-vacate.html)
-Token length: 2883
+Append: [House Passes G.O.P. Budget Teeing Up Enormous Tax and Spending Cuts](https://www.nytimes.com/2025/02/25/us/politics/mike-johnson-budget-resolution-vote.html)
+Token length: 168
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美股下跌是调整还是牛转熊？英伟达财报明早来袭！特斯拉FSD正式入华 智驾竞争一触即发](https://www.yicai.com/news/102487512.html)
-Token length: 1048
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A股三大股指集体高开，华为手机概念股表现活跃](https://www.yicai.com/news/102487467.html)
-Token length: 590
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [超100万张，单张500万美元！特朗普要“卖美国绿卡”？](https://wallstreetcn.com/articles/3741879)
-Token length: 154
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微软正式发布.NET 10 Preview 1：开启下一代开发框架新篇章](https://www.cnblogs.com/shanyou/p/18737657)
-append_entries: 15
-Finish: 2025-02-26 04:15:41.491480
+Append: [Chile Declares Curfew as Power Outage Sweeps Country](https://www.nytimes.com/2025/02/25/world/americas/chile-power-outage.html)
+append_entries: 19
+Finish: 2025-02-26 06:18:15.631538
