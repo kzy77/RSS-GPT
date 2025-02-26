@@ -13,10 +13,11 @@
     
   <style>
   img {
-    
     max-width: 100% !important;
-    
     height: auto !important;
+    border-radius: 8px;
+    margin: 1rem 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   }
   </style>
     <style>
@@ -134,13 +135,109 @@
 
       <h1>RSS feeds processed with <a href="https://github.com/yinan-c/rss-gpt" target="_blank" rel="noopener noreferrer">RSS-GPT</a></h1>
       
-      <ul>
-      <li><a href="https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24" target="_blank" rel="noopener noreferrer">https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24</a> -> <a href="freshrss" target="_blank" rel="noopener noreferrer">freshrss.xml</a></li>
-      </ul>
-      
-      <ul>
-      <li><a href="https://7techlife.blogspot.com/atom.xml" target="_blank" rel="noopener noreferrer">https://7techlife.blogspot.com/atom.xml</a> -> <a href="ai" target="_blank" rel="noopener noreferrer">ai.xml</a></li>
-      </ul>
+      <div class="feed-container">
+        <!-- 动态内容将由JavaScript填充 -->
+        <div class="feed-loading">正在加载最新内容...</div>
+      </div>
+
+      <style>
+        .feed-container {
+          margin: 2rem 0;
+        }
+
+        .feed-card {
+          background: #fff;
+          border-radius: 8px;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+          margin-bottom: 1.5rem;
+          padding: 1.5rem;
+          transition: transform 0.2s ease;
+        }
+
+        .feed-card:hover {
+          transform: translateY(-3px);
+          box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+        .feed-title {
+          font-size: 1.1rem;
+          margin: 0 0 0.5rem;
+          color: #1a73e8;
+        }
+
+        .feed-summary {
+          color: #666;
+          font-size: 0.95rem;
+          line-height: 1.6;
+          margin-bottom: 1rem;
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        .feed-meta {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          font-size: 0.85rem;
+          color: #999;
+        }
+
+        .feed-link {
+          color: #1a73e8;
+          text-decoration: none;
+          font-weight: 500;
+        }
+
+        .feed-link:hover {
+          text-decoration: underline;
+        }
+
+        .feed-loading {
+          text-align: center;
+          padding: 2rem;
+          color: #666;
+        }
+      </style>
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          fetch('atom.xml')
+            .then(response => response.text())
+            .then(str => (new window.DOMParser()).parseFromString(str, "text/xml"))
+            .then(data => {
+              const container = document.querySelector('.feed-container');
+              container.innerHTML = ''; // 清空加载提示
+              
+              const entries = data.querySelectorAll('entry');
+              entries.forEach(entry => {
+                const card = document.createElement('div');
+                card.className = 'feed-card';
+                
+                const title = entry.querySelector('title').textContent;
+                const link = entry.querySelector('link').getAttribute('href');
+                const updated = new Date(entry.querySelector('updated').textContent).toLocaleDateString();
+                const summary = entry.querySelector('summary').textContent;
+
+                card.innerHTML = `
+                  <h3 class="feed-title">${title}</h3>
+                  <div class="feed-summary">${summary}</div>
+                  <div class="feed-meta">
+                    <span>${updated}</span>
+                    <a href="${link}" class="feed-link" target="_blank" rel="noopener">阅读全文 →</a>
+                  </div>
+                `;
+
+                container.appendChild(card);
+              });
+            })
+            .catch(error => {
+              console.error('Error loading feed:', error);
+              document.querySelector('.feed-loading').textContent = '内容加载失败，请稍后刷新尝试';
+            });
+        });
+      </script>
       
 
 <style>
