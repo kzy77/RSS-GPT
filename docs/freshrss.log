@@ -1,38 +1,64 @@
 ------------------------------------------------------
-Started: 2025-02-26 10:13:12.085717
-Existing_entries: 10
+Started: 2025-02-26 12:22:15.143752
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 650
+Token length: 111
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [收盘丨沪指震荡反弹涨超1%，券商板块尾盘飙升](https://www.yicai.com/news/102488228.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}
-Append: [连板股追踪丨A股今日共108只个股涨停 华丰股份收获4连板](https://www.yicai.com/news/102488313.html)
-Token length: 1790
+Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
+Token length: 4876
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美国外援“断供”，全球健康项目“躺枪"？](https://www.yicai.com/news/102488256.html)
-Token length: 343
+Append: [DeepSeek下调API调用价格，降幅最高75％；俞敏洪称东方甄选可能与胖东来合作](https://www.yicai.com/news/102488662.html)
+Token length: 162
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家金融监管总局：港澳金融机构入股保险公司不再执行“最近一年末总资产不低于二十亿美元”规定](https://www.yicai.com/news/102488322.html)
-Token length: 180
+Append: [US Defense Secretary Hegseth considering South Korea visit next month, Yonhap says](https://www.reuters.com/world/us-defense-secretary-hegseth-considering-south-korea-visit-next-month-yonhap-2025-02-26/)
+Token length: 2829
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [新一轮供给侧改革在即，钢铁股集体爆发，持续性如何？丨一大板块](https://www.yicai.com/video/102488302.html)
-Token length: 4668
+Append: [从120亿到40亿再到60亿，尚太科技这个项目投资额为何反复“横跳”？”](https://www.yicai.com/news/102488609.html)
+Token length: 1825
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [从雅加达工厂到硅谷研究院：中国手机厂商“闯关”全球化到了关键期](https://www.yicai.com/news/102488233.html)
-Token length: 1201
+Append: [外资奶粉24年业绩集体回升，行业进入2、3年反弹周期](https://www.yicai.com/news/102488552.html)
+Token length: 835
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美乌就矿产资源达成初步协议，泽连斯基或本周访美](https://www.yicai.com/news/102488189.html)
-Token length: 4180
+Append: [16万元/平方米！上海再刷新全国宅地单价纪录](https://www.yicai.com/news/102488589.html)
+Token length: 5
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [刘元春：构建广义价格指数体系，提升宏观经济治理能力水平](https://www.yicai.com/news/102487899.html)
-Token length: 5056
+Append: [揭秘 “俄罗斯” Astra OS 电脑系统！军方专用？实测安装！（仅供娱乐，勿模仿）| 零度解说](https://www.freedidi.com/18631.html)
+Token length: 851
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [广告盯上DeepSeek](https://www.36kr.com/p/3182722747078024)
-Token length: 914
+Append: [楼市福利又上新，这一地买房就送5年高速费](https://www.yicai.com/news/102488594.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [载1300集装箱的车厘子快船推迟28天抵港，事件引发对航运保险和索赔关注](https://www.yicai.com/news/102488586.html)
+Token length: 257
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [马上评丨讨论营商环境，不应陷入地域黑的语言陷阱](https://m.thepaper.cn/detail/30239677)
-Token length: 4589
+Append: [Trump administration loophole snags US research grants from Lyme to lung disease](https://www.reuters.com/world/us/trump-administration-loophole-snags-us-research-grants-lyme-lung-disease-2025-02-26/)
+Token length: 1114
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [杭州又火一个创始人，“六小龙”要变“七小龙”？](https://www.36kr.com/p/3181895250104455)
-append_entries: 11
-Finish: 2025-02-26 10:14:16.228922
+Append: [苹果扩大工业生态，达索系统3D软件宣布集成Vision Pro](https://www.yicai.com/news/102488225.html)
+Token length: 265
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [US government spending has not slowed under Trump so far, data shows](https://www.reuters.com/world/us/us-government-spending-has-not-slowed-under-trump-so-far-data-shows-2025-02-26/)
+Token length: 113
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [BP to ‘Fundamentally Reset’ Strategy in Shift Back to Oil and Gas](https://www.nytimes.com/2025/02/26/business/bp-oil-gas-renewables-strategy.html)
+Token length: 288
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Straight woman's 'reverse' discrimination case goes to US Supreme Court](https://www.reuters.com/legal/straight-womans-reverse-discrimination-case-goes-us-supreme-court-2025-02-26/)
+Token length: 178
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Hollywood fights to keep its role as the world's film capital](https://www.reuters.com/lifestyle/hollywood-fights-keep-its-role-worlds-film-capital-2025-02-26/)
+Token length: 233
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: ['Where is Mr. Musk in all of this?' Judges question secrecy of DOGE's activities](https://www.reuters.com/legal/where-is-mr-musk-all-this-judges-question-secrecy-doges-activities-2025-02-26/)
+Token length: 92
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Musk to attend Trump cabinet meet as workers brace for more uncertainty](https://www.reuters.com/world/us/musk-attend-trump-cabinet-meet-workers-brace-more-uncertainty-2025-02-26/)
+Token length: 4233
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [爆火的DeepSeek，能打破医疗AI的阴霾吗？](https://www.yicai.com/news/102488569.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [The Dramatic House Budget Vote, and a New ‘Gold Card’ for Immigrants](https://www.nytimes.com/2025/02/26/podcasts/the-headlines/republican-house-budget-gold-card-immigration.html)
+Token length: 2011
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [特朗普称要“按时”对墨西哥征关税，“重仓”墨西哥的日本汽车业怎么办？](https://www.yicai.com/news/102488543.html)
+append_entries: 20
+Finish: 2025-02-26 12:23:35.271328
