@@ -1,36 +1,38 @@
 ------------------------------------------------------
-Started: 2025-02-26 08:15:45.115522
-Existing_entries: 19
+Started: 2025-02-26 10:13:12.085717
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 278
+Token length: 650
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
-Token length: 2575
+Append: [收盘丨沪指震荡反弹涨超1%，券商板块尾盘飙升](https://www.yicai.com/news/102488228.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}
+Append: [连板股追踪丨A股今日共108只个股涨停 华丰股份收获4连板](https://www.yicai.com/news/102488313.html)
+Token length: 1790
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [重启债务重组，老牌房企天誉置业这次能否“突围”？](https://www.yicai.com/news/102488152.html)
-Token length: 1124
+Append: [美国外援“断供”，全球健康项目“躺枪"？](https://www.yicai.com/news/102488256.html)
+Token length: 343
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [买了FSD“期货”6年，老车主却没法OTA，特斯拉回应来了](https://www.yicai.com/news/102488158.html)
-Token length: 847
+Append: [国家金融监管总局：港澳金融机构入股保险公司不再执行“最近一年末总资产不低于二十亿美元”规定](https://www.yicai.com/news/102488322.html)
+Token length: 180
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家药监局首个前任中管干部被查！曾任副局长，分管药品审批等](https://www.yicai.com/news/102488118.html)
-Token length: 1376
+Append: [新一轮供给侧改革在即，钢铁股集体爆发，持续性如何？丨一大板块](https://www.yicai.com/video/102488302.html)
+Token length: 4668
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [供应商股价两个月涨超400%，宇树概念股持续火热](https://www.yicai.com/news/102488099.html)
-Token length: 912
+Append: [从雅加达工厂到硅谷研究院：中国手机厂商“闯关”全球化到了关键期](https://www.yicai.com/news/102488233.html)
+Token length: 1201
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [和铂医药首个NewCo实现部分退出，股价近三个月涨超300%](https://www.yicai.com/news/102488084.html)
-Token length: 974
+Append: [美乌就矿产资源达成初步协议，泽连斯基或本周访美](https://www.yicai.com/news/102488189.html)
+Token length: 4180
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [苹果召开股东大会，库克近7500万美元薪酬获得通过](https://www.yicai.com/news/102488066.html)
-Token length: 2316
+Append: [刘元春：构建广义价格指数体系，提升宏观经济治理能力水平](https://www.yicai.com/news/102487899.html)
+Token length: 5056
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [赵伟：美国“对等关税”的税率有多高](https://www.yicai.com/news/102487963.html)
-Token length: 2597
+Append: [广告盯上DeepSeek](https://www.36kr.com/p/3182722747078024)
+Token length: 914
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [汇丰阿联酋CEO：支持中企在中东上市](https://www.yicai.com/news/102487086.html)
-Token length: 161
+Append: [马上评丨讨论营商环境，不应陷入地域黑的语言陷阱](https://m.thepaper.cn/detail/30239677)
+Token length: 4589
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [薅羊毛？这是土耳其 iPhone 16 价格，这价格够浪漫吗？](https://uuzi.net/iphone-16-turkey-price/)
-append_entries: 10
-Finish: 2025-02-26 08:16:04.793554
+Append: [杭州又火一个创始人，“六小龙”要变“七小龙”？](https://www.36kr.com/p/3181895250104455)
+append_entries: 11
+Finish: 2025-02-26 10:14:16.228922
