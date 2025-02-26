@@ -1,38 +1,51 @@
 ------------------------------------------------------
-Started: 2025-02-26 02:45:57.164133
-Existing_entries: 19
+Started: 2025-02-26 04:14:31.741312
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 180
+Token length: 236
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 278
+Append: [Mother of Palestinian boy killed in US says they were targeted for being Muslim](https://www.reuters.com/world/us/mother-palestinian-boy-killed-us-says-they-were-targeted-being-muslim-2025-02-26/)
+Token length: 751
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
-Token length: 214
+Append: [徐工汽车混改募资超60亿元，计划5年内IPO上市](https://www.yicai.com/news/102486968.html)
+Token length: 2573
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US envoy Witkoff may travel to Middle East Sunday, Axios reports](https://www.reuters.com/world/us/us-envoy-witkoff-may-travel-middle-east-sunday-axios-reports-2025-02-26/)
-Token length: 113
+Append: [开年近50家会计所违规被“点名”，引入“AI审计师”能否识别财务骗局？](https://www.yicai.com/news/102487719.html)
+Token length: 1879
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Given the Right Conditions, Could a Woman Run a 4-Minute Mile?](https://www.nytimes.com/2025/02/25/sports/mile-run-world-record-faith-kipyegon.html)
-Token length: 352
+Append: [42天11场辩论！尹锡悦弹劾案进入“最后时刻”，3月中上旬很关键](https://www.yicai.com/news/102487635.html)
+Token length: 244
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国联通：针对DeepSeek系列模型进行了优化升级 平均节省30%推理计算量](https://www.yicai.com/news/102487357.html)
-Token length: 201
+Append: [US East Coast dockworkers ratify new six-year contract](https://www.reuters.com/world/us/us-east-coast-dockworkers-ratify-new-six-year-contract-2025-02-26/)
+Token length: 343
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The Next Phase of Trump’s Large-Scale Work Force Cuts Is Underway](https://www.nytimes.com/2025/02/25/us/politics/trump-musk-doge-cuts-federal-workers.html)
-Token length: 110
+Append: [雷军：小米SU7 Ultra 1万台的全年销量目标，已有9成把握](https://www.yicai.com/news/102487659.html)
+Token length: 193
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [16 Are Hospitalized After Smoke Fills an Upper Manhattan Subway Station](https://www.nytimes.com/2025/02/25/nyregion/smoke-subway-station-nyc.html)
-Token length: 214
+Append: [Trump Administration Plans to Require Undocumented Immigrants to Register](https://www.nytimes.com/2025/02/25/us/politics/immigrants-registry-trump.html)
+Token length: 65
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Woman pleads guilty of attempting to defraud Elvis Presley's family of Graceland estate](https://www.reuters.com/legal/woman-pleads-guilty-attempting-defraud-elvis-presleys-family-graceland-estate-2025-02-26/)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Teachers union sues to block Trump's anti-DEI policy in US schools](https://www.reuters.com/world/us/teachers-union-sues-block-trumps-anti-dei-policy-us-schools-2025-02-26/)
-Token length: 7123
+Append: [What Can House Republicans Cut Instead of Medicaid? Not Much.](https://www.nytimes.com/2025/02/25/upshot/republicans-medicaid-house-budget.html)
+Token length: 177
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [8点1氪｜老铺黄金近4成产品由外包生产；最高法：婚内私赠第三者的财产配偶有权要回；2024年胡润中国500强发布](https://www.36kr.com/p/3182691445201032)
-Token length: 131
+Append: [Israel Strikes Syria Hours After Country’s Leader Demands Withdrawal](https://www.nytimes.com/2025/02/25/world/middleeast/israel-strikes-syria.html)
+Token length: 1175
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Plans ‘Gold Card’ Alternative to Green Cards for ‘High Level People’](https://www.nytimes.com/2025/02/25/us/politics/trump-gold-card-immigration.html)
-append_entries: 11
-Finish: 2025-02-26 02:47:00.766681
+Append: [为什么近期欧洲极右翼党领袖出现多位女性](https://www.huxiu.com/article/4057272.html)
+Token length: 143
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Baltimore State’s Attorney to Withdraw Motion to Vacate Adnan Syed’s Conviction](https://www.nytimes.com/2025/02/25/us/adnan-syed-serial-withdraw-motion-vacate.html)
+Token length: 2883
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [美股下跌是调整还是牛转熊？英伟达财报明早来袭！特斯拉FSD正式入华 智驾竞争一触即发](https://www.yicai.com/news/102487512.html)
+Token length: 1048
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [A股三大股指集体高开，华为手机概念股表现活跃](https://www.yicai.com/news/102487467.html)
+Token length: 590
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [超100万张，单张500万美元！特朗普要“卖美国绿卡”？](https://wallstreetcn.com/articles/3741879)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [微软正式发布.NET 10 Preview 1：开启下一代开发框架新篇章](https://www.cnblogs.com/shanyou/p/18737657)
+append_entries: 15
+Finish: 2025-02-26 04:15:41.491480
