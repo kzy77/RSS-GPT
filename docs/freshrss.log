@@ -1,62 +1,36 @@
 ------------------------------------------------------
-Started: 2025-02-26 06:16:57.181525
-Existing_entries: 15
+Started: 2025-02-26 08:15:45.115522
+Existing_entries: 19
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 67
+Token length: 278
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [沐曦集成电路（上海）有限公司/FlashMLA](https://gitee.com/metax-maca/FlashMLA)
-Token length: 221
+Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
+Token length: 2575
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 1178
+Append: [重启债务重组，老牌房企天誉置业这次能否“突围”？](https://www.yicai.com/news/102488152.html)
+Token length: 1124
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [鸿蒙原生版京东引领网购体验革新，登录、搜索、查物流等处处有惊喜](https://www.yicai.com/news/102488037.html)
-Token length: 3717
+Append: [买了FSD“期货”6年，老车主却没法OTA，特斯拉回应来了](https://www.yicai.com/news/102488158.html)
+Token length: 847
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美国小额包裹关税悬而未决，中国卖家已经行动起来了](https://www.yicai.com/news/102487956.html)
-Token length: 1548
+Append: [国家药监局首个前任中管干部被查！曾任副局长，分管药品审批等](https://www.yicai.com/news/102488118.html)
+Token length: 1376
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [提出“独立于美国”，赢了大选的联盟党和默茨下一步怎么走？](https://www.yicai.com/news/102487885.html)
-Token length: 172
+Append: [供应商股价两个月涨超400%，宇树概念股持续火热](https://www.yicai.com/news/102488099.html)
+Token length: 912
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Nebraska Man Struggles to Change Daughter’s Name From ‘Unakite Thirteen Hotel’](https://www.nytimes.com/2025/02/25/us/unakite-thirteen-hotel-baby-name-nebraska.html)
-Token length: 148
+Append: [和铂医药首个NewCo实现部分退出，股价近三个月涨超300%](https://www.yicai.com/news/102488084.html)
+Token length: 974
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [As Poverty Rises in New York City, 1 in 4 Can’t Afford Essentials](https://www.nytimes.com/2025/02/26/nyregion/robin-hood-poverty-nyc.html)
-Token length: 187
+Append: [苹果召开股东大会，库克近7500万美元薪酬获得通过](https://www.yicai.com/news/102488066.html)
+Token length: 2316
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US agency halts Trump administration's firing of six government employees](https://www.reuters.com/world/us/us-agency-halts-trump-administrations-firing-six-government-employees-2025-02-26/)
-Token length: 2940
+Append: [赵伟：美国“对等关税”的税率有多高](https://www.yicai.com/news/102487963.html)
+Token length: 2597
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [香港预算案发表：今年经济增长介乎2%-3%、全速推进人民币柜台纳入港股通……](https://www.yicai.com/news/102487964.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [张斌：通过更积极的总需求管理政策实现更合理的经济增速｜首席观大势](https://www.yicai.com/video/102487961.html)
-Token length: 1091
+Append: [汇丰阿联酋CEO：支持中企在中东上市](https://www.yicai.com/news/102487086.html)
+Token length: 161
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [百威亚太换帅股价大涨逾11%，四季度中国业务去库存销量下滑](https://www.yicai.com/news/102487912.html)
-Token length: 1882
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [专家建言民营经济促进法草案完善：对违规收费、罚款进行追责](https://www.yicai.com/news/102487915.html)
-Token length: 2139
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [BCA Research欧洲投资首席策略师：全球机械贸易将迎来转折点，利好德国](https://www.yicai.com/news/102487924.html)
-Token length: 1613
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DeepSeek开源第三日，行业影响几何？](https://www.yicai.com/news/102487927.html)
-Token length: 4426
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [独家丨又一贵州城投非标融资打折兑付，万向信托西南交投项目本金打93、94折](https://www.yicai.com/news/102487108.html)
-Token length: 961
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [金融监管总局：坚决消除阻碍民营和小微企业的融资壁垒](https://www.yicai.com/news/102487903.html)
-Token length: 1175
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [领英谈AI时代企业用人：2030年70%岗位需求将变化](https://www.yicai.com/news/102487919.html)
-Token length: 196
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [House Passes G.O.P. Budget Teeing Up Enormous Tax and Spending Cuts](https://www.nytimes.com/2025/02/25/us/politics/mike-johnson-budget-resolution-vote.html)
-Token length: 168
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Chile Declares Curfew as Power Outage Sweeps Country](https://www.nytimes.com/2025/02/25/world/americas/chile-power-outage.html)
-append_entries: 19
-Finish: 2025-02-26 06:18:15.631538
+Append: [薅羊毛？这是土耳其 iPhone 16 价格，这价格够浪漫吗？](https://uuzi.net/iphone-16-turkey-price/)
+append_entries: 10
+Finish: 2025-02-26 08:16:04.793554
