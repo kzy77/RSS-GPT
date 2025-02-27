@@ -1,42 +1,41 @@
 ------------------------------------------------------
-Started: 2025-02-27 08:15:14.230624
-Existing_entries: 13
+Started: 2025-02-27 10:12:53.230374
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 222
+Token length: 757
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 2362
+Append: [沪指探底回升涨0.23%，大消费板块集体爆发](https://www.yicai.com/news/102490006.html)
+Token length: 167
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [确保矿产资源安全，专家建议设立国家矿产资源安全委员会](https://www.yicai.com/news/102490000.html)
-Token length: 1240
+Append: [Thailand Deports Dozens of Uyghurs to China, Activists Say](https://www.nytimes.com/2025/02/27/world/asia/thailand-china-uyghurs.html)
+Token length: 185
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [奔驰中国回应裁员传闻：正积极进行业务优化，涉及部分员工工作安排](https://www.yicai.com/news/102489970.html)
-Token length: 3849
+Append: [Actor Gene Hackman and wife found dead in home - local media](https://www.reuters.com/world/us/actor-gene-hackman-wife-found-dead-new-mexico-home-local-media-2025-02-27/)
+Token length: 2097
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [评美国232调查及措施｜专家热评](https://www.yicai.com/news/102489899.html)
-Token length: 1263
+Append: [科美诊断董事长李临：精准的数据是AI+医疗创新的基石，需先解决这些问题](https://www.yicai.com/news/102490169.html)
+Token length: 836
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [蒙西电力现货市场转入正式运行，全国电力现货市场建设进入“加速跑”](https://www.yicai.com/news/102489889.html)
-Token length: 3068
+Append: [美对进口铜发起232调查，商务部回应：敦促美方尽快撤销此次调查](https://www.yicai.com/news/102490140.html)
+Token length: 137
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [陆挺：中国物价困境及政策破局之路](https://www.yicai.com/news/102489767.html)
-Token length: 1663
+Append: [雷军辟谣成为中国“新首富”](https://www.yicai.com/news/102490134.html)
+Token length: 1305
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DeepSeek开源第四弹“教”优化，梁文锋参与研发](https://www.yicai.com/news/102489797.html)
-Token length: 1794
+Append: [特朗普首次内阁会，回答了这些问题](https://www.yicai.com/news/102490163.html)
+Token length: 157
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家能源局印发《2025年能源工作指导意见》：新增新能源发电装机规模2亿千瓦以上](https://www.yicai.com/news/102489940.html)
-Token length: 3295
+Append: [Tate Brothers Said to Leave Romania for the United States](https://www.nytimes.com/2025/02/27/world/europe/tate-brothers-romania-us.html)
+Token length: 850
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [900万家庭付不起天价电费，英国能源政策崩盘？](https://www.huxiu.com/article/4063924.html)
-Token length: 201
+Append: [全国政协委员刘永好：积极探索人工智能在传统产业落地，投资多家机器人公司](https://www.yicai.com/news/102490005.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [汽车和机器人两大市场加持，固态电池“火”了，这只股票已经5连板](https://www.yicai.com/news/102490022.html)
+Token length: 244
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why the US exceptionalism trade is faltering](https://www.reuters.com/markets/us/why-us-exceptionalism-trade-is-faltering-2025-02-27/)
-Token length: 827
+Append: [商务部：中方坚决反对美方单边关税措施](https://www.yicai.com/news/102490046.html)
+Token length: 155
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [让AI“边做饭边洗碗”​！DeepSeek开源周第四天：优化并行策略，梁文峰亲上阵！](https://wallstreetcn.com/articles/3741985)
-Token length: 851
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [巴奴火锅创始人回应“月薪五千别吃火锅”：把他的真实本意曲解了](https://m.thepaper.cn/detail/30256869)
+Append: [Elon Musk Is the World’s Richest Man. Why Is He Sleeping on an Office Floor?](https://www.nytimes.com/2025/02/27/opinion/elon-musk-billionaire.html)
 append_entries: 12
-Finish: 2025-02-27 08:16:19.648253
+Finish: 2025-02-27 10:13:58.240541
