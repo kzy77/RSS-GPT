@@ -1,21 +1,44 @@
 ------------------------------------------------------
-Started: 2025-02-27 20:13:17.428763
-Existing_entries: 20
+Started: 2025-02-27 22:11:34.914659
+Existing_entries: 5
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 146
+Token length: 75
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Earth to Barnard College: Enough](https://www.nytimes.com/live/2025/02/25/opinion/thepoint/barnard-college-sit-in-palestinian-israel-protest)
-Token length: 257
+Append: [OpenAI Unveils GPT-4.5 for More ‘Natural Conversation’](https://www.nytimes.com/2025/02/27/technology/openai-artificial-intelligence-technology.html)
+Token length: 215
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [FBI director considering having UFC train agents in martial arts, say people familiar with plan](https://www.reuters.com/world/us/fbi-director-considering-having-ufc-train-agents-martial-arts-say-people-2025-02-27/)
-Token length: 286
+Append: [Migrant arrests at US-Mexico border approach record low in February](https://www.reuters.com/world/americas/migrant-arrests-us-mexico-border-approach-record-low-february-2025-02-27/)
+Token length: 187
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Congress kills Biden era methane fee on oil, gas producers](https://www.reuters.com/markets/commodities/congress-kills-biden-era-methane-fee-oil-gas-producers-2025-02-27/)
-Token length: 183
+Append: [Meet the Trans Troops the Trump Administration Is Barring](https://www.nytimes.com/2025/02/27/us/transgender-military-ban-trump-hegseth.html)
+Token length: 240
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Democratic FCC commissioner says agency seeking to 'bully' broadcasters](https://www.reuters.com/world/us/democratic-fcc-commissioner-says-agency-seeking-bully-broadcasters-2025-02-27/)
-Token length: 156
+Append: [Trump's 'very big' minerals deal may pay off with US Republicans](https://www.reuters.com/world/trumps-very-big-minerals-deal-may-pay-off-with-us-republicans-2025-02-27/)
+Token length: 224
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Says Canada and Mexico Tariffs Will Start March 4, Plus an Increase on China](https://www.nytimes.com/2025/02/27/us/politics/trump-tariffs-canada-mexico-china.html)
-append_entries: 5
-Finish: 2025-02-27 20:13:24.469948
+Append: [Mexico to extradite Caro Quintero, other suspected cartel members, to U.S.](https://www.reuters.com/world/americas/mexico-extradite-us-convicted-drug-kingpin-caro-quintero-other-suspected-cartel-2025-02-27/)
+Token length: 249
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [US Senator Elissa Slotkin to deliver Democratic rebuttal to Trump speech](https://www.reuters.com/world/us/us-senator-elissa-slotkin-deliver-democratic-rebuttal-trump-speech-2025-02-27/)
+Token length: 272
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Judge dismisses Norfolk Southern bondholder lawsuit over 2023 Ohio derailment](https://www.reuters.com/world/us/judge-dismisses-norfolk-southern-bondholder-lawsuit-over-2023-ohio-derailment-2025-02-27/)
+Token length: 165
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Betsy Arakawa, a Classical Musician and the Wife of Gene Hackman, Dies at 65](https://www.nytimes.com/2025/02/27/us/betsy-arakawa-wife-gene-hackman-dead.html)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Rose Girone, Oldest Holocaust Survivor, Dies at 113](https://www.nytimes.com/2025/02/27/us/rose-girone-dead-holocaust-survivor.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Morgan Freeman, Gwyneth Paltrow and Others Mourn Gene Hackman](https://www.nytimes.com/2025/02/27/movies/gene-hackman-hollywood-reaction.html)
+Token length: 181
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Al-Assad Becomes a Punchline in Syria’s Comedy Scene](https://www.nytimes.com/2025/02/27/world/middleeast/syria-comedy-assad-new-government.html)
+Token length: 158
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Ione Skye Was an Enigma in Her 1990s Heyday. Now She’d Like a Word.](https://www.nytimes.com/2025/02/27/arts/ione-skye-memoir-say-everything.html)
+Token length: 82
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [百万级群聊的设计实践](https://www.cnblogs.com/vivotech/p/18740478)
+append_entries: 13
+Finish: 2025-02-27 22:12:40.198014

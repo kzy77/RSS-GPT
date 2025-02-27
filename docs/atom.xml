@@ -2,204 +2,208 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-02-27T20:13:41Z</updated>
+    <updated>2025-02-27T22:12:45Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Earth to Barnard College: Enough]]></title>
-        <link href="https://www.nytimes.com/live/2025/02/25/opinion/thepoint/barnard-college-sit-in-palestinian-israel-protest" />
-        <id>https://www.nytimes.com/live/2025/02/25/opinion/thepoint/barnard-college-sit-in-palestinian-israel-protest</id>
-        <updated>Fri, 28 Feb 2025 02:59:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 抗议, 巴勒斯坦, 违规, 学校, 行动
+        <title><![CDATA[Al-Assad Becomes a Punchline in Syria’s Comedy Scene]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/world/middleeast/syria-comedy-assad-new-government.html" />
+        <id>https://www.nytimes.com/2025/02/27/world/middleeast/syria-comedy-assad-new-government.html</id>
+        <updated>Thu, 27 Feb 2025 18:18:47 +0800</updated>
+        <summary type="html"><![CDATA[关键词：叙利亚, 漫画, 喜剧, 阿萨德, 政府
 
 <br><br>总结:
-要点一：亲巴勒斯坦抗议者一年多来持续违规。
-要点二：本周抗议者再次违规。
-要点三：学校必须采取更果断的行动。
+1. 叙利亚在巴沙尔·阿萨德政权倒台前，漫画家们已经尝试发展单口喜剧。
+2. 现在，他们在获得解放的国家里讲笑话。
+3. 他们同时也在警惕地关注新政府。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[FBI director considering having UFC train agents in martial arts, say people familiar with plan]]></title>
-        <link href="https://www.reuters.com/world/us/fbi-director-considering-having-ufc-train-agents-martial-arts-say-people-2025-02-27/" />
-        <id>https://www.reuters.com/world/us/fbi-director-considering-having-ufc-train-agents-martial-arts-say-people-2025-02-27/</id>
-        <updated>Fri, 28 Feb 2025 02:47:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词： FBI, Kash Patel, UFC, 训练, 自卫
+        <title><![CDATA[Ione Skye Was an Enigma in Her 1990s Heyday. Now She’d Like a Word.]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/arts/ione-skye-memoir-say-everything.html" />
+        <id>https://www.nytimes.com/2025/02/27/arts/ione-skye-memoir-say-everything.html</id>
+        <updated>Thu, 27 Feb 2025 18:01:44 +0800</updated>
+        <summary type="html"><![CDATA[好，没问题。
+
+好莱坞, 双性恋, Gen X, 成名, 回忆录
 
 <br><br>总结:
-FBI局长Kash Patel正考虑引入UFC（终极格斗冠军赛）的教练。
-目的是为了提升FBI特工的武术和自卫技能。
-该计划已在本周与FBI外地办事处进行了电话会议讨论。
-这项计划是为了提高FBI特工的身体素质和应对突发情况的能力。
-此举可能有助于FBI特工在执行任务时更好地保护自己和他人。
+1. 一位因《情到深处》等电影出名的女演员出版了新的回忆录。
+2. 回忆录内容涉及好莱坞的经历。
+3. 她在书中谈论了自己的双性恋身份。
+4. 她也反思了作为Gen X一代成名的经历和感受。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Congress kills Biden era methane fee on oil, gas producers]]></title>
-        <link href="https://www.reuters.com/markets/commodities/congress-kills-biden-era-methane-fee-oil-gas-producers-2025-02-27/" />
-        <id>https://www.reuters.com/markets/commodities/congress-kills-biden-era-methane-fee-oil-gas-producers-2025-02-27/</id>
-        <updated>Fri, 28 Feb 2025 02:33:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 甲烷排放, 拜登政府, 美国参议院, EPA, 决议
+        <title><![CDATA[百万级群聊的设计实践]]></title>
+        <link href="https://www.cnblogs.com/vivotech/p/18740478" />
+        <id>https://www.cnblogs.com/vivotech/p/18740478</id>
+        <updated>Thu, 27 Feb 2025 10:50:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 百万人群聊，Web版，服务端，消息，技术挑战
 
 <br><br>总结:
-1. 美国参议院就一项决议进行投票，该决议旨在推翻拜登政府提议的甲烷排放费。
-2. 该费用是环境保护署(EPA)旨在迫使大型石油和天然气生产商减少甲烷这种强效温室气体排放的最终措施之一。
-3. 决议由参议院投票表决。
+1. 本文主要探讨了服务端构建百万级别用户Web版群聊系统的技术难题。
+2. 首先讨论了通信方案的选择，如何支撑大规模并发连接。
+3. 其次，重点介绍了消息存储方案，需要考虑性能和存储成本。
+4. 然后，阐述了如何保证消息的有序性，避免消息乱序。
+5. 接下来，探讨了消息的可靠性机制，确保消息送达。
+6. 最后，分析了如何高效地进行未读消息数量的统计。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Democratic FCC commissioner says agency seeking to 'bully' broadcasters]]></title>
-        <link href="https://www.reuters.com/world/us/democratic-fcc-commissioner-says-agency-seeking-bully-broadcasters-2025-02-27/" />
-        <id>https://www.reuters.com/world/us/democratic-fcc-commissioner-says-agency-seeking-bully-broadcasters-2025-02-27/</id>
-        <updated>Fri, 28 Feb 2025 02:27:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词：FCC，民主党，共和党，广播公司，投诉
+        <title><![CDATA[OpenAI Unveils GPT-4.5 for More ‘Natural Conversation’]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/technology/openai-artificial-intelligence-technology.html" />
+        <id>https://www.nytimes.com/2025/02/27/technology/openai-artificial-intelligence-technology.html</id>
+        <updated>Fri, 28 Feb 2025 04:53:32 +0800</updated>
+        <summary type="html"><![CDATA[GPT-4.5, OpenAI, 新技术, 时代终结, 标志
 
 <br><br>总结:
-1. 一位联邦通信委员会(FCC)的民主党成员指出，该机构目前由共和党领导。
-2. 该FCC正在试图施压美国主要广播公司。
-3. 具体做法是重新启动一系列针对这些公司的投诉。
-4. 这位民主党成员认为此举带有恐吓意味。
+1. 新技术GPT-4.5的出现，预示着一个新时代的到来。
+2. GPT-4.5的发布，标志着OpenAI公司一个旧时代的终结。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump Says Canada and Mexico Tariffs Will Start March 4, Plus an Increase on China]]></title>
-        <link href="https://www.nytimes.com/2025/02/27/us/politics/trump-tariffs-canada-mexico-china.html" />
-        <id>https://www.nytimes.com/2025/02/27/us/politics/trump-tariffs-canada-mexico-china.html</id>
-        <updated>Fri, 28 Feb 2025 02:20:07 +0800</updated>
-        <summary type="html"><![CDATA[关税, 中国, 毒品, 行动, 总统
+        <title><![CDATA[Migrant arrests at US-Mexico border approach record low in February]]></title>
+        <link href="https://www.reuters.com/world/americas/migrant-arrests-us-mexico-border-approach-record-low-february-2025-02-27/" />
+        <id>https://www.reuters.com/world/americas/migrant-arrests-us-mexico-border-approach-record-low-february-2025-02-27/</id>
+        <updated>Fri, 28 Feb 2025 04:19:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 移民, 美国-墨西哥边境, 非法越境, 逮捕, 下降
 
 <br><br>总结:
-1. 总统宣布将对中国商品加征10%的关税。
-2. 总统此举是为了迫使其他国家采取更多行动。
-3. 此行动主要针对毒品运输问题。
+1. 美国国土安全部发言人及其他消息来源透露，二月份在美国-墨西哥边境非法越境被逮捕的移民数量预计将接近历史最低月度记录。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[关键词：US.KG域名  注册  KYC验证  Cloudflare  免费续订  
-
-<br><br>总结:  
-1. US.KG域名目前处于受限状态，注册需使用指定的域名链接进行操作。  
-2. 注册步骤首先需创建账号，建议使用身份信息生成器生成信息。  
-3. 完成邮箱验证，若未收到邮件，可以稍后重试。  
-4. 进行KYC验证时，需将注册时的个人信息整理成文件，并上传。  
-5. 成功注册域名后，可以通过Cloudflare进行域名托管。  
-6. 提供了相关网址以获取更多信息，包含免费续订的优势与缺点。  
-7. 详细步骤教程可在Youtube视频中找到，以便更好地完成域名注册。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek、API、本地部署、应用、沉浸式翻译  
-
-<br><br>总结:  
-1. 关于Deepseek：Deepseek是一个搜索和信息获取工具，提供了多种使用方式。  
-2. Deepseek网页端和APP：用户可以通过网页或手机应用方便地访问Deepseek。  
-3. Deepseek API：开发者可以通过注册Deepseek API来使用其功能，注册时提供手机号码可获得体验金。  
-4. 应用场景：Deepseek可用于沉浸式翻译、Chatbox、欧路词典等多种软件，提升用户体验。  
-5. 本地部署：用户可以通过下载Ollama并运行指令在本地部署Deepseek，支持与第三方应用如Chatbox等集成。  
-
-整个过程详细内容可参考相关视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Serv00、代理节点、Cloudflare Argo、SSH登录、保活
+        <title><![CDATA[Meet the Trans Troops the Trump Administration Is Barring]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/us/transgender-military-ban-trump-hegseth.html" />
+        <id>https://www.nytimes.com/2025/02/27/us/transgender-military-ban-trump-hegseth.html</id>
+        <updated>Fri, 28 Feb 2025 04:10:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词：跨性别军人, 军事体验, 政治, 退伍军人, 新兵
 
 <br><br>总结:
-1. **开场**：视频介绍了使用Serv00搭建节点的步骤和方法。
-2. **搭建节点**：从Serv00的搭建方法选择到注册及登录的详细说明，确保用户顺利开始。
-3. **代理节点**：介绍了如何搭建代理节点，并使用Cloudflare Argo进行了固定隧道的设置。
-4. **SSH登录方法**：提供了两种SSH登录的解决方案，确保用户能够在IP被封的情况下顺利连接。
-5. **保活与远程保号**：讲解了进程保活的方法，以及如何通过GitHub进行保号和远程保活，确保服务稳定性。 
-
-视频还提供了相关资源和链接，以帮助用户顺利完成搭建过程。]]></summary>
+*   文章主要讲述了跨性别军人在军队中的真实体验与政治领域对他们的描绘存在巨大差异。
+*   他们既包括参加过战斗的退伍军人，也包括新入伍的新兵。
+*   无论资历深浅，这些跨性别军人表示他们的军事经历与政治宣传截然不同。
+*   这意味着跨性别军人在军队中的真实生活被政治所扭曲。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[关键词：ChatGPT降智，科学上网，节点测试，IP修改，SSH重启
+        <title><![CDATA[Trump's 'very big' minerals deal may pay off with US Republicans]]></title>
+        <link href="https://www.reuters.com/world/trumps-very-big-minerals-deal-may-pay-off-with-us-republicans-2025-02-27/" />
+        <id>https://www.reuters.com/world/trumps-very-big-minerals-deal-may-pay-off-with-us-republicans-2025-02-27/</id>
+        <updated>Fri, 28 Feb 2025 03:48:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 关键矿产, 特朗普, 乌克兰, 援助, 共和党
 
 <br><br>总结:
-1. ChatGPT在某些情况下出现降智现象，包括不执行命令、无法使用工具和拒绝深度思考。
-2. 为了解决这些问题，可以尝试更换其他IP的科学上网节点，以提高访问的质量。
-3. 通过测试不同的节点，发现例如甲骨文云和Serv00的一些节点存在降智表现，而谷歌云节点表现良好。
-4. 对于Serv00节点，可以使用Serv00-Play脚本进行节点搭建，并修改singbox.json和config.json中的IP地址。
-5. 完成修改后，需要通过SSH重启singbox以应用新的配置，并可以参考YouTube上的视频以获取详细的搭建步骤和测试结果。]]></summary>
+1. 特朗普与乌克兰达成关键矿产协议，旨在缓解双方紧张关系。
+2. 该协议有望重新赢得国会共和党人对乌克兰新一轮援助的支持。
+3. 关键矿产协议对特朗普和乌克兰都有潜在的政治和经济利益。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Serv00，注册，闲鱼，代注册，成品号
+        <title><![CDATA[Mexico to extradite Caro Quintero, other suspected cartel members, to U.S.]]></title>
+        <link href="https://www.reuters.com/world/americas/mexico-extradite-us-convicted-drug-kingpin-caro-quintero-other-suspected-cartel-2025-02-27/" />
+        <id>https://www.reuters.com/world/americas/mexico-extradite-us-convicted-drug-kingpin-caro-quintero-other-suspected-cartel-2025-02-27/</id>
+        <updated>Fri, 28 Feb 2025 03:40:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：墨西哥, 引渡, 卡罗·金特罗, 毒枭, 美国
 
-<br><br>总结: 
-1. 目前Serv00帐号注册困难，可请国外朋友协助或通过闲鱼购买相关服务。 
-2. 闲鱼有两种购买方式：一是提供邮箱代注册，二是直接购买成品号（含邮箱）。 
-3. 购买成品号后，需要进行一系列操作，包括：验证手机号解锁账户、添加备用邮箱、重置密码等。 
-4. 在进行修改时，要确保Serv00的IP没有被封，并查看后台是否有遗留的账户信息。 
-5. 本期视频将详细展示整个购买和操作流程，供用户参考和学习。]]></summary>
+<br><br>总结:
+1. 墨西哥将引渡毒枭拉斐尔·卡罗·金特罗到美国。
+2. 卡罗·金特罗曾于1985年被判谋杀一名美国反毒品特工。
+3. 墨西哥还将引渡另外二十多名涉嫌的卡特尔成员。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <title><![CDATA[US Senator Elissa Slotkin to deliver Democratic rebuttal to Trump speech]]></title>
+        <link href="https://www.reuters.com/world/us/us-senator-elissa-slotkin-deliver-democratic-rebuttal-trump-speech-2025-02-27/" />
+        <id>https://www.reuters.com/world/us/us-senator-elissa-slotkin-deliver-democratic-rebuttal-trump-speech-2025-02-27/</id>
+        <updated>Fri, 28 Feb 2025 03:38:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Elissa Slotkin, 民主党, 特朗普, 国情咨文, 反驳
+
+<br><br>总结:
+1. 民主党参议员Elissa Slotkin，一位摇摆州的温和派，拥有丰富的国家安全经验。
+2. Slotkin将代表民主党，对特朗普总统下周的国情咨文进行反驳。
+3. 该消息由民主党国会领导人于周四宣布。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Judge dismisses Norfolk Southern bondholder lawsuit over 2023 Ohio derailment]]></title>
+        <link href="https://www.reuters.com/world/us/judge-dismisses-norfolk-southern-bondholder-lawsuit-over-2023-ohio-derailment-2025-02-27/" />
+        <id>https://www.reuters.com/world/us/judge-dismisses-norfolk-southern-bondholder-lawsuit-over-2023-ohio-derailment-2025-02-27/</id>
+        <updated>Fri, 28 Feb 2025 03:35:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词：诺福克南方, 债券持有人, 安全风险, 东巴勒斯坦, 诉讼驳回
+
+<br><br>总结:
+1. 一起针对诺福克南方铁路公司的诉讼被联邦法官驳回。
+2. 该诉讼指控诺福克南方在2023年2月东巴勒斯坦化学品列车脱轨事故前，隐瞒了安全风险，导致债券持有人损失数亿美元。
+3. 债券持有人因此起诉诺福克南方，寻求赔偿。
+4. 法官最终驳回了该诉讼。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Betsy Arakawa, a Classical Musician and the Wife of Gene Hackman, Dies at 65]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/us/betsy-arakawa-wife-gene-hackman-dead.html" />
+        <id>https://www.nytimes.com/2025/02/27/us/betsy-arakawa-wife-gene-hackman-dead.html</id>
+        <updated>Fri, 28 Feb 2025 03:20:17 +0800</updated>
+        <summary type="html"><![CDATA[奥斯卡，配偶，采访，社交媒体，小说
+
+<br><br>总结:
+1. 作为两次奥斯卡获奖者的配偶，她避免接受采访，也不使用社交媒体。
+2. 在私下里，她负责打字并帮助编辑哈克曼先生的小说。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Rose Girone, Oldest Holocaust Survivor, Dies at 113]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/us/rose-girone-dead-holocaust-survivor.html" />
+        <id>https://www.nytimes.com/2025/02/27/us/rose-girone-dead-holocaust-survivor.html</id>
+        <updated>Fri, 28 Feb 2025 02:32:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词：纳粹德国，逃离，上海，犹太人，幸运
+
+<br><br>总结:
+*   1939年，主人公和丈夫、婴儿一起逃离纳粹德国。
+*   他们被迫进入上海的犹太人聚居区。
+*   即便如此，她仍然经常说：“我们难道不幸运吗？”
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Morgan Freeman, Gwyneth Paltrow and Others Mourn Gene Hackman]]></title>
+        <link href="https://www.nytimes.com/2025/02/27/movies/gene-hackman-hollywood-reaction.html" />
+        <id>https://www.nytimes.com/2025/02/27/movies/gene-hackman-hollywood-reaction.html</id>
+        <updated>Fri, 28 Feb 2025 02:28:23 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek-R1、羊毛、免费、API客户端、教程
+
+<br><br>总结:
+1. **Deepseek-R1满血版羊毛汇总**：本文汇总了多个大厂提供的Deepseek-R1满血版的免费资源信息。
+2. **OpenRouter**：提供低速率版的免费使用。
+3. **微软Azure**：暂时免费，但需要绑定信用卡。
+4. **硅基流动与百度千帆**：硅基流动提供2000万token，百度千帆在2月18日前可免费体验。
+5. **腾讯云与英伟达**：腾讯云提供到2月25日的免费体验，英伟达普通邮箱用户可获得1000次调用，企业邮箱用户为5000次。
+6. **火山方舟与阿里云百炼**：火山方舟赠送50万token，阿里云百炼免费100万token，有效期为180天。
+7. **推荐API客户端**：推荐的客户端包括Cherry Studio、Chatbox、Chatwise等。
+8. **搜索工具**：最后提到的联网搜索工具有秘塔AI搜索、纳米AI搜索和Perplexity，并建议观看详细教程视频。]]></summary>
     </entry>
     
 </feed>
