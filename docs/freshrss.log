@@ -1,63 +1,64 @@
 ------------------------------------------------------
-Started: 2025-02-28 10:12:52.007261
-Existing_entries: 5
+Started: 2025-02-28 12:21:45.235139
+Existing_entries: 19
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 941
+Token length: 132
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [这个3月，这些新规将施行](https://www.yicai.com/news/102492123.html)
-Token length: 659
+Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
+Token length: 2323
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [市场监管总局：今年要开展网络反不正当竞争执法专项行动](https://www.yicai.com/news/102492106.html)
-Token length: 463
+Append: [环境企业家论“出海”：不是百米冲刺，而是考验耐力的马拉松｜记者观察](https://www.yicai.com/news/102492261.html)
+Token length: 160
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全球关闭205家亏损门店，达美乐回应中国市场如何](https://www.yicai.com/news/102492098.html)
-Token length: 3251
+Append: [For Gene Hackman, a Jarring End to a Quiet, Art-Filled Life in Santa Fe](https://www.nytimes.com/2025/02/28/movies/gene-hackman-death-new-mexico.html)
+Token length: 42
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [对话协和：国内首款罕见病大模型，如何抑制AI“幻觉”？](https://www.yicai.com/news/102492059.html)
-Token length: 1261
+Append: [Iowa Moves to Eliminate Trans Rights, and Zelensky Heads to the White House](https://www.nytimes.com/2025/02/28/podcasts/the-headlines/iowa-trans-rights-zelensky-trump.html)
+Token length: 56
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [成渝联手共建科创生态，打造发展共同体](https://www.yicai.com/news/102492058.html)
-Token length: 4723
+Append: [晓数点丨3月财经日历请查收！](https://www.yicai.com/news/102492312.html)
+Token length: 211
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [北京：研发具身智能“大脑”大模型](https://www.yicai.com/news/102492080.html)
-Token length: 769
+Append: [Trump wants to deport some foreign students. These activists want to help](https://www.reuters.com/world/us/trump-wants-deport-some-foreign-students-these-activists-want-help-2025-02-28/)
+Token length: 132
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [黄金高位回调，避险情绪开始消退？｜期市头条](https://www.yicai.com/video/102492086.html)
-Token length: 2423
+Append: [What We Know About Gene Hackman’s Death](https://www.nytimes.com/2025/02/28/us/gene-hackman-death-updates.html)
+Token length: 239
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [51信用卡创始人再创业，想用「Vala」打造汽车行业的iPhone时刻 ｜早期项目](https://www.36kr.com/p/3183158205095558)
-Token length: 2090
+Append: [龙虎榜丨机构今日买入这10股，抛售共进股份2.7亿元](https://www.yicai.com/news/102492235.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [West Bank Operation Tests Palestinian Leaders’ Ability to Root Out Militants](https://www.nytimes.com/2025/02/28/world/middleeast/west-bank-jenin-palestinian-authority-israel.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [2月28日这些公告有看头](https://www.yicai.com/news/102492187.html)
+Token length: 193
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [穿越海峡的热线｜“00”后台青卓家孺：海峡阻挡不了两岸青年双向奔赴](https://m.thepaper.cn/detail/30259902)
-Token length: 64
+Append: [After Insults and False Claims, Trump to Host Zelensky for Minerals Deal](https://www.nytimes.com/2025/02/28/us/politics/trump-zelensky-ukraine-russia-putin.html)
+Token length: 122
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国工商银行河南省分行原行长许杰被查](https://m.thepaper.cn/detail/30259724)
-Token length: 710
+Append: [How Elon Musk Built His DOGE Operation: Timeline and Key Takeaways](https://www.nytimes.com/2025/02/28/us/politics/musk-doge-timeline-takeaways.html)
+Token length: 138
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [进口二价HPV疫苗降价了？有医院可减免两针费用，厂商回应来了](https://www.yicai.com/news/102491963.html)
-Token length: 1815
+Append: [Why ‘Emilia Pérez,’ a Film About Mexico, Flopped in Mexico](https://www.nytimes.com/2025/02/28/world/americas/emilia-perez-mexico-oscars.html)
+Token length: 73
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [特朗普关税威胁下美债避险效应凸显，60/40策略将持续有效？](https://www.yicai.com/news/102491915.html)
-Token length: 1487
+Append: [The MAGA War on Speech](https://www.nytimes.com/2025/02/28/opinion/free-speech-trump-maga.html)
+Token length: 171
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [发生了什么 ？亚太股市齐跌！印尼盾跌至近5年最低点](https://www.yicai.com/news/102491913.html)
-Token length: 1184
+Append: [As Ramadan Nears, Syrians Feel the Pinch of a Cash Shortage](https://www.nytimes.com/2025/02/28/world/middleeast/syria-ramadan-economy-cash-shortage.html)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国人大代表张巧良：建议《民促法》增强可操作性和刚性约束](https://www.yicai.com/news/102491860.html)
-Token length: 2480
+Append: [Oscars 2025: There’s Something Weird About the Best Picture Nominees](https://www.nytimes.com/2025/02/28/movies/best-picture-nominees-oscars-conclave-wicked.html)
+Token length: 167
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [特朗普关税威胁施压美股，制造业、消费和科技板块最容易受冲击？](https://www.yicai.com/news/102491843.html)
-Token length: 1985
+Append: [How Elon Musk Executed His Takeover of the Federal Bureaucracy](https://www.nytimes.com/2025/02/28/us/politics/musk-federal-bureaucracy-takeover.html)
+Token length: 172
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国稳居汉堡港最大贸易伙伴地位，德国最大港如何看待内外变局](https://www.yicai.com/news/102491776.html)
-Token length: 1198
+Append: [How Canadians Are Directing Their Ire at the U.S. Over Trump’s Tariffs](https://www.nytimes.com/2025/02/28/world/canada/canada-us-trump-tariffs-reactions.html)
+Token length: 129
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美威胁再加征10%关税，商务部：中方将采取一切必要反制措施](https://www.yicai.com/news/102491851.html)
-Token length: 113
+Append: [In Zoe Saldaña, a Choreographer Finds His Dream Dancer](https://www.nytimes.com/2025/02/28/arts/dance/zoe-saldana-emilia-perez-dance.html)
+Token length: 141
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [South Korean Police Investigate Japanese Woman for Kissing BTS Star Jin](https://www.nytimes.com/2025/02/28/world/asia/bts-kiss-south-korea-police.html)
-Token length: 548
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [收盘丨A股三大指数全线下挫，市场逾4700股下跌](https://www.yicai.com/news/102491908.html)
-append_entries: 19
-Finish: 2025-02-28 10:14:13.789198
+Append: [When It Comes to Tariffs, Trump Can’t Have It All](https://www.nytimes.com/2025/02/28/business/economy/trump-tariff-goals-contradictions.html)
+append_entries: 20
+Finish: 2025-02-28 12:22:59.906861
