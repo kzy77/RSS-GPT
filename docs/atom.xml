@@ -2,202 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-03-02T18:15:49Z</updated>
+    <updated>2025-03-02T20:11:59Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[C# 集成 DeepSeek 模型实现 AI 私有化（本地部署与 API 调用教程）]]></title>
-        <link href="https://www.cnblogs.com/1312mn/p/18729302" />
-        <id>https://www.cnblogs.com/1312mn/p/18729302</id>
-        <updated>Tue, 25 Feb 2025 10:21:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: DeepSeek, 大模型, 本地部署, AI应用, 私有化
+        <title><![CDATA[实操Deepseek接入个人知识库]]></title>
+        <link href="https://www.cnblogs.com/LaiYun/p/18731987" />
+        <id>https://www.cnblogs.com/LaiYun/p/18731987</id>
+        <updated>Sun, 23 Feb 2025 12:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek, 知识库, 本地部署, Dify, 个人使用
 
 <br><br>总结:
-1. DeepSeek大模型因其高效的自然语言处理能力备受关注。
-2. 网络上涌现出许多关于DeepSeek本地部署的教程和方法。
-3. 亲自进行本地部署是深入了解DeepSeek功能和应用的关键。
-4. 本地部署为开发私有化AI应用提供了灵活的应用场景。
-5. 也可以将DeepSeek集成到现有的系统中。
+1.  文章介绍如何为本地部署的Deepseek模型添加知识库。
+2.  该方法主要适用于个人使用，企业应用推荐使用Docker+Dify部署。
+3.  操作前需先下载并部署好本地Deepseek模型。
+4.  具体步骤将在后续内容中分享。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump will set exact levels for Mexico, Canada tariffs coming Tuesday, says US commerce chief]]></title>
-        <link href="https://www.reuters.com/world/americas/mexico-canada-tariffs-coming-tuesday-trump-will-set-exact-levels-says-us-2025-03-02/" />
-        <id>https://www.reuters.com/world/americas/mexico-canada-tariffs-coming-tuesday-trump-will-set-exact-levels-says-us-2025-03-02/</id>
-        <updated>Sun, 02 Mar 2025 23:41:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词：关税, 加拿大, 墨西哥, 特朗普, 商务部长
+        <title><![CDATA[深圳发布优化营商环境三方案：探索建立国资创投尽职免责制度]]></title>
+        <link href="https://www.yicai.com/news/102493405.html" />
+        <id>https://www.yicai.com/news/102493405.html</id>
+        <updated>Sun, 02 Mar 2025 23:51:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 营商环境, 园区贷, 创新服务, 国际贸易, 商业秘密
 
 <br><br>总结:
-美国商务部长Howard Lutnick宣布对加拿大和墨西哥的关税将于周二生效。
-<br>具体关税水平为计划的25%。
-<br>最终的关税水平将由特朗普总统决定。
+1. 深圳发布优化营商环境的三个工作方案，分别从市场化、法治化、国际化三个方面提出了共80条重点任务。
+2. 深圳将优化政府投资基金和国资创投机构的考核机制，建立尽职免责制度，鼓励大胆的长期投资。
+3. 深圳将在全市园区推行“园区贷”，利用企业数据精准画像，量身打造增信服务，支持中小微企业发展。
+4. 深圳将加大力度打造企业海外综合服务平台，举办对接活动，深化国际贸易“单一窗口”智能化变革，助力企业“出海”。
+5. 深圳将为新兴行业量身定制“沙盒监管”，对入盒企业采取柔性监管，并出台商业秘密保护标准指引，打击侵权行为。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[How Trump Has Undermined U.S. Climate Policy]]></title>
-        <link href="https://www.nytimes.com/2025/03/02/climate/trump-us-climate-policy-changes.html" />
-        <id>https://www.nytimes.com/2025/03/02/climate/trump-us-climate-policy-changes.html</id>
-        <updated>Sun, 02 Mar 2025 23:30:30 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普, 环境, 政策, 资金, 总统权力
+        <title><![CDATA[Why Congo’s Vast Army Is Struggling to Fight M23]]></title>
+        <link href="https://www.nytimes.com/2025/03/02/world/africa/congo-army-weak-rwanda-m23.html" />
+        <id>https://www.nytimes.com/2025/03/02/world/africa/congo-army-weak-rwanda-m23.html</id>
+        <updated>Sun, 02 Mar 2025 23:06:29 +0800</updated>
+        <summary type="html"><![CDATA[腐败, 勒索, 虐待, 刚果, 军队
 
 <br><br>总结:
-特朗普政府迅速改变了美国的环境政策方针。
-首先，政府扣留了原本用于环境项目的资金。
-其次，特朗普政府试图扩大总统权力，以推动其环境政策议程。
-总而言之，特朗普政府利用资金扣留和总统权力扩张，大幅度重塑了美国的环保方向。
+* 刚果东部最新冲突暴露了该国军队长期存在的弊端。
+* 这些弊端主要体现在军队内部普遍存在的腐败现象。
+* 勒索行为也是刚果军队长期以来的问题。
+* 军队还存在虐待行为。
+* 这些问题表明刚果军队存在根本性的结构性缺陷。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US House looks to pass stopgap funding bill to avert shutdown, Speaker Johnson says on NBC]]></title>
-        <link href="https://www.reuters.com/world/us/us-house-look-pass-stopgap-funding-bill-avert-shutdown-speaker-johnson-says-nbc-2025-03-02/" />
-        <id>https://www.reuters.com/world/us/us-house-look-pass-stopgap-funding-bill-avert-shutdown-speaker-johnson-says-nbc-2025-03-02/</id>
-        <updated>Sun, 02 Mar 2025 22:55:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 麦克·约翰逊, 临时拨款法案, 联邦政府, 避免停摆, 当前预算水平
+        <title><![CDATA[Rubio Attacks Zelensky, Firmly Defending Trump and Vance]]></title>
+        <link href="https://www.nytimes.com/2025/03/02/us/politics/marco-rubio-zelensky-ukraine-trump.html" />
+        <id>https://www.nytimes.com/2025/03/02/us/politics/marco-rubio-zelensky-ukraine-trump.html</id>
+        <updated>Mon, 03 Mar 2025 03:19:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：马可·卢比奥，乌克兰，特朗普，JD·万斯，批评
 
 <br><br>总结:
-1. 美国众议院议长麦克·约翰逊表示希望通过一项“干净的”临时拨款法案。
-2. 该法案旨在将联邦资金冻结在当前水平。
-3. 目的是避免3月15日可能发生的联邦政府部分停摆。
+*   国务卿马可·卢比奥面临来自前参议院同事的批评。
+*   卢比奥支持特朗普总统和副总统JD·万斯对乌克兰领导人的指责。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump aide Waltz says U.S. needs Ukrainian leader who wants peace]]></title>
-        <link href="https://www.reuters.com/world/rubio-says-he-has-not-spoken-with-ukraines-zelenskiy-since-friday-white-house-2025-03-02/" />
-        <id>https://www.reuters.com/world/rubio-says-he-has-not-spoken-with-ukraines-zelenskiy-since-friday-white-house-2025-03-02/</id>
-        <updated>Sun, 02 Mar 2025 22:39:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美国, 乌克兰, 俄罗斯, 和平, 泽连斯基
+        <title><![CDATA[In Ukraine, many watch and wait for signs of hope from abroad.]]></title>
+        <link href="https://www.nytimes.com/live/2025/03/02/us/trump-news-zelensky-europe/in-ukraine-many-watch-and-wait-for-signs-of-hope-from-abroad" />
+        <id>https://www.nytimes.com/live/2025/03/02/us/trump-news-zelensky-europe/in-ukraine-many-watch-and-wait-for-signs-of-hope-from-abroad</id>
+        <updated>Mon, 03 Mar 2025 01:17:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 量子纠缠, 信息传递, 非局域性, 超光速, 量子技术
 
 <br><br>总结:
-要点1: 特朗普高级顾问表示美国需要一位愿意与俄罗斯实现持久和平的乌克兰领导人。
-要点2: 该顾问同时指出，目前尚不清楚乌克兰总统泽连斯基是否做好了实现持久和平的准备。
+1. 文章探讨了量子纠缠现象，指出其是一种特殊的量子关联，两个或多个粒子之间存在着无法用经典物理学解释的非局域性联系。
+2. 纠缠粒子的状态是相互关联的，即使它们在空间上相隔很远，一个粒子的状态变化会瞬间影响到另一个粒子。
+3. 这种关联引发了关于信息传递速度是否超过光速的争议。
+4. 尽管纠缠可以实现瞬间关联，但不能用于超光速的信息传递，因为观测者无法控制纠缠粒子的状态来编码信息。
+5. 量子纠缠是量子技术的重要基础，在量子计算、量子通信等领域有着潜在的应用价值。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[第1现场｜山东暴雪！济南市民机场返程两小时行十公里]]></title>
-        <link href="https://m.thepaper.cn/detail/30284278" />
-        <id>https://m.thepaper.cn/detail/30284278</id>
-        <updated>Sun, 02 Mar 2025 21:46:43 +0800</updated>
-        <summary type="html"><![CDATA[寒潮, 暴雪, 预警, 交通, 晚点
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG、域名、注册、KYC验证、Cloudflare
 
 <br><br>总结:
-*   受寒潮影响，3月2日山东大部分地区出现大范围雨雪天气，多地发布暴雪橙色预警和道路结冰红色预警。济南降雪量最大，已达大暴雪量级。
-*   降雪导致山东超百个高速公路收费站封闭，济南机场路交通受阻，济南西站列车出现不同程度晚点，京沪高铁等线路部分列车停运或改线。
-*   铁路部门已启动应急预案，进行除雪打冰，保障旅客安全。
-*   预计本轮降雪将在今天20时后逐渐结束，但寒潮将继续影响我国中东部地区。
-]]></summary>
+1. US.KG域名目前处于受限状态，用户可通过https://dash.domain.digitalplat.org/完成注册及KYC验证。
+2. 视频开头介绍US.KG域名的优点，接着逐步讲解注册流程。
+3. 首先需注册账号，填入个人信息（可用身份信息生成器生成），并进行邮箱验证。
+4. 邮箱验证后，进行KYC验证，需截取并保存信息作为KYC文件上传，确保身份合规。
+5. 注册域名后，将其托管至Cloudflare，之前需添加域名并设置相应的名称服务器。
+6. 视频的最后部分提到免费域名的续订及其缺点，建议用户注意。详细过程可在视频中查看。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中央社会主义学院院长调整]]></title>
-        <link href="https://m.thepaper.cn/detail/30284263" />
-        <id>https://m.thepaper.cn/detail/30284263</id>
-        <updated>Sun, 02 Mar 2025 19:51:55 +0800</updated>
-        <summary type="html"><![CDATA[武维华，郝明金，中央社会主义学院，院长，人事变动
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek、网页端、API、本地部署、使用方法  
 
-<br><br>总结:
-1. 武维华被任命为中央社会主义学院新任院长，接替不再兼任的郝明金。
-2. 武维华现任十四届全国人大常委会副委员长，九三学社中央主席，是植物科学领域的院士。
-3. 郝明金现任十四届全国人大常委会副委员长，民建中央主席。
-4. 中央社会主义学院是统一战线性质的高等政治学院，是民主党派和无党派人士的联合党校，承担人才培养、理论研究、决策咨询等多项职责。
-5. 该学院在统一战线工作中发挥重要作用，是党和国家干部教育培训体系的重要组成部分。
-]]></summary>
+<br><br>总结:  
+1. **关于Deepseek**：Deepseek是一个强大的搜索引擎，涵盖广泛的信息检索功能。  
+2. **Deepseek网页端和APP**：用户可以通过Deepseek的官方网站和手机APP进行访问，使用体验便捷。  
+3. **Deepseek API**：提供API接口，用户可以注册账号并获取体验金，用于各种应用场景，如沉浸式翻译和聊天机器人等。  
+4. **第三方应用**：可以与多种应用程序集成，提高功能扩展性。  
+5. **本地部署**：用户可以通过下载Ollama并运行相应指令来实现Deepseek的本地部署，支持使用Ollama API进行模型选择。这种方式提供了灵活性和更高的数据安全性。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Federal Judges Are Ordering Trump to Slow Down. Will He Listen?]]></title>
-        <link href="https://www.nytimes.com/2025/03/02/us/trump-courts.html" />
-        <id>https://www.nytimes.com/2025/03/02/us/trump-courts.html</id>
-        <updated>Sun, 02 Mar 2025 18:02:21 +0800</updated>
-        <summary type="html"><![CDATA[诉讼, 法院, 政府律师, 政治攻击, 法官
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00、节点搭建、Cloudflare、SSH、保活  
 
-<br><br>总结:
-1. 美国政府律师目前在国内法院面临100起诉讼。
-2. 白宫正在对做出不利于政府裁决的法官进行政治攻击。
-]]></summary>
+<br><br>总结:  
+1. 开场介绍了视频的主题，主要讲解Serv00的节点搭建方法。  
+2. 提供了关于如何注册及登录Serv00的步骤，确保用户能够顺利进入系统。  
+3. 详细讲解了搭建代理节点的全过程，帮助用户理解每一步的操作。  
+4. 介绍了如何利用Cloudflare Argo创建固定隧道，强调需要有域名并托管于Cloudflare上。  
+5. 讲解了如何保持进程保活，以及在GitHub上进行保号和远程保活的策略，以确保节点的持续运行。  
+6. 介绍了SSH登录时若IP被封的两种方法，以及适合的SSH客户端WindTerm，强调只能通过GitHub下载。  
+7. 最后提供了Cloudflare设置的具体路径和操作步骤，建议观看视频以获取更详尽的信息。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[腾讯为了元宝真是下血本了]]></title>
-        <link href="https://www.36kr.com/p/3188387298434953" />
-        <id>https://www.36kr.com/p/3188387298434953</id>
-        <updated>Sun, 02 Mar 2025 15:41:21 +0800</updated>
-        <summary type="html"><![CDATA[关键词：腾讯元宝，DeepSeek，字节豆包，市场投放，AI战略
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[关键词：降智，节点，IP，工具，测试  
 
-<br><br>总结:
-1.  腾讯元宝App在接入DeepSeek-R1后，通过积极的产品迭代和加大市场投放力度，在App Store排行榜上超越字节豆包，位列第二。
-2.  腾讯的策略转变在于从坚持自研混元模型转为“混元+DeepSeek”双模型策略，旨在快速提升AI技术能力和市场竞争力。
-3.  面对DeepSeek的冲击，各家科技公司采取不同策略：腾讯选择全面接纳，字节跳动坚持自研，月之暗面则选择收缩投放、专注基础模型研发。
-4.  DeepSeek的出现重塑了中国AI应用市场格局，使得市场对大模型的认知和需求发生变化。
-5.  元宝的突围反映了腾讯AI战略的转变和中国AI应用市场竞争的新格局，预示着市场版图的重塑。
-]]></summary>
+<br><br>总结:  
+1. ChatGPT出现降智表现，包括不执行命令、无法使用工具和拒绝深度思考。  
+2. 解决办法是更换不同IP的科学上网节点以提高使用效果。  
+3. 提到了一些节点的实际测试结果，表明甲骨文云部分节点降智，谷歌云节点未表现降智。  
+4. Serv00平台的S15节点降智，但S6节点表现正常。  
+5. 推荐使用Serv00-Play脚本进行节点搭建，同时提供了修改节点IP的方法，通过SSH重启服务以应用新的设置。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[微信 ‧ 24h热文榜]]></title>
-        <link href="https://tophub.today/n/WnBe01o371" />
-        <id>https://tophub.today/n/WnBe01o371</id>
-        <updated>Mon, 03 Mar 2025 02:03:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 热度, 数据, 排名, 指数, 趋势
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00、注册、成品号、邮箱、科学上网
 
 <br><br>总结:
-1. 文章展示了一系列排名，每个排名对应一个热度值。
-2. 热度值从16.8万逐步增长到172644，然后小幅下降到1179。
-3. 数据体现了排名对应的热度变化趋势。
-4. 可以推断文章要分析的是排名与热度之间的关联。
-5. 数据呈现出先增后降的趋势，可能反映了某种现象或规律。
-]]></summary>
+1. Serv00帐号目前很难注册成功，建议请国外朋友协助或通过闲鱼（小黄鱼）购买服务。
+2. 在闲鱼上有两种购买方式：提供邮箱代注册或购买成品号（带邮箱）。
+3. 购买成品号后需执行一系列操作，包括：验证手机号解锁邮箱账户、添加备用邮箱、重置Serv00密码等。
+4. 确保检查Serv00的后台，以验证是否有残留信息，并修改Serv00和邮箱的登录密码。
+5. 对于使用Serv00可能遇到的IP被封问题，可以通过观看相关视频获取更多解决方案与技巧。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump names cryptocurrencies in strategic reserve; prices spike]]></title>
-        <link href="https://www.reuters.com/world/us/trump-says-cryptocurrency-strategic-reserve-includes-xrp-sol-ada-2025-03-02/" />
-        <id>https://www.reuters.com/world/us/trump-says-cryptocurrency-strategic-reserve-includes-xrp-sol-ada-2025-03-02/</id>
-        <updated>Mon, 03 Mar 2025 00:05:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词：加密货币市场, 利率, 美联储, 监管框架, 特朗普政府
-
-<br><br>总结:
-* 加密货币市场目前缺乏上涨动力。
-* 市场需要利好因素刺激，例如美联储降息的信号。
-* 特朗普政府明确支持加密货币的监管框架也可能推动市场上涨。
-]]></summary>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[关键词：免费域名、Cloudflare、注册账号、身份信息生成器、优惠码
-
-<br><br>总结:
-1. 如果无法注册US.KG域名，可以选择其他免费域名，并可以将其托管至Cloudflare。
-2. 注册免费域名时，建议使用身份信息生成器来辅助填写个人信息，提高注册成功率。
-3. 在购买域名时，输入优惠码（newuser），可以享受一年免费使用的优惠。
-4. 注册账号后，需登录Cloudflare以添加域名，将Cloudflare分配的名称服务器填入域名管理后台以完成托管。
-5. 对于详细的注册和托管步骤，建议参考相应的YouTube视频教程，以确保顺利操作。]]></summary>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek-R1、羊毛汇总、免费体验、API客户端、联网搜索
-
-<br><br>总结:
-1. Deepseek-R1满血版有多个大厂提供的优惠活动，用户可通过这些活动获取免费体验。
-2. OpenRouter提供低速率版免费使用；微软Azure则暂时免费但需绑定信用卡；硅基流动提供2000万token的免费体验。
-3. 百度千帆和腾讯云分别提供在2月18日和2月25日前的免费体验机会。
-4. 英伟达赠送普通邮箱用户1000次体验，企业邮箱用户可获得5000次；火山方舟提供免费50万token，阿里云百炼则有100万token有效期半年。
-5. 推荐的API客户端包括Cherry Studio、Chatbox和Chatwise等，同时热门的联网搜索工具有秘塔AI搜索、纳米AI搜索和Perplexity。]]></summary>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
 </feed>
