@@ -1,32 +1,21 @@
 ------------------------------------------------------
-Started: 2025-03-03 18:15:42.425694
-Existing_entries: 20
+Started: 2025-03-03 20:12:55.466154
+Existing_entries: 9
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 43
+Token length: 161
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [ppnt/tauri-qwen](https://gitee.com/ppnt/tauri-qwen)
-Token length: 127
+Append: [A Black Studies Curriculum Is (Defiantly) Rolling Out in New York City](https://www.nytimes.com/2025/03/03/nyregion/black-studies-nyc-trump-executive-orders.html)
+Token length: 171
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [DannyNiu-NJF/MySuiteA](https://gitee.com/dannyniu/MySuiteA)
-Token length: 2338
+Append: [Andrew Cuomo Declares His Run for NY Mayor With a Message for Democrats](https://www.nytimes.com/2025/03/03/us/politics/andrew-cuomo-ny-mayor-democrats.html)
+Token length: 148
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [骑手社保怎么缴？各地都要学杭州搞科创吗？陆铭委员有些“冷思考”](https://m.thepaper.cn/detail/30289426)
-Token length: 1649
+Append: [M. Paul Friedberg, Landscape Architect Who Celebrated the City, Dies at 93](https://www.nytimes.com/2025/03/03/arts/design/m-paul-friedberg-dead.html)
+Token length: 190
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [AI全栈必问的RAG 是什么！](https://juejin.cn/post/7477216369747116069)
-Token length: 188
+Append: [A Scenic California Rail Line Sits on an Eroding Cliff. Where Should the Tracks Go?](https://www.nytimes.com/2025/03/03/us/del-mar-train-tracks-san-diego.html)
+Token length: 125
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Zelensky Turns to Diplomacy in a War With ‘a Long Way to Go’](https://www.nytimes.com/2025/03/03/world/europe/zelensky-ukraine-russia-putin.html)
-Token length: 129
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Man Pleads Guilty in Fourth of July Parade Shooting](https://www.nytimes.com/2025/03/03/us/highland-park-parade-guilty-plea.html)
-Token length: 117
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Key Interest Rate Falls as Worries About the Economy Rise](https://www.nytimes.com/2025/03/03/business/treasury-bond-yields-trump-economy.html)
-Token length: 118
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [What’s Behind Trump’s Love-Hate Relationship With Canada](https://www.nytimes.com/2025/03/03/us/politics/trump-canada-trade-tariffs.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Europe Faces a Huge Bill to Defend Ukraine. Investors Are Thrilled.](https://www.nytimes.com/2025/03/03/business/dealbook/europe-ukraine-defense-stock-market.html)
-append_entries: 9
-Finish: 2025-03-03 18:15:53.765919
+Append: [Rising Temperatures Are Scrambling the Base of the Ocean Food Web](https://www.nytimes.com/2025/03/03/climate/plankton-ocean-warming.html)
+append_entries: 5
+Finish: 2025-03-03 20:13:01.893170
