@@ -1,41 +1,65 @@
 ------------------------------------------------------
-Started: 2025-03-03 14:12:08.979082
-Existing_entries: 20
+Started: 2025-03-03 16:14:41.942914
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2434
+Token length: 138
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [市场回调不改春季攻势？券商：科技股将迎分化](https://www.yicai.com/news/102494711.html)
-Token length: 2941
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 183
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [外资逆势加仓中概股，阿里、腾讯成为关注焦点](https://www.yicai.com/news/102494883.html)
-Token length: 1734
+Append: [He’s the Face of a White House Press Corps Under Attack by Trump](https://www.nytimes.com/2025/03/03/business/media/white-house-news-media.html)
+Token length: 122
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [仲裁有效监督机制不足影响公正性，人大代表建议加强仲裁监督管理](https://www.yicai.com/news/102494885.html)
-Token length: 1517
+Append: [US construction spending unexpectedly declines in January](https://www.reuters.com/markets/us/us-construction-spending-unexpectedly-declines-january-2025-03-03/)
+Token length: 238
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [一财社论：消除小微企业融资隐形壁垒](https://www.yicai.com/news/102494876.html)
-Token length: 6065
+Append: [Exclusive: US health agency now says employees must respond to DOGE email](https://www.reuters.com/world/us/us-health-agency-now-says-employees-must-respond-doge-email-2025-03-03/)
+Token length: 240
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [协议的政治后果：乌克兰，何去何从？](https://www.huxiu.com/article/4079811.html)
-Token length: 4633
+Append: [US manufacturing stable in February, but storm brewing from tariffs](https://www.reuters.com/markets/us/us-manufacturing-stable-february-storm-brewing-tariffs-2025-03-03/)
+Token length: 121
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [上海建设国际金融中心：现状、挑战与突破](https://www.yicai.com/news/102494795.html)
-Token length: 2126
+Append: [Why Demi Moore’s Oscar Loss to Mikey Madison Stings for Some Fans](https://www.nytimes.com/2025/03/03/movies/demi-moore-oscars-snub.html)
+Token length: 133
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国该如何制订今年物价目标](https://www.yicai.com/news/102494794.html)
-Token length: 1158
+Append: [The Fairy Tale Night of Sean Baker, Director of Dreams Gone Awry](https://www.nytimes.com/2025/03/03/movies/sean-baker-oscars-anora.html)
+Token length: 567
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [六连板华丰股份闪崩，游资筹码大腾挪](https://www.yicai.com/news/102494775.html)
+Append: [美股三大股指集体高开，加密货币概念股大涨](https://www.yicai.com/news/102494995.html)
+Token length: 218
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [US Supreme Court turns away challenge to Indiana University bias reporting policy](https://www.reuters.com/legal/us-supreme-court-turns-away-dispute-over-indiana-university-bias-reporting-2025-03-03/)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Windows 11 卡顿、运行慢？试试这两款优化神器，让电脑丝滑流畅、极速起飞！ | 零度解说](https://www.freedidi.com/18668.html)
-Token length: 130
+Append: [深圳发布具身智能机器人行动计划；AI眼镜产业推进专题研讨会将举办](https://www.yicai.com/news/102494978.html)
+Token length: 3147
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国政协委员蔡建春：提质增效重回报效果不错 继续搞下去！｜一财探两会](https://www.yicai.com/video/102494593.html)
-Token length: 174
+Append: [“两会”时间开启，经济、科创等话题备受关注](https://www.yicai.com/news/102494963.html)
+Token length: 733
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [人工智能如何影响传统农业 看看全国政协委员怎么说｜一财探两会](https://www.yicai.com/video/102494551.html)
-Token length: 198
+Append: [零跑与一汽签署《战略合作谅解备忘录》，此前已获得多家车企零件订单](https://www.yicai.com/news/102494886.html)
+Token length: 598
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国政协委员杨宗儒：希望在并购重组税务安排方面 政策能给予大力支持｜一财探两会](https://www.yicai.com/video/102494451.html)
-append_entries: 12
-Finish: 2025-03-03 14:13:13.365505
+Append: [全国政协十四届三次会议主要议程发布 新质生产力与对外开放成热点](https://www.yicai.com/video/102494912.html)
+Token length: 387
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [两会日程预告丨3月4日：全国政协十四届三次会议下午3时开幕 十四届全国人大三次会议举行预备会议](https://www.yicai.com/news/102494960.html)
+Token length: 1997
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [意愿与能力是否兼具？5天2次紧急会晤，欧洲如何“接盘”乌克兰危机](https://www.yicai.com/news/102494067.html)
+Token length: 1303
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [马斯克称AI诊断比医生告诉你的更好！国内专家持不同意见](https://www.yicai.com/news/102493967.html)
+Token length: 2149
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [资金面收紧扰动债市，理财市场现“小型赎回潮”](https://www.yicai.com/news/102494920.html)
+Token length: 1830
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [“五战”IPO！加盟模式争议未解，周六福港股上市能否破局？](https://www.yicai.com/news/102494901.html)
+Token length: 2334
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [支持新质生产力发展，资本市场“包容性”如何增强](https://www.yicai.com/news/102494902.html)
+Token length: 2581
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [A股千份业绩快报出炉，营收复苏喜人、盈利复苏尚待时日](https://www.yicai.com/news/102494894.html)
+append_entries: 20
+Finish: 2025-03-03 16:16:02.781644
