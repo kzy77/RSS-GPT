@@ -1,66 +1,41 @@
 ------------------------------------------------------
-Started: 2025-03-03 12:22:49.939590
-Existing_entries: 9
+Started: 2025-03-03 14:12:08.979082
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 136
+Token length: 2434
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国政协委员王江平：关注人工智能在工业领域的应用｜一财探两会](https://www.yicai.com/video/102494603.html)
-Token length: 138
+Append: [市场回调不改春季攻势？券商：科技股将迎分化](https://www.yicai.com/news/102494711.html)
+Token length: 2941
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
-Token length: 2433
+Append: [外资逆势加仓中概股，阿里、腾讯成为关注焦点](https://www.yicai.com/news/102494883.html)
+Token length: 1734
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [木材要成为下一个特朗普关税目标？再次祭出“232条款”大棒](https://www.yicai.com/news/102494729.html)
-Token length: 3761
+Append: [仲裁有效监督机制不足影响公正性，人大代表建议加强仲裁监督管理](https://www.yicai.com/news/102494885.html)
+Token length: 1517
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [东方集团被定性“涉嫌重大财务造假”一字跌停，金融机构百亿贷款受波及](https://www.yicai.com/news/102494693.html)
-Token length: 1123
+Append: [一财社论：消除小微企业融资隐形壁垒](https://www.yicai.com/news/102494876.html)
+Token length: 6065
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [关闭X会员店转向鲜生店扩张，盒马战略聚焦转向盈利](https://www.yicai.com/news/102494665.html)
-Token length: 1067
+Append: [协议的政治后果：乌克兰，何去何从？](https://www.huxiu.com/article/4079811.html)
+Token length: 4633
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [鸿蒙原生版抖音重大更新，电商购物功能来了！](https://www.yicai.com/news/102494670.html)
-Token length: 3486
+Append: [上海建设国际金融中心：现状、挑战与突破](https://www.yicai.com/news/102494795.html)
+Token length: 2126
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [被造谣“问界汽车事故致人死亡”，赛力斯发声；周鸿祎：DeepSeek写的文章超过90%的人；盒马X会员店全国仅剩5家](https://www.yicai.com/news/102494666.html)
-Token length: 502
+Append: [中国该如何制订今年物价目标](https://www.yicai.com/news/102494794.html)
+Token length: 1158
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [最高21亿元，格力电器拟获股东京海互联大手笔增持](https://www.yicai.com/news/102494652.html)
-Token length: 785
+Append: [六连板华丰股份闪崩，游资筹码大腾挪](https://www.yicai.com/news/102494775.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Windows 11 卡顿、运行慢？试试这两款优化神器，让电脑丝滑流畅、极速起飞！ | 零度解说](https://www.freedidi.com/18668.html)
+Token length: 130
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [两部门召开座谈会：推动金融资产投资公司股权投资试点更好支持民营企业发展新质生产力](https://www.yicai.com/news/102494642.html)
-Token length: 691
+Append: [全国政协委员蔡建春：提质增效重回报效果不错 继续搞下去！｜一财探两会](https://www.yicai.com/video/102494593.html)
+Token length: 174
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国务院国资委印发《企业国有资产交易操作规则》](https://www.yicai.com/news/102494489.html)
-Token length: 1839
+Append: [人工智能如何影响传统农业 看看全国政协委员怎么说｜一财探两会](https://www.yicai.com/video/102494551.html)
+Token length: 198
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [开放生态寻求AI端侧话语权，荣耀豪掷100亿美元“转型”](https://www.yicai.com/news/102494620.html)
-Token length: 266
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Consumer watchdog payouts in limbo as agency defanged by Trump administration](https://www.reuters.com/world/us/consumer-watchdog-payouts-limbo-agency-defanged-by-trump-administration-2025-03-03/)
-Token length: 1656
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [深圳明确：两大产业新赛道，力争规模过万亿](https://www.yicai.com/news/102494630.html)
-Token length: 190
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Sheep grazing under solar panels help US farmers to survive crop-price slump](https://www.reuters.com/world/us/sheep-grazing-under-solar-panels-help-us-farmers-survive-crop-price-slump-2025-03-03/)
-Token length: 779
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [广汽埃安新车挤入6万元市场区间，低价能否换来销量？](https://www.yicai.com/news/102494581.html)
-Token length: 1429
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [传统车企开启全民智驾，新势力车企“转卷”机器人](https://www.yicai.com/news/102494599.html)
-Token length: 222
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [US Congress nowhere close to deal to avert shutdown ahead of March 14 deadline](https://www.reuters.com/markets/us/us-congress-nowhere-close-deal-avert-shutdown-ahead-march-14-deadline-2025-03-03/)
-Token length: 1061
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家网络安全通报中心：大模型工具Ollama存在安全风险](https://www.yicai.com/news/102494571.html)
-Token length: 1533
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [造车新势力格局持续变化，小鹏汽车连续两月夺冠](https://www.yicai.com/news/102494568.html)
-Token length: 855
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [AI的风刮向老中医，睿远基金举牌固生堂](https://www.yicai.com/news/102494553.html)
-append_entries: 20
-Finish: 2025-03-03 12:24:10.402829
+Append: [全国政协委员杨宗儒：希望在并购重组税务安排方面 政策能给予大力支持｜一财探两会](https://www.yicai.com/video/102494451.html)
+append_entries: 12
+Finish: 2025-03-03 14:13:13.365505
