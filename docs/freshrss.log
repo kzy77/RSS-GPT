@@ -1,39 +1,47 @@
 ------------------------------------------------------
-Started: 2025-03-05 20:13:31.890461
-Existing_entries: 5
+Started: 2025-03-05 22:11:24.518878
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 146
+Token length: 173
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Supreme Court Rejects Trump’s Bid to Freeze Foreign Aid](https://www.nytimes.com/2025/03/05/us/politics/foreign-aid-supreme-court-trump.html)
-Token length: 125
+Append: [Trump Administration Plans to Eliminate More Than 80,000 Veterans Affairs Employees](https://www.nytimes.com/2025/03/05/us/politics/veterans-affairs-cuts-trump.html)
+Token length: 938
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Sylvester Turner, Congressman and Former Houston Mayor, Dies at 70](https://www.nytimes.com/2025/03/05/us/politics/sylvester-turner-dead.html)
-Token length: 142
+Append: [vless://ad14a642-09d6-4fc2-8b76-7cd7e27b5bcd@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#%40V2ray...](https://t.me/V2rayNg_madam/4445)
+Token length: 170
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Justice Dept. Indicts 12 Chinese in Hacking Plot Against U.S. Targets](https://www.nytimes.com/2025/03/05/us/politics/china-hackers-justice-dept.html)
-Token length: 181
+Append: [Trump’s Decision to Halt Aid to Ukraine Could Reorder the Battlefield](https://www.nytimes.com/2025/03/05/us/politics/trump-ukraine-aid.html)
+Token length: 947
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [U.S., Hamas Hold Direct Talks Over Hostages in Gaza, Officials Say](https://www.nytimes.com/2025/03/05/world/middleeast/us-hamas-hostage-talks-gaza.html)
+Append: [美国2月ADP就业人数意外降至7.7万人不及预期，增幅为2024年7月以来最小](https://wallstreetcn.com/articles/3742434)
+Token length: 968
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [英伟达，一切都结束了吗？](https://wallstreetcn.com/articles/3742385)
+Token length: 201
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 145
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Aging Women’s Brain Mysteries Are Tested in Trio of Studies](https://www.nytimes.com/2025/03/05/health/women-brains-alzheimers-aging.html)
+Token length: 192
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Far-Right Israeli Minister Visits Washington After Years of Being Shunned](https://www.nytimes.com/2025/03/05/world/middleeast/smotrich-bessent-us-israel.html)
+Token length: 167
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [South Africa’s Play to Ease Tensions With Trump: A New Trade Deal](https://www.nytimes.com/2025/03/05/world/africa/south-africa-trump-trade.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [Trump Says US Banks Can’t Do Business in Canada. It’s Not That Simple.](https://www.nytimes.com/2025/03/05/business/trump-canada-us-banks.html)
+Token length: 137
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Tom Llamas Named Anchor of ‘NBC Nightly News’](https://www.nytimes.com/2025/03/05/business/media/tom-llamas-nbc-nightly-news.html)
+Token length: 156
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Weight Loss Drug Will Be Offered for $499 a Month for Some Patients](https://www.nytimes.com/2025/03/05/health/wegovy-price-weight-loss-drugs.html)
 Token length: 129
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Florida Seeks Drug Prescription Data With Names of Patients and Doctors](https://www.nytimes.com/2025/03/05/health/florida-prescriptions-patient-privacy-data.html)
-Token length: 158
+Append: [Hackers Stole $635,000 in Taylor Swift Ticket Scheme, Queens D.A. Says](https://www.nytimes.com/2025/03/05/business/taylor-swift-tickets-stolen-stubhub.html)
+Token length: 147
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Oil Prices Drop Amid Concerns Over Trump’s Tariffs and OPEC Increases](https://www.nytimes.com/2025/03/05/business/oil-prices-opec-tariffs.html)
-Token length: 175
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Hanford, a Contaminated Nuclear Site, It Set to Be Largest US Solar Farm](https://www.nytimes.com/2025/03/05/business/hanford-nuclear-site-solar-farm.html)
-Token length: 113
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Adidas Has Sold Its Last Yeezy Sneaker](https://www.nytimes.com/2025/03/05/business/adidas-yeezy-kanye-west.html)
-Token length: 150
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [After Days of Coaching, Zelensky Seeks a Path to Trump’s Good Graces](https://www.nytimes.com/2025/03/05/world/europe/ukraine-zelensky-trump.html)
-Token length: 217
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美股三大指数涨跌不一，热门中概股多数上涨](https://www.yicai.com/news/102498922.html)
-Token length: 143
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [杨宇东：促消费前提是保民生 把钱更多投向于“人”丨总编看两会](https://www.yicai.com/video/102498894.html)
-append_entries: 11
-Finish: 2025-03-05 20:14:37.272822
+Append: [Trump Promised Retribution. Turns Out He Had a Very Big Target in Mind.](https://www.nytimes.com/2025/03/05/opinion/trump-revenge-american-people.html)
+append_entries: 14
+Finish: 2025-03-05 22:12:31.104217
