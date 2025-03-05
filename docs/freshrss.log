@@ -1,66 +1,64 @@
 ------------------------------------------------------
-Started: 2025-03-05 04:14:26.317217
+Started: 2025-03-05 06:16:59.679591
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3078
+Token length: 1025
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [信邦制药子公司涉单位行贿罪，牵出一条医疗系统贪腐链](https://www.yicai.com/news/102497586.html)
-Token length: 2015
+Append: [政府工作报告明确要优化药品集采政策，强化质量评估和监管](https://www.yicai.com/news/102497772.html)
+Token length: 1066
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [政府工作报告定调楼市：因城施策调减限制性措施，给予城市政府收储更大自主权](https://www.yicai.com/news/102497600.html)
-Token length: 174
+Append: [教育部部长谈DeepSeek：是教育改革和发展的重大机遇](https://www.yicai.com/news/102497742.html)
+Token length: 45
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Al Green Removed From House Chamber for Heckling Trump During Speech](https://www.nytimes.com/2025/03/04/us/politics/al-green-trump-speech-heckling.html)
-Token length: 4636
+Append: [首次出现！今年《政府工作报告》里的新词](https://www.yicai.com/news/102497762.html)
+Token length: 889
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [巴菲特给美国政府的两点建议](https://www.yicai.com/news/102497540.html)
-Token length: 2782
+Append: [金融监管总局：进一步扩大金融资产投资公司股权投资试点](https://www.yicai.com/news/102497759.html)
+Token length: 73
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [专访美银中国区行政总裁王伟：特朗普政策组合或推高通胀，美联储降息周期已结束](https://www.yicai.com/news/102497561.html)
-Token length: 105
+Append: [Trump Is Hiding Something on Ukraine](https://www.nytimes.com/2025/03/04/opinion/trump-ukraine-putin-speech.html)
+Token length: 4709
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [直播丨国新办就解读《政府工作报告》举行吹风会](https://www.yicai.com/live/102496179.html)
-Token length: 2268
+Append: [特朗普关税生效后欧美股债齐跌！亚太股市今日反弹，中国资产继续被看好](https://www.yicai.com/news/102497729.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [While Calm Reigns in Damascus, Battles in Syria’s Northeast Rage On](https://www.nytimes.com/2025/03/05/world/middleeast/syria-militias-fighting.html)
+Token length: 145
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [今年财政政策：赤字率首次触碰4%，近12万亿举债创新高](https://www.yicai.com/news/102497546.html)
-Token length: 1171
+Append: [America the Evil Mastermind? Not So Fast, Russians Are Told](https://www.nytimes.com/2025/03/05/world/europe/russia-us-ukraine-trump-putin.html)
+Token length: 1290
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [政府工作报告：实施降低全社会物流成本专项行动](https://www.yicai.com/news/102497534.html)
-Token length: 187
+Append: [政府工作报告起草组负责人答一财：三大有利因素确保经济增长目标实现](https://www.yicai.com/news/102497709.html)
+Token length: 1826
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [D.C. Mayor Muriel Bowser Suggests Black Lives Matter Plaza Will Be Painted Over](https://www.nytimes.com/2025/03/04/us/black-lives-matter-plaza-washington.html)
-Token length: 139
+Append: [5000亿欧元基础设施基金！默茨欲放松财政纪律，德国经济能否迎来转机](https://www.yicai.com/news/102497688.html)
+Token length: 1296
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Officials Mark Hundreds of Federal Properties for Potential Sale](https://www.nytimes.com/2025/03/04/us/politics/trump-federal-property-buildings-sale.html)
-Token length: 1203
+Append: [交通运输部部长刘伟：2024年全国全社会物流成本降低约4000亿](https://www.yicai.com/news/102497689.html)
+Token length: 1948
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国有大行新一轮注资在即？特别国债5000亿“补血”要来了](https://www.yicai.com/news/102497528.html)
-Token length: 31
+Append: [两会报告解读：推动房地产止跌回稳将从这几方面入手](https://www.yicai.com/news/102497698.html)
+Token length: 113
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [十四届全国人大三次会议开幕会在京举行](https://www.yicai.com/image/102497507.html)
-Token length: 1754
+Append: [It’s Hard Not to Protest a Speech Like Trump’s Congress Speech](https://www.nytimes.com/2025/03/04/opinion/trump-speech-al-green-protest.html)
+Token length: 506
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [加快经济社会发展全面绿色转型，今年扩大全国碳排放权交易市场行业覆盖范围](https://www.yicai.com/news/102497475.html)
-Token length: 70
+Append: [特朗普称应废除美国芯片法案](https://www.yicai.com/news/102497619.html)
+Token length: 1522
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [视频丨十四届全国人大三次会议开幕，习近平等党和国家领导人出席开幕会](https://m.thepaper.cn/detail/30306412)
-Token length: 1893
+Append: [2025年能耗强度降3%，“十四五”约束性指标能完成吗](https://www.yicai.com/news/102497651.html)
+Token length: 19088
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [绿牌太丑，雷军看不下去了](https://www.36kr.com/p/3192642285707655)
-Token length: 3125
+Append: [李强作的政府工作报告（摘登）](https://www.yicai.com/news/102497633.html)
+Token length: 85
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [政府工作报告：2025年GDP增长目标5%左右，CPI涨幅2%左右，赤字率4%左右，更大力度促进楼市股市健康发展](https://wallstreetcn.com/articles/3742381)
-Token length: 3465
+Append: [怀进鹏谈DeepSeek：说明了中国科技创新和人才培养的效果](https://www.yicai.com/video/102497625.html)
+Token length: 1240
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [抖音接入豆包，字节发起反击](https://www.36kr.com/p/3192604793004678)
-Token length: 3102
+Append: [加强产学研深度融合，今年将从制度上保障企业承担重大科技项目](https://www.yicai.com/news/102497624.html)
+Token length: 3218
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [罕见暴雪下的济南：陌生人全城救援，外卖员经历“最疼一天”](https://m.thepaper.cn/detail/30301200)
-Token length: 1927
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [苹果官宣 “ 最猛 ” 新品，这次能整波大的？](https://www.36kr.com/p/3192044335800961)
-Token length: 139
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Chris Jasper, Who Helped Revitalize the Isley Brothers, Dies at 73](https://www.nytimes.com/2025/03/04/arts/music/chris-jasper-dead.html)
+Append: [低空经济起飞：从实验室跃入城市天际线](https://www.yicai.com/news/102497634.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [外部环境多变，我国坚持对外开放不动摇，稳外资外贸再加码](https://www.yicai.com/news/102497631.html)
 append_entries: 20
-Finish: 2025-03-05 04:15:47.632195
+Finish: 2025-03-05 06:18:19.069178
