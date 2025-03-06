@@ -1,42 +1,65 @@
 ------------------------------------------------------
-Started: 2025-03-06 06:16:43.623841
-Existing_entries: 11
+Started: 2025-03-06 08:15:31.946696
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 126
+Token length: 995
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Europe Races to Craft a Trump-Era Plan for Ukraine and Defense](https://www.nytimes.com/2025/03/06/world/europe/europe-trump-ukraine-defense.html)
-Token length: 153
+Append: [首个肿瘤疫苗有望在2027年推出，用于治疗这种癌症](https://www.yicai.com/news/102499701.html)
+Token length: 1160
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Adrienne Adams Enters Mayor’s Race to Defeat Eric Adams (No Relation)](https://www.nytimes.com/2025/03/05/nyregion/adrienne-adams-mayor-nyc.html)
-Token length: 1811
+Append: [AI新技术让截瘫患者“动起来”，但专家称距离“站立行走”还很远](https://www.yicai.com/news/102499825.html)
+Token length: 191
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [积极应对老龄化，强化失能老年人照护有哪些重点？](https://www.yicai.com/news/102499560.html)
-Token length: 146
+Append: [中国人民银行行长：今年将择机降准降息](https://www.yicai.com/news/102499839.html)
+Token length: 2107
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Police in Louisiana Investigate Hazing Episode After University Student’s Death](https://www.nytimes.com/2025/03/05/us/southern-university-caleb-wilson-hazing-death.html)
-Token length: 207
+Append: [面对特朗普关税威胁，日本为何如此安静？](https://www.yicai.com/news/102499786.html)
+Token length: 169
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [疑似韩美实弹演习失误，炮弹坠入民宅致7人受伤！韩国空军回应](https://www.yicai.com/news/102499540.html)
-Token length: 678
+Append: [South Korean Fighter Jets Mistakenly Bomb Village, Leaving 7 Injured](https://www.nytimes.com/2025/03/06/world/asia/south-korea-jets-bomb-village.html)
+Token length: 223
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [李嘉诚突然出手，长和拟出售全球港口业务，2个交易日暴涨35%](https://www.yicai.com/news/102499534.html)
-Token length: 2663
+Append: [财政部部长：财政政策更加积极 赤字安排更加给力](https://www.yicai.com/news/102499821.html)
+Token length: 3908
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [一夜间全网求邀请码，全球首款“通用型Agent”来了？](https://www.yicai.com/news/102499485.html)
-Token length: 7820
+Append: [德国绿党为什么招骂？](https://www.huxiu.com/article/4086898.html)
+Token length: 531
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [连平：2025年宏观政策怎么走，政府工作报告十大看点解读](https://www.yicai.com/news/102499466.html)
-Token length: 1857
+Append: [我国创投领域“航母级”基金来了！详解国家创业投资引导基金](https://www.yicai.com/news/102499807.html)
+Token length: 783
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [破解乳业周期性困局，两会代表委员们开出这些药方](https://www.yicai.com/news/102499473.html)
-Token length: 270
+Append: [PPP新规拟出，解决存量项目问题](https://www.yicai.com/news/102499774.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [创业板指涨超2%，全市场超4200只个股上涨](https://www.yicai.com/news/102499788.html)
+Token length: 1716
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美国关税威胁下 墨西哥总统强硬发声：绝不屈服 将另寻贸易伙伴](https://www.yicai.com/news/102499513.html)
-Token length: 184
+Append: [消费税改革迈出新步伐：征收环节后移今年有望落地](https://www.yicai.com/news/102499775.html)
+Token length: 1661
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A Skeptical G.O.P. Senator Makes His Peace With Kennedy](https://www.nytimes.com/2025/03/05/us/politics/bill-cassidy-rfk-measles.html)
-Token length: 159
+Append: [美国政府再挥“芬太尼”关税大棒：单边主义的战略困境与全球秩序重构｜专家热评](https://www.yicai.com/news/102499731.html)
+Token length: 1887
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump to Pause Auto Tariffs for Canada and Mexico for One Month](https://www.nytimes.com/2025/03/05/us/politics/trump-lutnick-tariffs-reduction-canada-mexico.html)
-append_entries: 12
-Finish: 2025-03-06 06:17:46.655391
+Append: [政府工作报告定调！关于充实存款保险基金，央行代表提出这些建议](https://www.yicai.com/news/102499732.html)
+Token length: 2450
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [读懂2025国家账本，超50万亿支出惠民生、促消费、增后劲](https://www.yicai.com/news/102499673.html)
+Token length: 124
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [直播丨十四届全国人大三次会议经济主题记者会](https://www.yicai.com/live/102498410.html)
+Token length: 1622
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [港股再创新高，A股能否后来居上？｜市场观察](https://www.yicai.com/news/102499596.html)
+Token length: 2793
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [阿里32B新模型比肩满血DeepSeek-R1，苹果Mac本地可跑，网友已玩疯](https://www.36kr.com/p/3194160803003777)
+Token length: 1427
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [上海代表团举行全体会议，这些代表作审议发言](https://m.thepaper.cn/detail/30311688)
+Token length: 1246
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [马上评丨免费学前教育：民有所呼、政有所应](https://m.thepaper.cn/detail/30308963)
+Token length: 2219
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Claude 3.7 Sonnet怎么样？国内如何使用Claude 3.7 Sonnet？如何使用Claude Code? Cursor里面如何体验Claude](https://juejin.cn/post/7475276076512575542)
+append_entries: 20
+Finish: 2025-03-06 08:16:51.210556
