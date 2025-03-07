@@ -1,33 +1,41 @@
 ------------------------------------------------------
-Started: 2025-03-07 10:12:53.388978
-Existing_entries: 19
+Started: 2025-03-07 12:21:38.194958
+Existing_entries: 9
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1901
+Token length: 219
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [2024年饮料健康化仍在提速，但消费者不再满足于无糖](https://www.yicai.com/news/102501738.html)
-Token length: 1035
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 132
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国产双抗疗效击败全球药王，临床研究结果数据已在《柳叶刀》发表了](https://www.yicai.com/news/102501739.html)
-Token length: 238
+Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
+Token length: 391
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [龙虎榜丨机构今日买入这20股，抛售汉得信息3.19亿元](https://www.yicai.com/news/102501779.html)
-Token length: 67
+Append: [全网爆火的 Manus！有何神奇之处？如何获取内测码？免费开源替代方案解析 | 零度解说](https://www.freedidi.com/18698.html)
+Token length: 807
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [数智两会丨一带一路、中非、中欧关系……王毅谈到这些数字](https://www.yicai.com/video/102501746.html)
-Token length: 1568
+Append: [连续两次发射后失联，星舰2.0靠谱吗？](https://www.yicai.com/news/102501040.html)
+Token length: 156
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [女司机、女骑手增速惊人，提高收入为择业主要动力](https://www.yicai.com/news/102501644.html)
-Token length: 270
+Append: [Unexploded World War II Bomb Found at Gare du Nord in Paris Halts Trains](https://www.nytimes.com/2025/03/07/world/europe/france-world-war-ii-bomb-gare-du-nord-eurostar.html)
+Token length: 3525
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [外汇局：2月外汇储备规模上升](https://www.yicai.com/news/102501678.html)
-Token length: 3951
+Append: [3月7日这些公告有看头](https://www.yicai.com/news/102501900.html)
+Token length: 1896
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [特朗普激进新政三大阻力：高法、做空和反美情绪](https://www.huxiu.com/article/4093255.html)
-Token length: 1809
+Append: [全国人大代表建议创建光谷国家实验室 加快建设“世界光谷”](https://www.yicai.com/news/102501834.html)
+Token length: 385
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [政府工作报告首提“投资于人”，有何深意？](https://www.yicai.com/news/102501611.html)
-Token length: 80
+Append: [中科通达：筹划购买星和北海100%股权 股票3月10日起停牌](https://www.yicai.com/news/102501882.html)
+Token length: 2580
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [实探Manus武汉公司：设“请勿打扰”围栏，工作人员称需保证现有用户体验](https://m.thepaper.cn/detail/30329705)
-append_entries: 9
-Finish: 2025-03-07 10:13:07.800354
+Append: [保租房筹建进入“关键之年”，各地低租金房源密集入市](https://www.yicai.com/news/102501826.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [韩国，渴求高科技人才](https://www.huxiu.com/article/4094022.html)
+Token length: 55
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [The Right’s Trump Derangement Syndrome](https://www.nytimes.com/2025/03/07/opinion/republicans-trump-derangement-syndrome.html)
+Token length: 1023
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [💥版本不停歇，社区又新增了10+开源贡献者~MateChat V1.2.0版本更新啦~组件支持国际化能力](https://juejin.cn/post/7478882643674398729)
+append_entries: 12
+Finish: 2025-03-07 12:22:42.268100
