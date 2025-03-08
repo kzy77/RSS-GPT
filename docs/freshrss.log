@@ -1,24 +1,65 @@
 ------------------------------------------------------
-Started: 2025-03-08 10:10:23.995968
-Existing_entries: 16
+Started: 2025-03-08 12:15:56.892605
+Existing_entries: 6
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 181
+Token length: 132
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Impeached South Korean President Released From Jail](https://www.nytimes.com/2025/03/08/world/asia/south-korea-president-yoon-freed.html)
-Token length: 2004
+Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
+Token length: 143
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [天线与沙漠闪电，沙特当代艺术家中国大型机构首展开幕](https://www.yicai.com/news/102502681.html)
-Token length: 723
+Append: [Russian Strikes Kill 20 in Eastern Ukraine](https://www.nytimes.com/2025/03/08/world/europe/russia-ukraine-donetsk-strikes.html)
+Token length: 1941
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [vless://04314541-ba99-49d9-9547-868e16961a1c@amin.tan3.ir:2053?security=reality&encryption=none&pbk=FfxMkKZQbG8Cdua7TSwH2NCOr-7JnJHSqfVq7dEHrCQ&header...](https://t.me/V2rayNg_madam/4447)
-Token length: 753
+Append: [事关投资者保护、REITs市场，上交所总经理蔡建春提出多条建议](https://www.yicai.com/news/102502706.html)
+Token length: 2288
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [vless://TELEGRAM-NUFiLTER-e3b32b791c1a@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Cteleg...](https://t.me/V2rayNg_madam/4446)
-Token length: 804
+Append: [三小时复现Manus，开源的OpenManus带来哪些启示？](https://www.yicai.com/news/102502717.html)
+Token length: 1077
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [全国人大代表周云杰答一财：科技永远向善！加码工业机器人和具身智能机器人](https://www.yicai.com/news/102502671.html)
-Token length: 2338
+Append: [她经济｜心血管疾病也“男女有别”！女性心脏为何更脆弱？](https://www.yicai.com/news/102502712.html)
+Token length: 116
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [今年国企改革任务明确，这些亮点值得关注](https://www.yicai.com/news/102502676.html)
-append_entries: 6
-Finish: 2025-03-08 10:10:32.258394
+Append: [How Mayor Eric Adams Lost New York City](https://www.nytimes.com/2025/03/08/magazine/eric-adams-mayor-nyc.html)
+Token length: 151
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Gene Hackman Lost His Wife and Caregiver, and Spent 7 Days Alone](https://www.nytimes.com/2025/03/08/us/gene-hackman-betsy-arakawa.html)
+Token length: 123
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Starship Explosions Show SpaceX No Longer Defying Gravity](https://www.nytimes.com/2025/03/08/science/starship-spacex-explosion-elon-musk.html)
+Token length: 157
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Elon Musk Is Making Republicans Sweat and Giving Democrats a New Target](https://www.nytimes.com/2025/03/08/us/politics/elon-musk-trump-politics.html)
+Token length: 192
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump’s Affinity for Putin Grows More Consequential Than Ever](https://www.nytimes.com/2025/03/08/us/politics/trumps-affinity-for-putin-grows-more-consequential-than-ever.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [How Trump Has Upended the Presidential Pardon](https://www.nytimes.com/video/us/politics/100000010030919/how-trump-has-upended-the-presidential-pardon.html)
+Token length: 128
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [‘You Can’t Pin Him Down’: Trump’s Contradictions Are His Ultimate Cover](https://www.nytimes.com/2025/03/08/us/politics/trump-third-term-gaza-contradictions.html)
+Token length: 157
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [‘The Interview’: Lady Gaga’s Latest Experiment? Happiness.](https://www.nytimes.com/2025/03/08/magazine/lady-gaga-interview.html)
+Token length: 77
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [5 Things to Know About the Rise and Fall of New York City Mayor Eric Adams](https://www.nytimes.com/2025/03/08/magazine/5-things-to-know-about-the-rise-and-fall-of-eric-adams.html)
+Token length: 163
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump Freeze on Aid to Nuclear Inspectors Undercuts His Iran Policy](https://www.nytimes.com/2025/03/08/science/trump-nuclear-inspectors-aid-freeze.html)
+Token length: 170
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Africa Received Billions in U.S. Aid. Here’s What It Will Lose.](https://www.nytimes.com/2025/03/08/world/africa/africa-usaid-funds.html)
+Token length: 182
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump Allies Seek Pardons From an Emboldened White House](https://www.nytimes.com/2025/03/08/us/politics/trump-pardons-clemency.html)
+Token length: 106
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Altadena Residents Face High Costs as They Begin to Rebuild Their Homes](https://www.nytimes.com/2025/03/08/us/altadena-eaton-fire-insurance-costs.html)
+Token length: 101
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [They Can Still Make Art and Music After Fleeing the L.A. Fires](https://www.nytimes.com/2025/03/08/us/what-they-took-la-fires.html)
+Token length: 192
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Gaza War Led to Deaths of More Than 3 Dozen Hostages, Officials Say](https://www.nytimes.com/2025/03/08/world/middleeast/israel-hamas-gaza-hostages.html)
+append_entries: 20
+Finish: 2025-03-08 12:17:09.182529
