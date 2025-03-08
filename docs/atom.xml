@@ -2,138 +2,331 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-03-07T22:10:01Z</updated>
+    <updated>2025-03-08T00:45:10Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[微信 ‧ 24h热文榜]]></title>
-        <link href="https://tophub.today/n/WnBe01o371" />
-        <id>https://tophub.today/n/WnBe01o371</id>
-        <updated>Sat, 08 Mar 2025 05:33:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：热度, 数据, 排名, 趋势, 分析
+        <title><![CDATA[阿里半夜开源全新推理模型，QwQ-32B比肩DeepSeek-R1满血版]]></title>
+        <link href="https://juejin.cn/post/7478513497456541737" />
+        <id>https://juejin.cn/post/7478513497456541737</id>
+        <updated>Thu, 06 Mar 2025 18:41:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词：QwQ-32B, 强化学习(RL), 推理模型, DeepSeek-R1, 性能提升
 
 <br><br>总结:
-1. 文章提供了一系列排名及对应的热度数据。
-2. 数据从排名1到排名30不等，并给出了每个排名对应的具体热度数值。
-3. 可以通过对这些数据的分析，了解不同排名之间的热度差异。
-4. 进一步分析数据，可以了解整体排名热度的变化趋势。
-5. 这些数据可以用于各种目的，例如市场分析，趋势预测等。
+1. 阿里开源发布了新的320亿参数推理模型QwQ-32B，其性能可媲美6710亿参数的DeepSeek-R1满血版。
+2. QwQ-32B采用Apache 2.0开源协议，已在Hugging Face和ModelScope开源，并支持通过Qwen Chat体验和Ollama本地部署。
+3. QwQ-32B通过大规模强化学习(RL)提升性能，尤其在数学和编程任务上，超越了传统预训练和后训练方法。
+4. QwQ-32B集成了与Agent相关的能力，使其能够在使用工具的同时进行批判性思考，并根据环境反馈调整推理过程。
+5. 千问团队表示，未来将探索更强大的基础模型与规模化计算资源的RL相结合，并积极探索将智能体与RL集成，以实现长时推理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Amy Coney Barrett and the Right’s Elite-Building Problem]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/opinion/barrett-trump-maga-elite.html" />
-        <id>https://www.nytimes.com/2025/03/07/opinion/barrett-trump-maga-elite.html</id>
-        <updated>Sat, 08 Mar 2025 05:20:29 +0800</updated>
-        <summary type="html"><![CDATA[关键词：MAGA，政权更迭，孤立主义，联盟，外交政策
+        <title><![CDATA[马斯克的DOGE帝国：那些围绕他运转的神秘人物]]></title>
+        <link href="https://www.huxiu.com/article/4096410.html" />
+        <id>https://www.huxiu.com/article/4096410.html</id>
+        <updated>Sat, 08 Mar 2025 08:30:51 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 马斯克, DOGE, 特朗普, 联邦雇员, 效率<br><br>总结:
+1.  马斯克领导的DOGE部门，旨在精简政府机构、削减开支，已裁员并整顿社保体系。
+2.  DOGE的首要举措包括解雇美国国际开发署员工，取消多元化合同，引发诉讼。
+3.  马斯克要求所有联邦雇员每周汇报工作，但部分国防机构未响应。
+4.  DOGE团队由年轻科技精英组成，包括史蒂夫·戴维斯、妮可·霍兰德等，他们拥有联邦机构高层访问权限。
+5.  团队成员包括各领域专家，负责政府系统优化、技术项目和招聘等工作，部分人员有争议。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[At Crypto Summit, Trump Says U.S. Will Be ‘the Bitcoin Superpower’]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/technology/trump-crypto-summit.html" />
+        <id>https://www.nytimes.com/2025/03/07/technology/trump-crypto-summit.html</id>
+        <updated>Sat, 08 Mar 2025 08:22:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 白宫, 加密货币, 行业高管, 总统, 接纳
 
 <br><br>总结:
-1.  MAGA运动自身无法完成政权更迭，这暗示了其力量的局限性。
-2.  文章暗示MAGA可能倾向于孤立主义的外交政策。
-3.  缺乏联盟是MAGA无法实现政权更迭的原因之一，表明合作的重要性。
-4.  有效的政权更迭需要建立强大的联盟体系。
-5.  MAGA需要重新评估其外交政策，更注重合作才能更有效。
+要点1: 白宫首次举办了与加密货币行业高管的活动，表明总统对该行业的重视。
+要点2: 这次活动标志着总统对曾经被视为异端的加密货币行业的接纳。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Justice Dept. Is Said to Put Two Prosecutors in Adams Case on Leave]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/nyregion/eric-adams-prosecutors-sdny.html" />
-        <id>https://www.nytimes.com/2025/03/07/nyregion/eric-adams-prosecutors-sdny.html</id>
-        <updated>Sat, 08 Mar 2025 04:56:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 检察官, Celia Cohen, Andrew Rohrbach, 南区, 美国检察官办公室
+        <title><![CDATA[直播丨十四届全国人大三次会议第二场“代表通道”集中采访活动]]></title>
+        <link href="https://www.yicai.com/live/102501818.html" />
+        <id>https://www.yicai.com/live/102501818.html</id>
+        <updated>Sat, 08 Mar 2025 08:04:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 全国人大, 代表通道, 采访, 人民大会堂, 全体会议
 
 <br><br>总结:
-要点1: Celia Cohen和Andrew Rohrbach是美国纽约南区检察官办公室的高级检察官。
+本次活动是十四届全国人大三次会议期间的第二场“代表通道”集中采访。
+时间为2025年3月8日8：00—8：40，在第二次全体会议前举行。
+地点在人民大会堂中央大厅北侧。
+活动内容为邀请部分全国人大代表接受采访。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump Bows to Economic Reality With Tariff Delays and Exemptions]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/us/politics/trump-tariff-delays.html" />
-        <id>https://www.nytimes.com/2025/03/07/us/politics/trump-tariff-delays.html</id>
-        <updated>Sat, 08 Mar 2025 04:29:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 关税, 特朗普政府, 价格, 通货膨胀, 进口
+        <title><![CDATA[Trump Administration Forces Out More Senior Justice Dept. Officials]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/us/politics/trump-justice-dept-ousters.html" />
+        <id>https://www.nytimes.com/2025/03/07/us/politics/trump-justice-dept-ousters.html</id>
+        <updated>Sat, 08 Mar 2025 08:01:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普政府, 资深律师, 赦免工作, 破产诉讼, 强制离职
 
 <br><br>总结:
-*   由于价格仍然高企，特朗普政府意识到进口关税可能加剧通货膨胀的风险。
-*   因此，特朗普政府正在关注避免因进口关税导致通货膨胀进一步恶化。
+1. 特朗普政府近期再次采取行动，强制资深律师离职。
+2. 这些律师主要负责管理赦免工作。
+3. 他们也负责处理破产诉讼和其他法律问题。
+4. 这次行动针对的是经验丰富的职业律师。
+5. 这一系列的强制离职是特朗普政府政策的一部分。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Sam Bankman-Fried Lobbies Trump Associates in Hopes of a Pardon]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/technology/sam-bankman-fried-pardon-trump.html" />
-        <id>https://www.nytimes.com/2025/03/07/technology/sam-bankman-fried-pardon-trump.html</id>
-        <updated>Sat, 08 Mar 2025 04:29:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Bankman-Fried, FTX, 欺诈, 刑期, 求助
+        <title><![CDATA[U.S. Investigates Egg Producers Over Soaring Prices]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/business/us-egg-prices-investigation.html" />
+        <id>https://www.nytimes.com/2025/03/07/business/us-egg-prices-investigation.html</id>
+        <updated>Sat, 08 Mar 2025 07:47:31 +0800</updated>
+        <summary type="html"><![CDATA[关键词：司法部，调查，反垄断，鸡蛋，生产商
 
 <br><br>总结:
-1. Bankman-Fried因其加密货币交易所FTX的倒闭面临欺诈指控。
-2. 他因此可能面临25年的监禁。
-3. 他的家人和盟友正在寻求帮助，试图让他免于长期监禁。
+* 司法部正在进行一项调查。
+* 调查的重点是美国最大的鸡蛋生产商。
+* 调查方向是潜在的反垄断违规行为。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Eric Adams Names 4 New Deputy Mayors After Others Resigned in Protest]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/nyregion/adams-deputy-mayors-daughtry.html" />
-        <id>https://www.nytimes.com/2025/03/07/nyregion/adams-deputy-mayors-daughtry.html</id>
-        <updated>Sat, 08 Mar 2025 04:28:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词：辞职, 副市长, 特朗普政府, 驱逐, 反对
+        <title><![CDATA[Gene Hackman Died From Heart Disease a Week After the Death of His Wife, Who Had Hantavirus]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/us/gene-hackman-investigation-cause-death.html" />
+        <id>https://www.nytimes.com/2025/03/07/us/gene-hackman-investigation-cause-death.html</id>
+        <updated>Sat, 08 Mar 2025 07:31:50 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Betsy Arakawa, 呼吸道疾病, 老鼠, Gene Hackman, 阿尔茨海默症
 
 <br><br>总结:
-*   四位副市长集体辞职。
-*   此举是为了抗议市长与特朗普政府在驱逐移民方面的合作。
-*   副市长们以此表达对市长政策的强烈反对。
+1. 演员的妻子Betsy Arakawa因与老鼠相关的呼吸道疾病去世，此消息由新墨西哥州官员公布。
+2. 演员Gene Hackman患有阿尔茨海默症。
+3. Gene Hackman因心脏病去世，阿尔茨海默症是导致他去世的原因之一。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Jobs Report Is Steady, but Impact of Federal Cutbacks and Tariffs Looms]]></title>
-        <link href="https://www.nytimes.com/2025/03/07/business/economy/jobs-report-february.html" />
-        <id>https://www.nytimes.com/2025/03/07/business/economy/jobs-report-february.html</id>
-        <updated>Sat, 08 Mar 2025 04:16:55 +0800</updated>
-        <summary type="html"><![CDATA[就业，新增，劳工部，政策，二月
+        <title><![CDATA[U.S. Suspends Ukraine’s Access to Satellite Imagery]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/world/us-ukraine-satellite-imagery.html" />
+        <id>https://www.nytimes.com/2025/03/07/world/us-ukraine-satellite-imagery.html</id>
+        <updated>Sat, 08 Mar 2025 06:57:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 乌克兰, 技术, 俄罗斯军队, 追踪, 基础设施
 
 <br><br>总结:
-1. 劳工部数据显示，二月份新增就业岗位15.1万个。
-2. 数据基于在特朗普政府政策实施期间进行的调查。
+1. 乌克兰利用技术追踪俄罗斯军队的动向。
+2. 乌克兰使用该技术评估基础设施遭受的破坏程度。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[关键词：US.KG、免费域名、Cloudflare、身份信息生成器、优惠码
+        <title><![CDATA[Lawyer Appointed in Adams Case Says Charges Should Be Dropped]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/nyregion/paul-clement-adams-case-dismissal.html" />
+        <id>https://www.nytimes.com/2025/03/07/nyregion/paul-clement-adams-case-dismissal.html</id>
+        <updated>Sat, 08 Mar 2025 06:51:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普政府, 驱逐出境, 法院, Adams, Clement
 
 <br><br>总结:
-1. US.KG域名无法注册，因此建议用户寻找其他免费域名选项，且可以托管到Cloudflare。
-2. 注册免费域名的步骤包括使用身份信息生成器生成个人信息，以便顺利填写注册表。
-3. 在购买域名时，输入优惠码“newuser”可享受首年免费服务。
-4. 注册完成后，需要登录Cloudflare并添加所购买的域名，按照Cloudflare提供的指引填写相关的名称服务器。
-5. 详细的教程可参考相关Youtube视频，视频时间线指引从账号注册到域名托管的具体流程。]]></summary>
+*   Paul D. Clement认为，法官不应该允许特朗普政府利用法院的权威。
+*   目的是强迫 Adams 先生支持白宫的大规模驱逐出境行动。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek-R1、云服务、免费体验、API客户端、搜索工具  
+        <title><![CDATA[DOJ Reinforces Demand to Break Up Google’s Search Monopoly]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html" />
+        <id>https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html</id>
+        <updated>Sat, 08 Mar 2025 06:43:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 监管, 压力, 搜索, 巨头, 政府
 
-<br><br>总结:<br>
-1. Deepseek-R1满血版提供多种低成本和免费体验的云服务，用户可以选择合适的平台进行试用。
-2. 不同的大厂提供的服务如OpenRouter、微软Azure（需绑定信用卡）、硅基流动等，有的在特定时间段内提供免费体验。
-3. 百度千帆和腾讯云均提供有限时的免费使用机会，前者到2月18日，后者到2月25日。
-4. 英伟达、西山居和阿里云百炼等平台也提供免费额度，分别赠送1000次、5000次及100万token，有效期为180天。
-5. 推荐的API客户端包括Cherry Studio、Chatbox和Chatwise等，用户可以根据需求进行选择。搜索工具方面，秘塔AI搜索、纳米AI搜索和Perplexity值得一试。]]></summary>
+<br><br>总结:
+1. 政府在周五的法庭文件中表明，将继续对搜索巨头施加严格的监管压力。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Alarmed by Trump, Poland Must Look at Nuclear Options, Premier Says]]></title>
+        <link href="https://www.nytimes.com/2025/03/07/world/europe/poland-nuclear-trump-tusk.html" />
+        <id>https://www.nytimes.com/2025/03/07/world/europe/poland-nuclear-trump-tusk.html</id>
+        <updated>Sat, 08 Mar 2025 06:38:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 波兰, 军事, 联盟, 破坏性武器
+
+<br><br>总结:
+* 特朗普总统对美国联盟关系表示怀疑。
+* 波兰总理图斯克认为，鉴于当前形势，波兰需要加强国防。
+* 加强国防的具体措施包括扩大军队规模，增加一倍的人力。
+* 此外，波兰还应考虑部署更具破坏性的武器。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DOGE裁员风暴下非农即将出炉，今夜美股会“雪上加霜”吗？]]></title>
+        <link href="https://wallstreetcn.com/articles/3742569" />
+        <id>https://wallstreetcn.com/articles/3742569</id>
+        <updated>Fri, 07 Mar 2025 18:00:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 非农就业，失业率，联邦政府裁员，美股，经济预期
+
+<br><br>总结:
+1.  2月美国非农就业数据预计将稳健增长，但增速可能放缓，失业率预计维持低位。
+2.  联邦政府裁员、招聘冻结等因素预计将拖累就业增长，可能在3月和4月的数据中更明显地体现出来。
+3.  受政府裁员影响，与政府合作的私营企业也开始裁员。
+4.  如果非农数据不及预期，可能加剧美股回调；强劲数据对市场的提振作用可能有限。
+5.  市场对本次非农数据的波动性预期较高，期权定价显示标普500指数可能出现较大波动。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[历史性的一周，全球资本流动逻辑巨变！]]></title>
+        <link href="https://wallstreetcn.com/articles/3742571" />
+        <id>https://wallstreetcn.com/articles/3742571</id>
+        <updated>Fri, 07 Mar 2025 17:20:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 贸易战, 科技崛起, 财政刺激, 伦敦协议, 欧元
+
+<br><br>总结:
+1.  美国贸易战形式缓和：虽然美国最初宣布对墨西哥和加拿大商品征收关税，但随后又根据“美国-墨西哥-加拿大协定”进行了修正，表明贸易战策略有所调整。
+2.  中国科技取得突破：阿里发布了性能媲美DeepSeek R1但成本仅为十分之一的开源模型QwQ 32B，体现了中国在人工智能领域的快速发展。
+3.  欧洲推行大规模财政刺激计划：德国推出高达万亿欧元的财政刺激计划，包括基建、国防开支和地方政府借贷，表明欧洲经济政策的重大转变。
+4.  “伦敦协议”旨在加强欧洲防务合作和独立性：该协议促进欧洲在安全和经济战略上采取更加独立的立场，挑战了之前的“海湖庄园协议”。
+5.  全球经济格局可能发生变化：欧洲的独立趋势和财政刺激可能会导致欧元崛起为替代储备资产，减少对美国经济的依赖，并推动全球多极化的发展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[5个人三小时复刻开源版Manus，邀请码也不需要了]]></title>
+        <link href="https://www.36kr.com/p/3195860372536711" />
+        <id>https://www.36kr.com/p/3195860372536711</id>
+        <updated>Fri, 07 Mar 2025 15:53:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词：OpenManus，Manus，开源，Agent，MetaGPT
+
+<br><br>总结:
+1.  OpenManus 是一个开源的 Manus 复刻版，由 5 人团队在 3 小时内完成，基于 MetaGPT 框架，该框架是一个多智能体框架。
+2.  OpenManus 的关键在于模块化 Agent 系统、实时反馈机制和强大的工具链，由多个 Agent 协作完成任务，例如需求理解、规划和行动，底层基于大语言模型，中间层多智能体协作，执行层调用 API。
+3.  OpenManus 借鉴了 Anthropic 的 computer-use 和 YC 的 browser-use 项目，实现了电脑和浏览器操作。
+4.  OpenManus 的作者团队来自 MetaGPT 团队，他们在智能体方面有深厚的技术积累，如数据解释器（Data Interpreter）。
+5.  文章讨论了 Manus 被质疑“套壳”的争议，认为关键不在于是否“套壳”，而在于产品能否提升生产力，开源项目本身也是站在巨人肩膀上发展，并认为提升产品能力更重要。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG，域名，注册，KYC验证，Cloudflare
+
+<br><br>总结:
+1. 开场介绍US.KG域名的受限状态和注册方法，建议使用 https://dash.domain.digitalplat.org/ 完成注册与KYC验证。
+2. US.KG域名的优点在于提供免费注册和续订，但注册时需进行KYC验证。
+3. 注册步骤详细说明：首先注册账号，提供个人信息（可使用身份信息生成器），随后验证邮箱。
+4. 上传排版好的信息截图完成KYC验证。
+5. 完成域名注册后，可将域名托管至Cloudflare，需输入分配的名称服务器以设置DNS。
+6. 提及免费域名的缺点，提醒用户相关风险与注意事项。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek，API，本地部署，应用，官方网站
+
+<br><br>总结:
+1. 介绍了Deepseek的基本信息，强调其在信息检索中的重要性。
+2. 详细说明了Deepseek的网页端和手机客户端的使用方法，方便用户快速访问。
+3. 介绍了Deepseek的API，提供注册流程以及使用示例，强调其在沉浸式翻译等应用中的应用性。
+4. 提及了与Perplexity等其他应用结合使用Deepseek的情况，展示了其多样化的应用场景。
+5. 对Deepseek的本地部署进行了详细说明，包含下载和安装Ollama的步骤，以及在命令提示符中运行的指令，确保用户能够在本地流畅使用Deepseek。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00、Cloudflare Argo、SSH、代理节点、保活
+
+<br><br>总结:
+1. 开场介绍了视频内容，主要涉及如何搭建Serv00代理节点。
+2. 讲解了Serv00节点搭建的方法选择，包含注册及登录的流程。
+3. 详细说明了搭建代理节点的过程，以及如何使用Cloudflare Argo设置固定隧道。
+4. 提到了进程保活的方法，以及在GitHub上进行账号保留和远程保活的技巧。
+5. 介绍了SSH登录时遇到IP被封情况的两种解决方案，以及如何设置Cloudflare Argo固定隧道的具体步骤，需先有域名并托管到Cloudflare上。最后提供了一些相关的链接与工具，如SSH客户端WindTerm以及检测Serv00 IP状态的网页。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[关键词：降智表现、解决办法、IP节点、测试结果、搭建方法  
+
+<br><br>总结:  
+1. 降智表现：提到ChatGPT在执行命令、使用工具和深度思考上存在降智现象。  
+2. 解决办法：建议更换其他IP的科学上网节点以解决降智问题。  
+3. IP节点：提供了不同节点的实际测试结果，显示部分节点降智而另一些则正常。  
+4. 测试结果：提到甲骨文云和谷歌云的节点表现不同，其中甲骨文云的某些节点存在降智问题。  
+5. 搭建方法：介绍了使用Serv00-Play脚本搭建节点的方法，并提供了修改IP地址与重启singbox的步骤。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00、注册、闲鱼、成品号、密码重置  
+
+<br><br>总结:  
+1. Serv00帐号目前难以注册成功，可以通过国外朋友或在闲鱼购买帮助。  
+2. 闲鱼上有两种购买方式：代注册邮箱和购买成品号。  
+3. 购买成品号后，需要验证手机号以解锁邮箱账户，并添加备用邮箱。  
+4. 如无法登录，可以重置Serv00的密码，并检查后台是否有残留信息。  
+5. 修改Serv00和邮箱的登录密码，确保邮箱未绑定手机号。  
+6. 最后，检查Serv00的IP是否被封，以确保账号的安全性。  
+
+还有更多细节和操作步骤，可以参考视频中提供的内容。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
 </feed>
