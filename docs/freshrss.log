@@ -1,63 +1,20 @@
 ------------------------------------------------------
-Started: 2025-03-09 08:12:23.245721
-Existing_entries: 13
+Started: 2025-03-09 10:10:45.351216
+Existing_entries: 19
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3755
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}
+Append: [陆家嘴金融沙龙聚焦AI+千行百业，探讨垂直应用与技术伦理](https://www.yicai.com/news/102503017.html)
+Token length: 2420
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [如何应对不孕风险？全国人大代表建议适当放开与年龄相关的生育力保存](https://www.yicai.com/news/102502953.html)
-Token length: 2132
+Append: [周末闲聊：速胜论和速败论](https://www.huxiu.com/article/4101778.html)
+Token length: 2731
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [韩国“医政僵局”有解了？韩政府就医学生扩招人数“有条件”让步](https://www.yicai.com/news/102502906.html)
-Token length: 116
+Append: [盘点特朗普关税，未来有何新威胁？4月2日见分晓](https://www.yicai.com/news/102502964.html)
+Token length: 2262
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [直播丨十四届全国人大三次会议民生主题记者会](https://www.yicai.com/live/102502848.html)
-Token length: 1668
+Append: [关税政策引发市场动荡，特朗普的关税政策何时可能收手？](https://www.yicai.com/news/102502910.html)
+Token length: 4355
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [特斯拉无人驾驶出租车Cybercab今日亮相得克萨斯超级工厂](https://wallstreetcn.com/articles/3742652)
-Token length: 638
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [哈梅内伊表态拒绝“霸凌国家”的要求，美方再威胁：不谈就打](https://m.thepaper.cn/detail/30347679)
-Token length: 4182
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [“月薪5000，消费3万”？赢在起跑线的县城贵妇，不去北上广](https://www.36kr.com/p/3197584543104644)
-Token length: 4425
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [有多少外资参与本轮中国资产重估？](https://wallstreetcn.com/articles/3742641)
-Token length: 80
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [60万负债靠开货车扛起家的单亲妈妈，收到了特别的“生日礼物”](https://m.thepaper.cn/detail/30342173)
-Token length: 1221
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [马上评丨检察监督动真碰硬，对每一个当事人负责](https://m.thepaper.cn/detail/30341431)
-Token length: 3659
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [京沪二手房业务上线，自如要抢卖房生意](https://www.36kr.com/p/3197090229288326)
-Token length: 163
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [There Is a Liberal Answer to Elon Musk](https://www.nytimes.com/2025/03/09/opinion/musk-trump-doge-abundance-agenda.html)
-Token length: 59
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A Supreme Court Case Threatens the Church-State Divide](https://www.nytimes.com/2025/03/09/opinion/school-catholic-supreme-court-constitution.html)
-Token length: 1384
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [IPO周报：毅合捷撤单，监管曾三度问询技术先进性和业绩可持续性](https://www.yicai.com/news/102502889.html)
-Token length: 1346
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [溢价从高位回落，部分QDII调整限购政策](https://www.yicai.com/news/102502894.html)
-Token length: 1834
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [如何干好今年财政工作？全国人大财经委给出六大建议](https://www.yicai.com/news/102502900.html)
-Token length: 4650
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [她们的故事｜从短剧演员到月入5万的主播，00后女性探索职场新赛道](https://www.yicai.com/news/102502758.html)
-Token length: 2263
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [议事时刻｜打破数据壁垒，探索可信数据空间建设](https://www.yicai.com/news/102502886.html)
-Token length: 140
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How Would Peacekeeping Work in Ukraine? These Experts Gamed It Out.](https://www.nytimes.com/2025/03/09/world/europe/ukraine-peace-plan-russia-war.html)
-Token length: 173
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [He Was Once a Covert Taliban Operative. Now He’s the Friendly Taxman.](https://www.nytimes.com/2025/03/09/world/asia/afghanistan-taliban-economy.html)
-append_entries: 19
-Finish: 2025-03-09 08:13:37.114361
+Append: [Manus“崩盘”了？](https://www.36kr.com/p/3197349181750913)
+append_entries: 5
+Finish: 2025-03-09 10:10:52.594848
