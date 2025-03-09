@@ -1,20 +1,60 @@
 ------------------------------------------------------
-Started: 2025-03-09 10:10:45.351216
-Existing_entries: 19
+Started: 2025-03-09 12:16:11.370059
+Existing_entries: 5
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}
-Append: [陆家嘴金融沙龙聚焦AI+千行百业，探讨垂直应用与技术伦理](https://www.yicai.com/news/102503017.html)
-Token length: 2420
+Token length: 133
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [周末闲聊：速胜论和速败论](https://www.huxiu.com/article/4101778.html)
-Token length: 2731
+Append: [GitHub ‧ Trending Monthly](https://tophub.today/n/n3moBYVeN5)
+Token length: 207
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [盘点特朗普关税，未来有何新威胁？4月2日见分晓](https://www.yicai.com/news/102502964.html)
-Token length: 2262
+Append: [Violence Sweeps Coastal Syria, Sowing Chaos: ‘We Have to Get Out of Here’](https://www.nytimes.com/2025/03/09/world/middleeast/syria-violence.html)
+Token length: 3045
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [关税政策引发市场动荡，特朗普的关税政策何时可能收手？](https://www.yicai.com/news/102502910.html)
-Token length: 4355
+Append: [外资期待稳增长政策加码，关注消费、房地产领域支持政策](https://www.yicai.com/news/102503062.html)
+Token length: 215
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Manus“崩盘”了？](https://www.36kr.com/p/3197349181750913)
-append_entries: 5
-Finish: 2025-03-09 10:10:52.594848
+Append: [住建部：2000年以前建成的老旧小区纳入城市更新改造范围](https://www.yicai.com/news/102502937.html)
+Token length: 100
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [住建部：住宅层高标准将调整为不低于3米丨一手](https://www.yicai.com/video/102503018.html)
+Token length: 52
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Kennedy Wants to Cure Chronic Disease. Here’s What He’s Up Against.](https://www.nytimes.com/2025/03/09/opinion/maha-chronic-disease.html)
+Token length: 221
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [人社部部长：推动工资分配向生产一线和急需紧缺的技能人才倾斜](https://www.yicai.com/news/102502973.html)
+Token length: 599
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [住建部部长：继续打好保交房攻坚战，坚决稳住楼市](https://www.yicai.com/news/102502988.html)
+Token length: 3046
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [当消费遇上AI｜人工智能驱动储能行业变革，是共生共赢还是博弈矛盾](https://www.yicai.com/news/102503001.html)
+Token length: 1862
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [市场有望在3月下旬重拾升势，进入春季攻势第三阶段“全面反弹”](https://www.yicai.com/news/102503036.html)
+Token length: 3586
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [尹锡悦出狱，这次他能回家呆多久？](https://www.huxiu.com/article/4098055.html)
+Token length: 2151
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [华尔街最准分析师：美国距离经济衰退现在只差一个糟糕的就业数据](https://wallstreetcn.com/articles/3742656)
+Token length: 152
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [MeidasTouch Pops on Podcast Charts as Progressives Search for Answers](https://www.nytimes.com/2025/03/09/business/media/meidastouch-podcast-democrats.html)
+Token length: 186
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Canada’s Liberal Party To Elect New Leader and Prime Minister to Replace Trudeau: What to Know](https://www.nytimes.com/2025/03/09/world/canada/canada-liberal-party-leader-prime-minister-election.html)
+Token length: 130
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [A Political Reporter Takes Her Scoops to YouTube](https://www.nytimes.com/2025/03/09/business/media/tara-palmeri-youtube-substack-puck.html)
+Token length: 412
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [How the Immigration Crackdown Threatens Elderly Care](https://www.nytimes.com/video/us/100000010031085/how-the-immigration-crackdown-threatens-elderly-care.html)
+Token length: 170
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [State Republicans Eager to Climb on Cost-Cutting Bandwagon](https://www.nytimes.com/2025/03/09/us/state-doge-oklahoma.html)
+Token length: 111
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [What I Found on the 365-Mile Trail of a Lost Folk Hero](https://www.nytimes.com/2025/03/09/magazine/old-leatherman-walk-new-york-connecticut.html)
+append_entries: 18
+Finish: 2025-03-09 12:17:20.913403
