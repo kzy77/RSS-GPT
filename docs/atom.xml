@@ -2,398 +2,244 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-03-10T12:25:19Z</updated>
+    <updated>2025-03-10T14:13:42Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[一些地方招商引资非AI不谈，央媒：去一去“追星式创新”虚火]]></title>
-        <link href="https://m.thepaper.cn/detail/30349742" />
-        <id>https://m.thepaper.cn/detail/30349742</id>
-        <updated>Sun, 09 Mar 2025 21:59:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 创新焦虑, 追星式创新, 新质生产力, 因地制宜, 新旧动能转换
+        <title><![CDATA[乘联会：2025年汽车降价潮持续，新能源车平均降幅13%]]></title>
+        <link href="https://www.yicai.com/news/102504525.html" />
+        <id>https://www.yicai.com/news/102504525.html</id>
+        <updated>Mon, 10 Mar 2025 21:07:56 +0800</updated>
+        <summary type="html"><![CDATA[降价促销, 新能源车, 纯电动车, 燃油车, 市场竞争
 
 <br><br>总结:
-1. 文章指出各地存在“追星式创新”的虚火，即盲目追逐新兴产业和技术，缺乏对自身优势和条件的审视。
-2. 强调发展新质生产力不能忽视传统产业，要防止一哄而上和泡沫化，并要根据各地资源禀赋、产业基础、科研条件等有选择地推动发展。
-3. 强调中国之大，在于各地各有特色、各有所长，要处理好“大”和“小”的关系，以“全局”视角定位“一地”。
-4. 新旧动能转换不是非此即彼的对立关系，而是破立有序的整体规划，要统筹传统产业转型升级和战略性新兴产业培育壮大。
-5. 学习杭州“六小龙”的关键在于其优越的营商环境和政府的长期支持，各地应坚持做“有事就服务，无事不打扰”的“小透明”。
+1. 2025年汽车市场降价促销力度强劲，新车普遍降价，尤其新能源车。
+2. 1-2月平均降价幅度达3万元，乘用车降幅12.6%，新能源车降幅13%，纯电动车型降幅最高，达17%。
+3. 燃油车因老龄化和缺少产品力提升空间，只能依靠降价促销。
+4. 车企通过金融免息等多种方式促销，加剧市场竞争。
+5. 部分纯电动车型降价幅度超过20%，插混车型降幅相对较小。
+6. 预计3月后，随着政策补贴和市场回暖，价格战压力将有所缓解。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[本科扩招计划陆续披露：又一地方高校扩招规模超300人]]></title>
-        <link href="https://m.thepaper.cn/detail/30349177" />
-        <id>https://m.thepaper.cn/detail/30349177</id>
-        <updated>Sun, 09 Mar 2025 20:15:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 新疆大学，本科扩招，双一流，人才培养，国家战略
+        <title><![CDATA[被网友获取运行代码后，Manus终于披露基座模型是哪家]]></title>
+        <link href="https://www.yicai.com/news/102504492.html" />
+        <id>https://www.yicai.com/news/102504492.html</id>
+        <updated>Mon, 10 Mar 2025 21:05:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Manus, Claude, Qwen, 沙盒, 季逸超
 
 <br><br>总结:
-1. 新疆大学启动“优本扩容”计划，2025年本科招生人数新增355人，聚焦国家战略前沿领域，优化专业结构，强化育人资源，服务南疆发展。
-2. 新疆大学围绕“双一流”建设，动态调控招生规模，灵活配置招生资源，衔接国家战略急需领域。
-3. 新疆大学调整优化学科布局，成立新学院和新增多个博士、硕士授权点。
-4. 多所“双一流”高校已公布本科扩招消息，中国农业大学扩招500人，规模最大，其他高校扩招人数在80-300人不等。
-5. 国家发改委表示，今年力争在优质本科扩容方面再增加2万人。
+*   Manus的基座模型包括Claude Sonnet和阿里旗下Qwen的微调模型。早期因Claude 3.5 Sonnet v1能力限制，使用了大量辅助模型。
+*   网友通过/opt/.manus/获取了Manus沙盒运行代码，发现其使用Claude Sonnet以及基于它的29个工具，并利用Browser Use作为Computer Use能力底座。
+*   Manus联合创始人季逸超回应称，沙盒代码“泄露”是设计的一部分，每个对话有独立沙盒，用户可直接进入。
+*   专家分析，官方宣称用户可访问沙盒，说明这是产品设计的一部分，只是加密粗糙。
+*   Manus否认使用MCP协议连接LLM与外部资源，并表示未来计划开源部分内容。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[GitHub ‧ Trending Monthly]]></title>
-        <link href="https://tophub.today/n/n3moBYVeN5" />
-        <id>https://tophub.today/n/n3moBYVeN5</id>
-        <updated>Mon, 10 Mar 2025 20:03:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: **排名, 热度, 数据, 变化, 百万**
+        <title><![CDATA[美国楼市困局：利率回落难掩关税与成本压力]]></title>
+        <link href="https://www.yicai.com/news/102504377.html" />
+        <id>https://www.yicai.com/news/102504377.html</id>
+        <updated>Mon, 10 Mar 2025 20:39:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 房地产市场，抵押贷款利率，特朗普政策，关税，经济不确定性
 
 <br><br>总结:
-1. 文章展示了一系列排名及其对应的热度数据。
-2. 热度数据单位是“万”，从几万到数百万不等，跨度较大。
-3. 数据变化明显，排名越高，热度不一定越高，个别排名靠后的热度反而更高。
-4. 数据中包含整数、小数，并有数值缺失的情况（例如第11名）。
-5. 文章重点在于呈现数据的排名和热度，但未说明数据的具体含义和来源。
+1. 美国房地产市场在春季购房季依然疲软，房屋交易量同比下降，处于“高房价、高利率、低需求”的困境。
+2. 尽管抵押贷款利率有所下降，但可能反映了市场对经济的担忧，且对楼市的提振作用可能不及预期。
+3. 特朗普政府的关税政策可能推高房屋建造成本，加剧供应短缺，并导致建筑商面临更高的经营成本和更低的利润率。
+4. 经济不确定性、关税风险和裁员风险导致潜在买家对大额购房持谨慎态度，购房者的购买力已接近极限。
+5. 专家认为，2025年抵押贷款利率降至6%以下难度较大，年内重回2024年9月约6%的水平是可能的， 但具体路径取决于经济走势和通胀数据。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[训练成本节省40%！字节攻克关键瓶颈；华为离职“天才少年”彭志辉官宣刷屏]]></title>
-        <link href="https://www.yicai.com/news/102504361.html" />
-        <id>https://www.yicai.com/news/102504361.html</id>
-        <updated>Mon, 10 Mar 2025 19:48:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词：淘宝, 美团, 抖音, 字节跳动, 华为
+        <title><![CDATA[Everyone Has a Plan For Gaza. None of Them Add Up.]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/world/middleeast/gaza-plan-israel-hamas-ceasefire.html" />
+        <id>https://www.nytimes.com/2025/03/10/world/middleeast/gaza-plan-israel-hamas-ceasefire.html</id>
+        <updated>Mon, 10 Mar 2025 20:29:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 加沙, 战后, 方案, 中东领导人
 
 <br><br>总结:
-1.  **电商平台治理：** 淘宝加强平台治理，遏制恶意店群，维护市场秩序。抖音打击违规微短剧和财经荐股行为，维护社区环境。
-
-2.  **企业组织架构调整：** 美团调整本地商业事业部组织架构，京东成立电商新公司，广汽集团进行管理层换帅。
-
-3.  **技术创新与应用：** 字节开源MoE架构优化技术，提升大模型训练效率。阿里云中标建信金融科技智能编码项目，华为擎云PC实现核心芯片国产化，宇树科技在阿里速卖通开设官方店铺，智元发布具身智能模型，存储芯片厂商发布涨价通知。
-
-4.  **人才招聘与培养：** 字节跳动启动“筋斗云人才计划实习专项”，招聘顶尖技术学生。
-
-5.  **消费领域动态：** 京东七鲜加速仓店建设，美的被曝强制下班引发争议但公司否认，库迪咖啡成立烘焙新公司，麦当劳日本门店部分单品涨价，泰国航空禁止航班上使用充电宝，比亚迪腾势N9将于3月21日上市，小鹏汽车发布新款G6和小鹏G9，辉瑞药物获批用于多发性骨髓瘤。
+特朗普总统曾建议驱逐加沙居民。<br><br>中东领导人迅速提出战后加沙的多种方案。<br><br>这些方案对以色列或哈马斯，或双方来说，都是不可接受的。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[政策支持信号明确，业内称A股春季行情将持续]]></title>
-        <link href="https://www.yicai.com/news/102504311.html" />
-        <id>https://www.yicai.com/news/102504311.html</id>
-        <updated>Mon, 10 Mar 2025 19:42:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 政策支持, 春季行情, 科技股, 消费, 新质生产力
+        <title><![CDATA[中国石油2025年管道气定价方案出炉，下游城燃公司采购成本会否承压]]></title>
+        <link href="https://www.yicai.com/news/102504265.html" />
+        <id>https://www.yicai.com/news/102504265.html</id>
+        <updated>Mon, 10 Mar 2025 20:23:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词：管道气，定价方案，市场化，城燃企业，液化天然气
 
 <br><br>总结:
-1. 政策层面：政府工作报告强调稳楼市股市，加大政策支持力度，宏观政策适时降准降息，财政赤字率提高，释放积极信号。
-2. 市场行情：A股春季行情有望延续，而非止步于春季行情，市场风险偏好有望提升，中长期资金入市，微观流动性改善，有望震荡上行。
-3. 板块配置：消费和科技是双主线。海通证券认为春季行情或已过半程，关注消费医药、地产等板块。新质生产力相关的TMT、高端装备、新能源等行业值得关注。
-4. 科技股：自主可控AI技术给科技板块带来估值提升空间，但科技股内部或将分化，科技股和新质生产力将成为行情主线。
-5. 基本面：2月PMI数据重返扩张区间，经济基本面开局良好，未来政策面趋于向好，增量政策或将逐步落地。
+1.  中国石油发布2025-2026年度管道气定价方案，影响下游城燃企业采购价格。
+2.  新方案主要表现为非采暖季管制气比例下降，非管制气和浮动气量占比提升，市场化程度提高。
+3.  非采暖季价格或小幅上涨，城燃公司将更多受到进口LNG价格波动影响。
+4.  上游定价市场化，但下游销售价格受政府管制，城燃企业面临气价倒挂风险。
+5.  城燃企业应加强气源多元化采购，并向上游气源业务拓展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[资金“换锚”进行时：跨境投资降温、A股科技基却热到限购]]></title>
-        <link href="https://www.yicai.com/news/102504310.html" />
-        <id>https://www.yicai.com/news/102504310.html</id>
-        <updated>Mon, 10 Mar 2025 19:23:21 +0800</updated>
-        <summary type="html"><![CDATA[关键词: A股, 人工智能, 海外资金, 科技主题基金, 跨境ETF
+        <title><![CDATA[汉桑科技成年内首家创业板上会企业，连续大额分红引交易所关注]]></title>
+        <link href="https://www.yicai.com/news/102504347.html" />
+        <id>https://www.yicai.com/news/102504347.html</id>
+        <updated>Mon, 10 Mar 2025 20:23:11 +0800</updated>
+        <summary type="html"><![CDATA[IPO, 音频, 境外收入, 专利, 分红
 
 <br><br>总结:
-1. 中国市场基本面改善和人工智能叙事吸引海外资金流入，对中国股市产生较大兴趣。
-2. A股科技主题基金业绩飙升，部分绩优产品限购抑制资金涌入。
-3. 跨境ETF产品出现降温信号，高溢价收敛，部分产品重新开放申购。近一个月QDII产品出现一定赎回情况。
-4. 海外市场宏观交易难度加大，A股科技仍是全年交易核心，预计市场整体盈利增速平稳上行，行情类似2013年、2019年，或有顺周期资产补涨行情。
-5. 对A股中期表现保持乐观，外部风险阶段性扰动不改中长期趋势，科技成长板块仍是重要主线，AI产业突破不断给市场带来新催化。
+1. 汉桑科技主营音频设备及产品，境外收入占比高，主要通过香港子公司转售。
+2. 公司曾搭建红筹架构后拆除，境外业务受美国关税政策影响。
+3. 近几年业绩波动大，2023年营收和净利润下滑，2024年业绩回升。
+4. 交易所关注其创业板定位和技术创新性，公司专利数量与同行比偏少。
+5. 子公司曾连续两年大额分红，分红金额远超同期净利润，交易所已问询。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cutting Medicaid?]]></title>
-        <link href="https://www.nytimes.com/2025/03/10/briefing/republicans-medicaid.html" />
-        <id>https://www.nytimes.com/2025/03/10/briefing/republicans-medicaid.html</id>
-        <updated>Mon, 10 Mar 2025 18:43:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 共和党, 社保, 医保, 改革, 财政
+        <title><![CDATA[议事时刻 | 雷军、靳东因AI换脸、换声登上热搜，AI治理道阻且长]]></title>
+        <link href="https://www.yicai.com/news/102504190.html" />
+        <id>https://www.yicai.com/news/102504190.html</id>
+        <updated>Mon, 10 Mar 2025 20:11:44 +0800</updated>
+        <summary type="html"><![CDATA[AI治理, AI安全, AI换脸, 技术风险, 立法监管
 
 <br><br>总结:
-共和党正在考虑改革社保和医保项目，以应对日益增长的财政压力。
-可能的改革方案包括提高退休年龄，调整福利计算公式，以及限制高收入者的福利。
-这些改革旨在降低政府在社保和医保上的支出，并确保项目的长期可持续性。
-具体措施和时间表仍在讨论中，但共和党认为必须采取行动来解决财政问题。
-最终改革方案将取决于共和党内部的共识以及与民主党的谈判结果。
+1.  AI技术发展迅速，在金融、商业、医疗等领域广泛应用，但也带来了AI换脸、数据隐私、模型安全等治理和安全挑战。
+2.  两会期间，多位代表委员聚焦AI治理和安全问题，雷军建议加快AI换脸拟声技术立法，周鸿祎提出“以模制模”解决大模型安全问题，齐向东指出AI发展面临三大安全问题，建议从技术、制度、成果应用三方面提升安全能力。
+3.  AI换脸诈骗、造谣等违法犯罪行为呈上升趋势，具有迷惑性和隐蔽性，利益驱动和技术门槛降低是主要原因。
+4.  针对AI换脸，专家建议通过水印标注进行防御，但水印标注存在局限性，无法直接阻止换脸，只能事后检测和认证图像的真实性。
+5.  AI技术衍生安全风险的治理是个复杂的社会问题，需要法律法规的事前规范引导、事后监管惩戒，以及技术手段的持续投入，生成和鉴伪的对抗性强，需要不断研究、更新、迭代。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[3月10日这些公告有看头]]></title>
-        <link href="https://www.yicai.com/news/102504223.html" />
-        <id>https://www.yicai.com/news/102504223.html</id>
-        <updated>Mon, 10 Mar 2025 18:35:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：石英股份, 芯源微, 爱美客, 胜宏科技, 翔楼新材
+        <title><![CDATA[老旧小区改造加力，为何以2000年为时间界限？如何投入？]]></title>
+        <link href="https://www.yicai.com/news/102504182.html" />
+        <id>https://www.yicai.com/news/102504182.html</id>
+        <updated>Mon, 10 Mar 2025 20:11:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 老旧小区改造, 城市更新, 2000年, 资金筹措, 惠民生
 
 <br><br>总结:
-1. 石英股份澄清：与甘肃天水市麦积区签订的是石英材料产业园项目投资意向协议，并非购买石英矿的传言。
-2. 芯源微：股东先进制造拟将9.49%股份转让给北方华创，并拟通过公开征集转让方式协议转让其持有的全部股份8.41%。北方华创将积极通过参与公开挂牌竞买等方式继续增持公司股份并取得对公司的控制权。
-3. 爱美客：拟1.9亿美元收购韩国REGEN Biotech公司85%股权，该公司核心产品为可再生类注射产品。
-4. 东睦股份：拟购买上海富驰20.75%股权，交易后预计持有标的公司85%股权。
-5. ST金一：拟收购开科唯识43.18%股权并取得控制权，切入软件和信息技术服务业领域。
-6. 胜宏科技：预计2025年第一季度净利同比预增272.12%—367.54%，因把握AI算力技术革新与数据中心升级浪潮。
-7. 翔楼新材：董事、副总经理拟700万元至1300万元增持公司股票。
+*   国家大力推进城市更新，老旧小区改造是重要切口，目标是改造2000年底前建成的小区。
+*   改造重点是基础设施，解决居民急难愁盼问题，如养老、托育等需求。
+*   资金来源多样，包括政府投入、居民出资、社会资本参与，鼓励探索居民自主更新。
+*   各地积极探索资金筹集渠道，如发行地方政府专项债券，动员居民出资等。
+*   未来需关注已改造小区的升级需求，明确2000年后建成小区改造的政府投入和产权人责任，挖掘低效资源。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[龙虎榜丨机构今日抛售这15股，买入东威科技2.61亿元]]></title>
-        <link href="https://www.yicai.com/news/102504186.html" />
-        <id>https://www.yicai.com/news/102504186.html</id>
-        <updated>Mon, 10 Mar 2025 18:17:58 +0800</updated>
-        <summary type="html"><![CDATA[龙虎榜, 机构, 净买入, 净卖出, 个股
+        <title><![CDATA[超10所双一流高校密集宣布本科扩招，清北上交均增150人]]></title>
+        <link href="https://www.yicai.com/news/102504224.html" />
+        <id>https://www.yicai.com/news/102504224.html</id>
+        <updated>Mon, 10 Mar 2025 20:10:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 优质本科扩容, 双一流高校, 人工智能, 学科交叉, 国家战略
 
 <br><br>总结:
-1. 3月10日龙虎榜中，共32只个股出现机构身影，其中17只净买入，15只净卖出。
-2. 机构净买入前三股票为东威科技（2.61亿元）、金帝股份（8676万元）、海优新材（6669万元）。
-3. 机构净卖出前三股票为深桑达A（2.13亿元）、东方集团（1.51亿元）、高能环境（1亿元）。
+1.  国家层面：2025年将在去年扩招1.6万人的基础上，力争再增加“双一流”高校本科招生规模2万人，扎实推进优质本科扩容。
+2.  高校层面：清华、北大、上海交大等超过10所双一流大学密集宣布扩招，名额主要投向国家战略急需、基础学科、新兴前沿领域。
+3.  专业方向：扩招重点面向人工智能、集成电路、生物医药等前沿技术和新兴业态，构建“人工智能+”交叉学科体系，培养复合型人才。
+4.  根本目的：旨在扩大优质教育资源的覆盖面，满足国家战略和经济社会发展需要，助力国家创新能力提升。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Zelensky Is Set to Meet With Saudi Crown Prince Before U.S.-Ukraine Talks]]></title>
-        <link href="https://www.nytimes.com/2025/03/10/us/politics/zelensky-saudi-arabia-prince-ukraine-meeting.html" />
-        <id>https://www.nytimes.com/2025/03/10/us/politics/zelensky-saudi-arabia-prince-ukraine-meeting.html</id>
-        <updated>Mon, 10 Mar 2025 18:17:27 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 乌克兰, 俄罗斯, 战争, 和谈, 沙特阿拉伯
+        <title><![CDATA[国泰航空来内地“抢人”，困扰航空业恢复的人力瓶颈怎样了]]></title>
+        <link href="https://www.yicai.com/news/102504267.html" />
+        <id>https://www.yicai.com/news/102504267.html</id>
+        <updated>Mon, 10 Mar 2025 20:10:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 招聘, 人力瓶颈, 航班恢复, 航空公司, 疫情
 
 <br><br>总结:
-1. 乌克兰总统正在寻求结束与俄罗斯战争的有利协议。
-2. 沙特阿拉伯已成为莫斯科和基辅之间谈判的主办国。
-3. 美国特朗普政府正在积极推动这一谈判。
+1. 疫情后各航空公司积极招聘一线员工，特别是空乘和飞行员，以应对疫情期间的人员流失。
+2. 国泰航空加大对内地员工的招聘力度，计划到2025年内地空乘达到1000-2000人，并有内地见习飞行员接受培训。
+3. 人力瓶颈仍然是航司和机场恢复航班、提高飞机利用率的阻碍，影响亚洲航线开拓和日本中小机场增班。
+4. 美国空管人员短缺导致航班延误和取消，影响乘客出行。
+5. 飞机制造供应链也受人力瓶颈影响，导致零部件供应受限和飞机交付延迟。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国衰退担忧笼罩，盘前三大期指跌幅扩大，特斯拉跌逾2%，欧股转跌]]></title>
-        <link href="https://wallstreetcn.com/articles/3742697" />
-        <id>https://wallstreetcn.com/articles/3742697</id>
-        <updated>Mon, 10 Mar 2025 17:08:17 +0800</updated>
-        <summary type="html"><![CDATA[经济担忧, 美股期指, 中概股, 欧股, 日债收益率
+        <title><![CDATA[Book Review: ‘Careless People,’ by Sarah Wynn-Williams]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html" />
+        <id>https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html</id>
+        <updated>Mon, 10 Mar 2025 20:07:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Facebook, 回忆录, 领导, 专制政权, 合作
 
 <br><br>总结:
-1. 市场对美国经济健康状况的担忧加剧，导致投资者风险偏好降低，美国三大股指期货集体下跌。
-2. 中概股、半导体股和特斯拉等个股在美股盘前普遍下跌。
-3. 欧洲股市也跟随下跌，德国DAX指数、欧洲斯托克50指数等均出现跌幅。
-4. 亚太市场涨跌互现，日经225指数小幅上涨。
-5. 日本基本工资涨幅创新高，推动日本国债收益率进一步上升，美元指数则跌至近期低点，油价也一度下跌。
+1. 这是一本前Facebook高管的回忆录。
+2. 这本书名为《粗心的人》。
+3. 书中描述了Facebook领导层与专制政权之间的暧昧关系。
+4. 书中批评这些领导人不负责任。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trial Set for Men Accused of Targeting Iranian Dissident in New York]]></title>
-        <link href="https://www.nytimes.com/2025/03/10/nyregion/iran-dissident-new-york-trial-masih-alinejad.html" />
-        <id>https://www.nytimes.com/2025/03/10/nyregion/iran-dissident-new-york-trial-masih-alinejad.html</id>
-        <updated>Mon, 10 Mar 2025 15:00:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 谋杀, 雇佣, 马西·阿丽内贾德, 伊朗, 批评
+        <title><![CDATA[叙利亚危局：宗派冲突已致上千人丧生，前政权与现政权互不信任]]></title>
+        <link href="https://m.thepaper.cn/detail/30354083" />
+        <id>https://m.thepaper.cn/detail/30354083</id>
+        <updated>Mon, 10 Mar 2025 17:10:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 叙利亚, 宗派冲突, 阿拉维派, 过渡政府, 外部势力
 
 <br><br>总结:
-要点1: 检察官指控几名男子参与了一起针对马西·阿丽内贾德的雇佣谋杀计划。
-要点2: 该审判预计将揭示伊朗政府试图惩罚批评者的努力。
-要点3: 伊朗的惩罚行动不限于国内，而是延伸到国外。
+1. 叙利亚爆发大规模宗派冲突，起因是过渡政府安全人员遭前政权武装袭击，随后冲突升级，造成上千人死亡，是政权更迭以来最严峻的安全事件。
+2. 阿拉维派是前政权的主要支持者，他们不信任逊尼派主导的过渡政府，导致冲突爆发。该派别认为政府对阿拉维派进行了大规模屠杀，冲突也加深了双方的矛盾。
+3. 叙利亚过渡政府面临前政权残余势力及其背后的外部势力，叙过渡时期总统宣布成立委员会调查事件并与民众沟通。
+4. 外部势力如俄罗斯、土耳其等在叙利亚有地缘政治利益争夺，邻国也担心叙利亚局势影响自身稳定，多国在约旦召开会议，商讨合作打击极端组织等问题。
+5. 分析认为，叙利亚需要和解，逊尼派过渡政府需与阿拉维派接触，并构建强大的政府和军队，与各方进行长期斗争与谈判，同时需要与土耳其、以色列等域外国家合作。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[高盛一文总结美股“雪崩”十大原因，衰退担忧位居榜首！]]></title>
-        <link href="https://wallstreetcn.com/articles/3742691" />
-        <id>https://wallstreetcn.com/articles/3742691</id>
-        <updated>Mon, 10 Mar 2025 14:39:16 +0800</updated>
-        <summary type="html"><![CDATA[美股, 下跌, 高盛, 对冲基金, 原因
+        <title><![CDATA[【社论】“国家喊你减肥”是件严肃的事]]></title>
+        <link href="https://m.thepaper.cn/detail/30354433" />
+        <id>https://m.thepaper.cn/detail/30354433</id>
+        <updated>Mon, 10 Mar 2025 17:10:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词：体重管理, 慢性病, 健康中国, 公共卫生, 全民健身
 
 <br><br>总结:
-1. 上周美股普跌，标普500指数跌近3%，科技、金融、可选消费板块抛售严重。
-2. 高盛总结美股下跌的十大原因：增长担忧、关税问题、AI重定价、全球复杂性、技术面疲软、系统性抛售、仓位过高、流动性挑战、长期投资者降低风险敞口、消费者困境、季节性因素。
-3. 对冲基金加速做空，总风险敞口创新高，净风险敞口持续萎缩。
-4. 未来一周重点关注关税消息、卖方会议季、CPI数据以及美联储静默期。
-5. 3月14日前标普500指数隐含波动率为3%。
+1.  国家卫健委启动“体重管理年”行动，旨在提高全民对体重管理的重视，并将其纳入国家议程，是慢性病防控的重要措施。
+2.  中国超重和肥胖人口比例高，肥胖增加多种疾病风险，而慢性病负担已占总疾病负担的70%以上，影响健康预期寿命。
+3.  “体重管理年”活动，倡导健康生活方式，如推广“一秤一尺一日历”，推动健康食堂建设，保障学生运动时间，从社会支持上提供便利。
+4.  体重管理涉及多部门协作，形成全民健身氛围，提升全民体重管理意识和技能，预防和控制超重肥胖，推动慢性病防治关口前移。
+5.  中国健康政策正从“以治病为中心”向“以健康为中心”转变，体重管理是严肃的国家议程，需要全社会共同努力构建健康的社会氛围。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[AI芯片需求依旧坚挺！台积电2月营收再加速，同比大幅增长43%]]></title>
-        <link href="https://wallstreetcn.com/articles/3742689" />
-        <id>https://wallstreetcn.com/articles/3742689</id>
-        <updated>Mon, 10 Mar 2025 14:14:37 +0800</updated>
-        <summary type="html"><![CDATA[台积电, 2月营收, AI需求, 晶圆厂, 股价
-
-<br><br>总结:
-*   台积电2月营收2600.1亿元新台币，同比增速43.1%，刷新历史纪录，累计销售额同比增长39.2%。
-*   尽管一季度受地震影响，预计损失53亿元新台币，但AI需求强劲推动营收增长。
-*   台积电计划在美国扩大投资，包括兴建三座新晶圆厂等，总投资额已达1650亿美元。
-*   预计2026年N2节点工艺营收将达到300亿美元，占总收入比重达到22.5%。
-*   台积电股价近期下跌，但分析认为其先进技术和市场地位使其成为长期稳健的投资对象。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[比亚迪暗度陈仓]]></title>
-        <link href="https://www.36kr.com/p/3199020782485125" />
-        <id>https://www.36kr.com/p/3199020782485125</id>
-        <updated>Mon, 10 Mar 2025 11:48:09 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 比亚迪, 智能化, 智驾, 高端化, 价格
-
-<br><br>总结:
-1.  比亚迪通过电动化布局在平价车市场占据优势，但智能化进展较慢，面临智能驾驶功能影响购车决策的挑战。
-
-2.  智驾系统成本下降，向平价车型渗透，比亚迪推出“全民智驾”战略，降低智驾车型门槛，巩固基本盘市场份额。
-
-3.  比亚迪推出A/B/C三套智驾方案，以20万元为界，区分城市NOA和高速NOA功能，旨在提升中高端车型销量。
-
-4.  比亚迪面临高端市场份额下滑的困境，希望通过智驾系统下放，提升比亚迪品牌高端化形象，提高单车均价和利润。
-
-5.  比亚迪在智能化方面投入巨大，研发费用激增，需在20万元以上市场取得突破，实现高端化目标。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何破解普职分流焦虑？委员建议优化招生制度，“分轨不分流”]]></title>
-        <link href="https://m.thepaper.cn/detail/30352449" />
-        <id>https://m.thepaper.cn/detail/30352449</id>
-        <updated>Mon, 10 Mar 2025 10:22:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词：职普融通, 分流焦虑, 单向流动, 立交桥, 含金量
-
-<br><br>总结:
-1.  职业教育被视为“低层次教育”，社会观念难以转变，需完善学历层次体系，鼓励高职升本，试点职业研究生教育，消除与普通教育的分层。
-2.  中考高考压力下的“分流焦虑”依旧存在，需建立有别于考试选拔的招生体系，结合技能和职业倾向测试，提升职业教育吸引力。
-3.  职普“单向流动”未改变，需搭建融通发展的“立交桥”，加强资源共享和学分互认，允许学生“转轨”和“回流”，实现真正融通。
-4.  职业教育就业优势未充分发挥，需打造独特“含金量”，构建贯通式培养模式，适应行业变化，为社会观念转变奠定基础。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[马克·卡尼当选加拿大执政党新党首，将接替特鲁多出任总理]]></title>
-        <link href="https://m.thepaper.cn/detail/30351829" />
-        <id>https://m.thepaper.cn/detail/30351829</id>
-        <updated>Mon, 10 Mar 2025 06:38:45 +0800</updated>
-        <summary type="html"><![CDATA[加拿大，自由党，卡尼，总理，特鲁多
-
-<br><br>总结:
-1. 马克·卡尼赢得加拿大自由党领袖选举，将取代特鲁多成为新总理。
-2. 卡尼并非传统政治家，曾任职高盛、加拿大银行行长和英国央行行长，以及联合国气候特使。
-3. 特鲁多于1月6日宣布辞去自由党领袖职务，卡尼随后参选并胜出。
-4. 卡尼将成为加拿大历史上首位从未担任过民选职位的总理。
-5. 卡尼可能在就任总理后立即宣布举行大选，原定大选时间为今年10月。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[关键词：科学上网，Cloudflare，隧道，CDN，保活  
-
-<br><br>总结:  
-1. 登录：使用 s*.serv00.com 等域名进行登录，如被墙可设置系统代理。  
-2. 科学上网节点搭建：需初始化系统，重置端口并安装相关脚本。  
-3. Cloudflare固定隧道：在已托管到Cloudflare的域名下新建隧道，设置为HTTP类型，并输入隧道的域名和令牌。  
-4. CDN回源：添加解析记录和回源规则，以确保流量导向正确的端口。  
-5. 网页保活：通过特定指令管理节点和订阅信息。  
-6. Cloudflare远程保活：新建Worker，粘贴并修改保活代码，设置触发频率以确保服务持续可用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、视频教程
-
-总结:
-本文介绍了如何注册US.KG免费域名并将其托管到Cloudflare。首先要注册账号，验证邮箱并进行KYC验证，然后输入域名前缀进行注册。最后将域名托管到Cloudflare，添加域并输入分配的名称服务器。通过这些步骤，你可以成功注册并使用US.KG域名。详细操作步骤可在相关的视频教程中找到。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek、网页端、API、本地部署、应用
-
-<br><br>总结：
-1. 介绍了Deepseek的概念和用途，强调其在信息检索等方面的应用。
-2. 深入探讨了Deepseek的网页端和手机客户端，用户可以通过官方网站或应用商店获取。
-3. 介绍了Deepseek API，用户可使用手机号注册并获得体验金，有效期一个月，可用于多种应用场景如翻译和词典。
-4. 提到了第三方应用（如Chatbox等）使用Deepseek的情况，展示其灵活性和适用范围。
-5. 提供了本地部署的步骤，包括下载Ollama、运行指令以及如何使用Chatbox，旨在帮助用户充分利用Deepseek的功能。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Serv00、代理节点、Cloudflare Argo、保活、SSH登录<br><br>总结:<br>1. 开场介绍了视频的内容安排，接着详细讲解了搭建Serv00节点的方法，并说明了注册与登录的步骤。<br>2. 视频中展示了如何搭建代理节点，以便更好地访问所需的服务。<br>3. 重点讲解了Cloudflare Argo固定隧道的设置，前提是需要有域名并托管在Cloudflare上。<br>4. 介绍了隧道的设置步骤以及如何获取Token，确保能够正确配置。<br>5. 最后，讨论了SSH登录的方法，包括使用未被封IP的域名进行访问，或通过SSH客户端设置系统代理。同时，提醒注意通过GitHub下载SSH客户端，以保证安全。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[关键词：降智表现, 科学上网, IP节点, 测试结果, 搭建方法
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[关键词：免费域名、Cloudflare、身份信息生成器、注册账号、托管
 
 <br><br>总结: 
-1. ChatGPT在特定情况下可能出现降智表现，包括不执行命令、无法使用工具、拒绝深度思考等问题。
-2. 为了解决这些问题，建议更换其他IP的科学上网节点。
-3. 提供了一些节点的实际测试结果，如甲骨文云和谷歌云的不同节点表现。
-4. 对于Serv00，部分节点表现降智，部分节点则未受影响。
-5. 介绍了如何修改Serv00的节点IP，推荐使用Serv00-Play脚本进行搭建，并提供了搭建方法及相关视频链接。]]></summary>
+1. US.KG域名无法注册，建议寻找其他免费域名注册服务，并确保其支持Cloudflare托管。
+2. 可以使用身份信息生成器来辅助填写注册所需的身份信息，方便创建账户。
+3. 在注册域名时，输入优惠码（newuser）可享受一年免费域名的福利。
+4. 注册完成后，需登录Cloudflare并添加所注册的域名，将Cloudflare分配的两个名称服务器填入域名的管理界面。
+5. 详细的操作步骤和教程可以在相关的YouTube视频中查看，视频时间线清晰标示每一个重要环节。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek-R1，羊毛汇总，免费体验，API客户端，搜索工具  
+
+<br><br>总结:  
+1. Deepseek-R1满血版的免费使用活动汇总，涵盖了多个主流大厂的服务。  
+2. OpenRouter提供低速率版免费使用，微软Azure暂时免费但需要绑定信用卡。  
+3. 硅基流动可以获得2000万token的免费使用，百度千帆在2月18日前提供免费体验。  
+4. 腾讯云与英伟达分别在2月25日前和普通邮箱用户赠送1000次的免费调用，企业邮箱可得5000次。  
+5. 火山方舟给予50万token的免费，阿里云百炼则提供100万token，有效期为180天。  
+6. 推荐优质API客户端如Cherry Studio、Chatbox与Chatwise，以及搜寻工具如秘塔AI、纳米AI与Perplexity等。]]></summary>
     </entry>
     
 </feed>
