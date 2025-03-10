@@ -1,30 +1,35 @@
 ------------------------------------------------------
-Started: 2025-03-10 20:13:20.044832
-Existing_entries: 12
+Started: 2025-03-10 22:11:21.140274
+Existing_entries: 8
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 185
+Token length: 207
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [L.A. Prosecutor Says He Opposes Releasing the Menendez Brothers](https://www.nytimes.com/2025/03/10/us/menendez-brothers-resentencing.html)
-Token length: 190
+Append: [Trump Seeks to Expel a Green Card Holder, Mahmoud Khalil, Over Student Protests](https://www.nytimes.com/2025/03/10/us/trump-rubio-khalil-columbia-student-protests.html)
+Token length: 142
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Ukraine Must Cede Territory in Any Peace Deal, Rubio Says](https://www.nytimes.com/2025/03/10/us/politics/rubio-ukraine-russia.html)
-Token length: 169
+Append: [Trump Has Said ‘No Exceptions’ to His Tariffs. Will That Last?](https://www.nytimes.com/2025/03/10/business/economy/trump-tariffs-exceptions.html)
+Token length: 142
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [‘Anchors, Under Your Desks!’: Tornado Hits Orlando TV Station](https://www.nytimes.com/2025/03/10/us/florida-tornado-orlando-tv-station.html)
-Token length: 174
+Append: [Pressed by Republicans, D.C. Begins Removing Black Lives Matter Mural](https://www.nytimes.com/2025/03/10/us/politics/black-lives-matter-mural-dc.html)
+Token length: 150
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [U.S. Energy Secretary Pledges to Reverse Focus on Climate Change](https://www.nytimes.com/2025/03/10/climate/energy-secretary-climate-change-fossil-fuels.html)
-Token length: 116
+Append: [Elon Musk and Marco Rubio Share Awkward Social Media Embrace After White House Confrontation](https://www.nytimes.com/2025/03/10/us/politics/musk-rubio-usaid-cuts.html)
+Token length: 208
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A Young Prince of Luxembourg Dies of a Rare Genetic Disease](https://www.nytimes.com/2025/03/10/world/europe/prince-frederik-luxembourg-dead.html)
-Token length: 3275
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 121
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [8000亿武装欧洲：欧盟还能重演“危机中雄起”的历史吗？](https://m.thepaper.cn/detail/30352918)
-Token length: 1095
+Append: [Pope Francis No Longer in Immediate Danger From Pneumonia, Vatican Says](https://www.nytimes.com/2025/03/10/world/europe/pope-improved-pneumonia-vatican.html)
+Token length: 143
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [言短意长｜“合肥常住人口破千万”为何受关注？](https://m.thepaper.cn/detail/30355585)
-Token length: 2165
+Append: [Washington Post Columnist Quits After Article Criticizing Jeff Bezos Is Shelved](https://www.nytimes.com/2025/03/10/business/media/washington-post-ruth-marcus-resigns.html)
+Token length: 191
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [‌住宅层高迈入3米时代！已有多地先行调整，对行业有何影响？](https://m.thepaper.cn/detail/30355246)
-append_entries: 8
-Finish: 2025-03-10 20:13:29.695792
+Append: [Eric Schmidt Joins Relativity Space as C.E.O.](https://www.nytimes.com/2025/03/10/technology/eric-schmidt-relativity-space.html)
+Token length: 144
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Syrian Government Signs Breakthrough Deal with Kurdish-Led Forces](https://www.nytimes.com/2025/03/10/world/middleeast/syria-kurds-agreement.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [UFC CEO Dana White’s Embrace of Andrew Tate Tests Trump Supporters’ Limits](https://www.nytimes.com/2025/03/10/style/andrew-tate-dana-white-ufc-trump.html)
+append_entries: 10
+Finish: 2025-03-10 22:11:30.569923
