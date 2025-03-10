@@ -2,212 +2,279 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 10 Mar 2025 14:12:29 GMT</updated>
+    <updated>Mon, 10 Mar 2025 16:13:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[乘联会：2025年汽车降价潮持续，新能源车平均降幅13%]]></title>
-        <link href="https://www.yicai.com/news/102504525.html" />
-        <id>https://www.yicai.com/news/102504525.html</id>
-        <updated>Mon, 10 Mar 2025 21:07:56 +0800</updated>
-        <summary type="html"><![CDATA[降价促销, 新能源车, 纯电动车, 燃油车, 市场竞争
+        <title><![CDATA[抛开美国独立自主，欧洲需要破除三大心魔]]></title>
+        <link href="https://www.huxiu.com/article/4105349.html" />
+        <id>https://www.huxiu.com/article/4105349.html</id>
+        <updated>Mon, 10 Mar 2025 22:31:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普，乌克兰，欧洲，美国，俄罗斯
 
 <br><br>总结:
-1. 2025年汽车市场降价促销力度强劲，新车普遍降价，尤其新能源车。
-2. 1-2月平均降价幅度达3万元，乘用车降幅12.6%，新能源车降幅13%，纯电动车型降幅最高，达17%。
-3. 燃油车因老龄化和缺少产品力提升空间，只能依靠降价促销。
-4. 车企通过金融免息等多种方式促销，加剧市场竞争。
-5. 部分纯电动车型降价幅度超过20%，插混车型降幅相对较小。
-6. 预计3月后，随着政策补贴和市场回暖，价格战压力将有所缓解。
+1. 特朗普试图从乌克兰撤军，并将战争责任归咎于泽连斯基和欧洲。美国主要关注点是中国，不愿继续在乌克兰消耗资源。
+2. 欧洲希望延长战争，让美国继续提供支持，并提出了包含继续军援、确保乌克兰参与和谈、增强乌克兰防御能力、欧洲国家部署维和部队的“和平协议”，但缺乏美国的支持，这些措施难以实现。
+3. 俄罗斯在消耗战中占据优势，针对俄罗斯的经济制裁效果有限，欧洲自身国防工业基础薄弱，难以依靠美国。
+4. 短期内，美国希望欧洲牵制俄罗斯，自身专注应对中国。长期来看，欧洲需要构建自身独立能力，与俄罗斯达成协议，并重新规划地缘经济未来。
+5. 欧洲需要克服反俄情绪、接受战败现实、调整欧洲中心主义，正视亚洲崛起，抓住发展机遇。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[被网友获取运行代码后，Manus终于披露基座模型是哪家]]></title>
-        <link href="https://www.yicai.com/news/102504492.html" />
-        <id>https://www.yicai.com/news/102504492.html</id>
-        <updated>Mon, 10 Mar 2025 21:05:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Manus, Claude, Qwen, 沙盒, 季逸超
-
-<br><br>总结:
-*   Manus的基座模型包括Claude Sonnet和阿里旗下Qwen的微调模型。早期因Claude 3.5 Sonnet v1能力限制，使用了大量辅助模型。
-*   网友通过/opt/.manus/获取了Manus沙盒运行代码，发现其使用Claude Sonnet以及基于它的29个工具，并利用Browser Use作为Computer Use能力底座。
-*   Manus联合创始人季逸超回应称，沙盒代码“泄露”是设计的一部分，每个对话有独立沙盒，用户可直接进入。
-*   专家分析，官方宣称用户可访问沙盒，说明这是产品设计的一部分，只是加密粗糙。
-*   Manus否认使用MCP协议连接LLM与外部资源，并表示未来计划开源部分内容。
+        <title><![CDATA[AI大模型落地遇冷，金融机构加速探索技术路径]]></title>
+        <link href="https://www.yicai.com/news/102504680.html" />
+        <id>https://www.yicai.com/news/102504680.html</id>
+        <updated>Mon, 10 Mar 2025 22:26:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大模型, 金融机构, 应用效果, 幻觉, RAG<br><br>总结:
+1.  金融机构竞相接入大模型，但应用效果不理想，面临效率瓶颈、技术局限和“幻觉”问题。
+2.  大模型在金融领域的应用效率低，生成内容需大量人工干预，可靠性不如人工处理，且主要集中在边缘业务。
+3.  AI大模型存在“高投入、低产出”的瓶颈，硬件投入增加但业务效率提升不明显，部分系统存在漏洞修复问题。
+4.  AI大模型的“幻觉”问题是行业关注焦点，由训练数据质量、金融领域复杂性和模型架构设计等因素共同作用。
+5.  金融机构和科技企业探索解决方案，如RAG（搜索增强生成）、高质量指令参数数据集、定制化训练与场景优化，以及数据安全与合规方法。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国楼市困局：利率回落难掩关税与成本压力]]></title>
-        <link href="https://www.yicai.com/news/102504377.html" />
-        <id>https://www.yicai.com/news/102504377.html</id>
-        <updated>Mon, 10 Mar 2025 20:39:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 房地产市场，抵押贷款利率，特朗普政策，关税，经济不确定性
+        <title><![CDATA[今年首批储蓄国债10日起发行，又见“秒光”]]></title>
+        <link href="https://www.yicai.com/news/102504583.html" />
+        <id>https://www.yicai.com/news/102504583.html</id>
+        <updated>Mon, 10 Mar 2025 22:26:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 储蓄国债，利率，银行，额度，抢购
 
 <br><br>总结:
-1. 美国房地产市场在春季购房季依然疲软，房屋交易量同比下降，处于“高房价、高利率、低需求”的困境。
-2. 尽管抵押贷款利率有所下降，但可能反映了市场对经济的担忧，且对楼市的提振作用可能不及预期。
-3. 特朗普政府的关税政策可能推高房屋建造成本，加剧供应短缺，并导致建筑商面临更高的经营成本和更低的利润率。
-4. 经济不确定性、关税风险和裁员风险导致潜在买家对大额购房持谨慎态度，购房者的购买力已接近极限。
-5. 专家认为，2025年抵押贷款利率降至6%以下难度较大，年内重回2024年9月约6%的水平是可能的， 但具体路径取决于经济走势和通胀数据。
+1.  2025年首批储蓄国债（凭证式）于3月10日发行，3年期和5年期利率分别为1.93%和2%，发行总额300亿。
+2.  尽管利率下行，储蓄国债利率仍高于银行定存，吸引大量居民，尤其老年人“抢购”。
+3.  国有大行额度紧张，部分网点开门即售罄；股份行额度相对充足，部分银行实行全行共享额度。
+4.  储蓄国债安全性高、收益稳定、变现灵活、门槛低，适合稳健型投资者，但不能更名或流通转让。
+5.  提前兑取需支付手续费，并按持有时间靠档计息，不满半年不计息。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Everyone Has a Plan For Gaza. None of Them Add Up.]]></title>
-        <link href="https://www.nytimes.com/2025/03/10/world/middleeast/gaza-plan-israel-hamas-ceasefire.html" />
-        <id>https://www.nytimes.com/2025/03/10/world/middleeast/gaza-plan-israel-hamas-ceasefire.html</id>
-        <updated>Mon, 10 Mar 2025 20:29:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普, 加沙, 战后, 方案, 中东领导人
+        <title><![CDATA[债市继续调整，有理财公司鼓励增加权益直投]]></title>
+        <link href="https://www.yicai.com/news/102504670.html" />
+        <id>https://www.yicai.com/news/102504670.html</id>
+        <updated>Mon, 10 Mar 2025 22:25:44 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 国债收益率，债市调整，债基赎回，股债跷跷板，理财产品
 
 <br><br>总结:
-特朗普总统曾建议驱逐加沙居民。<br><br>中东领导人迅速提出战后加沙的多种方案。<br><br>这些方案对以色列或哈马斯，或双方来说，都是不可接受的。
+1. 10年期和30年期国债收益率分别升破1.8%和2%关口，债市出现大幅调整，源于股市上涨和宽松预期退潮，以及政府债供给增加。
+2. 债基面临赎回压力，公募基金是主要卖出方，而险资则逢低买入长债。
+3. 央行行长讲话被市场解读为降息空间有限，加剧了债市的调整。
+4. 理财产品收益率承压，固收类产品平均收益率跌破3%，部分理财公司开始重新关注权益直投。
+5. 未来债市面临供给压力和经济上行带来的不利影响，债券价格可能下跌。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中国石油2025年管道气定价方案出炉，下游城燃公司采购成本会否承压]]></title>
-        <link href="https://www.yicai.com/news/102504265.html" />
-        <id>https://www.yicai.com/news/102504265.html</id>
-        <updated>Mon, 10 Mar 2025 20:23:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词：管道气，定价方案，市场化，城燃企业，液化天然气
+        <title><![CDATA[综合整治“内卷式”竞争，纵深推进全国统一大市场建设︱法经兵言]]></title>
+        <link href="https://www.yicai.com/news/102504657.html" />
+        <id>https://www.yicai.com/news/102504657.html</id>
+        <updated>Mon, 10 Mar 2025 22:25:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 内卷式竞争, 地方政府, 企业, 制度层面, 协同治理
 
 <br><br>总结:
-1.  中国石油发布2025-2026年度管道气定价方案，影响下游城燃企业采购价格。
-2.  新方案主要表现为非采暖季管制气比例下降，非管制气和浮动气量占比提升，市场化程度提高。
-3.  非采暖季价格或小幅上涨，城燃公司将更多受到进口LNG价格波动影响。
-4.  上游定价市场化，但下游销售价格受政府管制，城燃企业面临气价倒挂风险。
-5.  城燃企业应加强气源多元化采购，并向上游气源业务拓展。
+1. “内卷式”竞争指在有限资源下，市场主体为争夺份额而陷入低效、重复甚至恶性竞争的状态，在企业和地方政府层面都有突出表现。企业层面体现在价格战、产能过剩和过度依赖营销，地方政府层面体现在低水平招商引资竞赛、产业同构和监管缺位。
+2. “内卷式”竞争的根源在于企业短视行为和地方政府政绩导向失衡，以及市场与制度层面的监管与协调机制欠缺。
+3. 解决“内卷式”竞争需要从制度层面和行为层面入手，推动企业与地方政府共同转变发展思路。
+4. 地方政府应优化政绩考核机制，加强区域协调机制，完善市场监管与执法，破除地方保护和市场分割。
+5. 企业自身应提升创新能力，加强合规经营，探索合作共赢模式，转变发展思路，摆脱短视行为。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[汉桑科技成年内首家创业板上会企业，连续大额分红引交易所关注]]></title>
-        <link href="https://www.yicai.com/news/102504347.html" />
-        <id>https://www.yicai.com/news/102504347.html</id>
-        <updated>Mon, 10 Mar 2025 20:23:11 +0800</updated>
-        <summary type="html"><![CDATA[IPO, 音频, 境外收入, 专利, 分红
+        <title><![CDATA[算法透明化重构骑手权益保障，在效率与人本之间寻找平衡点]]></title>
+        <link href="https://www.yicai.com/news/102504655.html" />
+        <id>https://www.yicai.com/news/102504655.html</id>
+        <updated>Mon, 10 Mar 2025 22:23:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 算法透明化, 骑手权益, 平台责任, 效率人本平衡, 数字契约
 
 <br><br>总结:
-1. 汉桑科技主营音频设备及产品，境外收入占比高，主要通过香港子公司转售。
-2. 公司曾搭建红筹架构后拆除，境外业务受美国关税政策影响。
-3. 近几年业绩波动大，2023年营收和净利润下滑，2024年业绩回升。
-4. 交易所关注其创业板定位和技术创新性，公司专利数量与同行比偏少。
-5. 子公司曾连续两年大额分红，分红金额远超同期净利润，交易所已问询。
+1.  **算法不透明问题**: 平台算法运行逻辑对骑手不可见、不可知、不可控，导致骑手权益受损。
+2.  **算法取中原则**: 摒弃单一效率导向，平衡多方利益，保障劳动者权益和社会公共价值。
+3.  **算法透明化目标**: 建立可解释、可参与、可追责的技术治理体系，在商业效率、消费者体验和骑手权益保障之间建立平衡。
+4.  **算法透明化实践**: 包括配送规则可知性，骑手权益保障的可操作性，风险防控的预见性，兜底保障的支撑性。
+5.  **算法透明化落地**: 需要平台技术创新、制度保障完善及社会协同治理，使技术服务于人本价值。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[议事时刻 | 雷军、靳东因AI换脸、换声登上热搜，AI治理道阻且长]]></title>
-        <link href="https://www.yicai.com/news/102504190.html" />
-        <id>https://www.yicai.com/news/102504190.html</id>
-        <updated>Mon, 10 Mar 2025 20:11:44 +0800</updated>
-        <summary type="html"><![CDATA[AI治理, AI安全, AI换脸, 技术风险, 立法监管
+        <title><![CDATA[DeepSeek在ESG实践中的问题分析]]></title>
+        <link href="https://www.yicai.com/news/102504651.html" />
+        <id>https://www.yicai.com/news/102504651.html</id>
+        <updated>Mon, 10 Mar 2025 22:23:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: DeepSeek, ESG, 披露, 模型, 训练
 
 <br><br>总结:
-1.  AI技术发展迅速，在金融、商业、医疗等领域广泛应用，但也带来了AI换脸、数据隐私、模型安全等治理和安全挑战。
-2.  两会期间，多位代表委员聚焦AI治理和安全问题，雷军建议加快AI换脸拟声技术立法，周鸿祎提出“以模制模”解决大模型安全问题，齐向东指出AI发展面临三大安全问题，建议从技术、制度、成果应用三方面提升安全能力。
-3.  AI换脸诈骗、造谣等违法犯罪行为呈上升趋势，具有迷惑性和隐蔽性，利益驱动和技术门槛降低是主要原因。
-4.  针对AI换脸，专家建议通过水印标注进行防御，但水印标注存在局限性，无法直接阻止换脸，只能事后检测和认证图像的真实性。
-5.  AI技术衍生安全风险的治理是个复杂的社会问题，需要法律法规的事前规范引导、事后监管惩戒，以及技术手段的持续投入，生成和鉴伪的对抗性强，需要不断研究、更新、迭代。
+1.  DeepSeek在ESG领域的应用潜力巨大，但直接利用其完成ESG工作存在局限性。
+2.  DeepSeek V3和R1版本各有侧重，V3擅长文字润色，R1擅长逻辑推理，应根据问题类型选择合适的版本。
+3.  DeepSeek需要丰富的ESG专业知识库支撑，建议本地化部署并建立专业知识库。
+4.  提问方式影响DeepSeek的回答质量，建议采用“我是谁+你是谁+用什么+做什么”的公式提问，并进行多轮问答。
+5.  通过专业机构以DeepSeek为基础进行ESG垂直模型的训练，是更高效的应用路径。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[老旧小区改造加力，为何以2000年为时间界限？如何投入？]]></title>
-        <link href="https://www.yicai.com/news/102504182.html" />
-        <id>https://www.yicai.com/news/102504182.html</id>
-        <updated>Mon, 10 Mar 2025 20:11:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 老旧小区改造, 城市更新, 2000年, 资金筹措, 惠民生
+        <title><![CDATA[覆盖3.1亿老人，“一刻钟养老服务圈”怎么建？]]></title>
+        <link href="https://www.yicai.com/news/102504658.html" />
+        <id>https://www.yicai.com/news/102504658.html</id>
+        <updated>Mon, 10 Mar 2025 22:22:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 养老服务、居家养老、社区养老、机构养老、养联体
 
 <br><br>总结:
-*   国家大力推进城市更新，老旧小区改造是重要切口，目标是改造2000年底前建成的小区。
-*   改造重点是基础设施，解决居民急难愁盼问题，如养老、托育等需求。
-*   资金来源多样，包括政府投入、居民出资、社会资本参与，鼓励探索居民自主更新。
-*   各地积极探索资金筹集渠道，如发行地方政府专项债券，动员居民出资等。
-*   未来需关注已改造小区的升级需求，明确2000年后建成小区改造的政府投入和产权人责任，挖掘低效资源。
+1.  我国老龄化程度加深，居家养老是首选但面临难题，社会化养老服务难以进入家庭。
+2.  社区养老能缓解居家养老燃眉之急，但缺乏可持续运营模式，需探索贯通居家、社区、机构的养老服务形态。
+3.  “养联体”模式通过机构养老支撑社区和居家养老，解决信息壁垒，实现养老服务需求与供给的匹配。
+4.  政府应强化规划引导、政策支持、组织保障和监督管理，构建政府、市场、社会三方协同机制，支持养老产业发展。
+5.  “养联体”有助于整合资源，推动养老服务在“最后一米”落实，是推进基层治理现代化的重要抓手。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[超10所双一流高校密集宣布本科扩招，清北上交均增150人]]></title>
-        <link href="https://www.yicai.com/news/102504224.html" />
-        <id>https://www.yicai.com/news/102504224.html</id>
-        <updated>Mon, 10 Mar 2025 20:10:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 优质本科扩容, 双一流高校, 人工智能, 学科交叉, 国家战略
+        <title><![CDATA[金融高水平制度型开放，如何更进一步？]]></title>
+        <link href="https://www.yicai.com/news/102504654.html" />
+        <id>https://www.yicai.com/news/102504654.html</id>
+        <updated>Mon, 10 Mar 2025 22:21:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：稳外贸外资, 制度型开放, 金融开放, 人民币国际化, 外资国民待遇
 
 <br><br>总结:
-1.  国家层面：2025年将在去年扩招1.6万人的基础上，力争再增加“双一流”高校本科招生规模2万人，扎实推进优质本科扩容。
-2.  高校层面：清华、北大、上海交大等超过10所双一流大学密集宣布扩招，名额主要投向国家战略急需、基础学科、新兴前沿领域。
-3.  专业方向：扩招重点面向人工智能、集成电路、生物医药等前沿技术和新兴业态，构建“人工智能+”交叉学科体系，培养复合型人才。
-4.  根本目的：旨在扩大优质教育资源的覆盖面，满足国家战略和经济社会发展需要，助力国家创新能力提升。
+1.  中国将继续加码稳外贸外资，坚持对外开放不动摇，稳步扩大制度型开放，以应对全球经济不确定性风险。
+2.  金融业对外开放是重点，包括降低港澳金融机构入股内地险企门槛、取消外资股份比例限制等，鼓励外资扩大再投资，切实保障外资企业的国民待遇。
+3.  推进金融市场制度建设和高水平对外开放，完善债券市场法制，推动公司债券法制建设。稳慎扎实推进人民币国际化，扩大人民币在跨境贸易和投资中的使用，深化对外货币合作。
+4.  稳步扩大制度型开放，主动对接CPTPP、DEPA等高标准经贸规则协定，推进产权保护、产业补贴等全面深化改革，与国际高标准经贸规则相通相容。
+5.  上海要加强商事、金融等方面制度创新，提升离岸功能，打造走出去的“桥头堡”和“避风港”，可在上海建设离岸经济功能区，配套商事制度改革。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[国泰航空来内地“抢人”，困扰航空业恢复的人力瓶颈怎样了]]></title>
-        <link href="https://www.yicai.com/news/102504267.html" />
-        <id>https://www.yicai.com/news/102504267.html</id>
-        <updated>Mon, 10 Mar 2025 20:10:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 招聘, 人力瓶颈, 航班恢复, 航空公司, 疫情
+        <title><![CDATA[一财社论：推进老旧小区改造不亚于一场变革]]></title>
+        <link href="https://www.yicai.com/news/102504644.html" />
+        <id>https://www.yicai.com/news/102504644.html</id>
+        <updated>Mon, 10 Mar 2025 22:20:53 +0800</updated>
+        <summary type="html"><![CDATA[老旧小区改造, 惠民生, 房产市场, 产权结构, 房屋折旧制度
 
 <br><br>总结:
-1. 疫情后各航空公司积极招聘一线员工，特别是空乘和飞行员，以应对疫情期间的人员流失。
-2. 国泰航空加大对内地员工的招聘力度，计划到2025年内地空乘达到1000-2000人，并有内地见习飞行员接受培训。
-3. 人力瓶颈仍然是航司和机场恢复航班、提高飞机利用率的阻碍，影响亚洲航线开拓和日本中小机场增班。
-4. 美国空管人员短缺导致航班延误和取消，影响乘客出行。
-5. 飞机制造供应链也受人力瓶颈影响，导致零部件供应受限和飞机交付延迟。
+1.  住房和城乡建设部表示，将改造2000年以前建成的老旧小区，此举旨在“惠民生、促发展、防风险”。<br>
+2.  老旧小区改造面临历史遗留问题，如产权复杂、缺乏维修基金等，需明晰各方责权利关系。<br>
+3.  建议出台房屋折旧制度和房屋养老制度，政府承担部分出资责任，并要求商业物业缴纳部分租赁费作为维修基金。<br>
+4.  要落实小区治理体系，强化业主委员会自治，厘清各方法律关系，降低小区治理的公地问题。<br>
+5.  通过建立全生命周期管理机制，并引入房屋折旧制度，促进房市有效定价和健康交易，让住房回归居住属性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Book Review: ‘Careless People,’ by Sarah Wynn-Williams]]></title>
-        <link href="https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html" />
-        <id>https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html</id>
-        <updated>Mon, 10 Mar 2025 20:07:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Facebook, 回忆录, 领导, 专制政权, 合作
+        <title><![CDATA[Oil Tanker and Container Ship Collide in the North Sea]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/world/europe/oil-tanker-north-sea-collision-uk.html" />
+        <id>https://www.nytimes.com/2025/03/10/world/europe/oil-tanker-north-sea-collision-uk.html</id>
+        <updated>Mon, 10 Mar 2025 22:18:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 英国海岸警卫队, 油轮, 货船, 碰撞, 火灾
 
 <br><br>总结:
-1. 这是一本前Facebook高管的回忆录。
-2. 这本书名为《粗心的人》。
-3. 书中描述了Facebook领导层与专制政权之间的暧昧关系。
-4. 书中批评这些领导人不负责任。
+1. 英国海岸警卫队正在协调应对一起紧急事件。
+2. 该事件涉及一艘油轮和一艘货船发生碰撞。
+3. 碰撞事故发生后，现场燃起了火灾。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[叙利亚危局：宗派冲突已致上千人丧生，前政权与现政权互不信任]]></title>
-        <link href="https://m.thepaper.cn/detail/30354083" />
-        <id>https://m.thepaper.cn/detail/30354083</id>
-        <updated>Mon, 10 Mar 2025 17:10:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 叙利亚, 宗派冲突, 阿拉维派, 过渡政府, 外部势力
+        <title><![CDATA[明日主题前瞻丨广东出台12项措施支持AI和机器人发展；央行连续4个月增持黄金]]></title>
+        <link href="https://www.yicai.com/news/102504637.html" />
+        <id>https://www.yicai.com/news/102504637.html</id>
+        <updated>Mon, 10 Mar 2025 22:13:29 +0800</updated>
+        <summary type="html"><![CDATA[黄金，AI，机器人，PCB，算力
 
 <br><br>总结:
-1. 叙利亚爆发大规模宗派冲突，起因是过渡政府安全人员遭前政权武装袭击，随后冲突升级，造成上千人死亡，是政权更迭以来最严峻的安全事件。
-2. 阿拉维派是前政权的主要支持者，他们不信任逊尼派主导的过渡政府，导致冲突爆发。该派别认为政府对阿拉维派进行了大规模屠杀，冲突也加深了双方的矛盾。
-3. 叙利亚过渡政府面临前政权残余势力及其背后的外部势力，叙过渡时期总统宣布成立委员会调查事件并与民众沟通。
-4. 外部势力如俄罗斯、土耳其等在叙利亚有地缘政治利益争夺，邻国也担心叙利亚局势影响自身稳定，多国在约旦召开会议，商讨合作打击极端组织等问题。
-5. 分析认为，叙利亚需要和解，逊尼派过渡政府需与阿拉维派接触，并构建强大的政府和军队，与各方进行长期斗争与谈判，同时需要与土耳其、以色列等域外国家合作。
+1. 央行连续4个月增持黄金，全球央行购金需求预计仍将占据主导地位，地缘政治和宏观经济不确定性支撑黄金避险需求，中国险资投资黄金试点或带来利好，黄金珠宝行业有望迎来恢复。
+2. 广东出台12项措施支持AI和机器人发展，包括技术攻关、企业培育、应用场景等方面，将构建企业梯次培育体系，并在多领域拓展应用。
+3. 机器人行业发展带动PCB需求增长，机器人主控PCB、执行器PCB等市场空间广阔，国产机器人硬件升级和量产化将加速国产化进程。
+4. 国内算力需求猛增，各地加大算力基础设施投资，东数西算为新兴产业提供支撑。
+5. 新能源和可再生能源进入跃升发展新阶段，为算力产业提供基础，高质量投资加速增长链条构建。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【社论】“国家喊你减肥”是件严肃的事]]></title>
-        <link href="https://m.thepaper.cn/detail/30354433" />
-        <id>https://m.thepaper.cn/detail/30354433</id>
-        <updated>Mon, 10 Mar 2025 17:10:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词：体重管理, 慢性病, 健康中国, 公共卫生, 全民健身
+        <title><![CDATA[Michelle Obama Is Hosting Video Podcast ‘IMO’ With Her Brother, Craig Robinson]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/business/media/michelle-obama-video-podcast.html" />
+        <id>https://www.nytimes.com/2025/03/10/business/media/michelle-obama-video-podcast.html</id>
+        <updated>Mon, 10 Mar 2025 22:04:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：米歇尔·奥巴马，Higher Ground，访谈，名人，建议
 
 <br><br>总结:
-1.  国家卫健委启动“体重管理年”行动，旨在提高全民对体重管理的重视，并将其纳入国家议程，是慢性病防控的重要措施。
-2.  中国超重和肥胖人口比例高，肥胖增加多种疾病风险，而慢性病负担已占总疾病负担的70%以上，影响健康预期寿命。
-3.  “体重管理年”活动，倡导健康生活方式，如推广“一秤一尺一日历”，推动健康食堂建设，保障学生运动时间，从社会支持上提供便利。
-4.  体重管理涉及多部门协作，形成全民健身氛围，提升全民体重管理意识和技能，预防和控制超重肥胖，推动慢性病防治关口前移。
-5.  中国健康政策正从“以治病为中心”向“以健康为中心”转变，体重管理是严肃的国家议程，需要全社会共同努力构建健康的社会氛围。
+1. 米歇尔·奥巴马将通过她的制作公司Higher Ground开展新的项目。
+2. 该项目包含访谈环节。
+3. 访谈对象为名人。
+4. 项目内容包括对各种主题提供建议。
+5. 米歇尔·奥巴马将与她的兄弟克雷格·罗宾逊共同参与访谈。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Trump’s Attacks Give Zelensky a Popularity Boost in Ukraine]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/world/europe/trump-zelensky-ukraine-popularity.html" />
+        <id>https://www.nytimes.com/2025/03/10/world/europe/trump-zelensky-ukraine-popularity.html</id>
+        <updated>Mon, 10 Mar 2025 22:00:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 乌克兰领导人，支持率，特朗普，羞辱，新选举
+
+<br><br>总结:
+1. 乌克兰领导人的支持率正在上升。
+2. 由于曾被特朗普总统羞辱和批评，一些批评者已经不再批评他。
+3. 特朗普曾要求在乌克兰举行新的选举。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Skirmish in Syrian Capital Raises Fears of Expanding Violence]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/world/europe/syria-damascus-clashes.html" />
+        <id>https://www.nytimes.com/2025/03/10/world/europe/syria-damascus-clashes.html</id>
+        <updated>Mon, 10 Mar 2025 21:56:36 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大马士革, 夜间事件, 控制, 海岸地区, 蔓延
+
+<br><br>总结:
+1. 大马士革发生了一起夜间事件。
+2. 该事件似乎已被控制住。
+3. 这起事件加剧了人们对叙利亚海岸地区暴力蔓延的担忧。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[晓数点｜1000万人口城市+1，合肥晋升]]></title>
+        <link href="https://www.yicai.com/news/102504601.html" />
+        <id>https://www.yicai.com/news/102504601.html</id>
+        <updated>Mon, 10 Mar 2025 21:53:11 +0800</updated>
+        <summary type="html"><![CDATA[请提供文章内容，我才能提取关键词和进行总结。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Think You Understand Your Dog? Think Again.]]></title>
+        <link href="https://www.nytimes.com/2025/03/10/science/dogs-pets-emotions.html" />
+        <id>https://www.nytimes.com/2025/03/10/science/dogs-pets-emotions.html</id>
+        <updated>Mon, 10 Mar 2025 21:47:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 狗, 情绪, 解读, 情境, 盲点
+
+<br><br>总结:
+*   研究表明人们解读狗的情绪主要基于它们所处的环境，而非狗本身。
+*   人们在理解狗的真实感受上存在显著的“盲点”。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[两会热议民营企业发展：微众银行以“数智”优势精准护航民营经济]]></title>
+        <link href="https://www.yicai.com/news/102504546.html" />
+        <id>https://www.yicai.com/news/102504546.html</id>
+        <updated>Mon, 10 Mar 2025 21:42:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词：民营企业, 小微企业, 微众银行, 数字化, 科技
+
+<br><br>总结:
+1.  国家重视民营企业发展，强调金融支持，增加信贷投放，降低融资成本。
+2.  小微企业融资难，因规模小、风险高、抵押少、信息不对称等问题突出。
+3.  微众银行创新数字化小微金融服务，通过线上化、无抵押的“微业贷”解决融资痛点。
+4.  微众银行运用大数据风控、精准触达、数字化企业服务等特点，降低成本，提升效率，覆盖更多企业。
+5.  微众银行重视科技投入，自主研发核心技术，探索人工智能应用，提升服务能力和水平，惠及更多小微企业。
 ]]></summary>
     </entry>
     
