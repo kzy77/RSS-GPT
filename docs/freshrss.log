@@ -1,35 +1,8 @@
 ------------------------------------------------------
-Started: 2025-03-11 14:12:29.667539
-Existing_entries: 20
+Started: 2025-03-11 16:15:29.594783
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 5003
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [两次投资Manus创始人 AI时代小公司赢面更大了？ | 投资人说](https://www.yicai.com/video/102505016.html)
-Token length: 150
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Hundreds of Civilians in Syria Take Shelter at Russian Air Base](https://www.nytimes.com/2025/03/11/world/europe/civilians-shelter-russian-air-base-syria.html)
-Token length: 4278
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [凯利泰管理层与“涌金系”矛盾公开化，董事会改选相互角力](https://www.yicai.com/news/102506260.html)
-Token length: 189
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Katie Porter Will Run for California Governor](https://www.nytimes.com/2025/03/11/us/politics/katie-porter-will-run-for-california-governor.html)
-Token length: 2804
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中外基金经理大调研：“东升西降”交易继续？](https://www.yicai.com/news/102506233.html)
-Token length: 4052
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [试点逾5年迎“转常规”大考，AI搅动基金投顾行业的乐与忧](https://www.yicai.com/news/102506218.html)
-Token length: 571
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [国家数据局：推进国有企业数据效能提升行动 多措并举推动中央企业数据要素市场化价值化](https://www.yicai.com/news/102506164.html)
-Token length: 1661
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [中国金茂官宣“换帅”，70后陶天海升任公司主席](https://www.yicai.com/news/102506192.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [成都土拍成交价连攀新高，怎么看？](https://www.yicai.com/news/102506183.html)
-Token length: 3103
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [美股暴跌跨境ETF霸屏绿榜，机构调仓多空分歧加大](https://www.yicai.com/news/102506081.html)
-append_entries: 10
-Finish: 2025-03-11 14:12:45.186925
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.us.kg', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4ab9188be0>: Failed to resolve 'freshrss.chunkj.us.kg' ([Errno -2] Name or service not known)"))
+Fetch failed from https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
