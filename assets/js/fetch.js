@@ -1,5 +1,5 @@
 const CORS_PROXY = 'https://corsproxy.io/?';
-const RSS_URL = 'https://freshrss.chunkj.us.kg/i/?a=rss&user=chunkj&token=chunkj&hours=24';
+const RSS_URL = 'https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24';
 
 async function fetchRSSFeeds() {
   try {
