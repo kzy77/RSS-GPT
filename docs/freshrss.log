@@ -1,59 +1,27 @@
 ------------------------------------------------------
-Started: 2025-03-21 16:15:08.940729
-Existing_entries: 2
+Started: 2025-03-21 18:16:04.998697
+Existing_entries: 18
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 168
+Token length: 101
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Paul Weiss Chair Says Deal With Trump Adheres to Firm’s Principles](https://www.nytimes.com/2025/03/21/business/paul-weiss-memo-trump-deal.html)
-Token length: 156
+Append: [How Dust From Texas Ends Up on Your Windshield in Des Moines](https://www.nytimes.com/2025/03/21/weather/dust-storm.html)
+Token length: 108
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Judge to Consider Block on Trump’s Use of Wartime Law to Deport Venezuelans](https://www.nytimes.com/2025/03/21/us/politics/trump-deportations-alien-enemies-act-block.html)
-Token length: 124
+Append: [For Trump and Netanyahu, Similar Strategies With Similar Goals](https://www.nytimes.com/2025/03/21/us/politics/trump-netanyahu-israel-political-strategy.html)
+Token length: 149
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [‘Severance’ Season 2 Finale Recap: Mark vs. Mark](https://www.nytimes.com/2025/03/21/arts/television/severance-season-2-finale-recap.html)
-Token length: 178
+Append: [Supreme Court Rules for Chicago Politician in Bank Fraud Case](https://www.nytimes.com/2025/03/21/us/politics/supreme-court-chicago-politician-fraud.html)
+Token length: 84
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Israel Tries to Pressure Hamas to Free More Hostages](https://www.nytimes.com/2025/03/21/world/middleeast/israel-hamas-gaza-hostages.html)
-Token length: 49
+Append: [What Evie Magazine, a ‘Conservative Cosmo,’ Thinks Women Want](https://www.nytimes.com/2025/03/21/style/evie-magazine.html)
+Token length: 190
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The Size of the Tax Cut](https://www.nytimes.com/2025/03/21/briefing/the-size-of-the-tax-cut.html)
-Token length: 137
+Append: [Long Before She Was Charged With Murder, a Group of Men Had Raised an Alarm](https://www.nytimes.com/2025/03/21/us/adan-manzano-death-suspect-drugs.html)
+Token length: 170
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Germany, ‘Orphaned’ by U.S., Shakes Off the Shock and Stirs to Action](https://www.nytimes.com/2025/03/21/world/europe/germany-us-ally-relationship-military.html)
-Token length: 63
+Append: [Russian Energy Sites Burn as Kyiv and Moscow Trade Accusations of Blame](https://www.nytimes.com/2025/03/21/world/europe/russia-ukraine-power-energy-grid.html)
+Token length: 181
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A China War Briefing for Musk, and London’s Heathrow Shuts Down](https://www.nytimes.com/2025/03/21/podcasts/the-headlines/musk-china-war-briefing-london-heathrow-shutdown.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Heathrow Airport Closure Wreaks Havoc on Travelers Worldwide](https://www.nytimes.com/2025/03/21/world/europe/heathrow-airport-closure-flights.html)
-Token length: 138
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Voters Love Him More Than Before. Four Conservative Columnists Pinpoint Why.](https://www.nytimes.com/2025/03/21/opinion/trump-administration-polling.html)
-Token length: 175
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Clues From Inside an ‘Extermination Camp’ Promise Despair and Hope](https://www.nytimes.com/2025/03/21/world/americas/mexico-extermination-camp.html)
-Token length: 158
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Science Data May Soon Vanish From Government Websites.](https://www.nytimes.com/2025/03/21/climate/government-websites-climate-environment-data.html)
-Token length: 126
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How ‘Severance’ Uses Old Tricks to Make Its Office Hell](https://www.nytimes.com/2025/03/21/arts/television/severance-office-life-film-tricks.html)
-Token length: 83
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [My Brother Has Down Syndrome. This Is How People See Him.](https://www.nytimes.com/2025/03/21/opinion/down-syndrome-family-life.html)
-Token length: 145
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump and China Clash Over Panama Canal in Test of Hong Kong’s Status](https://www.nytimes.com/2025/03/20/business/trump-panama-canal-china-hong-kong.html)
-Token length: 172
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Workers Say They Were Pressured to Pay for N.Y.C. Election Jobs](https://www.nytimes.com/2025/03/21/nyregion/board-elections-bribes-jobs-bronx.html)
-Token length: 130
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [One Doctor’s Quest for the Truth About Convicted Killer Lucy Letby](https://www.nytimes.com/2025/03/21/world/europe/lucy-letby-nurse-murder.html)
-Token length: 132
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Late Night Gives Trump’s Education Agency Shutdown a Failing Grade](https://www.nytimes.com/2025/03/21/arts/television/late-night-trump-department-of-education.html)
-Token length: 144
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [China’s Tax Revenue Declines as Its Leaders Brace for Trump’s Tariffs](https://www.nytimes.com/2025/03/21/business/china-taxes-trump-tariffs.html)
-append_entries: 18
-Finish: 2025-03-21 16:16:17.291513
+Append: [U.S. Says Decision to Turn Back French Scientist Had Nothing to Do With Trump](https://www.nytimes.com/2025/03/21/world/europe/us-france-scientist-entry-trump.html)
+append_entries: 7
+Finish: 2025-03-21 18:16:11.691887
