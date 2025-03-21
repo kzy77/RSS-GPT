@@ -1,60 +1,53 @@
 ------------------------------------------------------
-Started: 2025-03-20 22:11:07.698672
-Existing_entries: 3
+Started: 2025-03-21 00:57:40.906830
+Existing_entries: 18
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 146
+Token length: 166
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Administration Sends a New Group of Migrants to Guantánamo Bay](https://www.nytimes.com/2025/03/20/us/politics/more-migrants-guantanamo-bay.html)
-Token length: 136
+Append: [After Baltimore Collapse, Risk Reviews Urged for Dozens of U.S. Bridges](https://www.nytimes.com/2025/03/20/us/baltimore-collapse-risk-reviews-us-bridges.html)
+Token length: 84
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Jeffrey Bruce Klein, a Founder and Editor of Mother Jones, Dies at 77](https://www.nytimes.com/2025/03/20/business/media/jeffrey-bruce-klein-dies.html)
-Token length: 28
+Append: [Trump Ordered the Shutdown of the Education Department](https://www.nytimes.com/2025/03/20/briefing/trump-education-department-shutdown.html)
+Token length: 113
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why Creole Languages Are Not Broken English](https://www.nytimes.com/2025/03/20/opinion/language-kriol-australia.html)
+Append: [A Personal Finance Reporter Ponders His Own Climate Change Risk](https://www.nytimes.com/2025/03/20/climate/climate-change-buying-a-home.html)
+Token length: 158
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [In Deportations, Trump Tied Gang to Venezuela’s Government. Intelligence Contradicts Him.](https://www.nytimes.com/2025/03/20/us/politics/intelligence-trump-venezuelan-gang-alien-enemies.html)
+Token length: 171
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Can Trump End the Department of Education?](https://www.nytimes.com/2025/03/20/us/can-trump-dismantle-education-department.html)
+Token length: 130
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Judge Bars Social Security Officials From Giving DOGE Unredacted Data](https://www.nytimes.com/2025/03/20/us/politics/musk-doge-social-security-records.html)
+Token length: 171
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Americans Are Unhappier Than Ever. Solo Dining May Be a Sign.](https://www.nytimes.com/2025/03/20/us/americans-solo-dining-happiness.html)
+Token length: 121
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [As Fox Gets a Trump Bump, Bret Baier Closes In on His Broadcast Rivals](https://www.nytimes.com/2025/03/20/business/fox-news-bret-baier-ratings.html)
+Token length: 151
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [What Happens to Student Loans if the Education Dept. Closes?](https://www.nytimes.com/2025/03/20/business/student-loans-education-department.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [In Miami, Scalpers Had the Hot Tickets … to Driver’s License Appointments](https://www.nytimes.com/2025/03/20/us/miami-dmv-appointment-scalpers.html)
 Token length: 125
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How the G.O.P. Went From Championing Campus Free Speech to Fighting It](https://www.nytimes.com/2025/03/20/us/politics/republicans-trump-free-speech-campuses.html)
-Token length: 202
+Append: [How Beef Tallow Made a Comeback](https://www.nytimes.com/2025/03/20/well/eat/beef-tallow-oil-health.html)
+Token length: 158
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Kirsty Coventry Is Elected President of International Olympic Committee](https://www.nytimes.com/2025/03/20/world/olympics/ioc-election-president.html)
-Token length: 179
+Append: [Washington Post Alumni Urged Jeff Bezos to Replace CEO Will Lewis](https://www.nytimes.com/2025/03/20/business/media/washington-post-jeff-bezos-will-lewis.html)
+Token length: 161
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Taliban Frees an American, George Glezmann, Held in Afghanistan Since 2022](https://www.nytimes.com/2025/03/20/us/politics/taliban-frees-american-aircraft-mechanic.html)
-Token length: 156
+Append: [What to Know About Crossing the U.S. Border as an International Visitor](https://www.nytimes.com/2025/03/20/travel/us-border-crossing-international-visa.html)
+Token length: 151
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Tesla Recalls Nearly All Cybertrucks Over Stainless Steel Panels Falling Off](https://www.nytimes.com/2025/03/20/business/tesla-cybertruck-recall.html)
-Token length: 140
+Append: [Yeshiva University Recognizes L.G.B.T.Q. Club After Lengthy Battle](https://www.nytimes.com/2025/03/20/nyregion/yeshiva-university-lgbtq-club.html)
+Token length: 205
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Won Over Many Arab Americans in November. Now, Has He Lost Them?](https://www.nytimes.com/2025/03/20/us/trump-arab-americans-gaza-israel.html)
-Token length: 189
+Append: [Administration’s Details on Deportation Flights ‘Woefully Insufficient,’ Judge Says](https://www.nytimes.com/2025/03/20/us/politics/trump-deportation-venezuela-tren-de-aragua.html)
+Token length: 148
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Wealth and Warfare Empower a Rwanda-Backed Militant Group in Congo](https://www.nytimes.com/2025/03/20/world/africa/m23-goma-congo-rwanda.html)
-Token length: 157
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Inside the Controversy Surrounding Disney’s ‘Snow White’ Remake](https://www.nytimes.com/2025/03/20/business/snow-white-movie-controversies.html)
-Token length: 165
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Administration Officials Believe Order Lets Immigration Agents Enter Homes Without Warrants](https://www.nytimes.com/2025/03/20/us/politics/trump-alien-enemies-immigration-agents.html)
-Token length: 169
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why Trump’s Ultimatum to Columbia Could Upend Higher Education](https://www.nytimes.com/2025/03/20/us/columbia-university-receivership-trump.html)
-Token length: 278
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Inside President Trump’s Battle With the Courts](https://www.nytimes.com/video/us/politics/100000010061762/inside-president-trumps-battle-with-the-courts.html)
-Token length: 181
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Flannery O’Connor’s Artworks Finally See the Light](https://www.nytimes.com/2025/03/20/arts/design/flannery-oconnors-paintings-georgia-college.html)
-Token length: 66
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why Trump Can’t Quit Biden](https://www.nytimes.com/2025/03/20/opinion/trump-biden.html)
-Token length: 212
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Russian Public Is Ready to End War but Skeptical of Concessions, Analysis Finds](https://www.nytimes.com/2025/03/20/world/europe/russia-attitude-war-ukraine.html)
-Token length: 136
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Boston’s White Stadium, Future Home of NWSL Team, at Center of Legal Fight](https://www.nytimes.com/2025/03/20/sports/boston-white-stadium-nwsl-dispute.html)
-Token length: 94
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A.I. Saved His Life by Discovering New Uses for Old Drugs](https://www.nytimes.com/2025/03/20/well/ai-drug-repurposing.html)
-append_entries: 18
-Finish: 2025-03-20 22:12:16.889215
+Append: [Hugues Oyarzabal, Surfing Star Who Rode With a Camera, Dies at 39](https://www.nytimes.com/2025/03/20/sports/hugues-oyarzabal-surfing-dead.html)
+append_entries: 16
+Finish: 2025-03-21 00:58:47.075921
