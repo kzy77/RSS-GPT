@@ -1,36 +1,35 @@
 ------------------------------------------------------
-Started: 2025-03-22 04:14:13.607391
-Existing_entries: 11
+Started: 2025-03-22 06:15:23.517794
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 182
+Token length: 135
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How a Major Democratic Law Firm Ended Up Bowing to Trump](https://www.nytimes.com/2025/03/21/us/politics/paul-weiss-trump.html)
-Token length: 157
+Append: [Travel Disruptions Linger as Flights Resume at London’s Heathrow](https://www.nytimes.com/2025/03/22/world/europe/heathrow-airport-flights.html)
+Token length: 170
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Why the Pentagon Scuttled Its Briefing of Elon Musk on China War Plans](https://www.nytimes.com/2025/03/21/us/politics/musk-trump-pentagon-china.html)
-Token length: 133
+Append: [The Sniper’s Nest](https://www.nytimes.com/2025/03/22/world/africa/sudan-photo-sniper.html)
+Token length: 184
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Inside Teen Vogue’s Interview With Vivian Wilson, Elon Musk’s Daughter](https://www.nytimes.com/2025/03/21/style/vivian-wilson-teen-vogue-elon-musk.html)
-Token length: 207
+Append: [In Turkey, Critics of Erdogan See Democracy Eroding After Istanbul Mayor’s Detention](https://www.nytimes.com/2025/03/22/world/middleeast/turkey-erdogan-democracy-istanbul-mayor-detention.html)
+Token length: 94
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Flights Resume at Heathrow After Substation Fire Shut Down Airport](https://www.nytimes.com/2025/03/21/world/europe/heathrow-airport-london-fire.html)
-Token length: 158
+Append: [Trump Revokes Security Clearances for Biden, Harris, Clinton and More](https://www.nytimes.com/2025/03/21/us/politics/trump-security-clearances-biden-harris-clinton.html)
+Token length: 96
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Tate Brothers, Trailed by Human-Trafficking Charges, Are Returning to Romania](https://www.nytimes.com/2025/03/21/world/andrew-tate-brothers-romania-trafficking.html)
-Token length: 144
+Append: [George Foreman, Boxing Champion and Grilling Magnate, Dies at 76](https://www.nytimes.com/2025/03/21/sports/george-foreman-dead.html)
+Token length: 164
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [What to Know About Paul Weiss, the Law Firm Bowing to Trump’s Demands](https://www.nytimes.com/2025/03/21/nyregion/what-is-paul-weiss.html)
-Token length: 183
+Append: [What Caused the Fire That Shut Down Heathrow Airport?](https://www.nytimes.com/2025/03/21/world/europe/heathrow-power-fire-investigation.html)
+Token length: 147
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Man Charged With Posing as Federal Agent After Promising Green Card Help](https://www.nytimes.com/2025/03/21/nyregion/green-card-fraud-ice.html)
-Token length: 136
+Append: [Police Recover Diamond Earrings Worth $769,500 That Thief Swallowed](https://www.nytimes.com/2025/03/21/us/tiffany-diamond-theft-orlando.html)
+Token length: 142
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Stranded by Heathrow Closure, Some Travelers Got Creative. Others Just Gave Up.](https://www.nytimes.com/2025/03/21/world/europe/heathrow-passengers-stories.html)
-Token length: 54
+Append: [Paul Weiss Deal With Trump Faces Backlash From Legal Profession](https://www.nytimes.com/2025/03/21/business/paul-weiss-trump-reaction.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [In Wes Anderson’s World, It’s All About the Details](https://www.nytimes.com/2025/03/21/movies/wes-anderson-movies-props-costumes.html)
+Token length: 128
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Columbia Concedes to Trump](https://www.nytimes.com/2025/03/21/briefing/columbia-trump-sudan.html)
-Token length: 149
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump’s Imaginary Emergencies Are Doing Real Damage](https://www.nytimes.com/2025/03/21/opinion/trump-courts-presidents-emergencies.html)
+Append: [Columbia Concedes to Trump’s Demands After Federal Funds Are Stripped](https://www.nytimes.com/2025/03/21/nyregion/columbia-response-trump-demands.html)
 append_entries: 10
-Finish: 2025-03-22 04:14:22.500231
+Finish: 2025-03-22 06:15:31.853056
