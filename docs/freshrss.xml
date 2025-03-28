@@ -2,225 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 28 Mar 2025 00:57:32 GMT</updated>
+    <updated>Fri, 28 Mar 2025 02:56:03 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Justice Dept. Will Investigate California Universities Over Race in Admissions]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/california-universities-affirmative-action-doj.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/california-universities-affirmative-action-doj.html</id>
-        <updated>Fri, 28 Mar 2025 07:54:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 加州, 平权行动, 禁令, 特朗普政府, 调查
+        <title><![CDATA[科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html</id>
+        <updated>Fri, 28 Mar 2025 08:09:51 +0800</updated>
+        <summary type="html"><![CDATA[AI爬虫, 工作量证明, Anubis, Gemini 2.5 Pro, 安卓私有化
 
 <br><br>总结:
-1. 加州早在几十年前就禁止了平权行动。
-2. 特朗普政府计划调查加州学校是否仍在考虑种族因素。
+1.  AI爬虫泛滥，对网站造成巨大压力，SourceHut站长公开谴责。
+2.  Anubis工具利用工作量证明（SHA256哈希计算）反向代理，增加爬虫的计算成本，有效阻止了大部分爬虫。
+3.  谷歌发布最强模型Gemini 2.5 Pro，能识别复杂任务并承认能力不足，标志着AI发展的新阶段。
+4.  谷歌可能完全私有化安卓开发，不再接受外部代码提交，未来安卓版本发布流程或有变动。
+5.  文章还介绍了其他科技动态、工具、AI应用和资源，如中国矿业大学的六足机器人、盈通的香味GPU、开源的VS Code插件等。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[The Substance of the Group Chat Was Unserious, Too]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/opinion/signal-chat-european-allies-houthis.html" />
-        <id>https://www.nytimes.com/2025/03/27/opinion/signal-chat-european-allies-houthis.html</id>
-        <updated>Fri, 28 Mar 2025 07:38:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普政府, 蔑视, Signal聊天, 严肃性, 实质内容
+        <title><![CDATA[Trump Targets WilmerHale, Citing Law Firm’s Connection to Robert Mueller]]></title>
+        <link href="https://www.nytimes.com/2025/03/27/us/politics/trump-wilmerhale-law-firm-mueller.html" />
+        <id>https://www.nytimes.com/2025/03/27/us/politics/trump-wilmerhale-law-firm-mueller.html</id>
+        <updated>Fri, 28 Mar 2025 09:00:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Mueller, WilmerHale, 退休, 特朗普, 俄罗斯
 
 <br><br>总结:
-1. 欧洲人已经习惯了特朗普政府的蔑视。
-2. 然而，Signal聊天缺乏严肃性，甚至包括其内容本身，都令人感到震惊。
+1. 穆勒先生曾在WilmerHale律师事务所工作。
+2. 穆勒先生已于2021年退休。
+3. 他在特朗普总统第一个任期内，曾调查特朗普竞选团队与俄罗斯官员之间的联系。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[5 Train Routes That Highlight the Beauty of Europe]]></title>
-        <link href="https://www.nytimes.com/2025/03/26/travel/train-routes-europe.html" />
-        <id>https://www.nytimes.com/2025/03/26/travel/train-routes-europe.html</id>
-        <updated>Wed, 26 Mar 2025 17:00:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 路线，日常，经济，舒适，风景
+        <title><![CDATA[A Video From Tufts Captures the Fear and Aggression in Trump’s Crackdown]]></title>
+        <link href="https://www.nytimes.com/2025/03/27/us/politics/tufts-ice-crackdown.html" />
+        <id>https://www.nytimes.com/2025/03/27/us/politics/tufts-ice-crackdown.html</id>
+        <updated>Fri, 28 Mar 2025 08:48:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Rumeysa Ozturk, 逮捕, 便衣警察, ICE, 审查
 
 <br><br>总结:
-文章强调存在一些每日运行的路线。
-这些路线价格实惠，不会造成经济负担。
-此外，这些路线的设计注重乘客的舒适度。
-最重要的是，这些路线能提供风景优美的旅程，让人印象深刻。
+1. Rumeysa Ozturk被捕，使用了常见的逮捕策略，例如便衣警察遮盖面部。
+2. 这次逮捕行动并非创新，使用的策略较为常见。
+3. 随着美国移民及海关执法局 (ICE) 行动日益频繁，相关的审查力度可能会随之加强。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Top Senate Republican Protests Trump Bid to Withhold Spending]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/politics/susan-collins-appropriations-trump.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/politics/susan-collins-appropriations-trump.html</id>
-        <updated>Fri, 28 Mar 2025 07:29:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：拨款委员会主席, 苏珊·柯林斯, 总统权力, 民主党, 资金选择
+        <title><![CDATA[King Charles Briefly Hospitalized After Side Effects From Cancer Treatment]]></title>
+        <link href="https://www.nytimes.com/2025/03/27/world/europe/king-charles-hospital-cancer-treatment-engagements.html" />
+        <id>https://www.nytimes.com/2025/03/27/world/europe/king-charles-hospital-cancer-treatment-engagements.html</id>
+        <updated>Fri, 28 Mar 2025 06:51:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：查尔斯，治疗，副作用，医院，观察
 
 <br><br>总结:
-1. 缅因州参议员苏珊·柯林斯作为拨款委员会主席，与民主党高层联手。
-2. 他们共同强调总统无权“选择性”地决定资助哪些项目。
-3. 这表明国会，特别是拨款委员会，对于资金分配拥有主导权。
-4. 柯林斯与民主党的合作，突显了在某些问题上跨党派的共识。
-5. 此次事件反映了国会对行政权力的一种制衡。
+1. 查尔斯国王周四接受治疗后出现“暂时性副作用”。
+2. 他随后被送往医院接受观察。
+3. 目前已返回他在伦敦的住所。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Signal Leak Shows Trump Only Takes Federal Secrets Seriously When It Suits Him]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/politics/trump-signal-leak-venezuela-deportations.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/politics/trump-signal-leak-venezuela-deportations.html</id>
-        <updated>Fri, 28 Mar 2025 07:29:03 +0800</updated>
-        <summary type="html"><![CDATA[特朗普时代，官方机密的定义取决于对总统最有利的说法。
-
-关键词：特朗普时代，官方机密，定义，总统，权力
+        <title><![CDATA[With Car Tariffs, Trump Puts His Unorthodox Trade Theory to the Test]]></title>
+        <link href="https://www.nytimes.com/2025/03/27/us/politics/trump-car-tariffs-trade-strategy.html" />
+        <id>https://www.nytimes.com/2025/03/27/us/politics/trump-car-tariffs-trade-strategy.html</id>
+        <updated>Fri, 28 Mar 2025 05:41:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：关税，汽车，全球经济，总统，经济学家
 
 <br><br>总结:
-1. 特朗普时代下，官方机密的定义变得模糊不清。
-2. 官方机密的定义不再基于既定规则或法律框架。
-3. 总统可以根据自身利益随意定义何为官方机密。
-4. 这使得官方机密的标准变得主观且不稳定。
-5. 这种随意性反映了总统权力的滥用。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Global Sea Ice Hits a New Low]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/climate/global-sea-ice-record-low.html" />
-        <id>https://www.nytimes.com/2025/03/27/climate/global-sea-ice-record-low.html</id>
-        <updated>Fri, 28 Mar 2025 07:11:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 气候变化, 气温升高, 记录, 十年, 研究
-
-<br><br>总结:
-* 研究显示，过去十年是有记录以来最热的十年。
-* 数据证实了气候变化的持续影响。
-* 强调了全球气温升高的趋势。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Selena’s Killer Is Denied Parole 30 Years After Murder]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/selena-murder-yolanda-saldivar-parole.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/selena-murder-yolanda-saldivar-parole.html</id>
-        <updated>Fri, 28 Mar 2025 06:39:08 +0800</updated>
-        <summary type="html"><![CDATA[赛琳娜, Tejano音乐, 谋杀, 粉丝俱乐部, 假释
-
-<br><br>总结:
-* Tejano音乐偶像赛琳娜被其粉丝俱乐部的创始人枪杀。
-* 凶手目前在德克萨斯州服刑，被判处终身监禁。
-* 凶手提出了第一次假释申请。
-* 一个委员会在周四拒绝了她的假释申请。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Under Pressure, Psychology Accreditation Board Suspends Diversity Standards]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/health/psychology-dei-apa-trump.html" />
-        <id>https://www.nytimes.com/2025/03/27/health/psychology-dei-apa-trump.html</id>
-        <updated>Fri, 28 Mar 2025 06:29:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普政府，认证机构，权力，多元化要求，取消
-
-<br><br>总结:
-1. 特朗普政府威胁剥夺认证机构的权力。
-2. 许多认证机构正忙于取消多元化要求，以应对可能的权力剥夺。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Judge Moves to Prevent Hegseth, Waltz and Others From Deleting Houthi Texts]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/politics/signal-chat-houthis-court-decision.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/politics/signal-chat-houthis-court-decision.html</id>
-        <updated>Fri, 28 Mar 2025 07:41:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：法官, Boasberg, 官员, 信息, 保存
-
-<br><br>总结:
-1. 法官James E. Boasberg发布命令。
-2. 命令要求包括国防部长、国家安全顾问和国务卿在内的政府高级官员。
-3. 官员们必须保存他们之间交换的所有信息。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[For Europe, the Nightmare Isn’t U.S. Contempt. It’s U.S. Incompetence.]]></title>
-        <link href="https://www.nytimes.com/live/2025/03/24/opinion/thepoint/signal-chat-european-allies-houthis" />
-        <id>https://www.nytimes.com/live/2025/03/24/opinion/thepoint/signal-chat-european-allies-houthis</id>
-        <updated>Fri, 28 Mar 2025 06:23:50 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 轻视, 欧洲, 特朗普, Signal, 聊天
-
-<br><br>总结:
-要点一：欧洲已经习惯了特朗普政府的轻视态度。
-要点二：通过Signal进行的聊天缺乏严肃性。
-要点三：这种缺乏严肃性体现在聊天的内容上。
-要点四：这种缺乏严肃性让欧洲方面感到震惊。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[U.S. Health Agency Announced Job Cuts]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/briefing/health-agency-job-cuts-canada-us-tariffs.html" />
-        <id>https://www.nytimes.com/2025/03/27/briefing/health-agency-job-cuts-canada-us-tariffs.html</id>
-        <updated>Fri, 28 Mar 2025 06:06:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 加拿大, 美国, 关税, 汽车, 报复
-
-<br><br>总结:
-1. 加拿大领导人承诺对美国汽车关税采取报复行动。
-2. 这是周四结束时最新的进展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[RFK Jr. Turns to a Discredited Vaccine Researcher for Autism Study]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/health/rfk-jr-autism-vaccines.html" />
-        <id>https://www.nytimes.com/2025/03/27/health/rfk-jr-autism-vaccines.html</id>
-        <updated>Fri, 28 Mar 2025 06:00:30 +0800</updated>
-        <summary type="html"><![CDATA[疫苗，自闭症，数据分析，H.H.S.，David Geier
-
-<br><br>总结:
-* David Geier被H.H.S.聘用为高级数据分析师。
-* 他将调查疫苗与自闭症之间潜在的联系。
-* 这项调查与之前已被推翻的理论相关。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Bobby Sherman, Former Teen Idol, Has Stage 4 Cancer, His Wife Says]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/arts/bobby-sherman-cancer.html" />
-        <id>https://www.nytimes.com/2025/03/27/arts/bobby-sherman-cancer.html</id>
-        <updated>Fri, 28 Mar 2025 05:52:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词：David Soul, 演员, 去世, "Here Come the Brides", "Little Woman"
-
-<br><br>总结:
-* 演员David Soul去世，享年81岁。
-* 他因出演1960年代电视剧《Here Come the Brides》中的角色而一举成名。
-* 他的热门歌曲包括《Little Woman》。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[University of Michigan to Scuttle Its Flagship D.E.I. Program]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/education/university-of-michigan-dei.html" />
-        <id>https://www.nytimes.com/2025/03/27/education/university-of-michigan-dei.html</id>
-        <updated>Fri, 28 Mar 2025 05:49:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Michigan, 学校, 多样性, 反对, 特朗普政府
-
-<br><br>总结:
-Michigan大学曾致力于推动学校多样性。<br><br>
-但由于校园内部的反对声浪以及特朗普政府的广泛审查，Michigan大学正在迅速改变策略。<br><br>
-这标志着该州在学校多样性方面的政策方向发生了重大转变。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Another Problem With That Signal Chat? The Messages Disappear.]]></title>
-        <link href="https://www.nytimes.com/2025/03/27/us/politics/signal-messages-disappear.html" />
-        <id>https://www.nytimes.com/2025/03/27/us/politics/signal-messages-disappear.html</id>
-        <updated>Fri, 28 Mar 2025 05:48:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 总统记录法, 联邦记录法, 官员, 通讯, 政府事务
-
-<br><br>总结:
-1. 总统记录法和联邦记录法是两项重要的法律。<br>
-2. 这两项法律共同规定了政府官员的义务。<br>
-3. 官员需要妥善保存与政府事务相关的通讯记录。<br>
-4. 这些记录的保存对于政府的透明度和问责制至关重要。
+1. 总统正在全球经济中推行其关税政策，特别是针对汽车行业实施广泛的关税。
+2. 经济学家对总统的关税政策持悲观态度，认为可能对全球经济产生负面影响。
 ]]></summary>
     </entry>
     
