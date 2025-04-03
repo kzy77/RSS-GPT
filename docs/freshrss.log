@@ -1,39 +1,59 @@
 ------------------------------------------------------
-Started: 2025-04-03 20:13:32.148925
-Existing_entries: 10
+Started: 2025-04-03 22:11:28.139276
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 60
+Token length: 162
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Steve Rattner on Just How Bad Things Will Get Under Trump’s Tariffs](https://www.nytimes.com/2025/04/03/opinion/trump-tariffs-economy.html)
-Token length: 145
+Append: [Trump Administration Probably Violated Court Order on Deportations, Judge Says](https://www.nytimes.com/2025/04/03/us/politics/trump-deportations-venezuela-judge-boasberg.html)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The Job Market Has Been Resilient. The Trade War Could Be Its Undoing.](https://www.nytimes.com/2025/04/03/business/economy/job-market-tariffs.html)
-Token length: 165
+Append: [Mel Gibson’s Gun Rights to Be Restored by Justice Dept.](https://www.nytimes.com/2025/04/03/us/politics/mel-gibson-gun-rights.html)
+Token length: 123
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Laura Loomer Pushes Trump to Fire National Security Officials in Oval Office Meeting](https://www.nytimes.com/2025/04/03/us/politics/trump-meeting-laura-loomer.html)
-Token length: 167
+Append: [Pentagon Will Review Pete Hegseth’s Signal Use](https://www.nytimes.com/2025/04/03/us/politics/signal-pete-hegseth-pentagon.html)
+Token length: 153
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump’s Trade War Risks Forfeiting America’s Economic Primacy](https://www.nytimes.com/2025/04/03/business/trump-tariffs-dollar.html)
-Token length: 176
+Append: [How Might the Trump Administration Target D.E.I. in Public Schools?](https://www.nytimes.com/2025/04/03/us/trump-administration-dei-public-schools.html)
+Token length: 117
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Tariffs Destroy What Makes America Great](https://www.nytimes.com/2025/04/03/opinion/tariffs-trump.html)
-Token length: 155
+Append: [Trump Just Bet the Farm](https://www.nytimes.com/2025/04/03/opinion/trump-tariffs-us-security-stability.html)
+Token length: 140
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The Childish Tariff Formula That Will Reshape the Global Economy](https://www.nytimes.com/2025/04/03/opinion/trump-tariffs-formula-global-economy.html)
-Token length: 186
+Append: [With the Worst U.S. Stock Market In Years, Try Some Old-Fashioned Investments](https://www.nytimes.com/2025/04/03/business/stock-market-investing-retirement-pain-stocks-bonds.html)
+Token length: 133
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Even After the Salman Rushdie Attack, Turmoil at Chautauqua Institution](https://www.nytimes.com/2025/04/03/nyregion/chautauqua-institution-salman-rushdie.html)
-Token length: 201
+Append: [Leonardo Patterson, Disgraced Dealer in Latin American Artifacts, Dies at 82](https://www.nytimes.com/2025/04/03/arts/leonardo-patterson-dead.html)
+Token length: 144
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Administration Threatens to Withhold Funds From Public Schools](https://www.nytimes.com/2025/04/03/us/politics/public-school-funding-trump-dei.html)
-Token length: 128
+Append: [Chris Pappas Jumps Into 2026 Senate Race in New Hampshire](https://www.nytimes.com/2025/04/03/us/politics/chris-pappas-new-hampshire-senate.html)
+Token length: 197
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Bruce Springsteen Will Release Seven ‘Lost Albums’ in June](https://www.nytimes.com/2025/04/03/arts/music/bruce-springsteen-tracks-ii-the-lost-albums.html)
+Append: [Israeli Strike Kills Dozens at Gaza City Shelter, Officials Say](https://www.nytimes.com/2025/04/03/world/middleeast/gaza-city-school-strike.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '10'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}
+Append: [It’s Day 1 of a New Mayor’s Race in New York](https://www.nytimes.com/2025/04/03/nyregion/nyc-mayor-race-adams-independent.html)
+Token length: 131
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [With TikTok Deadline Looming, Details of a Potential Deal Emerge](https://www.nytimes.com/2025/04/03/business/tiktok-sale-ban-deadline.html)
+Token length: 175
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [FDA Layoffs Could Raise Drug Costs and Erode Food Safety](https://www.nytimes.com/2025/04/03/health/fda-layoffs-food-and-drug-safety-rfk-jr.html)
+Token length: 83
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Radhika Jones, Vanity Fair’s Top Editor, Steps Down](https://www.nytimes.com/2025/04/03/business/media/radhika-jones-vanity-fair-steps-down.html)
 Token length: 135
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Europe Has Economic Power. Can It Use It Against Trump’s Tariffs?](https://www.nytimes.com/2025/04/03/world/europe/tariffs-response-trump.html)
-Token length: 100
+Append: [Trump’s Tariffs Follow Anger Over Trade Imbalances and Lost Manufacturing Jobs](https://www.nytimes.com/2025/04/03/us/politics/trump-tariffs-trade-deficit-manufacturing.html)
+Token length: 145
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The Crucial Factor for Democrats to Win Elections](https://www.nytimes.com/2025/04/03/opinion/democrats-elections-wisconsin.html)
-append_entries: 11
-Finish: 2025-04-03 20:14:34.098767
+Append: [How Trump’s Tariffs Could Hobble a U.S. Battery Boom](https://www.nytimes.com/2025/04/03/climate/trump-tariffs-battery-storage.html)
+Token length: 159
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Storm Forecast: Flooding Expected in Arkansas and Tennessee](https://www.nytimes.com/2025/04/03/weather/rain-forecast-flooding-tennessee.html)
+Token length: 129
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [This A.I. Forecast Predicts Storms Ahead](https://www.nytimes.com/2025/04/03/technology/ai-futures-project-ai-2027.html)
+Token length: 145
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Javier Milei, Trump’s ‘Favorite President,’ Has Few Deals to Offer — but Lots of Adoration](https://www.nytimes.com/2025/04/03/world/americas/argentina-javier-milei-trump.html)
+append_entries: 18
+Finish: 2025-04-03 22:12:35.503424
