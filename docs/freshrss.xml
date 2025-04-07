@@ -2,67 +2,282 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 07 Apr 2025 08:17:21 GMT</updated>
+    <updated>Mon, 07 Apr 2025 10:14:11 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Bitcoin Is Down 10% Since Trump’s Global Tariff Announcement]]></title>
-        <link href="https://www.nytimes.com/2025/04/06/business/economy/trump-bitcoin-crypto-tariffs.html" />
-        <id>https://www.nytimes.com/2025/04/06/business/economy/trump-bitcoin-crypto-tariffs.html</id>
-        <updated>Mon, 07 Apr 2025 10:36:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词：加密货币, 市场波动, 风险资产, 总统, 推广
+        <title><![CDATA[Everything Is Going According to Plan]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/opinion/trump-tariffs-economy-third-term.html" />
+        <id>https://www.nytimes.com/2025/04/07/opinion/trump-tariffs-economy-third-term.html</id>
+        <updated>Mon, 07 Apr 2025 17:03:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 关税, 历史, 决策, 影响
 
 <br><br>总结:
-* 加密货币市场近期出现了快速下跌。
-* 这表明加密货币，即使受到总统的推广，也和其他风险资产一样，会经历市场波动。
+1. 文章提出了一个问题：特朗普总统的关税政策是否会成为总统历史上最糟糕的决策之一。
+2. 文章隐含地探讨了特朗普关税政策的影响程度，将其与历史上的重大决策进行比较。
+3. 文章并未给出明确的答案，而是旨在引发读者对特朗普关税政策长期影响的思考。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Stocks in Asia Fall Sharply, Extending a Rout Caused by Trump’s Tariffs]]></title>
-        <link href="https://www.nytimes.com/2025/04/06/business/stocks-trump-tariffs.html" />
-        <id>https://www.nytimes.com/2025/04/06/business/stocks-trump-tariffs.html</id>
-        <updated>Mon, 07 Apr 2025 08:49:33 +0800</updated>
-        <summary type="html"><![CDATA[标普500, 期货, 交易, 投资者, 抛售
+        <title><![CDATA[Trump’s Trade War Raises Bar for Fed Rate Cuts]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/business/federal-reserve-trump-tariffs-inflation.html" />
+        <id>https://www.nytimes.com/2025/04/07/business/federal-reserve-trump-tariffs-inflation.html</id>
+        <updated>Mon, 07 Apr 2025 17:03:38 +0800</updated>
+        <summary type="html"><![CDATA[关税, 通胀, 增长, 货币政策, 央行
 
 <br><br>总结:
-1. 标普500期货在周一开盘前允许投资者进行交易。
-2. 期货交易加剧了上周的抛售趋势。
+1. 即将生效的关税可能会加剧通货膨胀，使经济增长放缓。
+2. 这将使中央银行在制定货币政策时面临更加复杂的局面。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[‘The White Lotus’: Jason Isaacs on His Character’s Fate in the Finale]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/arts/television/the-white-lotus-jason-isaacs-season-finale.html" />
+        <id>https://www.nytimes.com/2025/04/07/arts/television/the-white-lotus-jason-isaacs-season-finale.html</id>
+        <updated>Mon, 07 Apr 2025 17:03:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 口音, 尴尬, 裸露, 角色, 结局
+
+<br><br>总结:
+* 演员讨论了角色需要掌握的口音问题。
+* 他坦诚了在镜头前裸露身体时所感受到的尴尬。
+* 他还谈到了自己在剧集中饰演角色的出人意料的命运，尤其是在季终集中。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Marcia Marcus, Painter Rediscovered in Her Last Decade, Dies at 97]]></title>
-        <link href="https://www.nytimes.com/2025/04/06/arts/marcia-marcus-dead.html" />
-        <id>https://www.nytimes.com/2025/04/06/arts/marcia-marcus-dead.html</id>
-        <updated>Mon, 07 Apr 2025 06:20:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 艺术家, 1960年代, 市中心, 被遗忘, 重现
+        <title><![CDATA[Gulf Coast Shrimpers See Hope in Trump’s Tariffs]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/us/politics/trump-tariffs-fishing-shrimp.html" />
+        <id>https://www.nytimes.com/2025/04/07/us/politics/trump-tariffs-fishing-shrimp.html</id>
+        <updated>Mon, 07 Apr 2025 17:03:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 关税, 对虾, 进口, 渔民, 美国
 
 <br><br>总结:
-1. 这位艺术家在1960年代曾是市中心一位受欢迎的艺术家。
-2. 之后，由于艺术潮流的变迁，她的作品被艺术界遗忘，她也因此默默无闻。
-3. 现在，她令人惊艳的、充满新意的作品再次展出。
+1. 美国对虾渔民长期以来难以与廉价的进口养殖对虾竞争。
+2. 现在，新的关税政策的出台。
+3. 这让从佛罗里达到路易斯安那州的美国渔民感到乐观。
+4. 他们认为关税有助于提高他们的竞争力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[What We Know About the Case of Gaza Aid Workers Killed by Israeli Gunfire]]></title>
-        <link href="https://www.nytimes.com/2025/04/06/world/middleeast/gaza-aid-workers-killed-israel.html" />
-        <id>https://www.nytimes.com/2025/04/06/world/middleeast/gaza-aid-workers-killed-israel.html</id>
-        <updated>Mon, 07 Apr 2025 01:29:08 +0800</updated>
-        <summary type="html"><![CDATA[关键词：以色列军方, 视频证据, 矛盾, 承认错误, 调查
+        <title><![CDATA[Trump’s Crusade Against Antisemitism Is Extremely Bad for the Jews]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/opinion/trump-jewish-antisemitism-wesleyan.html" />
+        <id>https://www.nytimes.com/2025/04/07/opinion/trump-jewish-antisemitism-wesleyan.html</id>
+        <updated>Mon, 07 Apr 2025 17:02:08 +0800</updated>
+        <summary type="html"><![CDATA[反犹主义，盟友，敌人，政治，警惕
 
 <br><br>总结:
-以色列军方最初对某事件的描述与实际情况不符。
-<br>
-视频证据的出现，直接揭示了军方最初描述的矛盾之处。
-<br>
-面对视频证据，以色列军方承认了之前的“错误”。
-<br>
-表明军方将对此事件进行调查。
+*   反犹主义是真实存在的，需要正视。
+*   仅仅因为某人是敌人的敌人，并不意味着他们就是我们的朋友。
+*   在政治环境中，我们需要保持警惕，不要轻易结盟，尤其是在涉及复杂问题如反犹主义时。
+*   不要因为共同的敌人而忽略潜在盟友本身的价值观和立场。
+*   对任何形式的偏见和仇恨都应该保持警惕。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Ukraine Questions Value of Black Sea Truce With Russia]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/world/europe/ukraine-russia-black-sea-truce.html" />
+        <id>https://www.nytimes.com/2025/04/07/world/europe/ukraine-russia-black-sea-truce.html</id>
+        <updated>Mon, 07 Apr 2025 17:01:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 乌克兰海军, 商业航运, 停战, 基辅, 俄罗斯 Vessels
+
+<br><br>总结:
+乌克兰海军军官和港口城市的企业主正在思考基辅从停战中能获得的利益。
+要点：
+1. 乌克兰海军和企业界关注停战的潜在好处。
+2. 发生在乌克兰击退俄罗斯船只并恢复商业航运之后。
+3. 关注点在于基辅可以从停战中得到什么。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Kennedy’s Plan to Send Health Officials to ‘Indian Country’ Angers Native Leaders]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/us/politics/rfk-indian-health-service.html" />
+        <id>https://www.nytimes.com/2025/04/07/us/politics/rfk-indian-health-service.html</id>
+        <updated>Mon, 07 Apr 2025 17:01:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Robert F. Kennedy Jr., Indian Health Service, Native American, 改善, 质疑
+
+<br><br>总结:
+Robert F. Kennedy Jr. 担任卫生部长，承诺改善印第安人健康服务 (Indian Health Service)。<br>
+然而，美国原住民领导人对此表示质疑和怀疑。<br>
+一位领导人表达了对该服务的失望，称其为“可耻的”。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[10 Books Like ‘The White Lotus’ If You Can’t Wait for Next Season]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/books/books-like-the-white-lotus.html" />
+        <id>https://www.nytimes.com/2025/04/07/books/books-like-the-white-lotus.html</id>
+        <updated>Mon, 07 Apr 2025 17:01:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词：讽刺, 富裕, 谋杀, 悬疑, 奢华
+
+<br><br>总结:
+这篇文章介绍了一系列与电视剧《白莲花度假村》(Mike White)风格相似的小说，旨在满足观众对该剧的喜爱。
+* 这些小说主题涵盖了对富裕阶层的辛辣讽刺。
+* 其中包含设置在奢华度假村的谋杀悬疑故事。
+* 这些作品可以缓解观众对《白莲花度假村》的“剧荒”。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How X Is Benefiting as Musk Advises Trump]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/technology/elon-musk-x-trump.html" />
+        <id>https://www.nytimes.com/2025/04/07/technology/elon-musk-x-trump.html</id>
+        <updated>Mon, 07 Apr 2025 17:01:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 社交媒体, 广告商, 回归, 政府新闻, 曝光
+
+<br><br>总结:
+1. 社交媒体平台重新吸引了广告商的回归。
+2. 该平台作为政府官方新闻来源，获得了新的曝光机会。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Man Is Shot by N.Y.P.D. After Attacking 4 Girls With Cleaver]]></title>
+        <link href="https://www.nytimes.com/2025/04/06/nyregion/nypd-brooklyn-attack-cleaver.html" />
+        <id>https://www.nytimes.com/2025/04/06/nyregion/nypd-brooklyn-attack-cleaver.html</id>
+        <updated>Mon, 07 Apr 2025 05:06:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 关系，女孩，幸存，报警，布鲁克林
+
+<br><br>总结:
+*   警方表示，这名男子可能与幸存的女孩们有亲属关系。
+*   一名11岁的女孩拨打了911报警电话。
+*   警察迅速赶到孩子们居住的布鲁克林住所。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[YouTube Premium 在 19 个国家/地区提高订阅价格，1 个国家降价]]></title>
+        <link href="https://uuzi.net/youtube-premium-price-increase-19-countries-decrease-1/" />
+        <id>https://uuzi.net/youtube-premium-price-increase-19-countries-decrease-1/</id>
+        <updated>Mon, 07 Apr 2025 15:06:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：YouTube Premium, 价格, 订阅, 上涨, 下降
+
+<br><br>总结:
+1. YouTube Premium在近期更新了20个地区的订阅价格。
+2. 其中19个国家/地区的订阅价格上涨。
+3. 仅有1个国家/地区的订阅价格下降。
+4. 具体国家和价格变动细节未提及。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[China Tries to Downplay the Trade War’s Effects on Its Economy]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/world/asia/china-trade-war-tariffs.html" />
+        <id>https://www.nytimes.com/2025/04/07/world/asia/china-trade-war-tariffs.html</id>
+        <updated>Mon, 07 Apr 2025 14:39:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：经济 disruption，北京，美国压力，审查，国内批评
+
+<br><br>总结:
+1. 面对经济 disruption，北京展现出抵御美国压力的强大姿态。
+2. 同时，北京在国内审查批评声音。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[虫师/seldom]]></title>
+        <link href="https://gitee.com/fnngj/seldom" />
+        <id>https://gitee.com/fnngj/seldom</id>
+        <updated>Mon, 07 Apr 2025 20:09:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词：unittest, 测试框架, Web, App, API
+
+<br><br>总结:
+该文章主要介绍了一个基于unittest全功能测试框架。
+<br>它支持Web测试。
+<br>同时它也支持App测试。
+<br>此外，该框架还支持API测试。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[‘The White Lotus’ Season 3 Finale Recap: Bloodshed and Sacrifice]]></title>
+        <link href="https://www.nytimes.com/2025/04/06/arts/television/white-lotus-recap-season-3-finale.html" />
+        <id>https://www.nytimes.com/2025/04/06/arts/television/white-lotus-recap-season-3-finale.html</id>
+        <updated>Mon, 07 Apr 2025 12:14:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 幸福结局, 悲惨结局, 反转, 观众, 猜测
+
+<br><br>总结:
+*   部分角色获得了幸福的结局。
+*   部分角色的结局非常悲惨。
+*   剧情包含许多反转。
+*   这些反转让观众保持猜测。
+*   观众直到最后一刻才能确定最终结果。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Trump’s Tariffs Imperil the Fortunes of a Nissan Factory Town]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/business/nissan-kanda-japan-factory.html" />
+        <id>https://www.nytimes.com/2025/04/07/business/nissan-kanda-japan-factory.html</id>
+        <updated>Mon, 07 Apr 2025 12:09:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Kanda, 汽车工厂, 出口, 美国, 经济增长
+
+<br><br>总结:
+1. Kanda是日本南部沿海地区，它的经济增长与当地一家汽车工厂的发展密切相关。
+2. 该汽车工厂生产的汽车有一半出口到美国。
+3. 这暗示了Kanda的经济高度依赖于对美国的汽车出口。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[In a Strongman State, a Trump Order Extinguishes Flickers of Freedom]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/world/asia/in-a-strongman-state-a-trump-order-extinguishes-flickers-of-freedom.html" />
+        <id>https://www.nytimes.com/2025/04/07/world/asia/in-a-strongman-state-a-trump-order-extinguishes-flickers-of-freedom.html</id>
+        <updated>Mon, 07 Apr 2025 12:01:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 柬埔寨, 专制, 媒体, 压制, 美国制裁
+
+<br><br>总结:
+1. 柬埔寨的专制政权压制了该国几乎所有独立媒体。
+2. 剩下的少数媒体也面临着生存危机。
+3. 这归因于美国总统特朗普的行政指令（制裁）。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[As Netanyahu Heads to Washington, Trump Is Already a Close Ally]]></title>
+        <link href="https://www.nytimes.com/2025/04/07/us/politics/netanyahu-trump-israel-gaza.html" />
+        <id>https://www.nytimes.com/2025/04/07/us/politics/netanyahu-trump-israel-gaza.html</id>
+        <updated>Mon, 07 Apr 2025 12:01:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 内塔尼亚胡, 政治策略, 危机应对, 相似性
+
+<br><br>总结:
+1. 特朗普和内塔尼亚胡在面临政治困境时，采取了相似的政治策略。
+2. 他们的策略包含利用媒体宣传，争取支持者。
+3. 他们都试图将自己描绘成受害者。
+4. 具体的相似之处没有在原文中详细展开。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Judge Calls Mistaken Deportation of Maryland Man a ‘Grievous Error’]]></title>
+        <link href="https://www.nytimes.com/2025/04/06/us/politics/trump-deportation-el-salvador-judge-xinis.html" />
+        <id>https://www.nytimes.com/2025/04/06/us/politics/trump-deportation-el-salvador-judge-xinis.html</id>
+        <updated>Sun, 06 Apr 2025 22:54:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Trump政府, Kilmar Armando Abrego Garcia, 法官Paula Xinis, 遣返, 归还
+
+<br><br>总结:
+1. 法官Paula Xinis下令特朗普政府必须在周一之前将Kilmar Armando Abrego Garcia归还。
+2. 法官Paula Xinis同时拒绝了暂停执行该命令的请求。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Jay North, Child Star Who Played ‘Dennis the Menace,’ Dies at 73]]></title>
+        <link href="https://www.nytimes.com/2025/04/06/arts/television/jay-north-dennis-the-menance-dead.html" />
+        <id>https://www.nytimes.com/2025/04/06/arts/television/jay-north-dennis-the-menance-dead.html</id>
+        <updated>Mon, 07 Apr 2025 11:51:13 +0800</updated>
+        <summary type="html"><![CDATA[丹尼斯·米切尔, 情景喜剧, CBS, 1959, 1963
+
+<br><br>总结:
+要点1：文章介绍了某人因扮演情景喜剧《丹尼斯·米切尔》中的角色而闻名。
+要点2：该角色的特点是金发。
+要点3：这部情景喜剧在CBS电视台播出。
+要点4：播出时间为1959年至1963年。
 ]]></summary>
     </entry>
     
