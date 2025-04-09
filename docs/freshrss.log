@@ -1,65 +1,45 @@
 ------------------------------------------------------
-Started: 2025-04-08 22:11:40.021587
-Existing_entries: 14
+Started: 2025-04-09 00:58:40.943715
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
 Token length: 190
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Panama Official Accuses Hong Kong Port Operator of Misconduct](https://www.nytimes.com/2025/04/08/business/panama-ports-ck-hutchison-audit.html)
-Token length: 200
+Append: [Judge Orders White House to Restore AP’s Access to Trump](https://www.nytimes.com/2025/04/08/us/politics/trump-ap-oval-office-access.html)
+Token length: 147
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Maintains 104% China Tariffs as U.S. Officials Signal Openness to Talks](https://www.nytimes.com/2025/04/08/us/politics/trump-tariffs-greer.html)
-Token length: 149
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Dozens Die in Floods Hitting Congo’s Capital](https://www.nytimes.com/2025/04/08/world/africa/congo-kinshasa-floods.html)
-Token length: 190
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Panama Canal Ship Pilot Navigates Tricky Waters, and Trump](https://www.nytimes.com/2025/04/08/world/americas/panama-canal-ship-pilot.html)
-Token length: 167
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [In Trump Cases, Supreme Court Retreats From Confrontation](https://www.nytimes.com/2025/04/08/us/supreme-court-trump-confrontation.html)
-Token length: 65
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [There’s Nothing Real About Trump’s ‘Real America’](https://www.nytimes.com/2025/04/08/opinion/trump-deporation-america.html)
-Token length: 130
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Tariffs May Make It Too Expensive to ‘Drill, Baby, Drill’](https://www.nytimes.com/2025/04/08/climate/tariffs-oil-drilling-trump.html)
-Token length: 159
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Supreme Court Pauses Ruling Requiring Trump to Rehire Thousands of Federal Workers](https://www.nytimes.com/2025/04/08/us/politics/supreme-court-probationary-workers.html)
-Token length: 156
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump Signs Executive Orders Aimed at Reviving U.S. Coal Industry](https://www.nytimes.com/2025/04/08/climate/trump-order-coal-mining.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '10'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}
-Append: [Man Pleads Guilty to Trying to Assassinate Justice Kavanaugh](https://www.nytimes.com/2025/04/08/us/kavanaugh-assassination-attempt-guilty.html)
+Append: [3 Are Killed in Shooting Near Fredericksburg, Va., Authorities Say](https://www.nytimes.com/2025/04/08/us/shooting-virginia-fredericksburg.html)
 Token length: 151
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Belgian Prince Seeks Pension Benefits](https://www.nytimes.com/2025/04/08/world/europe/belgium-prince-social-security-benefits-ruling.html)
-Token length: 162
+Append: [Trump Officials Freeze $1 Billion for Cornell and $790 Million for Northwestern](https://www.nytimes.com/2025/04/08/us/politics/cornell-northwestern-university-funds-trump.html)
+Token length: 153
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Musk Slams Navarro, Trump’s Trade Adviser, Exposing Inner Circle Rift](https://www.nytimes.com/2025/04/08/us/politics/musk-navarro-tariffs-fight.html)
-Token length: 121
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [He Was Held Captive in His Room for Decades. Then He Set It on Fire.](https://www.nytimes.com/2025/04/08/nyregion/ct-waterbury-captive.html)
-Token length: 137
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Trump’s Tariffs Are Already Reducing Car Imports and Idling Factories](https://www.nytimes.com/2025/04/08/business/trump-tariffs-cars-auto-industry.html)
-Token length: 128
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [I.R.S. Agrees to Share Migrants’ Tax Information With ICE](https://www.nytimes.com/2025/04/08/us/politics/irs-ice-tax-data-deal.html)
-Token length: 157
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [How Do You Rebuild a Place Like the Palisades?](https://www.nytimes.com/2025/04/08/magazine/palisades-fire-rebuild.html)
-Token length: 175
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [A New Push to Open the Doors on Childhood Sexual Abuse](https://www.nytimes.com/2025/04/08/us/non-disclosure-agreements-statute-of-limitations-states.html)
-Token length: 186
-Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Two Chinese Citizens Captured in Ukraine While Fighting for Russia, Zelensky Says](https://www.nytimes.com/2025/04/08/world/europe/zelensky-russia-chinese-belgorod.html)
+Append: [U.S. Commanders Worry Yemen Campaign Will Drain Arms Needed to Deter China](https://www.nytimes.com/2025/04/08/us/politics/china-weapons-yemen-bombing.html)
 Token length: 166
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Case in Texas Could Shed More Light on Invocation of Alien Enemies Act](https://www.nytimes.com/2025/04/08/us/politics/case-in-texas-could-shed-more-light-on-invocation-of-alien-enemies-act.html)
-Token length: 93
+Append: [The Skin on Mysterious Medieval Books Concealed a Shaggy Surprise](https://www.nytimes.com/2025/04/08/science/medieval-books-hair-binding.html)
+Token length: 145
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [I.R.S. Audits Are at a Record Low. Trump’s Cuts Could Make Them Even Rarer.](https://www.nytimes.com/2025/04/08/upshot/irs-tax-audits-cuts.html)
-append_entries: 20
-Finish: 2025-04-08 22:12:49.481225
+Append: [Gang War Ravaged East Harlem for Six Months, Prosecutors Say](https://www.nytimes.com/2025/04/08/nyregion/east-harlem-gang-war-charges.html)
+Token length: 167
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump’s Social Security Promise Under Strain as DOGE Cuts Take Toll](https://www.nytimes.com/2025/04/08/us/social-security-trump.html)
+Token length: 151
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [William Finn, Tony-Winning Composer for ‘Falsettos,’ Dies at 73](https://www.nytimes.com/2025/04/08/theater/william-finn-dead.html)
+Token length: 188
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Nuclear Testing Not Advised, Trump’s Nominee Says in Senate Hearing](https://www.nytimes.com/2025/04/08/science/nuclear-testing-nnsa-williams.html)
+Token length: 115
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump Pressed Ahead With Sweeping Tariffs](https://www.nytimes.com/2025/04/08/briefing/trump-latest-tariffs-roof-collapse-dominican-republic.html)
+Token length: 142
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [The Loose Screws, Hot Flames and Infinite Joy of William Finn](https://www.nytimes.com/2025/04/08/theater/william-finn-appraisal.html)
+Token length: 149
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Guterres, at U.N., Denounces Israel’s Gaza Aid Blockade](https://www.nytimes.com/2025/04/08/world/middleeast/guterres-israel-gaza-blockade.html)
+Token length: 132
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump and Netanyahu Steer Toward an Ugly World, Together](https://www.nytimes.com/2025/04/08/opinion/trump-netanyahu-united-states-israel-autocracy.html)
+append_entries: 13
+Finish: 2025-04-09 00:59:44.744491
