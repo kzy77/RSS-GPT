@@ -1,15 +1,56 @@
 ------------------------------------------------------
-Started: 2025-04-09 14:13:12.040010
-Existing_entries: 19
+Started: 2025-04-09 16:15:51.431795
+Existing_entries: 3
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 523
+Token length: 175
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [手机也能跑AI大模型！支持DeepSeek R1、Llama 3.3、Qwen2.5等，iOS/安卓离线使用，完全免费开源！| 零度解说](https://www.freedidi.com/19084.html)
-Token length: 187
+Append: [Coalition Deal in Germany Clears Way for Friedrich Merz to Become Chancellor](https://www.nytimes.com/2025/04/09/world/europe/friedrich-merz-chancellor-coalition-deal.html)
+Token length: 166
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [Netanyahu Sticks By Trump’s Brazen Proposal for Gazans to Leave](https://www.nytimes.com/2025/04/09/world/middleeast/netanyahu-trump-gaza.html)
-Token length: 199
+Append: [Israeli Airstrike in Gaza City Leaves Many Dead, Health Officials There Say](https://www.nytimes.com/2025/04/09/world/middleeast/israel-gaza-city-strike-hamas.html)
+Token length: 107
 Summarized using gemini model: gemini-2.0-flash-exp
-Append: [The House Republicans Holding Out Against Trump’s Budget and Tax Cut Plan](https://www.nytimes.com/2025/04/09/us/politics/trump-budget-house-republicans-deficit.html)
-append_entries: 3
-Finish: 2025-04-09 14:13:15.640611
+Append: [Bond Sell Off Raises Questions About U.S. Safe Haven Status](https://www.nytimes.com/2025/04/09/business/economy/bonds-tariffs-safe-haven.html)
+Token length: 193
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Britain Lost Out on Euro Disney. Now It’s Getting a Universal Theme Park.](https://www.nytimes.com/2025/04/09/world/europe/britain-universal-theme-park.html)
+Token length: 111
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Death Toll in Dominican Republic Roof Collapse Hits 113](https://www.nytimes.com/2025/04/09/world/americas/dominican-republic-roof-collapse.html)
+Token length: 46
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [What Rights Do Migrants Have?](https://www.nytimes.com/2025/04/09/briefing/immigration-due-process-donald-trump.html)
+Token length: 147
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Late Night Frantically Tries to Keep Up With Trump’s Tariffs](https://www.nytimes.com/2025/04/09/arts/television/desi-lydic-trump-tariffs-china.html)
+Token length: 169
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [China Dismisses Ukraine’s Assertion That ‘Many’ Chinese Are Fighting for Russia](https://www.nytimes.com/2025/04/09/world/asia/china-ukraine-russia.html)
+Token length: 34
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [A Game of Chicken With China, and How Much Plastic Is in the Human Brain](https://www.nytimes.com/2025/04/09/podcasts/the-headlines/china-tariff-plastics-brain-epic-universe.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash-exp): Gemini summary failed with model gemini-2.0-flash-exp: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash-exp'}, 'quotaValue': '10'}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}
+Append: [For U.S. and China, a Risky Game of Chicken With No Off-Ramp in Sight](https://www.nytimes.com/2025/04/09/world/asia/china-us-tariff-trade.html)
+Token length: 177
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Islamic State Regains Strength in Syria](https://www.nytimes.com/2025/04/09/world/middleeast/syria-isis-prisoners.html)
+Token length: 156
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump’s Gulag Archipelago](https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html)
+Token length: 79
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump’s Lust for Power Cannot Be Satiated](https://www.nytimes.com/2025/04/09/opinion/trump-tariffs-rationale-power.html)
+Token length: 166
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Trump’s Immigration Crackdown Expands to Green Card Holders](https://www.nytimes.com/2025/04/09/us/immigration-green-card-crackdown-trump.html)
+Token length: 146
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [NOAA Staffing Cuts Threaten Years of Salmon Harvests](https://www.nytimes.com/2025/04/09/climate/noaa-doge-cuts-salmon.html)
+Token length: 159
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [In Washington, a Rural County Sheriff Fights His State’s Immigration Law](https://www.nytimes.com/2025/04/09/us/washington-immigration-law.html)
+Token length: 147
+Summarized using gemini model: gemini-2.0-flash-exp
+Append: [Gun Owners Are Preparing for When All Hell Breaks Loose](https://www.nytimes.com/2025/04/09/us/prepared-citizens-guns.html)
+append_entries: 17
+Finish: 2025-04-09 16:16:59.759100
