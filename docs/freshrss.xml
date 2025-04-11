@@ -2,199 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 11 Apr 2025 04:15:18 GMT</updated>
+    <updated>Fri, 11 Apr 2025 06:17:47 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[OpenAI 即将发布 GPT-4.1：多模态模型再升级，新增 Mini 和 Nano 轻量版本]]></title>
-        <link href="https://www.freedidi.com/19098.html" />
-        <id>https://www.freedidi.com/19098.html</id>
-        <updated>Fri, 11 Apr 2025 11:43:55 +0800</updated>
-        <summary type="html"><![CDATA[OpenAI, GPT-4.1, 多模态, Mini, 轻量级
+        <title><![CDATA[Rafael Correa’s Shadow and Why Ecuador Can’t Move On]]></title>
+        <link href="https://www.nytimes.com/2025/04/11/opinion/rafael-correa-daniel-noboa-ecuador.html" />
+        <id>https://www.nytimes.com/2025/04/11/opinion/rafael-correa-daniel-noboa-ecuador.html</id>
+        <updated>Fri, 11 Apr 2025 13:00:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词：拉斐尔·科雷亚, 支持者, 反对者, 替代方案, 持续存在
 
 <br><br>总结:
-要点1：OpenAI 准备推出 GPT-4.1 系列模型，包括标准版、Mini 和 Nano 等版本，可能下周发布。
-要点2：GPT-4.1 是 GPT-4o 的升级版，提升推理速度、对话流畅度和图像生成质量，优化处理效率。
-要点3：Mini 和 Nano 版本为轻量级模型，适合资源受限的设备，扩展模型在消费级硬件、IoT 和移动端的部署。
-要点4：未来推出的模型还包括 GPT-4-mini、GPT-4-mini-high 和 GPT-4o-3，满足不同使用场景。
-要点5：ChatGPT 网页版已准备接入新模型，标志着 OpenAI 的基础平台已完成部署。
-要点6：OpenAI 的模型策略从“大而全”向“精细化、多层次”演进，轻量模型家族将成为产品生态的重要组成部分。
+拉斐尔·科雷亚的影响力仍然存在。<br><br>
+他的支持者是维持其影响力的原因之一。<br><br>
+反对者未能构建出令人信服的替代方案，也间接促成了科雷亚影响力的持续。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[微软紧急发布带外更新，修复 Office 2016 安装 KB5002700 后大面积崩溃问题]]></title>
-        <link href="https://www.freedidi.com/19093.html" />
-        <id>https://www.freedidi.com/19093.html</id>
-        <updated>Fri, 11 Apr 2025 11:38:14 +0800</updated>
-        <summary type="html"><![CDATA[Office 2016, 崩溃, KB5002700, KB5002623, 带外更新
+        <title><![CDATA[Eric Dane, McSteamy of ‘Grey’s Anatomy,’ Says He Has A.L.S.]]></title>
+        <link href="https://www.nytimes.com/2025/04/11/us/eric-dane-diagnosis-als.html" />
+        <id>https://www.nytimes.com/2025/04/11/us/eric-dane-diagnosis-als.html</id>
+        <updated>Fri, 11 Apr 2025 12:30:01 +0800</updated>
+        <summary type="html"><![CDATA[演员, 回归, 角色, 电视剧, 诊断
 
 <br><br>总结:
-*   Office 2016 在安装 4 月例行安全更新 KB5002700 后，Word、Excel 和 Outlook 出现大范围崩溃。
-*   微软确认问题无法通过 KIR 修复，发布紧急带外更新 KB5002623。
-*   KB5002623 修复了 KB5002700 导致的应用无响应或崩溃问题。
-*   彻底修复需安装 KB5002700 和 KB5002623 两个更新，若已卸载 KB5002700，建议重新安装后再安装 KB5002623。
-*   KB5002623 仅适用于通过 MSI 方式安装的 Office 2016，注意选择正确的系统架构版本。
+1. 一位演员向《人物》杂志透露了自己的诊断情况。
+2. 该演员计划回归热门电视剧《亢奋》。
+3. 他将继续扮演他在该剧中的角色。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[ESET 病毒扫描工具被曝严重漏洞，黑客借此部署后门程序悄然绕过检测！]]></title>
-        <link href="https://www.freedidi.com/19088.html" />
-        <id>https://www.freedidi.com/19088.html</id>
-        <updated>Fri, 11 Apr 2025 11:34:10 +0800</updated>
-        <summary type="html"><![CDATA[ESET, 漏洞, 卡巴斯基, ToddyCat, TCESB
+        <title><![CDATA[Hegseth to Attend Ukraine Defense Group Only Virtually]]></title>
+        <link href="https://www.nytimes.com/2025/04/11/us/hegseth-ukraine-defense-group.html" />
+        <id>https://www.nytimes.com/2025/04/11/us/hegseth-ukraine-defense-group.html</id>
+        <updated>Fri, 11 Apr 2025 12:01:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 国防部长, 支持, 基辅, 俄罗斯, 领导权
 
 <br><br>总结:
-1. ESET 命令行扫描工具存在 CVE-2024-11859 漏洞，由卡巴斯基发现。
-2. ToddyCat APT 组织利用该漏洞，通过劫持 DLL 加载流程注入恶意代码。
-3. 攻击者将恶意 DLL 放入 ESET 扫描工具目录，使其加载后门程序 TCESB。TCESB 基于 EDRSandBlast 修改，用于规避安全检测。
-4. ESET 在收到通报后已发布安全更新修复漏洞，卡巴斯基在修复后才公开细节。
-5. 卡巴斯基建议监控可疑行为，如漏洞驱动安装和加载内核调试符号。
+1. 前国防部长奥斯汀在2022年俄罗斯入侵后成立了一个大约50个国家组成的组织，旨在支持基辅。
+2. 现在，Hegseth先生已经放弃了该组织的领导权。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[openEuler/openAMDC]]></title>
-        <link href="https://gitee.com/openeuler/openAMDC" />
-        <id>https://gitee.com/openeuler/openAMDC</id>
-        <updated>Fri, 11 Apr 2025 15:58:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词：openAMDC, 开源, key-value数据库, RESP协议, Redis兼容
+        <title><![CDATA[Effort to Get Starlink in South Africa Collides With Tension Over Musk]]></title>
+        <link href="https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html" />
+        <id>https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html</id>
+        <updated>Fri, 11 Apr 2025 12:01:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 南非, 所有权规则, 马斯克, Starlink, 种族主义
 
 <br><br>总结:
-1. openAMDC是一个开源的键值（key-value）内存数据库。
-2. 它具有高性能。
-3. 它兼容RESPv2和RESPv3协议。
-4. 它支持所有Redis命令和数据结构。
+1. 南非政府官员正准备放宽黑人所有权规定。
+2. 马斯克认为这些规定是种族主义的。
+3. 这些规定阻碍了他的卫星互联网服务Starlink在其祖国运营。
+4. 政府放宽规定旨在解决马斯克的担忧。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[科技爱好者周刊（第 344 期）：制造业正在"零工化"]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html</id>
-        <updated>Fri, 11 Apr 2025 07:39:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词：零工化，制造业，自动化，派遣工，劳动权益
+        <title><![CDATA[How TikTok’s Parent, ByteDance, Became an A.I. Powerhouse]]></title>
+        <link href="https://www.nytimes.com/2025/04/11/business/tiktok-china-bytedance-ai.html" />
+        <id>https://www.nytimes.com/2025/04/11/business/tiktok-china-bytedance-ai.html</id>
+        <updated>Fri, 11 Apr 2025 12:00:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: ByteDance, 人工智能, 数据, 用户行为, 应用
 
 <br><br>总结:
-1.  制造业"零工化"现象日益普遍，派遣工比例高，原因包括自动化增加低技能岗位、招工平台便利、消费市场季节性波动、城乡户籍制度、企业降低用工成本以及市场不确定性等。
-2.  零工化趋势对劳动者不利，权益难以保障，且可能长期困于低技能岗位。
-3.  专家呼吁政府加强零工社保、规范企业用工，并提供教育培训，提升零工技能。
-4.  文章还分享了一系列科技动态、文章、工具、AI应用和资源，涵盖无人机LED屏幕、基因工程复活恐狼、AI代码生成等。
-5.  GPT-4o模型强大的作图功能风靡网络，但因使用量巨大，OpenAI限制了免费用户的使用。
+1. ByteDance利用一系列流行应用收集了大量用户数据。
+2. 这些数据成为ByteDance开发先进人工智能的关键资源。
+3. 这些数据包含了十亿用户如何使用互联网的信息。
+4. 通过分析用户行为，ByteDance得以改进其AI技术。
+5. 大规模数据为ByteDance在人工智能领域的竞争中提供了优势。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Helicopters Pack N.Y. Skies, Despite Years of Noise and Air Pollution Complaints]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/nyregion/helicopter-tours-noise-air-pollution.html" />
-        <id>https://www.nytimes.com/2025/04/10/nyregion/helicopter-tours-noise-air-pollution.html</id>
-        <updated>Fri, 11 Apr 2025 07:48:46 +0800</updated>
-        <summary type="html"><![CDATA[直升机旅游, 经济贡献, 游客数量, 下降, 政策影响
+        <title><![CDATA[Helicopter Crashes Into Hudson River, Killing Six]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/nyregion/helicopter-hudson-crash-victims.html" />
+        <id>https://www.nytimes.com/2025/04/10/nyregion/helicopter-hudson-crash-victims.html</id>
+        <updated>Fri, 11 Apr 2025 09:22:47 +0800</updated>
+        <summary type="html"><![CDATA[西班牙, 高管, 直升机, 坠毁, 死亡
 
 <br><br>总结:
-* 该行业的直升机旅游每年为城市旅游经济贡献5000万美元。
-* 然而，自2016年以来，游客乘坐直升机旅游的次数已经减半，说明该行业发展受阻。
-* 原因可能与新的政策或法规有关，影响了游客数量。
+1. 一位来自西班牙的高管、他的妻子和三个孩子在直升机坠毁事故中丧生。
+2. 直升机的飞行员也在此次事故中不幸遇难。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Supreme Court Sides With Migrant Trump Administration Wrongly Deported]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/us/politics/supreme-court-trump-deported-migrant.html" />
-        <id>https://www.nytimes.com/2025/04/10/us/politics/supreme-court-trump-deported-migrant.html</id>
-        <updated>Fri, 11 Apr 2025 09:16:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普政府，遣返，移民，监狱，萨尔瓦多
+        <title><![CDATA[In Cabinet Meeting, Musk Seems to Drastically Lower DOGE’s Savings Goal]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/us/politics/musk-doge-drops-goal.html" />
+        <id>https://www.nytimes.com/2025/04/10/us/politics/musk-doge-drops-goal.html</id>
+        <updated>Fri, 11 Apr 2025 08:00:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 马斯克, 联邦预算, 削减, 1500亿, 目标
 
 <br><br>总结:
-1. 一位审判法官命令特朗普政府采取措施。
-2. 目的是将移民Kilmar Armando Abrego Garcia从萨尔瓦多的臭名昭著的监狱中遣返回来。
+* 马斯克表示其团队计划在一个预算年度内削减1500亿美元的联邦预算。
+* 这一目标远低于他之前提出的削减1万亿美元的目标。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Denisovans Extend Their Range to Asia’s Pacific Coast]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/science/archaeology-denisovan-taiwan.html" />
-        <id>https://www.nytimes.com/2025/04/10/science/archaeology-denisovan-taiwan.html</id>
-        <updated>Fri, 11 Apr 2025 02:00:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词：丹尼索瓦人, 台湾, 骨骼, 发现, 远古人类
+        <title><![CDATA[Trump’s Tariff Fight With China Poses New Threat to US Farmers]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/business/economy/trump-tariffs-china-farmers.html" />
+        <id>https://www.nytimes.com/2025/04/10/business/economy/trump-tariffs-china-farmers.html</id>
+        <updated>Fri, 11 Apr 2025 09:57:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大豆，生产者，特朗普政府，关税，中国
 
 <br><br>总结:
-* 科学家在台湾发现一块骨骼化石，
-* 该骨骼被确认为属于丹尼索瓦人，
-* 这一发现表明丹尼索瓦人的活动范围远超之前的认知，
-* 此前，丹尼索瓦人的遗迹主要在西伯利亚被发现，
-* 这次在台湾的发现扩展了我们对丹尼索瓦人地理分布的理解。
+1. 美国大豆生产者警告说，特朗普政府对中国征收145%的新关税，可能导致农场破产。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump Close to Winning Concessions From More Law Firms]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/us/politics/trump-law-firms.html" />
-        <id>https://www.nytimes.com/2025/04/10/us/politics/trump-law-firms.html</id>
-        <updated>Fri, 11 Apr 2025 06:07:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词：反垄断，企业，交易，总统，行业
+        <title><![CDATA[Trump Threatens More Tariffs and Sanctions on Mexico Over Long-Running Water Dispute]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/us/politics/trump-mexico-water-dispute.html" />
+        <id>https://www.nytimes.com/2025/04/10/us/politics/trump-mexico-water-dispute.html</id>
+        <updated>Fri, 11 Apr 2025 09:45:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 水债务, 美国, 墨西哥, 条约, 特朗普
 
 <br><br>总结:
-首先，由于总统对该行业的愤怒，可能即将出现四到五家企业达成协议，以应对总统的反垄断行动。
-其次，这些交易将会作为一个整体方案公布。
-第三， 这标志着总统对该行业的打击行动将会升级。
+1. 特朗普总统提到了墨西哥欠美国的水债务问题。
+2. 该债务源于两国之间管理共享河流使用的条约。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Tariff Angst Rises]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/briefing/tariffs-wall-street-helicopter-crash-hudson-river.html" />
-        <id>https://www.nytimes.com/2025/04/10/briefing/tariffs-wall-street-helicopter-crash-hudson-river.html</id>
-        <updated>Fri, 11 Apr 2025 05:47:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 直升机, 坠毁, 哈德逊河, 死亡, 最新
+        <title><![CDATA[Charter Company in Fatal Helicopter Crash Had Prior Mechanical Failures]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/nyregion/nyc-helicopter-crash-company-mechanical.html" />
+        <id>https://www.nytimes.com/2025/04/10/nyregion/nyc-helicopter-crash-company-mechanical.html</id>
+        <updated>Fri, 11 Apr 2025 09:19:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 纽约直升机包机, 飞机故障, 飞行事故, 安全记录, 历史事件
 
 <br><br>总结:
-1. 一架直升机在哈德逊河坠毁。
-2. 事故导致六人死亡。
-3. 这是周四晚上的最新消息。
+1. 纽约直升机包机公司过去12年中至少发生过两次飞机在飞行中出现故障的事件。
+2. 这表明该公司存在安全记录方面的问题。
+3. 这些历史事件提醒人们需要关注该公司运营的潜在风险。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump Insists ‘Everybody’ Wants to Make a Trade Deal With the U.S.]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/us/politics/trump-tariffs-trade-deals.html" />
-        <id>https://www.nytimes.com/2025/04/10/us/politics/trump-tariffs-trade-deals.html</id>
-        <updated>Fri, 11 Apr 2025 05:47:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 外国政府, 美国, 谈判, 协议, 不明确
+        <title><![CDATA[Stanford Protesters Charged With Felonies for Pro-Palestinian Occupation]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/us/stanford-protesters-palestine-felony.html" />
+        <id>https://www.nytimes.com/2025/04/10/us/stanford-protesters-palestine-felony.html</id>
+        <updated>Fri, 11 Apr 2025 07:53:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词：斯坦福大学，抗议者，行政楼，非法侵入，刑事指控
 
 <br><br>总结:
-要点1: 美国政府宣称许多外国政府正在积极寻求与美国进行谈判。
-要点2: 然而，具体哪些国家以及谈判的具体内容尚不明确。
-要点3: 关于协议的细节以及可能达成协议的国家，目前信息有限，情况并不清晰。
+1. 检察官对12名抗议者提起重罪指控。
+2. 这些抗议者大部分与斯坦福大学有关联。
+3. 他们被指控在2024年非法闯入并占领了一栋行政楼。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Nintendo Switch Game Console Release Is Whipsawed by Tariff Threats]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/technology/nintendo-switch-tariffs-trump.html" />
-        <id>https://www.nytimes.com/2025/04/10/technology/nintendo-switch-tariffs-trump.html</id>
-        <updated>Fri, 11 Apr 2025 01:47:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 越南, 中国, 关税, 特朗普, Nintendo
+        <title><![CDATA[Mahmoud Khalil’s Lawyers Will Seek Testimony From Marco Rubio]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/nyregion/khalil-rubio-testimony-deportation.html" />
+        <id>https://www.nytimes.com/2025/04/10/nyregion/khalil-rubio-testimony-deportation.html</id>
+        <updated>Fri, 11 Apr 2025 07:22:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 拘留, 哥伦比亚大学, 律师, 指控, 信息
 
 <br><br>总结:
-*   公司将大部分生产从中国转移到越南，以规避关税。
-*   特朗普总统计划的不确定性给Nintendo带来了困扰。
+* 一名哥伦比亚大学毕业生被拘留。
+* 律师认为缺乏实质性的指控。
+* 律师要求国务卿提供更多信息。
+* 律师承认他们的努力可能不会成功。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[How Do the iPhone 16E and Google Pixel 9A Compare to More Expensive Models?]]></title>
-        <link href="https://www.nytimes.com/2025/04/10/technology/personaltech/iphone-16e-pixel-9a-cheaper-phone-models.html" />
-        <id>https://www.nytimes.com/2025/04/10/technology/personaltech/iphone-16e-pixel-9a-cheaper-phone-models.html</id>
-        <updated>Thu, 10 Apr 2025 22:55:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 关税, 苹果, 谷歌, 入门级手机, 省钱
+        <title><![CDATA[Trump Deploys Justice Dept. to Scrutinize Ex-Officials and Perceived Foes]]></title>
+        <link href="https://www.nytimes.com/2025/04/10/us/politics/trump-officials-justice-department.html" />
+        <id>https://www.nytimes.com/2025/04/10/us/politics/trump-officials-justice-department.html</id>
+        <updated>Fri, 11 Apr 2025 07:06:06 +0800</updated>
+        <summary type="html"><![CDATA[总统权力, 司法独立, 法律审查, 权力滥用, 政治干预
 
 <br><br>总结:
-文章指出，在全球贸易形势紧张，关税可能导致商品价格上涨的背景下，苹果和谷歌最新推出的入门级手机为消费者提供了一个省钱的机会。 这两个品牌的新机型在功能上有所取舍，旨在以更低的价格吸引对手机性能要求不高的用户。 因此，在关税可能增加其他商品成本的时候，选择苹果或谷歌的入门级手机可以有效降低消费支出。
+要点1：总统签署政令，指示司法部审查一名前官员是否违法，此举史无前例。
+<br>要点2：该政令引发了对总统权力是否越界的质疑。
+<br>要点3：人们担心总统干预司法，损害司法独立性。
+<br>要点4：政令可能被视为权力滥用，用于政治目的。
 ]]></summary>
     </entry>
     
