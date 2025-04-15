@@ -2,95 +2,222 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Tue, 15 Apr 2025 08:17:36 GMT</updated>
+    <updated>Tue, 15 Apr 2025 10:13:46 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[ICLR&CVPR 2025美团技术团队论文精选]]></title>
-        <link href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html" />
-        <id>https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html</id>
-        <updated>Mon, 14 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 美团，CVPR 2025，ICLR 2025，论文，大模型
+        <title><![CDATA[Tom Friedman Thinks We’re Getting China Dangerously Wrong]]></title>
+        <link href="https://www.nytimes.com/2025/04/15/opinion/ezra-klein-podcast-thomas-friedman.html" />
+        <id>https://www.nytimes.com/2025/04/15/opinion/ezra-klein-podcast-thomas-friedman.html</id>
+        <updated>Tue, 15 Apr 2025 17:04:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 中国, 贸易战, 误解, 政策制定者
 
 <br><br>总结:
-1. 美团技术团队在CVPR 2025和ICLR 2025上发表了10篇论文。
-2. 这些论文涵盖了图像生成、通用视觉分割、多模态文档理解、视频理解大模型等多个方向。
-3. 还涉及了大模型效果评估、大语言模型的对齐和量化方法。
-4. 这些论文代表了美团在相关领域的技术沉淀和应用。
+要点一：文章讨论了《纽约时报》评论员对特朗普及其美国政策制定者在不断升级的贸易战中对中国存在的误解的看法。
+要点二：评论员主要关注特朗普政府对中国的认知偏差。
+要点三：评论员认为这种误解加剧了贸易紧张局势。
+要点四：文章旨在分析美国对华政策的根本问题。
+要点五：评论员呼吁更理性、更准确地理解中国，以制定更有效的政策。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Missing Rotor Is Recovered From Site of Helicopter Crash in Hudson River]]></title>
-        <link href="https://www.nytimes.com/2025/04/14/nyregion/nyc-helicopter-crash-rotor-hudson.html" />
-        <id>https://www.nytimes.com/2025/04/14/nyregion/nyc-helicopter-crash-rotor-hudson.html</id>
-        <updated>Tue, 15 Apr 2025 10:30:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 飞机, 观光飞行, 空中解体, 旋翼, 坠落
+        <title><![CDATA[JD Vance Drops Ohio State’s Championship Trophy During White House Celebration]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/us/politics/jd-vance-ohio-state-football-trophy.html" />
+        <id>https://www.nytimes.com/2025/04/14/us/politics/jd-vance-ohio-state-football-trophy.html</id>
+        <updated>Tue, 15 Apr 2025 12:29:16 +0800</updated>
+        <summary type="html"><![CDATA[副总统, 参议员, 俄亥俄州, 俄亥俄州立大学, 社交媒体
 
 <br><br>总结:
-1. 一架飞机正在进行观光飞行。
-2. 飞机在空中突然解体。
-3. 飞机的旋翼与机身分离，并坠向水面。
+1. 副总统曾是俄亥俄州的参议员。
+2. 副总统毕业于俄亥俄州立大学。
+3. 副总统在社交媒体上对一件小事故进行了调侃。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trump Administration Memo Proposes Cutting State Department Funding by Nearly Half]]></title>
-        <link href="https://www.nytimes.com/2025/04/14/us/politics/trump-state-department-budget-cuts.html" />
-        <id>https://www.nytimes.com/2025/04/14/us/politics/trump-state-department-budget-cuts.html</id>
-        <updated>Tue, 15 Apr 2025 07:59:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 联合国，北约，国际组织，资金，削减
+        <title><![CDATA[GPT 4.1 正式发布！如何免费使用？2种方法可供白嫖！]]></title>
+        <link href="https://www.freedidi.com/19112.html" />
+        <id>https://www.freedidi.com/19112.html</id>
+        <updated>Tue, 15 Apr 2025 12:16:23 +0800</updated>
+        <summary type="html"><![CDATA[GPT-4.1, 模型, 性能, 免费, 平台
 
 <br><br>总结:
-*  一份涉及美国政府机构和白宫的计划草案正在进行中。
-*  该草案计划取消几乎所有对包括联合国和北约在内的国际组织的资金支持。
-*  这意味着对这些国际组织的资金将大幅减少甚至完全停止。
+1. OpenAI发布GPT-4.1系列三款模型，包括GPT-4.1、GPT-4.1 mini和GPT-4.1 nano，上下文窗口高达100万tokens，知识覆盖至2024年6月。
+2. GPT-4.1系列在代码生成、指令执行和长文本理解等方面超越GPT-4o及其mini版。
+3. 用户可以通过Cursor和Windsurf平台免费调用GPT-4.1模型，Cursor需要在设置中开启，Windsurf对所有用户免费开放。
+4. 文章提供了使用GPT-4.1生成的跑酷游戏和射击游戏的代码示例，可直接在p5.js编辑器中运行。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Suspect in Arson at Gov. Josh Shapiro’s Mansion Had Troubled Past]]></title>
-        <link href="https://www.nytimes.com/2025/04/14/us/pennsylvania-shapiro-attacker.html" />
-        <id>https://www.nytimes.com/2025/04/14/us/pennsylvania-shapiro-attacker.html</id>
-        <updated>Tue, 15 Apr 2025 08:46:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词：纵火, Shapiro, 州长, 谋杀未遂, 家庭暴力
+        <title><![CDATA[Airport Warned Repeatedly on Bird Strikes Before Fatal Jeju Air Plane Crash]]></title>
+        <link href="https://www.nytimes.com/2025/04/15/world/asia/south-korea-plane-crash-warnings.html" />
+        <id>https://www.nytimes.com/2025/04/15/world/asia/south-korea-plane-crash-warnings.html</id>
+        <updated>Tue, 15 Apr 2025 12:01:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 济州航空, 坠机, 安全指南, 机场运营, 事故责任
 
 <br><br>总结:
-1. 一名男子被指控纵火焚烧州长 Josh Shapiro 的住所。
-2. 该男子此前曾因袭击家人而被指控。
-3. 周一，他因谋杀未遂和纵火罪被传讯。
+济州航空2216航班于12月发生坠机事故，造成179人死亡。<br><br>
+事故原因是机场运营方未能遵守国际和韩国国内的安全指南。<br><br>
+因此，机场运营方需承担事故责任，因为未能尽到防范类似事故发生的义务。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[No Jail Time for Queens Man Convicted of Spying for China]]></title>
-        <link href="https://www.nytimes.com/2025/04/14/nyregion/shujun-wang-chinese-spy-sentence.html" />
-        <id>https://www.nytimes.com/2025/04/14/nyregion/shujun-wang-chinese-spy-sentence.html</id>
-        <updated>Tue, 15 Apr 2025 07:00:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 王书君，民主组织，异议人士，中国，监督释放
+        <title><![CDATA[A Crisis at a British Steel Mill Has Cast a Shadow Over U.K.-China Relations]]></title>
+        <link href="https://www.nytimes.com/2025/04/15/world/europe/a-crisis-at-a-british-steel-mill-has-cast-a-shadow-over-uk-china-relations.html" />
+        <id>https://www.nytimes.com/2025/04/15/world/europe/a-crisis-at-a-british-steel-mill-has-cast-a-shadow-over-uk-china-relations.html</id>
+        <updated>Tue, 15 Apr 2025 12:01:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 英国, 中国, 钢铁公司, 纠纷, 重新考虑
 
 <br><br>总结:
-* 王书君曾在亲民主组织工作。
-* 他同时向中国传递异议人士的信息。
-* 检察官指控了他的行为。
-* 他被判处三年的监督释放。
+1. 英国与中国的关系正在靠近。
+2. 英国一家中国拥有的钢铁公司发生了纠纷。
+3. 这起纠纷可能会促使英国重新考虑与中国的关系。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Columbia Activist Arrested by ICE at His Appointment for Citizenship]]></title>
-        <link href="https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html" />
-        <id>https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html</id>
-        <updated>Tue, 15 Apr 2025 08:10:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 永久居民, Mahdawi, 逮捕, 未起诉, 美国
+        <title><![CDATA[Trump’s Trade War With China Could Be Good for India. But Is It Ready?]]></title>
+        <link href="https://www.nytimes.com/2025/04/15/business/trump-tariffs-india-manufacturing.html" />
+        <id>https://www.nytimes.com/2025/04/15/business/trump-tariffs-india-manufacturing.html</id>
+        <updated>Tue, 15 Apr 2025 12:00:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词：印度，制造业，劳动力，供应链，官僚主义
 
 <br><br>总结:
-1. Mohsen Mahdawi是美国永久居民，已在美国居住10年。
-2. Mahdawi在佛蒙特州被逮捕。
-3. Mahdawi目前尚未被指控任何罪行。
+1. 印度希望成为新的世界工厂。
+2. 印度制造业面临挑战：缺乏熟练劳动力。
+3. 印度制造业面临挑战：难以获得零部件。
+4. 印度制造业面临挑战：受到官僚主义的阻碍。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[谷歌福利！免费打造超强 Ubuntu VPS：16核64GB内存，2.5Gbps 网络！]]></title>
+        <link href="https://uuzi.net/free-ubuntu-vps-google-16-core-64gb-2-5gbps/" />
+        <id>https://uuzi.net/free-ubuntu-vps-google-16-core-64gb-2-5gbps/</id>
+        <updated>Tue, 15 Apr 2025 11:49:18 +0800</updated>
+        <summary type="html"><![CDATA[IDX, 免费, 云IDE, Ubuntu VPS, Google
+
+<br><br>总结:
+1. Google 推出 IDX 平台，提供免费福利。
+2. IDX 平台是一个集成开发环境。
+3. 用户可以通过 IDX 免费创建 16 核 CPU，64GB 内存，2.5Gbps 带宽的 Ubuntu VPS。
+4. 创建过程简单，无需配置，无需信用卡。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[El Salvador’s Leader Says He Won’t Return Wrongly Deported Maryland Man]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/us/politics/trump-bukele-prison-deported-migrants.html" />
+        <id>https://www.nytimes.com/2025/04/14/us/politics/trump-bukele-prison-deported-migrants.html</id>
+        <updated>Tue, 15 Apr 2025 09:18:34 +0800</updated>
+        <summary type="html"><![CDATA[特朗普, 布克莱, 萨尔瓦多, 椭圆形办公室, 法院
+
+<br><br>总结:
+1. 特朗普总统与萨尔瓦多总统布克莱在椭圆形办公室会面。
+2. 这次会面鲜明地体现了特朗普总统对联邦法院的漠视态度。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Pope Places Antoni Gaudí, ‘God’s Architect,’ on Path to Sainthood]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/world/europe/antoni-gaudi-architect-saint.html" />
+        <id>https://www.nytimes.com/2025/04/14/world/europe/antoni-gaudi-architect-saint.html</id>
+        <updated>Tue, 15 Apr 2025 06:08:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 教宗方济各, 英雄美德, 圣徒, 认可, 20世纪
+
+<br><br>总结:
+* 教宗方济各签署法令。
+* 该法令认可了一位20世纪有远见之人的“英雄美德”。
+* 此举将该人物置于可能的圣徒之路。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[knownsec/aipyapp]]></title>
+        <link href="https://gitee.com/Knownsec-com/aipyapp" />
+        <id>https://gitee.com/Knownsec-com/aipyapp</id>
+        <updated>Tue, 15 Apr 2025 17:04:55 +0800</updated>
+        <summary type="html"><![CDATA[我需要您提供文章内容才能完成总结。请您提供需要总结的文章。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[The Vibe Shifts Against the Right]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/opinion/dissident-right-trump.html" />
+        <id>https://www.nytimes.com/2025/04/14/opinion/dissident-right-trump.html</id>
+        <updated>Tue, 15 Apr 2025 09:26:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 右翼思想, 特朗普, 实践, 反思, 转变
+
+<br><br>总结:
+*   过去认为右翼思想有吸引力的人们开始反思。
+*   原因是他们目睹了特朗普将这些思想付诸实践。
+*   这导致他们对右翼思想的态度发生了转变。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Court Temporarily Blocks Trump’s Shuttering of Migrant Entry Program]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/us/politics/trump-administration-parole-migrant.html" />
+        <id>https://www.nytimes.com/2025/04/14/us/politics/trump-administration-parole-migrant.html</id>
+        <updated>Tue, 15 Apr 2025 09:14:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 拜登政府, 移民项目, 古巴, 尼加拉瓜, 委内瑞拉, 海地
+
+<br><br>总结:
+* 拜登政府实施了一项移民项目。
+* 该项目允许来自古巴、尼加拉瓜、委内瑞拉和海地的数十万移民进入美国。
+* 这些移民可以在美国合法工作。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Harvard’s Strength and How Far We’ve Fallen So Quickly]]></title>
+        <link href="https://www.nytimes.com/live/2025/04/07/opinion/thepoint/harvard-trump-administration-statement" />
+        <id>https://www.nytimes.com/live/2025/04/07/opinion/thepoint/harvard-trump-administration-statement</id>
+        <updated>Tue, 15 Apr 2025 10:50:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普政府，回应，兴奋，期望，降低
+
+<br><br>总结:
+1. 文章指出人们对于某个事件或机构回应特朗普政府的举动感到“兴奋”。
+2. 这种“兴奋”的根源在于人们的期望已经大幅度降低。
+3. 说明对该事件或机构的肯定，是因为对其要求降低，对其回应的及格线已经很低。
+4. 暗示这种“兴奋”实际上反映了人们对现状的不满和失望。
+5. 说明期望的降低和反应速度都很快，暗示了某种负面趋势。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Suspect Arrested in Arson Attacks on New Mexico G.O.P. Office and a Tesla Dealer]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/us/tesla-arson-arrest-new-mexico.html" />
+        <id>https://www.nytimes.com/2025/04/14/us/tesla-arson-arrest-new-mexico.html</id>
+        <updated>Tue, 15 Apr 2025 08:40:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Jamison Wagner, 阿尔伯克基, 监禁, 40年, 刑期
+
+<br><br>总结:
+* 阿尔伯克基居民Jamison Wagner面临指控。
+* 如果罪名成立，他可能面临最高40年的监禁。
+* 具体的指控类型未提及。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Trump’s Dilemma: A Trade War That Threatens Every Other Negotiation With China]]></title>
+        <link href="https://www.nytimes.com/2025/04/14/us/politics/trump-trade-war-china-dilemma.html" />
+        <id>https://www.nytimes.com/2025/04/14/us/politics/trump-trade-war-china-dilemma.html</id>
+        <updated>Tue, 15 Apr 2025 08:21:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 关税, 中国, 谈判, 威胁
+
+<br><br>总结:
+要点一：特朗普政府通过对中国征收关税来争取贸易谈判中的优势。
+要点二：这种策略具有很高的风险，可能导致全面贸易战。
+要点三：关税战威胁到其他重要议题的谈判，例如台湾问题，芬太尼问题以及TikTok问题。
+要点四：贸易战可能导致中美关系进一步恶化，并可能阻碍双方在其他关键领域的合作。
+要点五：特朗普的策略可能会适得其反，最终损害美国的利益。
 ]]></summary>
     </entry>
     
