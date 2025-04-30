@@ -1,6 +1,64 @@
 ------------------------------------------------------
-Started: 2025-04-30 18:26:44.569535
-Existing_entries: 20
+Started: 2025-04-30 20:20:12.817353
+Existing_entries: 0
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-Finish: 2025-04-30 18:26:45.691101
+Token length: 93
+Summarized using gemini model: gemini-2.0-flash
+Append: [At Least 4 Die in Pennsylvania as Storm Leaves 400,000 Without Power](https://www.nytimes.com/2025/04/30/weather/northeast-storms-outages-deaths-pennsylvania.html)
+Token length: 126
+Summarized using gemini model: gemini-2.0-flash
+Append: [As N.J. Transit Strike Looms, Riders Are Warned to Prepare for ‘Chaos’](https://www.nytimes.com/2025/04/30/nyregion/nj-transit-strike-talks.html)
+Token length: 136
+Summarized using gemini model: gemini-2.0-flash
+Append: [Wildfires in Israel Force Towns Near Jerusalem to Evacuate](https://www.nytimes.com/2025/04/30/world/middleeast/israel-wildfires-evacuations-jerusalem.html)
+Token length: 37
+Summarized using gemini model: gemini-2.0-flash
+Append: [Turns Out, G.D.P. Doesn’t Buy Happiness](https://www.nytimes.com/2025/04/30/opinion/happiness-economic-development.html)
+Token length: 89
+Summarized using gemini model: gemini-2.0-flash
+Append: [The Tiny Oklahoma School Trying to Bring Religion Back to Classrooms](https://www.nytimes.com/2024/12/12/magazine/religion-oklahoma-public-schools.html)
+Token length: 118
+Summarized using gemini model: gemini-2.0-flash
+Append: [Google’s Chief Says Breakup Proposal Would Hobble Business](https://www.nytimes.com/2025/04/30/technology/google-ceo-antitrust-trial.html)
+Token length: 187
+Summarized using gemini model: gemini-2.0-flash
+Append: [Vietnam Veterans Worry That a War’s Hard Lessons Are Being Forgotten](https://www.nytimes.com/2025/04/30/us/vietnam-veterans-saigon-lessons-1975.html)
+Token length: 149
+Summarized using gemini model: gemini-2.0-flash
+Append: [Harvey Weinstein Pushed, Grabbed and Then Attacked, Witness Testifies in NYC Trial](https://www.nytimes.com/2025/04/30/nyregion/harvey-weinstein-nyc-sex-abuse-trial-witness-testimony.html)
+Token length: 130
+Summarized using gemini model: gemini-2.0-flash
+Append: [Mercedes-Benz and Volkswagen Facing Uncertainty With Tariffs](https://www.nytimes.com/2025/04/30/business/european-automakers-tariff-uncertainty.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [A Diver Visited a Fallen Whale. When He Returned, It Was Gone.](https://www.nytimes.com/2025/04/30/science/whale-carcass-san-diego.html)
+Token length: 282
+Summarized using gemini model: gemini-2.0-flash
+Append: [The One Big Reason Canada’s Liberals Won](https://www.nytimes.com/video/world/canada/100000010136051/why-canadas-liberals-won.html)
+Token length: 122
+Summarized using gemini model: gemini-2.0-flash
+Append: [In 2nd Term, Trump Pushes Bounds of Presidential Power, Testing Rule of Law](https://www.nytimes.com/2025/04/30/us/politics/trump-100-days-president-power-law.html)
+Token length: 99
+Summarized using gemini model: gemini-2.0-flash
+Append: [Torture and Secret C.I.A. Prisons Haunt 9/11 Case in Judge’s Ruling](https://www.nytimes.com/2025/04/29/us/politics/cia-torture-sept-11.html)
+Token length: 152
+Summarized using gemini model: gemini-2.0-flash
+Append: [Elise Stefanik, Cabinet Hopes Dashed, Considers Her Next Move](https://www.nytimes.com/2025/04/30/us/politics/elise-stefanik-trump-johnson-cabinet.html)
+Token length: 141
+Summarized using gemini model: gemini-2.0-flash
+Append: [Sean ‘Diddy’ Combs’s Path From Harlem to Stardom, and Now Federal Court](https://www.nytimes.com/2025/04/30/arts/music/sean-combs-diddy-trial.html)
+Token length: 130
+Summarized using gemini model: gemini-2.0-flash
+Append: [On California’s State Bar Exam, More Questions Than Answers](https://www.nytimes.com/2025/04/30/us/california-state-bar-exam.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [Kangaroo Startles Drivers on an Alabama Interstate](https://www.nytimes.com/2025/04/30/us/kangaroo-alabama.html)
+Token length: 160
+Summarized using gemini model: gemini-2.0-flash
+Append: [Under Trump, Stocks Have the Worst Start to a Presidential Term Since 1974](https://www.nytimes.com/2025/04/30/business/trump-stocks-tariffs.html)
+Token length: 52
+Summarized using gemini model: gemini-2.0-flash
+Append: [Maureen Dowd and Carlos Lozada on 100 Days of Trump’s ‘Fake Reality’](https://www.nytimes.com/2025/04/30/opinion/trump-first-100-days.html)
+Token length: 162
+Summarized using gemini model: gemini-2.0-flash
+Append: [5 Takeaways: Behind Trump’s Deal to Deport Migrants to El Salvador](https://www.nytimes.com/2025/04/30/us/politics/trump-el-salvador-prison-deal-takeaways.html)
+append_entries: 20
+Finish: 2025-04-30 20:21:24.014990
