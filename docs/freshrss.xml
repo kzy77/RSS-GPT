@@ -2,40 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Thu, 01 May 2025 12:36:21 GMT</updated>
+    <updated>Thu, 01 May 2025 14:17:02 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[记一次 .NET某工控任务调度系统 卡死分析]]></title>
-        <link href="https://www.cnblogs.com/huangxincheng/p/18842230" />
-        <id>https://www.cnblogs.com/huangxincheng/p/18842230</id>
-        <updated>Wed, 23 Apr 2025 09:58:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：定时任务, Furion, Bug, 调试, 复现
+        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
+        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
+        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
+        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： SQL Server, 性能优化, 索引, 分库分表, 数据库
 
 <br><br>总结:
-一：背景：一位朋友在 Furion 框架下遇到了定时任务的 Bug，无法本地复现，寻求帮助。
-二：问题：定时任务出现异常，但无法通过简单代码在本地环境中重现，导致难以定位和修复。
-三：解决尝试：最初寻求 Furion 框架专家帮助，但因无法复现而搁置。
-四：关键点：无法复现是调试的关键难题，使问题难以深入分析和解决。
-五：未解决：最终未提供解决方案，强调了无法复现Bug给调试带来的困难。
+1.  在大数据时代，SQL Server数据库性能至关重要，尤其是单表数据量达到亿级时。
+2.  优化策略涵盖了从索引优化到架构升级的全链路。
+3.  重点讨论了在决定是否进行分库分表前，可以采取的优化措施。
+4.  旨在帮助用户在面对海量数据时，提升SQL Server性能，保持系统稳定。
+5.  最终目标是在数据洪流中有效管理和利用数据。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[使用TypeScript开发微信小程序(云开发)-入门篇]]></title>
-        <link href="https://www.cnblogs.com/greywen/p/18841741" />
-        <id>https://www.cnblogs.com/greywen/p/18841741</id>
-        <updated>Wed, 23 Apr 2025 09:04:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：小程序云开发, TypeScript, 环境配置, nodejs, 初始化
+        <title><![CDATA[谷歌的 NotebookLM 能生成中文播客了]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</id>
+        <updated>Thu, 01 May 2025 12:26:24 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[vmess://eyJhZGQiOiJhbnRyYWsuYXJjYW5wYXllci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSIsImlkIjoiNDk3NjQ2NmMtYWJiNC00MzUzLW...]]></title>
+        <link href="https://t.me/V2rayNg_madam/4462" />
+        <id>https://t.me/V2rayNg_madam/4462</id>
+        <updated>Thu, 01 May 2025 01:57:35 +0800</updated>
+        <summary type="html"><![CDATA[V2RayNG, 配置, 速度, 购买, 支持
 
 <br><br>总结:
-1.  首先，确认本地已经安装并配置好 nodejs 环境。
-2.  其次，通过 npm 安装 TypeScript (`npm install typescript --save-dev`) 作为开发依赖。
-3.  然后，使用 TypeScript 编译器初始化配置 (`./node_modules/.bin/tsc --init`)，生成 `tsconfig.json` 文件。
-4.  最后，根据实际需要修改 `tsconfig.json` 文件，调整 TypeScript 的编译选项，使其适应小程序云开发的开发需求。
+1. 提供一个V2RayNG配置，声称高速稳定。
+2.  鼓励用户连接后通过反应表达速度体验。
+3.  推销付费V2RayNG服务，承诺提供在线支持和更稳定的连接。
+4.  声称购买一次即可成为长期客户。
+5.  提供销售管理员联系方式和客户满意度频道链接。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个基于 C# Unity 开发的金庸群侠传 3D 版，直呼牛逼！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18855502" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18855502</id>
+        <updated>Wed, 30 Apr 2025 15:26:00 +0800</updated>
+        <summary type="html"><![CDATA[金庸群侠传, Unity, C#, 3D, 重制版
+
+<br><br>总结:
+* 项目JYX2是基于C# Unity开发的金庸群侠传3D重制版。
+* 这是一个回合制战棋战斗开放世界RPG游戏。
+* 该项目旨在重现金庸群侠传的经典回忆。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18852627" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18852627</id>
+        <updated>Tue, 29 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：EF Core 10, LeftJoin, RightJoin, LINQ, 组合查询
+
+<br><br>总结:
+EF Core 10 的主要更新是引入了对 LINQ 中 LeftJoin 和 RightJoin 运算符的直接支持。
+<br>
+以前，开发人员需要使用复杂的组合查询，例如 SelectMany、GroupJoin 和 DefaultIfEmpty 来模拟 LEFT JOIN 的行为。
+<br>
+这一新特性简化了 LINQ 查询，使其更易于编写和理解，并提高了开发效率。
+<br>
+总体来说，EF Core 10 通过原生支持 LeftJoin 和 RightJoin 简化了数据库查询操作。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[vless://b8243b8a-dece-432f-8b4d-88696594cbf8@vip.panelmarzban.com:1300?security=reality&encryption=none&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScU...]]></title>
+        <link href="https://t.me/V2rayNg_madam/4461" />
+        <id>https://t.me/V2rayNg_madam/4461</id>
+        <updated>Tue, 29 Apr 2025 06:04:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词: V2rayNg, 配置, 速度, 稳定, 购买
+
+<br><br>总结:
+要点1: 提供的V2rayNg配置具有高速和强大的性能。
+要点2: 强调配置的稳定性和无断连。
+要点3: 提供在线支持，并鼓励用户尝试该服务。
+要点4: 鼓励用户购买，并声称购买一次就会成为永久客户。
+要点5: 提供了购买渠道和客户反馈渠道。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Promise 这个新 API 真香！]]></title>
+        <link href="https://www.cnblogs.com/leadingcode/p/18851970" />
+        <id>https://www.cnblogs.com/leadingcode/p/18851970</id>
+        <updated>Mon, 28 Apr 2025 16:41:00 +0800</updated>
+        <summary type="html"><![CDATA[异步, Promise, 操作, 神器, 处理
+
+<br><br>总结:
+* 本文主要讨论异步操作。
+* Promise是处理异步操作的重要工具。
+* 文章来源为“沉浸式趣谈”博客，作者为yaolifeng。
+* 转载需注明出处和版权信息。
+* 作者鼓励读者点赞、评论、转发以示支持。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[为什么多智能体不会成功？]]></title>
+        <link href="https://www.cnblogs.com/yexiaochai/p/18851347" />
+        <id>https://www.cnblogs.com/yexiaochai/p/18851347</id>
+        <updated>Mon, 28 Apr 2025 12:14:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《HelloGitHub》第 109 期]]></title>
+        <link href="https://www.cnblogs.com/xueweihan/p/18850411" />
+        <id>https://www.cnblogs.com/xueweihan/p/18850411</id>
+        <updated>Mon, 28 Apr 2025 08:26:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：HelloGitHub, 开源项目, GitHub, 入门级, 有趣
+
+<br><br>总结:
+1. HelloGitHub是一个分享GitHub上有趣且入门级开源项目的平台。
+2. 项目涵盖实战项目、入门教程、黑科技、开源书籍和大厂开源项目等多种类型。
+3. 项目覆盖多种编程语言，如Python等。
+4. 其目标是激发用户对开源项目的兴趣。
+5. 可以在 github.com/521xueweihan/HelloGitHub 找到该项目。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[springboot分页查询并行优化实践]]></title>
+        <link href="https://www.cnblogs.com/better-farther-world2099/p/18849712" />
+        <id>https://www.cnblogs.com/better-farther-world2099/p/18849712</id>
+        <updated>Sun, 27 Apr 2025 15:56:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[微服务之间有哪些调用方式？]]></title>
+        <link href="https://www.cnblogs.com/liyongqiang-cc/p/18849484" />
+        <id>https://www.cnblogs.com/liyongqiang-cc/p/18849484</id>
+        <updated>Sun, 27 Apr 2025 15:04:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云]]></title>
+        <link href="https://www.cnblogs.com/deali/p/18848662" />
+        <id>https://www.cnblogs.com/deali/p/18848662</id>
+        <updated>Sun, 27 Apr 2025 00:07:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Avalonia, StarBlogPublisher, 词云, 优化, 布局算法
+
+<br><br>总结:
+1. 作者使用 Avalonia 开发了 StarBlogPublisher，其中包含词云展示功能。
+2. 初版词云效果粗糙，只是简单堆叠文字。
+3. 作者旨在优化词云的布局算法，提升展示效果。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径]]></title>
+        <link href="https://www.cnblogs.com/lindexi/p/18847625" />
+        <id>https://www.cnblogs.com/lindexi/p/18847625</id>
+        <updated>Sat, 26 Apr 2025 07:18:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: dotnet runtime, 框架依赖发布, AppHostRelativeDotNet, dotnet 9, 全局运行时
+
+<br><br>总结:
+1.  框架依赖发布需要 dotnet runtime 运行时支持。
+2.  Dotnet 9 之前，需要安装全局 dotnet 运行时。
+3.  Dotnet 9 引入 AppHostRelativeDotNet 机制。
+4.  该机制允许应用程序不再依赖全局 dotnet 运行时。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[使用 AOT 编译保护 .NET 核心逻辑，同时支持第三方扩展]]></title>
+        <link href="https://www.cnblogs.com/tansm/p/18847143/AOTDemo" />
+        <id>https://www.cnblogs.com/tansm/p/18847143/AOTDemo</id>
+        <updated>Fri, 25 Apr 2025 18:04:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 二次开发, 反编译保护, .NET组件, 反射机制, 核心逻辑
+
+<br><br>总结:
+1.  目标是创建可供第三方二次开发的.NET组件（DLL），同时保护核心逻辑防止反编译。
+2.  需要支持反射机制，包括访问私有字段，并且坚持使用C#开发。
+3.  博文将分享实现这一目标的探索历程，包括遇到的问题、尝试的方案和最终的解决方案。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[三维装箱问题（3D Bin Packing Problem, 3D-BPP）]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18846755" />
+        <id>https://www.cnblogs.com/FreeSql/p/18846755</id>
+        <updated>Fri, 25 Apr 2025 15:07:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[基于Blazor实现的运输信息管理系统]]></title>
+        <link href="https://www.cnblogs.com/known/p/18844645" />
+        <id>https://www.cnblogs.com/known/p/18844645</id>
+        <updated>Thu, 24 Apr 2025 15:12:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: TIMS, Blazor, 运输管理, 信息化, 微信群
+
+<br><br>总结:
+1. TIMS是一个针对小型运输服务公司开发的运输信息管理系统。
+2. 系统目标是为了解决司机在微信工作群中汇报运输任务信息带来的统计不便和漏单问题。
+3. 系统采用Blazor框架的Auto模式进行开发，具备手机端和PC端协同工作的功能。
+4. 微信群统计容易出现问题，不利于跟客户对账。
+5. TIMS系统的实施可以提高运输任务的管理效率和准确性，避免漏单，并方便与客户对账。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[管理100个小程序-很难吗]]></title>
+        <link href="https://www.cnblogs.com/jijunjian/p/18844317" />
+        <id>https://www.cnblogs.com/jijunjian/p/18844317</id>
+        <updated>Thu, 24 Apr 2025 11:48:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：天目山 徒步 春风 家人 挑战
+
+<br><br>总结:
+1. 群友发起天目山20公里徒步活动，作者因之前有14公里徒步经验，觉得轻松，遂带家人参加。
+2. 徒步初期风景优美，溪流清澈，青山郁郁葱葱，微风习习，鸟语花香，感觉舒适惬意。
+3. (文章未完，无法得知后续要点，请补充原文)
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景]]></title>
+        <link href="https://www.cnblogs.com/code-daily/p/18844112" />
+        <id>https://www.cnblogs.com/code-daily/p/18844112</id>
+        <updated>Thu, 24 Apr 2025 10:16:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: C#，类型系统，值元组，Span，ReadOnlySpan
+
+<br><br>总结:
+1. C# 7.0以来，类型系统引入了多项新特性。
+2. 新特性旨在提升性能、类型安全和开发效率。
+3. 整理范围涵盖C# 7.0到C# 14.0（预览版）。
+4. 重点内容包括值元组、Span、ReadOnlySpan、Memory等。
 ]]></summary>
     </entry>
     
