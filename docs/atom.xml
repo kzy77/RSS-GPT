@@ -2,407 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-04-30T22:20:04Z</updated>
+    <updated>2025-05-01T01:42:07Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[一个基于 C# Unity 开发的金庸群侠传 3D 版，直呼牛逼！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18855502" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18855502</id>
-        <updated>Wed, 30 Apr 2025 15:26:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：金庸群侠传, Unity, C#, 3D, 重制版
+        <title><![CDATA[记一次 .NET某工控任务调度系统 卡死分析]]></title>
+        <link href="https://www.cnblogs.com/huangxincheng/p/18842230" />
+        <id>https://www.cnblogs.com/huangxincheng/p/18842230</id>
+        <updated>Wed, 23 Apr 2025 09:58:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Furion, 定时任务, BUG, 复现, 排查
 
 <br><br>总结:
-1. 项目介绍：这是一个基于C# Unity开发的金庸群侠传3D重制版项目(JYX2)。
-2. 游戏类型：它是一个回合制战棋战斗开放世界RPG游戏。
-3. 目的：旨在重温经典，勾起一代人的回忆。
-4. 技术基础：使用Unity游戏引擎和C#编程语言开发。
+一：背景：一位朋友遇到Furion框架编写的定时任务BUG，请求作者协助排查，但无法本地复现。
+
+二：问题：定时任务执行时间不准确，且难以稳定复现，影响正常功能。
+
+三：排查：作者通过日志分析、代码审查等手段，最终定位到问题根源在于系统时间与NTP服务器同步导致的时间跳跃。
+
+四：原因：Furion定时任务使用ElapsedEventHandler机制，对系统时间变化敏感，时间跳跃会影响任务调度。
+
+五：解决方案：建议使用Quartz.NET等更健壮的定时任务调度框架，或者在Furion中使用更精准的时间计算方式，避免受到系统时间同步的影响。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[.NET Core中的配置Configuration实战]]></title>
-        <link href="https://www.cnblogs.com/caoruipeng/p/18842001" />
-        <id>https://www.cnblogs.com/caoruipeng/p/18842001</id>
-        <updated>Wed, 23 Apr 2025 10:08:00 +0800</updated>
-        <summary type="html"><![CDATA[配置 (Configuration), .NET, 源码, 接口, 实现类
+        <title><![CDATA[使用TypeScript开发微信小程序(云开发)-入门篇]]></title>
+        <link href="https://www.cnblogs.com/greywen/p/18841741" />
+        <id>https://www.cnblogs.com/greywen/p/18841741</id>
+        <updated>Wed, 23 Apr 2025 09:04:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小程序, 云开发, TypeScript, 环境配置, nodejs
 
 <br><br>总结:
-1.  前文详细介绍了.NET中的配置Configuration，并深入解读了源码，解释了核心接口和主要的实现类。
-2.  本文将延续前文，继续深入探讨.NET配置的相关内容 (具体内容需后续补充)。
+1. 检查本地 NodeJS 环境是否已配置好。
+2. 安装 TypeScript，使用命令`npm install typescript --save-dev`进行安装。
+3. 初始化和配置 TypeScript，使用命令`./node_modules/.bin/tsc --init`进行初始化。
+
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18852627" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18852627</id>
-        <updated>Tue, 29 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：EF Core 10, LeftJoin, RightJoin, LINQ, 查询
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-04-28T20:07:11.529-07:00</updated>
+        <summary type="html"><![CDATA[Github注册时间、Claw Cloud Run、免费容器、Docker应用、部署方式
 
-<br><br>总结:
-1. EF Core 10 引入了对 LINQ 中 LeftJoin 和 RightJoin 运算符的直接支持。
-2. 在 EF Core 10 之前，实现 LEFT JOIN 需要使用复杂的组合查询，涉及 SelectMany, GroupJoin 和 DefaultIfEmpty 等操作。
-3.  这项新功能简化了数据库查询，使开发人员能够更轻松地编写和理解 LINQ 查询中的 LEFT JOIN 和 RIGHT JOIN 操作。
-]]></summary>
+Claw Cloud Run是一款免费容器，Github注册时间大于180天即可每月获得5美元赠金，支持各种Docker应用部署。通过查看Github注册时间确定资格，推荐部署轻笔记应用Memos和网盘挂载工具AList。需要查看注册时间的用户可以打开链接获取详细信息。<br><br>总结: Claw Cloud Run是一个免费容器服务，用户注册Github时间超过180天可以获得5美元赠金，支持各种Docker应用部署，可以通过查询Github注册时间确定资格，推荐使用Memos和AList进行部署。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vless://b8243b8a-dece-432f-8b4d-88696594cbf8@vip.panelmarzban.com:1300?security=reality&encryption=none&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScU...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4461" />
-        <id>https://t.me/V2rayNg_madam/4461</id>
-        <updated>Tue, 29 Apr 2025 06:04:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: V2RayNg, Reality, 速度, 稳定, 购买
-
-<br><br>总结:
-1. 提供 V2RayNg 翻墙配置，使用 Reality 协议，强调高速和稳定。
-2. 提供配置的具体参数，包括域名、端口、加密方式等。
-3. 鼓励用户连接成功后给予反馈，包括速度评价。
-4. 推广付费 V2RayNg 服务，声称拥有在线支持和优质体验。
-5. 引导用户联系管理员购买服务，并展示客户满意度频道。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[从零实现富文本编辑器#3-基于Delta的线性数据结构模型]]></title>
-        <link href="https://www.cnblogs.com/WindrunnerMax/p/18840221" />
-        <id>https://www.cnblogs.com/WindrunnerMax/p/18840221</id>
-        <updated>Tue, 22 Apr 2025 10:43:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：数据模型，编辑器，选区模型，DOM模型，状态管理
-
-<br><br>总结:
-*   **数据模型的重要性：** 数据模型是编辑器核心基础，决定选区模型、DOM模型、状态管理等关键模块的设计。不同数据模型会导致不同的选区模型实现 (例：quill的index + len vs. slate的anchor + focus)。
-*   **从零开始：** 自行开发的富文本编辑器应从数据模型设计入手。
-*   **模块影响：** 强调数据模型对编辑器整体架构和后续模块开发的深远影响。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[基于Blazor实现的运输信息管理系统]]></title>
-        <link href="https://www.cnblogs.com/known/p/18844645" />
-        <id>https://www.cnblogs.com/known/p/18844645</id>
-        <updated>Thu, 24 Apr 2025 15:12:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：运输信息管理系统, Blazor, 运输任务, 信息化, 对账
-
-<br><br>总结:
-
-1. 项目目标：针对小型运输服务公司，解决微信群内运输任务信息统计不便、容易漏计以及与客户对账时出现漏单的问题。
-2. 系统方案：开发一个运输信息管理系统（TIMS），实现手机端和PC端协同工作，提升信息管理效率。
-3. 技术选型：系统采用Blazor框架的Auto模式进行开发。
-4. 功能核心：实现运输任务信息的集中管理和统计，避免人工统计误差，提高对账效率。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[管理100个小程序-很难吗]]></title>
-        <link href="https://www.cnblogs.com/jijunjian/p/18844317" />
-        <id>https://www.cnblogs.com/jijunjian/p/18844317</id>
-        <updated>Thu, 24 Apr 2025 11:48:00 +0800</updated>
-        <summary type="html"><![CDATA[天目山, 徒步, 家庭, 挑战, 溪流
-
-<br><br>总结:
-1. 作者一家参与了天目山20公里徒步活动。
-2. 起初景色优美，溪流清澈，青山郁郁葱葱，令人感到惬意。
-3. （文章未完，无法得知徒步过程和挑战的具体内容）
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18844112" />
-        <id>https://www.cnblogs.com/code-daily/p/18844112</id>
-        <updated>Thu, 24 Apr 2025 10:16:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: C# 类型系统 新增特性 值元组 Span Memory
-
-<br><br>总结:
-1.  C# 7.0到C# 14.0引入了多种新数据类型、类型构造和语言特性，旨在提升性能、类型安全性和开发效率。
-2.  新增特性包括值元组，能够方便地聚合多个值。
-3.  引入了`Span<T>`和`ReadOnlySpan<T>`，用于高效地处理连续的内存区域，避免不必要的内存拷贝。
-4.  `Memory<T>` 提供了对内存的抽象，与 Span 类似，但可以跨越非连续的内存。
-5.  文章全面整理了这些类型系统的新增内容，帮助开发者理解和应用这些特性。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何统计不同电话号码的个数？—位图法]]></title>
-        <link href="https://www.cnblogs.com/seven97-top/p/18836050" />
-        <id>https://www.cnblogs.com/seven97-top/p/18836050</id>
-        <updated>Thu, 24 Apr 2025 08:15:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：电话号码, 统计, 去重, 内存限制, Bitmap
-
-<br><br>总结:
-1.  文章讨论了在内存有限制的情况下，统计100亿个8位电话号码中不同号码个数的问题。直接使用HashSet或int数组会超出内存限制。
-2.  问题的核心在于如何在100MB的内存限制下处理如此庞大的数据量，进行有效去重。
-3.  文章指出传统方法因内存容量不足而不可行，暗示需要寻找更节省内存的算法，例如使用Bitmap。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[vmess://eyJhZGQiOiJhbnRyYWsuYXJjYW5wYXllci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSIsImlkIjoiNDk3NjQ2NmMtYWJiNC00MzUzLW...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4462" />
-        <id>https://t.me/V2rayNg_madam/4462</id>
-        <updated>Thu, 01 May 2025 01:57:35 +0800</updated>
-        <summary type="html"><![CDATA[V2rayNg, 配置, 高速, 稳定, 购买
-
-<br><br>总结:
-1. 提供了一个V2rayNg的配置，地址为antrak.arcanpayer.com，端口30919，ID为4976466c-abb4-4353-add6-8c6b4f3859bc。
-2. 该配置声称高速且稳定，鼓励用户使用并给出反馈。
-3.  提供付费的V2rayNg服务，承诺无中断、高速和在线支持，并鼓励用户购买成为长期客户。
-4.  提供销售管理员联系方式和客户满意度频道。
-5.  鼓励用户分享频道链接以获得支持。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[springboot分页查询并行优化实践]]></title>
-        <link href="https://www.cnblogs.com/better-farther-world2099/p/18849712" />
-        <id>https://www.cnblogs.com/better-farther-world2099/p/18849712</id>
-        <updated>Sun, 27 Apr 2025 15:56:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：异步优化, MyBatis-Plus, 分页插件, 数据量, 多表关联
-
-<br><br>总结:
-1. 文章介绍了一种基于异步优化和 MyBatis-Plus 分页插件思想的实践方案，用于解决数据量较大的单表分页查询和较复杂的多表关联查询（包括 group by 等无法进行 count 优化）等场景下的分页查询性能问题。
-2. 该方案的核心技术栈为 Spring Boot + MyBatis-Plus，并利用 JDK 8+ 的 CompletableFuture 实现异步编程。
-3. 适用于查询耗时较长的分页查询场景。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[微服务之间有哪些调用方式？]]></title>
-        <link href="https://www.cnblogs.com/liyongqiang-cc/p/18849484" />
-        <id>https://www.cnblogs.com/liyongqiang-cc/p/18849484</id>
-        <updated>Sun, 27 Apr 2025 15:04:00 +0800</updated>
-        <summary type="html"><![CDATA[微服务，通信方式，同步通信，异步通信，架构
-
-<br><br>总结:
-1. 微服务架构将系统拆分为独立服务，服务间通信至关重要。
-2. 通信方式分为同步通信和异步通信。
-3. 同步通信需要立即返回结果。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云]]></title>
-        <link href="https://www.cnblogs.com/deali/p/18848662" />
-        <id>https://www.cnblogs.com/deali/p/18848662</id>
-        <updated>Sun, 27 Apr 2025 00:07:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Avalonia, StarBlogPublisher, 词云, 优化, 算法
-
-<br><br>总结:
-*   作者使用 Avalonia 开发 StarBlogPublisher，其中包含词云展示功能。
-*   初版词云效果粗糙，仅简单堆叠文字，未体现词云美观性。
-*   作者计划对词云算法进行优化，提升展示效果。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径]]></title>
-        <link href="https://www.cnblogs.com/lindexi/p/18847625" />
-        <id>https://www.cnblogs.com/lindexi/p/18847625</id>
-        <updated>Sat, 26 Apr 2025 07:18:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：dotnet runtime，框架依赖发布，AppHostRelativeDotNet，dotnet 9，全局运行时
-
-<br><br>总结:
-要点1: 框架依赖发布的应用程序通常依赖于 dotnet runtime 运行时环境才能运行。
-
-要点2: 在 dotnet 9 之前，这种依赖通常需要系统安装全局 dotnet 运行时。
-
-要点3: dotnet 9 引入了 AppHostRelativeDotNet 机制。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Promise 这个新 API 真香！]]></title>
-        <link href="https://www.cnblogs.com/leadingcode/p/18851970" />
-        <id>https://www.cnblogs.com/leadingcode/p/18851970</id>
-        <updated>Mon, 28 Apr 2025 16:41:00 +0800</updated>
-        <summary type="html"><![CDATA[异步, Promise, 异步操作, JavaScript, 状态
-
-<br><br>总结:
-1. Promise是处理JavaScript异步操作的关键工具。
-2. 主要探讨了Promise在处理异步操作中的作用，并对其原理进行了深入分析。
-3. 建议读者点赞、评论、转发，以支持作者。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[为什么多智能体不会成功？]]></title>
-        <link href="https://www.cnblogs.com/yexiaochai/p/18851347" />
-        <id>https://www.cnblogs.com/yexiaochai/p/18851347</id>
-        <updated>Mon, 28 Apr 2025 12:14:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI Agent, 项目质量, 低价竞争, 市场抢占, 生存空间
-
-<br><br>总结:
-1.  作者观察到许多AI Agent项目表现不佳。
-2.  一些公司利用低价和宣传抢占市场。
-3.  这导致认真打磨产品的团队缺乏生存空间和试错机会。
-4.  这些团队被迫采取应对措施，但原文未说明具体措施。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[《HelloGitHub》第 109 期]]></title>
-        <link href="https://www.cnblogs.com/xueweihan/p/18850411" />
-        <id>https://www.cnblogs.com/xueweihan/p/18850411</id>
-        <updated>Mon, 28 Apr 2025 08:26:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：HelloGitHub 开源项目 有趣 入门级 GitHub
-
-<br><br>总结:
-1. HelloGitHub 致力于分享 GitHub 上有趣且入门级的开源项目，激发用户对开源的兴趣。
-2. 项目涵盖实战项目、入门教程、黑科技、开源书籍以及大厂开源项目等丰富内容。
-3. 支持多种编程语言，例如 Python 等。
-4. 资源地址：github.com/521xueweihan/HelloGitHub
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#/.NET/.NET Core技术前沿周刊 | 第 35 期（2025年4.14-4.20）]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18839314" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18839314</id>
-        <updated>Mon, 21 Apr 2025 20:32:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[使用 AOT 编译保护 .NET 核心逻辑，同时支持第三方扩展]]></title>
-        <link href="https://www.cnblogs.com/tansm/p/18847143/AOTDemo" />
-        <id>https://www.cnblogs.com/tansm/p/18847143/AOTDemo</id>
-        <updated>Fri, 25 Apr 2025 18:04:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：组件开发, 反编译保护, 反射机制, .NET, C#
-
-<br><br>总结:
-1. 文章探讨了在.NET环境下，使用C#开发可供第三方引用的DLL组件，并保护核心逻辑不被轻易反编译的问题。
-2. 目标是创建既能被第三方进行二次开发，又能防止核心代码泄露的组件。
-3. 需要兼顾反编译保护和反射机制的支持，包括私有字段的访问。
-4. 最终方案并非使用C++/CLI，而是坚持使用C#。
-5. 文章将分享开发过程中的困难、尝试以及最终的解决方案。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[三维装箱问题（3D Bin Packing Problem, 3D-BPP）]]></title>
-        <link href="https://www.cnblogs.com/FreeSql/p/18846755" />
-        <id>https://www.cnblogs.com/FreeSql/p/18846755</id>
-        <updated>Fri, 25 Apr 2025 15:07:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 集装箱, 海运, 家具, 优化, 算法
-
-<br><br>总结:
-本文讨论了集装箱海运家具的优化问题，涉及以下要点：
-
-1. **问题提出:** 给定一批家具（沙发、茶几、椅子等）的数量和尺寸，计算海运所需的最少集装箱数量。
-
-2. **优化目标:** 找到最优的装箱方案，既能最大限度地利用集装箱空间，又能降低运输成本（因为集装箱费用昂贵）。
-
-3. **算法需求:** 需要设计算法来解决两个核心问题：如何摆放家具以最大程度减少占用体积，以及如何安排装箱顺序以最大程度减少所需集装箱数量。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、FreeDNS、us.kg、域名注册、托管<br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期
 <br>
-总结:us.kg免费域名目前挂了，但已注册的域名仍在使用。dpdns.org域名可以托管到Cloudflare。目前可以临时托管到FreeDNS。新的域名也可以注册。区别在于注册流程和服务提供商。]]></summary>
+Github上有DigitalPlat的注册地址生成器，用户可以获取免费域名，并通过Cloudflare Pages自定义域及SSL证书。免费域名包括dpdns.org和us.kg，新用户可获得1个免费域名（加Star后可增至2个），老用户可获得3个免费域名（加Star后可增至4个）。us.kg域名不占用免费额度，且需每年续期，续期操作简便且免费。该文提供了Youtube视频教程，详细介绍了域名注册和续期流程。GitHub仓库链接和Cloudflare官网可查看更多相关信息。 
+<br><br>总结: Github提供免费域名注册服务，Cloudflare Pages提供自定义域和SSL证书。用户可获取免费域名，us.kg需每年免费续期。详细教程在Youtube视频中有介绍。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Sing-box, Cloudflare, Windterm, 免费域名, 教程
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买体验
 <br>
-Sing-box-yg Github项目提供了科学上网节点搭建的指南，使用Windterm软件进行操作。通过Cloudflare设置固定隧道和CDN回源，保证网站的稳定性和访问速度。同时使用免费域名进行操作，可以通过Cloudflare远程保活来保证网站长时间在线。整个过程需要注册和登录Serv00，设置系统代理，安装脚本，新建隧道和CDN回源规则，以及建立Worker来实现远程保活。详细步骤和操作流程可参考该文章中提供的Youtube视频。<br><br>总结: Sing-box提供了科学上网节点搭建的指南，通过Cloudflare设置固定隧道和CDN回源，最后使用Cloudflare远程保活保证网站在线。]]></summary>
+稳定性和速度方面，HostUNO表现良好，不需要保活。购买体验整体满意，但购买过程中价格较高。节点测速显示速度较快，但存在ChatGPT降智问题。续费方式简便，总体来说值得购买。详细内容请参考相关链接提供的视频。 
+<br><br>总结: HostUNO提供稳定性和高速度的服务，购买体验虽有一定提升空间，但整体性价比较高，值得购买。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名限制、注册、KYC验证、托管到Cloudflare
-
-US.KG的域名目前受限，建议先使用 https://dash.domain.digitalplat.org/ 完成注册和KYC验证，待域名状态恢复后再托管到Cloudflare使用。注册流程包括：注册账号，验证邮箱，进行KYC验证，注册域名，托管到Cloudflare。使用免费域名需注意缺点，但也可免费续订域名。详细教程可查看Youtube视频。]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、域名、免费、Cloudflare、注册<br>
+US.KG注册不了，推荐使用免费域名注册，可在Cloudflare免费托管一年。注册步骤包括注册账号、购买域名时使用优惠码享受免费一年服务，并将域名托管到Cloudflare。具体操作过程可观看youtube视频进行教程指导。操作流程包括注册账号、注册域名、将域名托管到Cloudflare。详细操作步骤请参考视频。总结: 微信的免费域名注册无法实现，但推荐使用免费域名注册，可在Cloudflare免费托管一年。操作步骤包括注册账号、注册域名、将域名托管到Cloudflare。视频指导详细操作过程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
-Deepseek是一个强大的搜索工具，用户可以通过网页端、APP以及API进行搜索。用户还可以将Deepseek部署到本地进行使用。通过Deepseek API，用户可以获得10元体验金，还可以在其他应用中使用，如沉浸式翻译、Chatbox和欧路词典等软件。此外，用户还可以通过第三方应用和本地部署的方式使用Deepseek。用户只需下载Ollama并安装，然后在命令提示符中输入相应指令即可。详细操作和模型选择方面可参考硬件指南，帮助用户更好地使用Deepseek。 <br><br>总结: Deepseek是一款功能强大的搜索工具，支持网页端、APP、API以及本地部署。用户可以通过第三方应用和Ollama实现更多功能。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、Serv00、SSH、代理节点、进程保活<br>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek-R1、羊毛、免费体验、API客户端、AI搜索<br>
 <br>
-总结: 本视频介绍了搭建Serv00节点的方法选择，注册登录流程，搭建代理节点以及使用Cloudflare Argo固定隧道的步骤。视频中还介绍了进程保活和GitHub远程保活的方法。观看视频了解如何注册Serv00主机地址，操作Serv00-Play项目，检测Serv00 IP是否被墙，以及使用SSH客户端WindTerm等工具。提到了在Cloudflare主页设置隧道的前提条件和步骤，并指出了两种方法在SSH登录IP被封时进入SSH。详细内容建议观看视频获取更多操作细节。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+Deepseek-R1满血版提供了各大厂商的羊毛汇总，包括了各种免费体验活动和赠送服务，其中包括了低速率版的OpenRouter、硅基流动的免费token、火山方舟的50万token等。用户可以通过API客户端如Cherry Studio进行联网搜索，也可以使用AI搜索工具如秘塔AI搜索、纳米AI搜索进行更加智能的检索。各种免费体验活动截止日期不同，用户可以根据自己的需求选择参与，获取各种优惠和免费服务。总结: Deepseek-R1提供了各大厂商的免费体验活动和赠送服务，用户可以通过API客户端和AI搜索工具进行联网搜索和智能检索。]]></summary>
     </entry>
     
 </feed>
