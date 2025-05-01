@@ -2,283 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Thu, 01 May 2025 06:27:30 GMT</updated>
+    <updated>Thu, 01 May 2025 08:24:25 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[谷歌的 NotebookLM 能生成中文播客了]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</id>
-        <updated>Thu, 01 May 2025 12:26:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: NotebookLM, 播客, 中文, AI笔记, 学习
+        <title><![CDATA[记一次 .NET某工控任务调度系统 卡死分析]]></title>
+        <link href="https://www.cnblogs.com/huangxincheng/p/18842230" />
+        <id>https://www.cnblogs.com/huangxincheng/p/18842230</id>
+        <updated>Wed, 23 Apr 2025 09:58:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Furion, 定时任务, 疑难杂症, 代码复现, 问题分析
 
 <br><br>总结:
-1. 谷歌AI笔记产品NotebookLM现在支持50种语言生成播客，包括中文，之前只支持英文。
-2. 用户可以上传PDF、TXT、Markdown格式的文本材料，甚至是图片扫描的PDF文件（自动文字识别）。
-3. NotebookLM还可以针对网站和Youtube视频生成播客，帮助用户更容易抓住重点。
-4. 免费账户一天只能生成三个播客，更多需要付费。
-5. NotebookLM的AI笔记功能也很强大，可以搜索学习材料，生成学习指导、内容摘要、常见问题、时间线等。
-6. NotebookLM是一款革命性的笔记工具，会改变做笔记和学习方式，目前没有竞品。
+
+一：背景：一位朋友加微信，希望加入训练营，并附带一个用 Furion 写的定时任务的疑难杂症问题，寻求作者帮助。
+二：问题：该定时任务出现问题，但无法在本地复现。
+三：处理：作者的朋友（VIP客户）向小僧大佬求助，大佬需要最小化的问题代码才能分析，但由于无法复现，问题未解决。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vmess://eyJhZGQiOiJhbnRyYWsuYXJjYW5wYXllci5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRpdmFyY2RuLmNvbSIsImlkIjoiNDk3NjQ2NmMtYWJiNC00MzUzLW...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4462" />
-        <id>https://t.me/V2rayNg_madam/4462</id>
-        <updated>Thu, 01 May 2025 01:57:35 +0800</updated>
-        <summary type="html"><![CDATA[V2RayNg, 配置, 速度, 支持, 购买
+        <title><![CDATA[使用TypeScript开发微信小程序(云开发)-入门篇]]></title>
+        <link href="https://www.cnblogs.com/greywen/p/18841741" />
+        <id>https://www.cnblogs.com/greywen/p/18841741</id>
+        <updated>Wed, 23 Apr 2025 09:04:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：小程序云开发, TypeScript, 环境配置, nodejs, 初始化
 
 <br><br>总结:
-1.  提供 V2RayNg 配置，声称配置速度快且稳定。
-2.  鼓励用户使用配置并提供反馈 (通过点赞/反应和速度评价)。
-3.  提供在线支持，并承诺购买后成为长期客户。
-4.  提供购买渠道，联系管理员即可购买。
-5.  提供客户满意度频道链接，以展示服务质量。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个基于 C# Unity 开发的金庸群侠传 3D 版，直呼牛逼！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18855502" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18855502</id>
-        <updated>Wed, 30 Apr 2025 15:26:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Unity, C#, 金庸群侠传, 3D, 重制版
-
-<br><br>总结:
-*  该项目是用C#语言，基于Unity游戏引擎开发的。
-*  这是一个金庸群侠传的3D重制版本。
-*  游戏类型为回合制战棋战斗开放世界RPG。
-*  项目旨在重现经典，勾起玩家的回忆。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18852627" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18852627</id>
-        <updated>Tue, 29 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: EF Core 10, LeftJoin, RightJoin, LINQ, 组合查询
-
-<br><br>总结:
-* EF Core 10 引入了对 LINQ 中 LeftJoin 和 RightJoin 运算符的原生支持。
-* 在 EF Core 10 之前，需要使用复杂的组合查询（如 SelectMany、GroupJoin 和 DefaultIfEmpty）来实现 LEFT JOIN。
-* 这一新增功能简化了数据库查询，使得开发者能够更便捷地执行 LEFT JOIN 和 RIGHT JOIN 操作。
-* 从而减少了复杂查询语句，提高了开发效率。
-* 这意味着开发者可以使用更简洁、直观的 LINQ 语法来执行 LeftJoin 和 RightJoin 操作，避免了编写复杂的组合查询。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[vless://b8243b8a-dece-432f-8b4d-88696594cbf8@vip.panelmarzban.com:1300?security=reality&encryption=none&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScU...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4461" />
-        <id>https://t.me/V2rayNg_madam/4461</id>
-        <updated>Tue, 29 Apr 2025 06:04:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: V2rayNg, 代理, 高速, 稳定, 购买
-
-<br><br>总结:
-*   提供的 V2rayNg 代理配置用于高速、稳定地访问网络。
-*   该配置通过 reality 安全协议，使用 xtls-rprx-vision 流控，并伪装成 refersion.com 域名。
-*   配置提供方鼓励用户支持他们，并反馈使用体验。
-*   提供在线支持和客户满意度频道，旨在吸引用户购买长期服务。
-*   联系方式引导用户联系管理员购买服务。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Promise 这个新 API 真香！]]></title>
-        <link href="https://www.cnblogs.com/leadingcode/p/18851970" />
-        <id>https://www.cnblogs.com/leadingcode/p/18851970</id>
-        <updated>Mon, 28 Apr 2025 16:41:00 +0800</updated>
-        <summary type="html"><![CDATA[异步, Promise, 处理, 操作, 神器
-
-<br><br>总结:
-1.  文章介绍了Promise，认为它是处理异步操作的“神器”。
-2.  作者博客是 yaolifeng.com，首发于【沉浸式趣谈】。
-3.  文章鼓励读者点赞、评论、转发。
-4.  转载需注明出处和版权信息。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[为什么多智能体不会成功？]]></title>
-        <link href="https://www.cnblogs.com/yexiaochai/p/18851347" />
-        <id>https://www.cnblogs.com/yexiaochai/p/18851347</id>
-        <updated>Mon, 28 Apr 2025 12:14:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Agent项目，低价竞争，市场抢占，项目表现差，生存空间
-
-<br><br>总结:
-1. AI咨询和AI项目陪跑服务提供方观察到，多数Agent项目表现不佳。
-2. 一些公司通过低价和华丽PPT迅速抢占市场，形成恶性竞争。
-3. 这种低价竞争挤压了其他团队的生存和试错空间。
-4. 许多团队被迫加入低价竞争，放弃了对产品质量的打磨。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[《HelloGitHub》第 109 期]]></title>
-        <link href="https://www.cnblogs.com/xueweihan/p/18850411" />
-        <id>https://www.cnblogs.com/xueweihan/p/18850411</id>
-        <updated>Mon, 28 Apr 2025 08:26:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: HelloGitHub, 开源项目, GitHub, 编程语言, 入门级
-
-<br><br>总结:
-1. HelloGitHub 是一个分享 GitHub 上有趣且入门级开源项目的平台。
-2. 该平台涵盖多种编程语言，如 Python 等。
-3. 提供的资源包括实战项目、入门教程、黑科技、开源书籍以及大厂开源项目。
-4. 目标是激发人们对开源的兴趣。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[springboot分页查询并行优化实践]]></title>
-        <link href="https://www.cnblogs.com/better-farther-world2099/p/18849712" />
-        <id>https://www.cnblogs.com/better-farther-world2099/p/18849712</id>
-        <updated>Sun, 27 Apr 2025 15:56:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：异步优化，MyBatis-Plus，分页，数据量，复杂查询
-
-<br><br>总结:
-1.  该实践主要针对数据量大、查询复杂的单表或多表关联分页场景，尤其适用于包含 group by 且无法进行 count 优化的情况。
-2.  技术栈核心是 Spring Boot 和 MyBatis-Plus，并利用 JDK 8+ 的 CompletableFuture 实现异步编程。
-3.  其核心思想是基于异步优化和 MyBatis-Plus 分页插件。通过异步方式提升分页查询效率，解决传统分页在大数据量和复杂查询下的性能瓶颈。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[微服务之间有哪些调用方式？]]></title>
-        <link href="https://www.cnblogs.com/liyongqiang-cc/p/18849484" />
-        <id>https://www.cnblogs.com/liyongqiang-cc/p/18849484</id>
-        <updated>Sun, 27 Apr 2025 15:04:00 +0800</updated>
-        <summary type="html"><![CDATA[微服务, 通信, 同步, 异步, 架构
-
-<br><br>总结:
-1. 微服务架构将系统拆分为独立服务，服务间通信至关重要。
-2. 通信方式主要分为同步和异步两种。
-3. 同步通信要求服务直接调用并立即返回结果。
-4.  (文章未提及，需要补充异步通信的特点才能形成完整总结，此处省略补充部分)
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云]]></title>
-        <link href="https://www.cnblogs.com/deali/p/18848662" />
-        <id>https://www.cnblogs.com/deali/p/18848662</id>
-        <updated>Sun, 27 Apr 2025 00:07:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Avalonia, StarBlogPublisher, 词云, 优化, 算法
-
-<br><br>总结:
-1. 文章作者使用 Avalonia 开发了 StarBlogPublisher，其中包含词云展示功能。
-2. 初版词云效果粗糙，仅简单堆叠文字，缺乏美观性。
-3. 作者对词云进行优化，改进算法，旨在提升视觉效果。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径]]></title>
-        <link href="https://www.cnblogs.com/lindexi/p/18847625" />
-        <id>https://www.cnblogs.com/lindexi/p/18847625</id>
-        <updated>Sat, 26 Apr 2025 07:18:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: dotnet runtime, 框架依赖发布, AppHostRelativeDotNet, 全局运行时, dotnet 9
-
-<br><br>总结:
-1. 应用程序框架依赖发布需要dotnet runtime支持。
-2. dotnet 9 之前，通常依赖安装在系统Program File文件夹下的全局运行时。
-3. dotnet 9 引入 AppHostRelativeDotNet 机制。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[使用 AOT 编译保护 .NET 核心逻辑，同时支持第三方扩展]]></title>
-        <link href="https://www.cnblogs.com/tansm/p/18847143/AOTDemo" />
-        <id>https://www.cnblogs.com/tansm/p/18847143/AOTDemo</id>
-        <updated>Fri, 25 Apr 2025 18:04:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：组件开发, 核心逻辑保护, 反射, .NET, C#
-
-<br><br>总结:
-1.  文章探讨了在.NET环境下，使用C#开发大型ERP应用时，如何创建可供第三方二次开发的组件（DLL）。
-2.  核心问题在于如何在开放扩展性的同时，保护核心逻辑不被轻易反编译。
-3.  需要支持反射机制，包括对私有字段的访问，这给保护增加了难度。
-4.  目标是找到一个纯C#的解决方案，避免使用C++/CLI等其他技术。
-5.  文章将分享探索过程，包括遇到的困难，尝试的方案，以及最终实现的解决方法。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[三维装箱问题（3D Bin Packing Problem, 3D-BPP）]]></title>
-        <link href="https://www.cnblogs.com/FreeSql/p/18846755" />
-        <id>https://www.cnblogs.com/FreeSql/p/18846755</id>
-        <updated>Fri, 25 Apr 2025 15:07:00 +0800</updated>
-        <summary type="html"><![CDATA[集装箱海运 家具 算法 优化 最优解
-
-<br><br>总结:
-1. 提出了一个集装箱海运家具装载优化问题，已知家具数量、尺寸（长宽高）以及集装箱尺寸。
-2. 目标是通过算法计算出所需的最少集装箱数量，因为集装箱费用高昂。
-3. 需要考虑家具的摆放方式，以最大限度地利用集装箱空间，寻求占用体积最小的最优解。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[基于Blazor实现的运输信息管理系统]]></title>
-        <link href="https://www.cnblogs.com/known/p/18844645" />
-        <id>https://www.cnblogs.com/known/p/18844645</id>
-        <updated>Thu, 24 Apr 2025 15:12:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 运输信息管理系统, TIMS, Blazor, Auto模式, 运输任务
-
-<br><br>总结:
-1.  **项目背景：** 当前小型运输公司司机在微信群上报运输信息，随着运单量增长，统计困难，易漏单，导致与客户对账出现问题。
-2.  **系统方案：** 采用Blazor框架的Auto模式，开发运输信息管理系统(TIMS)，实现手机端和PC端协同工作。
-3.  **系统功能：** 通过TIMS系统，司机可以直接在手机端上报运输任务信息，管理人员可在PC端进行统计和管理，提高效率，减少漏单情况。
-4.  **预期效益：** 系统上线后能够有效解决人工统计的弊端，方便快捷地统计和管理运输任务信息，避免与客户对账时出现漏单现象，提高工作效率和数据准确性。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[管理100个小程序-很难吗]]></title>
-        <link href="https://www.cnblogs.com/jijunjian/p/18844317" />
-        <id>https://www.cnblogs.com/jijunjian/p/18844317</id>
-        <updated>Thu, 24 Apr 2025 11:48:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：天目山, 徒步, 家庭, 挑战, 溪流
-
-<br><br>总结:
-1. 群友发起天目山20公里徒步活动，作者携妻子和孩子参加。
-2. 起初风景优美，溪流清澈，青山郁郁葱葱，令人感到惬意。
-3.（未提供后续内容，根据提示总结开头部分）
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18844112" />
-        <id>https://www.cnblogs.com/code-daily/p/18844112</id>
-        <updated>Thu, 24 Apr 2025 10:16:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: C#类型系统, C#7.0, C#14.0, 值元组, Span
-
-<br><br>总结:
-C#从7.0到14.0版本在类型系统方面引入了诸多新特性，旨在提高性能、安全性和开发效率。
-
-主要更新内容包括：
-1. 引入了值元组，方便返回多个值。
-2. 增加了Span和ReadOnlySpan，用于提供安全高效的内存访问。
-3. 还有Memory，用于更灵活的内存管理。
-4. 这些新特性极大地丰富了C#的类型系统。
-5. C# 14.0(预览版)也继续在类型系统上有所增强。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何统计不同电话号码的个数？—位图法]]></title>
-        <link href="https://www.cnblogs.com/seven97-top/p/18836050" />
-        <id>https://www.cnblogs.com/seven97-top/p/18836050</id>
-        <updated>Thu, 24 Apr 2025 08:15:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 电话号码, 统计, 个数, 内存限制, 位图
-
-<br><br>总结:
-1. 问题：统计包含100亿个8位电话号码的文件中不同号码的个数，但内存限制为100M。
-2. 传统方法不可行：使用HashSet或int数组存储所有号码会导致内存溢出，因为所需内存远大于100M。
-3. 需要更高效的方法解决内存限制问题，才能完成统计任务。
+1. 检查本地nodejs环境是否可用。
+2. 使用npm安装TypeScript依赖: `npm install typescript --save-dev`。
+3. 初始化并配置TypeScript:
+    * 使用命令`./node_modules/.bin/tsc --init`初始化。
+    * 根据项目需求配置`tsconfig.json`文件。
 ]]></summary>
     </entry>
     
