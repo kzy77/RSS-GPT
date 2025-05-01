@@ -2,61 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Thu, 01 May 2025 20:18:58 GMT</updated>
+    <updated>Thu, 01 May 2025 22:17:37 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19265.html" />
-        <id>https://www.freedidi.com/19265.html</id>
-        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：GPT-4, 多模态, 推理能力, 视觉理解, 应用场景
+        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
+        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: WPF, 控件, 组件, 工具, 开源
 
 <br><br>总结:
-*   GPT-4 是一个多模态模型，能够处理图像和文本输入，并产生文本输出。
-*   相比之前的版本，GPT-4 显著增强了推理能力，尤其是在解决复杂问题方面。
-*   GPT-4 在视觉理解方面有所突破，能够分析图像内容并进行解释和推理。
-*   由于其强大的能力，GPT-4 拓展了许多新的应用场景，例如图像分析、代码生成和创意写作等。
-*   尽管功能强大，GPT-4 仍然存在局限性，需要在安全性和偏见控制方面持续改进。
+1. Extended.Wpf.Toolkit 是一个开源的WPF控件、组件和实用工具集合。
+2. 它的特点是经典、易于使用。
+3. 适用于想要自己编写WPF UI界面的开发者，可以作为参考和学习的资源。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[记一次 .NET某工控任务调度系统 卡死分析]]></title>
-        <link href="https://www.cnblogs.com/huangxincheng/p/18842230" />
-        <id>https://www.cnblogs.com/huangxincheng/p/18842230</id>
-        <updated>Wed, 23 Apr 2025 09:58:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：定时任务, Furion, 异常, 调试, 复现
+        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
+        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
+        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
+        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：SQL Server，数据库性能，索引优化，分库分表，全链路优化
 
 <br><br>总结:
-一：背景：有学员遇到Furion框架编写的定时任务出现异常，难以解决，并寻求帮助。
-
-二：问题：定时任务运行不稳定，出现偶发性错误，且无法在本地环境中重现。
-
-三：难点：由于问题无法复现，调试困难，无法定位异常原因。
-
-四：解决方案：需要最小化的代码以及本地可复现环境才能有效调试。
-
-五：现状：问题仍未解决，缺乏可复现的案例导致分析受阻。
+1. 面临海量数据冲击，数据库性能成为关键，尤其是在SQL Server单表亿级数据量场景下。
+2. 优化策略并非只有分库分表，可以从索引优化到架构升级进行全链路优化。
+3. 文档将从SQL Server角度解析这些优化策略，旨在帮助应对数据洪流。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[使用TypeScript开发微信小程序(云开发)-入门篇]]></title>
-        <link href="https://www.cnblogs.com/greywen/p/18841741" />
-        <id>https://www.cnblogs.com/greywen/p/18841741</id>
-        <updated>Wed, 23 Apr 2025 09:04:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：小程序云开发, TypeScript, 环境配置, 初始化, nodejs
+        <title><![CDATA[谷歌的 NotebookLM 能生成中文播客了]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</id>
+        <updated>Thu, 01 May 2025 12:26:24 +0800</updated>
+        <summary type="html"><![CDATA[NotebookLM, 中文播客, AI笔记, 学习工具, 谷歌
 
 <br><br>总结:
-1. 首先，检查本地已安装的nodejs环境是否满足要求。
-2. 接着，通过npm安装TypeScript依赖，命令是 `npm install typescript --save-dev`。
-3. 然后，初始化TypeScript配置，执行命令`./node_modules/.bin/tsc --init`，生成tsconfig.json文件。
-4. 调整tsconfig.json配置文件，例如配置编译选项等，使其符合小程序云开发的需求。
-5. 完成以上步骤后，即可开始在小程序云开发中使用TypeScript进行开发。
+1. 谷歌的AI笔记产品NotebookLM现在支持50种语言生成播客，包括中文。
+2. 用户可以上传PDF、TXT、Markdown格式的文档，或者指定网站和Youtube视频，NotebookLM可以生成讨论这些材料的播客，还能自动识别图片扫描的PDF文件。
+3. NotebookLM还具有强大的AI笔记功能，可以搜索学习材料，并自动生成学习指导、内容摘要、常见问题、时间线等笔记。
+4. 免费账户每天只能生成三个播客，更多需要付费。
+5. NotebookLM是一款革命性的笔记工具，可以改变做笔记和学习的方式。
 ]]></summary>
     </entry>
     
