@@ -2,55 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 02 May 2025 08:24:31 GMT</updated>
+    <updated>Fri, 02 May 2025 10:19:34 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Humpback/humpback-server]]></title>
-        <link href="https://gitee.com/humpbacks/humpback-server" />
-        <id>https://gitee.com/humpbacks/humpback-server</id>
-        <updated>Fri, 02 May 2025 19:01:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 容器, 管理, 轻量级, 服务, 平台
+        <title><![CDATA[瑆箫/ueditor]]></title>
+        <link href="https://gitee.com/mo3408/ueditor" />
+        <id>https://gitee.com/mo3408/ueditor</id>
+        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档复制, 图片上传
 
 <br><br>总结:
-1. 这篇文章讨论的是一种轻量级的容器服务管理平台。
-2. 该平台专注于简化容器的部署和管理过程，降低运维复杂度。
-3. 这种平台通常提供友好的用户界面和自动化工具，方便用户进行容器的生命周期管理。
-4. 相比传统的重量级平台，它更注重资源效率和易用性，降低了对硬件和技术的要求。
-5. 该平台旨在帮助用户更快速、高效地构建和运行容器化应用服务。
+
+1.  UEditor发布更新版本，目标是使其重新焕发活力。
+2.  新版本在最大程度上保持与旧版本的兼容性，用户可以无缝过渡。
+3.  更新没有更改任何图标，保留了用户熟悉的界面。
+4.  改进了文档复制粘贴功能，特别是支持word和wps文档的复制粘贴。
+5.  最重要的是，新版本支持图片自动上传，极大地简化了用户的操作流程。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
-        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
-        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
-        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Telegram, 电报, 推送, RSS, 自动化
+        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
+        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 控件, 组件, 工具, 开源
 
 <br><br>总结:
-1.  作者之前写过一篇关于如何使用RSS订阅和自动化程序在Telegram上推送新帖的文章。
-2.  目的是为了给自己搭建的论坛实现实时推送功能。
-3.  虽然最终实现了目标，但作者认为当时的步骤过于繁琐。
+1. Extended.Wpf.Toolkit 是一个开源的WPF控件、组件和实用工具集合。
+2. 该工具包的特点是经典、易于使用。
+3. 适合想要编写WPF UI界面的开发者参考学习和借鉴。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19265.html" />
-        <id>https://www.freedidi.com/19265.html</id>
-        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 推理, 涌现, 泛化, 知识
+        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
+        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
+        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
+        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
+        <summary type="html"><![CDATA[索引优化, 分库分表, SQL Server, 数据库性能, 数据量
 
 <br><br>总结:
-* 大语言模型(LLM)展现出令人惊讶的推理能力，尤其是随着模型规模的扩大。
-* 这种推理能力并非事先编程，而是以一种涌现的方式出现，在较小模型中并不明显。
-* LLM能够泛化到训练数据之外，解决新的、未见过的问题。
-* 这些模型已经掌握了广泛的知识，能够回答各种各样的问题。
-* 虽然LLM在推理、泛化和知识方面取得了显著进展，但仍存在局限性，例如幻觉问题，需要进一步的研究和改进。
+1. 在数据驱动时代，数据库性能至关重要，尤其是在SQL Server面对单表亿级数据量时。
+2. 面临性能瓶颈，需要权衡是否进行分库分表。
+3. 从SQL Server的角度，可以采取全链路优化策略来提升性能。
+4. 优化策略涵盖从基础的索引优化到架构升级等多个方面。
+5. 通过上述策略，能够在海量数据下保持SQL Server的稳定和高效。
 ]]></summary>
     </entry>
     
