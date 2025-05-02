@@ -2,107 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-05-02T12:36:49Z</updated>
+    <updated>2025-05-02T14:17:45Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19265.html" />
-        <id>https://www.freedidi.com/19265.html</id>
-        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大型语言模型，提示工程，知识图谱，检索增强生成，RAG
+        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
+        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 控件, 组件, 工具, 开源
 
 <br><br>总结:
-1. 大型语言模型(LLM)面临知识更新滞后和幻觉问题。
-2. 提示工程通过巧妙设计的提示词引导LLM输出期望结果。
-3. 知识图谱提供结构化知识，可用于增强LLM的知识储备。
-4. 检索增强生成(RAG)技术通过检索外部知识库来为LLM提供上下文信息。
-5. RAG结合了知识图谱，可以在检索时更准确地找到相关信息，从而提高LLM生成结果的准确性和可靠性。
+1.  Extended.Wpf.Toolkit 是一个开源的 WPF 控件、组件和实用工具集合。
+2.  它具有经典、易于使用的特点。
+3.  该工具包适用于希望编写 WPF UI 界面的开发者，可以作为参考和学习的资源。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Humpback/humpback-server]]></title>
-        <link href="https://gitee.com/humpbacks/humpback-server" />
-        <id>https://gitee.com/humpbacks/humpback-server</id>
-        <updated>Fri, 02 May 2025 19:01:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词：轻量级，容器，服务管理，平台，简化
+        <title><![CDATA[全网爆火的 AI 提示词，GPT-4o 让刘强东王兴也成了「兄弟」，超逼真的效果 （含超全提示词）| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19269.html" />
+        <id>https://www.freedidi.com/19269.html</id>
+        <updated>Fri, 02 May 2025 20:25:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：LLM，代码生成，代码解释，测试生成，代码修改
 
 <br><br>总结:
-* 概述：该平台是一个轻量级的容器服务管理平台，目标是简化容器的管理和部署。
-* 功能：它提供核心的服务管理功能，方便用户部署、运行和监控容器化的应用。
-* 特点：专注于轻量级，可能在资源占用和复杂性方面进行了优化，更易于上手和维护。
-* 优势：旨在降低容器技术的使用门槛，让开发者能够更专注于应用本身。
-* 适用场景：适用于需要简单高效地管理容器化服务的场景。
+1. 文章探讨了大型语言模型 (LLM) 在软件开发中的应用，特别是代码生成、代码解释、测试生成和代码修改等方面。
+2. LLM 可以根据自然语言描述生成代码，从而简化开发过程，降低对专业程序员的依赖。
+3. LLM 还可以解释现有代码的功能和逻辑，帮助开发者理解复杂的代码库。
+4. LLM 能够自动生成测试用例，提高软件测试效率和覆盖率。
+5. LLM 甚至可以根据需求修改现有代码，实现自动化代码维护和升级。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
-        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
-        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
-        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Telegram, 电报, 推送, RSS, 自动化
+        <title><![CDATA[瑆箫/ueditor]]></title>
+        <link href="https://gitee.com/mo3408/ueditor" />
+        <id>https://gitee.com/mo3408/ueditor</id>
+        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档, 图片
 
 <br><br>总结:
-1. 作者之前尝试过通过RSS订阅和自动化程序向Telegram推送论坛新帖，目的是实现实时推送功能。
-2. 虽然最终目标达成，但作者认为当时搭建过程过于繁琐。
-3. 作者对当时自己能够完成如此复杂的操作感到佩服。
+要点1：UEditor迎来硬核更新版本，旨在重新激活该编辑器。
+要点2：新版本力求与旧版本保持最大程度的兼容性，并保留原有的图标风格。
+要点3：支持直接从Word和WPS文档中复制粘贴图片，并能自动上传图片素材。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-04-28T20:07:11.529-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、5美元赠金、Docker应用<br>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、域名挂了、已注册的域名、Cloudflare、FreeDNS
 <br>
-总结：<br>
-Claw Cloud Run是一款免费容器，用户需在Github注册时间大于180天后才可获得每月5美元赠金，实现长期免费使用。通过查看Github注册时间，用户可以确认自己的注册日期。Claw Cloud Run允许搭建各种Docker应用，用户可选择一键自动部署或手动部署。推荐部署的应用包括Memos（轻笔记应用）和AList（网盘挂载工具）。详细信息可参考Youtube视频。]]></summary>
+us.kg免费域名目前没有挂掉，已注册的域名仍然存在。新注册的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。目前可以使用us.kg注册新域名，两种域名在使用和注册上有一些区别。总结: us.kg免费域名仍然有效，已注册域名存在，新域名可托管到Cloudflare，临时托管到FreeDNS，新域名可注册，两种域名有区别。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期<br>
-<br>
-本文介绍了如何通过Github和Cloudflare注册免费域名，并提供了两种域名选择，即dpdns.org和us.kg。新用户可获得1个免费域名，老用户可获得3个，通过Github加Star后可增加相应额度。另外，us.kg域名不占用免费额度。域名续期永久免费，每年续期一次，到期前180天内可进行续期。详细教程可在Youtube视频中查看。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
+Serv00是一个科学上网工具，可以通过Cloudflare固定隧道和CDN回源来实现稳定的网络访问。用户可以通过Serv00建立科学上网节点，同时利用Cloudflare固定隧道和CDN回源来优化网络连接。另外，用户还可以使用网页保活功能来保持网络连接的活跃状态，以及通过Cloudflare远程保活来保持网站的稳定访问。整个操作流程需要注册登录Serv00，搭建科学上网节点，设置Cloudflare固定隧道和CDN回源，以及使用网页保活和Cloudflare远程保活功能来实现稳定的网络连接。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
-<br>
-稳定性和速度表现良好，无需保活操作；购买时需考虑价格因素，总体体验较为满意；购买流程简单，搭建代理节点方便；节点测速结果良好，但ChatGPT降智问题存在；续费操作简便，值得购买。总体而言，HostUNO提供的服务质量稳定，并且速度较快，买家可以考虑购买该产品。<br><br>总结: HostUNO提供的服务稳定且速度较快，购买流程简单，值得考虑购买。ChatGPT存在降智问题可注意，续费操作简便。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、视频。<br>
+总结: 本文介绍了如何在US.KG注册免费域名，并将其托管到Cloudflare。视频指导了注册账号、验证邮箱、KYC验证、注册域名、使用Cloudflare等步骤。建议先使用 https://dash.domain.digitalplat.org/ 这个域名完成注册和KYC验证，等待US.KG域名状态恢复后再托管到Cloudflare。免费域名的优点和缺点也在视频中详细讲解。教程简单易懂，适合初学者参考。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[Cloudflare, 域名, 注册账号, 免费, 托管 
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
 
-总结: 通过免费域名注册地址注册账号并购买域名，输入优惠码(newuser)可享受一年免费服务，将域名托管到Cloudflare，填入分配的两个名称服务器，详细操作可参考Youtube视频教程。]]></summary>
+Deepseek是一个搜索工具，可以在网页端和APP上使用，也可以通过API集成到其他应用中。用户可以在Deepseek官网、手机客户端或第三方应用上使用，还可以通过本地部署来使用。本地部署需要下载Ollama并安装，在终端输入下载和运行指令进行操作。Deepseek还提供API注册，赠送体验金，有效期一个月，可以用于沉浸式翻译、Chatbox等应用。详细操作方法请参考视频。 
+
+<br><br>总结: 
+1. Deepseek是一个搜索工具，可在网页端、APP和API中使用。
+2. 用户可以从官网、手机客户端或第三方应用上使用Deepseek。
+3. 通过本地部署，用户可以在终端输入指令来操作Deepseek。
+4. Deepseek提供API注册，赠送体验金，可以用于不同应用。
+5. 视频中有详细操作方法供参考。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek-R1, 羊毛, OpenRouter, 微软Azure, 硅基流动
-
-主流大厂Deepseek-R1满血版羊毛汇总：各大厂商推出的免费体验活动，涵盖了OpenRouter、微软Azure、硅基流动、百度千帆、腾讯云、英伟达、火山方舟、阿里云等产品。这些活动主要包括免费试用、赠送token、次数和特定期限等。此外，还推荐使用Cherry Studio、Chatbox、Chatwise等API客户端进行联网搜索。总的来说，利用这些免费活动和工具，用户可以在一定期限内免费体验各大厂商的产品和服务，从中寻找适合自己需求的解决方案。<br><br>总结: Deepseek-R1满血版羊毛汇总了各大厂商的免费活动，包括试用、token赠送和特定期限，同时推荐了API客户端用于联网搜索。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[Cloudflare、Serv00、节点搭建、SSH客户端、GitHub保号<br>
+Serv00教程视频介绍了如何搭建节点，注册和登录，以及如何使用Cloudflare Argo固定隧道和保活进程。视频中展示了如何注册Serv00主机以及GitHub保号，同时介绍了如何检测Serv00 IP是否被墙。在使用SSH客户端时需注意下载来源，以及通过Cloudflare页面设置固定隧道需注意域名和Token的设置。此外，在SSH登录IP被封时，可以使用系统代理或其他未被封的域名进行登录。视频中详细演示了操作步骤和注意事项，帮助用户更好地搭建和保护节点。 <br><br>总结: 该Serv00教程视频介绍了节点搭建的方法、注册登录流程、代理节点搭建、Cloudflare Argo固定隧道设置、GitHub保号步骤和远程保活方法，帮助用户学习并实践节点搭建和保护的相关操作。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
 </feed>
