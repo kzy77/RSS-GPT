@@ -2,69 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 02 May 2025 03:07:05 GMT</updated>
+    <updated>Fri, 02 May 2025 04:21:16 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[瑆箫/ueditor]]></title>
-        <link href="https://gitee.com/mo3408/ueditor" />
-        <id>https://gitee.com/mo3408/ueditor</id>
-        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档, 复制粘贴
+        <title><![CDATA[Humpback/humpback-server]]></title>
+        <link href="https://gitee.com/humpbacks/humpback-server" />
+        <id>https://gitee.com/humpbacks/humpback-server</id>
+        <updated>Fri, 02 May 2025 19:01:11 +0800</updated>
+        <summary type="html"><![CDATA[好的，请提供文章内容。我会尽力提取关键词并提供符合要求的总结。
 
-<br><br>总结:
-UEditor发布了更新版本，旨在使其重新焕发活力。
-*   新版本目标是与旧版本保持最大的兼容性，并且不更改图标设计，降低用户迁移成本。
-*   新版本支持直接从Word和WPS文档中复制粘贴图片，并自动上传，极大地简化了图片插入流程。
+我需要文章内容才能完成任务。请把文章内容粘贴给我。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
-        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：WPF, 控件, 组件, 工具, 开源
+        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
+        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
+        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
+        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Telegram, 电报, 推送, RSS, 自动化
 
 <br><br>总结:
-1. Extended.Wpf.Toolkit 是一个开源的 WPF 控件、组件和实用工具集合。
-2. 该工具包的特点是经典、易于使用。
-3. 适合想要编写 WPF UI 界面的开发者参考和学习。
-4. 旨在为 WPF 开发提供帮助，提升效率。
+要点一：作者曾经尝试通过RSS订阅和自动化程序实现在Telegram上推送论坛新帖。
+要点二：目的是为了实现论坛的实时推送功能。
+要点三：虽然目标达成，但作者认为当时的步骤过于复杂。
+要点四：现在回想起来，作者对当时花费大量时间精力搭建这个系统感到惊讶。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
-        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
-        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
-        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
-        <summary type="html"><![CDATA[索引优化, 分库分表, SQL Server, 数据库性能, 全链路优化
+        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19265.html" />
+        <id>https://www.freedidi.com/19265.html</id>
+        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大语言模型, 安全风险, 对抗性攻击, 评估框架, 可靠性
 
 <br><br>总结:
-1. 在数据驱动的时代，数据库性能至关重要，SQL Server面临单表亿级数据量的挑战。
-2. 优化策略涵盖从索引优化到架构升级的全链路。
-3. 关键在于选择合适策略，以在数据洪流中保持性能。
-4. 文章将从SQL Server的角度，浅析应对策略，目标是稳操胜券。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[谷歌的 NotebookLM 能生成中文播客了]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</id>
-        <updated>Thu, 01 May 2025 12:26:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: NotebookLM, AI笔记, 播客生成, 中文支持, 学习工具
-
-<br><br>总结:
-1. 谷歌AI笔记产品NotebookLM现在支持50种语言生成播客，包括中文，原先只支持英文。
-2. 用户可以上传PDF、TXT、Markdown格式的文档（扫描PDF可以自动文字识别），也可以上传网站和Youtube视频，NotebookLM可以生成关于这些材料的播客。
-3. NotebookLM的AI笔记功能强大，可以搜索学习材料，与材料聊天，并自动生成学习指导、摘要、常见问题、时间线等笔记。
-4. 免费账户每天可以生成三个播客，更多需要付费。
-5. NotebookLM是一款有用的AI学习工具，可以改变做笔记和学习的方式。
+1.  大语言模型(LLM)在各个领域展现出强大的能力，但也带来了一系列安全风险。
+2.  对抗性攻击是LLM面临的主要威胁之一，攻击者可以通过精心设计的输入诱导模型产生错误或有害的输出。
+3.  文章强调需要建立健全的评估框架，以全面评估LLM的安全性和可靠性，识别潜在的漏洞和风险。
+4.  可靠性是关键，需要确保LLM在各种场景下都能提供稳定、可信的结果，避免产生误导或有害信息。
+5.  研究人员正致力于开发新的防御机制和评估方法，以提高LLM的安全性，降低对抗性攻击的影响。
 ]]></summary>
     </entry>
     
