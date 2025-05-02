@@ -2,41 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 02 May 2025 01:26:24 GMT</updated>
+    <updated>Fri, 02 May 2025 03:07:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
-        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
-        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
-        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Telegram, 电报, 推送, RSS, 自动化
+        <title><![CDATA[瑆箫/ueditor]]></title>
+        <link href="https://gitee.com/mo3408/ueditor" />
+        <id>https://gitee.com/mo3408/ueditor</id>
+        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档, 复制粘贴
 
 <br><br>总结:
-1. 作者回忆起之前一篇关于在Telegram上推送论坛新帖的博客文章。
-2. 当时的目标是实现论坛的实时推送功能。
-3. 虽然最终实现了目标，但作者认为过程非常繁琐。
-4. 作者感叹当时自己能够完成如此复杂的步骤。
-5. 这篇文章是对之前文章的回顾和自我反思。
+UEditor发布了更新版本，旨在使其重新焕发活力。
+*   新版本目标是与旧版本保持最大的兼容性，并且不更改图标设计，降低用户迁移成本。
+*   新版本支持直接从Word和WPS文档中复制粘贴图片，并自动上传，极大地简化了图片插入流程。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19265.html" />
-        <id>https://www.freedidi.com/19265.html</id>
-        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI、威胁、信息环境、安全、策略
+        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
+        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 控件, 组件, 工具, 开源
 
 <br><br>总结:
-1. AI的快速发展对信息环境构成重大威胁，可能加剧虚假信息的传播和操纵。
-2. 需要加强针对AI生成内容的检测和溯源技术，以识别和应对恶意利用。
-3. 建立负责任的AI开发和使用框架至关重要，包括透明度、可解释性和问责制。
-4. 国际合作对于应对AI带来的全球性安全挑战至关重要，需要协调策略和分享信息。
-5. 政府、企业和个人都需要提高对AI风险的认识，并采取相应的安全措施，以保护信息安全和维护社会稳定。
+1. Extended.Wpf.Toolkit 是一个开源的 WPF 控件、组件和实用工具集合。
+2. 该工具包的特点是经典、易于使用。
+3. 适合想要编写 WPF UI 界面的开发者参考和学习。
+4. 旨在为 WPF 开发提供帮助，提升效率。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
+        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
+        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
+        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
+        <summary type="html"><![CDATA[索引优化, 分库分表, SQL Server, 数据库性能, 全链路优化
+
+<br><br>总结:
+1. 在数据驱动的时代，数据库性能至关重要，SQL Server面临单表亿级数据量的挑战。
+2. 优化策略涵盖从索引优化到架构升级的全链路。
+3. 关键在于选择合适策略，以在数据洪流中保持性能。
+4. 文章将从SQL Server的角度，浅析应对策略，目标是稳操胜券。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[谷歌的 NotebookLM 能生成中文播客了]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</id>
+        <updated>Thu, 01 May 2025 12:26:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: NotebookLM, AI笔记, 播客生成, 中文支持, 学习工具
+
+<br><br>总结:
+1. 谷歌AI笔记产品NotebookLM现在支持50种语言生成播客，包括中文，原先只支持英文。
+2. 用户可以上传PDF、TXT、Markdown格式的文档（扫描PDF可以自动文字识别），也可以上传网站和Youtube视频，NotebookLM可以生成关于这些材料的播客。
+3. NotebookLM的AI笔记功能强大，可以搜索学习材料，与材料聊天，并自动生成学习指导、摘要、常见问题、时间线等笔记。
+4. 免费账户每天可以生成三个播客，更多需要付费。
+5. NotebookLM是一款有用的AI学习工具，可以改变做笔记和学习的方式。
 ]]></summary>
     </entry>
     
