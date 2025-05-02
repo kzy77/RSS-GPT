@@ -2,32 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 02 May 2025 16:23:09 GMT</updated>
+    <updated>Fri, 02 May 2025 18:25:30 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Humpback/humpback-server]]></title>
-        <link href="https://gitee.com/humpbacks/humpback-server" />
-        <id>https://gitee.com/humpbacks/humpback-server</id>
-        <updated>Fri, 02 May 2025 19:01:11 +0800</updated>
-        <summary type="html"><![CDATA[好的，请提供文章内容。我需要文章内容才能提取关键词并进行总结。
+        <title><![CDATA[全网爆火的 AI 提示词，GPT-4o 让刘强东王兴也成了「兄弟」，超逼真的效果 （含超全提示词）| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19269.html" />
+        <id>https://www.freedidi.com/19269.html</id>
+        <updated>Fri, 02 May 2025 20:25:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大语言模型, 提示工程, 鲁棒性, 对抗性攻击, 防御策略
+
+<br><br>总结:
+1. 大语言模型（LLM）面临提示工程带来的鲁棒性问题，即微小的输入变化可能导致输出的巨大差异。
+2. 对抗性攻击利用精心设计的提示，诱导LLM产生错误或有害的输出。
+3. 目前研究侧重于理解对抗性攻击的机制和寻找有效的防御策略。
+4. 提升LLM的鲁棒性对于保证其在实际应用中的安全性和可靠性至关重要。
+5. 未来的研究方向包括开发更强的对抗性防御方法，以及提升LLM对恶意提示的识别能力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
-        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
-        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
-        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Telegram 电报 推送 RSS 自动化 程序
+        <title><![CDATA[瑆箫/ueditor]]></title>
+        <link href="https://gitee.com/mo3408/ueditor" />
+        <id>https://gitee.com/mo3408/ueditor</id>
+        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档, 图片
 
 <br><br>总结:
-要点一：作者之前尝试使用 RSS 订阅和自动化程序 make，为论坛搭建了 Telegram 电报新帖实时推送功能。
-要点二：虽然实现了目的，但作者认为当时的步骤过于繁琐。
-要点三：作者对过去自己能完成如此复杂的操作感到惊讶。
+1.  UEditor发布了硬核更新版本，旨在重振活力。
+2.  新版本最大程度地保持了与旧版本的兼容性，确保用户无缝过渡。
+3.  界面图标保持不变，用户无需重新适应视觉风格。
+4.  新版本支持直接从Word和WPS文档中复制粘贴图片，并自动上传到编辑器，极大简化了操作流程。
 ]]></summary>
     </entry>
     
