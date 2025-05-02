@@ -2,56 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Fri, 02 May 2025 10:19:34 GMT</updated>
+    <updated>Fri, 02 May 2025 12:36:31 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[瑆箫/ueditor]]></title>
-        <link href="https://gitee.com/mo3408/ueditor" />
-        <id>https://gitee.com/mo3408/ueditor</id>
-        <updated>Fri, 02 May 2025 17:46:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：UEditor, 更新, 兼容, 文档复制, 图片上传
+        <title><![CDATA[Humpback/humpback-server]]></title>
+        <link href="https://gitee.com/humpbacks/humpback-server" />
+        <id>https://gitee.com/humpbacks/humpback-server</id>
+        <updated>Fri, 02 May 2025 19:01:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：轻量级，容器，服务管理，平台，简化
 
 <br><br>总结:
-
-1.  UEditor发布更新版本，目标是使其重新焕发活力。
-2.  新版本在最大程度上保持与旧版本的兼容性，用户可以无缝过渡。
-3.  更新没有更改任何图标，保留了用户熟悉的界面。
-4.  改进了文档复制粘贴功能，特别是支持word和wps文档的复制粘贴。
-5.  最重要的是，新版本支持图片自动上传，极大地简化了用户的操作流程。
+* 概述：该平台是一个轻量级的容器服务管理平台，目标是简化容器的管理和部署。
+* 功能：它提供核心的服务管理功能，方便用户部署、运行和监控容器化的应用。
+* 特点：专注于轻量级，可能在资源占用和复杂性方面进行了优化，更易于上手和维护。
+* 优势：旨在降低容器技术的使用门槛，让开发者能够更专注于应用本身。
+* 适用场景：适用于需要简单高效地管理容器化服务的场景。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18850464" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18850464</id>
-        <updated>Sun, 27 Apr 2025 21:24:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：WPF, 控件, 组件, 工具, 开源
+        <title><![CDATA[打造更简约的 Telegram 新帖通知，提升信息获取效率]]></title>
+        <link href="https://uuzi.net/telegram-minimal-rss-notifier-forum-push/" />
+        <id>https://uuzi.net/telegram-minimal-rss-notifier-forum-push/</id>
+        <updated>Fri, 02 May 2025 08:26:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Telegram, 电报, 推送, RSS, 自动化
 
 <br><br>总结:
-1. Extended.Wpf.Toolkit 是一个开源的WPF控件、组件和实用工具集合。
-2. 该工具包的特点是经典、易于使用。
-3. 适合想要编写WPF UI界面的开发者参考学习和借鉴。
+1. 作者之前尝试过通过RSS订阅和自动化程序向Telegram推送论坛新帖，目的是实现实时推送功能。
+2. 虽然最终目标达成，但作者认为当时搭建过程过于繁琐。
+3. 作者对当时自己能够完成如此复杂的操作感到佩服。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
-        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
-        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
-        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
-        <summary type="html"><![CDATA[索引优化, 分库分表, SQL Server, 数据库性能, 数据量
+        <title><![CDATA[Windows 12 轻量版、Windows 13 全新视觉版！你更喜欢哪个？AR4789 神级改造来了！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19265.html" />
+        <id>https://www.freedidi.com/19265.html</id>
+        <updated>Thu, 01 May 2025 22:52:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大型语言模型，提示工程，知识图谱，检索增强生成，RAG
 
 <br><br>总结:
-1. 在数据驱动时代，数据库性能至关重要，尤其是在SQL Server面对单表亿级数据量时。
-2. 面临性能瓶颈，需要权衡是否进行分库分表。
-3. 从SQL Server的角度，可以采取全链路优化策略来提升性能。
-4. 优化策略涵盖从基础的索引优化到架构升级等多个方面。
-5. 通过上述策略，能够在海量数据下保持SQL Server的稳定和高效。
+1. 大型语言模型(LLM)面临知识更新滞后和幻觉问题。
+2. 提示工程通过巧妙设计的提示词引导LLM输出期望结果。
+3. 知识图谱提供结构化知识，可用于增强LLM的知识储备。
+4. 检索增强生成(RAG)技术通过检索外部知识库来为LLM提供上下文信息。
+5. RAG结合了知识图谱，可以在检索时更准确地找到相关信息，从而提高LLM生成结果的准确性和可靠性。
 ]]></summary>
     </entry>
     
