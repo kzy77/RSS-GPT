@@ -2,40 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 03:02:51 GMT</updated>
+    <updated>Sat, 03 May 2025 04:21:14 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：NZOrz, Kestrel, Yarp, L4, 轮子
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： @Autowired，@Resource，依赖注入，注解，代码规范
 
 <br><br>总结:
-*  作者之前开发了轮子NZOrz，原计划模仿Kestrel和Yarp长期开发。
-*  由于个人事务繁忙，无暇继续完善NZOrz。
-*  有朋友询问是否能直接使用Kestrel实现L4处理。
-*  为了未来更轻松，作者决定基于Kestrel重新实现相关功能。
+
+1.  作者观察到许多项目中 `@Autowired` 和 `@Resource` 注解的使用非常混乱，缺乏统一标准。
+2.  `@Autowired` 默认按类型注入，可以结合 `@Qualifier` 按名称注入；如果找不到匹配的 Bean 会抛出异常，可以设置 `required = false` 避免异常。
+3.  `@Resource` 默认按名称注入，可以通过 `name` 属性指定名称；如果没有指定 `name`，则按属性名注入；如果找不到匹配的 Bean 会抛出异常。
+4.  建议遵循统一的代码规范，选择其中一种注解风格，并在整个项目中保持一致，避免混用。
+5.  作者推荐使用 `@Resource`，因为其语义更加明确，也更容易理解，更符合规范。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全网爆火的 AI 提示词，GPT-4o 让刘强东王兴也成了「兄弟」，超逼真的效果 （含超全提示词）| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19269.html" />
-        <id>https://www.freedidi.com/19269.html</id>
-        <updated>Fri, 02 May 2025 20:25:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLM, 多模态学习, 视觉模型, 语音模型, 迁移学习
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 物流分拣, 叉车搬运, 货物装载, 导轨控制, 运输路径
 
 <br><br>总结:
-* 文章探讨了如何利用大型语言模型（LLM）在多模态学习中的应用。
-* 重点关注将预训练好的LLM与视觉模型和语音模型相结合，以实现更强大的多模态理解和生成能力。
-* 研究利用LLM作为通用接口，促进不同模态信息之间的迁移学习，提升模型在各种多模态任务上的性能。
-* 关键挑战在于如何有效地对齐不同模态的特征空间，以及如何解决LLM在处理视觉和语音信息时可能遇到的偏差问题。
-* 未来的研究方向包括开发更有效的多模态对齐方法，以及探索LLM在更广泛的多模态应用场景中的潜力。
+1. 问题背景：物流分拣配送中，大型货物需要叉车搬运，仓库使用导轨传输。
+2. 运输路径：货物需依次经过深圳-广州-佛山-广西，并在广州和佛山卸货。
+3. 装载要求：由于卸货顺序，货物需按广西-佛山-广州的顺序从内到外装车。
+4. 核心问题：如何通过算法控制导轨，实现按目的地顺序装载货物。
 ]]></summary>
     </entry>
     
