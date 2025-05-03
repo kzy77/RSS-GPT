@@ -2,39 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 12:33:49 GMT</updated>
+    <updated>Sat, 03 May 2025 14:15:54 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
-        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
-        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
-        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: @Autowired, @Resource, 依赖注入, Spring, 规范
+        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
+        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
+        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
+        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
+        <summary type="html"><![CDATA[短轮询, 长轮询, WebSocket, SSE, 实时通信
 
 <br><br>总结:
-1.  指出当前项目中使用@Autowired和@Resource注解的混乱现象，影响代码可读性。
-2.  强调两者主要区别：@Autowired默认按类型注入，而@Resource默认按名称注入。
-3.  建议：优先使用@Resource，更符合依赖注入“显式”规范。当需要指定类型注入时，使用@Autowired，并配合@Qualifier指定Bean名称。
-4.  强调团队规范统一的重要性，选择一种方式并遵守，以保证代码风格一致性和可维护性。
-5.  建议规范的优先级为：@Resource(name = "beanName") > @Autowired + @Qualifier("beanName") > @Autowired。
+1. 短轮询：浏览器定时发送HTTP请求，服务器立即返回数据，实现简单但浪费资源，实时性差。
+2. 长轮询：浏览器发送请求，服务器保持连接直到有新数据才返回，能及时更新，但服务器压力大。
+3. WebSocket：建立持久双向连接，实时性高，服务器压力小，但实现复杂。
+4. SSE：服务器向浏览器单向推送数据，适合只需要服务器向客户端推送信息的场景，实现简单，消耗资源少。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
-        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
-        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
-        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：物流分拣，叉车搬运，导轨控制，货物排序，卸货顺序
+        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
+        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
+        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
+        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Kestrel, Yarp, NZOrz, L4, 轮子
 
 <br><br>总结:
-要点1：问题是大型货物通过导轨传输，需叉车搬运，涉及深圳-广州-佛山-广西的物流配送。
-要点2：广州、佛山分别需要卸货，因此货物装车顺序需按目的地逆序排列（广西最里，佛山次之，广州最外）。
-要点3：目标是设计算法控制导轨，实现符合卸货顺序的装车。
+1. 作者之前开发了名为NZOrz的轮子，计划模仿Kestrel和Yarp逐步完善。
+2. 由于各种个人原因，作者无法继续缓慢开发NZOrz。
+3. 有人希望使用Kestrel实现L4处理。
+4. 为了减轻未来负担，作者决定基于Kestrel重新实现相关功能。
 ]]></summary>
     </entry>
     
