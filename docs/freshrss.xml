@@ -2,41 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 06:24:35 GMT</updated>
+    <updated>Sat, 03 May 2025 08:21:29 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Kestrel, Yarp, L4, NZOrz, 轮子
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：@Autowired, @Resource, 依赖注入, Spring, 代码规范
 
 <br><br>总结:
-1. 作者之前开发了名为NZOrz的轮子，目标是模仿Kestrel和Yarp。
-2. 由于各种原因（包括外部环境和个人事务），作者没有时间继续缓慢地完善NZOrz。
-3. 为了更高效地实现L4处理，并且考虑到有用户希望直接使用Kestrel，作者决定基于Kestrel重新实现相关功能。
-4. 此举旨在减轻作者在2025年的负担。
+
+1.  作者观察到很多项目中 `@Autowired` 和 `@Resource` 的使用混乱，缺乏统一规范。
+2.  文章旨在清晰区分 `@Autowired` 和 `@Resource` 的使用场景，避免随意混用，提升代码可读性和维护性。
+3.  `@Autowired` 默认按类型（byType）注入，可使用 `@Qualifier` 指定名称，是 Spring 提供的注解。
+4.  `@Resource` 默认按名称（byName）注入，找不到名称时按类型注入，是 JSR-250 提供的注解。
+5.  推荐使用原则：优先使用 `@Resource` 按名称注入，其次 `@Autowired` 按类型注入，并辅以 `@Qualifier` 指定名称，最终实现代码规范化。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全网爆火的 AI 提示词，GPT-4o 让刘强东王兴也成了「兄弟」，超逼真的效果 （含超全提示词）| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19269.html" />
-        <id>https://www.freedidi.com/19269.html</id>
-        <updated>Fri, 02 May 2025 20:25:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 知识图谱, 检索增强生成, RAG, 知识融合
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 物流分拣, 叉车搬运, 货物装车, 导轨控制, 目的地排序
 
 <br><br>总结:
-
-*   该文章主要探讨了如何利用知识图谱增强大语言模型的性能，尤其是在检索增强生成(RAG)框架下。
-*   知识图谱被用于提供更准确和结构化的知识，从而提升大语言模型生成答案的质量和相关性。
-*   传统的RAG方法面临知识获取和推理的挑战，知识图谱可以有效解决这些问题，使模型能够进行更深层次的知识融合。
-*   研究人员提出了多种将知识图谱融入RAG的方法，包括知识图谱检索、知识图谱增强的文本生成等。
-*   实验结果表明，结合知识图谱的RAG方法在各种任务中都取得了显著的改进，提高了大语言模型的知识理解和推理能力。
+1.  问题：大型货物通过叉车在仓库内搬运，导轨传输。需要将一批从深圳发往广州、佛山、广西的货物，按照目的地倒序装车（广西最内，广州最外）。
+2.  目标：设计算法控制导轨，实现按照目的地排序装车。
+3.  背景：物流分拣配送中常见的仓库货物装车问题，涉及导轨控制和目的地排序。
 ]]></summary>
     </entry>
     
