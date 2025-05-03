@@ -2,55 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 18:23:42 GMT</updated>
+    <updated>Sat, 03 May 2025 20:18:40 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：道路生成，路口生成，路径扩展，车道方向，交叉计算
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
 
 <br><br>总结:
-一、目标：
-1. 自动道路生成：基于随机点信息，扩展生成具有一定宽度的道路，包括路沿点、道路中心点以及分上下行车道，车道方向与实际行驶方向一致。
-2. 自动路口生成：在多条道路交叉时，自动计算生成道路路口，优化车辆在路口转弯的计算，并提升视觉美观度，避免线路交叉感。
-二、实现原理...(此处文章未提供具体实现，因此无法总结)
+1.  现有WPF下拉列表控件无法满足懒加载需求，因此自封装控件。
+2.  该控件支持懒加载，避免一次性加载全部数据。
+3.  控件支持模糊过滤功能，方便用户快速查找。
+4.  采用虚拟化加载技术，解决大数据量渲染卡顿问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[实时通信, 短轮询, 长轮询, WebSocket, SSE
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: pywinauto, 启动应用, 已启动应用, PC端, 自动化
 
 <br><br>总结:
-1. **短轮询:** 浏览器定时发送HTTP请求，服务器立即返回数据，实现简单但浪费资源且实时性差。
-2. **长轮询:** 浏览器发送请求后，服务器保持连接直到有新数据才返回，减少资源浪费，但仍需建立和维护连接。
-3. **WebSocket:** 建立持久双向连接，数据实时传输，服务器可主动推送，高效且实时性高，但实现相对复杂。
-4. **SSE (Server-Sent Events):** 服务器单向推送数据到客户端，适用于只需要服务器向客户端发送数据的场景，实现简单，但不支持客户端向服务器发送数据。
+1. 简介：本文讲解如何使用 pywinauto 启动已经启动的 PC 端应用程序。
+2. 背景：读者已经了解 pywinauto 的强大之处，并希望掌握启动已启动应用的方法。
+3. 目标：解决用户在应用程序已启用情况下，如何使用 pywinauto 进行自动化操作的问题。
+4. 内容：宏哥将详细讲解和分享启动 PC 端已经启动的应用的方法。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Kestrel, Yarp, L4, NZOrz, 轮子
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: @Autowired, @Resource, 依赖注入, Spring, 规范
 
 <br><br>总结:
-1.  作者之前开发了一个名为NZOrz的轮子，计划参照Kestrel和Yarp进行长期开发。
-2.  由于各种个人原因（包括川普上台、关税等），作者无暇继续缓慢开发NZOrz。
-3.  为了能够轻松应对未来（2025年），作者决定基于Kestrel重新实现L4处理功能。
-4.  有朋友询问是否可以直接使用Kestrel实现L4处理。
-5.  该项目旨在基于Kestrel提供L4级别的处理能力。
+
+1.  `@Autowired`和`@Resource`的混用现象普遍存在，导致项目代码风格不一致。
+2.  `@Autowired`默认按类型（byType）注入，如果类型匹配到多个bean，则需要结合`@Qualifier`指定bean名称。
+3.  `@Resource`默认按名称（byName）注入，如果找不到匹配的名称，则会尝试按类型注入。
+4.  推荐使用`@Autowired`构造器注入，明确依赖关系，方便单元测试，避免循环依赖问题。
+5.  强调代码规范的重要性，统一使用`@Autowired`构造器注入可以提升代码可读性和可维护性。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：物流分拣，导轨控制，叉车搬运，装车顺序，算法优化
+
+<br><br>总结:
+*   **问题描述：** 文章提出了一个物流分拣配送的实际问题，货物通过导轨传输，需要叉车搬运。货物需要按照特定的卸货顺序（深圳-广州-佛山-广西）装车，即终点站广西的货物要放在最里面，始发站广州的货物放在最外面。
+*   **挑战：** 如何通过算法控制导轨，实现按照卸货顺序将货物放置到正确的位置，以满足装车需求。
+*   **目标：** 设计一种算法，优化导轨控制，使得货物按照广西->佛山->广州的顺序排列，方便叉车按顺序装车，提高物流效率。
 ]]></summary>
     </entry>
     
