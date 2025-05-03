@@ -2,39 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 14:15:54 GMT</updated>
+    <updated>Sat, 03 May 2025 16:21:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[短轮询, 长轮询, WebSocket, SSE, 实时通信
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: pywinauto, 启动, 应用程序, PC端, 已启动
 
 <br><br>总结:
-1. 短轮询：浏览器定时发送HTTP请求，服务器立即返回数据，实现简单但浪费资源，实时性差。
-2. 长轮询：浏览器发送请求，服务器保持连接直到有新数据才返回，能及时更新，但服务器压力大。
-3. WebSocket：建立持久双向连接，实时性高，服务器压力小，但实现复杂。
-4. SSE：服务器向浏览器单向推送数据，适合只需要服务器向客户端推送信息的场景，实现简单，消耗资源少。
+
+1. 介绍了上一篇pywinauto的强大功能，主要针对电脑自带和安装的应用程序。
+2. 解决了在应用程序已经启动的情况下，如何使用pywinauto启动该应用程序的问题。
+3. 重点讲解了针对PC端已经启动的应用的启动方法，满足了用户在特定场景下的需求。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Kestrel, Yarp, NZOrz, L4, 轮子
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: @Autowired, @Resource, 依赖注入, Spring, 注解
 
 <br><br>总结:
-1. 作者之前开发了名为NZOrz的轮子，计划模仿Kestrel和Yarp逐步完善。
-2. 由于各种个人原因，作者无法继续缓慢开发NZOrz。
-3. 有人希望使用Kestrel实现L4处理。
-4. 为了减轻未来负担，作者决定基于Kestrel重新实现相关功能。
+1.  **问题提出：** 项目中@Autowired和@Resource的使用混乱，影响代码可读性。
+2.  **@Autowired 的用法：**  @Autowired默认按类型（ByType）注入，如果找到多个相同类型的bean，则会尝试按名称（ByName）匹配，也可通过@Qualifier指定名称。
+3.  **@Resource 的用法：** @Resource默认按名称（ByName）注入，如果找不到匹配的名称，则会尝试按类型（ByType）注入。可以指定name属性。
+4.  **建议：** 推荐使用@Resource进行依赖注入，因为它更清晰，更符合JSR-250规范，可读性更强。优先按名称注入，能够更好地表达依赖关系。
+5.  **总结：** 为了代码规范性和可读性，建议统一使用@Resource注解进行依赖注入，并遵循按名称注入的原则。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 物流分拣, 叉车搬运, 导轨控制, 货物堆放, 卸货顺序
+
+<br><br>总结:
+1.  问题涉及物流分拣配送，利用导轨传输大件货物，需叉车搬运。
+2.  货物运输路线为深圳-广州-佛山-广西，途中广州、佛山需卸货。
+3.  装车需按卸货顺序倒序堆放，即广西货物在最里层，佛山次之，广州最外层。
+4.  目标是设计算法控制导轨，实现货物按卸货顺序进行堆放装车。
 ]]></summary>
     </entry>
     
