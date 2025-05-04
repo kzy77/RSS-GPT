@@ -2,69 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 08:21:39 GMT</updated>
+    <updated>Sun, 04 May 2025 10:18:02 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
-        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
-        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
-        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
-        <summary type="html"><![CDATA[关键词：方程式赛车, 后车身域控制器, 车规级, AUTOSAR, S32K344
+        <title><![CDATA[SQL Server 2025 中的改进]]></title>
+        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
+        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
+        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 改进
 
 <br><br>总结:
-1.  该项目为大学方程式赛车开发车规级后车身域控制器。
-2.  该域控制器集成了低压电池监测、智能配电和TBOX功能。
-3.  主控芯片采用车规级微控制器S32K344。
-4.  嵌入式软件基于AUTOSAR标准和模型驱动开发(MBD)。
-5.  项目包含软硬件开发，以及配套的数据传输服务客户端。
+*   SQL Server 2025即将首次公开版本。
+*   重点关注 Azure SQL DB 中已存在但尚未出现在 SQL Server 盒装产品中的功能。
+*   Azure SQL DB 常被认为是盒装产品的“下一代”。
+*   微软希望在SQL Server 2025中引入这些Azure SQL DB的改进功能。
+*   这些改进旨在提升SQL Server 2025的功能和性能，使其更具竞争力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
-        <link href="https://gitee.com/rock_kim/Myolotrain" />
-        <id>https://gitee.com/rock_kim/Myolotrain</id>
-        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 可视化, YOLO, 训练, 管理, 目标检测
+        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
+        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
+        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
+        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: .NET AI 模板, Preview 2, 微软, AI开发, 简化
 
 <br><br>总结:
-1. Myolotrain是一个YOLO视觉模型训练的可视化管理系统。
-2. 它提供数据集管理、模型管理、训练管理和目标检测等功能。
-3. 支持Windows、Linux、Docker等多种部署方式。
-4. 用户可以轻松训练和部署YOLOv8模型，支持CPU和GPU。
-5. 通过Tensorboard实时查看训练进度，并具备数据集自动分割功能。
+1. 微软 .NET 团队发布了 .NET AI 模板 Preview 2 版本，旨在满足开发者对简单高效AI开发工具的需求。
+2. Preview 2 版本带来了新的功能和改进，简化了AI开发流程。
+3. 该模板是 .NET 开发生态系统的重要补充，使 .NET 开发者更容易地利用AI技术。
+4. 具体新特性还有待进一步了解，但总体方向是降低AI开发的门槛。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
-        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
-        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
-        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
-
-<br><br>总结:
-1. 现有WPF下拉列表控件无法满足懒加载需求。
-2. 自行封装了一个支持懒加载和模糊过滤的WPF下拉列表控件。
-3. 该控件利用虚拟化加载技术，解决了大数据量渲染时的卡顿问题。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
-        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
-        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
-        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：pywinauto, 启动, 应用程序, PC端, 已启动
+        <title><![CDATA[根据点信息生成道路以及路口]]></title>
+        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
+        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
+        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：道路生成, 路口生成, 随机点, 道路扩展, 交叉计算
 
 <br><br>总结:
 
-1.  介绍了pywinauto的强大功能，并说明了读者希望了解如何启动已经启动的PC端应用程序。
-2.  本文将重点讲解和分享如何使用pywinauto启动已启动的应用程序。
+一、目标：基于随机点信息，自动生成具有路沿、中心线和车道方向的道路，并自动计算道路交叉口。
+
+二、实现：使用随机点作为道路的控制点，通过算法扩展生成具有一定宽度的道路。道路中心点根据点位自动生成方向。通过几何计算判断道路是否相交，并在交叉点生成路口，避免道路线路交叉。
 ]]></summary>
     </entry>
     
