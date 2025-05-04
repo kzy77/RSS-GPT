@@ -2,105 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 14:15:51 GMT</updated>
+    <updated>Sun, 04 May 2025 16:21:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[FreeSql/FreeSql]]></title>
-        <link href="https://gitee.com/FreeSql/FreeSql" />
-        <id>https://gitee.com/FreeSql/FreeSql</id>
-        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
-        <summary type="html"><![CDATA[.NET AOT ORM, 国产ORM, 多数据库支持, 性能, 开源
+        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
+        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
+        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
+        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：方程式赛车，后车身域控制器，S32K344，AUTOSAR，TBOX
 
 <br><br>总结:
-1. 该文章主要讨论了.NET平台下AOT (Ahead-of-Time) 编译环境下可用的ORM (Object-Relational Mapping) 框架。
-2.  强调了对多种数据库的支持，包括主流的MySQL、PostgreSQL、SQL Server、Oracle，以及轻量级的SQLite、Firebird、ClickHouse、DuckDB。
-3. 特别关注了对国产数据库的支持，如达梦、金仓、虚谷、翰高、高斯、神通和南大通用，体现了国产化的趋势。
-4. 提到了对时序数据库TDengine和QuestDB，以及MsAccess数据库的支持，扩展了ORM的应用范围。
-5. 文中信息暗示了对ORM框架性能和开源特性的关注。
+1.  该项目是为大学方程式赛车开发的。
+2.  核心是车规级后车身域控制器，集成了低压电池监测、智能配电和TBOX功能。
+3.  主控芯片采用车规级微控制器S32K344。
+4.  嵌入式软件基于AUTOSAR+MBD方法开发。
+5.  项目包含后车身域控制器的软硬件及配套的数据传输服务客户端。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19274.html" />
-        <id>https://www.freedidi.com/19274.html</id>
-        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大模型, 知识图谱, 增强, 检索, 推理
+        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
+        <link href="https://gitee.com/rock_kim/Myolotrain" />
+        <id>https://gitee.com/rock_kim/Myolotrain</id>
+        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: YOLO, 训练, 可视化, 管理, 部署
 
 <br><br>总结:
-* 文章探讨了如何利用知识图谱增强大型语言模型(LLM)的性能。
-* 主要方式是通过知识图谱辅助LLM的检索和推理能力，使其能够更好地理解和运用知识。
-* 一种方法是使用知识图谱来引导检索过程，找到与问题相关的更精确的信息。
-* 另一种方法是利用知识图谱的结构化信息，为LLM提供额外的上下文和线索，从而提升其推理能力。
-* 最终目标是提升LLM在知识密集型任务中的表现，解决其固有的一些知识缺陷问题。
+*   Myolotrain是一个用于管理YOLO视觉模型训练的可视化系统。
+*   它提供数据集管理、模型管理、训练管理和目标检测等功能，并集成于一个图形界面中。
+*   支持Windows、Linux和Docker等多种部署方式，方便用户使用。
+*   支持YOLOv8模型训练，可以使用CPU和GPU进行加速。
+*   该系统使用TensorBoard实时监控训练进度，并具备自动数据集分割功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
-        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
-        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
-        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：计算机网络, 数据通信, 资源共享, 互联网, 信息技术
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
 
 <br><br>总结:
-1. 计算机网络是将不同地理位置的计算机和设备连接起来的系统。
-2. 其目标是通过数据通信实现设备间的信息传输。
-3. 它也旨在实现资源共享，使连接的设备能够共享硬件和软件资源。
-4. 计算机网络是现代信息技术的核心基础设施。
-5. 它是互联网、物联网、云计算等领域发展的基础。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[SQL Server 2025 中的改进]]></title>
-        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
-        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
-        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 微软
-
-<br><br>总结:
-1. 文章探讨了SQL Server 2025 的改进，重点关注了Azure SQL DB 中已实现但尚未在SQL Server盒装产品中出现的功能。
-2. 微软过去将Azure SQL DB视为盒装产品的“下一个版本”，暗示了Azure SQL DB的功能会逐渐引入到SQL Server中。
-3. 文章旨在深入研究那些将可能在SQL Server 2025中出现，但目前仅在Azure SQL DB中可用的功能。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
-        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
-        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： .NET AI, 模板, Preview 2, 微软, AI开发工具
-
-<br><br>总结:
-.NET AI 模板 Preview 2 是微软 .NET 团队推出的重要更新，旨在简化 AI 开发流程。
-该模板为开发者提供了更简单、高效的 AI 开发工具，满足了日益增长的需求。
-Preview 2 版本带来了诸多新功能和改进，进一步优化了开发体验。
-该模板的核心优势在于其能够帮助开发者更快速地构建和部署 AI 应用。
-未来，.NET AI 模板有望成为 .NET 生态系统中重要的 AI 开发基石。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[道路生成, 路口生成, 道路扩展, 交叉路口, 道路方向
-
-<br><br>总结:
-
-一、目标：
-1.  根据随机点信息生成具有一定宽度的道路，包含路沿点、道路中心点，并区分上下行车道，点的方向与车道运行方向一致。
-2.  自动计算道路相交位置的路口，消除线路交叉感，方便车辆拐弯计算和美观展示。
-
-二、实现原理：
-(具体实现原理未提供，无法总结)
+1.  WPF缺少现成的懒加载下拉列表组件，因此作者自行封装了一个。
+2.  该控件支持懒加载，解决了大数据量渲染卡顿问题。
+3.  控件实现了虚拟化加载技术。
+4.  控件同时支持模糊过滤功能。
 ]]></summary>
     </entry>
     
