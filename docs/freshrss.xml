@@ -2,53 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 03:15:56 GMT</updated>
+    <updated>Sun, 04 May 2025 04:22:21 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
-        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
-        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET AI 模板, Preview 2, AI开发, 微软, 效率
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF 下拉列表 懒加载 虚拟化 模糊过滤
 
 <br><br>总结:
-.NET AI 模板 Preview 2 是微软 .NET 团队发布的最新版本，旨在简化 AI 开发流程，提高开发效率。
-主要内容包括：提供了更高效的 AI 开发工具和模板，以便开发者更轻松地构建 AI 应用。
-Preview 2 版本带来了许多新特性和改进，具体细节文章将深入探讨。核心目标是满足开发者对简单高效的 AI 开发工具的需求。
+1.  针对WPF下拉列表在大数据量时渲染卡顿的问题，开发者自封装了一个懒加载和支持模糊过滤的下拉列表控件。
+2.  该控件实现了懒加载，这意味着只有当列表需要显示的时候才加载数据，减少了初始加载时间。
+3.  控件使用了虚拟化技术，只渲染当前可见区域的数据，从而显著提升了大数据量时的性能，解决了渲染卡顿的问题。
+4.  该控件还支持模糊过滤功能，方便用户快速查找所需选项。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[道路生成, 路口生成, 随机点, 车道, 方向
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：pywinauto, 应用程序, 启动, PC端, 已启动
 
 <br><br>总结:
-一、目标：
-1.  基于随机点生成具有一定宽度的道路，包括路沿点、中心点以及分上下行车道的方向信息。
-2.  自动检测道路交叉点，并生成道路路口，以优化车辆拐弯计算和视觉效果。
-二、实现原理（未提供细节，省略）。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：短轮询, 长轮询, WebSocket, SSE, 实时通信
 
-<br><br>总结:
-1. 短轮询：浏览器定时发送HTTP请求，服务器立即返回数据，简单但浪费资源，实时性差。
-2. 长轮询：浏览器发送请求后，服务器保持连接直到数据更新或超时，实时性优于短轮询，但服务器压力大。
-3. WebSocket：双向通信协议，建立持久连接，实时性高，服务器推送数据，但实现复杂，兼容性略逊。
-4. SSE (Server-Sent Events)：服务器向浏览器单向推送数据，基于HTTP，轻量级，适合服务器主动更新场景，但不支持客户端向服务器发送数据。
+1.  简介：pywinauto功能强大，前文已介绍。本文针对已启动应用程序的启动问题。
+2.  问题：部分读者询问如何启动电脑中已经启动的应用程序。
+3.  解答：宏哥将分享如何启动PC端已启动的应用。
 ]]></summary>
     </entry>
     
