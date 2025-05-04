@@ -2,70 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 06:25:27 GMT</updated>
+    <updated>Sun, 04 May 2025 08:21:39 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[SQL Server 2025 中的改进]]></title>
-        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
-        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
-        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 改进
+        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
+        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
+        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
+        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：方程式赛车, 后车身域控制器, 车规级, AUTOSAR, S32K344
 
 <br><br>总结:
-1. SQL Server 2025 正在接近首次公开版本，引发了对新功能的关注。
-2. 重点在于研究 Azure SQL DB 中已存在但尚未出现在 SQL Server 盒装产品版本中的功能。
-3. 微软过去曾将 Azure SQL DB 视为盒装产品的“下一代”。
-4. SQL Server 2025的改进之处集中于从Azure SQL DB移植并整合相关功能。
-5. 目标是增强盒装产品的性能和功能，使其更接近 Azure SQL DB 的能力。
+1.  该项目为大学方程式赛车开发车规级后车身域控制器。
+2.  该域控制器集成了低压电池监测、智能配电和TBOX功能。
+3.  主控芯片采用车规级微控制器S32K344。
+4.  嵌入式软件基于AUTOSAR标准和模型驱动开发(MBD)。
+5.  项目包含软硬件开发，以及配套的数据传输服务客户端。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
-        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
-        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET AI 模板, Preview 2, 微软, AI开发, 新功能
+        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
+        <link href="https://gitee.com/rock_kim/Myolotrain" />
+        <id>https://gitee.com/rock_kim/Myolotrain</id>
+        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 可视化, YOLO, 训练, 管理, 目标检测
 
 <br><br>总结:
-*   微软 .NET 团队发布 .NET AI 模板 Preview 2 版本。
-*   新版本为开发者提供更简单高效的 AI 开发工具。
-*   Preview 2 带来了诸多新功能和改进。
-*   目标是满足开发者日益增长的 AI 开发需求。
-*   提供更深入的分析和探讨其核心优势。（原文只提到会深入探讨，但没有具体内容）
+1. Myolotrain是一个YOLO视觉模型训练的可视化管理系统。
+2. 它提供数据集管理、模型管理、训练管理和目标检测等功能。
+3. 支持Windows、Linux、Docker等多种部署方式。
+4. 用户可以轻松训练和部署YOLOv8模型，支持CPU和GPU。
+5. 通过Tensorboard实时查看训练进度，并具备数据集自动分割功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：道路生成，路口生成，自动扩展，交叉计算，方向生成
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
 
 <br><br>总结:
-一、目标：
-1. 自动生成道路：利用随机点信息，自动扩展成具有一定宽度的道路，包含路沿点、道路中心点，并区分上下行车道，点的方向与车道运行方向一致。
-2. 自动生成路口：当多条道路相交时，自动在交叉位置计算生成道路路口，优化车辆在路口拐弯的计算和展示效果，避免线路交叉感。
+1. 现有WPF下拉列表控件无法满足懒加载需求。
+2. 自行封装了一个支持懒加载和模糊过滤的WPF下拉列表控件。
+3. 该控件利用虚拟化加载技术，解决了大数据量渲染时的卡顿问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[短轮询, 长轮询, WebSocket, SSE, 实时通信
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：pywinauto, 启动, 应用程序, PC端, 已启动
 
 <br><br>总结:
-*   短轮询：浏览器定时发送HTTP请求，服务器立即返回数据，实现简单但浪费资源，实时性差。
-*   长轮询：浏览器发送请求后，服务器保持连接直到有新数据才返回，减少资源浪费，提升实时性，但服务器压力较大。
-*   WebSocket：建立持久双向连接，服务器可主动推送数据，实时性高，适合需要双向通信的应用。
-*   SSE：服务器单向推送事件流，基于HTTP协议，轻量级，适合只需要服务器推送的应用，兼容性好。
+
+1.  介绍了pywinauto的强大功能，并说明了读者希望了解如何启动已经启动的PC端应用程序。
+2.  本文将重点讲解和分享如何使用pywinauto启动已启动的应用程序。
 ]]></summary>
     </entry>
     
