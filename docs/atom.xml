@@ -2,173 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-05-03T22:16:51Z</updated>
+    <updated>2025-05-04T01:42:26Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[短轮询, 长轮询, WebSocket, SSE, 实时通信
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
 
 <br><br>总结:
-*   **短轮询：** 浏览器定时发送HTTP请求，服务器立即返回数据。实现简单但浪费资源，实时性差。
-*   **长轮询：** 浏览器发送HTTP请求，服务器有更新时才返回，否则保持连接直到超时。降低了资源浪费，提高了实时性。
-*   **WebSocket：** 全双工通信协议，建立持久连接后可实时双向传输数据。实时性高，但实现复杂。
-*   **SSE (Server-Sent Events)：** 服务器向浏览器推送数据的单向通信技术。实现简单，适合服务器单向推送场景。
+1.  WPF缺乏现成的懒加载下拉列表组件，开发者自行封装实现。
+2.  该控件支持懒加载和模糊过滤功能，方便用户快速查找选项。
+3.  控件采用虚拟化加载技术，有效解决了大数据量渲染时的卡顿问题，提升了性能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Kestrel, Yarp, L4, NZOrz, 轮子
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：pywinauto, 启动应用, 已启动应用, PC端, 自动化
 
 <br><br>总结:
-1. 作者之前开发的名为NZOrz的轮子项目，原本计划参考Kestrel和Yarp进行长期开发。
-2. 由于各种外部因素和个人原因，作者无法继续缓慢开发NZOrz。
-3. 为了能在2025年轻松一些，作者决定基于Kestrel重新实现L4处理功能。
-4. 一些朋友想了解是否可以直接使用Kestrel实现L4处理。
+1. 概述：本文讲解如何使用pywinauto启动PC端已经启动的应用程序，区别于启动电脑自带或安装的应用程序。
+2. 背景：一些读者想了解如何操作已经运行的应用。
+3. 目标：解决读者提出的关于启动已启动应用的问题，提供自动化解决方案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：道路生成, 路口生成, 自动化, 车道方向, 交叉计算
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：物流分拣，导轨传输，叉车搬运，货物排序，卸货顺序
 
 <br><br>总结:
-一、**目标：** 自动生成具有一定宽度的道路，包括路沿点、道路中心点和分上下行的车道，并根据车道方向生成点的方向信息。
-二、**目标：** 自动在道路交叉位置计算出路口，消除线路交叉感，以便后续车辆在路口进行转向计算和美观展示。
+1.  问题背景：仓库使用导轨传输货物，货物较大需叉车搬运，需要将一批货物从深圳运往广州、佛山、广西，途经广州和佛山分别卸货。
+2.  核心挑战：需要根据卸货顺序（广州、佛山、广西）安排装车顺序，确保最先卸货的货物放在最外侧。
+3.  目标：通过算法控制导轨，实现按卸货顺序排序货物，以便高效装车。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
-        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
-        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET AI 模板, Preview 2, 微软, 人工智能, 开发工具
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： `@Autowired`, `@Resource`, 依赖注入, 代码规范, Spring
 
 <br><br>总结:
-1.  微软发布 .NET AI 模板 Preview 2 版本，旨在简化和加速 AI 应用开发。
-2.  该版本包含多项新功能和改进，提升开发效率。
-3.  重点在于为 .NET 开发者提供更高效的 AI 开发工具。
-4. 目标是帮助开发者更便捷地集成 AI 功能到 .NET 应用中。
-5.  预览版代表持续的更新和迭代，预示着.NET在AI领域的投入和发展。
+
+1.  **问题提出：** 项目中`@Autowired`和`@Resource`的使用混乱，缺乏统一规范，导致代码杂乱。
+2.  **主要区别：** `@Autowired`默认按类型（byType）注入，`@Resource`默认按名称（byName）注入。
+3.  **详细解析：** 深入探讨了两种注解的源码实现，解释了当按类型查找不到时，`@Autowired`会尝试按名称查找，而`@Resource`则会报错。
+4.  **推荐用法：** 建议优先使用`@Resource`，明确指定名称进行注入，避免潜在的类型匹配问题。当需要注入接口类型且有多个实现类时，可配合`@Qualifier`使用`@Autowired`。
+5.  **总结与建议：** 为了代码的可读性和可维护性，应在项目中统一`@Autowired`和`@Resource`的使用规范，并进行代码审查以确保一致性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、免费域名、挂了、新情况、解读
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-04-28T20:07:11.529-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、5美元赠金、Docker应用<br>
 <br>
-us.kg免费域名近期有变化，已注册的域名仍然存在，但现在无法注册新的域名。新注册的域名目前无法托管到Cloudflare，但可以临时托管到FreeDNS。现有的域名可以继续使用，在使用过程中需要注意区分已注册和新注册的域名。总体来说，us.kg域名仍然可用，但注册和管理上有一些限制。]]></summary>
+Claw Cloud Run是一款免费容器，注册Github账户180天后可获得每月5美元赠金。通过查看Github注册时间，可以判断是否符合条件。用户可以在应用商店一键自动部署各种Docker应用，也可以手动部署。推荐的两款应用是Memos（轻笔记应用）和AList（网盘挂载工具）。详情可以观看Youtube视频。<br><br>总结: Claw Cloud Run是免费容器，注册Github账户180天后可获得5美元赠金，可部署各种Docker应用，推荐使用Memos和AList，详情见Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
-Serv00是一个科学上网工具，通过Cloudflare的固定隧道和CDN回源实现网站加速和保活。用户可以利用Serv00搭建科学上网节点，并在Cloudflare上设置固定隧道和CDN回源规则，同时可以通过Cloudflare远程保活实现网页的持续访问。具体操作包括注册登录Serv00、搭建节点、设置固定隧道、添加CDN回源规则和配置网页保活功能。这些操作将帮助用户实现科学上网和网站优化。Serv00的Github项目和Windterm工具提供详细的教程和操作步骤。整个过程需要仔细操作和设置，确保按照教程进行配置。总结: Serv00提供科学上网和网站加速的功能，通过Cloudflare固定隧道和CDN回源实现网站保活和优化。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名，受限状态，注册，KYC验证，Cloudflare<br>
-US.KG域名现在处于受限状态，需先使用https://dash.domain.digitalplat.org/完成注册和KYC验证，待域名状态恢复后托管到Cloudflare。注册账号，验证邮箱，进行KYC验证，注册域名并托管到Cloudflare。域名免费续订，但存在缺点，详细步骤见Youtube视频。<br><br>总结: US.KG域名受限，需用特定网址注册并KYC验证，待恢复后托管到Cloudflare。注册步骤包括账号、邮箱验证、KYC验证、域名注册和托管。免费续订域名，但存在缺点。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, Deepseek网页端和APP, Deepseek API, Perplexity, 本地部署<br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github仓库，Cloudflare官网，免费域名，us.kg域名，续期<br>
 <br>
-关于Deepseek的使用方法包括访问官网、下载手机应用、使用API、及第三方应用。用户可以通过Deepseek进行沉浸式翻译、Chatbox、欧路词典等功能。此外，Deepseek还支持本地部署，用户可通过下载Ollama并输入相应命令来实现。用户需选择硬件模型并使用Chatbox时，需选择Ollama API。整体而言，Deepseek提供多种应用方式且支持本地部署，能够满足用户不同的使用需求。<br><br>总结: 深度探寻为用户提供方便快捷的翻译和词典等功能，支持本地部署，适用于各种应用场景。]]></summary>
+DigitalPlat提供了免费的注册地址和美国地址生成器，同时在Github仓库中提供了相关内容。用户可通过Cloudflare官网使用Cloudflare Pages自定义域及SSL证书。两种域名，dpdns.org为免费，us.kg为收费，新用户可获得1个免费域名（加Star后增至2个），老用户可获得3个免费域名（加Star后增至4个）。us.kg域名不计入免费额度，并且续期永久免费，每年一次，需在到期前180天内续期。详细教程可查看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、节点搭建、Cloudflare、SSH、GitHub<br>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
 <br>
-Serv00视频介绍了搭建节点的方法选择、注册及登录、搭建代理节点、Cloudflare Argo固定隧道、进程保活、GitHub保号及远程保活等内容。要搭建代理节点，需要选择Cloudflare Argo固定隧道，并具备域名托管到Cloudflare的条件。用户可通过SSH客户端WindTerm进行登录，若IP被封，可通过设置系统代理或使用未被封IP的域名登录。设置Cloudflare Argo固定隧道时，需要在Cloudflare首页进行设置并保存隧道信息，选择HTTP类型，并输入本地端口号，最后复制显示的代码，并设置Token。详细操作内容可观看视频了解。 <br><br>总结: 该视频介绍了Serv00节点搭建的方法选择，包括Cloudflare设置、SSH登录、GitHub保号等重要步骤，帮助用户搭建和保持代理节点的稳定性。]]></summary>
+本文主要介绍了使用HostUNO搭建代理节点的体验。官方态度友好，价格合理，购买流程简单。代理节点稳定性高，速度快，不需要保活。但使用ChatGPT存在降智问题，需要考虑。续费流程也方便。总体来说，HostUNO值得购买，提供良好的服务体验。感兴趣的读者可参考相关链接了解更多详情。<br><br>总结: HostUNO提供稳定快速的代理节点服务，价格合理，值得购买。使用ChatGPT需注意降智问题，续费流程方便。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管<br>
+US.KG注册不了，推荐免费域名注册，可托管到Cloudflare，免费一年。具体步骤包括注册账号、注册免费域名（使用优惠码newuser），并将域名托管到Cloudflare。可以使用身份信息生成器辅助填写注册信息，然后登录Cloudflare添加域名，填入分配的名称服务器。详细教程可查看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek-R1、 羊毛、 免费体验、 token、 API客户端推荐
+
+主流大厂Deepseek-R1满血版提供了多种免费体验机会，用户可以获得免费token和体验服务。用户只需注册、绑定信用卡等简单操作，即可体验微软Azure、硅基流动、百度千帆、腾讯云等厂商的服务。同时，还推荐了Cherry Studio、Chatbox等API客户端。对于需要云计算和人工智能服务的用户来说，这些免费优惠极具吸引力。总的来说，用户有机会免费体验各种服务，为云计算和人工智能领域的学习和应用提供了便利。同时也提升了用户体验和智能化服务的便捷性。<br><br>总结:Deepseek-R1平台提供免费体验服务，包括token赠送和API客户端推荐，用户可以免费体验多家大厂的云计算和人工智能服务。]]></summary>
     </entry>
     
 </feed>

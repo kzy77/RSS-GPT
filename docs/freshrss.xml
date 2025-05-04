@@ -2,68 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sat, 03 May 2025 22:16:33 GMT</updated>
+    <updated>Sun, 04 May 2025 01:42:09 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
-        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
-        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
-        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET AI 模板, Preview 2, 微软, 人工智能, 开发工具
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
 
 <br><br>总结:
-1.  微软发布 .NET AI 模板 Preview 2 版本，旨在简化和加速 AI 应用开发。
-2.  该版本包含多项新功能和改进，提升开发效率。
-3.  重点在于为 .NET 开发者提供更高效的 AI 开发工具。
-4. 目标是帮助开发者更便捷地集成 AI 功能到 .NET 应用中。
-5.  预览版代表持续的更新和迭代，预示着.NET在AI领域的投入和发展。
+1.  WPF缺乏现成的懒加载下拉列表组件，开发者自行封装实现。
+2.  该控件支持懒加载和模糊过滤功能，方便用户快速查找选项。
+3.  控件采用虚拟化加载技术，有效解决了大数据量渲染时的卡顿问题，提升了性能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[根据点信息生成道路以及路口]]></title>
-        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
-        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
-        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：道路生成, 路口生成, 自动化, 车道方向, 交叉计算
+        <title><![CDATA[PC端自动化测试实战教程-3-pywinauto 启动PC端应用程序 - 下篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18660960" />
+        <id>https://www.cnblogs.com/du-hong/p/18660960</id>
+        <updated>Sun, 27 Apr 2025 16:36:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：pywinauto, 启动应用, 已启动应用, PC端, 自动化
 
 <br><br>总结:
-一、**目标：** 自动生成具有一定宽度的道路，包括路沿点、道路中心点和分上下行的车道，并根据车道方向生成点的方向信息。
-二、**目标：** 自动在道路交叉位置计算出路口，消除线路交叉感，以便后续车辆在路口进行转向计算和美观展示。
+1. 概述：本文讲解如何使用pywinauto启动PC端已经启动的应用程序，区别于启动电脑自带或安装的应用程序。
+2. 背景：一些读者想了解如何操作已经运行的应用。
+3. 目标：解决读者提出的关于启动已启动应用的问题，提供自动化解决方案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[聊聊四种实时通信技术：长轮询、短轮询、WebSocket 和 SSE]]></title>
-        <link href="https://www.cnblogs.com/makemylife/p/18843555" />
-        <id>https://www.cnblogs.com/makemylife/p/18843555</id>
-        <updated>Wed, 23 Apr 2025 21:52:00 +0800</updated>
-        <summary type="html"><![CDATA[短轮询, 长轮询, WebSocket, SSE, 实时通信
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： `@Autowired`, `@Resource`, 依赖注入, 代码规范, Spring
 
 <br><br>总结:
-*   **短轮询：** 浏览器定时发送HTTP请求，服务器立即返回数据。实现简单但浪费资源，实时性差。
-*   **长轮询：** 浏览器发送HTTP请求，服务器有更新时才返回，否则保持连接直到超时。降低了资源浪费，提高了实时性。
-*   **WebSocket：** 全双工通信协议，建立持久连接后可实时双向传输数据。实时性高，但实现复杂。
-*   **SSE (Server-Sent Events)：** 服务器向浏览器推送数据的单向通信技术。实现简单，适合服务器单向推送场景。
+
+1.  **问题提出：** 项目中`@Autowired`和`@Resource`的使用混乱，缺乏统一规范，导致代码杂乱。
+2.  **主要区别：** `@Autowired`默认按类型（byType）注入，`@Resource`默认按名称（byName）注入。
+3.  **详细解析：** 深入探讨了两种注解的源码实现，解释了当按类型查找不到时，`@Autowired`会尝试按名称查找，而`@Resource`则会报错。
+4.  **推荐用法：** 建议优先使用`@Resource`，明确指定名称进行注入，避免潜在的类型匹配问题。当需要注入接口类型且有多个实现类时，可配合`@Qualifier`使用`@Autowired`。
+5.  **总结与建议：** 为了代码的可读性和可维护性，应在项目中统一`@Autowired`和`@Resource`的使用规范，并进行代码审查以确保一致性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何基于 Kestrel 实现 socks5 代理]]></title>
-        <link href="https://www.cnblogs.com/fs7744/p/18842979" />
-        <id>https://www.cnblogs.com/fs7744/p/18842979</id>
-        <updated>Wed, 23 Apr 2025 16:57:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Kestrel, Yarp, L4, NZOrz, 轮子
+        <title><![CDATA[物流规划、仓储自动化和算法调度的问题分析]]></title>
+        <link href="https://www.cnblogs.com/FreeSql/p/18847880" />
+        <id>https://www.cnblogs.com/FreeSql/p/18847880</id>
+        <updated>Sat, 26 Apr 2025 12:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：物流分拣，导轨传输，叉车搬运，货物排序，卸货顺序
 
 <br><br>总结:
-1. 作者之前开发的名为NZOrz的轮子项目，原本计划参考Kestrel和Yarp进行长期开发。
-2. 由于各种外部因素和个人原因，作者无法继续缓慢开发NZOrz。
-3. 为了能在2025年轻松一些，作者决定基于Kestrel重新实现L4处理功能。
-4. 一些朋友想了解是否可以直接使用Kestrel实现L4处理。
+1.  问题背景：仓库使用导轨传输货物，货物较大需叉车搬运，需要将一批货物从深圳运往广州、佛山、广西，途经广州和佛山分别卸货。
+2.  核心挑战：需要根据卸货顺序（广州、佛山、广西）安排装车顺序，确保最先卸货的货物放在最外侧。
+3.  目标：通过算法控制导轨，实现按卸货顺序排序货物，以便高效装车。
 ]]></summary>
     </entry>
     
