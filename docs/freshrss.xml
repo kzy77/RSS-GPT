@@ -2,56 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 16:21:05 GMT</updated>
+    <updated>Sun, 04 May 2025 18:23:43 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
-        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
-        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
-        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
-        <summary type="html"><![CDATA[关键词：方程式赛车，后车身域控制器，S32K344，AUTOSAR，TBOX
+        <title><![CDATA[FreeSql/FreeSql]]></title>
+        <link href="https://gitee.com/FreeSql/FreeSql" />
+        <id>https://gitee.com/FreeSql/FreeSql</id>
+        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
+        <summary type="html"><![CDATA[.NET, ORM, 数据库, 国产数据库, AOT
 
 <br><br>总结:
-1.  该项目是为大学方程式赛车开发的。
-2.  核心是车规级后车身域控制器，集成了低压电池监测、智能配电和TBOX功能。
-3.  主控芯片采用车规级微控制器S32K344。
-4.  嵌入式软件基于AUTOSAR+MBD方法开发。
-5.  项目包含后车身域控制器的软硬件及配套的数据传输服务客户端。
+*  本文主要讨论了 .NET 平台下的 ORM (对象关系映射) 工具，涉及多种数据库的支持。
+*  不仅涵盖了常见的 MySQL, PostgreSQL, SQL Server, Oracle 等数据库，还包括 SQLite, Firebird, Clickhouse, DuckDB 等轻量级数据库。
+*  特别强调了对国产数据库的支持，例如达梦、金仓、虚谷、翰高、高斯、神通和南大通用等。
+*  文章还提到了时序数据库的支持，包括 TDengine 和 QuestDB。
+*  最后还提到了对MsAccess的支持。
+*  并涵盖了AOT相关的功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
-        <link href="https://gitee.com/rock_kim/Myolotrain" />
-        <id>https://gitee.com/rock_kim/Myolotrain</id>
-        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: YOLO, 训练, 可视化, 管理, 部署
+        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19274.html" />
+        <id>https://www.freedidi.com/19274.html</id>
+        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词：人工智能，教育，个性化学习，适应性学习，伦理
 
 <br><br>总结:
-*   Myolotrain是一个用于管理YOLO视觉模型训练的可视化系统。
-*   它提供数据集管理、模型管理、训练管理和目标检测等功能，并集成于一个图形界面中。
-*   支持Windows、Linux和Docker等多种部署方式，方便用户使用。
-*   支持YOLOv8模型训练，可以使用CPU和GPU进行加速。
-*   该系统使用TensorBoard实时监控训练进度，并具备自动数据集分割功能。
+要点一：人工智能正日益渗透到教育领域，为教育带来变革的潜力。
+要点二：人工智能驱动的个性化学习平台能够根据学生的学习节奏、优势和劣势，定制学习内容和方法，提升学习效率。
+要点三：适应性学习系统利用人工智能技术，动态调整学习难度和内容，以确保学生始终处于最佳学习状态。
+要点四：在教育中应用人工智能也面临着伦理挑战，例如数据隐私、算法偏见和过度依赖技术等问题，需要认真对待。
+要点五：虽然人工智能在教育领域前景广阔，但它不应取代教师的角色，而是作为教师的辅助工具，共同促进学生的全面发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
-        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
-        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
-        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
+        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
+        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
+        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
+        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：计算机网络，数据通信，资源共享，互联网，信息技术
 
 <br><br>总结:
-1.  WPF缺少现成的懒加载下拉列表组件，因此作者自行封装了一个。
-2.  该控件支持懒加载，解决了大数据量渲染卡顿问题。
-3.  控件实现了虚拟化加载技术。
-4.  控件同时支持模糊过滤功能。
+* 计算机网络是将不同地理位置的计算机系统和设备连接起来，通过通信线路和协议实现互联互通的系统。
+* 其核心在于实现数据通信，即不同设备间的信息传输。
+* 另一个重要功能是资源共享，允许网络内的设备共享硬件、软件和数据资源。
+* 计算机网络是现代信息技术的核心基础设施，支撑着互联网、物联网、云计算等领域的发展。
+* 它对于协同工作和信息交流至关重要，推动着各行各业的数字化转型。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[SQL Server 2025 中的改进]]></title>
+        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
+        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
+        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 改进
+
+<br><br>总结:
+*   SQL Server 2025 即将发布，将包含来自 Azure SQL DB 的新功能。
+*   重点在于探索目前 Azure SQL DB 独有，但尚未出现在 SQL Server 盒装产品版本中的功能。
+*   Azure SQL DB 可以看作是盒装 SQL Server 产品的未来方向。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
+        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
+        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
+        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
+        <summary type="html"><![CDATA[.NET AI模板, Preview 2, 微软, 开发者, 人工智能
+
+<br><br>总结:
+1. 微软.NET团队发布了.NET AI模板Preview 2版本，旨在简化和加速AI应用的开发过程。
+2. Preview 2版本引入了新的功能和改进，以满足开发者对简单高效AI开发工具日益增长的需求。
+3. 该模板的核心优势在于为开发者提供更便捷的方式来构建和部署AI应用程序。
+4. 具体新特性和改进将在原文中进一步探讨分析。
 ]]></summary>
     </entry>
     
