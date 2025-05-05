@@ -2,100 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 05 May 2025 10:20:36 GMT</updated>
+    <updated>Mon, 05 May 2025 12:37:41 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
-        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：C#, .NET, .NET Core, 编程, 教程
+        <title><![CDATA[凯亚利用直播推流技术请大家看电影]]></title>
+        <link href="https://www.cnblogs.com/fanliang11/p/18858743" />
+        <id>https://www.cnblogs.com/fanliang11/p/18858743</id>
+        <updated>Sat, 03 May 2025 22:38:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: dotnetty, kayak, SpanNetty, 性能, 稳定性
 
 <br><br>总结:
-1.  该项目是一个C#/.NET/.NET Core编程学习资源集合。
-2.  它包含常用语法、算法、技巧、中间件和类库。
-3.  提供工作业务实操练习，并配有详细文章教程。
-4.  旨在帮助用户快速掌握C#/.NET/.NET Core编程。
-5.  可作为全面的学习、工作和面试指南。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[XiangShan/ChiselAIA]]></title>
-        <link href="https://gitee.com/OpenXiangShan/ChiselAIA" />
-        <id>https://gitee.com/OpenXiangShan/ChiselAIA</id>
-        <updated>Mon, 05 May 2025 20:16:22 +0800</updated>
-        <summary type="html"><![CDATA[RISC-V, AIA, Chisel, 开源, 中断
-
-<br><br>总结:
-1. ChiselAIA是使用Chisel语言编写的。
-2. ChiselAIA实现了RISC-V高级中断架构(AIA)。
-3. ChiselAIA是一个开源项目。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陕西颜值扛把子/VideoWeb]]></title>
-        <link href="https://gitee.com/puzhiweizuishuai/VideoWeb" />
-        <id>https://gitee.com/puzhiweizuishuai/VideoWeb</id>
-        <updated>Mon, 05 May 2025 20:14:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 视频网站, 弹幕, Spring Boot, Vue, TikTube
-
-<br><br>总结:
-*   TikTube是一个简单的视频网站，界面设计模仿了Youtube。
-*   后端采用Spring Boot技术，前端使用Vue和Vuetifyjs框架。
-*   该网站支持发送弹幕互动功能。
-*   具备自动生成视频封面图的功能。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[FreeSql/FreeSql]]></title>
-        <link href="https://gitee.com/FreeSql/FreeSql" />
-        <id>https://gitee.com/FreeSql/FreeSql</id>
-        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
-        <summary type="html"><![CDATA[.NET AOT, ORM, 数据库支持, 国产数据库, 多平台
-
-<br><br>总结:
-1. 该文介绍了适用于 .NET 平台，尤其是在 AOT 环境下运行的 ORM (对象关系映射) 工具。
-2. 它支持多种主流数据库，包括 MySQL, PostgreSQL, SQL Server, Oracle, SQLite, Firebird, ClickHouse, DuckDB, TDengine, QuestDB 和 MsAccess。
-3. 突出特点是对多种国产数据库的支持，如达梦、金仓、虚谷、翰高、高斯、神通和南大通用。
-4. 该 ORM 可用 VB.NET 或 C# 开发。
-5. 表明该 ORM 在数据库支持的广泛性和国产化适配方面具备优势。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19274.html" />
-        <id>https://www.freedidi.com/19274.html</id>
-        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 代码生成, 人工智能辅助, 软件开发, 评估指标
-
-<br><br>总结:
-1.  文章探讨了大语言模型在代码生成方面的能力，表明其作为人工智能辅助工具，能够显著影响软件开发流程。
-2.  重点分析了使用大语言模型生成代码的各种方法和技术，例如提示工程和微调。
-3.  强调了对大语言模型生成的代码进行评估的重要性，并讨论了常用的评估指标，包括功能正确性、代码质量和效率。
-4.  总结了当前大语言模型在代码生成领域的优势和局限性，以及未来的发展方向。
-5.  讨论了如何利用大语言模型提高软件开发效率，并提出了一些挑战和机遇。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
-        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
-        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
-        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：计算机网络 数据通信 资源共享 互联网 协同工作
-
-<br><br>总结:
-1. 计算机网络是将地理位置分散的计算机系统通过通信线路连接，遵循共同协议，实现数据传输、资源共享和协同工作的系统。
-2. 其核心功能是实现不同设备间的数据通信和资源共享。
-3. 计算机网络是现代信息技术的核心基础设施，支撑着互联网、物联网、云计算等众多领域的发展。
+1. 作者在劳动节期间，在家下载了dotnetty代码并添加到kayak项目中。
+2. 作者偶然发现了SpanNetty项目，并参考了其代码。
+3. SpanNetty的性能和稳定性让作者感到惊讶，认为其比dotnetty更可靠。
+4. 作者通过直播推流观看电影测试了SpanNetty，内存占用稳定在80左右。
 ]]></summary>
     </entry>
     
