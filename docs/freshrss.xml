@@ -2,91 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 05 May 2025 06:28:09 GMT</updated>
+    <updated>Mon, 05 May 2025 08:26:37 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[XiangShan/ChiselAIA]]></title>
-        <link href="https://gitee.com/OpenXiangShan/ChiselAIA" />
-        <id>https://gitee.com/OpenXiangShan/ChiselAIA</id>
-        <updated>Mon, 05 May 2025 20:16:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：RISC-V, AIA, Chisel, 开源, 中断
-
-<br><br>总结:
-*   ChiselAIA是基于RISC-V指令集架构的实现。
-*   它专门针对RISC-V的高级中断架构(AIA)进行设计。
-*   该实现采用Chisel硬件描述语言编写。
-*   ChiselAIA项目是一个开源项目，允许开发者自由使用和修改。
-*   该项目主要关注RISC-V的中断管理功能。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陕西颜值扛把子/VideoWeb]]></title>
-        <link href="https://gitee.com/puzhiweizuishuai/VideoWeb" />
-        <id>https://gitee.com/puzhiweizuishuai/VideoWeb</id>
-        <updated>Mon, 05 May 2025 20:14:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词：TikTube, 弹幕, Spring Boot, Vue, 视频网站
-
-<br><br>总结:
-*   TikTube是一个简单的视频网站。
-*   它的界面设计参考了Youtube。
-*   后端采用Spring Boot技术。
-*   前端使用Vue和Vuetifyjs框架。
-*   它支持自动生成封面图和发送弹幕功能。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[FreeSql/FreeSql]]></title>
-        <link href="https://gitee.com/FreeSql/FreeSql" />
-        <id>https://gitee.com/FreeSql/FreeSql</id>
-        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
-        <summary type="html"><![CDATA[.NET, ORM, 数据库, 国产数据库, AOT
-
-<br><br>总结:
-1.  文章介绍了.NET平台上的ORM（对象关系映射）技术。
-2.  它涵盖了支持多种数据库的ORM，包括常见的MySQL, PostgreSQL, SQL Server, Oracle，以及SQLite, Firebird, Clickhouse, DuckDB等。
-3.  特别强调了对国产数据库的支持，例如达梦、金仓、虚谷、翰高、高斯、神通、南大通用等。
-4.  还提到了对时序数据库TDengine和QuestDB的支持。
-5.  此外，也包含对相对少见的MsAccess的支持。
-6.  还涉及了AOT（Ahead-of-Time）编译优化的ORM。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19274.html" />
-        <id>https://www.freedidi.com/19274.html</id>
-        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人工智能，医疗，数据，伦理，未来
-
-<br><br>总结:
-*   人工智能正在深刻改变医疗领域，有望提升诊断准确率、加速药物研发和优化治疗方案。
-*   大量医疗数据的获取和利用是人工智能应用的基础，但也带来了隐私泄露和数据安全风险。
-*   伦理问题是人工智能医疗应用的关键挑战，包括算法偏见、责任归属和患者自主权等。
-*   人工智能在医疗领域的未来发展潜力巨大，但需要平衡创新与伦理，确保公平和安全。
-*   规范和监管是确保人工智能在医疗领域负责任应用的重要保障。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
-        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
-        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
-        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
-        <summary type="html"><![CDATA[数据通信, 资源共享, 协同工作, 互联网, 信息技术
-
-<br><br>总结:
-要点一：计算机网络是将分布在不同地理位置的计算机系统通过通信线路连接起来的系统。
-要点二：其核心功能是实现数据通信，即不同设备间的信息传输。
-要点三：另一个关键功能是资源共享，使网络中的设备可以共享硬件、软件和数据资源。
-要点四：计算机网络还支持协同工作，让用户可以共同完成任务。
-要点五：它是现代信息技术的核心基础设施，支撑着互联网、物联网、云计算等领域的发展。
-]]></summary>
-    </entry>
     
 </feed>
