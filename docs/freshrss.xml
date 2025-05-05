@@ -2,24 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 05 May 2025 12:37:41 GMT</updated>
+    <updated>Mon, 05 May 2025 14:19:02 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[凯亚利用直播推流技术请大家看电影]]></title>
-        <link href="https://www.cnblogs.com/fanliang11/p/18858743" />
-        <id>https://www.cnblogs.com/fanliang11/p/18858743</id>
-        <updated>Sat, 03 May 2025 22:38:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: dotnetty, kayak, SpanNetty, 性能, 稳定性
+        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
+        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: C#, .NET, .NET Core, 编程, 实操
 
 <br><br>总结:
-1. 作者在劳动节期间，在家下载了dotnetty代码并添加到kayak项目中。
-2. 作者偶然发现了SpanNetty项目，并参考了其代码。
-3. SpanNetty的性能和稳定性让作者感到惊讶，认为其比dotnetty更可靠。
-4. 作者通过直播推流观看电影测试了SpanNetty，内存占用稳定在80左右。
+*   项目旨在提供C#/.NET/.NET Core编程的全面学习资源，涵盖常用语法、算法、技巧等基础知识。
+*   包含中间件、类库等进阶内容，帮助开发者提升技能。
+*   提供工作业务实操练习，结合文章教程讲解，加速技能掌握。
+*   适用于初学者和有经验的开发者，助力快速掌握C#/.NET/.NET Core各种编程知识。
+*   可作为学习、工作和面试的指南。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[XiangShan/ChiselAIA]]></title>
+        <link href="https://gitee.com/OpenXiangShan/ChiselAIA" />
+        <id>https://gitee.com/OpenXiangShan/ChiselAIA</id>
+        <updated>Mon, 05 May 2025 20:16:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：ChiselAIA，RISC-V，AIA，中断架构，开源
+
+<br><br>总结:
+1. ChiselAIA是使用Chisel硬件描述语言编写的。
+2. ChiselAIA实现了RISC-V的高级中断架构(AIA)。
+3. ChiselAIA是一个开源项目。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[陕西颜值扛把子/VideoWeb]]></title>
+        <link href="https://gitee.com/puzhiweizuishuai/VideoWeb" />
+        <id>https://gitee.com/puzhiweizuishuai/VideoWeb</id>
+        <updated>Mon, 05 May 2025 20:14:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：TikTube, 视频网站, Spring Boot, Vue, 弹幕
+
+<br><br>总结:
+* TikTube 是一个简单的视频网站。
+* 界面设计模仿 Youtube。
+* 后端采用 Spring Boot 技术构建。
+* 前端使用 Vue 和 Vuetifyjs 框架开发。
+* 支持自动生成视频封面图和发送弹幕功能。
 ]]></summary>
     </entry>
     
