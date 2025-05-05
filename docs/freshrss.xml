@@ -2,41 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 05 May 2025 01:38:24 GMT</updated>
+    <updated>Mon, 05 May 2025 03:11:59 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
-        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
-        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
-        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
-        <summary type="html"><![CDATA[关键词：方程式赛车, 后车身域控制器, AUTOSAR, S32K344, TBOX
+        <title><![CDATA[FreeSql/FreeSql]]></title>
+        <link href="https://gitee.com/FreeSql/FreeSql" />
+        <id>https://gitee.com/FreeSql/FreeSql</id>
+        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
+        <summary type="html"><![CDATA[.NET AOT ORM, VB.NET/C#, 国产数据库, 多数据库支持, 性能优化
 
 <br><br>总结:
-*  该项目是为大学方程式赛车设计的车规级后车身域控制器。
-*  它集成了低压电池监测、智能配电和TBOX等功能。
-*  主控芯片采用了车规级微控制器S32K344。
-*  嵌入式软件开发基于AUTOSAR标准和模型驱动开发（MBD）方法。
-*  项目成果包括后车身域控制器的软硬件以及配套的数传服务客户端。
+1. 介绍了一款.NET AOT ORM，同时支持VB.NET和C#语言。
+2. 该ORM框架支持多种主流数据库，包括Mysql、PostgreSQL、SqlServer、Oracle、Sqlite、Firebird、Clickhouse、DuckDB、MsAccess、TDengine 和 QuestDB。
+3. 同时支持多个国产数据库，包括达梦、金仓、虚谷、翰高、高斯、神通和南大通用。
+4. 该ORM针对.NET AOT进行了优化，旨在提高性能。
+5. 提供了广泛的数据库兼容性，满足不同应用场景需求。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
-        <link href="https://gitee.com/rock_kim/Myolotrain" />
-        <id>https://gitee.com/rock_kim/Myolotrain</id>
-        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: YOLOv8, 可视化, 模型训练, 数据集管理, 目标检测
+        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/19274.html" />
+        <id>https://www.freedidi.com/19274.html</id>
+        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 量子计算, 金融风险, 机器学习, 模型校准, 量子优势
 
 <br><br>总结:
-1. Myolotrain是一个用于管理YOLO视觉模型训练的可视化系统，提供直观的图形界面。
-2. 该平台集成了数据集管理、模型管理、训练管理和目标检测功能，方便用户进行计算机视觉任务。
-3. 支持Windows、Linux和Docker等多种部署方式。
-4. 支持YOLOv8模型的训练，可以使用CPU或GPU进行加速。
-5. 提供Tensorboard集成，可以实时查看训练进度，并具备数据集自动分割功能。
+1. 量子计算在金融领域展现出潜力，尤其是在风险管理方面。
+2. 量子机器学习算法能提升传统机器学习模型在风险预测和模型校准方面的精度。
+3. 量子计算可用于优化复杂金融模型，例如信用风险评估和投资组合优化。
+4. 目前仍面临挑战，包括量子硬件的限制和算法的开发难度。
+5. 尽管如此，早期研究表明，量子计算有望在某些金融风险管理任务中实现量子优势。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
+        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
+        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
+        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：计算机网络, 数据通信, 资源共享, 通信协议, 信息技术
+
+<br><br>总结:
+1. 计算机网络是将不同地理位置的计算机系统和设备通过通信线路连接，实现数据传输、资源共享和协同工作的系统。
+2. 计算机网络遵循共同的通信协议，保证不同设备之间的有效通信。
+3. 数据通信是其核心功能，实现设备间的信息传输。
+4. 资源共享是其重要目标，使网络中的资源能够被有效利用。
+5. 计算机网络是现代信息技术的核心基础设施，支撑着互联网、物联网和云计算等领域的发展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[SQL Server 2025 中的改进]]></title>
+        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
+        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
+        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 微软
+
+<br><br>总结:
+1. SQL Server 2025 正在接近首次公开版本，重点是探讨其新功能。
+2. 重点关注Azure SQL DB中已经存在，但尚未出现在SQL Server盒装产品版本中的功能。
+3. 微软的战略是将 Azure SQL DB 作为盒装产品未来发展方向的预览。
 ]]></summary>
     </entry>
     
