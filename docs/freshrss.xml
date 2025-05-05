@@ -2,73 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Sun, 04 May 2025 22:16:50 GMT</updated>
+    <updated>Mon, 05 May 2025 01:38:24 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[FreeSql/FreeSql]]></title>
-        <link href="https://gitee.com/FreeSql/FreeSql" />
-        <id>https://gitee.com/FreeSql/FreeSql</id>
-        <updated>Mon, 05 May 2025 06:00:20 +0800</updated>
-        <summary type="html"><![CDATA[.NET AOT ORM, 国产数据库ORM, 多数据库支持, VB.NET/C#, ORM性能
+        <title><![CDATA[Caler14/RBCM_S32K344_AUTOSAR_MBD]]></title>
+        <link href="https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd" />
+        <id>https://gitee.com/caler14/rbcm_-s32-k344_-autosar_-mbd</id>
+        <updated>Sun, 04 May 2025 22:15:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：方程式赛车, 后车身域控制器, AUTOSAR, S32K344, TBOX
 
 <br><br>总结:
-1. 该文讨论了.NET AOT环境下使用的ORM框架，以及对VB.NET/C#的支持。
-2. 重点关注了对多种主流数据库（如Mysql/PostgreSQL/SqlServer/Oracle）以及轻量级数据库（如Sqlite/Firebird/Clickhouse/DuckDB）的支持。
-3. 尤其强调了对国产数据库ORM的支持，包括达梦、金仓、虚谷、翰高、高斯、神通、南大通用等，体现了对国产化的关注。
-4. 还提及了对时序数据库（如TDengine和QuestDB）和传统数据库（如MsAccess）的支持。
-5. 隐含了对ORM框架性能和广泛适用性的考量，使其能在各种.NET应用场景中使用。
+*  该项目是为大学方程式赛车设计的车规级后车身域控制器。
+*  它集成了低压电池监测、智能配电和TBOX等功能。
+*  主控芯片采用了车规级微控制器S32K344。
+*  嵌入式软件开发基于AUTOSAR标准和模型驱动开发（MBD）方法。
+*  项目成果包括后车身域控制器的软硬件以及配套的数传服务客户端。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[只需一招！网盘提速15倍，让夸克网盘、百度、迅雷下载不再限速，永久免费！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/19274.html" />
-        <id>https://www.freedidi.com/19274.html</id>
-        <updated>Sun, 04 May 2025 20:52:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大型语言模型, 微调, 隐私, 对抗攻击, 数据安全
+        <title><![CDATA[Rock_Kim/Myolotrain]]></title>
+        <link href="https://gitee.com/rock_kim/Myolotrain" />
+        <id>https://gitee.com/rock_kim/Myolotrain</id>
+        <updated>Sun, 04 May 2025 22:06:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: YOLOv8, 可视化, 模型训练, 数据集管理, 目标检测
 
 <br><br>总结:
-1.  大型语言模型(LLM)在各种应用中越来越受欢迎，但也面临隐私和安全风险。
-2.  微调LLM虽然能提升性能，但容易受到对抗攻击，导致模型泄露敏感数据。
-3.  研究表明，即使是看似无害的查询，也可能通过精心设计的提示词提取出训练数据中的隐私信息。
-4.  对抗攻击利用模型漏洞，绕过现有的安全机制，对LLM造成严重威胁。
-5.  需要开发更有效的防御策略，以保护LLM的隐私和数据安全，防止信息泄露。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C#网络编程(一)----应用层/传输层]]></title>
-        <link href="https://www.cnblogs.com/lmy5215006/p/18838393" />
-        <id>https://www.cnblogs.com/lmy5215006/p/18838393</id>
-        <updated>Mon, 28 Apr 2025 14:02:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：计算机网络，数据通信，资源共享，互联网，基础设施
-
-<br><br>总结:
-*   计算机网络是将不同地理位置的计算机系统通过通信线路连接起来的系统。
-*   其核心目标是实现数据通信，使得不同设备之间能够传输信息。
-*   同时，它还旨在实现资源共享，让网络中的各个设备能够共同使用资源。
-*   计算机网络是现代信息技术的核心基础设施，是互联网、物联网、云计算等领域的基础。
-*   它对于现代社会的信息传输和协作至关重要。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[SQL Server 2025 中的改进]]></title>
-        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
-        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
-        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: SQL Server 2025, Azure SQL DB, 功能, 盒装产品, 微软
-
-<br><br>总结:
-* SQL Server 2025 即将首次公开版本，重点关注其在盒装产品中的改进。
-* 微软正在探索将 Azure SQL DB 的功能引入 SQL Server 2025。
-* 这些功能包括已公布和未公布的，目前尚未在盒装产品版本中提供。
-* 微软过去常常认为 Azure SQL DB 是盒装产品的未来发展方向。
-* SQL Server 2025 的一个关键方向是将 Azure SQL DB 的优势带入传统部署模式。
+1. Myolotrain是一个用于管理YOLO视觉模型训练的可视化系统，提供直观的图形界面。
+2. 该平台集成了数据集管理、模型管理、训练管理和目标检测功能，方便用户进行计算机视觉任务。
+3. 支持Windows、Linux和Docker等多种部署方式。
+4. 支持YOLOv8模型的训练，可以使用CPU或GPU进行加速。
+5. 提供Tensorboard集成，可以实时查看训练进度，并具备数据集自动分割功能。
 ]]></summary>
     </entry>
     
