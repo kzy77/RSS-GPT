@@ -2,55 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Mon, 05 May 2025 14:19:02 GMT</updated>
+    <updated>Mon, 05 May 2025 16:24:29 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
-        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: C#, .NET, .NET Core, 编程, 实操
+        <title><![CDATA[常春涛/FAST]]></title>
+        <link href="https://gitee.com/changchuntao/FAST" />
+        <id>https://gitee.com/changchuntao/FAST</id>
+        <updated>Tue, 06 May 2025 06:29:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: GNSS, 数据下载, FAST, 多源数据, 并行下载
 
 <br><br>总结:
-*   项目旨在提供C#/.NET/.NET Core编程的全面学习资源，涵盖常用语法、算法、技巧等基础知识。
-*   包含中间件、类库等进阶内容，帮助开发者提升技能。
-*   提供工作业务实操练习，结合文章教程讲解，加速技能掌握。
-*   适用于初学者和有经验的开发者，助力快速掌握C#/.NET/.NET Core各种编程知识。
-*   可作为学习、工作和面试的指南。
+1.  FAST 软件针对 GNSS 数据下载的繁琐和速度慢的问题而开发。
+2.  该软件融合了 GNSS 科研学习所需的大部分数据源。
+3.  FAST 采用并行下载方式，显著提高了数据下载的效率。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[XiangShan/ChiselAIA]]></title>
-        <link href="https://gitee.com/OpenXiangShan/ChiselAIA" />
-        <id>https://gitee.com/OpenXiangShan/ChiselAIA</id>
-        <updated>Mon, 05 May 2025 20:16:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：ChiselAIA，RISC-V，AIA，中断架构，开源
+        <title><![CDATA[凯亚利用直播推流技术请大家看电影]]></title>
+        <link href="https://www.cnblogs.com/fanliang11/p/18858743" />
+        <id>https://www.cnblogs.com/fanliang11/p/18858743</id>
+        <updated>Sat, 03 May 2025 22:38:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Dotnetty, Kayak, SpanNetty, 性能, 稳定性
 
 <br><br>总结:
-1. ChiselAIA是使用Chisel硬件描述语言编写的。
-2. ChiselAIA实现了RISC-V的高级中断架构(AIA)。
-3. ChiselAIA是一个开源项目。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陕西颜值扛把子/VideoWeb]]></title>
-        <link href="https://gitee.com/puzhiweizuishuai/VideoWeb" />
-        <id>https://gitee.com/puzhiweizuishuai/VideoWeb</id>
-        <updated>Mon, 05 May 2025 20:14:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词：TikTube, 视频网站, Spring Boot, Vue, 弹幕
-
-<br><br>总结:
-* TikTube 是一个简单的视频网站。
-* 界面设计模仿 Youtube。
-* 后端采用 Spring Boot 技术构建。
-* 前端使用 Vue 和 Vuetifyjs 框架开发。
-* 支持自动生成视频封面图和发送弹幕功能。
+1. 作者劳动节在家研究Dotnetty，并将其代码添加到Kayak项目。
+2. 在此过程中，作者参考了SpanNetty项目（https://github.com/cuteant/SpanNetty）。
+3. 作者发现SpanNetty的性能和稳定性比Dotnetty更好，令人惊讶。
+4. 作者通过直播推流观看电影测试，发现SpanNetty的内存占用非常稳定（80）。
 ]]></summary>
     </entry>
     
