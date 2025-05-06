@@ -2,70 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Tue, 06 May 2025 03:07:39 GMT</updated>
+    <updated>Tue, 06 May 2025 04:22:10 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[服务器时间漂移，如何开启Linux NTP自动同步]]></title>
-        <link href="https://www.cnblogs.com/deali/p/18849639" />
-        <id>https://www.cnblogs.com/deali/p/18849639</id>
-        <updated>Sun, 27 Apr 2025 15:36:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 服务器时间漂移, 排查, 解决, NTP, 时间同步
+        <title><![CDATA[领域驱动的事实与谬误 一 DDD 与 MVC]]></title>
+        <link href="https://www.cnblogs.com/mrye/p/18856880" />
+        <id>https://www.cnblogs.com/mrye/p/18856880</id>
+        <updated>Thu, 01 May 2025 20:28:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：MVC, 谬误, 软文, 理解, 初衷
 
 <br><br>总结:
-1.  发现问题：开发访问分析功能时，偶然发现服务器时间出现漂移。
-2.  排查过程：详细调查导致时间漂移的原因，可能涉及硬件时钟问题、软件配置错误等。
-3.  解决方案：通过配置和优化 NTP 服务，确保服务器与标准时间源同步。
-4.  NTP 作用： NTP协议是一种用于互联网中同步时钟的协议，确保服务器时间的准确性。
-5.  最终目标：恢复并维持服务器时间的准确性，保证系统正常运行。
+1.  本文旨在帮助新手避开关于MVC的智商税软文，节省学习时间。
+2.  强调理解一项观点的提出年代和最初初衷的重要性，以便更好掌握其精髓。
+3.  指出市场上一些关于MVC的误导性软文，这些软文并非源于原著，而是网络水军造成的。
+4.  阐述了理解MVC需要追溯其最初设计理念，从而避免被错误的认知所影响。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
-        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：C#，.NET，.NET Core，编程，教程
+        <title><![CDATA[常春涛/FAST]]></title>
+        <link href="https://gitee.com/changchuntao/FAST" />
+        <id>https://gitee.com/changchuntao/FAST</id>
+        <updated>Tue, 06 May 2025 06:29:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: GNSS, 数据下载, FAST, 多源数据, 并行下载
 
 <br><br>总结:
-*   该项目是一个C#/.NET/.NET Core编程学习资源集合。
-*   它包含常用语法、算法、技巧、中间件和类库等内容。
-*   提供了工作业务实操练习，并配有详细教程。
-*   旨在帮助用户快速掌握C#/.NET/.NET Core的各种编程技能。
-*   可作为全面的学习、工作和面试指南。
+1. FAST软件针对GNSS数据下载的繁琐和低效问题而开发。
+2. 该软件集成了科研学习所需的大部分GNSS数据源。
+3. FAST采用并行下载技术，显著提升了数据下载的效率。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[XiangShan/ChiselAIA]]></title>
-        <link href="https://gitee.com/OpenXiangShan/ChiselAIA" />
-        <id>https://gitee.com/OpenXiangShan/ChiselAIA</id>
-        <updated>Mon, 05 May 2025 20:16:22 +0800</updated>
-        <summary type="html"><![CDATA[RISC-V, 中断架构, AIA, 开源, Chisel
+        <title><![CDATA[凯亚利用直播推流技术请大家看电影]]></title>
+        <link href="https://www.cnblogs.com/fanliang11/p/18858743" />
+        <id>https://www.cnblogs.com/fanliang11/p/18858743</id>
+        <updated>Sat, 03 May 2025 22:38:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: dotnetty, kayak, SpanNetty, 性能, 稳定性
 
 <br><br>总结:
-1. ChiselAIA 是一个RISC-V的高级中断架构(AIA)实现。
-2. 该实现是开源的，意味着任何人都可以查看、使用和修改它。
-3. ChiselAIA 使用 Chisel 硬件描述语言编写。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陕西颜值扛把子/VideoWeb]]></title>
-        <link href="https://gitee.com/puzhiweizuishuai/VideoWeb" />
-        <id>https://gitee.com/puzhiweizuishuai/VideoWeb</id>
-        <updated>Mon, 05 May 2025 20:14:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词：TikTube, 视频网站, 弹幕, Spring Boot, Vue
-
-<br><br>总结:
-1. TikTube是一个简易视频网站，界面设计模仿YouTube。
-2. 后端采用Spring Boot框架构建，前端使用Vue和Vuetifyjs。
-3. 网站支持发送弹幕功能，增强用户互动。
-4. 具备自动生成视频封面图的功能。
+1. 作者在劳动节期间将dotnetty代码添加到kayak项目中。
+2. 作者偶然发现了SpanNetty项目，并参考了其代码。
+3. SpanNetty的性能和稳定性让作者感到惊讶，认为其比dotnetty更可靠。
+4. 作者通过直播推流观看电影，证实了SpanNetty的内存占用稳定在80。
 ]]></summary>
     </entry>
     
