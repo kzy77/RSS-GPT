@@ -2,290 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-05-06T18:27:57Z</updated>
+    <updated>2025-05-06T20:21:55Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Rybbit：开源、轻量、高颜值网站流量统计工具搭建教程]]></title>
-        <link href="https://uuzi.net/rybbit-setup-guide/" />
-        <id>https://uuzi.net/rybbit-setup-guide/</id>
-        <updated>Tue, 06 May 2025 20:57:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Umami, Rybbit, 可视化, 隐私, 自部署
+        <title><![CDATA[Liu Jie/RPALite]]></title>
+        <link href="https://gitee.com/jieliu2000/rpalite" />
+        <id>https://gitee.com/jieliu2000/rpalite</id>
+        <updated>Wed, 07 May 2025 06:13:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词：RPA，开源，自动化，机器人，流程
 
 <br><br>总结:
-*  作者一直是 Umami 的用户，但 Rybbit 的出现吸引了他的注意。
-*  Rybbit 最吸引他的地方是其直观的界面和炫酷的可视化效果。
-*  Rybbit 提供了全面的预构建分析仪表盘，方便用户进行数据分析。
-*  Rybbit 强调隐私友好，不使用 Cookie。
-*  Rybbit 支持自部署，方便用户掌控数据，值得尝试。
+要点1：文章介绍了一个开源的RPA库。
+要点2：该库旨在实现流程自动化。
+要点3：它利用机器人来执行重复性任务。
+要点4：该库是开源的，意味着可以自由使用和修改。
+要点5：文章的核心在于介绍并推广这一开源RPA工具。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[yangjiong/esflow-ui]]></title>
-        <link href="https://gitee.com/yang-jiong/esflow-ui" />
-        <id>https://gitee.com/yang-jiong/esflow-ui</id>
-        <updated>Tue, 06 May 2025 20:07:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 工作流, 开源, 轻量, JSON, 中国式流程
+        <title><![CDATA[Ascend/Mind-KernelInfra]]></title>
+        <link href="https://gitee.com/ascend/Mind-KernelInfra" />
+        <id>https://gitee.com/ascend/Mind-KernelInfra</id>
+        <updated>Wed, 07 May 2025 01:54:16 +0800</updated>
+        <summary type="html"><![CDATA[算子公共平台，算子库，加速库，南向对接，北向支撑
 
 <br><br>总结:
-1. esflow是一款国产开源工作流平台，定位轻量且快速。
-2. 可作为工作流引擎和在线办公系统的基础平台。
-3. 支持中国式流程办理方式，例如退回、跳转、加签等。
-4. 使用JSON存储流程设计数据，数据库结构简单，仅8张表。
-5. 通过拖拽方式设计工作流，无需编写代码。
+1.  文章介绍了算子公共平台的概念。
+2.  该平台的主要功能是南向对接不同组织开发的算子库，汇集各类算子。
+3.  同时，该平台北向支撑不同的加速库应用，为加速库提供算子支持。
+4.  最终实现M x N的算子能力复用，提高效率，降低重复开发。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[dupeGuru – 电脑重复文件查找工具，支持跨平台使用！]]></title>
-        <link href="https://www.freedidi.com/19328.html" />
-        <id>https://www.freedidi.com/19328.html</id>
-        <updated>Tue, 06 May 2025 12:44:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: dupeGuru, 重复文件, 模糊匹配, 音乐模式, 图片模式
+        <title><![CDATA[Ascend/openmind]]></title>
+        <link href="https://gitee.com/ascend/openmind" />
+        <id>https://gitee.com/ascend/openmind</id>
+        <updated>Wed, 07 May 2025 00:02:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词：openMind, 大模型, 微调, 昇腾NPU, 部署
 
 <br><br>总结:
-1. dupeGuru 是一款跨平台的重复文件查找工具，支持 Linux、macOS 和 Windows，并且支持中文界面。
-2. 它可以通过文件名（模糊匹配）或文件内容扫描重复文件。
-3. 针对音乐文件，提供“音乐模式”扫描ID3标签，显示详细音乐信息。
-4. 针对图片文件，提供“图片模式”模糊识别相似图片。
-5. 它具有自定义匹配引擎、安全的文件处理机制（参考目录、分组），并且支持多种处理方式（删除、移动、复制）。
+openMind是一个大模型微调套件。
+它支持在昇腾NPU上进行大模型的微调。
+它也支持大模型的推理、评估和部署。
+用户可以通过命令行接口或SDK来使用它。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Caesium – 图片批量压缩软件！[Win/macOS/Linux/网页版]]]></title>
-        <link href="https://www.freedidi.com/19323.html" />
-        <id>https://www.freedidi.com/19323.html</id>
-        <updated>Tue, 06 May 2025 12:36:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Caesium Image Compressor, 图像压缩, JPG, PNG, WebP
+        <title><![CDATA[rnchg/Apt]]></title>
+        <link href="https://gitee.com/rnchg/apt" />
+        <id>https://gitee.com/rnchg/apt</id>
+        <updated>Tue, 06 May 2025 23:51:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI生产力工具, 免费开源, 隐私安全, 批量处理, 本地专属
 
 <br><br>总结:
-要点1：Caesium Image Compressor 是一款批量图像压缩工具，支持 JPG、PNG 和 WebP 格式。
-要点2：它可以在保持图像质量的前提下，快速减小文件大小，并可选择降低分辨率。
-要点3：软件使用简单，拖拽图片即可压缩。
-要点4：支持 Windows（10+，旧版本支持 Win7/8）、MacOS（10.15+）和 Linux (Ubuntu 22.04, Manjaro) 64位操作系统。
-要点5：压缩效果显著，能在几乎不牺牲画质的情况下大幅度减少文件大小。
+
+1.  该AI生产力工具是免费且开源的。
+2.  该工具致力于提升用户生产力，提供高效便捷的AI解决方案。
+3.  该工具保障用户隐私和数据安全。
+4.  该工具内置本地专属的ChatGPT、Phi、DeepSeek等模型。
+5.  该工具可以一键批量智能处理图片、视频、音频等多种类型的文件。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Auto Mouse Clicker 鼠标自动点击器]]></title>
-        <link href="https://www.freedidi.com/19318.html" />
-        <id>https://www.freedidi.com/19318.html</id>
-        <updated>Tue, 06 May 2025 12:16:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：自动点击, 鼠标, 自动化, 宏, 游戏
+        <title><![CDATA[LibDriver/W25QXX]]></title>
+        <link href="https://gitee.com/libdriver/w25qxx" />
+        <id>https://gitee.com/libdriver/w25qxx</id>
+        <updated>Tue, 06 May 2025 22:00:59 +0800</updated>
+        <summary type="html"><![CDATA[W25QXX, 驱动, MCU, Linux, 通用
 
 <br><br>总结:
-1. Vovsoft Auto Mouse Clicker是一款桌面软件，用于自动执行鼠标点击，支持左键、右键和中键。
-2. 它可以自动化重复性任务，例如游戏中的点击和网页浏览，提高效率并节省时间。
-3. 该软件提供基于时间的录制和基于事件的录制两种模式，可灵活控制点击间隔。
-4. 支持热键功能，可以将录制的宏保存为CSV文件，方便编辑和重复使用。
-5. 软件支持拖放、文件保存和加载，以及命令行参数运行，兼容Windows系统。
+1. 该驱动适用于W25QXX系列SPI Flash芯片，包括W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02等型号。
+2. 这是一个全功能驱动，意味着它支持W25QXX芯片的各种功能。
+3. 该驱动具有通用性，既可以用于通用MCU，也可以用于Linux系统。
+4. 该驱动旨在简化W25QXX系列Flash芯片在MCU和Linux系统上的应用开发。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】修图神器: 去水印,除瑕疵,修复照片]]></title>
-        <link href="https://www.freedidi.com/19311.html" />
-        <id>https://www.freedidi.com/19311.html</id>
-        <updated>Mon, 05 May 2025 23:20:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：图像修复, Super Eraser, 对象删除, 照片美化, 自动修复
+        <title><![CDATA[吐槽：绿云 VPS 掉线频繁，官方称正在处理，等待数天仍未解决]]></title>
+        <link href="https://uuzi.net/greencloud-vps-frequent-drop/" />
+        <id>https://uuzi.net/greencloud-vps-frequent-drop/</id>
+        <updated>Tue, 06 May 2025 15:05:42 +0800</updated>
+        <summary type="html"><![CDATA[绿云, 日本VPS, IIJ线路, 黑五, 掉线
 
 <br><br>总结:
-* Super Eraser是一款图像修复软件，能快速删除照片中不需要的对象。
-* 它使用最新的图像处理技术，提供比专业软件更自然的效果。
-* 功能包括删除标志、文字、水印、瑕疵和多余人物，并自动修复图像。
-* 用户可以通过涂抹方式选择保留区域，避免图像出现镜像。
-* 该软件能擦除、改善、修复和美化照片，快速获得完美效果。
+*   作者去年黑五在绿云购买了一台日本 VPS，该VPS 线路为三网 IIJ。
+*   购买前，用户对该VPS评价很好，认为它在流媒体解锁方面有不错的表现。
+*   初期使用体验良好，除了晚高峰延迟略高和网络不稳定外，没有其他问题。
+*   从4月30日开始，该VPS开始频繁掉线。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Vovsoft Sitemap Generator –  网站地图生成器！ （原价 $19 刀）]]></title>
-        <link href="https://www.freedidi.com/19307.html" />
-        <id>https://www.freedidi.com/19307.html</id>
-        <updated>Mon, 05 May 2025 23:14:05 +0800</updated>
-        <summary type="html"><![CDATA[站点地图, 网站爬虫, XML, Google, 扫描
+        <title><![CDATA[解决 AI 回答复制粘贴时格式和样式错乱的问题（Mac 版）]]></title>
+        <link href="https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/" />
+        <id>https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/</id>
+        <updated>Tue, 06 May 2025 13:29:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词: ChatGPT, 格式, 复制粘贴, Word, 乱码
 
 <br><br>总结:
-1. Vovsoft Sitemap Generator是一款轻量级网站爬虫，用于快速创建站点地图。
-2. 该软件界面简洁易用，无需复杂配置，可忽略特定文件扩展名和URL以优化扫描。
-3. 扫描结果可导出为XML、CSV、TXT、HTML格式，XML可提交给搜索引擎。
-4. XML站点地图可用于Google等搜索引擎，需通过Google Search Console提交并保持更新。
-5. 应避免在站点地图中包含不希望被搜索引擎抓取的网址，限免截止时间为2025年5月11日。
+* 问题：使用 ChatGPT 等 AI 工具复制回答到 Word 等编辑器时，经常出现格式错乱甚至乱码。
+* 作者困扰：作者本人也一直受到此问题困扰，手动调整格式非常麻烦，尤其是在需要整理信息时。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[[限免] RealRadio – iOS 收音机应用，畅享电台直播]]></title>
-        <link href="https://www.freedidi.com/19302.html" />
-        <id>https://www.freedidi.com/19302.html</id>
-        <updated>Mon, 05 May 2025 23:01:59 +0800</updated>
-        <summary type="html"><![CDATA[拟物化收音机, 复古, 电台, Apple Watch, CarPlay
+        <title><![CDATA[PC端自动化测试实战教程-4-pywinauto 操作PC端应用程序窗口 - 上篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18661825" />
+        <id>https://www.cnblogs.com/du-hong/p/18661825</id>
+        <updated>Tue, 06 May 2025 10:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：窗口操作, PC端应用, 自动化, 工具栏, 应用程序
 
 <br><br>总结:
-1. RealRadio是一款复古风格的收音机应用，采用拟物化设计。
-2. 它支持小组件、Apple Watch 和 CarPlay。
-3. 用户可以免费获取终身会员。
-4. 应用提供默认电台地址，方便用户首次添加电台。
-5. 用户可以自定义电台，包括电台名、logo、描述和电台地址。
+
+1. **简介：**本文介绍了在PC端应用程序启动和连接后，如何进行进一步操作，重点在于讲解如何操作应用程序的窗口。
+2. **窗口定义：**窗口指应用软件上的工具栏和操作界面，是进行用户交互的重要组成部分。
+3. **操作方法（原文未详细说明，此处略）。**
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[FieldCam – 支持 GPS 坐标的专业拍照工具 [限时免费]]]></title>
-        <link href="https://www.freedidi.com/19298.html" />
-        <id>https://www.freedidi.com/19298.html</id>
-        <updated>Mon, 05 May 2025 22:57:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词：FieldCam, GPS, 地理位置, 专业人士, 拍照工具
+        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
+        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
+        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
+        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: TCP/IP, 路由, 技术, 问题, 解决方案
 
 <br><br>总结:
-1. FieldCam是一款专为专业人士和冒险家设计的拍照工具。
-2. 它可以精准记录照片的地理位置信息，如GPS坐标等。
-3. 该应用适用于工程师、测量员和户外运动爱好者等。
-4. 启用“Use Custom GPS Location”选项需要购买完整版。
-5. 目前完整版可以免费购买。
+1.  笔者长期遇到一个问题，并且已经有解决方案。
+2.  最初没有深入思考过该问题。
+3.  阅读《tcpip路由技术》卷二时，突然有所启发。
+4.  书中阐述与该问题产生关联，使其理解更透彻。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[[限免] Blur Video – iOS AI 人脸动态打码神器（原价￥38）]]></title>
-        <link href="https://www.freedidi.com/19292.html" />
-        <id>https://www.freedidi.com/19292.html</id>
-        <updated>Mon, 05 May 2025 22:53:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 模糊视频, 隐私保护, 敏感信息, 艺术效果, 创新功能
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-05T03:54:12.123-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费、VPS、注册、登录
+注册谷歌云账号并验证，添加付款资料和方式，选择免费配置创建VM实例，开放防火墙设置，SSH登录方式，科学上网注意事项，搭建Hysteria 2节点，使用Youtuber提供的详细步骤。总结: 通过注册验证谷歌云账号并选择免费配置创建VPS，设置开放防火墙和SSH登录方式，注意科学上网需使用Hysteria 2节点，并使用Youtuber提供的指南搭建，避免CDN加速费用。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-04-28T20:07:11.529-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, Github注册时间, 免费容器, 应用商店, 两款应用  
 
-<br><br>总结:
-1. Blur Video提供模糊功能，用于保护个人隐私和创造艺术效果。
-2. 可以有效隐藏视频中的敏感信息，如信用卡号码和地址。
-3. 模糊效果与视频内容自然融合，不影响整体视觉效果。
-4. 提供了简单而强大的解决方案，使模糊效果自然无缝。
-5. 限免活动已结束，稍后提供替代方案。
-]]></summary>
+Claw Cloud Run是一款免费容器，用户Github注册时间大于180天即可每月获得5美元赠金，实现长期免费使用。可以搭建各种Docker应用，应用商店支持一键自动部署或手动部署。要查看Github注册时间，可以访问https://api.github.com/users/XXX（将XXX替换为Github用户名），倒数第二行"created at"后面的日期即是注册时间。推荐部署的两款应用分别是Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容请观看Youtube视频。  
+<br><br>总结: Claw Cloud Run是一个免费容器平台，用户可以获得赠金，搭建Docker应用，并通过Github注册时间确认资格。用户可以在应用商店部署应用，推荐使用的应用有Memos和AList。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Coolmuster iPhone Data Recovery：专业 iPhone 数据恢复工具 [1年授权 | 限免 $49.95→0]]]></title>
-        <link href="https://www.freedidi.com/19287.html" />
-        <id>https://www.freedidi.com/19287.html</id>
-        <updated>Mon, 05 May 2025 22:46:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：iPhone 数据恢复, iOS, Coolmuster, 数据丢失, 免费
-
-<br><br>总结:
-1. Coolmuster iPhone Data Recovery 是一款 iOS 数据恢复工具，旨在帮助用户找回丢失的数据。
-2. 适用于误删、系统故障、升级失败等多种情况导致的数据丢失。
-3. 操作简单，只需 3 步即可从设备或 iTunes 备份中恢复数据。
-4. 支持恢复短信、联系人、照片、视频等多种类型的数据。
-5. 存在限时免费活动，截止时间为 2025年5月11日24时。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg, 免费域名, 挂了, 已注册的域名, Cloudflare, 托管, dpdns.org, FreeDNS, 注册新域名
-
-总结:
-us.kg免费域名可能已经挂了，已注册的域名仍在有效。新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。有关dpdns.org域名是否可以托管到Cloudflare需要进一步了解。现在似乎仍可以注册新的us.kg域名，但需要注意与已注册的域名的区别。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、Cloudflare、Windterm、免费域名、教程<br>
-总结:<br>
-本文介绍了使用Serv00搭建科学上网节点，并通过Cloudflare实现固定隧道和CDN回源的方法。同时还介绍了如何使用Windterm进行网页保活和通过Cloudflare远程保活来维持节点的稳定性。具体包括Serv00的注册登录、节点搭建、Cloudflare隧道设置、CDN回源配置以及网页保活和远程保活的方法。通过本文提供的教程和视频指导，用户可以轻松搭建自己的科学上网节点并保持稳定性。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名注册、KYC验证、Cloudflare、教程
-US.KG的域名目前处于受限状态，想注册的用户可以先到 https://dash.domain.digitalplat.org/ 进行注册和KYC验证。注册步骤包括注册账号、验证邮箱、进行KYC验证、注册域名并托管到Cloudflare。域名注册完毕后，还可以免费续订域名。域名注册地址为US.KG，托管域名到Cloudflare能够更好的管理和保护域名。具体注册步骤和操作方式可以查看Youtube视频。总的来说，注册US.KG域名需要进行KYC验证，然后将域名托管到Cloudflare，同时注意免费域名的优缺点。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek、网页端、APP、API、本地部署<br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址 美国地址生成器 Github Cloudflare Cloudflare Pages<br>
 <br>
-Deepseek是一个提供搜索服务的平台，用户可以通过官方网站、手机客户端、API等方式使用。用户还可以通过第三方应用和本地部署来访问Deepseek。API注册时赠送10元体验金，有效期一个月，可用于沉浸式翻译、Chatbox等软件。本地部署需要下载并安装Ollama，然后运行指令进行使用。视频中还提到了硬件参考和模型选择的相关内容。总的来说，Deepseek提供了多种使用方式，用户可以根据需要灵活选择。 <br><br>总结: Deepseek提供多种使用方式，包括网页端、APP、API和本地部署，用户可享受优质的搜索服务。]]></summary>
+DigitalPlat提供了注册地址和美国地址生成器，并在Github上建立了仓库，推广Cloudflare和Cloudflare Pages，并解决了自定义域和SSL证书的问题。用户可获得免费域名额度，新用户1个（Github加Star后增加至2个），老用户3个（Github加Star后增加至4个）。us.kg域名收费，续期永久免费，需要每年进行续期。详细教程可查看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、节点搭建、Cloudflare、SSH、保活<br>
-总结: 本视频介绍了Serv00搭建节点的方法选择，注册及登录流程，搭建代理节点，如何使用Cloudflare Argo固定隧道，进程保活及GitHub保号方法。同时提供了Serv00主机注册地址和项目地址以及检测Serv00 IP是否被墙的网页链接。对于SSH登录IP被封的情况，提供了两种解决方法，即使用未被封的域名进行登录或设置系统代理进行登录。最后，详细介绍了Cloudflare Argo固定隧道的设置步骤，需要有域名且托管到Cloudflare上。详细内容可观看视频。]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
+<br>
+本视频主要评价了HostUNO的稳定性、速度以及对ChatGPT智商降低的检测情况。在总体体验方面，官方态度积极，但价格比较昂贵。购买过程简单，但修改登录密码和搭建代理节点需要一定的操作。节点测速表现良好，但存在ChatGPT降智问题，需谨慎选择。续费流程简单。总体来说，HostUNO在稳定性和速度上表现良好，但价格较高，购买需谨慎考虑。<hr>总结:HostUNO在稳定性和速度方面表现良好，但价格偏高，购买前需注意ChatGPT降智问题。值得购买需谨慎选择。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码newuser<br>
+<br>
+US.KG注册不了，可以考虑使用免费域名注册并托管到Cloudflare，享受一年免费服务。具体步骤为：首先使用身份信息生成器辅助填写注册账号，然后在注册域名时输入优惠码(newuser)来获得一年免费服务。接着登录Cloudflare，添加域名并将分配的两个名称服务器填入域名管理界面，完成域名托管。详细操作可参考YouTube视频教程，包括注册账号、注册域名、托管域名等步骤。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
