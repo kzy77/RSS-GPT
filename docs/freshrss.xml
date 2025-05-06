@@ -2,185 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Tue, 06 May 2025 10:20:03 GMT</updated>
+    <updated>Tue, 06 May 2025 12:39:32 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[yangjiong/esflow-ui]]></title>
-        <link href="https://gitee.com/yang-jiong/esflow-ui" />
-        <id>https://gitee.com/yang-jiong/esflow-ui</id>
-        <updated>Tue, 06 May 2025 20:07:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 工作流, 开源, 轻量, 流程设计, 中国式流程
+        <title><![CDATA[Ascend/Mind-KernelInfra]]></title>
+        <link href="https://gitee.com/ascend/Mind-KernelInfra" />
+        <id>https://gitee.com/ascend/Mind-KernelInfra</id>
+        <updated>Wed, 07 May 2025 01:54:16 +0800</updated>
+        <summary type="html"><![CDATA[算子公共平台, 算子库, 加速库, 南向对接, 北向支撑
 
 <br><br>总结:
-1. esflow是一款国产开源工作流平台，轻量且快速。
-2. 它可用作工作流引擎或在线办公系统的基础平台。
-3. 支持中国式流程办理方式，例如退回、跳转、驳回、加签等。
-4. 采用JSON存储流程设计数据，数据库结构简单，仅有8张表。
-5. 通过拖拽式设计，无需编写代码即可搭建企业级业务流程平台。
+1.  算子公共平台旨在实现算子能力的复用。
+2.  该平台南向对接不同组织开发的算子库，汇集多种算子资源。
+3.  该平台北向支撑不同的加速库应用，为上层应用提供统一的算子接口。
+4.  通过南向对接和北向支撑，平台实现了M x N的算子能力复用，提高开发效率。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[dupeGuru – 电脑重复文件查找工具，支持跨平台使用！]]></title>
-        <link href="https://www.freedidi.com/19328.html" />
-        <id>https://www.freedidi.com/19328.html</id>
-        <updated>Tue, 06 May 2025 12:44:19 +0800</updated>
-        <summary type="html"><![CDATA[重复文件, 跨平台, 模糊匹配, 音乐/图片模式, 自定义
+        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
+        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
+        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
+        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：TCP/IP, 路由, 路由技术, 解决方案, 问题
 
 <br><br>总结:
-dupeGuru是一款跨平台的重复文件查找工具，支持Linux、macOS和Windows系统。
-它支持通过文件名(模糊匹配)或文件内容扫描重复文件。
-它有专门的音乐和图片模式，可以扫描音频文件的ID3标签或模糊识别图片内容。
-dupeGuru支持中文界面，并且可以自定义匹配引擎。
-它拥有安全机制，可以通过参考目录系统和分组系统来防止误删文件，并提供多种处理重复文件的方式，如删除、移动、复制等。
+该文章探讨了作者长期遇到的一个TCP/IP相关问题，虽然过去一直有解决方案，但作者并未深入思考。通过阅读《tcpip路由技术》卷二，作者突然受到启发，将书中的内容与该问题联系起来，领悟了问题的关键。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Caesium – 图片批量压缩软件！[Win/macOS/Linux/网页版]]]></title>
-        <link href="https://www.freedidi.com/19323.html" />
-        <id>https://www.freedidi.com/19323.html</id>
-        <updated>Tue, 06 May 2025 12:36:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Caesium Image Compressor, 图像压缩, JPG, PNG, WebP
+        <title><![CDATA[Ascend/openmind]]></title>
+        <link href="https://gitee.com/ascend/openmind" />
+        <id>https://gitee.com/ascend/openmind</id>
+        <updated>Wed, 07 May 2025 00:02:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词：openMind, 大模型, 微调, 昇腾NPU, 部署
 
 <br><br>总结:
-1. Caesium Image Compressor 是一款图像批量压缩工具，支持 JPG、PNG 和 WebP 格式。
-2. 它可以在保持图像整体质量的情况下减小文件大小，并且可以减小分辨率。
-3. 使用方法简单，只需拖入图片并点击压缩。
-4. 支持 Windows、MacOS 和 Linux (Ubuntu 22.04 和 Manjaro) 平台，仅支持 64 位版本。
-5. 压缩效果显著，可以在不牺牲画质的情况下大幅节省存储空间。
+1. openMind是一个大模型微调套件。
+2. 它原生支持在昇腾NPU上运行。
+3. 支持的功能包括微调、推理、评估和部署。
+4. 用户可以通过命令行接口或SDK使用该套件。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Auto Mouse Clicker 鼠标自动点击器]]></title>
-        <link href="https://www.freedidi.com/19318.html" />
-        <id>https://www.freedidi.com/19318.html</id>
-        <updated>Tue, 06 May 2025 12:16:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 自动点击, 鼠标, 宏, 自动化, 游戏
+        <title><![CDATA[rnchg/Apt]]></title>
+        <link href="https://gitee.com/rnchg/apt" />
+        <id>https://gitee.com/rnchg/apt</id>
+        <updated>Tue, 06 May 2025 23:51:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI生产力工具，免费开源，隐私安全，本地专属，批量处理
 
 <br><br>总结:
-- Vovsoft Auto Mouse Clicker 是一款桌面软件，用于自动执行鼠标点击操作，包括左键、右键和中键。
-- 该软件适用于游戏玩家和需要重复执行任务的用户，可以自动化工作流程，提高效率，避免手动操作的繁琐。
-- 它支持基于时间和基于事件的录制模式，可以根据需求设置点击次数或创建无限循环。
-- 用户可以通过热键控制程序的启动和停止，录制的宏可以保存为 CSV 文件，支持文件拖放和命令行参数运行。
-- 该软件适用于 Windows 操作系统，提供自动鼠标移动和点击功能，适用于游戏和各种计算机任务。
+1. 该AI生产力工具是免费开源的，降低了使用门槛。
+2. 它致力于提升用户生产力，提供高效便捷的AI解决方案。
+3. 工具强调用户隐私和数据安全，保障用户数据安全。
+4. 该工具内置本地专属的ChatGPT、Phi、DeepSeek等AI模型，无需联网即可使用。
+5. 提供一键批量智能处理图片、视频、音频等多种媒体文件的功能，简化操作流程。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】修图神器: 去水印,除瑕疵,修复照片]]></title>
-        <link href="https://www.freedidi.com/19311.html" />
-        <id>https://www.freedidi.com/19311.html</id>
-        <updated>Mon, 05 May 2025 23:20:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：图像修复, Super Eraser, 删除对象, 自动修复, 美化照片
+        <title><![CDATA[PC端自动化测试实战教程-4-pywinauto 操作PC端应用程序窗口 - 上篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18661825" />
+        <id>https://www.cnblogs.com/du-hong/p/18661825</id>
+        <updated>Tue, 06 May 2025 10:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 窗口, 操作, PC端, 应用程序, 连接
 
 <br><br>总结:
-1. Super Eraser是一款图像修复软件，能够快速删除照片中不需要的对象。
-2. 它使用先进的图像处理技术，提供比其他软件（包括专业图像处理软件）更自然的处理效果。
-3. 该软件可以删除标志、文字、水印等多余元素，并自动修复图像。
-4. Super Eraser可实现擦除、改善、修复和美化照片的功能，只需几秒钟。
-5. 使用时注意，用绿色涂抹需要保留的部分，否则会被周围镜像填充。
+
+1.  **简介:** 本文是宏哥关于PC端应用程序操作系列的一部分，重点讲解如何操作已启动并连接的PC端应用程序的窗口。
+2.  **窗口定义:** 窗口指的是应用软件上的工具栏和操作界面等。
+3.  **窗口操作:** 主要讲解如何通过代码对窗口进行操作，例如关闭、最小化、最大化等。
+4.  **代码示例:** 通过具体的代码例子，演示如何使用相关函数对窗口进行各种操作，并说明每个步骤的含义。
+5.  **未来展望:** 提示后续文章会分享更高级的窗口操作技巧。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Vovsoft Sitemap Generator –  网站地图生成器！ （原价 $19 刀）]]></title>
-        <link href="https://www.freedidi.com/19307.html" />
-        <id>https://www.freedidi.com/19307.html</id>
-        <updated>Mon, 05 May 2025 23:14:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Sitemap Generator, 网站爬虫, 站点地图, XML, Google Search Console
+        <title><![CDATA[吐槽：绿云 VPS 掉线频繁，官方称正在处理，等待数天仍未解决]]></title>
+        <link href="https://uuzi.net/greencloud-vps-frequent-drop/" />
+        <id>https://uuzi.net/greencloud-vps-frequent-drop/</id>
+        <updated>Tue, 06 May 2025 15:05:42 +0800</updated>
+        <summary type="html"><![CDATA[绿云, IIJ, VPS, 黑五, 掉线
 
 <br><br>总结:
-1. Vovsoft Sitemap Generator 是一款轻量级网站爬虫，易于创建站点地图。
-2. 可以忽略特定扩展名和 URL，提高扫描效率。
-3. 支持将结果导出为 XML、CSV、TXT 和 HTML 格式。
-4. XML 文件可提交给主流搜索引擎（如 Google、Bing、Yandex）。
-5. 建议网站所有者保持站点地图更新，并通过 Google Search Console 提交站点地图。
+*   去年黑五购买了绿云的日本 IIJ 线路 VPS。
+*   初期使用体验良好，流媒体解锁表现优秀，仅晚高峰延迟较高。
+*   自4月30日起，VPS开始频繁掉线，影响正常使用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[[限免] RealRadio – iOS 收音机应用，畅享电台直播]]></title>
-        <link href="https://www.freedidi.com/19302.html" />
-        <id>https://www.freedidi.com/19302.html</id>
-        <updated>Mon, 05 May 2025 23:01:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词：复古收音机，拟物化，小组件，CarPlay，电台链接
+        <title><![CDATA[LibDriver/W25QXX]]></title>
+        <link href="https://gitee.com/libdriver/w25qxx" />
+        <id>https://gitee.com/libdriver/w25qxx</id>
+        <updated>Tue, 06 May 2025 22:00:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词：W25QXX, 驱动, MCU, Linux, 通用
 
 <br><br>总结:
-要点1：RealRadio是一款复古风格的拟物化收音机应用。
-要点2：它支持小组件，兼容Apple Watch和CarPlay。
-要点3：用户可以添加自己喜欢的电台链接。
-要点4：应用提供收藏功能。
-要点5：目前 lifetime 会员是免费的。
+1. 该驱动程序支持W25QXX系列SPI Nor Flash芯片，包括W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02等型号。
+2. 该驱动程序是全功能的，意味着它实现了W25QXX芯片的完整功能。
+3. 该驱动程序具有通用性，适用于常见的MCU（微控制器）系统。
+4. 该驱动程序也适用于Linux操作系统，提供了在Linux环境下使用W25QXX芯片的解决方案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[FieldCam – 支持 GPS 坐标的专业拍照工具 [限时免费]]]></title>
-        <link href="https://www.freedidi.com/19298.html" />
-        <id>https://www.freedidi.com/19298.html</id>
-        <updated>Mon, 05 May 2025 22:57:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: FieldCam, GPS, 地理位置, 专业, 拍照工具
+        <title><![CDATA[解决 AI 回答复制粘贴时格式和样式错乱的问题（Mac 版）]]></title>
+        <link href="https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/" />
+        <id>https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/</id>
+        <updated>Tue, 06 May 2025 13:29:45 +0800</updated>
+        <summary type="html"><![CDATA[ChatGPT, 格式错乱, Word, 编辑器, 乱码
 
 <br><br>总结:
-1. FieldCam 是一款专为专业人士和冒险家设计的拍照工具。
-2. 它的主要功能是精准记录照片的地理位置信息，包括 GPS 坐标。
-3. 适用于工程师、测量员、户外运动爱好者等需要地理空间精度的人群。
-4. 通过将照片与 GPS 数据叠加，帮助用户更高效地管理项目。
-5. 现在 FieldCam 的完整版正在限时免费，可通过内购获取。
+1. 用户在使用ChatGPT等AI工具时，复制粘贴回答到Word或其他编辑器中，经常会遇到格式错乱的问题。
+2.  这种情况甚至会出现乱码。
+3. 这个问题给用户整理信息带来不便，需要手动调整格式，十分麻烦。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[[限免] Blur Video – iOS AI 人脸动态打码神器（原价￥38）]]></title>
-        <link href="https://www.freedidi.com/19292.html" />
-        <id>https://www.freedidi.com/19292.html</id>
-        <updated>Mon, 05 May 2025 22:53:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 模糊视频, 隐私保护, 敏感信息, 艺术效果, 简单强大
+        <title><![CDATA[领域驱动的事实与谬误 一 DDD 与 MVC]]></title>
+        <link href="https://www.cnblogs.com/mrye/p/18856880" />
+        <id>https://www.cnblogs.com/mrye/p/18856880</id>
+        <updated>Thu, 01 May 2025 20:28:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：MVC, 谬误, 软文, 初衷, 认知
 
 <br><br>总结:
-1. Blur Video 是一款具有创新模糊功能的软件。
-2. 它可以用于保护视频中的隐私，隐藏敏感信息。
-3. 软件也能用于提升视频的艺术效果。
-4. 操作简单，模糊效果自然无缝。
-5. 软件曾经限免，但活动已结束。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Coolmuster iPhone Data Recovery：专业 iPhone 数据恢复工具 [1年授权 | 限免 $49.95→0]]]></title>
-        <link href="https://www.freedidi.com/19287.html" />
-        <id>https://www.freedidi.com/19287.html</id>
-        <updated>Mon, 05 May 2025 22:46:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：iPhone数据恢复, iOS, Coolmuster, iTunes备份, 限时免费
-
-<br><br>总结:
-1. Coolmuster iPhone Data Recovery 是一款 iOS 数据恢复工具，专为iPhone/iPad用户设计。
-2. 它能从设备或 iTunes 备份中恢复多种数据类型，如短信、联系人、照片等。
-3. 该工具操作简便，只需 3 步即可完成数据恢复。
-4. 兼容多种 iOS 设备和版本，应对各种数据丢失情况。
-5. 目前正在限时免费，截止到2025年5月11日24时。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[服务器时间漂移，如何开启Linux NTP自动同步]]></title>
-        <link href="https://www.cnblogs.com/deali/p/18849639" />
-        <id>https://www.cnblogs.com/deali/p/18849639</id>
-        <updated>Sun, 27 Apr 2025 15:36:00 +0800</updated>
-        <summary type="html"><![CDATA[时间漂移, 服务器运维, NTP, 时钟源, chrony
-
-<br><br>总结:
-1.  发现服务器时间漂移，影响了访问分析功能的准确性。
-2.  初步排查了手动修改时间和时区配置的可能性。
-3.  确认 NTP 服务配置，发现时钟源存在问题，导致时间同步不准确。
-4.  使用 chrony 替代 ntpd 作为 NTP 客户端，能够更准确地同步时间。
-5.  通过配置 chrony 使用可靠的时钟源，解决了服务器时间漂移的问题。
+1.  本文旨在帮助新手避免被软文误导，减少智商税。
+2.  强调理解观点提出的年代和初衷对掌握其精髓至关重要。
+3.  揭露市场上关于MVC的一些误人子弟的软文宣传。
+4.  澄清文章批判的是软文的谬误，而非MVC原理论的错误。
+5.  指出这些软文传播了错误的认知，误导了读者。
 ]]></summary>
     </entry>
     
