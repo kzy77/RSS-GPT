@@ -2,53 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Tue, 06 May 2025 04:22:10 GMT</updated>
+    <updated>Tue, 06 May 2025 06:27:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[领域驱动的事实与谬误 一 DDD 与 MVC]]></title>
-        <link href="https://www.cnblogs.com/mrye/p/18856880" />
-        <id>https://www.cnblogs.com/mrye/p/18856880</id>
-        <updated>Thu, 01 May 2025 20:28:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：MVC, 谬误, 软文, 理解, 初衷
+        <title><![CDATA[yangjiong/esflow-ui]]></title>
+        <link href="https://gitee.com/yang-jiong/esflow-ui" />
+        <id>https://gitee.com/yang-jiong/esflow-ui</id>
+        <updated>Tue, 06 May 2025 20:07:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词：工作流，开源，轻量，JSON，中国式流程
 
 <br><br>总结:
-1.  本文旨在帮助新手避开关于MVC的智商税软文，节省学习时间。
-2.  强调理解一项观点的提出年代和最初初衷的重要性，以便更好掌握其精髓。
-3.  指出市场上一些关于MVC的误导性软文，这些软文并非源于原著，而是网络水军造成的。
-4.  阐述了理解MVC需要追溯其最初设计理念，从而避免被错误的认知所影响。
+1. esflow是一款国产开源工作流平台，特点是轻量且快速。
+2. 它可以作为工作流引擎或在线办公系统的基础平台。
+3. esflow支持中国式流程办理方式，例如退回、跳转、驳回以及前后加签等操作。
+4. 该平台使用JSON格式存储流程设计数据，数据库结构简单，仅包含8张表。
+5. 用户可以通过拖拽方式进行工作流设计，无需编写代码即可搭建企业级业务流程平台。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[常春涛/FAST]]></title>
-        <link href="https://gitee.com/changchuntao/FAST" />
-        <id>https://gitee.com/changchuntao/FAST</id>
-        <updated>Tue, 06 May 2025 06:29:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词: GNSS, 数据下载, FAST, 多源数据, 并行下载
+        <title><![CDATA[dupeGuru – 电脑重复文件查找工具，支持跨平台使用！]]></title>
+        <link href="https://www.freedidi.com/19328.html" />
+        <id>https://www.freedidi.com/19328.html</id>
+        <updated>Tue, 06 May 2025 12:44:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 重复文件, 跨平台, 模糊匹配, ID3标签, 自定义
 
 <br><br>总结:
-1. FAST软件针对GNSS数据下载的繁琐和低效问题而开发。
-2. 该软件集成了科研学习所需的大部分GNSS数据源。
-3. FAST采用并行下载技术，显著提升了数据下载的效率。
+1. dupeGuru是一款跨平台的重复文件查找工具，支持Linux、macOS和Windows系统。
+2. 它支持通过文件名（模糊匹配）或文件内容扫描重复项。
+3. 针对音乐文件，提供“音乐模式”，扫描ID3标签；针对图片文件，提供“图片模式”，模糊识别图片内容。
+4. 支持中文界面，可自定义匹配引擎，安全性高，可删除、移动或复制重复文件。
+5. 支持多种语言。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[凯亚利用直播推流技术请大家看电影]]></title>
-        <link href="https://www.cnblogs.com/fanliang11/p/18858743" />
-        <id>https://www.cnblogs.com/fanliang11/p/18858743</id>
-        <updated>Sat, 03 May 2025 22:38:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: dotnetty, kayak, SpanNetty, 性能, 稳定性
+        <title><![CDATA[Caesium – 图片批量压缩软件！[Win/macOS/Linux/网页版]]]></title>
+        <link href="https://www.freedidi.com/19323.html" />
+        <id>https://www.freedidi.com/19323.html</id>
+        <updated>Tue, 06 May 2025 12:36:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词：图像压缩, 批量处理, Caesium, JPG, PNG, WebP
 
 <br><br>总结:
-1. 作者在劳动节期间将dotnetty代码添加到kayak项目中。
-2. 作者偶然发现了SpanNetty项目，并参考了其代码。
-3. SpanNetty的性能和稳定性让作者感到惊讶，认为其比dotnetty更可靠。
-4. 作者通过直播推流观看电影，证实了SpanNetty的内存占用稳定在80。
+1. Caesium Image Compressor 是一款图像批量压缩工具，支持 JPG、PNG 和 WebP 格式。
+2. 该工具能够在保持图像质量的前提下，快速减小文件大小，并且可以调整分辨率。
+3. Caesium 操作简单，只需拖拽图片并点击压缩即可。
+4. 该软件支持 Windows (10 1809+)， macOS (10.15+)， 以及 Linux (Ubuntu 22.04 和 Manjaro 测试通过)，但仅支持 64 位版本。
+5. 压缩效果显著，能够大幅度节省存储空间，同时保证图片画质几乎不受影响。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[【限免】Auto Mouse Clicker 鼠标自动点击器]]></title>
+        <link href="https://www.freedidi.com/19318.html" />
+        <id>https://www.freedidi.com/19318.html</id>
+        <updated>Tue, 06 May 2025 12:16:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 自动点击, 鼠标模拟, 宏录制, 任务自动化, CSV文件
+
+<br><br>总结:
+1. Vovsoft Auto Mouse Clicker 是一款桌面软件，用于自动执行鼠标点击操作，提高工作效率。
+2. 它可以模拟鼠标左键、右键和中键点击，并根据坐标精确定位。
+3. 软件适用于游戏和重复性任务，可自动点击按钮、浏览网页等。
+4. 用户可以选择基于时间或基于事件的录制方式，并设置循环次数。
+5. 软件支持热键、宏录制、保存和加载 CSV 文件，以及命令行参数运行。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[【限免】修图神器: 去水印,除瑕疵,修复照片]]></title>
+        <link href="https://www.freedidi.com/19311.html" />
+        <id>https://www.freedidi.com/19311.html</id>
+        <updated>Mon, 05 May 2025 23:20:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：图像修复, 对象删除, 美化照片, 自动修复, Super Eraser
+
+<br><br>总结:
+要点一：Super Eraser是一款图像修复软件，能快速删除照片中不需要的对象。
+要点二：它采用图像处理技术，提供优秀的擦除效果和更自然的图像处理。
+要点三：可以删除标志、文字、水印等元素，并自动修复图像。
+要点四：操作简单，几秒钟内即可美化照片。
+要点五：使用时需用绿色涂抹保留部分，避免镜像问题。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[【限免】Vovsoft Sitemap Generator –  网站地图生成器！ （原价 $19 刀）]]></title>
+        <link href="https://www.freedidi.com/19307.html" />
+        <id>https://www.freedidi.com/19307.html</id>
+        <updated>Mon, 05 May 2025 23:14:05 +0800</updated>
+        <summary type="html"><![CDATA[站点地图, 爬虫, XML, 搜索引擎, Google
+
+<br><br>总结:
+1. Vovsoft Sitemap Generator是一款轻量级的网站爬虫，易于创建站点地图。
+2. 该工具可以忽略特定扩展名和URL，缩短扫描时间。
+3. 扫描结果可导出为XML、CSV、TXT或HTML格式。
+4. XML站点地图可提交给Google、Bing等搜索引擎。
+5. 建议定期更新站点地图，并在Google Search Console中提交，避免包含不应出现在搜索结果中的URL。
+6. 该软件目前限时免费，截止日期为2025年5月11日。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[[限免] RealRadio – iOS 收音机应用，畅享电台直播]]></title>
+        <link href="https://www.freedidi.com/19302.html" />
+        <id>https://www.freedidi.com/19302.html</id>
+        <updated>Mon, 05 May 2025 23:01:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 复古, 收音机, 小组件, Apple Watch, CarPlay
+
+<br><br>总结:
+1. RealRadio是一款复古风格的拟物化收音机应用。
+2. 它支持小组件、Apple Watch 和 CarPlay。
+3. 用户可以自定义添加电台链接。
+4. 应用提供收藏功能，方便访问喜爱的频道。
+5. 目前该应用限时免费，通过特定步骤可免费获得 lifetime 会员。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[FieldCam – 支持 GPS 坐标的专业拍照工具 [限时免费]]]></title>
+        <link href="https://www.freedidi.com/19298.html" />
+        <id>https://www.freedidi.com/19298.html</id>
+        <updated>Mon, 05 May 2025 22:57:06 +0800</updated>
+        <summary type="html"><![CDATA[FieldCam, GPS, 地理位置, 专业人士, 坐标
+
+<br><br>总结:
+1. FieldCam是一款为专业人士和冒险家设计的拍照工具，旨在精准记录照片的地理位置信息。
+2. 它可以将照片与GPS坐标等重要数据叠加，帮助用户更高效地管理项目。
+3. 该应用适用于工程师、测量员、户外运动爱好者等需要地理空间精度的用户。
+4. 用户可以启用自定义GPS位置功能。
+5. 目前完整版FieldCam应用限时免费。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[[限免] Blur Video – iOS AI 人脸动态打码神器（原价￥38）]]></title>
+        <link href="https://www.freedidi.com/19292.html" />
+        <id>https://www.freedidi.com/19292.html</id>
+        <updated>Mon, 05 May 2025 22:53:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Blur Video, 模糊功能, 隐私保护, 艺术效果, 敏感信息
+
+<br><br>总结:
+*   Blur Video 是一款提供视频模糊功能的工具。
+*   它可以有效保护隐私，隐藏视频中的敏感信息，如信用卡号、地址等。
+*   同时，它也能提升视频的艺术感，创造梦幻般的视觉效果。
+*   模糊效果自然且无缝，与视频内容完美融合。
+*   这款工具操作简单，功能强大。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Coolmuster iPhone Data Recovery：专业 iPhone 数据恢复工具 [1年授权 | 限免 $49.95→0]]]></title>
+        <link href="https://www.freedidi.com/19287.html" />
+        <id>https://www.freedidi.com/19287.html</id>
+        <updated>Mon, 05 May 2025 22:46:49 +0800</updated>
+        <summary type="html"><![CDATA[数据恢复, iPhone, iOS, Coolmuster, 免费
+
+<br><br>总结:
+1. Coolmuster iPhone Data Recovery 是一款 iOS 数据恢复工具。
+2. 可以从 iOS 设备或 iTunes 备份中恢复数据，操作简单，只需 3 步。
+3. 支持恢复多种数据类型，包括短信、联系人、照片等。
+4. 兼容多种 iOS 设备和版本。
+5. 目前限时免费，截止日期为2025年5月11日。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[服务器时间漂移，如何开启Linux NTP自动同步]]></title>
+        <link href="https://www.cnblogs.com/deali/p/18849639" />
+        <id>https://www.cnblogs.com/deali/p/18849639</id>
+        <updated>Sun, 27 Apr 2025 15:36:00 +0800</updated>
+        <summary type="html"><![CDATA[时间漂移, 服务器运维, NTP, chrony, 排查
+
+<br><br>总结:
+1. 发现服务器时间漂移，影响了访问分析功能的开发。
+2. 排查过程包括查看系统日志、NTP服务状态等，发现NTP服务可能存在问题。
+3. 分析后发现chrony配置存在异常。
+4. 修改chrony配置，使其与可靠的时间源同步。
+5. 验证时间同步效果，确认问题已解决。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
+        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: C#, .NET, .NET Core, 编程, 实操
+
+<br><br>总结:
+1. 该项目是一个 C#/.NET/.NET Core 编程学习资源集合。
+2. 内容涵盖常用语法、算法、技巧、中间件和类库等。
+3. 提供工作业务实操练习，帮助用户快速掌握相关技能。
+4. 配套详细的文章教程进行讲解。
+5. 旨在成为 C#/.NET/.NET Core 全面的学习、工作和面试指南。
 ]]></summary>
     </entry>
     
