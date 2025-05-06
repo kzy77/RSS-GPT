@@ -2,143 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Tue, 06 May 2025 12:39:32 GMT</updated>
+    <updated>Tue, 06 May 2025 14:18:56 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Ascend/Mind-KernelInfra]]></title>
-        <link href="https://gitee.com/ascend/Mind-KernelInfra" />
-        <id>https://gitee.com/ascend/Mind-KernelInfra</id>
-        <updated>Wed, 07 May 2025 01:54:16 +0800</updated>
-        <summary type="html"><![CDATA[算子公共平台, 算子库, 加速库, 南向对接, 北向支撑
+        <title><![CDATA[Rybbit：开源、轻量、高颜值网站流量统计工具搭建教程]]></title>
+        <link href="https://uuzi.net/rybbit-setup-guide/" />
+        <id>https://uuzi.net/rybbit-setup-guide/</id>
+        <updated>Tue, 06 May 2025 20:57:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Umami, Rybbit, 可视化, 隐私, 自部署
 
 <br><br>总结:
-1.  算子公共平台旨在实现算子能力的复用。
-2.  该平台南向对接不同组织开发的算子库，汇集多种算子资源。
-3.  该平台北向支撑不同的加速库应用，为上层应用提供统一的算子接口。
-4.  通过南向对接和北向支撑，平台实现了M x N的算子能力复用，提高开发效率。
+1. 作者一直是Umami的忠实用户，但Rybbit的出现使其考虑更换分析工具。
+2. Rybbit凭借直观的界面和炫酷的可视化效果吸引了作者。
+3. Rybbit提供了全面的预构建分析仪表盘，方便用户进行数据分析。
+4. Rybbit强调隐私保护，采用无Cookie的方式收集数据。
+5. Rybbit支持自部署，方便用户灵活控制数据。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
-        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
-        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
-        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：TCP/IP, 路由, 路由技术, 解决方案, 问题
+        <title><![CDATA[yangjiong/esflow-ui]]></title>
+        <link href="https://gitee.com/yang-jiong/esflow-ui" />
+        <id>https://gitee.com/yang-jiong/esflow-ui</id>
+        <updated>Tue, 06 May 2025 20:07:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词：ESFlow 工作流 开源 国产 轻量
 
 <br><br>总结:
-该文章探讨了作者长期遇到的一个TCP/IP相关问题，虽然过去一直有解决方案，但作者并未深入思考。通过阅读《tcpip路由技术》卷二，作者突然受到启发，将书中的内容与该问题联系起来，领悟了问题的关键。
+1. ESFlow是一款国产开源工作流平台，轻量且快速。
+2. 可作为工作流引擎或在线办公系统基础平台使用。
+3. 支持中国式流程办理方式，例如退回、跳转、驳回、加签等。
+4. 采用JSON存储流程设计数据，数据库结构简单，只有8张表。
+5. 通过拖拽完成工作流设计，无需编写代码即可搭建企业级业务流程平台。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Ascend/openmind]]></title>
-        <link href="https://gitee.com/ascend/openmind" />
-        <id>https://gitee.com/ascend/openmind</id>
-        <updated>Wed, 07 May 2025 00:02:42 +0800</updated>
-        <summary type="html"><![CDATA[关键词：openMind, 大模型, 微调, 昇腾NPU, 部署
+        <title><![CDATA[dupeGuru – 电脑重复文件查找工具，支持跨平台使用！]]></title>
+        <link href="https://www.freedidi.com/19328.html" />
+        <id>https://www.freedidi.com/19328.html</id>
+        <updated>Tue, 06 May 2025 12:44:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词：重复文件，模糊匹配，音乐模式，图片模式，自定义
 
 <br><br>总结:
-1. openMind是一个大模型微调套件。
-2. 它原生支持在昇腾NPU上运行。
-3. 支持的功能包括微调、推理、评估和部署。
-4. 用户可以通过命令行接口或SDK使用该套件。
+1. dupeGuru是一款跨平台的重复文件查找工具，支持Linux、macOS和Windows，支持中文界面。
+2. 它可以通过文件名（模糊匹配）或文件内容进行扫描，识别重复文件。
+3. 针对音乐文件有专门的“音乐模式”，扫描ID3标签；针对图片文件有“图片模式”，模糊识别图片内容。
+4. dupeGuru具有自定义功能，可以调整匹配引擎。
+5. 软件设计安全性高，有参考目录和分组系统，防止误删。可以删除、移动或复制重复文件，并提供多种筛选和排序方式。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[rnchg/Apt]]></title>
-        <link href="https://gitee.com/rnchg/apt" />
-        <id>https://gitee.com/rnchg/apt</id>
-        <updated>Tue, 06 May 2025 23:51:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI生产力工具，免费开源，隐私安全，本地专属，批量处理
+        <title><![CDATA[Caesium – 图片批量压缩软件！[Win/macOS/Linux/网页版]]]></title>
+        <link href="https://www.freedidi.com/19323.html" />
+        <id>https://www.freedidi.com/19323.html</id>
+        <updated>Tue, 06 May 2025 12:36:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 图像压缩, 批量处理, Caesium, JPG, PNG, WebP
 
 <br><br>总结:
-1. 该AI生产力工具是免费开源的，降低了使用门槛。
-2. 它致力于提升用户生产力，提供高效便捷的AI解决方案。
-3. 工具强调用户隐私和数据安全，保障用户数据安全。
-4. 该工具内置本地专属的ChatGPT、Phi、DeepSeek等AI模型，无需联网即可使用。
-5. 提供一键批量智能处理图片、视频、音频等多种媒体文件的功能，简化操作流程。
+1. Caesium Image Compressor 是一款图像批量压缩工具，支持 JPG、PNG 和 WebP 格式。
+2. 它可以快速减小图像文件大小，并可以在保持图像整体质量的情况下减小分辨率。
+3. 该工具操作简单，只需拖入图片并点击压缩。
+4. 支持 Windows (10+, 旧版本支持 Windows 7/8)、MacOS (10.15+) 和 Linux (Ubuntu 22.04, Manjaro) 64 位版本。
+5. 压缩效果显著，可以在几乎不牺牲画质的情况下大幅节省空间。例如，文中提到压缩后可将 800 多 MB 的图片压缩至 100 MB 左右。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[PC端自动化测试实战教程-4-pywinauto 操作PC端应用程序窗口 - 上篇（详细教程）]]></title>
-        <link href="https://www.cnblogs.com/du-hong/p/18661825" />
-        <id>https://www.cnblogs.com/du-hong/p/18661825</id>
-        <updated>Tue, 06 May 2025 10:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 窗口, 操作, PC端, 应用程序, 连接
+        <title><![CDATA[【限免】Auto Mouse Clicker 鼠标自动点击器]]></title>
+        <link href="https://www.freedidi.com/19318.html" />
+        <id>https://www.freedidi.com/19318.html</id>
+        <updated>Tue, 06 May 2025 12:16:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 自动点击, 鼠标模拟, 宏录制, 重复任务, 工作效率
 
 <br><br>总结:
-
-1.  **简介:** 本文是宏哥关于PC端应用程序操作系列的一部分，重点讲解如何操作已启动并连接的PC端应用程序的窗口。
-2.  **窗口定义:** 窗口指的是应用软件上的工具栏和操作界面等。
-3.  **窗口操作:** 主要讲解如何通过代码对窗口进行操作，例如关闭、最小化、最大化等。
-4.  **代码示例:** 通过具体的代码例子，演示如何使用相关函数对窗口进行各种操作，并说明每个步骤的含义。
-5.  **未来展望:** 提示后续文章会分享更高级的窗口操作技巧。
+1. Vovsoft Auto Mouse Clicker 是一款桌面软件，旨在自动执行鼠标点击操作，解放用户双手，提高工作效率。
+2. 该软件能够模拟鼠标左键、右键和中键的点击，应用于游戏、网页浏览等各种场景，自动化重复性任务。
+3. 软件提供基于时间和事件两种录制模式，并支持自定义循环次数，包括无限循环，可通过热键停止。
+4. 软件具备宏录制功能，可以将录制的宏保存为 CSV 文件，并支持拖放、命令行参数等操作。
+5. 软件兼容 Windows 操作系统，是一款简单易用的自动化工具。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[吐槽：绿云 VPS 掉线频繁，官方称正在处理，等待数天仍未解决]]></title>
-        <link href="https://uuzi.net/greencloud-vps-frequent-drop/" />
-        <id>https://uuzi.net/greencloud-vps-frequent-drop/</id>
-        <updated>Tue, 06 May 2025 15:05:42 +0800</updated>
-        <summary type="html"><![CDATA[绿云, IIJ, VPS, 黑五, 掉线
+        <title><![CDATA[【限免】修图神器: 去水印,除瑕疵,修复照片]]></title>
+        <link href="https://www.freedidi.com/19311.html" />
+        <id>https://www.freedidi.com/19311.html</id>
+        <updated>Mon, 05 May 2025 23:20:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：图像修复, Super Eraser, 对象移除, 美化照片, 自动修复
 
 <br><br>总结:
-*   去年黑五购买了绿云的日本 IIJ 线路 VPS。
-*   初期使用体验良好，流媒体解锁表现优秀，仅晚高峰延迟较高。
-*   自4月30日起，VPS开始频繁掉线，影响正常使用。
+Super Eraser是一款图像修复软件，旨在快速移除照片中不需要的对象，如标志、文字、水印等。
+它采用先进技术，能提供比专业软件更自然的擦除效果，并自动修复图像，使照片看起来像是从未存在过这些对象。
+使用时需注意，使用绿色涂抹需要保留的部分，避免镜像效果。
+用户可以通过Super Eraser美化照片，获得完美效果。
+目前该软件正在限免。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[LibDriver/W25QXX]]></title>
-        <link href="https://gitee.com/libdriver/w25qxx" />
-        <id>https://gitee.com/libdriver/w25qxx</id>
-        <updated>Tue, 06 May 2025 22:00:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词：W25QXX, 驱动, MCU, Linux, 通用
+        <title><![CDATA[【限免】Vovsoft Sitemap Generator –  网站地图生成器！ （原价 $19 刀）]]></title>
+        <link href="https://www.freedidi.com/19307.html" />
+        <id>https://www.freedidi.com/19307.html</id>
+        <updated>Mon, 05 May 2025 23:14:05 +0800</updated>
+        <summary type="html"><![CDATA[站点地图, 网站爬虫, XML, 搜索引擎, Google Search Console
 
 <br><br>总结:
-1. 该驱动程序支持W25QXX系列SPI Nor Flash芯片，包括W25Q80, W25Q16, W25Q32, W25Q64, W25Q128, W25Q256, W25Q512, W25Q01, W25Q02等型号。
-2. 该驱动程序是全功能的，意味着它实现了W25QXX芯片的完整功能。
-3. 该驱动程序具有通用性，适用于常见的MCU（微控制器）系统。
-4. 该驱动程序也适用于Linux操作系统，提供了在Linux环境下使用W25QXX芯片的解决方案。
+1. Vovsoft Sitemap Generator是一款轻量级网站爬虫工具，操作简单，旨在快速创建站点地图。
+2. 该工具允许忽略特定文件扩展名和URL，缩短扫描时间。
+3. 扫描结果可导出为XML、CSV、TXT或HTML格式，XML文件可提交给主流搜索引擎。
+4. 用户应定期更新站点地图，并提交到Google Search Console，确保搜索引擎抓取重要内容。
+5. 避免在站点地图中包含不应被索引的URL，以节省抓取预算。该软件目前限时免费，截止时间2025年5月11日。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[解决 AI 回答复制粘贴时格式和样式错乱的问题（Mac 版）]]></title>
-        <link href="https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/" />
-        <id>https://uuzi.net/resolve-ai-copy-paste-format-issue-mac/</id>
-        <updated>Tue, 06 May 2025 13:29:45 +0800</updated>
-        <summary type="html"><![CDATA[ChatGPT, 格式错乱, Word, 编辑器, 乱码
+        <title><![CDATA[[限免] RealRadio – iOS 收音机应用，畅享电台直播]]></title>
+        <link href="https://www.freedidi.com/19302.html" />
+        <id>https://www.freedidi.com/19302.html</id>
+        <updated>Mon, 05 May 2025 23:01:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词：拟物化, 收音机, 小组件, Apple Watch, CarPlay
 
 <br><br>总结:
-1. 用户在使用ChatGPT等AI工具时，复制粘贴回答到Word或其他编辑器中，经常会遇到格式错乱的问题。
-2.  这种情况甚至会出现乱码。
-3. 这个问题给用户整理信息带来不便，需要手动调整格式，十分麻烦。
+1. RealRadio是一款复古风格的拟物化收音机应用。
+2. 它支持小组件，兼容Apple Watch和CarPlay。
+3. 用户可以自定义添加电台链接，并收藏喜爱频道。
+4. 目前该应用 lifetime 选项价格是 0 元，可以免费获取。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[领域驱动的事实与谬误 一 DDD 与 MVC]]></title>
-        <link href="https://www.cnblogs.com/mrye/p/18856880" />
-        <id>https://www.cnblogs.com/mrye/p/18856880</id>
-        <updated>Thu, 01 May 2025 20:28:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：MVC, 谬误, 软文, 初衷, 认知
+        <title><![CDATA[FieldCam – 支持 GPS 坐标的专业拍照工具 [限时免费]]]></title>
+        <link href="https://www.freedidi.com/19298.html" />
+        <id>https://www.freedidi.com/19298.html</id>
+        <updated>Mon, 05 May 2025 22:57:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词：FieldCam, GPS, 专业人士, 坐标, 限免
 
 <br><br>总结:
-1.  本文旨在帮助新手避免被软文误导，减少智商税。
-2.  强调理解观点提出的年代和初衷对掌握其精髓至关重要。
-3.  揭露市场上关于MVC的一些误人子弟的软文宣传。
-4.  澄清文章批判的是软文的谬误，而非MVC原理论的错误。
-5.  指出这些软文传播了错误的认知，误导了读者。
+1. FieldCam是一款专为专业人士和户外爱好者设计的拍照工具。
+2. 它可以精确记录照片的GPS坐标等地理位置信息。
+3. 该应用适用于工程师、测量员等需要地理空间精度的用户。
+4. FieldCam可以帮助用户更高效地管理项目。
+5. 目前完整版FieldCam正在限时免费中，用户可在应用内购买获取。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[[限免] Blur Video – iOS AI 人脸动态打码神器（原价￥38）]]></title>
+        <link href="https://www.freedidi.com/19292.html" />
+        <id>https://www.freedidi.com/19292.html</id>
+        <updated>Mon, 05 May 2025 22:53:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 模糊视频, 隐私保护, 敏感信息, 艺术效果, 视频处理
+
+<br><br>总结:
+* Blur Video通过模糊功能保护视频隐私，隐藏信用卡号码、住址等敏感信息。
+* 它能将模糊效果自然融入视频内容，不影响整体观感。
+* 除了保护隐私，Blur Video也能用于创造艺术效果，提升视频的美观度。
+* 这是一个简单而强大的视频处理解决方案。
+* 限免活动已结束，稍后提供替代方案。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Coolmuster iPhone Data Recovery：专业 iPhone 数据恢复工具 [1年授权 | 限免 $49.95→0]]]></title>
+        <link href="https://www.freedidi.com/19287.html" />
+        <id>https://www.freedidi.com/19287.html</id>
+        <updated>Mon, 05 May 2025 22:46:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: iPhone数据恢复, iOS, Coolmuster, 数据恢复, 免费
+
+<br><br>总结:
+1. Coolmuster iPhone Data Recovery 是一款 iOS 数据恢复工具。
+2. 它可以从 iPhone/iPad 设备或 iTunes 备份中恢复数据。
+3. 它支持恢复多种类型的数据，如短信、联系人、照片等。
+4. 兼容多种 iOS 设备和版本。
+5. 目前提供限时免费，截止时间为 2025年5月11日24时。
 ]]></summary>
     </entry>
     
