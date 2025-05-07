@@ -2,57 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Wed, 07 May 2025 08:26:27 GMT</updated>
+    <updated>Wed, 07 May 2025 10:20:28 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Liu Jie/RPALite]]></title>
-        <link href="https://gitee.com/jieliu2000/rpalite" />
-        <id>https://gitee.com/jieliu2000/rpalite</id>
-        <updated>Wed, 07 May 2025 06:13:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词: RPA, 开源, 自动化, 机器人, 库
+        <title><![CDATA[C# 14 新增功能一览，你觉得实用吗？]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18863122" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18863122</id>
+        <updated>Tue, 06 May 2025 20:54:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：C# 14, 新特性, Visual Studio 2022, .NET 10 SDK, 编码便利
 
 <br><br>总结:
-1.  文章主要介绍了一个开源的RPA库。
-2.  该库旨在帮助开发者更容易地实现自动化任务。
-3.  RPA可以用于模拟人工操作，例如填写表格、移动文件等。
-4.  开源特性意味着可以免费使用、修改和分发。
-5.  该库降低了企业采用RPA技术的门槛，促进了自动化应用的普及。
+1. C# 14 带来了一些新的功能特性，旨在提升日常编码的便利性。
+2. 要体验这些新特性，需要安装 Visual Studio 2022 或 .NET 10 SDK。
+3. 可以通过提供的链接下载 .NET 10 SDK。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Ascend/Mind-KernelInfra]]></title>
-        <link href="https://gitee.com/ascend/Mind-KernelInfra" />
-        <id>https://gitee.com/ascend/Mind-KernelInfra</id>
-        <updated>Wed, 07 May 2025 01:54:16 +0800</updated>
-        <summary type="html"><![CDATA[算子公共平台，算子库，加速库，南向对接，北向支撑
+        <title><![CDATA[我不写名字/GB28181-Service]]></title>
+        <link href="https://gitee.com/yszs/sip-service" />
+        <id>https://gitee.com/yszs/sip-service</id>
+        <updated>Wed, 07 May 2025 20:12:33 +0800</updated>
+        <summary type="html"><![CDATA[GB28181, ZLMediaKit, 服务器, Client, Windows/Linux
 
 <br><br>总结:
-该文章介绍了算子公共平台的核心功能：
-
-1.  该平台旨在实现算子能力的复用。
-2.  它通过南向接口对接来自不同组织的算子库，汇集多种算子。
-3.  同时，它通过北向接口支撑不同的加速库应用，使得这些应用能够利用平台上的算子能力。
-4. 最终达到 M x N 的算子能力复用效果。
+1.  这是一个基于ZLMediaKit实现的GB28181服务器项目。
+2.  项目同时提供了一个Client，用于测试服务器功能。
+3.  该项目支持Windows和Linux操作系统。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
-        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
-        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
-        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：TCP/IP路由，路由技术，路由选择，网络问题，解决方案
+        <title><![CDATA[解密AI知识库]]></title>
+        <link href="https://www.cnblogs.com/BNTang/p/18861128" />
+        <id>https://www.cnblogs.com/BNTang/p/18861128</id>
+        <updated>Tue, 06 May 2025 10:50:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI知识库，局限性，技术原理，重排序模型，数据库
 
 <br><br>总结:
-要点1：作者一直遇到网络问题，并且存在解决方案，但从未深入思考。
-要点2：阅读《TCP/IP路由技术》卷二时，书中内容启发了作者。
-要点3：该书的阐述与作者遇到的网络问题之间存在关联，使得作者顿悟。
-要点4：作者找到了理解问题的关键和深层原因。
+*   AI知识库并非简单地导入资料就能自动生成完美结论，实际效果往往不如预期。
+*   根本原因在于技术原理的局限性。
+*   进阶方案包括使用重排序模型来优化搜索结果排序。
+*   可以利用数据库（如MCP）来提升知识库的效率和准确性。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?security=none&encryption=none&headerType=none&type=tcp#V2rayNg_madam ➖➖➖حمایت...]]></title>
+        <link href="https://t.me/V2rayNg_madam/4463" />
+        <id>https://t.me/V2rayNg_madam/4463</id>
+        <updated>Wed, 07 May 2025 05:01:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：V2rayNg, 配置, 速度, 购买, 支持
+
+<br><br>总结:
+1. 提供高速稳定的V2rayNg配置。
+2. 提供在线支持，确保连接稳定。
+3. 鼓励用户尝试，并承诺一次购买即可成为长期客户。
+4. 提供购买渠道，联系管理员购买配置。
+5. 提供客户满意度频道，展示用户反馈。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[HiDNS 域名终身免费计划]]></title>
+        <link href="https://blog.cmliussss.com/p/hidns/" />
+        <id>https://blog.cmliussss.com/p/hidns/</id>
+        <updated>Wed, 30 Apr 2025 16:16:12 +0800</updated>
+        <summary type="html"><![CDATA[HiDNS, 免费域名, 终身免费, SSL证书, 工单审核
+
+<br><br>总结:
+1. HiDNS调整免费域名政策，需工单人工审核申请。
+2. 需将域名绑定博客或其他合法网络服务并配置SSL证书才能获得至2099年的终身免费资格。
+3. 严禁将免费域名用于非法或滥用行为，违规域名将被删除账户。
+4. 申请流程包括注册HiDNS账号，填写申请信息，提交工单并承诺合法使用。
+5. 审核通过后，7天内绑定网站并添加SSL证书即可激活终身免费权限。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Rybbit：开源、轻量、高颜值网站流量统计工具搭建教程]]></title>
+        <link href="https://uuzi.net/rybbit-setup-guide/" />
+        <id>https://uuzi.net/rybbit-setup-guide/</id>
+        <updated>Tue, 06 May 2025 20:57:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Umami, Rybbit, 可视化, 隐私, 自部署
+
+<br><br>总结:
+1. 作者曾是Umami的忠实用户。
+2. Rybbit凭借其直观的界面吸引了作者的注意。
+3. Rybbit提供炫酷的可视化效果和全面的预构建分析仪表盘。
+4. Rybbit强调无Cookie和隐私友好。
+5. Rybbit易于自部署，值得尝试。
 ]]></summary>
     </entry>
     
