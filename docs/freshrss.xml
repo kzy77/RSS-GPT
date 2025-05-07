@@ -2,39 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Wed, 07 May 2025 12:39:38 GMT</updated>
+    <updated>Wed, 07 May 2025 14:19:22 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[揭秘 AI 工具的系统提示词「GitHub 热点速览」]]></title>
-        <link href="https://www.cnblogs.com/xueweihan/p/18860733" />
-        <id>https://www.cnblogs.com/xueweihan/p/18860733</id>
-        <updated>Tue, 06 May 2025 08:24:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI编程工具, 系统提示词, 开源项目, GitHub, 热点速览
+        <title><![CDATA[C# 14 新增功能一览，你觉得实用吗？]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18863122" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18863122</id>
+        <updated>Tue, 06 May 2025 20:54:00 +0800</updated>
+        <summary type="html"><![CDATA[C# 14, 新功能, Visual Studio 2022, .NET 10 SDK, 编码便利
 
 <br><br>总结:
-1. 五一假期后提醒关注GitHub热点速览，每周二更新。
-2. 介绍了类似Cursor的AI编程工具，以及其背后的系统提示词的重要性。
-3. 上周分享了一个汇集各大AI工具的系统提示词的开源项目。
+1.  C# 14 引入了若干新功能特性，旨在提升编码效率和体验。
+2.  要体验这些新特性，需要先安装 Visual Studio 2022 最新版本或下载 .NET 10 SDK。
+3.  可以通过官方链接下载 .NET 10 SDK。
+4.  具体的新功能特性旨在为日常编码提供便利。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Liu Jie/RPALite]]></title>
-        <link href="https://gitee.com/jieliu2000/rpalite" />
-        <id>https://gitee.com/jieliu2000/rpalite</id>
-        <updated>Wed, 07 May 2025 06:13:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词: RPA, 开源, 自动化, 机器人, 流程
+        <title><![CDATA[我不写名字/GB28181-Service]]></title>
+        <link href="https://gitee.com/yszs/sip-service" />
+        <id>https://gitee.com/yszs/sip-service</id>
+        <updated>Wed, 07 May 2025 20:12:33 +0800</updated>
+        <summary type="html"><![CDATA[GB28181, ZLMediaKit, 服务器, Client, 测试
 
 <br><br>总结:
-1. 介绍了一个开源的RPA库，允许用户构建和部署自动化流程。
-2. 该库的核心在于提供可复用的组件，用于模拟用户操作，例如点击、输入、数据提取等。
-3. 开源特性意味着用户可以自由地定制和扩展该库，以满足特定的自动化需求。
-4. 相比于商业RPA工具，开源RPA库提供了更灵活和经济的选择。
-5. 通过使用该库，开发者可以创建机器人来自动化重复性的任务，从而提高效率。
+1. 该项目基于ZLMediaKit构建了一个简单的GB28181服务器。
+2. 提供了一个配套的Client，用于对服务器进行测试。
+3. 该项目支持Windows和Linux操作系统。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[解密AI知识库]]></title>
+        <link href="https://www.cnblogs.com/BNTang/p/18861128" />
+        <id>https://www.cnblogs.com/BNTang/p/18861128</id>
+        <updated>Tue, 06 May 2025 10:50:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI知识库，技术局限，重排序，数据库，Cherry Studio
+
+<br><br>总结:
+1. 常见误解是AI知识库能自动处理所有资料并生成完美结论，但实际效果常不如预期。
+2. 本文将分析AI知识库的技术原理与局限性，解释为何会出现问题。
+3. 文章将介绍通过重排序模型和数据库等进阶方案来提升AI知识库效果的方法。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?security=none&encryption=none&headerType=none&type=tcp#V2rayNg_madam ➖➖➖حمایت...]]></title>
+        <link href="https://t.me/V2rayNg_madam/4463" />
+        <id>https://t.me/V2rayNg_madam/4463</id>
+        <updated>Wed, 07 May 2025 05:01:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Vless, V2rayNg, 稳定, 高速, 购买
+
+<br><br>总结:
+* 提供Vless协议的V2rayNg配置，声称高速稳定。
+* 鼓励用户通过频道连接并反馈速度。
+* 宣传付费购买更稳定、高速、拥有在线支持的配置服务。
+* 邀请用户试用并保证成为长期客户。
+* 提供购买方式和客户反馈频道链接。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[HiDNS 域名终身免费计划]]></title>
+        <link href="https://blog.cmliussss.com/p/hidns/" />
+        <id>https://blog.cmliussss.com/p/hidns/</id>
+        <updated>Wed, 30 Apr 2025 16:16:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词：HiDNS，免费域名，人工审核，SSL证书，滥用禁止
+
+<br><br>总结:
+1. HiDNS 调整免费域名政策，需提交工单人工审核申请。
+2. 获得永久免费资格（至2099年），需将域名绑定博客或其他网络服务，并配置有效SSL证书。
+3. 严禁将免费域名用于非法或滥用行为，如钓鱼网站、盗版内容、病毒传播、垃圾邮件。违规域名将被删除。
+4. 注册账号并验证邮箱后，可搜索可用域名并提交工单申请，承诺合法使用。
+5. 审核通过后，7天内完成域名绑定和SSL配置，即可激活永久免费使用权限。
 ]]></summary>
     </entry>
     
