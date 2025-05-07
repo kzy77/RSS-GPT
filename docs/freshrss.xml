@@ -2,84 +2,281 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Wed, 07 May 2025 14:19:22 GMT</updated>
+    <updated>Wed, 07 May 2025 16:25:03 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[C# 14 新增功能一览，你觉得实用吗？]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/18863122" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/18863122</id>
-        <updated>Tue, 06 May 2025 20:54:00 +0800</updated>
-        <summary type="html"><![CDATA[C# 14, 新功能, Visual Studio 2022, .NET 10 SDK, 编码便利
+        <title><![CDATA[.NET + AI | Semantic Kernel vs Microsoft.Extensions.AI]]></title>
+        <link href="https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai" />
+        <id>https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai</id>
+        <updated>Wed, 07 May 2025 09:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：.NET AI, Microsoft.Extensions.AI, Semantic Kernel, AI服务, 应用程序架构
 
 <br><br>总结:
-1.  C# 14 引入了若干新功能特性，旨在提升编码效率和体验。
-2.  要体验这些新特性，需要先安装 Visual Studio 2022 最新版本或下载 .NET 10 SDK。
-3.  可以通过官方链接下载 .NET 10 SDK。
-4.  具体的新功能特性旨在为日常编码提供便利。
+
+1.  Microsoft.Extensions.AI 在 .NET AI 应用架构中扮演核心角色，作为应用程序与底层 AI 服务之间的桥梁。
+2.  应用程序通过 Microsoft.Extensions.AI 调用各种 AI 服务，例如 Semantic Kernel、OpenAI 和 Ollama 等。
+3.  它提供了一种统一的方式来访问和管理不同的 AI 功能和服务。
+4.  该框架简化了 .NET 开发人员在应用程序中集成和使用 AI 技术的流程。
+5.  通过该架构，开发者能更容易地构建、部署和维护AI驱动的应用程序。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[我不写名字/GB28181-Service]]></title>
-        <link href="https://gitee.com/yszs/sip-service" />
-        <id>https://gitee.com/yszs/sip-service</id>
-        <updated>Wed, 07 May 2025 20:12:33 +0800</updated>
-        <summary type="html"><![CDATA[GB28181, ZLMediaKit, 服务器, Client, 测试
+        <title><![CDATA[PC端自动化测试实战教程-4-pywinauto 操作PC端应用程序窗口 - 上篇（详细教程）]]></title>
+        <link href="https://www.cnblogs.com/du-hong/p/18661825" />
+        <id>https://www.cnblogs.com/du-hong/p/18661825</id>
+        <updated>Tue, 06 May 2025 10:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 窗口, 操作, PC端, 应用程序, 工具栏
 
 <br><br>总结:
-1. 该项目基于ZLMediaKit构建了一个简单的GB28181服务器。
-2. 提供了一个配套的Client，用于对服务器进行测试。
-3. 该项目支持Windows和Linux操作系统。
+1.  介绍了通过宏哥讲解，已掌握PC端应用程序的启动和连接。
+2.  提出连接后如何操作应用程序的问题，聚焦于如何操作PC端应用程序的窗口。
+3.  简述窗口的概念，即应用软件上的工具栏。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[解密AI知识库]]></title>
-        <link href="https://www.cnblogs.com/BNTang/p/18861128" />
-        <id>https://www.cnblogs.com/BNTang/p/18861128</id>
-        <updated>Tue, 06 May 2025 10:50:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI知识库，技术局限，重排序，数据库，Cherry Studio
+        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
+        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
+        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
+        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
+        <summary type="html"><![CDATA[路由, 策略路由, 源地址, 目的地址, 转发路径
 
 <br><br>总结:
-1. 常见误解是AI知识库能自动处理所有资料并生成完美结论，但实际效果常不如预期。
-2. 本文将分析AI知识库的技术原理与局限性，解释为何会出现问题。
-3. 文章将介绍通过重排序模型和数据库等进阶方案来提升AI知识库效果的方法。
+*   作者长期遇到特定路由选择问题，但未深入思考。
+*   阅读《tcpip路由技术》后，作者将书中的阐述与该问题关联起来，理清了思路。
+*   核心问题围绕根据源地址或目的地址的不同，选择不同的转发路径的路由策略。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?security=none&encryption=none&headerType=none&type=tcp#V2rayNg_madam ➖➖➖حمایت...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4463" />
-        <id>https://t.me/V2rayNg_madam/4463</id>
-        <updated>Wed, 07 May 2025 05:01:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Vless, V2rayNg, 稳定, 高速, 购买
+        <title><![CDATA[揭秘 AI 工具的系统提示词「GitHub 热点速览」]]></title>
+        <link href="https://www.cnblogs.com/xueweihan/p/18860733" />
+        <id>https://www.cnblogs.com/xueweihan/p/18860733</id>
+        <updated>Tue, 06 May 2025 08:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI工具，提示词，开源项目，GitHub，编程
 
 <br><br>总结:
-* 提供Vless协议的V2rayNg配置，声称高速稳定。
-* 鼓励用户通过频道连接并反馈速度。
-* 宣传付费购买更稳定、高速、拥有在线支持的配置服务。
-* 邀请用户试用并保证成为长期客户。
-* 提供购买方式和客户反馈频道链接。
+1. 这篇文章是关于GitHub的热点速览，每周二更新，聚焦最新的开源项目。
+2. 特别关注了类似Cursor的AI编程工具。
+3. 引出了对这些工具背后系统提示词的好奇。
+4. 提及上周出现了汇集各大AI工具提示词的项目。
+5. 目的是向读者推荐值得关注的开源项目。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[HiDNS 域名终身免费计划]]></title>
-        <link href="https://blog.cmliussss.com/p/hidns/" />
-        <id>https://blog.cmliussss.com/p/hidns/</id>
-        <updated>Wed, 30 Apr 2025 16:16:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：HiDNS，免费域名，人工审核，SSL证书，滥用禁止
+        <title><![CDATA[一个包含 80+ C#/.NET 编程技巧实战练习开源项目！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18859538" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18859538</id>
+        <updated>Sun, 04 May 2025 21:41:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: C#, .NET, .NET Core, 编程, 实操
 
 <br><br>总结:
-1. HiDNS 调整免费域名政策，需提交工单人工审核申请。
-2. 获得永久免费资格（至2099年），需将域名绑定博客或其他网络服务，并配置有效SSL证书。
-3. 严禁将免费域名用于非法或滥用行为，如钓鱼网站、盗版内容、病毒传播、垃圾邮件。违规域名将被删除。
-4. 注册账号并验证邮箱后，可搜索可用域名并提交工单申请，承诺合法使用。
-5. 审核通过后，7天内完成域名绑定和SSL配置，即可激活永久免费使用权限。
+该项目是一个C#/.NET/.NET Core编程学习资源合集，包含以下要点：
+1. 提供C#/.NET/.NET Core的常用语法、算法、技巧、中间件和类库。
+2. 包含实际工作业务场景的实操练习。
+3. 配套详细文章教程，帮助快速掌握相关知识。
+4. 是一个全面的学习、工作和面试指南。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[领域驱动设计指南：事实与谬误之DDD 与 MVC]]></title>
+        <link href="https://www.cnblogs.com/mrye/p/18856880" />
+        <id>https://www.cnblogs.com/mrye/p/18856880</id>
+        <updated>Thu, 01 May 2025 20:28:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：领域驱动设计, 分层架构, 特性组织, 代码组织, 现代化
+
+<br><br>总结:
+1. 本文旨在帮助新手理解领域驱动设计(DDD)并避免误入歧途。
+2. 强调理解一项观点提出的历史背景对于掌握其精髓至关重要。
+3. 讨论了分层架构的局限性以及基于特性组织代码的优势，提倡“Package by feature, not layer”。
+4. 介绍了Eleven这一低成本可落地的领域驱动设计技术方案脚手架。
+5. 指出市场上一些关于DDD的软文可能存在误导，需要谨慎辨别。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[分享5款开源、美观的 WinForm UI 控件库]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18856743" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18856743</id>
+        <updated>Thu, 01 May 2025 18:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: WinForm, UI控件库, 开源, 美观, 桌面应用程序
+
+<br><br>总结:
+1. 文章介绍了5款开源、美观的WinForm UI控件库，旨在提升WinForm应用程序的视觉效果。
+2. WinForm是一个传统的桌面应用程序框架，基于Windows原生控件和窗体，开发者可以快速构建应用程序。
+3. 通过使用这些UI控件库，可以使WinForm应用程序更加现代化和用户友好。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[当数据爆炸遇上SQL Server：优化策略全链路解析]]></title>
+        <link href="https://www.cnblogs.com/xiongze520/p/18855686" />
+        <id>https://www.cnblogs.com/xiongze520/p/18855686</id>
+        <updated>Wed, 30 Apr 2025 16:44:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：SQL Server，数据库性能，索引优化，分库分表，架构升级
+
+<br><br>总结:
+1.  在数据驱动时代，数据库性能至关重要，特别是当SQL Server单表达到亿级数据量时。
+2.  面对性能瓶颈，面临分库分表的选择。
+3.  从SQL Server角度出发，优化策略包括索引优化。
+4.  还可以考虑架构升级。
+5.  通过全链路优化策略，期望在海量数据中保持数据库的稳定性与高效性。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个基于 C# Unity 开发的金庸群侠传 3D 版，直呼牛逼！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18855502" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18855502</id>
+        <updated>Wed, 30 Apr 2025 15:26:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： Unity, C#, 金庸群侠传, 3D, 回合制
+
+<br><br>总结:
+要点一：该项目是基于 C# 和 Unity 游戏引擎开发的。
+要点二：它是金庸群侠传的 3D 重制版，唤起了一代人的回忆。
+要点三：游戏类型是回合制战棋战斗的开放世界 RPG。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[WPF封装一个懒加载下拉列表控件(支持搜索)]]></title>
+        <link href="https://www.cnblogs.com/adingfirstlove/p/18855065" />
+        <id>https://www.cnblogs.com/adingfirstlove/p/18855065</id>
+        <updated>Wed, 30 Apr 2025 10:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：WPF, 下拉列表, 懒加载, 虚拟化, 模糊过滤
+
+<br><br>总结:
+1.  现有的WPF下拉列表组件无法满足需求，缺乏懒加载功能。
+2.  因此，开发了一个自定义WPF下拉列表控件，该控件集成了懒加载和模糊过滤功能。
+3.  控件采用虚拟化技术，优化了大数据量情况下的渲染性能，避免卡顿问题。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[SQL Server 2025 中的改进]]></title>
+        <link href="https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features" />
+        <id>https://www.cnblogs.com/lyhabc/p/18847542/sql-server-2025-new-features</id>
+        <updated>Wed, 30 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[SQL Server 2025, Azure SQL DB, 功能同步, 盒装产品, 云技术
+
+<br><br>总结:
+1. SQL Server 2025 旨在引入 Azure SQL DB 中已有的功能，实现云技术与盒装产品的同步。
+2. 微软过去常将 Azure SQL DB 作为盒装产品的“下一代”功能预览平台。
+3. 文章将探讨 Azure SQL DB 中已发布或未发布但尚未包含在 SQL Server 盒装产品中的功能。
+4.  目标是提前了解 SQL Server 2025 可能带来的改进。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[根据点信息生成道路以及路口]]></title>
+        <link href="https://www.cnblogs.com/codeOnMar/p/18454913" />
+        <id>https://www.cnblogs.com/codeOnMar/p/18454913</id>
+        <updated>Tue, 29 Apr 2025 15:30:00 +0800</updated>
+        <summary type="html"><![CDATA[道路生成, 路口生成, 随机点, 道路扩展, 车道方向
+
+<br><br>总结:
+一、目标：
+1.  利用随机点生成具有一定宽度的道路，包含路沿点、道路中心点，并区分上下行车道，根据车道方向生成点的方向。
+2.  自动计算道路交叉位置生成路口，优化车辆拐弯计算和美观性，避免线路交叉。
+
+二、实现原理（文章后续内容未提供，无法总结）。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[​.NET AI 模板 Preview 2 发布：从 .NET Aspire 支持到 Qdrant 向量数据库集成，助您快速构建云原生 AI 应用]]></title>
+        <link href="https://www.cnblogs.com/code-daily/p/18853385" />
+        <id>https://www.cnblogs.com/code-daily/p/18853385</id>
+        <updated>Tue, 29 Apr 2025 11:41:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：.NET AI 模板, Preview 2, 微软, AI开发, 效率
+
+<br><br>总结:
+1. 微软 .NET 团队发布了 .NET AI 模板的 Preview 2 版本，旨在满足开发者对简单高效AI开发工具的需求。
+2. Preview 2 版本带来了诸多新功能和改进，提升开发效率。
+3.  .NET AI 模板 助力开发者更便捷地进行AI开发。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18852627" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18852627</id>
+        <updated>Tue, 29 Apr 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: EF Core 10, LeftJoin, RightJoin, LINQ, 查询
+
+<br><br>总结:
+1. EF Core 10 新增了对 LINQ 中 LeftJoin 和 RightJoin 运算符的支持。
+2. 在 EF Core 10 之前，实现 LEFT JOIN 需要使用复杂的组合查询，涉及 SelectMany、GroupJoin 和 DefaultIfEmpty。
+3. 新功能简化了 LINQ 查询，使得执行 LeftJoin 和 RightJoin 操作更加方便高效。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Promise 这个新 API 真香！]]></title>
+        <link href="https://www.cnblogs.com/leadingcode/p/18851970" />
+        <id>https://www.cnblogs.com/leadingcode/p/18851970</id>
+        <updated>Mon, 28 Apr 2025 16:41:00 +0800</updated>
+        <summary type="html"><![CDATA[异步, Promise, 处理, 操作, 神器
+
+<br><br>总结:
+*   文章介绍了Promise在异步处理中的重要作用。
+*   Promise被认为是处理异步操作的神器。
+*   文章鼓励读者点赞、评论和转发以示支持。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[为什么多智能体不会成功？]]></title>
+        <link href="https://www.cnblogs.com/yexiaochai/p/18851347" />
+        <id>https://www.cnblogs.com/yexiaochai/p/18851347</id>
+        <updated>Mon, 28 Apr 2025 12:14:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI Agent，项目陪跑，低价竞争，市场抢占，产品打磨
+
+<br><br>总结:
+1. 作者提供AI咨询和项目陪跑服务，关注AI Agent项目。
+2. 观察到许多AI Agent项目表现不佳。
+3. 一些公司利用低价策略和PPT快速抢占市场。
+4. 这种策略挤压了踏实打磨产品的团队的生存空间和试错机会。
+5. 导致一些团队被迫跟进低价竞争，影响了产品质量。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[聊聊@Autowired与@Resource的区别]]></title>
+        <link href="https://www.cnblogs.com/zwwhnly/p/18851001" />
+        <id>https://www.cnblogs.com/zwwhnly/p/18851001</id>
+        <updated>Mon, 28 Apr 2025 09:34:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词： `@Autowired`，`@Resource`，依赖注入，注解，代码规范
+
+<br><br>总结:
+
+1.  **问题提出:** 作者观察到项目中使用`@Autowired`和`@Resource`注解进行依赖注入的方式非常混乱，缺乏统一规范。
+2.  **影响:** 这种混乱虽然不影响业务功能，但影响代码的可读性和维护性，导致代码风格不一致。
+3.  **目的:** 文章旨在探讨如何规范使用这两个注解，提高代码质量。
+4.  **可能的解决方案:** （文章后续可能分析`@Autowired`和`@Resource`的区别，并提出使用建议和规范。）
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《HelloGitHub》第 109 期]]></title>
+        <link href="https://www.cnblogs.com/xueweihan/p/18850411" />
+        <id>https://www.cnblogs.com/xueweihan/p/18850411</id>
+        <updated>Mon, 28 Apr 2025 08:26:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：HelloGitHub, 开源项目, GitHub, 有趣, 入门级
+
+<br><br>总结:
+1. HelloGitHub是一个分享GitHub上有趣、入门级开源项目的平台。
+2. 项目类型丰富，包括实战项目、入门教程、黑科技、开源书籍、大厂开源项目等。
+3. 涵盖多种编程语言，如Python等。
+4. 旨在激发用户对开源的兴趣。
+5. 网址为github.com/521xueweihan/HelloGitHub。
 ]]></summary>
     </entry>
     
