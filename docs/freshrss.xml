@@ -2,85 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.us.kg" />
-    <updated>Wed, 07 May 2025 06:27:27 GMT</updated>
+    <updated>Wed, 07 May 2025 08:26:27 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[我不写名字/GB28181-Service]]></title>
-        <link href="https://gitee.com/yszs/sip-service" />
-        <id>https://gitee.com/yszs/sip-service</id>
-        <updated>Wed, 07 May 2025 20:12:33 +0800</updated>
-        <summary type="html"><![CDATA[GB28181, ZLMediaKit, 服务器, 客户端, 测试
+        <title><![CDATA[Liu Jie/RPALite]]></title>
+        <link href="https://gitee.com/jieliu2000/rpalite" />
+        <id>https://gitee.com/jieliu2000/rpalite</id>
+        <updated>Wed, 07 May 2025 06:13:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词: RPA, 开源, 自动化, 机器人, 库
 
 <br><br>总结:
-1.  这是一个基于ZLMediaKit的简易GB28181服务器实现。
-2.  它同时提供了一个客户端，用于测试服务器的功能。
-3.  该项目支持Windows和Linux操作系统。
+1.  文章主要介绍了一个开源的RPA库。
+2.  该库旨在帮助开发者更容易地实现自动化任务。
+3.  RPA可以用于模拟人工操作，例如填写表格、移动文件等。
+4.  开源特性意味着可以免费使用、修改和分发。
+5.  该库降低了企业采用RPA技术的门槛，促进了自动化应用的普及。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[解密AI知识库]]></title>
-        <link href="https://www.cnblogs.com/BNTang/p/18861128" />
-        <id>https://www.cnblogs.com/BNTang/p/18861128</id>
-        <updated>Tue, 06 May 2025 10:50:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI知识库，技术局限，重排序模型，数据库，优化
+        <title><![CDATA[Ascend/Mind-KernelInfra]]></title>
+        <link href="https://gitee.com/ascend/Mind-KernelInfra" />
+        <id>https://gitee.com/ascend/Mind-KernelInfra</id>
+        <updated>Wed, 07 May 2025 01:54:16 +0800</updated>
+        <summary type="html"><![CDATA[算子公共平台，算子库，加速库，南向对接，北向支撑
 
 <br><br>总结:
-*  AI知识库并非简单导入资料即可完美运行，实际效果常不如预期。
-*  文章分析了AI知识库的技术原理及其局限性。
-*  提出了进阶方案，包括使用重排序模型和数据库（MCPs）。
-*  这些方法旨在优化AI知识库的性能，提升其准确性和可靠性。
+该文章介绍了算子公共平台的核心功能：
+
+1.  该平台旨在实现算子能力的复用。
+2.  它通过南向接口对接来自不同组织的算子库，汇集多种算子。
+3.  同时，它通过北向接口支撑不同的加速库应用，使得这些应用能够利用平台上的算子能力。
+4. 最终达到 M x N 的算子能力复用效果。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vless://e13dc928-2afb-4ede-839b-40b0ab07122c@51.77.110.211:22351?security=none&encryption=none&headerType=none&type=tcp#V2rayNg_madam ➖➖➖حمایت...]]></title>
-        <link href="https://t.me/V2rayNg_madam/4463" />
-        <id>https://t.me/V2rayNg_madam/4463</id>
-        <updated>Wed, 07 May 2025 05:01:22 +0800</updated>
-        <summary type="html"><![CDATA[VLESS, V2rayNg, 高速, 稳定, 购买
+        <title><![CDATA[日常问题排查-空闲一段时间再请求就超时]]></title>
+        <link href="https://www.cnblogs.com/alchemystar/p/18860539" />
+        <id>https://www.cnblogs.com/alchemystar/p/18860539</id>
+        <updated>Tue, 06 May 2025 09:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：TCP/IP路由，路由技术，路由选择，网络问题，解决方案
 
 <br><br>总结:
-1. 提供VLESS协议的V2rayNg配置，声称连接速度快且稳定。
-2. 鼓励用户测试连接，并反馈速度。
-3. 提供在线支持和购买服务。
-4. 强调客户满意度，希望能建立长期客户关系。
-5. 推广销售渠道。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[HiDNS 域名终身免费计划]]></title>
-        <link href="https://blog.cmliussss.com/p/hidns/" />
-        <id>https://blog.cmliussss.com/p/hidns/</id>
-        <updated>Wed, 30 Apr 2025 16:16:12 +0800</updated>
-        <summary type="html"><![CDATA[HiDNS, 免费域名, 终身免费, SSL证书, 人工审核
-
-<br><br>总结:
-1. HiDNS调整免费域名政策，需工单人工审核申请。
-2. 成功绑定域名至博客/网络服务，配置有效SSL证书，可获终身免费（至2099年底）。
-3. 严禁用于非法/滥用行为，违规域名将被删除。
-4. 申请步骤：注册账号验证邮件->检查域名可用性->提交工单申请，承诺合法用途。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Rybbit：开源、轻量、高颜值网站流量统计工具搭建教程]]></title>
-        <link href="https://uuzi.net/rybbit-setup-guide/" />
-        <id>https://uuzi.net/rybbit-setup-guide/</id>
-        <updated>Tue, 06 May 2025 20:57:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Umami, Rybbit, 可视化, 隐私, 自部署
-
-<br><br>总结:
-1. 作者一直喜欢 Umami。
-2. Rybbit 因为其直观的界面和炫酷的可视化效果吸引了作者。
-3. Rybbit 提供了全面的预构建分析仪表盘。
-4. Rybbit 无 Cookie，保护隐私。
-5. Rybbit 可以轻松自部署，值得尝试。
+要点1：作者一直遇到网络问题，并且存在解决方案，但从未深入思考。
+要点2：阅读《TCP/IP路由技术》卷二时，书中内容启发了作者。
+要点3：该书的阐述与作者遇到的网络问题之间存在关联，使得作者顿悟。
+要点4：作者找到了理解问题的关键和深层原因。
 ]]></summary>
     </entry>
     
