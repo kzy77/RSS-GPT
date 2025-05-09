@@ -1,54 +1,55 @@
 ------------------------------------------------------
-Started: 2025-05-09 01:27:23.107000
-Existing_entries: 6
+Started: 2025-05-09 03:09:12.177934
+Existing_entries: 16
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 219
+Token length: 278
 Summarized using gemini model: gemini-2.0-flash
-Append: [解财报丨一季度净利润同比大增166.5% 毛利率徘徊在近年低位 中芯国际陷入成本拉锯战？](https://www.yicai.com/live/102604898.html)
-Token length: 1107
+Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
+Token length: 669
 Summarized using gemini model: gemini-2.0-flash
-Append: [独家丨极氪开启渠道变革，引入代理制模式](https://www.yicai.com/news/102606099.html)
-Token length: 3323
+Append: [美籍枢机主教，首次当选罗马教皇](https://www.huxiu.com/article/4328962.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'Visibility check was unavailable. Please retry the request and contact support if the problem persists', 'status': 'UNAVAILABLE'}}
+Append: [滚动更新丨银行股表现活跃；港股沪上阿姨跌超10%](https://www.yicai.com/news/102606341.html)
+Token length: 3624
 Summarized using gemini model: gemini-2.0-flash
-Append: [中方再回应中美经贸高层会谈；普雷沃斯特当选新一任天主教罗马教皇](https://www.yicai.com/news/102606131.html)
-Token length: 3146
+Append: [自动化、电商、啤酒三大行业领军企业季度业绩均超预期](https://www.yicai.com/news/102606283.html)
+Token length: 1289
 Summarized using gemini model: gemini-2.0-flash
-Append: [默茨惊险过关，打造“经理人内阁”](https://www.huxiu.com/article/4328892.html)
-Token length: 1229
+Append: [阿里CEO吴泳铭内网发帖：回归初心，重新创业](https://www.yicai.com/news/102606320.html)
+Token length: 1450
 Summarized using gemini model: gemini-2.0-flash
-Append: [“朱砂行动”48小时：印巴高强度对抗持续 巴称没有缓和空间](https://www.yicai.com/news/102606093.html)
-Token length: 3396
+Append: [美国金融圈闭门会火药味十足：Ackman怒怼莱特希泽，姆努钦当场反击投资人](https://wallstreetcn.com/articles/3746751)
+Token length: 4688
 Summarized using gemini model: gemini-2.0-flash
-Append: [中华人民共和国和俄罗斯联邦关于全球战略稳定的联合声明](https://www.yicai.com/news/102606088.html)
-Token length: 2025
+Append: [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
+Token length: 1433
 Summarized using gemini model: gemini-2.0-flash
-Append: [英美就关税贸易协议条款达成一致；中芯国际一季度净利同比增166.5%](https://www.yicai.com/news/102606083.html)
-Token length: 5945
+Append: [保证断电、碰撞等事故中车门系统能够开启！汽车车门把手将迎来强制性国家标准](https://m.thepaper.cn/detail/30787040)
+Token length: 959
 Summarized using gemini model: gemini-2.0-flash
-Append: [华尔街见闻早餐FM-Radio | 2025年5月9日](https://wallstreetcn.com/articles/3746736)
-Token length: 1691
+Append: [马上评｜让“贾宝玉是长子长孙”争议回归理性讨论](https://m.thepaper.cn/detail/30786958)
+Token length: 3102
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普喊“买股票”、放话不想轰炸伊朗，盘中美股指涨超1%、美油涨超3%](https://wallstreetcn.com/articles/3746730)
-Token length: 2629
+Append: [俄罗斯今日将举行“胜利日”阅兵，有何看点？](https://m.thepaper.cn/detail/30786945)
+Token length: 12586
 Summarized using gemini model: gemini-2.0-flash
-Append: [半成品手机日益流行：厂商「先上车再补票」，背刺用户何时休？](https://www.36kr.com/p/3283692169111046)
-Token length: 77
+Append: [中华人民共和国和俄罗斯联邦在纪念中国人民抗日战争、苏联伟大卫国战争胜利和联合国成立80周年之际关于进一步深化中俄新时代全面战略协作伙伴关系的联合声明](https://m.thepaper.cn/detail/30787075)
+Token length: 2820
 Summarized using gemini model: gemini-2.0-flash
-Append: [外交部答澎湃：坚决反对美国务卿恶意攻击中国，加勒比国家不需要“教师爷”](https://m.thepaper.cn/detail/30785147)
-Token length: 208
+Append: [中国汽车，开始「量产博世」](https://www.36kr.com/p/3283826331820931)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'Visibility check was unavailable. Please retry the request and contact support if the problem persists', 'status': 'UNAVAILABLE'}}
+Append: [李斌洗牌，乐道找蔚来](https://www.36kr.com/p/3283824174703494)
+Token length: 8160
 Summarized using gemini model: gemini-2.0-flash
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 1077
+Append: [全球首个，最接近原版DeepSeek开源复现来了，R1四个月狂飙26倍](https://www.36kr.com/p/3283773295289220)
+Token length: 222
 Summarized using gemini model: gemini-2.0-flash
-Append: [美英达成新贸易协议，推动美股上扬，纳指涨逾1%](https://www.yicai.com/news/102606071.html)
-Token length: 554
+Append: [国防部：奉劝有关国家不要引狼入室，甘当棋子](https://m.thepaper.cn/detail/30785094)
+Token length: 1522
 Summarized using gemini model: gemini-2.0-flash
-Append: [首批证券公司科创债来了！拟发行规模超160亿元](https://m.thepaper.cn/detail/30786018)
-Token length: 1240
+Append: [对话哭泣照被恶意盗用成“高潮针”配图女生：难过又屈辱](https://m.thepaper.cn/detail/30784344)
+Token length: 701
 Summarized using gemini model: gemini-2.0-flash
-Append: [巴菲特“最后豪赌”失灵？西方石油股价跌至三年低点，伯克希尔损失64亿美元](https://wallstreetcn.com/articles/3746715)
-Token length: 1662
-Summarized using gemini model: gemini-2.0-flash
-Append: [暴跌-7.5%...谷歌的“雅虎时刻”？](https://wallstreetcn.com/articles/3746651)
-append_entries: 16
-Finish: 2025-05-09 01:28:34.768113
+Append: [突发！Cursor Pro和Gemini Pro相继向学生免费开放使用1年！速看申请攻略](https://juejin.cn/post/7501235908777787401)
+append_entries: 17
+Finish: 2025-05-09 03:10:24.109162
