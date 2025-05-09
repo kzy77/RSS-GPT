@@ -1,55 +1,36 @@
 ------------------------------------------------------
-Started: 2025-05-09 03:09:12.177934
-Existing_entries: 16
+Started: 2025-05-09 04:22:33.800379
+Existing_entries: 17
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 278
+Token length: 209
 Summarized using gemini model: gemini-2.0-flash
-Append: [抖音 ‧ 总榜](https://tophub.today/n/DpQvNABoNE)
-Token length: 669
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 1558
 Summarized using gemini model: gemini-2.0-flash
-Append: [美籍枢机主教，首次当选罗马教皇](https://www.huxiu.com/article/4328962.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'Visibility check was unavailable. Please retry the request and contact support if the problem persists', 'status': 'UNAVAILABLE'}}
-Append: [滚动更新丨银行股表现活跃；港股沪上阿姨跌超10%](https://www.yicai.com/news/102606341.html)
-Token length: 3624
+Append: [多项就业增量政策出台，助力个人职业发展与企业稳岗](https://www.yicai.com/news/102597391.html)
+Token length: 1677
 Summarized using gemini model: gemini-2.0-flash
-Append: [自动化、电商、啤酒三大行业领军企业季度业绩均超预期](https://www.yicai.com/news/102606283.html)
-Token length: 1289
+Append: [今年前4个月我国货物贸易进出口同比增长2.4%](https://www.yicai.com/news/102606623.html)
+Token length: 1222
 Summarized using gemini model: gemini-2.0-flash
-Append: [阿里CEO吴泳铭内网发帖：回归初心，重新创业](https://www.yicai.com/news/102606320.html)
-Token length: 1450
+Append: [中芯国际股价走弱，一季度受突发事件影响收入未达预期](https://www.yicai.com/news/102606509.html)
+Token length: 2223
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国金融圈闭门会火药味十足：Ackman怒怼莱特希泽，姆努钦当场反击投资人](https://wallstreetcn.com/articles/3746751)
-Token length: 4688
+Append: [Stripe借势AI招揽中国企业出海生意](https://www.yicai.com/news/102606465.html)
+Token length: 90
 Summarized using gemini model: gemini-2.0-flash
-Append: [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
-Token length: 1433
+Append: [甘肃省政府原副省长赵金云被决定逮捕](https://m.thepaper.cn/detail/30790042)
+Token length: 3043
 Summarized using gemini model: gemini-2.0-flash
-Append: [保证断电、碰撞等事故中车门系统能够开启！汽车车门把手将迎来强制性国家标准](https://m.thepaper.cn/detail/30787040)
-Token length: 959
+Append: [英美协议的意义：10%关税是特朗普底线，汽车关税调整或成模版](https://wallstreetcn.com/articles/3746750)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜让“贾宝玉是长子长孙”争议回归理性讨论](https://m.thepaper.cn/detail/30786958)
-Token length: 3102
+Append: [在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！](https://www.cnblogs.com/Can-daydayup/p/18867416)
+Token length: 136
 Summarized using gemini model: gemini-2.0-flash
-Append: [俄罗斯今日将举行“胜利日”阅兵，有何看点？](https://m.thepaper.cn/detail/30786945)
-Token length: 12586
+Append: [普雷沃斯特当选新一任天主教罗马教皇](https://m.thepaper.cn/detail/30787087)
+Token length: 1140
 Summarized using gemini model: gemini-2.0-flash
-Append: [中华人民共和国和俄罗斯联邦在纪念中国人民抗日战争、苏联伟大卫国战争胜利和联合国成立80周年之际关于进一步深化中俄新时代全面战略协作伙伴关系的联合声明](https://m.thepaper.cn/detail/30787075)
-Token length: 2820
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国汽车，开始「量产博世」](https://www.36kr.com/p/3283826331820931)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'Visibility check was unavailable. Please retry the request and contact support if the problem persists', 'status': 'UNAVAILABLE'}}
-Append: [李斌洗牌，乐道找蔚来](https://www.36kr.com/p/3283824174703494)
-Token length: 8160
-Summarized using gemini model: gemini-2.0-flash
-Append: [全球首个，最接近原版DeepSeek开源复现来了，R1四个月狂飙26倍](https://www.36kr.com/p/3283773295289220)
-Token length: 222
-Summarized using gemini model: gemini-2.0-flash
-Append: [国防部：奉劝有关国家不要引狼入室，甘当棋子](https://m.thepaper.cn/detail/30785094)
-Token length: 1522
-Summarized using gemini model: gemini-2.0-flash
-Append: [对话哭泣照被恶意盗用成“高潮针”配图女生：难过又屈辱](https://m.thepaper.cn/detail/30784344)
-Token length: 701
-Summarized using gemini model: gemini-2.0-flash
-Append: [突发！Cursor Pro和Gemini Pro相继向学生免费开放使用1年！速看申请攻略](https://juejin.cn/post/7501235908777787401)
-append_entries: 17
-Finish: 2025-05-09 03:10:24.109162
+Append: [零一万物联创戴宗宏离职创业 | 智能涌现独家](https://www.36kr.com/p/3283806143718275)
+append_entries: 10
+Finish: 2025-05-09 04:22:48.006619
