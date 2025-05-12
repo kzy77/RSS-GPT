@@ -2,79 +2,414 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-05-12T04:23:41Z</updated>
+    <updated>2025-05-12T06:30:56Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[何嘉悦/Element-Plus-X]]></title>
-        <link href="https://gitee.com/he-jiayue/element-plus-x" />
-        <id>https://gitee.com/he-jiayue/element-plus-x</id>
-        <updated>Mon, 12 May 2025 17:01:03 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Vue3, Element-Plus, AI组件, 企业级, 开箱即用
+        <title><![CDATA[成立十周年，傅利叶要把人形机器人带进康养场景 | 最前线]]></title>
+        <link href="https://www.36kr.com/p/3287569366459272" />
+        <id>https://www.36kr.com/p/3287569366459272</id>
+        <updated>Sun, 11 May 2025 19:50:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 具身智能, 康复医疗, 人形机器人, 商业化, 交互性
 
 <br><br>总结:
-1.  该项目是一个基于 Vue3 和 Element-Plus 的前端解决方案。
-2.  它提供了一系列开箱即用的企业级 AI 组件。
-3.  旨在简化AI应用的前端开发流程。
-4.  它是一个组件库。
+1. 傅利叶等公司积极探索具身智能在医疗康复场景的应用，与上海国际医学中心合作建立示范基地。
+2. 傅利叶创始人顾捷提出“立足康养、聚焦交互、服务于人”的战略，强调以人为中心的具身智能。
+3. 康养场景对具身智能的需求包括交互性、情绪价值、感知能力和AI思考反馈。
+4. 具身智能在康养领域落地面临技术、临床、监管等问题，如医疗许可证和临床应用局限。
+5. 康养机器人的关键在于有效性和安全性，需要医生、工程师和科研院校共同努力，构建生态体系。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-05T03:54:12.123-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云 VPS 免费 配置 流量 注册 验证 账号 创建 VM 实例 防火墙 SSH 登录 科学上网 搭建节点<br><br>总结: 本文介绍了如何利用谷歌云免费提供的VPS进行科学上网，包括注册验证账号、创建免费VM实例、开放防火墙、SSH登录方式、科学上网注意事项和搭建Hysteria 2节点等内容。建议选择俄勒冈地区配置E2-micro机器，在云数据上传公钥实现SSH登录，注意免费政策包括入站全免费和出站前200GB免费。搭建科学上网节点时可以选择H-UI、S-UI面板或使用甬哥一键脚本，注意避免使用Cloudflare CDN流量和Argo隧道类型。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-04-28T20:07:11.529-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, Memos, AList
+        <title><![CDATA[最前线 | 商用车电动化再加速，亿纬锂能发布八款商用车电池]]></title>
+        <link href="https://www.36kr.com/p/3287912326521734" />
+        <id>https://www.36kr.com/p/3287912326521734</id>
+        <updated>Sun, 11 May 2025 16:01:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：亿纬锂能, 商用车, 电池, 开源, 电动化
 
-Github注册时间大于180天的用户可以免费获得5美元赠金，用于长期免费使用 Claw Cloud Run。可以在该平台上搭建各种Docker应用，可以在应用商店一键自动部署，也可以手动部署。用户可以通过访问https://api.github.com/users/XXX来查看自己的Github注册时间。推荐两款应用：Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可参考Youtube视频。<br><br>总结: Claw Cloud Run是一款免费容器服务，用户可以通过Github注册时间来获得5美元赠金，实现长期免费使用。用户可以自主部署各种Docker应用，并可以使用推荐的Memos和AList应用。]]></summary>
+<br><br>总结:
+1. 亿纬锂能在首届商用车电池科技日发布第三代开源电池，旨在为商用车用户提升营运能力和盈利价值。
+2. 亿纬锂能推出了8款开源电池，覆盖微面、轻卡、重卡、客车和工程机械等全场景工况需求，提供全场景解决方案。
+3. 针对城市物流，推出LF125P、LM254和LF324S电池，分别适用于微面、轻卡和客车，具有快充、长续航和长质保等特点。
+4. 针对工程机械，推出LF628电池，具备高集成、快速装配和超长循环寿命等优势。
+5. 针对重卡市场，推出四款CTB技术架构产品，覆盖短倒运输和干线物流等场景，通过兆瓦级快充、高集成、降低高度和提升续航等方式，提高用户收益。
+6. 亿纬锂能采用LMX化学材料体系、极简设计和第三代3D液冷技术，提升电池能量密度、降低零部件数量和优化热管理。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Github仓库，Cloudflare，域名，续期，教程
+        <title><![CDATA[单店一天卖60万、7年持续火爆，揭秘全球最火饮品店]]></title>
+        <link href="https://www.36kr.com/p/3287532035171202" />
+        <id>https://www.36kr.com/p/3287532035171202</id>
+        <updated>Sun, 11 May 2025 15:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 景点式门店, 品牌出圈, 在地文化, 商业景观, 独一无二
+
+<br><br>总结:
+1. “景点式门店”成为品牌出圈新路径，通过绑定在地文化，将门店转化为具有独特体验和情绪价值的文化空间，将品牌从功能提供者升级为意义创造者。
+2.  打造“景点式门店”需深入挖掘当地文化内涵，从自然地理环境演变出的生活美学和哲学入手，呼应顾客的精神世界，使消费者产生情感共鸣，愿意多次打卡和传播。
+3.  除了文化挖掘，为门店策划“独一无二”的标签是吸引流量的关键，如“全球首家”、“最大门店”等，再配合与之匹配的特色打卡点，让消费者获得物质和精神的双重满足。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[徐小夕/rean-editor]]></title>
+        <link href="https://gitee.com/lowcode-china/rean-editor" />
+        <id>https://gitee.com/lowcode-china/rean-editor</id>
+        <updated>Mon, 12 May 2025 21:59:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：动画可视化编辑器, 时间轨道, 动画编辑器, 视频导出, GIF导出
+
+<br><br>总结:
+1. 这是一款动画可视化编辑器，操作简单，无需复杂配置即可使用。
+2. 它支持时间轨道，方便用户对动画进行精细的时间轴控制。
+3. 编辑器内置动画编辑器，提供丰富的动画编辑功能。
+4. 用户可以将制作完成的动画导出为视频格式。
+5. 同时，也支持将动画导出为GIF动态图片。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[微信 ‧ 24h热文榜]]></title>
+        <link href="https://tophub.today/n/WnBe01o371" />
+        <id>https://tophub.today/n/WnBe01o371</id>
+        <updated>Mon, 12 May 2025 14:03:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词：排名，热度，数据，趋势，前30
+
+<br><br>总结:
+1. 这篇文章展示了一个排名前30的数据列表，每个条目都对应一个热度值。
+2. 前14名的热度均为10.0万，表明该部分内容非常热门。
+3. 排名15到30的热度值逐渐下降，从9.4万到5.8万不等。
+4. 整体趋势显示，排名越靠前，热度越高，但前14名热度相同，说明存在头部效应。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[史上最有财力“反川联盟”悄然形成]]></title>
+        <link href="https://www.huxiu.com/article/4339679.html" />
+        <id>https://www.huxiu.com/article/4339679.html</id>
+        <updated>Mon, 12 May 2025 13:56:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 基金会, 免税地位, 学术独立, 高校联盟
+
+<br><br>总结:
+1. 特朗普政府通过冻结资金、审查免税资格和提高大学捐赠基金税率等手段，对包括哈佛大学在内的非营利机构施压，旨在挑战其学术独立性和财政自主权。
+2. 以福特、盖茨等为首的大型基金会联合组建非正式联盟，共同商讨法律对策，旨在捍卫免税地位和慈善自由，对抗政府的威胁。
+3. 高校联盟划定红线，坚决维护招生、招聘、教学及学术研究的自主权，拒绝以妥协政府要求为代价。
+4. 哥伦比亚大学因联邦拨款被撤销已裁员180人，表明政府的行动已经对高校的研究和员工队伍产生了实际影响。
+5. 各方力量正在筹备法律反击，强调政府撤销免税地位的行为威胁了美国慈善体系的根基，预示着一场围绕免税地位和学术自由的长期斗争。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[建设中国大腹地，打造内循环主平台]]></title>
+        <link href="https://www.yicai.com/news/102609165.html" />
+        <id>https://www.yicai.com/news/102609165.html</id>
+        <updated>Mon, 12 May 2025 13:06:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大腹地，内循环，经济亚洲，陆海联动，新增长极
+
+<br><br>总结:
+1.  **战略背景：** 世界贸易碎片化加剧，中国经济转向内需驱动，国家提出加强国家战略腹地建设。
+2.  **战略构想：** 聚焦四川、重庆、陕西等十省份，构建“大腹地”经济空间，覆盖人口超5亿，经济总量占全国30%。
+3.  **空间维度：** 划分为“腹三角”核心战略腹地，天元城市群支撑，以及十省份联动发展的扩展圈层。
+4.  **区位优势：** 大腹地是西部陆海新通道、丝绸之路经济带和长江经济带的交汇点，基础设施完善，人口回流趋势明显。
+5.  **多重角色：** 大腹地是中国内循环的主平台，是“经济亚洲”的腹地，是数字时代的山水乐地和新质生产力增长极，也是安全和发展重地。
+6.  **政策建议：** 将大腹地战略纳入国家规划，升级中国-东盟自贸区，倾斜国家级公共资源，引导企业布局，建立国家实验室，完善市场机制，促进区域协同和产业安全。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[知名音乐人送院多日抢救无效去世，专家称这种情况发生5分钟以上很难苏醒]]></title>
+        <link href="https://www.yicai.com/news/102609229.html" />
+        <id>https://www.yicai.com/news/102609229.html</id>
+        <updated>Mon, 12 May 2025 12:42:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词：运动性猝死, 心源性猝死, 心率, 心肺复苏, 冠心病
+
+<br><br>总结:
+1. 运动性猝死不仅发生在运动员中，也发生在普通人中，尤其是在中老年人群体中，常见原因是心源性猝死，约占70%，与先天性心脏病、心肌炎、冠心病等基础疾病有关。
+2. 预防运动性心梗需关注运动心率，控制在“220-年龄”范围内，避免心脏“超速”。运动前兆如胸痛、胸闷、头晕等应立即停止运动并就医。
+3. 可穿戴设备可监测心率，帮助控制运动量。
+4. 心脏骤停急救需在5分钟内进行心肺复苏或使用AED，5分钟以上救治困难，半小时以上基本无法挽救。
+5. 需重视冠心病的早期筛查，因其是导致猝死的重要风险因素，且发病率呈年轻化趋势。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[智库报告：战略腹地建设可释放数万亿美元增长潜能]]></title>
+        <link href="https://www.yicai.com/news/102609168.html" />
+        <id>https://www.yicai.com/news/102609168.html</id>
+        <updated>Mon, 12 May 2025 12:00:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大腹地战略, 内循环, 区域协调发展, 内需驱动, 消费升级
+
+<br><br>总结:
+1.  报告建议将中国大腹地建设上升为国家战略，通过“十五五”规划明确其功能定位与发展路径，以应对贸易碎片化和经济发展进入内需驱动阶段的挑战。
+2.  中国大腹地战略聚焦四川、重庆等十省市，构建“大腹地”经济空间，打破沿海优先路径依赖，将腹地提升为新发展格局的主体承载区。
+3.  报告以“三级圈层结构”定义中国大腹地，核心圈层为“腹三角”，二级圈层为城市群，三级圈层为联动发展网络，通过层级递进的辐射模式实现功能传导与资源整合。
+4.  大腹地拥有人口基数与结构优势，其差异化的消费文化与偏好成为撬动内需升级的关键，是历史文化与旅游资源的核心聚集区，也是新消费IP的涌现地。
+5.  通过区域协调发展战略激活内陆市场潜力，实现发展成果由沿海向内陆渗透，为中国经济转型升级提供支撑。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[美国拟大降药价，百济神州、和黄医药等港股药企股价下跌]]></title>
+        <link href="https://www.yicai.com/news/102609180.html" />
+        <id>https://www.yicai.com/news/102609180.html</id>
+        <updated>Mon, 12 May 2025 11:59:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美国 创新药 降价 百济神州 港股
+
+<br><br>总结:
+1. 特朗普政府拟签署行政命令，旨在降低美国处方药和医药产品价格30%至80%。
+2. 美国是全球创新药最大市场，高药价吸引众多药企。
+3. 消息引发市场对相关药企股价的担忧，部分在美上市创新药的港股药企股价出现波动。
+4. 百济神州在美国市场销售额占其总收入一半以上，降价政策可能对其经营产生影响。
+5. 药企对降价政策持观望态度，表示需要进一步评估。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取 Cursor Pro 学生高级账号！申请流程与功能测试，价值高达 240 美元！]]></title>
+        <link href="https://www.freedidi.com/19428.html" />
+        <id>https://www.freedidi.com/19428.html</id>
+        <updated>Mon, 12 May 2025 11:45:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Cursor Pro，学生，免费订阅，edu邮箱，身份验证
+
+<br><br>总结:
+1. Cursor Pro为全球学生提供价值240美元的免费订阅一年方案。
+2. 免费方案包括每月500次高速AI请求和无限标准请求额度，以及Pro版完整功能权限。
+3. 学生需要使用学校或政府教育机构邮箱进行身份验证。
+4. 如果没有edu邮箱，可以注册免费的美国edu邮箱（提供注册教程及虚拟身份生成器）。
+5. 注册edu邮箱时需注意年龄等信息，确保与学籍资料相符，避免验证失败。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[否认风阻系数造假，阿维塔发律师函：要求删除不实言论并公开道歉]]></title>
+        <link href="https://www.yicai.com/news/102609101.html" />
+        <id>https://www.yicai.com/news/102609101.html</id>
+        <updated>Mon, 12 May 2025 11:17:42 +0800</updated>
+        <summary type="html"><![CDATA[律师函，阿维塔12，风阻系数，不实言论，道歉声明
+
+<br><br>总结:
+1. 阿维塔科技法务部向博主“苏黎世贝勒爷”发出律师函，要求其删除5月2日-5月10日期间发布的关于阿维塔12风阻系数测试的不实言论。
+2. 律师函要求博主在全网各平台账号上置顶道歉声明三十日，以消除负面影响。
+3. 博主发布文章和视频，质疑阿维塔12的风阻系数，引发关注。
+4. 阿维塔公开直播了在中国汽车工程研究院风洞实验室进行的风阻系数测试，并由权威机构实测和公证处公证，最终测得风阻系数Cd为0.217（120kph风速下）。
+5. 阿维塔认为博主持续发文引导舆论，损害了品牌声誉，目前博主尚未公开回应。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[母亲节来了：周末迎来出游小高峰，妈妈们都爱去哪儿]]></title>
+        <link href="https://www.yicai.com/news/102608383.html" />
+        <id>https://www.yicai.com/news/102608383.html</id>
+        <updated>Mon, 12 May 2025 11:16:47 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 母亲节, 女性游客, 短途家庭游, 银发族, 错峰游
+
+<br><br>总结:
+1. 母亲节周末迎来旅游小高峰，女性游客占比超65%，其中80后、90后妈妈是主力，偏好本地及周边短途家庭游。
+2. 银发族妈妈倾向于跟团游，选择更远的长线旅途，偏爱自然风光。
+3. 不同年龄段妈妈偏好的景区类型不同，30-40岁偏好亲子乐园，40-50岁偏爱人文景观，50岁以上偏爱自然景观。
+4. 母亲节后错峰游热度不减，80后、90后仍是主力，银发族也热情较高，周边游是热门选择。
+5. 女性旅游从业者队伍壮大，30-50岁女性司导占比高，凭借细致和专业成为旅游业中坚力量。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[房企迄今最大司法重整计划获批，进入执行环节]]></title>
+        <link href="https://www.yicai.com/news/102609035.html" />
+        <id>https://www.yicai.com/news/102609035.html</id>
+        <updated>Mon, 12 May 2025 11:13:01 +0800</updated>
+        <summary type="html"><![CDATA[司法重整, 上市房企, 债务重组, 战略投资者, 业务优化
+
+<br><br>总结:
+1. *ST金科作为首家进行司法重整的全国性上市房企，其重整计划获得批准，标志着其进入执行环节。
+2. 本次重整涉及债务规模达1470亿元，债权人数量超8400家，规模巨大。
+3. 金科成功引入上海品器联合体、中国长城资产、四川发展证券基金等战略投资者，形成多元化的投资组合。
+4. 战略投资者的加入为金科带来增量资金，用于“保交楼”项目和优化资本结构。
+5. 未来金科将整合业务板块，剥离非核心资产，并设置四大业务板块，寻找新的增长点。若重整计划顺利执行，将有利于公司优化资产负债结构，提升公司的持续经营及盈利能力。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[陶冬：新台币升值揭示出的亚洲资产尴尬]]></title>
+        <link href="https://www.yicai.com/news/102609028.html" />
+        <id>https://www.yicai.com/news/102609028.html</id>
+        <updated>Mon, 12 May 2025 11:12:36 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 美联储, 关税, 美元资产, 亚洲, 降息
+
+<br><br>总结:
+1.  美联储维持利率不变，鲍威尔暗示不急于降息，受贸易政策不确定性影响，降息或推迟至9月之后。
+2.  美国下半年可能面临物价因关税上涨，经济温和衰退，金融环境收紧的局面，美联储需谨慎权衡。
+3.  美国税收政策预计7月公布，或将包括延长特朗普减税政策等内容，财政故事同样值得关注。
+4.  亚洲国家和地区长期积累大量美元资产，面临美元贬值和美债下跌的双重风险，可能引发汇兑损失。
+5.  亚洲国家或地区可能以减少美元资产配置的方式进行“再平衡”，长期来看或对美元资产价格不利。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[西藏拉孜发生5.5级地震，震感明显有人被地震晃醒]]></title>
+        <link href="https://m.thepaper.cn/detail/30802261" />
+        <id>https://m.thepaper.cn/detail/30802261</id>
+        <updated>Mon, 12 May 2025 09:37:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 地震, 西藏, 日喀则, 拉孜县, 5.5级
+
+<br><br>总结:
+* 5月12日5时11分，西藏日喀则市拉孜县发生5.5级地震。
+* 震源深度为10公里。
+* 地震发生时震感明显，部分人员被晃醒。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[同药同价？特朗普将强制要求美国药品价格与最低价格国家相同，称“美国药品价格可能下降30%至80%”]]></title>
+        <link href="https://wallstreetcn.com/articles/3746878" />
+        <id>https://wallstreetcn.com/articles/3746878</id>
+        <updated>Mon, 12 May 2025 09:23:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 药价, 行政令, 全球最低价, 医药行业
+
+<br><br>总结:
+1. 特朗普计划签署行政令，强制美国处方药价格与全球最低价国家看齐，目标降低药价30%-80%。
+2. 制药公司认为高药价是研发新疗法的必要条件，此举可能影响创新。特朗普则认为美国支付了不合理的高价，预计全球药价可能因此上涨。
+3. 特朗普此前曾尝试改革药价，但相关计划在联邦法院被推翻。《通胀削减法案》授权政府为Medicare项目内高成本药物进行价格谈判。
+4. 此举可能受到对冲基金经理Bill Ackman的启发，他曾建议禁止制药公司在国外以低于美国本土的价格销售药品。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[专访｜日本驻华大使金杉宪治：对美、对华外交必须在保持平衡的基础上稳步推进]]></title>
+        <link href="https://m.thepaper.cn/detail/30706041" />
+        <id>https://m.thepaper.cn/detail/30706041</id>
+        <updated>Mon, 12 May 2025 09:07:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 中日关系, 经济合作, 高层互动, 互惠关系, 国际秩序
+
+<br><br>总结:
+1.  中日高层互动频繁，包括王毅访日、齐藤铁夫访华、森山裕率团访华，交流重启，并朝着稳定方向发展。
+2.  中日经济合作领域广泛，包括环境、新能源、防灾减灾、养老和医疗健康等，并积极推进中日韩自贸协定谈判。
+3.  日本企业在华经营面临激烈竞争，但仍坚持在中国市场发展，并与中国企业合作开拓第三方市场。
+4.  中日两国国民间情感仍存在负面印象，需要通过务实合作和积极互动来改善。
+5.  在全球地缘政治紧张背景下，中日关系改善对地区和世界具有重要意义，两国应共同维护自由贸易和多边贸易体系。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[8点1氪｜雷军说过去1个月是创业最艰难时期；重庆大学通报本科生发14篇SCI论文；苹果再次降价降幅超1000元]]></title>
+        <link href="https://www.36kr.com/p/3288851940434825" />
+        <id>https://www.36kr.com/p/3288851940434825</id>
+        <updated>Mon, 12 May 2025 07:55:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：雷军, 重庆大学, 苹果, 马云, AI
+
+<br><br>总结:
+1. 雷军在小米SU7事故后首次发声，表示过去一个月是创业以来最艰难的时期，但已逐渐恢复状态。
+2. 重庆大学通报本科生发表SCI论文事件，认定研究生院副院长刘某华存在学术不端行为，已对其进行处分，并撤销其女刘某乔的荣誉和奖励。
+3. 苹果再次降价，降幅超过1000元，疑似为“6·18”大促做准备。
+4. 阿里巴巴内部人士否认马云回归及重启大集团模式的传言，蔡崇信强调“电商和云+AI”是阿里巴巴两大核心战略方向。
+5. 淘宝推出“桌面版”客户端，主打AI购物助手功能，目前仅支持Windows平台。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、域名注册、Cloudflare、FreeDNS、域名区别
 <br>
-用户可通过DigitalPlat提供的网址生成器注册免费或收费域名，同时提供永久免费的续期服务。用户可在Cloudflare官网获取Pages自定义域及SSL证书。注册免费域名额度取决于用户类型，续期时间为每年一次，us.kg域名不占用免费额度。详细教程可在发布的Youtube视频中查看。总之，用户可以通过Github仓库获取信息，使用Cloudflare服务注册和管理域名，并在需要时续期。各类问题和教程都能在所提供的资源中找到。总结: DigitalPlat提供了一系列关于注册域名和续期服务的信息，用户可以通过Github仓库获取相关工具和资源，同时Cloudflare提供Pages自定义域及SSL证书服务。详细教程可以在Youtube视频中找到。]]></summary>
+总结:文章介绍了us.kg免费域名的情况，已注册的域名仍然存在，新域名可以托管到Cloudflare，临时托管到FreeDNS。现有域名可以继续使用，新域名也可以注册。两种域名存在一定区别，用户可以根据需求选择合适的域名注册和托管服务。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买过程
-稳定性和速度表现良好，不需要保活，但ChatGPT可能存在降智问题。HostUNO提供的价格适中，购买过程简单且有官方支持。用户可以通过Windterm下载并在Github仓库中查看Sing-box。购买后可通过修改登录密码和搭建代理节点来提高安全性和速度。在续费时需注意事项，总体而言，HostUNO值得购买。<br><br>总结: HostUNO提供稳定快速的服务，购买简单方便，可通过Windterm下载Sing-box并在Github仓库中查看相关信息。购买后需要注意ChatGPT可能存在的降智问题，建议及时续费来维持服务质量。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活<br>
+总结: 本文介绍了如何通过Serv00搭建科学上网节点，并利用Cloudflare固定隧道和CDN回源技术实现网页保活。首先需要注册Serv00账号，并登录选择域名进行科学上网节点搭建，然后通过Cloudflare设置固定隧道和CDN回源，确保网站内容可靠访问。最后通过Cloudflare远程保活功能，在Worker中粘贴代码实现网页保活定时触发。通过这些步骤，可以有效管理和维护网站的稳定运行。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、托管到Cloudflare、免费续订域名
+<br><br>
+总结: 该视频介绍了如何注册US.KG免费域名，并在域名受限状态下使用https://dash.domain.digitalplat.org/完成注册和KYC验证。此外，视频还展示了如何将注册的域名托管到Cloudflare，并免费续订域名。整个流程包括注册账号、验证邮箱、KYC验证、注册域名、托管到Cloudflare等步骤，详细操作可在Youtube视频中了解。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek、网页端、APP、API、本地部署 <br>
+Deepseek是一个多功能翻译工具，可以在官方网站、手机客户端和API上使用，也可本地部署。用户可以免费注册API账号并获得体验金，使用Perplexity等应用。在本地部署时，需要安装Ollama并输入相应指令运行。Deepseek在模型选择上提供了硬件参考，用于保证翻译质量。整体而言，Deepseek提供了多种使用方式，满足了用户的不同需求。 <br>
+总结: Deepseek是一个功能丰富的翻译工具，提供网页端、APP、API和本地部署等多种使用方式，用户可以通过注册API账号获得体验金，同时还支持其他应用的使用。在本地部署时，用户需要安装相应软件并输入运行指令。 Deepseek还提供了模型选择的硬件参考，以确保翻译质量。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、代理节点、Cloudflare、保活、GitHub<br>
 <br>
-注册US.KG域名遇到问题，推荐使用免费域名，在购买时输入优惠码(newuser)可享受一年免费。注册账号时可使用身份信息生成器辅助填写，注册完域名后登录Cloudflare并添加域名，将分配的两个名称服务器填入域名管理界面。详细教程可观看Youtube视频，包括注册账号、注册域名、域名托管到Cloudflare的步骤。]]></summary>
+Serv00教程视频介绍了搭建节点的方法选择、注册及登录、搭建代理节点、使用Cloudflare Argo固定隧道、进程保活、GitHub保号及远程保活等内容。在搭建代理节点时，需要有域名并托管到Cloudflare上，然后设置Cloudflare Argo固定隧道。进程保活可以通过GitHub实现，确保节点稳定运行。如果SSH登录IP被封，可以利用未被封的域名登录或设置系统代理来解决。整体视频内容详细介绍了如何搭建节点并保持节点的稳定运行。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
+        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
+        <updated>2025-01-05T03:10:34.775-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
