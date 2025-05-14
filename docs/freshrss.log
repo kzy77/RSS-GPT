@@ -1,40 +1,45 @@
 ------------------------------------------------------
-Started: 2025-05-14 04:22:43.878765
-Existing_entries: 11
+Started: 2025-05-14 06:27:37.066516
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [Martin/AICharacterHub](https://gitee.com/Martinkeep/ai-character-hub)
+Token length: 69
+Summarized using gemini model: gemini-2.0-flash
+Append: [yifengling0/atomthreads](https://gitee.com/yifengling0/atomthreads)
 Token length: 117
 Summarized using gemini model: gemini-2.0-flash
-Append: [港口航运集体大涨，关税下调叠加发运旺季，板块有望迎来阶段性爆发丨一大板块](https://www.yicai.com/video/102613013.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [国务院办公厅印发《国务院2025年度立法工作计划》](https://www.yicai.com/news/102612972.html)
-Token length: 2832
-Summarized using gemini model: gemini-2.0-flash
-Append: [中美关税缓和，中国经济基本面受益，权益市场风险偏好提升](https://www.yicai.com/news/102612815.html)
-Token length: 803
-Summarized using gemini model: gemini-2.0-flash
-Append: [最新增值税发票数据：4月份全国企业销售收入同比增长4.3%](https://www.yicai.com/news/102612885.html)
-Token length: 124
-Summarized using gemini model: gemini-2.0-flash
-Append: [最高人民检察院依法对陆克华决定逮捕](https://www.yicai.com/news/102612782.html)
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
 Token length: 4343
 Summarized using gemini model: gemini-2.0-flash
-Append: [广州发布“养老金融十二条”，支持多层次养老保障和服务体系建设](https://www.yicai.com/news/102612837.html)
-Token length: 133
+Append: [宜得利被指向中国卖米背后，折射出日本的深层焦虑](https://www.huxiu.com/article/4346571.html)
+Token length: 2887
 Summarized using gemini model: gemini-2.0-flash
-Append: [人民日报评外卖平台被约谈：摒弃恶性竞争，实现行业健康发展](https://m.thepaper.cn/detail/30814149)
-Token length: 1725
+Append: [特朗普再次把炮口对准盟友，称“欧盟更过分”，欧盟有何后手？](https://www.yicai.com/news/102612290.html)
+Token length: 2445
 Summarized using gemini model: gemini-2.0-flash
-Append: [6个月估值翻倍，黄仁勋力荐的AI搜索公司欲开发浏览器取代谷歌Chrome](https://www.36kr.com/p/3290972901554560)
-Token length: 5498
+Append: [“从1%到7%”，中国跨境电商十年跃迁，新一批综试区如何助力拓展全球市场](https://www.yicai.com/news/102613107.html)
+Token length: 3075
 Summarized using gemini model: gemini-2.0-flash
-Append: [o3完爆人类医生，OpenAI基准直击AGI](https://www.36kr.com/p/3290972347725952)
-Token length: 2739
+Append: [美股涨回正区间美债却继续下跌，为何关税政策缓和也救不了美债](https://www.yicai.com/news/102613157.html)
+Token length: 1946
 Summarized using gemini model: gemini-2.0-flash
-Append: [洪灝：今年任何非美资产都会跑赢，比如欧元、黄金、港股，黄金可涨2年或20年，港股三季度会有新高](https://wallstreetcn.com/articles/3747004)
-Token length: 1962
+Append: [张明：米兰报告忽略了七个重要事实](https://www.yicai.com/news/102612920.html)
+Token length: 715
 Summarized using gemini model: gemini-2.0-flash
-Append: [贝叶斯拒绝法](https://www.36kr.com/p/3290646426202761)
-append_entries: 12
-Finish: 2025-05-14 04:23:49.180174
+Append: [125%→10%、24%税率暂停90天 对美关税开始调整](https://www.yicai.com/news/102613084.html)
+Token length: 359
+Summarized using gemini model: gemini-2.0-flash
+Append: [国台办：80年前台湾重归中国版图，80年后不可能让台湾分裂出去](https://m.thepaper.cn/detail/30814633)
+Token length: 288
+Summarized using gemini model: gemini-2.0-flash
+Append: [台行政机构网站删除“汉人”改为“其余人口”，国台办回应](https://m.thepaper.cn/detail/30814577)
+Token length: 3224
+Summarized using gemini model: gemini-2.0-flash
+Append: [一个简单的MCP Server本地搭建过程](https://juejin.cn/post/7503784185226281023)
+Token length: 88
+Summarized using gemini model: gemini-2.0-flash
+Append: [重庆市委原常委、政法委原书记陆克华被决定逮捕](https://m.thepaper.cn/detail/30814475)
+Token length: 3830
+Summarized using gemini model: gemini-2.0-flash
+Append: [中东睿评｜特朗普中东三国行：喧嚣的形式与空洞的实质](https://m.thepaper.cn/detail/30811237)
+append_entries: 13
+Finish: 2025-05-14 06:28:43.748583
