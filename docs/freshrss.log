@@ -1,23 +1,66 @@
 ------------------------------------------------------
-Started: 2025-05-14 08:25:38.437298
-Existing_entries: 13
+Started: 2025-05-14 10:20:22.133741
+Existing_entries: 6
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 4021
+Token length: 89
 Summarized using gemini model: gemini-2.0-flash
-Append: [AGI五大安全困境：如何应对不确定“黑洞”？](https://www.huxiu.com/article/4346559.html)
-Token length: 2267
+Append: [mfish/mfish-nocode](https://gitee.com/qiufeng9862/mfish-nocode)
+Token length: 162
 Summarized using gemini model: gemini-2.0-flash
-Append: [比亚迪亲自下场，欲分食这个年保有量超4亿辆的市场](https://www.yicai.com/news/102613177.html)
-Token length: 883
+Append: [JCNC/JNotepad](https://gitee.com/jcnc-org/JNotepad)
+Token length: 222
 Summarized using gemini model: gemini-2.0-flash
-Append: [中巴续签1900亿元本币互换协议，推动人民币区域使用](https://www.yicai.com/news/102613172.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [125%→10%、24%税率暂停90天，对美关税开始调整](https://m.thepaper.cn/detail/30814726)
-Token length: 12511
+Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
+Token length: 1755
 Summarized using gemini model: gemini-2.0-flash
-Append: [京东电话会：外卖日单量将破2000万，市场容得下多个平台，现阶段更关注用户体验](https://wallstreetcn.com/articles/3747018)
-Token length: 1539
+Append: [关税下调释放缓和信号，稳定内需仍是当务之急](https://www.yicai.com/news/102612836.html)
+Token length: 1950
 Summarized using gemini model: gemini-2.0-flash
-Append: [Cursor pro 免费用了，谁还花钱啊？探索 Cursor、MCP 与 Trae热点与实用技巧尽在 AICoding 周刊](https://juejin.cn/post/7503913955002236965)
-append_entries: 6
-Finish: 2025-05-14 08:26:07.301443
+Append: [“美国零售商的圣诞节有救了！”港口和航运公司预计货运需求将激增](https://www.yicai.com/news/102613931.html)
+Token length: 266
+Summarized using gemini model: gemini-2.0-flash
+Append: [央行：居民买房投资更趋理性，5年来居民贷款占比降5个百分点](https://www.yicai.com/news/102613905.html)
+Token length: 333
+Summarized using gemini model: gemini-2.0-flash
+Append: [权威专家：M2/GDP 5年时间提升了35个百分点](https://www.yicai.com/news/102613902.html)
+Token length: 980
+Summarized using gemini model: gemini-2.0-flash
+Append: [腾讯控股：一季度营收1800亿同比增13%，经营盈利693亿同比增18%](https://www.yicai.com/news/102613903.html)
+Token length: 379
+Summarized using gemini model: gemini-2.0-flash
+Append: [今年前4个月社会融资规模增量累计16.34万亿元](https://www.yicai.com/news/102613922.html)
+Token length: 1117
+Summarized using gemini model: gemini-2.0-flash
+Append: [央行：4月末M2余额325.17万亿元，同比增长8%](https://www.yicai.com/news/102613917.html)
+Token length: 1838
+Summarized using gemini model: gemini-2.0-flash
+Append: [腾讯控股Q1营收同比增长13%，净利润下降7%，AI驱动王者荣耀等流水创新高 | 财报见闻](https://wallstreetcn.com/articles/3747081)
+Token length: 1213
+Summarized using gemini model: gemini-2.0-flash
+Append: [保险股领涨A股：低持仓+低估值，未来将迎估值回升](https://www.yicai.com/news/102613838.html)
+Token length: 1832
+Summarized using gemini model: gemini-2.0-flash
+Append: [全国人大常委会2025年度立法工作计划公布，金融法安排初次审议](https://www.yicai.com/news/102613835.html)
+Token length: 1152
+Summarized using gemini model: gemini-2.0-flash
+Append: [微软将裁员6000人，降本以押注人工智能](https://www.yicai.com/news/102613790.html)
+Token length: 1097
+Summarized using gemini model: gemini-2.0-flash
+Append: [科普｜肥厚型心肌病药物研发再获突破，国内相关疗法已纳入医保](https://www.yicai.com/news/102613798.html)
+Token length: 1433
+Summarized using gemini model: gemini-2.0-flash
+Append: [苹果进军脑机接口领域，为瘫痪人士重新定义输入法](https://www.yicai.com/news/102613800.html)
+Token length: 268
+Summarized using gemini model: gemini-2.0-flash
+Append: [微信成立电商产品部](https://www.yicai.com/news/102613816.html)
+Token length: 1651
+Summarized using gemini model: gemini-2.0-flash
+Append: [日本政坛“黑金丑闻”再现，首相石破茂能否带领自民党“突围”7月改选？](https://www.yicai.com/news/102613367.html)
+Token length: 1286
+Summarized using gemini model: gemini-2.0-flash
+Append: [“总统无权随心所欲加征关税！” 特朗普政府在国际贸易法院遭美企拷问](https://www.yicai.com/news/102613533.html)
+Token length: 671
+Summarized using gemini model: gemini-2.0-flash
+Append: [商务部新闻发言人就开展加强战略矿产出口全链条管控工作应询答记者问](https://www.yicai.com/news/102613792.html)
+append_entries: 20
+Finish: 2025-05-14 10:21:41.037326
