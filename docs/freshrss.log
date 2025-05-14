@@ -1,37 +1,40 @@
 ------------------------------------------------------
-Started: 2025-05-14 03:09:41.935916
-Existing_entries: 18
+Started: 2025-05-14 04:22:43.878765
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 91
-Summarized using gemini model: gemini-2.0-flash
-Append: [yihong-lin/yihongIOT](https://gitee.com/yihong-lin/yihong-iot)
-Token length: 166
-Summarized using gemini model: gemini-2.0-flash
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 216
-Summarized using gemini model: gemini-2.0-flash
-Append: [解财报丨业绩增收不增利 中国核电如何应对所得税增加和电价下降双重困境？](https://www.yicai.com/live/102611059.html)
-Token length: 2502
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国4月通胀数据、新车价格出炉 为关税买单？谷歌反垄断败诉引发“索赔潮”](https://www.yicai.com/news/102612683.html)
-Token length: 568
-Summarized using gemini model: gemini-2.0-flash
-Append: [集运指数欧线期货主力合约涨超15%](https://www.yicai.com/news/102612668.html)
-Token length: 5693
-Summarized using gemini model: gemini-2.0-flash
-Append: [法治日报整版聚焦：儿童能否成为短视频主角？该如何监管？](https://m.thepaper.cn/detail/30814120)
-Token length: 3992
-Summarized using gemini model: gemini-2.0-flash
-Append: [北斗专访｜特赞科技范凌：现在AI主要是“说话”，接下来要“干活”了](https://m.thepaper.cn/detail/30804203)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [芯片巨头助力沙特建AI工厂：英伟达供1.8万芯片，AMD也参与](https://wallstreetcn.com/articles/3747025)
+Append: [Martin/AICharacterHub](https://gitee.com/Martinkeep/ai-character-hub)
+Token length: 117
+Summarized using gemini model: gemini-2.0-flash
+Append: [港口航运集体大涨，关税下调叠加发运旺季，板块有望迎来阶段性爆发丨一大板块](https://www.yicai.com/video/102613013.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [百川之后，Kimi悄然布局AI+医疗｜智能涌现独家](https://www.36kr.com/p/3290880683078790)
-Token length: 340
+Append: [国务院办公厅印发《国务院2025年度立法工作计划》](https://www.yicai.com/news/102612972.html)
+Token length: 2832
 Summarized using gemini model: gemini-2.0-flash
-Append: [国家林草局原副局长李春良被查，今年落马中管干部升至20人](https://m.thepaper.cn/detail/30809853)
-Token length: 354
+Append: [中美关税缓和，中国经济基本面受益，权益市场风险偏好提升](https://www.yicai.com/news/102612815.html)
+Token length: 803
 Summarized using gemini model: gemini-2.0-flash
-Append: [乌方：泽连斯基只接受与普京会谈，拒见其他俄代表](https://m.thepaper.cn/detail/30809341)
-append_entries: 11
-Finish: 2025-05-14 03:10:44.089496
+Append: [最新增值税发票数据：4月份全国企业销售收入同比增长4.3%](https://www.yicai.com/news/102612885.html)
+Token length: 124
+Summarized using gemini model: gemini-2.0-flash
+Append: [最高人民检察院依法对陆克华决定逮捕](https://www.yicai.com/news/102612782.html)
+Token length: 4343
+Summarized using gemini model: gemini-2.0-flash
+Append: [广州发布“养老金融十二条”，支持多层次养老保障和服务体系建设](https://www.yicai.com/news/102612837.html)
+Token length: 133
+Summarized using gemini model: gemini-2.0-flash
+Append: [人民日报评外卖平台被约谈：摒弃恶性竞争，实现行业健康发展](https://m.thepaper.cn/detail/30814149)
+Token length: 1725
+Summarized using gemini model: gemini-2.0-flash
+Append: [6个月估值翻倍，黄仁勋力荐的AI搜索公司欲开发浏览器取代谷歌Chrome](https://www.36kr.com/p/3290972901554560)
+Token length: 5498
+Summarized using gemini model: gemini-2.0-flash
+Append: [o3完爆人类医生，OpenAI基准直击AGI](https://www.36kr.com/p/3290972347725952)
+Token length: 2739
+Summarized using gemini model: gemini-2.0-flash
+Append: [洪灝：今年任何非美资产都会跑赢，比如欧元、黄金、港股，黄金可涨2年或20年，港股三季度会有新高](https://wallstreetcn.com/articles/3747004)
+Token length: 1962
+Summarized using gemini model: gemini-2.0-flash
+Append: [贝叶斯拒绝法](https://www.36kr.com/p/3290646426202761)
+append_entries: 12
+Finish: 2025-05-14 04:23:49.180174
