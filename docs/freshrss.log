@@ -1,45 +1,23 @@
 ------------------------------------------------------
-Started: 2025-05-14 06:27:37.066516
-Existing_entries: 12
+Started: 2025-05-14 08:25:38.437298
+Existing_entries: 13
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 69
+Token length: 4021
 Summarized using gemini model: gemini-2.0-flash
-Append: [yifengling0/atomthreads](https://gitee.com/yifengling0/atomthreads)
-Token length: 117
+Append: [AGI五大安全困境：如何应对不确定“黑洞”？](https://www.huxiu.com/article/4346559.html)
+Token length: 2267
 Summarized using gemini model: gemini-2.0-flash
-Append: [微信 ‧ 24h热文榜](https://tophub.today/n/WnBe01o371)
-Token length: 4343
+Append: [比亚迪亲自下场，欲分食这个年保有量超4亿辆的市场](https://www.yicai.com/news/102613177.html)
+Token length: 883
 Summarized using gemini model: gemini-2.0-flash
-Append: [宜得利被指向中国卖米背后，折射出日本的深层焦虑](https://www.huxiu.com/article/4346571.html)
-Token length: 2887
+Append: [中巴续签1900亿元本币互换协议，推动人民币区域使用](https://www.yicai.com/news/102613172.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [125%→10%、24%税率暂停90天，对美关税开始调整](https://m.thepaper.cn/detail/30814726)
+Token length: 12511
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普再次把炮口对准盟友，称“欧盟更过分”，欧盟有何后手？](https://www.yicai.com/news/102612290.html)
-Token length: 2445
+Append: [京东电话会：外卖日单量将破2000万，市场容得下多个平台，现阶段更关注用户体验](https://wallstreetcn.com/articles/3747018)
+Token length: 1539
 Summarized using gemini model: gemini-2.0-flash
-Append: [“从1%到7%”，中国跨境电商十年跃迁，新一批综试区如何助力拓展全球市场](https://www.yicai.com/news/102613107.html)
-Token length: 3075
-Summarized using gemini model: gemini-2.0-flash
-Append: [美股涨回正区间美债却继续下跌，为何关税政策缓和也救不了美债](https://www.yicai.com/news/102613157.html)
-Token length: 1946
-Summarized using gemini model: gemini-2.0-flash
-Append: [张明：米兰报告忽略了七个重要事实](https://www.yicai.com/news/102612920.html)
-Token length: 715
-Summarized using gemini model: gemini-2.0-flash
-Append: [125%→10%、24%税率暂停90天 对美关税开始调整](https://www.yicai.com/news/102613084.html)
-Token length: 359
-Summarized using gemini model: gemini-2.0-flash
-Append: [国台办：80年前台湾重归中国版图，80年后不可能让台湾分裂出去](https://m.thepaper.cn/detail/30814633)
-Token length: 288
-Summarized using gemini model: gemini-2.0-flash
-Append: [台行政机构网站删除“汉人”改为“其余人口”，国台办回应](https://m.thepaper.cn/detail/30814577)
-Token length: 3224
-Summarized using gemini model: gemini-2.0-flash
-Append: [一个简单的MCP Server本地搭建过程](https://juejin.cn/post/7503784185226281023)
-Token length: 88
-Summarized using gemini model: gemini-2.0-flash
-Append: [重庆市委原常委、政法委原书记陆克华被决定逮捕](https://m.thepaper.cn/detail/30814475)
-Token length: 3830
-Summarized using gemini model: gemini-2.0-flash
-Append: [中东睿评｜特朗普中东三国行：喧嚣的形式与空洞的实质](https://m.thepaper.cn/detail/30811237)
-append_entries: 13
-Finish: 2025-05-14 06:28:43.748583
+Append: [Cursor pro 免费用了，谁还花钱啊？探索 Cursor、MCP 与 Trae热点与实用技巧尽在 AICoding 周刊](https://juejin.cn/post/7503913955002236965)
+append_entries: 6
+Finish: 2025-05-14 08:26:07.301443
