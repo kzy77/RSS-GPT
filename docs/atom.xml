@@ -2,433 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-05-15T10:23:04Z</updated>
+    <updated>2025-05-15T12:40:50Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[C#网络编程(四)----HttpClient]]></title>
-        <link href="https://www.cnblogs.com/lmy5215006/p/18849726" />
-        <id>https://www.cnblogs.com/lmy5215006/p/18849726</id>
-        <updated>Wed, 14 May 2025 22:08:00 +0800</updated>
-        <summary type="html"><![CDATA[HttpClient, C#, HTTP请求, System.Net.Http, 异步编程
+        <title><![CDATA[河南开展专项整治：响鼓重锤对违规吃喝问题露头就打、反复敲打、人人喊打]]></title>
+        <link href="https://www.yicai.com/news/102616641.html" />
+        <id>https://www.yicai.com/news/102616641.html</id>
+        <updated>Thu, 15 May 2025 19:28:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：违规吃喝, 专项整治, 作风建设, 中央八项规定, 关键少数
 
 <br><br>总结:
-*   HttpClient是C#中System.Net.Http命名空间下的核心类，用于发送和接收HTTP请求。
-*   HttpClient的设计目标是替代早期WebClient/WebRequest等类，成为.NET中处理网络通信的现代API。
-*   HttpClient支持异步编程，提高了应用程序的响应能力和性能。
-*   HttpClient提供了灵活的配置选项，可以自定义请求头、超时时间等。
-*   HttpClient是进行网络编程的重要工具，为开发者提供了强大而方便的功能。
+1.  河南省召开违规吃喝专项整治动员部署会，强调深入学习贯彻习近平总书记关于加强党的作风建设的重要论述。
+2.  会议要求各级党组织和党员干部以李献林、叶金广等人违规吃喝案例为鉴，深刻认识违规吃喝的危害性，坚决刹住吃喝歪风。
+3.  强调要坚持标本兼治，强化系统施治，筑牢思想防线，压紧压实责任，形成齐抓共管工作合力。
+4.  要求靶向发力纠治“关键少数”，紧盯重点问题和关键节点，动真格、抓现行、抓典型、抓通报，从严从快查处，形成强力震慑。
+5.  要坚持风腐同查，深挖细查违规吃喝背后的腐败问题，注重常态长效，营造崇德尚廉、勤俭节约的浓厚氛围。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[哪吒汽车内部人士回应破产：法院确有受理，但“破产”很复杂]]></title>
-        <link href="https://www.36kr.com/p/3292235768177928" />
-        <id>https://www.36kr.com/p/3292235768177928</id>
-        <updated>Wed, 14 May 2025 18:09:24 +0800</updated>
-        <summary type="html"><![CDATA[哪吒汽车, 破产重整, 禹形广告, 财务危机, 融资
+        <title><![CDATA[傅利叶再提康养，机器人养老还要跨过几道坎？]]></title>
+        <link href="https://www.yicai.com/news/102616504.html" />
+        <id>https://www.yicai.com/news/102616504.html</id>
+        <updated>Thu, 15 May 2025 19:25:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 康养机器人, 具身智能, 人机交互, 投资回报率(ROI), 养老市场
 
 <br><br>总结:
-1. 哪吒汽车母公司被上海禹形广告申请破产重整，涉案金额530万元，为正常司法程序，债权人主张清算。
-2. 禹形广告曾承办哪吒汽车推广活动，被拖欠900多万元款项，经法院调解后仍有部分未支付。
-3. 哪吒汽车受新造车竞争影响，陷入财务危机，CEO更换，创始人回归主导事务。
-4. 为缓解资金压力，哪吒汽车与供应商达成债转股协议，实施“聚焦瘦身”策略，并推进E轮融资。
-5. 哪吒汽车制定转圜策略，计划实现IPO，国内外销量平衡，毛利率和整体盈利转正，但员工认为需要主导股东推进融资。
+1. 傅利叶智能以“立足康养”为下一个十年战略，并积极打造康养示范基地，推进具身智能技术在康复医疗的应用。
+2. 交互是康养场景的核心能力，老年人与机器人的交互感知便捷性是重要衡量标准，需要以人为中心的感知、决策和执行能力。
+3. 康养机器人的投资回报率不能简单与人力物力成本画等号，需要关注其治疗效果、情绪价值提升以及场景效率的提高。
+4. 养老场景相比工业场景更适合人机交互机会多、容错率高的机器人，养老市场潜力巨大。
+5. 傅利叶需在细分场景中展现更多有效功能，才能在竞争激烈的市场中稳固地位，批量落地仍需长期验证。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[AI大模型开发实战指南：从多模态到情感计算（附完整实战代码）]]></title>
-        <link href="https://juejin.cn/post/7503449107543015464" />
-        <id>https://juejin.cn/post/7503449107543015464</id>
-        <updated>Tue, 13 May 2025 14:13:45 +0800</updated>
-        <summary type="html"><![CDATA[多模态学习, 跨模态预训练, VLA, 视觉定位, 情感分析
+        <title><![CDATA[证监会去年查办违法案件739件，牵涉这些公司和机构]]></title>
+        <link href="https://www.yicai.com/news/102616589.html" />
+        <id>https://www.yicai.com/news/102616589.html</id>
+        <updated>Thu, 15 May 2025 19:24:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 执法, 欺诈, 造假, 退市, 中介
 
 <br><br>总结:
-1.  **多模态机器学习：** 融合文本、图像、音频等多种模态数据，提升模型感知和推理能力，解决模态异构性和信息互补性问题。典型任务包括图像描述生成、视觉问答、跨模态检索、语音情感识别等。
-
-2.  **跨模态预训练：** 通过自监督学习，从大规模数据中学习模态间的关联性。主要方法有对比学习和掩码建模。模型架构有双塔结构和单塔结构。
-
-3.  **跨模态交互：** 包括Vision-Language-Action（VLA）任务，用于自动驾驶和机器人控制，核心技术包括思维链和时空建模。还包括Vision-Audio融合，用于视频内容理解和语音增强，关键技术包括时频分析和多模态对齐。
-
-4.  **定位相关任务：** 包括视觉定位（Visual Grounding），即根据文本描述在图像中定位目标物体。以及时空定位（视频动作检测），用于在长视频中定位特定动作的时间段。
-
-5.  **情感计算：** 进行多模态情感分析，通过提取文本、语音、视觉特征并进行融合，最终进行情感分类。
+1.  2024年证监会严厉打击证券期货违法行为，共查办案件739件，处罚决定592件，涉及责任主体1327人/家次，市场禁入118人，移送犯罪线索178件。
+2.  重点打击欺诈发行和财务造假，对高德信、华道生物等虚假财务数据行为进行处罚，严惩恒大地产欺诈发行及信息披露违法。
+3.  严厉打击内幕交易和操纵市场，查处吴某杭内幕交易案，打击利用“跨界”并购重组题材炒作股价行为。
+4.  加大问题公司出清力度，全年55家上市公司退市，并秉持“退市不免责”原则，严厉打击各类规避退市行为。
+5.  追究“关键少数”责任，严防“看门人”失守，严厉打击股市“黑嘴”等新型违法行为，并加强部际和央地协同办案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[退休不到五年，浙江省能源集团原董事长童亚辉主动投案]]></title>
-        <link href="https://www.yicai.com/news/102616327.html" />
-        <id>https://www.yicai.com/news/102616327.html</id>
-        <updated>Thu, 15 May 2025 17:41:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 浙能集团, 童亚辉, 主动投案, 巡视组, 国企反腐
+        <title><![CDATA[直播丨投行力荐 桥水加仓 阿里巴巴最新财报有哪些看点？]]></title>
+        <link href="https://www.yicai.com/live/102613096.html" />
+        <id>https://www.yicai.com/live/102613096.html</id>
+        <updated>Thu, 15 May 2025 19:22:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：阿里巴巴, 业绩, AI, 增长, 财报
 
 <br><br>总结:
-1. 浙能集团原党委书记、董事长童亚辉涉嫌严重违纪违法，主动投案，接受审查调查。
-2. 童亚辉在浙能集团工作多年，曾提出“能源立业、科技兴业、金融富业、海外创业”的发展思路，并推动集团转型升级。
-3. 浙能集团业务广泛，涵盖电力、煤炭、天然气等多个领域，拥有多家上市公司。
-4. 今年4月中央巡视组进驻浙江后，浙江省级国企已有多人落马，包括多名主动投案者。
-5. 其他主动投案的国企干部包括浙江省商业集团有限公司原总经理助理乐毅，中国农业银行原首席专家兼浙江省分行原党委书记、行长冯建龙等。
+1. 阿里巴巴发布了2025年3月份季度及2025财年业绩，第四财季营收同比增长7%，净利润为人民币123.82亿元。
+2. “AI驱动”战略助力，华尔街投行上调评级和目标价，桥水基金大幅增持。
+3. 市场关注阿里如何利用AI重构业务。
+4. 本文旨在解读阿里巴巴最新业绩，分析是否符合预期。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中美关税调整后外贸企业出口订单部分恢复：抓紧90天出货，同步转内销]]></title>
-        <link href="https://www.yicai.com/news/102616355.html" />
-        <id>https://www.yicai.com/news/102616355.html</id>
-        <updated>Thu, 15 May 2025 17:39:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：中美经贸，外贸企业，出口订单，航运紧张，内销市场
+        <title><![CDATA[阿里巴巴：2025财年第四季度营收2364.5亿元 将派发46亿美元股息]]></title>
+        <link href="https://www.yicai.com/news/102616592.html" />
+        <id>https://www.yicai.com/news/102616592.html</id>
+        <updated>Thu, 15 May 2025 19:22:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 阿里巴巴, 云智能, AI, 业绩, 回购
 
-<br><br>总结:
-1.  中美经贸会谈后，部分外贸企业出口订单恢复，特别是美国市场，但存在90天不确定性。
-2.  订单恢复导致航运资源紧张，货柜难订、运费上涨，企业抓紧出货。
-3.  部分企业因订单未完全恢复，积极参与内销展销会消化库存。
-4.  经历关税风波后，企业更加重视多元化销售，分散风险，减少对单一市场的依赖。
-5.  转向内销和其他海外市场存在挑战，需适应不同市场需求、标准及物流时间。
+总结:
+* 阿里巴巴发布2025财年第四季度及全年业绩，营收同比增长7%，净利润大幅增长。
+* 云智能集团在AI需求的推动下，季度收入增长加速，AI相关产品收入连续七个季度实现三位数增长。
+* 淘天集团客户管理收入同比增长12%。
+* 阿里巴巴积极回购股份，并派发年度和特别股息，提升股东回报。
+* 菜鸟在国际物流业务带动下全年营收达到1012.72亿元。<br><br>总结:
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[强化司法与行政协同，资本市场改革纲领性保障文件出炉]]></title>
-        <link href="https://www.yicai.com/news/102616385.html" />
-        <id>https://www.yicai.com/news/102616385.html</id>
-        <updated>Thu, 15 May 2025 17:38:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词：指导意见, 资本市场, 司法保障, 投资者保护, 司法行政协同
+        <title><![CDATA[S基金破解私募股权退出难题，陆家嘴金融沙龙热议未来多元化生态]]></title>
+        <link href="https://www.yicai.com/news/102616520.html" />
+        <id>https://www.yicai.com/news/102616520.html</id>
+        <updated>Thu, 15 May 2025 19:19:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词：S基金，私募股权，退出，流动性，估值
 
 <br><br>总结:
-1. 最高人民法院与证监会联合发布《指导意见》，旨在完善司法政策和裁判规则，创新工作机制，提升审判监管质效。
-2. 《指导意见》从总体要求、投资者保护、市场参与人规范、司法行政协同及组织实施保障五个方面，提出了23条意见，以严格公正执法司法，保障资本市场改革发展。
-3. 强调依法打击欺诈发行和财务信息披露造假，完善虚假陈述民事赔偿责任制度，常态化开展证券纠纷代表人诉讼，便利投资者维权。
-4. 推进完善纠纷多元化解机制，强化会商和信息共享工作机制，做好司法程序与行政监管程序的衔接。
-5. 最高人民法院和中国证监会将共同落实《指导意见》，夯实资本市场司法保障的制度基础，优化司法与监管协同工作机制。
+1. S基金作为PE二手份额基金，通过购买LP或GP手中的私募股权权益，成为解决私募股权基金退出难题的重要工具。
+<br><br>2. 国内S基金市场发展受益于人民币基金进入退出期、LP对DPI的要求提高、IPO收紧以及政策支持，类型、参与主体和交易类型日益多元化。
+<br><br>3. S基金的优势包括降低投资风险、缩短回款周期、折价接转以及收益稳健。
+<br><br>4. S基金发展面临的挑战包括估值一致性难以达成、国资基金退出难度高、GP主导能力尚待发展、生态系统不完善以及税务问题。
+<br><br>5. 未来S基金将向基础设施和政策完善、交易模式创新、买方生态丰富以及交易结构复杂化方向发展，市场前景乐观。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中美经贸会谈下一步情况？商务部：将依据中美日内瓦会谈共识就经贸领域各自关切保持沟通]]></title>
-        <link href="https://www.yicai.com/news/102616340.html" />
-        <id>https://www.yicai.com/news/102616340.html</id>
-        <updated>Thu, 15 May 2025 17:38:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 中美经贸，磋商机制，关税调整，232关税，出口管制
+        <title><![CDATA[年报难产濒临退市，*ST恒立能否再渡劫？]]></title>
+        <link href="https://www.yicai.com/news/102616553.html" />
+        <id>https://www.yicai.com/news/102616553.html</id>
+        <updated>Thu, 15 May 2025 19:17:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 退市危机, 年报难产, 审计争议, 经营困局, 湘诚神州
 
 <br><br>总结:
-1. 中美同意建立经贸磋商机制，就经贸领域各自关切保持沟通，会谈取得实质性进展，中方将适时发布相关消息。
-2. 美方已撤销、暂停或调整部分对华加征关税措施，中方相应调整有关关税和非关税对美反制措施。
-3. 中方敦促美方尽快停止针对进口汽车、钢铝的232关税措施。
-4. 针对美国对华为昇腾芯片的出口管制，中方认为这是典型的非市场和单边霸凌做法，敦促美方纠正错误做法，并将采取坚决措施维护中国企业正当权益。
+1. ST恒立因年报“难产”触发退市红线，已提交听证申请，但翻盘可能性极低。
+2. 年报难产归咎于与审计机构旭泰所在营业收入确认上存在重大分歧，公司起诉索赔3827万元。
+3. 若相关收入无法计入财报，公司2024年扣除后的营收可能低于3亿元，触发退市标准。
+4. 经营方面，公司主业凋敝、扣非净利润连续多年亏损，新余锂想新能源有限公司的业绩未获审计机构认可。
+5. 新东家湘诚神州入主后，未能扭转经营危局，公司面临年报难产、业绩承压的“双杀”局面。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[外资集体看好中国股市，高盛再度上调目标点位]]></title>
-        <link href="https://www.yicai.com/news/102616400.html" />
-        <id>https://www.yicai.com/news/102616400.html</id>
-        <updated>Thu, 15 May 2025 17:37:58 +0800</updated>
-        <summary type="html"><![CDATA[高盛，MSCI中国，沪深300，超配评级，目标点位
+        <title><![CDATA[AI如何为人类发展注入新动能？联合国报告强调这三个关键点]]></title>
+        <link href="https://www.yicai.com/news/102616576.html" />
+        <id>https://www.yicai.com/news/102616576.html</id>
+        <updated>Thu, 15 May 2025 19:07:18 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 人工智能, 人类发展指数, 就业, 技术转型, 以人为本
 
 <br><br>总结:
-1. 高盛月内第二次上调MSCI中国指数和沪深300的目标点位，分别至84点和4600点，维持对中国股票的超配评级。
-2. 上调原因是中美贸易摩擦暂时缓解，以及中国推出的一系列宽松政策，包括稳定房地产市场、支持中小企业发展等。
-3. 除高盛外，野村等外资机构也上调中国股票评级，瑞银、景顺等多家外资行集体看好中国市场表现。
-4. 瑞银认为A股盈利将逐季回升，全球资金或持续净流入，并建议增配成长风格，关注TMT行业。
-5. 景顺认为关税政策缓和可能推动市场回到2025年之前的状态，中国电动汽车电池等行业有望受益。
+1.  全球人类发展指数增长停滞，不平等现象加剧，面临反弹乏力。
+2.  报告强调人工智能技术转型对人类社会的影响，认为应重视其发展潜力，通过正确的政策和以人为本的理念，赋能多元群体，普惠共享技术红利。
+3.  全球范围内民众对人工智能的使用预期广泛，既保持理性认知，又怀有积极期待，尤其是在中低人类发展水平国家，对生产效率提升和未来使用充满信心。
+4.  调查显示，半数受访者认为工作可能被自动化取代，但六成对人工智能带来的就业影响持乐观态度，认为将创造新的就业机会，新增就业机会估计将达到1.7亿个。
+5.  报告提出构建人机协作型经济，贯彻全周期人类主导，升级教育医疗体系，打造符合21世纪需求的社会服务系统，以实现“以人为本”的人工智能发展模式。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[成为第三只年内转正的“美股七巨头”后，英伟达前景如何？]]></title>
-        <link href="https://www.yicai.com/news/102616054.html" />
-        <id>https://www.yicai.com/news/102616054.html</id>
-        <updated>Thu, 15 May 2025 17:37:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词：英伟达，AI芯片，沙特，贸易谈判，出口限制
+        <title><![CDATA[住户存款占比超50%，去年四季度倾向“更多消费”意愿增加]]></title>
+        <link href="https://www.yicai.com/news/102616586.html" />
+        <id>https://www.yicai.com/news/102616586.html</id>
+        <updated>Thu, 15 May 2025 19:06:27 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 住户存款, 人民币存款, 消费倾向, 储蓄意愿, 货币政策
 
 <br><br>总结:
-1. 英伟达股价因日内瓦协议叠加与沙特AI芯片交易而转正，成为“美股七巨头”中第三只年内上涨的股票。
-2. 英伟达向沙特出售超过18000枚AI芯片，缓解了中美贸易限制对其收入的影响。
-3. 美国撤销《人工智能扩散暂行最终规则》，但并未放松对中国的管制。
-4. 特朗普政府可能将先进AI芯片出口作为贸易谈判筹码，给英伟达带来不确定性。
-5. 分析师认为，双边贸易协定可能导致英伟达需要针对不同国家应用不同规则，使其长期战略规划更加困难。
+1. 人民币存款中住户存款规模已达约160万亿元，较2016年增加近100万亿元，占比从39.7%提升至50.5%，但增速有所放缓。
+2. 存款主要留存在居民部门，因消费恢复有待加强，企业和居民存款定期化趋势明显。
+3. 居民消费意愿略有上升，储蓄意愿有所下降，投资意愿也略有上升，未来支出倾向于教育、医疗保健和旅游等领域。
+4. 提振消费是稳增长的关键，当前经济正加速向以内需为主导的增长模式转型。
+5. 央行将实施适度宽松的货币政策，引导金融机构满足多样化资金需求，并研究出台金融支持消费的指导性文件，持续推进支付便利化建设。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[从隐藏显示到透明天窗，面板龙头加码押宝车载显示]]></title>
-        <link href="https://www.yicai.com/news/102616251.html" />
-        <id>https://www.yicai.com/news/102616251.html</id>
-        <updated>Thu, 15 May 2025 17:36:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：车载显示，面板企业，Micro LED，OLED，市场竞争
+        <title><![CDATA[关税调整背后：建立中美常态化沟通机制的象征意义相对更重要]]></title>
+        <link href="https://www.yicai.com/news/102615422.html" />
+        <id>https://www.yicai.com/news/102615422.html</id>
+        <updated>Thu, 15 May 2025 18:42:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：中美贸易, 关税调整, 常态沟通, 芬太尼关税, 未来谈判
 
 <br><br>总结:
-1. 面板企业将车载显示作为收入增长点，在SID 2025上展示了多项新技术，包括深天马的隐视显示屏，TCL华星的Micro LED PHUD，京东方透明天窗和智能方向盘，维信诺智能防窥和触控柔性OLED解决方案。
-2. 新一代Mini/Micro LED以及OLED技术被广泛应用于车载显示，提升驾驶安全性和用户体验。
-3. 车载显示市场需求持续增长，预计2025年全球出货量将同比增长5.4%至2.5亿片，大尺寸和高端化是发展趋势。
-4. 目前液晶显示仍是主流，但OLED加速应用，Micro LED也在布局中，深天马、京东方和维信诺均有相关技术和项目。
-5. 汽车市场竞争激烈对上游供应链带来压力，面板企业通过提升产品集成度和与领先车企合作来应对挑战。
+1.  中美发布联合声明，标志贸易摩擦缓和，自5月14日起，双方仅保留10%基础关税，暂停24%关税90天，取消其余关税。但美国追加的20%芬太尼关税未取消。
+2.  关税调整后，美国对中国商品加权平均关税降至30%（含芬太尼关税），中国对美商品关税降至10%。虽有缓冲，但未彻底解决贸易争端。
+3.  本次会谈建立常态化沟通机制更重要。企业可利用关税暂停期调整供应链，降低成本；美国进口商和消费者可享受更具价格优势的中国商品。
+4.  产业政策、市场准入等结构性矛盾未化解，未来谈判仍具挑战，预计未来谈判重点是10%对等关税，总关税可能落在25%-30%区间。
+5.  医药等关键战略行业可能面临额外行业性关税或准入门槛。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[大热两年后无糖茶正在让出C位，中式养生水加速接棒]]></title>
-        <link href="https://www.yicai.com/news/102616194.html" />
-        <id>https://www.yicai.com/news/102616194.html</id>
-        <updated>Thu, 15 May 2025 17:33:06 +0800</updated>
-        <summary type="html"><![CDATA[无糖茶, 中式养生水, 市场份额, 增长放缓, 消费趋势
+        <title><![CDATA[阿里Q4营收同比增7%不及预期，阿里云增长加速18%，AI收入连续七个季度三位数增长 | 财报见闻]]></title>
+        <link href="https://wallstreetcn.com/articles/3747165" />
+        <id>https://wallstreetcn.com/articles/3747165</id>
+        <updated>Thu, 15 May 2025 18:35:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：营收，净利润，阿里云，淘天，AI
 
 <br><br>总结:
-1. 无糖茶市场在经历井喷式增长后，增速放缓，部分渠道甚至出现负增长，原因是市场格局固化，消费者对单纯的无糖茶概念产生疲劳。
-2. 中式养生水崛起，抢占了无糖茶的市场份额，成为饮料行业的新热点，销售额同比增长显著。
-3. 头部企业如农夫山泉、元气森林等仍在加码无糖茶，通过创新口味和技术来巩固竞争优势。
-4. 中式养生水市场呈现爆发式增长，吸引了众多饮料企业入场，但也面临激烈的竞争。
-5. 饮料行业热点转换速度加快，反映了年轻人健康化和喜新厌旧的消费趋势，这对饮料企业提出了新的挑战。
+1.  阿里巴巴第四季度营收同比增长7%，但不及预期，为2364.5亿元人民币。全年营收同比增长6%为9963.47亿元人民币。
+2.  净利润大幅增长，第四季度归属于普通股股东的净利润同比增长1203%至123.82亿元人民币，全年净利润同比增长77%至1259.76亿元人民币。
+3.  淘天集团营收同比增长9%，其中客户管理收入同比增长12%。88VIP会员人数超过5000万，实现同比双位数增长。
+4.  阿里云收入同比增长18%，其中AI相关产品收入连续七个季度保持三位数增长。未来三年将投入超过3800亿元人民币建设云和AI硬件基础设施。
+5.  本地生活集团收入增长10%，饿了么正在快速扩大业务规模。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国药品“降价令”震动全球制药业，威胁罗氏500亿美元投资]]></title>
-        <link href="https://www.yicai.com/news/102616078.html" />
-        <id>https://www.yicai.com/news/102616078.html</id>
-        <updated>Thu, 15 May 2025 17:32:26 +0800</updated>
-        <summary type="html"><![CDATA[药品定价，特朗普，罗氏，投资，影响
+        <title><![CDATA[证监会公布《上市公司募集资金监管规则》，自6月15日起施行]]></title>
+        <link href="https://www.yicai.com/news/102616510.html" />
+        <id>https://www.yicai.com/news/102616510.html</id>
+        <updated>Thu, 15 May 2025 18:32:29 +0800</updated>
+        <summary type="html"><![CDATA[募集资金, 专款专用, 超募资金, 用途改变, 中介机构
 
 <br><br>总结:
-1. 特朗普发布降低美国处方药价格的行政命令，引发全球制药业的动荡。
-2. 罗氏警告，该行政命令威胁其在美国进行的500亿美元投资计划。
-3. 辉瑞也表达了类似担忧，认为其在美国的投资可能受政策不确定因素影响。
-4. 特朗普表示，将不再“补贴”外国的医疗保健体系，并可能对制药商征收关税。
-5. 丹麦工商业和金融事务大臣计划与制药商会面，讨论行政命令的影响，诺和诺德的GLP-1类减重药司美格鲁肽成为被“精准打击”的重点。
+1.  **总体要求:** 募集资金必须专款专用，用于主营业务，支持实体经济发展。
+2.  **超募资金用途:** 明确超募资金的最终用途是用于在建项目、新项目或回购注销，禁止用于永久补充流动资金和偿还银行借款。
+3.  **用途改变监管:** 从严监管募集资金用途的改变和使用进度缓慢的情况，明确改变用途的情形及相应罚则，禁止控股股东、实际控制人及其他关联人占用募集资金。募投项目延期需严格履行审议和披露义务。
+4.  **资金安全性:** 强化募集资金的安全性，规范现金管理，严格监管资金账户，提升保荐机构的持续督导能力。
+5.  **使用效率:** 提升募集资金使用效率，便利资金置换，并对募投项目出现重大变化时提出重新评估要求。
+6.  **中介机构责任:** 督促中介机构履职尽责，针对项目重大变化，保荐机构需发表意见，强化持续督导责任。
+7.  **规则实施:** 《上市公司募集资金监管规则》自2025年6月15日起施行，同时废止2022年1月5日发布的《上市公司监管指引第2 号》。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[最高法、证监会：常态化开展证券纠纷代表人诉讼，便利投资者依法维护自身合法权益]]></title>
-        <link href="https://www.yicai.com/news/102616302.html" />
-        <id>https://www.yicai.com/news/102616302.html</id>
-        <updated>Thu, 15 May 2025 17:31:18 +0800</updated>
-        <summary type="html"><![CDATA[投资者保护, 欺诈发行, 司法行政协同, 市场规范, 高质量发展
+        <title><![CDATA[5月15日这些公告有看头]]></title>
+        <link href="https://www.yicai.com/news/102616530.html" />
+        <id>https://www.yicai.com/news/102616530.html</id>
+        <updated>Thu, 15 May 2025 18:32:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 中国化学, 宁波海运, ST汇金, 宁波远洋, 京源环保
 
 <br><br>总结:
-1.  发布《关于严格公正执法司法 服务保障资本市场高质量发展的指导意见》，旨在以司法保障资本市场改革发展。
-2.  聚焦投资者保护，严打欺诈发行和财务造假，完善虚假陈述赔偿，常态化开展代表人诉讼，降低投资者维权成本。
-3.  规范市场参与人行为，推动机构稳健经营，完善多层次资本市场规则，支持行业自律，保障高水平开放，净化市场生态，防范风险。
-4.  强化司法行政协同，推进纠纷多元化解，加强会商和信息共享，提升司法审判执行与行政监管质效。
-5.  完善组织保障，加强队伍建设，优化管辖和审理机制，强化交流培训，提高监管执法规范化和法治化程度。最高法和证监会将共同落实《指导意见》，为资本市场改革发展提供有力保障。
+1.  中国化学的孙公司赛鼎宁波涉及康得新证券虚假陈述责任纠纷诉讼，被索赔51.47亿元。
+2.  宁波海运和宁波远洋均发布股价交易风险提示，称股价短期涨幅较大，市盈率远高于行业平均水平，但公司基本面未发生重大变化。
+3.  ST汇金已提交撤销其他风险警示的申请，原因是其虚假记载问题已进行追溯重述，且行政处罚已满12个月，但申请结果存在不确定性。
+4.  *ST东易控股股东所持7.63%股份将被司法拍卖，但不会导致公司实际控制权发生变更。
+5.  京源环保全资子公司京源云计算签订3.65亿元算力集群建设项目承包合同，预计2025年确认收入3.2亿元，毛利率约9%~10%。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[专家：全固态电池预计2030年前可实现小规模上车]]></title>
-        <link href="https://www.yicai.com/news/102616344.html" />
-        <id>https://www.yicai.com/news/102616344.html</id>
-        <updated>Thu, 15 May 2025 17:30:04 +0800</updated>
-        <summary type="html"><![CDATA[全固态电池, 电解质, 硫化物, 聚合物, 量产
+        <title><![CDATA[苹果概念股冲高回落，关税缓和叠加业绩向好能否估值修复]]></title>
+        <link href="https://www.yicai.com/news/102614005.html" />
+        <id>https://www.yicai.com/news/102614005.html</id>
+        <updated>Thu, 15 May 2025 18:24:31 +0800</updated>
+        <summary type="html"><![CDATA[苹果产业链, 消费电子, 复苏, 创新, 关税
 
 <br><br>总结:
-- 全固态电池的电解质选择需考虑电导率、加工性、稳定性、制造成本。
-- 硫化物和聚合物复合电解质是当前更接近产业化的技术路线。
-- 全固态电池量产需突破材料关键问题和高效低成本生产工艺。
-- 预计2027年前后建立试制线并推出原型车。
-- 预计2030年前后实现小规模量产并装车使用。
+1.  苹果产业链概念股近期经历震荡，受中美关税政策缓和及苹果降价等因素影响。
+2.  部分核心供应商一季度业绩亮眼，受益于苹果业绩超预期和提前备货，但市场对后续走势仍存分歧。
+3.  机构观点不一，部分看好产业链估值修复和创新周期潜力，也有机构警示国际环境不确定性和需求疲软风险。
+4.  未来苹果产业链能否延续反弹，取决于全球消费电子复苏节奏和苹果新品创新能否兑现。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[获准向中东出售大量AI芯片，英伟达市值超越苹果]]></title>
-        <link href="https://www.yicai.com/news/102615929.html" />
-        <id>https://www.yicai.com/news/102615929.html</id>
-        <updated>Thu, 15 May 2025 17:28:56 +0800</updated>
-        <summary type="html"><![CDATA[英伟达, 芯片出口, 人工智能, 黄仁勋, 美国政策
+        <title><![CDATA[证监会副主席陈华平：会同各方完善资本市场法律制度，筑牢投资者保护“安全网”]]></title>
+        <link href="https://www.yicai.com/news/102615914.html" />
+        <id>https://www.yicai.com/news/102615914.html</id>
+        <updated>Thu, 15 May 2025 18:23:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：投资者保护，证监会，高质量发展，法律制度，违法打击
 
 <br><br>总结:
-1. 特朗普政府撤销了原定生效的《人工智能扩散规则》，该规则限制芯片向全球销售，被认为会扼杀创新并增加监管负担。
-2. 英伟达CEO黄仁勋出访中东，与沙特签署芯片出售大单，预计还将与阿联酋达成进口AI芯片协议。
-3. 利好消息提振了英伟达股价，市值回升至3.3万亿美元上方。
-4. 分析师认为，新规则尚未发布，对英伟达影响仍待观察，双边谈判模式可能带来更大不确定性。
-5. 黄仁勋反对严格芯片限制，认为中国人工智能市场潜力巨大，限制进入将是巨大损失。
+1. 证监会将协同各方，通过健全投资者保护长效机制，推进投资者保护工作。
+2. 将发布多项重要文件，包括与最高法的指导意见、上市公司募集资金监管规则、执法情况综述等。
+3. 五大重点工作：推动资本市场高质量发展，优化完善投资者保护制度机制，推动证券基金机构高质量发展，依法从严打击证券期货违法活动，支持受侵害投资者依法维权。
+4. 积极参与金融法起草工作，推动相关法律法规的修订，完善资本市场法律制度。
+5. 推动构建特别代表人诉讼常态化工作机制，发挥调解作用，引导先行赔付，并发挥律师作用，提供法律援助。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[地缘局势趋缓叠加中长期供应过剩矛盾难解，国际油价跌超2%]]></title>
-        <link href="https://www.yicai.com/news/102616005.html" />
-        <id>https://www.yicai.com/news/102616005.html</id>
-        <updated>Thu, 15 May 2025 17:26:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：油价，OPEC+，地缘局势，需求，供应
+        <title><![CDATA[做颠覆性技术“星探”，多地面向未来产业布局引领型孵化器]]></title>
+        <link href="https://www.yicai.com/news/102616352.html" />
+        <id>https://www.yicai.com/news/102616352.html</id>
+        <updated>Thu, 15 May 2025 18:17:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词：创业孵化，颠覆性技术，创新生态，产业融合，高质量发展
 
 <br><br>总结:
-1. 国际油价在贸易冲突缓解后震荡回升，但近日因供应和需求两端利空因素影响，油价再次回调，美国WTI原油和英国布伦特原油期货均下跌。
-2. 供应端方面，美伊核谈判出现积极信号，可能解除对伊朗的经济制裁，OPEC+也已启动复产进程，并计划继续增产。
-3. 需求端方面，OPEC月报维持今明两年石油需求增长预测不变，但下调了全球经济增长预测，显示出需求疲软的态势。
-4. 机构认为，全球贸易冲突缓和对油价的提振作用减弱，未来油价将主要受地缘局势和OPEC+产量引导，中期重心可能回落，在55-65美元区间震荡。
+1.  我国创业孵化载体规模庞大，数量超过1.6万家，孵化面积达1.78亿平方米，累计毕业企业25万家，其中超过5000家已上市。
+2.  孵化器发展经历了三个阶段，服务内容从提供办公空间转变为全链条服务，全面整合人才、技术、资金等要素。
+3.  工信部提出孵化器进入转型发展新阶段，要成为颠覆性技术的星探和发现者，推动孵化器向高端化、智能化、绿色化、融合化方向发展。
+4.  多地政府积极探索标杆孵化器、高质量孵化器、顶尖孵化器和未来产业孵化器的建设，如北京、上海、江苏、安徽和武汉。
+5.  建设引领型孵化器需要跟踪前沿技术，提升硬科技孵化服务能力，向后链接产业链，提升专业化深度孵化服务能力，打造开放式创新生态。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[快抢！COM 域名首年仅 0.99 欧元，别错过！]]></title>
-        <link href="https://uuzi.net/domainfactory-com-domain-0-99-euro-offer/" />
-        <id>https://uuzi.net/domainfactory-com-domain-0-99-euro-offer/</id>
-        <updated>Thu, 15 May 2025 16:39:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: DomainFactory, 域名, 便宜, .com, .de
+        <title><![CDATA[销量下滑 退车风波 小米模式正在被流量反噬？]]></title>
+        <link href="https://www.yicai.com/video/102614615.html" />
+        <id>https://www.yicai.com/video/102614615.html</id>
+        <updated>Thu, 15 May 2025 18:17:07 +0800</updated>
+        <summary type="html"><![CDATA[小米汽车，舆论事件，质量，雷军，跨界造车
 
 <br><br>总结:
-1. DomainFactory是一家德国本土的域名注册商，隶属于GoDaddy集团。
-2. 该公司推出新用户首购优惠活动。
-3. .com 和 .de 域名首年价格均为€0.99，非常便宜。
+1. 近期小米汽车因安徽高速事故、碳纤维前舱盖虚假宣传、退车风波等事件引发持续舆论争议，公众对其产品质量和技术信任产生质疑。
+2. 这些事件反映了跨界造车企业在快速扩张过程中面临的挑战。
+3. 雷军的个人IP与小米品牌深度绑定，既带来高光，也带来危机。
+4. 专家探讨了小米汽车面临的困境及跨界造车企业如何平衡产能、质量与价格，并重塑公众信任。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[京东618将于5月31日开始，将推外贸好货、百亿补贴]]></title>
-        <link href="https://www.yicai.com/news/102616286.html" />
-        <id>https://www.yicai.com/news/102616286.html</id>
-        <updated>Thu, 15 May 2025 16:31:07 +0800</updated>
-        <summary type="html"><![CDATA[京东618，外贸好货，百亿补贴，5月31日，出口转内销
+        <title><![CDATA[机构今日买入这9股，抛售尤夫股份1.46亿元]]></title>
+        <link href="https://www.yicai.com/news/102616481.html" />
+        <id>https://www.yicai.com/news/102616481.html</id>
+        <updated>Thu, 15 May 2025 18:13:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 机构净买入, 拉芳家化, 航天南湖, 机构净卖出, 龙虎榜
 
 <br><br>总结:
-1. 京东618将于5月31日正式开始。
-2. 将有更多外贸好货上架京东，受益于“2000亿出口转内销扶持计划”，已吸引上万家企业参与。
-3. 京东外卖百亿补贴将在618期间持续加码。
+1. 5月15日龙虎榜数据显示，共有29只个股出现机构交易，其中9只被机构净买入，20只被机构净卖出。
+2. 当天机构净买入金额最高的股票是拉芳家化，达到1.11亿元，其次是航天南湖（3011万元）和渝三峡A（1265万元）。
+3. 当天机构净卖出金额最高的股票是尤夫股份，达到1.46亿元，其次是跨境通（8248万元）和锦江航运（7950万元）。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[新任国防部新闻发言人蒋斌正式亮相]]></title>
-        <link href="https://m.thepaper.cn/detail/30821764" />
-        <id>https://m.thepaper.cn/detail/30821764</id>
-        <updated>Thu, 15 May 2025 15:03:09 +0800</updated>
-        <summary type="html"><![CDATA[关键词：蒋斌, 国防部, 新闻发言人, 履历, 大校
+        <title><![CDATA[刘晓庆被实名举报涉嫌偷税漏税，税务部门启动调查]]></title>
+        <link href="https://m.thepaper.cn/detail/30821695" />
+        <id>https://m.thepaper.cn/detail/30821695</id>
+        <updated>Thu, 15 May 2025 15:23:22 +0800</updated>
+        <summary type="html"><![CDATA[刘晓庆, 偷税漏税, 上海弈熙, 形象代言费, 税务调查
 
 <br><br>总结:
-1. 蒋斌于1982年出生于四川，是新任国防部新闻发言人。
-2. 他于1999年考入原解放军外国语学院，毕业后历任多个职务，包括翻译室主任。
-3. 他拥有英国伯明翰大学国际研究硕士学位。
-4. 2024年6月，蒋斌任国防部新闻局副局长，军衔为大校。
-5. 蒋斌已婚，育有一子。
+*   深圳市民王先生实名举报刘晓庆涉嫌偷税漏税，上海市税务局第四稽查局已受理并启动调查。
+*   举报内容指刘晓庆通过上海弈熙文化传媒中心，将330万元借款以“形象代言费”名义转为个人收入，并开具增值税发票规避个人所得税。
+*   该企业被指无实际经营，涉嫌虚开发票逃税。
+*   刘晓庆曾在2002年因公司偷税漏税被羁押，其妹夫被判刑，她本人未被起诉。
+*   举报还提及刘晓庆在上海有多次补税罚款记录，属于“多次违法”。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[桥水Q1减持谷歌、英伟达、Meta等，大买黄金，新进京东，增持阿里和百度]]></title>
-        <link href="https://wallstreetcn.com/articles/3747111" />
-        <id>https://wallstreetcn.com/articles/3747111</id>
-        <updated>Thu, 15 May 2025 03:55:47 +0800</updated>
-        <summary type="html"><![CDATA[桥水基金, 标普500 ETF, 黄金ETF, 金融板块, 医疗保健板块
+        <title><![CDATA[90秒｜特朗普又想改地名：“波斯湾”为何不叫“阿拉伯湾”？]]></title>
+        <link href="https://m.thepaper.cn/detail/30817378" />
+        <id>https://m.thepaper.cn/detail/30817378</id>
+        <updated>Thu, 15 May 2025 07:49:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 中东, 波斯湾, 阿拉伯湾, 命名争议
 
 <br><br>总结:
-1. 桥水基金一季度减持SPDR标普500 ETF，但仍是第一大重仓股。
-2. 大举买入SPDR黄金ETF，是当季最大新建仓持股，并在一季度发布长文强调黄金的价值。
-3. 增持金融板块，包括新建仓Chubb和高盛，同时减持医疗保健板块，包括清仓Moderna。
-4. 减持多个美股科技热门股，包括谷歌、英伟达、Meta等。
-5. 新进京东持仓，增持阿里巴巴、百度等中概股，其中阿里巴巴的持仓市值约7.5亿美元。
+1. 特朗普中东行前，有媒体称他计划将“波斯湾”改名为“阿拉伯湾”，引发争议。
+2. 伊朗对此表示强烈批评。
+3. 文章旨在探讨命名这片水域的争议焦点。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg域名, 挂了, 解读, 域名注册, Cloudflare托管<br>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-05T03:54:12.123-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录、科学上网节点
+
+注册并验证谷歌云账号并添加付款资料和方式，选择配置创建完全免费的VM实例，开放防火墙设置，通过SSH登录方式可选官方后台或第三方工具，科学上网注意使用Hysteria 2节点、避免额外费用产生。搭建科学上网节点可通过命令行或面板搭建H-UI、S-UI，也可使用甬哥一键脚本。总结: 本文介绍了谷歌云免费VPS政策，包括注册验证账号、创建VM实例、开放防火墙、SSH登录和科学上网节点搭建。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-04-28T20:07:11.529-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 月获得5美元赠金, Docker应用, 应用商店, 手动部署。<br>
 <br>
-us.kg免费域名近期遭遇问题，已注册的域名仍存在，但新域名不能托管至Cloudflare。目前临时托管到FreeDNS，但未明确时间。现在仍然可以注册us.kg新域名，但需注意已注册域名与新注册域名的区别。建议关注最新动态以获得准确信息。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活
+关于Claw Cloud Run的介绍：免费容器，只要Github注册时间大于180天，每月可获得5美元赠金，实现长期免费使用。可以搭建各种Docker应用，可在应用商店一键自动部署，也可手动部署。用户可以通过查看Github注册时间来确定是否符合获得5美元赠金的条件。<br>
 <br>
-Serv00教程介绍了如何注册和登录，搭建科学上网节点，创建Cloudflare固定隧道，设置CDN回源以及网页保活功能。首先，通过Serv00的三个域名或系统代理登录；接着，搭建科学上网节点并重置端口；然后，创建Cloudflare固定隧道和CDN回源规则；最后，通过多功能主页实现网页保活和利用Cloudflare远程保活功能。通过这些步骤，用户能够更好地搭建科学上网节点，并实现保持网页运行活动和远程保活的目的。总的来说，该教程详细介绍了如何利用Serv00、Cloudflare和CDN等工具设立稳定的科学上网节点并保持网页活动。<br><br>总结: 安装Serv00，搭建科学上网节点，设立Cloudflare隧道和CDN回源规则，设置网页保活和Cloudflare远程保活。]]></summary>
+总结：Claw Cloud Run是一款免费容器服务，需Github注册时间大于180天，即可每月获得5美元赠金。用户可以搭建各种Docker应用，支持应用商店和手动部署。推荐部署两款应用：Memos（轻笔记应用）和AList（网盘挂载工具）。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG，域名，注册，Cloudflare，免费<br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期<br>
 <br>
-注册US.KG域名需要先完成KYC验证，并将域名托管到Cloudflare。注册过程包括注册账号、验证邮箱、KYC验证、注册域名并托管，以及免费续订域名。目前US.KG域名处于受限状态，可以通过https://dash.domain.digitalplat.org/完成注册，等待域名状态恢复后再托管到Cloudflare使用。详情请看YouTube视频。]]></summary>
+Github上有关DigitalPlat的仓库提供免费和收费的域名服务，用户可选择免费的dpdns.org域名或收费的us.kg域名。新用户可获得1个免费域名，老用户可获得3个免费域名，通过给Github仓库加星号可增加额外域名数量。域名续期永久免费，每年续期一次，us.kg域名也需要续期。有关us.kg域名和Cloudflare Pages的自定义域及SSL证书问题可以在网上找到详细教程。总结: Github上提供免费和收费的域名服务，用户可以选择合适的域名并享受续期免费的优惠。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买<br>
+<br>
+稳定性和速度表现良好，无需保活。购买HostUNO服务时，官方态度良好，价格合理。购买流程简单，代理节点搭建容易，速度快。然而存在ChatGPT降智问题，需注意。续费方便快捷。总体而言，HostUNO服务性价比高，适合购买。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 注册, 托管
 
-Deepseek是一个强大的工具，可用于翻译、Chatbox和欧路词典等软件。用户可以通过Deepseek官方网站、手机客户端或API进行使用。API注册时可获得10元体验金，有效期一个月。此外，Deepseek也可用于第三方应用程序。如果需要在本地部署Deepseek，用户可以在命令提示符输入相关指令。对于模型选择，可以参考硬件指南。总之，Deepseek提供了多种使用方式，为用户提供了便利和选择的可能性。<br><br>总结:Deepseek是一个多功能工具，可以通过网页端、APP、API和本地部署等方式进行使用，在模型选择时可以参考硬件指南。]]></summary>
+注册US.KG域名遇到问题时，可以尝试在免费域名注册网站上注册，并托管到Cloudflare。首先使用身份信息生成器辅助填写注册账号信息，然后输入优惠码(newuser)购买免费域名。最后，登录Cloudflare将域名添加，并将分配的两个名称服务器填入域名管理界面，即可享受一年免费的域名托管服务。详细步骤可查看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、节点搭建、Cloudflare、保活、SSH客户端
-<br>
-Serv00教程介绍了搭建节点的方法选择，注册登录，搭建代理节点，Cloudflare Argo固定隧道，进程保活等内容。其中提到了GitHub保号及远程保活的方法，以及如何检测Serv00 IP是否被墙。在SSH客户端方面推荐使用WindTerm，并提供了下载链接。Cloudflare主页的设置方法也在文章中详细说明，包括如何使用Cloudflare Argo固定隧道以及进入遭到封锁的SSH。文章内容详实，适合有一定技术基础的用户学习和使用。Serv00-Play项目地址也提供了方便用户查阅。总体来说，该教程为用户提供了搭建节点所需的基本知识和操作步骤，有助于用户更好地了解和使用相关技术。<br><br>总结: Serv00节点搭建教程含盖了注册登录、代理节点搭建、Cloudflare Argo固定隧道、保活方法及SSH客户端使用等内容，提供了详细的操作指南，有助于用户学习和掌握相关技术。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费获取Gemini API及中转使用教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/gemini-api.html" />
-        <id>https://7techlife.blogspot.com/2025/01/gemini-api.html</id>
-        <updated>2025-01-05T03:10:34.775-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
