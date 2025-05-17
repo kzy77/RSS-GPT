@@ -1,27 +1,8 @@
 ------------------------------------------------------
-Started: 2025-05-17 03:07:06.406120
-Existing_entries: 18
+Started: 2025-05-17 04:21:55.474217
+Existing_entries: 7
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 4133
-Summarized using gemini model: gemini-2.0-flash
-Append: [中美互降关税，今年首次降准落地丨一周热点回顾](https://www.yicai.com/news/102619768.html)
-Token length: 4417
-Summarized using gemini model: gemini-2.0-flash
-Append: [大外交丨3天拿下数万亿美元投资，特朗普在中东做经济“加法”和政治“减法”](https://m.thepaper.cn/detail/30828962)
-Token length: 4526
-Summarized using gemini model: gemini-2.0-flash
-Append: [华尔街见闻早餐FM-Radio | 2025年5月17日](https://wallstreetcn.com/articles/3747286)
-Token length: 1940
-Summarized using gemini model: gemini-2.0-flash
-Append: [意外！共和党内讧、减税案胎死腹中，众院“敲门砖”投票就被毙](https://wallstreetcn.com/articles/3747278)
-Token length: 1122
-Summarized using gemini model: gemini-2.0-flash
-Append: [官方通报汕头违建豪宅“英之园”将强拆：对有关人员严肃追责问责](https://m.thepaper.cn/detail/30830468)
-Token length: 6007
-Summarized using gemini model: gemini-2.0-flash
-Append: [谢赛宁SFR等新作，统一多模态BLIP3-o登场，先理解后生成，端掉VAE刷新SOTA](https://www.36kr.com/p/3295222888597508)
-Token length: 5243
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI杀死大学？教授ChatGPT教学逼疯学生，怒告学校讨要8000美元学费](https://www.36kr.com/p/3295202197637376)
-append_entries: 7
-Finish: 2025-05-17 03:07:20.308955
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.filegear-sg.me', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9bfc4e60d0>: Failed to resolve 'freshrss.chunkj.filegear-sg.me' ([Errno -3] Temporary failure in name resolution)"))
+Fetch failed from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
