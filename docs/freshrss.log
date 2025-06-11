@@ -1,8 +1,8 @@
 ------------------------------------------------------
-Started: 2025-06-11 06:28:28.740953
+Started: 2025-06-11 08:26:31.091998
 Existing_entries: 7
 Fetching from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.filegear-sg.me', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5e8c6cae20>: Failed to resolve 'freshrss.chunkj.filegear-sg.me' ([Errno -3] Temporary failure in name resolution)"))
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.filegear-sg.me', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff2dc475e20>: Failed to resolve 'freshrss.chunkj.filegear-sg.me' ([Errno -3] Temporary failure in name resolution)"))
 Fetch failed from https://freshrss.chunkj.filegear-sg.me/i/?a=rss&user=chunkj&token=chunkj&hours=24
 append_entries: 0
 error when rendering xml, skip docs/freshrss
