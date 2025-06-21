@@ -2,350 +2,300 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-06-21T10:20:19Z</updated>
+    <updated>2025-06-21T12:37:11Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[记一次 .NET 某无语的电商采集系统 CPU爆高分析]]></title>
-        <link href="https://www.cnblogs.com/huangxincheng/p/18936554" />
-        <id>https://www.cnblogs.com/huangxincheng/p/18936554</id>
-        <updated>Thu, 19 Jun 2025 15:09:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Docker，CPU爆高，采集程序，dump分析，性能优化
+        <title><![CDATA[韦东奕就餐遭“贴脸拍摄” 北京网信办：超5000个账号被清理]]></title>
+        <link href="https://www.yicai.com/news/102682576.html" />
+        <id>https://www.yicai.com/news/102682576.html</id>
+        <updated>Sat, 21 Jun 2025 20:05:13 +0800</updated>
+        <summary type="html"><![CDATA[韦东奕, 拍摄, 侵扰, 清理, 治理
 
 <br><br>总结:
-
-一：背景：朋友的Docker容器中的采集程序出现CPU爆高问题，朋友已抓取dump，但不知如何分析，因此寻求帮助。
-
-二：CPU爆高分析：需要分析dump文件，找出导致CPU占用率过高的原因，比如死循环、资源竞争等。重点在于找到性能瓶颈，从而进行针对性的优化，提升采集程序的效率。
+1. 韦东奕食堂就餐被多人拍摄引发关注，侵扰行为受到谴责，公众呼吁保护学术环境。
+2. 北京市网信办清理假冒韦东奕账号超5000个。
+3. 针对“自媒体”跟拍蹭热行为，清理信息4699条，关停直播间32个，处置账号740个。
+4. “自媒体”治理是长期工程，需深化整治，加强协同，线上线下一体打击违规行为。
+5. 引导“自媒体”树立正确价值观，共同营造良好网络空间。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[法院力挺哈佛再添一胜！特朗普政府落了下风要议和？]]></title>
-        <link href="https://www.yicai.com/news/102682507.html" />
-        <id>https://www.yicai.com/news/102682507.html</id>
-        <updated>Sat, 21 Jun 2025 17:10:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 哈佛大学, 国际学生, 特朗普政府, 诉讼, 言论自由
+        <title><![CDATA[盘点｜“两周先生”特朗普：他曾多少次许诺“两周内”要做大事？]]></title>
+        <link href="https://m.thepaper.cn/detail/31021666" />
+        <id>https://m.thepaper.cn/detail/31021666</id>
+        <updated>Sat, 21 Jun 2025 17:53:52 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 伊朗, 轰炸, 时间, 两周
 
 <br><br>总结:
-1.  联邦法官批准初步禁令，哈佛大学在案件审理期间可继续接收国际生。
-2.  特朗普政府此前试图阻止哈佛接收国际学生，原因是哈佛拒绝改革与校园抗议、招生等相关的政策，哈佛起诉政府报复。
-3.  哈佛大学认为，特朗普政府的相关政策侵犯了大学的正当程序权和美国《第一修正案》权利。
-4.  特朗普在社交媒体上表示可能与哈佛大学达成协议，但未透露协议内容。
-5.  专家认为，特朗普政府的政策可能违反言论自由、学术自由、正当程序和比例原则，哈佛大学胜诉的可能性很大。
+文章主要围绕美国前总统特朗普反复使用“两周”这一时间概念展开。
+
+* 首先，文章提到特朗普声称将在“未来两周内”决定是否轰炸伊朗。
+* 其次，文章指出“两周”是特朗普惯用的模糊时间单位。
+* 最后，文章暗示特朗普使用“两周”可能并非精确的时间规划，而是其表达方式的一种习惯，暗示其决策的不确定性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[2.83亿设计院应收款1万元起拍，1100轮角逐后54万成交]]></title>
-        <link href="https://www.yicai.com/news/102682499.html" />
-        <id>https://www.yicai.com/news/102682499.html</id>
-        <updated>Sat, 21 Jun 2025 16:23:01 +0800</updated>
-        <summary type="html"><![CDATA[破产清算, 应收款, 法拍, 起拍价, 风险提示
+        <title><![CDATA[伊朗表示以色列袭击已造成430人死亡、超3500人受伤]]></title>
+        <link href="https://m.thepaper.cn/detail/31021718" />
+        <id>https://m.thepaper.cn/detail/31021718</id>
+        <updated>Sat, 21 Jun 2025 17:38:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词：伊朗，以色列，袭击，死亡，受伤
 
 <br><br>总结:
-1. 新煤化工设计院因破产清算，2.83亿应收款被挂在阿里法拍网上拍卖。
-2. 起拍价从最初的1.42亿元一路降至1万元，吸引27人参与竞拍。
-3. 经过1100多轮竞价，最终以53.56万元成交。
-4. 另一笔2.1亿元应收款也曾以1万元起拍，但目前中止。
-5. 极低起拍价的原因是应收款情况复杂，主要债务人中国能源工程集团有限公司存在账目调整和失信问题，管理人不保证应收款的真实性和可回收性，风险极高。
+要点1：伊朗光明通讯社援引伊朗卫生部数据。
+要点2：以色列对伊朗发动袭击。
+要点3：袭击已造成430人死亡。
+要点4：袭击已造成超过3500人受伤。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[爆发前夜的智能体，落在中国算力的舒适区 | 海斌访谈]]></title>
-        <link href="https://www.yicai.com/news/102682500.html" />
-        <id>https://www.yicai.com/news/102682500.html</id>
-        <updated>Sat, 21 Jun 2025 16:22:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：智能体, 大模型, 推理, 算力, 本土化
+        <title><![CDATA[韦东奕就餐遭“贴脸拍摄”“围堵跟拍”，北京市网信办出手整治]]></title>
+        <link href="https://m.thepaper.cn/detail/31021544" />
+        <id>https://m.thepaper.cn/detail/31021544</id>
+        <updated>Sat, 21 Jun 2025 17:02:19 +0800</updated>
+        <summary type="html"><![CDATA[韦东奕, 骚扰拍摄, 网络账号, 自媒体, 治理
 
 <br><br>总结:
-1.  智能体正成为各行各业的标配，标志着Agentic AI爆发前夜的到来，未来或将颠覆APP模式。
-2.  各行业如医药研发(复星医药PharmAID)、商旅出行(滴滴AI小滴)、数据库运营(华为存储)等都在积极拥抱智能体，以提升效率和改变内部运行方式。
-3.  智能体的爆发受益于大模型技术的日新月异以及推理成本的显著下降，如DeepSeek模型的推出大幅提升了推理效率。
-4.  智能体标准的确定由谷歌和Anthropic推动，例如MCP协议和A2A协议，旨在解决智能体之间的互操作性问题。
-5.  中国本土算力在智能体推理方面具有优势，越来越多的企业倾向于本地化部署AI能力，这为国产算力芯片企业如华为昇腾、摩尔线程等提供了发展机遇，推动了人工智能闭环能力的本土化。
+1. 北京大学助理教授韦东奕食堂就餐遭骚扰拍摄事件引发社会关注，公众呼吁保护人才的学术环境。
+2. 针对假冒韦东奕账号的网络乱象，北京市网信办清理违规账号超5000个。
+3. 网信部门针对“自媒体”跟拍盯拍、蹭热行为进行核查和处置，清理相关信息4699条，关停违规直播间32个，处置违规账号740个。
+4. 北京市网信办将持续深化“自媒体”治理，强化常态化管理，加强部门协同，线上线下一体打击违规行为。
+5. 网信办指导平台完善管理机制，引导“自媒体”树立正确价值观，营造风清气正的网络空间。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[成都一诊所推“50元输液3天”促销？市监局：发生在3月份，已立案调查]]></title>
-        <link href="https://m.thepaper.cn/detail/31021342" />
-        <id>https://m.thepaper.cn/detail/31021342</id>
-        <updated>Sat, 21 Jun 2025 14:30:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 诊所, 输液, 促销, 医疗广告, 金牛区市监局
+        <title><![CDATA[普京：俄罗斯准备支持伊朗发展和平核能]]></title>
+        <link href="https://m.thepaper.cn/detail/31021351" />
+        <id>https://m.thepaper.cn/detail/31021351</id>
+        <updated>Sat, 21 Jun 2025 14:58:38 +0800</updated>
+        <summary type="html"><![CDATA[伊朗核问题, 普京, 国际原子能机构, 以色列, 《不扩散核武器条约》
 
 <br><br>总结:
-1. 成都市金牛区一诊所于3月15日前后推出“50元输液3天”的促销活动，并在抚琴综合市场放置展板进行宣传。
-2. 金牛区市场监督管理局接到线索后展开核查，发现该诊所未取得《医疗广告审查证明》擅自发布医疗广告。
-3. 诊所负责人承认活动属实，但表示活动已在卫生健康部门处理后停止，网传照片为早期活动照片。
-4. 金牛区市监局已立案调查此事，将依法严厉查处该诊所的涉嫌违法行为。
-5. 记者探访发现诊所已无相关广告标语，工作人员称活动已结束，但表示确需输液者活动仍在开展。
+* 普京在圣彼得堡国际经济论坛上表示，国际原子能机构没有证据表明伊朗试图制造核武器，并强调伊朗有权和平利用核技术，俄罗斯反对大规模杀伤性武器扩散，支持伊朗发展和平核能，且已告知以色列相关情况。
+* 国际原子能机构理事会认定伊朗违反《不扩散核武器条约》义务，并考虑提交联合国安理会，这是近20年来首次。
+* 伊朗外交部则指责国际原子能机构已变成以色列侵略伊朗的“伙伴”。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[起底香港稳定币的「四方混战」]]></title>
-        <link href="https://wallstreetcn.com/articles/3749559" />
-        <id>https://wallstreetcn.com/articles/3749559</id>
-        <updated>Sat, 21 Jun 2025 11:42:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 稳定币, 香港, 发行人, 金管局, 跨境支付
+        <title><![CDATA[中国成人娃娃，抢占欧美消费者床榻]]></title>
+        <link href="https://www.36kr.com/p/3344297716335238" />
+        <id>https://www.36kr.com/p/3344297716335238</id>
+        <updated>Sat, 21 Jun 2025 11:30:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：金三玩美，AI情趣娃娃，全球化，孤独经济，技术创新
 
 <br><br>总结:
-1.  潘功胜的表态引发了对稳定币的讨论，全球稳定币规模迅速增长，应用从加密货币扩展到跨境支付。
-2.  香港和美国纷纷出台相关法规，规范稳定币发行人的资质、监管框架、储备金管理和合规审计。
-3.  目前京东、蚂蚁集团、圆币创新和渣打香港、安拟集团、香港电讯联盟都在角逐香港稳定币的发行资质。
-4.  京东通过京东币链入围沙盒测试，与天星银行合作托管储备金，并对接京东港澳站等场景，旨在降低跨境支付成本。
-5.  蚂蚁集团旗下蚂蚁国际和蚂蚁数科也计划申请稳定币牌照，分别侧重跨境支付和区块链底层技术应用，德意志银行或成为蚂蚁国际的储备金托管机构。
-6.  圆币创新由金管局前总裁陈德霖创办，背后有众多“币圈”资本支持，与HashKey Exchange和连连数字合作，聚焦币币交易、跨境支付和代币化资产中介等场景。
-7.  渣打香港、安拟集团和香港电讯组成的老钱同盟，或将发挥各自优势，由渣打提供合规背书，安拟主导Web3生态开发，香港电讯提供支付场景，但三方需要打通内部关卡，形成合力。
+1.  金三玩美是中国最大的硅胶娃娃生产商，通过接入AI大模型，预计今年出货量增长30%。
+2.  全球情趣玩具市场规模巨大，预计到2030年将达到807亿美元，中国凭借制造优势占据重要地位。
+3.  AI情趣娃娃通过材质优化和AI赋能，提升了产品力，满足消费者生理和情感需求，甚至能实现与人类互动的表达能力。
+4.  金三玩美不仅销售娃娃硬件，还提供AI服务订阅，用户可定制伴侣性格，实现长期记忆和AI交互。
+5.  金三玩美未来将继续在技术研发和量产上发力，通过AI 3D建模缩短交付周期，并借助机器人技术模拟更多表情。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国代表想指责伊朗却口瓢：“以色列”在地区散布恐怖、混乱]]></title>
-        <link href="https://m.thepaper.cn/detail/31020224" />
-        <id>https://m.thepaper.cn/detail/31020224</id>
-        <updated>Sat, 21 Jun 2025 08:43:30 +0800</updated>
-        <summary type="html"><![CDATA[关键词：安理会，中东局势，美国代表，口误，伊朗
+        <title><![CDATA[特朗普：将与哈佛大学达成“令人难以置信的、历史性的”协议]]></title>
+        <link href="https://m.thepaper.cn/detail/31020691" />
+        <id>https://m.thepaper.cn/detail/31020691</id>
+        <updated>Sat, 21 Jun 2025 10:30:27 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 哈佛大学, 国际学生, 和解协议, 禁令
 
 <br><br>总结:
-1. 安理会就中东局势召开了紧急公开会议。
-2. 美国常驻联合国代理代表谢伊在会上发言。
-3. 谢伊在发言时出现口误，原本想指责伊朗，却说成了以色列。
-4. 谢伊意识到口误后，立即进行了更正。
+1. 特朗普政府正与哈佛大学“密切合作”，可能下周宣布一项“令人难以置信的、历史性的”和解协议，具体内容未知。
+2. 一名联邦法官批准初步禁令，叫停特朗普政府阻止哈佛大学接收国际学生的行动，保留了哈佛大学在案件审理期间接收国际学生的权利。
+3. 特朗普政府近期曾冻结哈佛拨款、威胁剥夺免税地位、限制国际学生比例，并要求中止所有联邦合同。
+4. 法官此前已“叫停”特朗普政府取消哈佛大学招收外国学生资质的政策。
+5. 美国务院已通知恢复为赴哈佛大学就读的国际学生办理签证。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[多位车主交款后无法提车，天津一奥迪4S店：销售私自收款，已报案]]></title>
-        <link href="https://m.thepaper.cn/detail/31016116" />
-        <id>https://m.thepaper.cn/detail/31016116</id>
-        <updated>Sat, 21 Jun 2025 07:59:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 奥迪4S店, 购车合同, 私自收款, 无法提车, 警方介入
+        <title><![CDATA[黄光裕不肯下桌]]></title>
+        <link href="https://www.36kr.com/p/3344780297945988" />
+        <id>https://www.36kr.com/p/3344780297945988</id>
+        <updated>Sat, 21 Jun 2025 08:00:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 黄光裕, 国美, 复兴, 转型, 汽车
 
 <br><br>总结:
-1. 多位车主在天津华奥兴业奥迪4S店签订购车合同后，
-2. 被告知因销售人员私自收款导致无法提车。
-3. 4S店声称事先不知情，
-4. 警方已经介入调查。
-5. 4S店表示自己也是受损方。
+1.  黄光裕出狱后试图复兴国美，但四年间累计亏损388亿，未能实现目标。
+2.  国美尝试电商APP“真快乐”转型综合平台，涉足元宇宙、直播等风口，但未能成功，APP最终改回原名。
+3.  线下业务大幅萎缩，国美被迫关店，并尝试无人零售、硬折扣超市等新模式。
+4.  黄光裕看好新能源汽车市场，开设汽车体验馆，试图打造汽车大卖场。
+5.  黄光裕面临团队内耗和资金问题，但他仍未放弃，持续探索新业务。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普：很难要求以色列停止空袭，可能会支持停火]]></title>
-        <link href="https://m.thepaper.cn/detail/31020174" />
-        <id>https://m.thepaper.cn/detail/31020174</id>
-        <updated>Sat, 21 Jun 2025 05:03:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普, 以色列, 空袭, 伊朗, 停火
+        <title><![CDATA[80后华人零融资创业：1/10人力营收规模超Scale AI，谷歌OpenAI大模型的“秘密武器”]]></title>
+        <link href="https://www.36kr.com/p/3344800356238216" />
+        <id>https://www.36kr.com/p/3344800356238216</id>
+        <updated>Sat, 21 Jun 2025 08:00:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 数据标注, Surge AI, Scale AI, 埃德温·陈, 零融资
 
 <br><br>总结:
-1. 特朗普认为目前难以要求以色列停止空袭，但可能支持停火，具体视情况而定。
-2. 特朗普给予伊朗最多两周时间“恢复理智”，暗示可能采取行动。
-3. 特朗普声称美国一直在与伊朗对话，并认为欧洲无法在此事上提供帮助。
-4. 特朗普否认了国家情报总监关于伊朗未制造核武器的说法，认为伊朗距离拥有核武器只有数周或数月时间。
+1. Surge AI由华人埃德温·陈创立于2020年，定位于高端数据标注服务，客户包括谷歌、OpenAI等科技巨头。
+2. Surge AI以高质量和高定价著称，收费是Scale AI的2-5倍，2024年营收已达到10亿美元，超过Scale AI的8.7亿美元。值得一提的是，Surge AI至今零融资，员工数仅为Scale AI的约1/10。
+3. 陈曾亲历大公司数据困境，在创办Surge AI之前，曾就职于Facebook、Google等公司，从事机器学习相关工作。
+4. Surge AI面临员工诉讼（外包员工被指控归类不合理），产能饱和，客户压价，技术替代等四大挑战。
+5. 随着Scale AI被Meta投资，OpenAI等公司取消与其交易，数据标注赛道迎来新机遇，Surge AI有望接住新的机遇。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[湖北农科院通报公开招聘问题：暂停相关岗位招聘程序，启动调查]]></title>
-        <link href="https://m.thepaper.cn/detail/31017400" />
-        <id>https://m.thepaper.cn/detail/31017400</id>
-        <updated>Fri, 20 Jun 2025 21:56:29 +0800</updated>
-        <summary type="html"><![CDATA[关键词：湖北省农业科学院，招聘，暂停，调查，通报
+        <title><![CDATA[伊朗与欧洲三国日内瓦密谈3小时：以方停火是外交解决前提]]></title>
+        <link href="https://m.thepaper.cn/detail/31017675" />
+        <id>https://m.thepaper.cn/detail/31017675</id>
+        <updated>Sat, 21 Jun 2025 02:11:31 +0800</updated>
+        <summary type="html"><![CDATA[伊朗, 以色列, 核问题, 外交途径, 英法德
 
 <br><br>总结:
-1. 湖北省农业科学院针对网络反映的招聘问题高度重视。
-2. 决定暂停相关岗位的招聘程序。
-3. 启动依法依规的调查。
-4. 将及时通报调查结果。
+1. 伊朗外长在与英法德等国外长会晤中，表达了对以色列侵略行为的关切，强调伊朗有权自卫，并谴责袭击伊朗核设施的行为。
+2. 伊朗表示，如果以色列停止侵略并承担责任，伊朗愿意考虑外交途径。
+3. 英法德外长和欧盟高级代表对中东紧张局势升级表示关切，希望通过谈判达成解决方案，并重申对伊朗核问题的担忧。
+4. 英法德外长表示，已准备好与伊朗进行更多会谈，试图恢复解决伊朗核问题的外交途径，并欢迎美国参与进一步谈判。
+5. 法国外长表示，伊朗核问题只能通过谈判解决，伊朗方面称愿意继续就其核计划展开讨论，并且也愿意就所有议题展开更广泛的对话。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[在手机上追求顶级扬声器，如今究竟还有意义吗？]]></title>
-        <link href="https://www.36kr.com/p/3344726179857030" />
-        <id>https://www.36kr.com/p/3344726179857030</id>
-        <updated>Fri, 20 Jun 2025 20:49:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词: REDMI K80至尊版, 扬声器, 音质, 手机外放, 市场需求
+        <title><![CDATA[36氪晚报｜英伟达与富士康洽谈部署人形机器人；泡泡玛特已注册CRYBABY商标；万兴天幕2.0亮相华为HDC2025]]></title>
+        <link href="https://www.36kr.com/p/3344842387374978" />
+        <id>https://www.36kr.com/p/3344842387374978</id>
+        <updated>Fri, 20 Jun 2025 23:00:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：罗马仕, 辛选, AI修复, 安克, 医疗器械
 
 <br><br>总结:
-1. REDMI K80至尊版预计将配备豪华扬声器，引发关注，重现“小米系”配置下放优势。
-2. 手机外放历史悠久，早期厂商通过“堆料”扬声器提升铃声体验，多媒体时代外放喇叭一度流行。
-3. 智能手机时代，由于网络速度和用户关注点转移，外放扬声器配置曾被忽视，LG和小米等品牌曾短暂复兴高品质外放设计。
-4. 手机内部空间限制及上游供应链的挑战，导致扬声器“堆料”难度增加。
-5. 市场需求转变，耳机和蓝牙音箱普及，公共场合外放受限，削弱了消费者对手机外放的依赖。
+1. 罗马仕充电宝3C认证被撤销，官方渠道下架，原因未明，但其他平台仍在售。
+2. 辛选618大促带货成绩显著，总带货商品数量超3300万单，多个品牌销售额破亿。
+3. 爱奇艺与上海电影技术厂成立影绮AI实验室，利用AI技术修复经典电影。
+4. 安克创新主动召回部分批次移动电源，因发现行业通用电芯的来料品质问题。
+5. 万兴科技发布万兴天幕音视频多媒体大模型2.0，并推出终端应用万兴天幕创作广场。
+6. 英伟达和富士康或将在休斯顿工厂部署人形机器人，用于生产AI服务器。
+7. 国泰航空全球客运航点已达100个，5月载客率创2015年以来新高。
+8. 泡泡玛特注册“CRYBABY”商标，并登记《LABUBU 与朋友们》动画剧集剧本著作权。
+9. 长缆科技拟定增募资不超过4.6亿元，用于产能扩充、研发等项目。
+10. 智飞生物吸附破伤风疫苗获临床试验批准。
+11. 腾讯云开发CloudBase发布“AI Builder”，利用AI生成网页、小程序或应用。
+12. Springworks的药物Ogsiveo获欧洲药品管理局积极意见，用于治疗进展性硬纤维瘤。
+13. 美联储理事沃勒表示，或许最早在七月会议上就可能降息。
+14. 国家药监局发布优化全生命周期监管支持高端医疗器械创新发展的举措。
+15. 金融监管总局发布商业银行市场风险管理办法，避免薪酬制度和激励机制与市场风险管理目标产生利益冲突。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[大揭秘，OpenAI被扒了个底朝天]]></title>
-        <link href="https://www.36kr.com/p/3344734678598534" />
-        <id>https://www.36kr.com/p/3344734678598534</id>
-        <updated>Fri, 20 Jun 2025 20:14:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: OpenAI, 奥特曼, 利益冲突, 安全风险, 公司治理
+        <title><![CDATA[AI大战张雪峰，谁是最后赢家？]]></title>
+        <link href="https://www.36kr.com/p/3344624320210441" />
+        <id>https://www.36kr.com/p/3344624320210441</id>
+        <updated>Fri, 20 Jun 2025 21:08:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 高考志愿, AI工具, 张雪峰, 志愿填报, 数据分析
 
 <br><br>总结:
-
-1.  **公司重组:** OpenAI系统性拆除创立时的道德与结构支柱，从“为人类谋福祉”转变为“为投资者谋利润”，利润上限和非营利监督机制被瓦解，公益承诺形同虚设。
-2.  **CEO诚信:** 奥特曼存在言行不一、操纵信息和规避监督的行为模式，并将个人利益置于组织责任之上，在员工协议、股权问题上存在欺骗行为。
-3.  **运营与安全风险:** OpenAI在安全和透明度方面言行不一，为追求商业利益削弱安全监督，甚至惩罚内部异议，延迟报告安全事件。
-4.  **利益冲突风险:** 奥特曼的个人投资与OpenAI的业务存在深度捆绑，他利用OpenAI的资源扶持个人投资项目，损害公司利益，引发对其信托责任的质疑。
+1. 张雪峰及其公司通过高价志愿填报服务获取高额利润，但其服务质量受到质疑，同时利用“隐退”营销手段吸引关注。
+2. 面对高昂的志愿填报费用和新高考带来的复杂性，科技大厂纷纷推出免费AI志愿填报工具，试图提供“信息平权”。
+3. 各家AI工具的数据来源相似，但在数据精细度、分析维度以及算法上存在差异，导致录取概率预测结果有所不同。
+4. 尽管AI工具在信息收集方面有优势，但在个性化服务、考虑缩招/扩招等变动因素方面存在局限性，用户不应完全依赖AI做决策。
+5. AI工具的兴起加速了志愿填报行业的分化，低端填报师将被取代，而具备生涯规划能力的咨询师价值将提升，张雪峰的核心价值在于顶层咨询和情绪拿捏。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[ChatGPT用多了会变傻，MIT招募大学生做实验论证，用得越多人越笨]]></title>
-        <link href="https://www.36kr.com/p/3344696933745284" />
-        <id>https://www.36kr.com/p/3344696933745284</id>
-        <updated>Fri, 20 Jun 2025 19:48:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词：ChatGPT, 大脑活动, 认知负荷, 记忆衰退, 认知惯性
+        <title><![CDATA[出行平台的下半程：高德难破“阿里局”，滴滴寻觅“新大陆”]]></title>
+        <link href="https://www.36kr.com/p/3344459916535047" />
+        <id>https://www.36kr.com/p/3344459916535047</id>
+        <updated>Fri, 20 Jun 2025 21:00:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 高德地图, 滴滴, 本地生活, 盈利, 流量
 
 <br><br>总结:
-1. MIT研究表明，过度使用ChatGPT等AI工具会降低大脑活动水平，削弱记忆，甚至造成“认知惯性”。
-2. 实验对比了LLM、搜索引擎和纯大脑三种写作方式，发现使用LLM时大脑神经连接最弱，自主思考减少。
-3. 长期依赖LLM会使大脑从“主动生成信息”转变为“被动筛选信息”，影响独立思考和问题解决能力。
-4. 研究建议在学习中避免过度使用LLM，将其作为语法检查、润色或初步资料搜集的辅助工具，而非直接生成核心内容和结构。
-5. 强调保持工具辅助与自主思考之间的平衡，不要把AI当作思考的“替代品”，而应视为“辅助工具”。
+1.  高德地图月活用户高达8.73亿，位列中国移动互联网第四极，但其工具属性限制了商业化进程。
+2.  高德地图通过技术投入（三维实景地图、北斗定位）和生态建设（整合口碑、试水即时配送），试图从导航工具向“出门好生活”平台转型，并开始商业化授权收费。
+3.  高德地图聚合打车业务已实现盈利，但面临抖音、美团等平台的竞争，以及阿里生态内部的协同限制，其独立发展受到一定约束。
+4.  滴滴在海外市场积极扩张，海外业务减亏并实现盈利，但高德地图在海外市场的发展受到阿里生态部署的限制，海外品牌形象需要加固。
+5.  高德地图需要在保持生态协同的同时，拿回更多经营权，提升服务能力，才能从阿里生态的触点成长为具备独立生命力的本地生活平台，滴滴则希望海外成功能够有效对冲国内市场的周期性波动。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[伊朗外交部：若以色列停止侵略，外交途径解决冲突将成为选择]]></title>
-        <link href="https://m.thepaper.cn/detail/31016185" />
-        <id>https://m.thepaper.cn/detail/31016185</id>
-        <updated>Fri, 20 Jun 2025 18:37:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 伊朗, 以色列, 冲突, 外交, 侵略
+        <title><![CDATA[即时零售首战“618”]]></title>
+        <link href="https://www.36kr.com/p/3344750111146882" />
+        <id>https://www.36kr.com/p/3344750111146882</id>
+        <updated>Fri, 20 Jun 2025 20:26:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 即时零售, 美团闪购, 618, 电商平台, 供应链
 
 <br><br>总结:
-1. 伊朗外交部表示，如果以色列停止侵略，则可以通过外交途径解决当前冲突。
-2. 伊朗外长阿拉格齐此前表示，只要以色列继续袭击，伊朗就不会与任何一方进行对话。
-3. 这表明伊朗愿意在以色列停止敌对行动的前提下，考虑通过外交手段解决争端。
-]]></summary>
+1.  **即时零售崛起:** 今年618，即时零售渠道（如美团闪购）增长显著，小天才手表在美团闪购销量增长超800%，占比提升至40%。
+
+2.  **平台竞争:** 美团闪购、京东、淘宝等电商平台纷纷加码即时零售业务，竞争激烈，美团闪购部分品类已反超电商平台。
+
+3.  **消费习惯转变:** 即时零售从应急消费转向日常高频消费，尤其受年轻人欢迎，品类包括休闲零售、酒水饮料等。
+
+4.  **供应链重构:** 即时零售供应链分散复杂，平台需重新积累经验。商家通过O2O模式，自建闪电仓，解决售后问题。
+
+5.  **未来趋势:** 即时零售被认为是电商平台的新增长点，长期来看将分流传统电商，引发更激烈的平台竞争。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[价格被打下来，AI眼镜就能上桌了？]]></title>
-        <link href="https://www.36kr.com/p/3344605318464128" />
-        <id>https://www.36kr.com/p/3344605318464128</id>
-        <updated>Fri, 20 Jun 2025 18:30:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI眼镜, 续航, 消费者体验, 市场增长, 技术挑战
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 5美元赠金, 应用商店自动部署, Memos, AList
 
-<br><br>总结:
-1. 618前夕AI眼镜市场迎来“百镜大战”，各厂商纷纷推出新品，功能涵盖拍照、翻译、语音交互等。
-2. 消费者反馈显示，AI眼镜存在续航不足、佩戴不适、漏音等问题，智能化体验未达预期。
-3. 央视财经报道智能眼镜成交量激增，预计未来几年将保持高速增长，但消费者对产品功能与实际体验存在鸿沟。
-4. AI眼镜重量控制有所改进，但续航仍是痛点，此外还存在漏音、提词器字幕外泄等用户体验问题。
-5. 厂商将AI眼镜视为未来智能设备生态的关键一环，急于抢占市场，构建生态体系，产品升级有待时日。]]></summary>
+Github用户可以在注册时间满180天后，申请Claw Cloud Run免费容器，并每月获得5美元赠金。用户可通过浏览器查看自己的Github注册时间，然后在Claw Cloud Run上部署各种Docker应用，可以选择自动部署或手动部署。推荐的两款应用为Memos（轻笔记应用）和AList（网盘挂载工具）。用户可通过Youtube视频了解更多详细内容。<br><br>总结: Claw Cloud Run提供免费容器服务，通过Github注册时间判断资格，同时提供5美元赠金；用户可自行部署Docker应用，推荐Memos和AList应用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS、命令、网址
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS, 注册验证, 创建VM实例, 开放防火墙, SSH登录
+
+谷歌云提供免费VPS政策，注册验证后可以创建完全免费的VM实例，需注意开放防火墙规则并选择合适的SSH登录方式。在科学上网时，建议使用Hysteria 2节点，并注意免费政策。搭建科学上网节点时可选择命令行或面板搭建，也可以使用甬哥一键脚本快速搭建。记得设置数据保护和备份方式，避免产生额外费用。总体操作简单，适合小白用户使用。<br><br>总结: 谷歌云免费VPS政策，注册验证后创建VM实例，注意开放防火墙和SSH登录方式，搭建科学上网节点需注意免费政策和选择合适工具。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github仓库，Cloudflare，Pages，域名，SSL证书
+<br><br>
+总结：DigitalPlat提供免费和收费的域名注册服务，用户可获得1至4个免费域名额度，us.kg域名需要每年续期。用户可以访问Github仓库获取更多信息，Cloudflare提供Pages服务和自定义域名及SSL证书解决方案。详细教程可在Youtube视频中查看。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO, 稳定性, 速度, 购买, ChatGPT<br>
 <br>
-爪云是一个提供内网穿透服务的平台，可以通过注册获取免费域名，使用VPS部署所需的命令或网址进行配置。用户可以选择临时或固定隧道模式，固定模式需要准备UUID、Cloudflare隧道Token和隧道域名。通过相关docker命令可以管理容器的运行和查看日志。视频教程提供了详细的操作指导，帮助用户快速部署科学上网节点。总结: 爪云提供内网穿透服务，需要注册获取免费域名，使用VPS部署命令或网址配置，选择临时或固定隧道模式，准备UUID、Cloudflare隧道Token和域名，管理容器运行和查看日志，视频教程指导部署科学上网节点。]]></summary>
+在本视频中，主持人介绍了HostUNO代理服务的稳定性和速度，表示该服务无需保活，同时提到购买过程和价格。他分享了自己的总体体验，包括购买流程、修改登录密码、搭建代理节点和测速情况。此外，他还提到了ChatGPT降智问题，介绍了如何续费。总的来说，他认为HostUNO的服务值得购买。如果想了解更多详情，请查看Youtube视频。 <br><br>总结: HostUNO代理服务在稳定性和速度方面表现良好，无需保活，购买过程简单，价格合理。购买过程顺利，节点搭建和测速情况都令人满意。但需注意ChatGPT降智问题，续费方式简便。整体而言，HostUNO服务值得推荐。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、注册、Cloudflare、FreeDNS、域名
-
-总结: us.kg免费域名已挂，已注册的域名仍在有效。新的域名可托管到Cloudflare，也可临时托管到FreeDNS。目前仍可使用us.kg注册新的域名，两种域名的区别在于托管服务和稳定性。]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码newuser
+US.KG注册困难，推荐使用免费域名注册并托管到Cloudflare。通过身份信息生成器注册账号，使用优惠码newuser购买免费一年的域名。然后登录Cloudflare添加域名，并将分配的两个名称服务器填入域名管理界面即可完成托管。详细步骤可参考Youtube视频教程。总结: 使用免费域名注册、身份信息生成器、Cloudflare托管，充分利用优惠码newuser，通过视频教程可轻松实现。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、Serv00、科学上网、CDN回源、网页保活<br>
-<br>
-总结: 本文介绍了如何使用Serv00搭建科学上网节点，并通过Cloudflare实现固定隧道和CDN回源，同时实现网页保活功能。用户可以使用Serv00提供的域名登录，也可以通过系统代理访问。在Cloudflare上设置隧道和CDN回源规则，实现流量转发和加速。另外，通过Cloudflare的Worker功能，可以实现远程保活，保障节点正常运行。整个步骤清晰明了，操作简单，为用户提供了详细的指导。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、视频
-US.KG域名目前受限，需通过https://dash.domain.digitalplat.org/完成注册和KYC验证。注册账号，验证邮箱，进行KYC验证。注册域名，并托管到Cloudflare使用。注意免费域名的优缺点。详情见Youtube视频。总结: US.KG域名受限需在 https://dash.domain.digitalplat.org/ 完成注册和KYC验证，注册并托管到Cloudflare。免费域名的优缺点应被注意。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
-<br>
-Deepseek是一个翻译工具，可以通过网页端、APP和API来使用，也可以进行本地部署。可以在官方网站、官方手机客户端下载使用，通过API注册可以获得10元体验金，可用于沉浸式翻译、Chatbox等软件。第三方应用也可以使用Deepseek，本地部署需要下载安装Ollama并输入命令来运行。视频中提到的使用方法和模型选择也可以帮助理解Deepseek的使用。 
-<br><br>总结: Deepseek是一个多功能翻译工具，通过网页端、APP、API和本地部署可以进行使用，提供了多种应用场景和模型选择，适用于各种用户需求。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
