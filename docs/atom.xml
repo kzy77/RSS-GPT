@@ -2,341 +2,278 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-06-21T04:25:51Z</updated>
+    <updated>2025-06-21T06:27:19Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Mac Mini M4 16G 内存本地大模型性能横评：9 款模型实测对比]]></title>
-        <link href="https://juejin.cn/post/7516509837515423795" />
-        <id>https://juejin.cn/post/7516509837515423795</id>
-        <updated>Tue, 17 Jun 2025 15:35:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 本地大模型, 横向对比, Qwen, Gemma, Llama
+        <title><![CDATA[如何给 GitHub Copilot "洗脑”，让 AI 精准遵循指令产出高质量代码]]></title>
+        <link href="https://www.cnblogs.com/cuipengfei/p/18933709" />
+        <id>https://www.cnblogs.com/cuipengfei/p/18933709</id>
+        <updated>Tue, 17 Jun 2025 22:28:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：GitHub Copilot, 代码质量, 错误处理, 异常情况, 单元测试
 
 <br><br>总结:
-1.  文章对多个m4本地大模型进行了横向对比测试，包括Gemma, Qwen, Deepseek, 和Llama等。测试问题包括中文和英文，旨在评估模型的回答准确性、中文支持和推理速度。
-2.  Qwen3:8b在回答质量方面表现最佳，结构清晰、内容丰富、中文支持优秀。
-3.  Llama3.2:3b拥有最快的推理速度，但仅支持英文问题。
-4.  Gemma3:4b在质量和速度之间取得了较好的平衡，回答质量好，推理速度快，且中文支持不错，被认为是综合第一名。
-5.  文章推荐使用Gemma3:4b处理简单的本地任务，因为它在质量和速度方面表现出色。
+*   作者在使用GitHub Copilot时发现，其生成的代码虽然量大，但质量参差不齐。
+*   Copilot 生成的代码常见问题包括：缺少错误处理，未考虑异常情况。
+*   生成的代码还存在命名不规范，缺乏单元测试等问题。
+*   有时还会出现“魔法数字”这种不良代码习惯。
+*   因此，需要仔细审查 Copilot 生成的代码，确保代码质量。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[以伊冲突第9天 伊朗开出谈判条件 特朗普透露美方底线]]></title>
-        <link href="https://www.yicai.com/news/102682341.html" />
-        <id>https://www.yicai.com/news/102682341.html</id>
-        <updated>Sat, 21 Jun 2025 10:27:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 伊朗，以色列，军事打击，外交，核问题
+        <title><![CDATA[曾经风光无限的 Oracle DBA 已经落伍了吗？]]></title>
+        <link href="https://www.cnblogs.com/jyzhao/p/18924802/ceng-jing-feng-guang-wu-xian-de-oracle-dba-yi-jing" />
+        <id>https://www.cnblogs.com/jyzhao/p/18924802/ceng-jing-feng-guang-wu-xian-de-oracle-dba-yi-jing</id>
+        <updated>Thu, 12 Jun 2025 00:50:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Oracle DBA，运维，AI时代，破局，重生
 
 <br><br>总结:
-1. 伊朗和以色列互相发动军事打击，造成人员伤亡和设施损毁，冲突升级。伊朗使用导弹和无人机攻击以色列军事目标，以色列空袭伊朗西部导弹存储设施。
-2. 伊朗外长与英法德外长会谈，重申以色列停止侵略是谈判前提，欧洲国家希望伊朗就核问题与美国恢复谈判。
-3. 特朗普表示难以要求以色列停止袭击，暗示可能支持停火，并强调不愿派遣地面部队，同时坚称伊朗离拥有核武器不远。
-4. 联合国安理会举行紧急会议，多方呼吁停火止战，通过外交手段解决伊核问题。国际原子能机构警告伊朗核安全风险加剧。
-5. 伊朗国内多地举行反美以集会，表达对政府和军队的支持。
+1.  传统Oracle DBA运维方向在国内面临困境，未来发展渺茫。
+2.  文章回顾了DBA的历史发展。
+3.  强调了AI时代对DBA角色的影响。
+4.  提出了DBA如何适应变革、实现破局重生的策略。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[分歧明显！美联储官员激辩降息紧迫性]]></title>
-        <link href="https://www.yicai.com/news/102682221.html" />
-        <id>https://www.yicai.com/news/102682221.html</id>
-        <updated>Sat, 21 Jun 2025 08:08:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：美联储，降息，通胀，关税，经济
+        <title><![CDATA[LibDriver/MPU6050]]></title>
+        <link href="https://gitee.com/libdriver/mpu6050" />
+        <id>https://gitee.com/libdriver/mpu6050</id>
+        <updated>Sat, 21 Jun 2025 21:01:58 +0800</updated>
+        <summary type="html"><![CDATA[MPU6050, 驱动, 通用MCU, Linux系统, 全功能
 
 <br><br>总结:
-1. 美联储理事沃勒认为最早可能在7月降息，原因在于通胀温和及就业市场出现担忧迹象，并认为美联储应关注通胀基本趋势。
-2. 沃勒也提到，若通胀恶化，美联储可能会暂停降息，同时关注特朗普政府关税政策对通胀的影响。
-3. 里士满联储主席巴尔金认为，通胀仍高于目标，且关税辩论未解决，失业率较低，因此不急于降息，企业也持观望态度。
-4. 旧金山联储主席戴利认为，美国经济基本面可能需要降息，但7月过早，秋季更适合，除非劳动力市场出现重大衰退。
-5. 美联储官员对降息时机的立场存在分歧，反映了FOMC内部对关税影响未来经济的看法不同。
-6. 联邦基金利率期货定价显示，美联储今年首次降息可能在9月之后，并可能面临来自美国总统特朗普要求降息的政治压力。
+1.  该驱动程序适用于MPU6050，这是一款常用的六轴运动传感器。
+2.  该驱动程序旨在兼容通用微控制器（MCU）平台，使其易于集成到各种嵌入式项目中。
+3.  该驱动程序也能够在Linux系统上运行，为更高级的应用提供了灵活性。
+4.  该驱动程序提供了完整的功能，这意味着它可以访问MPU6050的所有关键功能，例如读取加速度计和陀螺仪数据，配置传感器参数等。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[网易要做首款3A游戏了，能复制《黑神话：悟空》的神话吗？]]></title>
-        <link href="https://www.yicai.com/news/102682225.html" />
-        <id>https://www.yicai.com/news/102682225.html</id>
-        <updated>Sat, 21 Jun 2025 08:07:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 网易, 《归唐》, 3A游戏, 单机游戏, 文化传承
+        <title><![CDATA[美国心脏病学会最新指南建议: 肥胖患者优先使用减重药预防心脏病]]></title>
+        <link href="https://www.yicai.com/news/102682462.html" />
+        <id>https://www.yicai.com/news/102682462.html</id>
+        <updated>Sat, 21 Jun 2025 12:59:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词：减肥药，心脏病，ACC指南，司美格鲁肽，体重降低
 
 <br><br>总结:
-1. 网易雷火工作室公布3A单机游戏《归唐》，背景设定为安史之乱后的晚唐，聚焦小人物故事。
-2. 网易此举意在提升品牌形象，摆脱对手游的依赖，打造精品游戏大厂的形象。
-3. 3A游戏投入大，回报不确定，但可以提升公司在全球游戏竞争中的品牌号召力，奠定“百年老店”的基础。
-4. 《归唐》被视为网易修复与玩家信任裂痕的机会，也面临着后续运营模式的质疑。
-5. 网易希望通过《归唐》呈现中国文化，弥补3A游戏中缺少中国背景的遗憾，并已具备一定的古风游戏开发经验。
+1.  美国心脏病学会(ACC)最新指南建议，肥胖患者应优先使用减肥药预防心脏病，配合生活方式改变。
+2.  ACC指出，礼来与诺和诺德的减肥药风险比减重手术更小，且减肥药可能更容易帮助患者达到降低心血管事件风险所需的体重降幅(10%-15%)。
+3.  诺和诺德数据显示，更高剂量的司美格鲁肽减肥药能为肥胖症患者带来平均21%的体重降幅，并预计将于2025下半年在欧盟提交更高剂量的司美格鲁肽减重药的标签更新申请。
+4.  ACC强调保险覆盖范围是治疗障碍，呼吁改善减肥疗法的可及性。
+5.  专家担忧减肥药对长期健康的影响，尤其是减脂的同时减少肌肉的问题，许多公司正在研发下一代减肥药物以解决这一问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美联储半年度货币政策报告：通胀预期上升，评估关税影响为时尚早]]></title>
-        <link href="https://www.yicai.com/news/102682220.html" />
-        <id>https://www.yicai.com/news/102682220.html</id>
-        <updated>Sat, 21 Jun 2025 08:07:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 流动性, 贸易政策, 通货膨胀, 关税, 美联储
+        <title><![CDATA[上海再迎金融大礼包，以旧换新“国补”将持续全年丨一周热点回顾]]></title>
+        <link href="https://www.yicai.com/news/102682457.html" />
+        <id>https://www.yicai.com/news/102682457.html</id>
+        <updated>Sat, 21 Jun 2025 12:59:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词：上海金融中心，消费回升，财政收入，以旧换新，美联储
 
 <br><br>总结:
-1. 美国经济第一季度GDP略有下降，主要受进口激增影响，但消费者支出和资本支出保持增长。
-2. 劳动力市场趋于平衡，但劳动力供应增速放缓。
-3. 关税已推高商品通胀，短期通胀预期上升，长期通胀预期稳定。
-4. 金融市场流动性有所改善，但仍对贸易政策敏感，美元指数因贸易政策变化而下降。
-5. 评估关税的全面影响为时尚早，企业通过建立库存和使用保税仓库来缓冲价格冲击，但后续影响预计将在夏季显现。地缘政治紧张局势也加剧了通胀压力，导致美联储降息预期降低。
+
+1.  上海国际金融中心建设迎来政策红利，央行、金融监管总局、证监会推出多项创新政策，聚焦人民币国际化、金融开放、科创资本改革，提升上海金融竞争力。
+
+2.  5月消费增速大幅回升，得益于以旧换新政策、“6·18”促销和假期增加。消费市场活力增强，但居民消费能力和信心仍需提升。
+
+3.  1~5月全国财政收入同比降幅收窄，但税收受企业利润和房地产影响下降。政府债券发行支撑财政支出，未来财政空间取决于债券、地产和政策性金融工具。
+
+4.  以旧换新“国补”将持续全年，之前部分地区暂停是因资金用完，后续资金将陆续下达，地方需优化补贴发放方式。
+
+5.  美联储维持利率不变，受特朗普关税政策和中东局势影响，降息门槛抬高，关税和能源可能推高通胀，增加降息决策复杂性。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[高考成绩下周陆续公布，多所高校强基计划增加前沿专业]]></title>
+        <link href="https://www.yicai.com/news/102682463.html" />
+        <id>https://www.yicai.com/news/102682463.html</id>
+        <updated>Sat, 21 Jun 2025 12:58:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：强基计划, 高校校考, 专业调整, 人才培养, 机制优化
+
+<br><br>总结:
+1. 强基计划在39所高校试点，主要面向基础学科和国家重大战略领域专业招生。
+2. 部分高校如北理工、南大、电子科大等对强基计划招生专业进行了调整，新增了前沿交叉学科和高精尖王牌专业，如机器人工程、智能科学等，以适应社会需求。
+3. 专家储朝晖认为，专业调整有利于提高项目实施效果，强基计划的“基”既包含基础学科也包含社会需求，应及时评估调整效果。
+4. 南京大学教育研究院教授余秀兰、博士生朱德玲建议完善动态分流机制，放宽转专业限制，探索跨校转段，为学生提供更包容的成长环境。
+5. 强基计划的转段、转专业、进出机制仍需进一步完善优化，以更好实现人才培养目标。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美股涨跌互现标普三连阴，中东局势持续扰动市场神经]]></title>
-        <link href="https://www.yicai.com/news/102682219.html" />
-        <id>https://www.yicai.com/news/102682219.html</id>
-        <updated>Sat, 21 Jun 2025 08:07:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词：美股, 伊朗, 美联储, 经济数据, 黄金
+        <title><![CDATA[市场监管总局今年将对164种产品开展国家监督抽查]]></title>
+        <link href="https://www.yicai.com/news/102682337.html" />
+        <id>https://www.yicai.com/news/102682337.html</id>
+        <updated>Sat, 21 Jun 2025 08:56:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词：产品质量，国家监督抽查，民生，新兴产业，网售
 
 <br><br>总结:
-1. 美股三大股指涨跌互现，科技股表现疲软，道指微涨，纳指和标普500下跌。
-2. 中长期美债收益率回落，市场预计美联储可能在9月开始降息。
-3. 中东局势紧张，特朗普政府对伊朗态度强硬，并否认了有关伊朗未制造核武器的说法。
-4. 谷歌受欧盟反垄断调查影响下跌，科技股普遍分化。
-5. 美国经济数据表现疲软，经济领先指标下降，费城联储制造业指数继续萎缩。国际金价承压下行，国际油价走弱。
+*   市场监管总局启动2025年产品质量国家监督抽查，覆盖164种产品，抽样约1.6万批次。
+*   抽查工作以问题为导向，突出民生属性，重点关注儿童学生用品。
+*   显著提升充电宝、电动自行车、燃气用具等产品的抽查批次。
+*   将动力电池、无人机、光伏组件、电动汽车充电桩等新兴产业产品纳入抽查范围。
+*   大幅增加直播带货等网售产品抽查力度，批次较2024年增长70%。
+*   抽查结果将及时公布，曝光典型案例，保障消费者权益。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[消费者指“得力”一型号卡尺误差超过宣称应下架，品牌方回应：抽测合格]]></title>
-        <link href="https://m.thepaper.cn/detail/31016442" />
-        <id>https://m.thepaper.cn/detail/31016442</id>
-        <updated>Sat, 21 Jun 2025 07:35:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 得力卡尺, 精度超差, 京东, 第三方检测, 售后处理
+        <title><![CDATA[五粮液：把握第八代五粮液投放节奏，抓住年轻消费群体，全面布局电商渠道]]></title>
+        <link href="https://m.thepaper.cn/detail/31017646" />
+        <id>https://m.thepaper.cn/detail/31017646</id>
+        <updated>Sat, 21 Jun 2025 08:02:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词：五粮液, 增长, 营销, 年轻化, 国际化
 
 <br><br>总结:
-1. 消费者赵林在京东购买的两把得力高精数显卡尺被第三方检测出精度超差，与宣传的±0.03mm不符。
-2. 得力回应称，库存抽检合格，例行检测未发现不合格，可能因运输或检测方式差异导致。
-3. 得力希望与消费者共同选择权威第三方复测，根据结果处理。
-4. 京东已删除商品页面的精度描述，但客服仍称精度为±0.03mm，其他平台仍在售卖。
-5. 消费者希望平台下架问题产品，并对已售出不合格产品进行通知和赔偿。
+1. 五粮液董事长表示，面对白酒行业调整，要以自身确定性应对外部不确定性，行业文化属性未变。
+2. 五粮液2023年营收和净利润均实现稳健增长，并计划未来五年、十年保持增长，坚持“初心不变，决心不变，信心不变”。
+3. 五粮液重视投资者回报，大幅提高分红比例，同时实施增持计划，并持续推进。
+4. 五粮液推进营销改革，实施“量价平衡”策略，改革营销体制机制，优化供需关系，探索新零售模式。
+5. 五粮液关注年轻消费群体，推出低度新品，优化年轻化产品渠道建设，并加强电商渠道管理，打击假冒产品，同时也在积极布局白酒国际化。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[工人日报：出租工位供人“假装上班”，“职场生意”怎么不跑偏？]]></title>
-        <link href="https://m.thepaper.cn/detail/31020204" />
-        <id>https://m.thepaper.cn/detail/31020204</id>
-        <updated>Sat, 21 Jun 2025 07:18:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 假装上班, 职场空窗期, 共享办公, 心理需求, 就业服务
+        <title><![CDATA[AI大神Karpathy演讲刷屏：软件3.0时代已来，提示词就是新代码]]></title>
+        <link href="https://www.36kr.com/p/3344734734566016" />
+        <id>https://www.36kr.com/p/3344734734566016</id>
+        <updated>Fri, 20 Jun 2025 20:15:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: LLM, 操作系统, GUI, 自动化, 教育
 
 <br><br>总结:
-1.  “假装上班”公司为职场空窗期人群提供有偿办公场地，满足其维持上班节奏的需求。
-2.  该模式在北京、深圳等多地出现，运营者看到了市场潜力，通过出租闲置办公空间盈利。
-3.  目标客户包括大学生、求职者、自由职业者、副业人群和创业者，旨在缓解压力、建立社交、降低成本。
-4.  有人认为“假装上班”是噱头，也有人认为能缓解精神压力，并提供交流和启发。
-5.  专家建议“假装上班”公司转型升级，提供灵活就业服务、创业支持等，提升社会价值，并结合人工智能发展趋势提供技能提升和就业创业指导。
+1. Karpathy 认为 LLM 并非商品，而是一个复杂的生态系统，更像是操作系统，其中 LLM 是 CPU，上下文窗口是内存，工作流如同操作系统调度资源。
+2. 纯文本交互形式不会长久，GUI 可以加速对 AI 成果的验证和审计，是人机协作的高效桥梁。
+3. 实现 AI 部分自动化的三个前提是：感知、行动和监督，现有软件界面需要改造，变得对 LLM 可访问。
+4. AI Agent 的发展会是一个漫长的过程，需要从演示到可靠产品不断迭代。
+5. AI 在教育中应该限制在人类的产出中，让教师与 AI 协作创建结构化的课程，避免 AI 失控和迷失方向。
+6. LLM 具有类似人类的心理特征，既强大也脆弱，AI 技术扩散方向颠覆传统，应拥抱 LLM 时代。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[深度｜渐冻人冯锦源：方寸之间，如何与世界连接？]]></title>
-        <link href="https://m.thepaper.cn/detail/31003830" />
-        <id>https://m.thepaper.cn/detail/31003830</id>
-        <updated>Sat, 21 Jun 2025 07:09:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 渐冻人, 游戏设计, 剧本创作, AI应用, 孤独感
+        <title><![CDATA[一个基于 .NET 8 + Ant Design Blazor 开发的简洁现代后台管理框架]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18927715" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18927715</id>
+        <updated>Fri, 13 Jun 2025 22:03:00 +0800</updated>
+        <summary type="html"><![CDATA[.NET 8, Ant Design Blazor, 后台管理框架, Caviar, 开源
 
 <br><br>总结:
-1. 冯锦源是一位身患渐冻症的40岁人士，全身仅有两根手指和眼睛可以活动。
-2. 他克服身体的限制，坚持进行游戏剧本创作和书籍翻译工作，翻译20多部作品，完成超百万字的剧本写作，设计出多款游戏。
-3. 他积极拥抱新技术，尝试利用AI进行剧本创作、资料检索，并体验游戏。
-4. 冯锦源的生活主要为“两点一线”，与家政阿姨同住，母亲每周探望，父亲因病住院。
-5. 尽管身体不便，他仍保持乐观，坚持创作，并考虑未来通过直播与外界互动，以对抗孤独感。
+1. Caviar 是一个基于 .NET 8 和 Ant Design Blazor 开发的后台管理框架。
+2. 该框架采用简洁架构，易于上手和使用。
+3. Caviar 遵循 Apache-2.0 开源协议，可以免费使用和修改。
+4. 这是一个现代化的后台管理解决方案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[伊朗与欧洲官员会晤、坚持以色列停火是外交解决前提，特朗普：很难要求以方停手，给伊方最多两周时间]]></title>
-        <link href="https://wallstreetcn.com/articles/3749543" />
-        <id>https://wallstreetcn.com/articles/3749543</id>
-        <updated>Sat, 21 Jun 2025 05:22:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 以伊冲突, 核问题, 谈判, 特朗普, 俄罗斯
-
-<br><br>总结:
-1. 以伊冲突加剧，中俄等国致力于化解危机，伊朗表示以色列停止袭击才可谈判，暗示可能在核浓缩方面让步。
-2. 英法德及欧盟官员与伊朗外长会谈，讨论伊核问题，但未打破僵局，伊朗坚持以色列停止侵略才考虑外交途径。
-3. 特朗普称可能支持停火，但不大可能要求以色列停止袭击，并暗示伊朗只有两周时间避免被打击。
-4. 俄罗斯警告美国不要军事干预，普京发出第三次世界大战的警告。
-5. 以色列国防部长表示将继续打击伊朗核设施和科学家，以驻联合国大使称会继续袭击直到消除伊核威胁。
-]]></summary>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token <br>
+总结: 本文介绍了爪云（Claw Cloud Run）及内网穿透部分的使用方法。首先提供了注册链接和免费域名注册链接。然后列出了在VPS部署所需的命令和网址。包括前置工作中获取root权限和安装docker，临时隧道模式的运行命令，固定隧道模式需要准备的UUID、Cloudflare隧道Token和隧道域名，并给出了运行命令。最后介绍了相关docker命令，包括查看容器、查看日志、停止容器和删除容器的操作。同时还提供了相关视频教程供参考。整体内容详细介绍了爪云的注册、内网穿透和VPS部署的步骤和操作方法。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[以色列准备与伊朗打持久战，美媒表示质疑，特朗普：可能会支持停火]]></title>
-        <link href="https://wallstreetcn.com/articles/3749545" />
-        <id>https://wallstreetcn.com/articles/3749545</id>
-        <updated>Sat, 21 Jun 2025 05:08:24 +0800</updated>
-        <summary type="html"><![CDATA[以色列，伊朗，导弹，打击，特朗普
-
-<br><br>总结:
-1. 以色列国防军总参谋长称，以色列必须为“对伊朗的一场持久战”做好准备，认为伊朗多年来计划摧毁以色列，且能力已具备实战水平。
-2. 以色列已对伊朗发起突袭，声称摧毁了伊朗高级指挥层，重创核项目关键部分，并摧毁约一半的导弹发射装置。
-3. 以色列与伊朗的军事冲突成本高昂，每天耗费数亿美元，主要成本来自拦截伊朗导弹的拦截弹及战后重建，这迫使以色列面临速战速决的压力。
-4. 美国总统特朗普表示，很难要求以色列停止空袭，可能会支持停火，并称正在与伊朗对话，认为伊朗距离拥有核武器还有数周或数月的时间。
-5. 特朗普认为美国国家情报总监关于“没有证据证明伊朗正在制造核武器”的说法是错误的。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[现场视频：菲方侵闯黄岩岛被驱离]]></title>
-        <link href="https://m.thepaper.cn/detail/31017635" />
-        <id>https://m.thepaper.cn/detail/31017635</id>
-        <updated>Fri, 20 Jun 2025 23:00:34 +0800</updated>
-        <summary type="html"><![CDATA[黄岩岛, 菲律宾, 公务船, 中国海警, 水炮
-
-<br><br>总结:
-*   6月20日，菲律宾3006号公务船侵闯中国黄岩岛领海。
-*   中国海警船只对菲方船只实施三面包夹。
-*   中国海警用水炮驱离了菲律宾船只。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[布油跌幅扩大至4.2%，报道称伊朗准备讨论限制铀浓缩，但拒绝零浓缩]]></title>
-        <link href="https://wallstreetcn.com/articles/3749537" />
-        <id>https://wallstreetcn.com/articles/3749537</id>
-        <updated>Fri, 20 Jun 2025 21:35:09 +0800</updated>
-        <summary type="html"><![CDATA[关键词：伊朗，铀浓缩，以色列，原油，中东局势
-
-<br><br>总结:
-1. 伊朗表示“准备好”讨论限制铀浓缩问题，但明确拒绝“零浓缩”，尤其是在以色列持续袭击的背景下。
-2. 伊朗因以色列的攻击而不愿直接与美国接触，欧洲大国在谈判中扮演更重要角色，外长已赴日内瓦与欧洲同行会谈。
-3. 中东地区紧张局势加剧，以色列能源部长表示将完成阻止伊朗获得核武器的任务，不考虑美国是否加入行动，伊朗向以色列发动新一轮导弹攻击，本土进入避难状态。
-4. 伊朗外交部表示，若以色列停止侵略，外交途径解决冲突是可能的，伊朗决心全力自卫。伊朗全国多地举行游行示威，抗议以色列袭击。
-5. 市场认为伊朗与西方达成核协议可缓解中东局势，并使伊朗原油重返国际市场，增加原油供应，对油价构成下行压力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中产最爱的小众运动，又催生一个AI硬件产品]]></title>
-        <link href="https://www.36kr.com/p/3344509031556614" />
-        <id>https://www.36kr.com/p/3344509031556614</id>
-        <updated>Fri, 20 Jun 2025 17:01:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：网球, 智能发球机, AI, 市场潜力, 运动科技
-
-<br><br>总结:
-1.  中国网球市场规模庞大，场地数量和参与者人数位居全球第二，增长迅速，对装备和教练的需求高。
-2.  智能网球发球机是新赛道，通过增加智能控制、视觉识别、AI训练等功能，满足了网球爱好者对专业训练的需求。
-3.  多家公司纷纷推出智能发球机，如卧安机器人、庞伯特等，产品具备定制化喂球、AI对战训练、语音交互等功能，旨在替代教练，提升训练效率。
-4.  智能网球发球机之所以能抓住用户，得益于网球运动的隔网特性，使得机器人应用更安全便捷，且用户对智能化功能的需求明确。
-5.  市场上智能发球机品牌众多，质量参差不齐，存在“套壳”现象，真正的AI智能硬件仍有发展空间，需要提升感知、交互和执行能力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[在良渚，舒适地创造｜WAVES新浪潮2025]]></title>
-        <link href="https://www.36kr.com/p/3344507917943683" />
-        <id>https://www.36kr.com/p/3344507917943683</id>
-        <updated>Fri, 20 Jun 2025 16:22:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 新纪元, 良渚, 创投, AI, 社区
-
-<br><br>总结:
-1. 36氪WAVES新浪潮2025大会聚焦中国创投“新纪元”，探讨技术革新、全球化与价值重估。
-2. 圆桌对话探讨在良渚“舒适地创造”，分享了良渚独特的社区氛围和生活方式，吸引了创业者和数字游民。
-3. 良渚的吸引力在于其“进可攻退可守”的地理位置、良好的自然环境、平等自由的社区氛围以及较低的生活成本。
-4. 嘉宾们认为科技（AI）应服务于人，让人类生活更美好，而非被技术异化，强调对生活本身的观察和感知。
-5. 良渚的社区氛围非常珍贵， 投资人、媒体等外界资源的涌入不会破坏其本质，反而能促进其发展和多元化。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[原二炮副政委兼纪委书记阴法唐将军逝世，享年103岁]]></title>
-        <link href="https://m.thepaper.cn/detail/31015436" />
-        <id>https://m.thepaper.cn/detail/31015436</id>
-        <updated>Fri, 20 Jun 2025 16:05:36 +0800</updated>
-        <summary type="html"><![CDATA[阴法唐, 逝世, 第二炮兵, 西藏, 中将军衔
-
-<br><br>总结:
-1. 阴法唐同志于2025年6月20日在北京逝世，享年103岁。
-2. 阴法唐曾任第二炮兵副政治委员兼纪委书记，副大军区职离休干部，中将军衔。
-3. 他早年参加抗日战争，解放战争时期在晋冀豫军区任职，后参与进军西藏，为和平解放西藏奠定基础，并参与平息西藏叛乱和中印边境自卫反击作战。
-4. 他曾任中共西藏自治区党委第一书记，成都军区副政委兼西藏军区第一政委，西藏第三届政协主席。
-5. 离休后，他仍情系西藏。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[观察｜泰柬边境冲突下，“电话门”令泰国总理陷入执政危机]]></title>
-        <link href="https://m.thepaper.cn/detail/31014189" />
-        <id>https://m.thepaper.cn/detail/31014189</id>
-        <updated>Fri, 20 Jun 2025 14:52:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：佩通坦，洪森，泰柬边境，电话门，他信
-
-<br><br>总结:
-1.  泰国总理佩通坦因与柬埔寨参议院主席洪森的通话录音泄露，就其中不当言论向国民道歉，并表示支持军队。
-2.  通话内容暴露出佩通坦对洪森的敬意，引发泰国国内对其效忠国家利益的质疑，导致执政联盟第二大党退出，反对党要求解散国会。
-3.  泰柬边境因领土争议持续紧张，两国军队曾发生短暂冲突，双方采取限制措施，民间抵制活动不断，局势可能升级。
-4.  洪森公开通话录音，可能旨在巩固国内支持度，而佩通坦政府在边境问题上的决策权受限。
-5.  泰国国内政治评论员认为，“电话门”事件可能引发军事政变，前总理他信在幕后对佩通坦政府施加影响，引发争议和对民主赤字的担忧。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、Docker应用、月获得5美元赠金
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、域名挂了、已注册的域名、Cloudflare托管、FreeDNS托管<br>
 <br>
-Claw Cloud Run是一款免费容器，用户只要Github注册时间大于180天，即可每月获得5美元赠金，实现长期免费使用。用户可搭建各种Docker应用，可在应用商店一键自动部署或手动部署。可以通过浏览器查看Github注册时间，推荐部署轻笔记应用Memos和网盘挂载工具AList。详情请参考Youtube视频。 
-<br><br>总结: Claw Cloud Run提供免费容器，要求Github注册时间大于180天，可获得5美元赠金，可搭建Docker应用并一键部署，用户可通过浏览器查看注册时间，推荐部署Memos和AList。]]></summary>
+已注册的us.kg域名仍有效，可以继续使用。新的域名也可以托管到Cloudflare，目前可以临时托管到FreeDNS。对于新注册的域名，需要注意两种域名的区别，us.kg仍然可以注册。总的来说，us.kg域名并没有挂掉，注册的域名仍可继续使用，并且可以选择Cloudflare或FreeDNS进行托管。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证账号、创建VM实例、开放防火墙、SSH登录方式
-
-谷歌云有免费VPS政策，可注册验证账号后创建免费VM实例，并设置开放防火墙。可使用官方后台或第三方SSH工具登录，建议使用Hysteria 2节点科学上网。需注意数据保护设置、Cloudflare CDN流量费用以及选择Argo隧道类型，避免额外费用。搭建Hysteria 2节点可使用命令行或面板搭建，也可使用甬哥一键脚本简化操作。详细操作及注意事项可参考相关视频。 
-
-<br><br>总结: 谷歌云提供免费VPS服务，注册账号后创建VM实例，注意设置防火墙和SSH登录方式，使用Hysteria 2节点科学上网，避免产生额外费用。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN、保活<br>
+Serv00提供了科学上网节点搭建的解决方案，使用Cloudflare实现固定隧道和CDN回源，同时还可以通过多功能主页和Cloudflare远程保活功能实现网页保活。用户可以通过Serv00提供的教程和工具实现自己的科学上网节点，并利用Cloudflare的服务来增强网站的性能和稳定性。这篇文章详细介绍了如何注册、登录Serv00，搭建科学上网节点，设置Cloudflare隧道和CDN，以及使用多功能主页和Worker功能实现网页保活。通过这些步骤，用户可以更好地管理自己的网站和提高浏览体验。<br><br>总结: Serv00提供科学上网节点搭建、Cloudflare隧道和CDN设置，以及多功能主页和远程保活功能，帮助用户提升网站性能和稳定性。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、视频教程
+
+总结:
+本文介绍了如何注册US.KG免费域名以及托管到Cloudflare的详细步骤。首先要注册账号并完成邮箱验证，然后进行KYC验证，上传身份信息。接着注册域名并将其托管到Cloudflare。视频教程中还提到了免费续订域名和免费域名的优缺点。如果想注册US.KG域名，可以先使用指定链接完成注册和KYC验证，等待域名状态恢复后再托管到Cloudflare使用。步骤详细清晰，适合初学者参考。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek、网页端、APP、API、本地部署
 <br>
-培训视频中介绍了DigitalPlat的Github仓库和Cloudflare平台，教授了域名注册和使用的方法。注册us.kg域名需要付费，而dpdns.org域名是免费的，新用户可获得1个免费域名（通过给Github加Star可增加至2个），老用户可获得3个免费域名（通过给Github加Star可增加至4个），us.kg域名不计入免费额度。所有域名都需要每年续期，但续期是永久免费的，只需要在到期前180天内进行操作。详细操作教程请查看Youtube视频。由此，用户可以通过这些资源免费注册域名并继续使用。 
-<br><br>总结: Github、Cloudflare、域名、免费、续期。]]></summary>
+Deepseek是一个可以在网页端和手机APP上使用的搜索工具，也可以通过API接口实现与其他应用的整合，比如Perplexity。此外，还提供本地部署的方式供用户选择。使用Deepseek时，可以访问官方网站或者下载手机客户端，注册API账号并使用体验金，还可以通过第三方应用和本地部署的方式进行操作。如果选择本地部署，需要下载安装Ollama软件并输入相应指令。通过这些方式，用户可以在不同场景下灵活使用Deepseek提供的功能和服务。 
+<br><br>总结:Deepseek是一个多功能搜索工具，用户可以通过网页端、APP、API和本地部署等方式进行使用，提供了丰富的功能和服务选项。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO网站、Windterm下载、Sing-box Github、ChatGPT降智、购买。
-官方态度友好，价格合理。整体体验良好，购买流程顺利，节点速度稳定。ChatGPT存在降智问题。续费简便。综合评价，HostUNO提供的服务值得购买。总结: HostUNO网站提供稳定性和速度良好的服务，购买流程简便，Windterm下载地址及Sing-box Github仓库提供支持，但需注意ChatGPT存在降智问题。值得购买。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 注册, 身份信息生成器
-
-注册US.KG失败时，可以选择另一个免费域名并将其托管到Cloudflare，享受一年免费。步骤包括注册账号，使用身份信息生成器填写信息，购买域名时输入优惠码(newuser)获取免费服务，将域名托管到Cloudflare，登录后添加域名并填写分配的名称服务器。详细操作可查看Youtube视频教程。]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
