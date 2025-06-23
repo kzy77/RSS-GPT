@@ -1,66 +1,41 @@
 ------------------------------------------------------
-Started: 2025-06-23 14:19:57.025601
+Started: 2025-06-23 16:25:46.678620
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1180
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [“高息高返”退场倒计时，有购车者接到通知“11点后优惠失效”](https://www.yicai.com/news/102685500.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [香港新股表现分化，打新“躺赚”或暂告终结](https://www.yicai.com/news/102684315.html)
+Token length: 3966
 Summarized using gemini model: gemini-2.0-flash
-Append: [多只上证380ETF、上证580ETF与联接基金上报，上证旗舰宽基指数体系产品再迎扩容](https://www.yicai.com/news/102685013.html)
-Token length: 167
+Append: [霍尔木兹海峡如果关闭，会如何扰动全球经济？](https://www.yicai.com/news/102685330.html)
+Token length: 1547
 Summarized using gemini model: gemini-2.0-flash
-Append: [伊朗霍尔木兹海峡危机 市场关注以伊局势升级对航运业影响](https://www.yicai.com/video/102684954.html)
-Token length: 417
+Append: [美联储理事鲍曼：支持最早7月降息，因为劳动力市场的风险可能上升](https://wallstreetcn.com/articles/3749666)
+Token length: 690
 Summarized using gemini model: gemini-2.0-flash
-Append: [滚动更新丨特斯拉涨幅扩大至6%](https://www.yicai.com/news/102684945.html)
-Token length: 1767
+Append: [美媒爆料：美方告诉中东官员以色列正寻求快速结束以伊冲突，并要求传达给伊朗](https://wallstreetcn.com/articles/3749663)
+Token length: 1275
 Summarized using gemini model: gemini-2.0-flash
-Append: [电池厂账期255天反超整车，头部供应商压账痼疾待纠治](https://www.yicai.com/news/102684382.html)
-Token length: 106
+Append: [国台办斥赖清德言论：充分暴露其冥顽不化的“台独”本性](https://m.thepaper.cn/detail/31028436)
+Token length: 182
 Summarized using gemini model: gemini-2.0-flash
-Append: [接近比亚迪人士：该公司正向经销商返利666元/辆](https://www.yicai.com/news/102684899.html)
-Token length: 2670
+Append: [普京会见伊朗外长，表示愿为其提供协助](https://m.thepaper.cn/detail/31028328)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [马斯克的下一个万亿赛道？瑞银详解Robotaxi商业模式](https://wallstreetcn.com/articles/3749638)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [言短意长｜马景涛的晕倒不必解读为“时代的眼泪”](https://m.thepaper.cn/detail/31027939)
+Token length: 1081
 Summarized using gemini model: gemini-2.0-flash
-Append: [制度规范与技术提升双轮驱动，破局政务数据“孤岛”丨法经兵言](https://www.yicai.com/news/102684702.html)
-Token length: 4312
+Append: [优选退出亏损城市，美团跳出内卷｜独家](https://www.36kr.com/p/3348755327998852)
+Token length: 892
 Summarized using gemini model: gemini-2.0-flash
-Append: [美债信用基础呈系统性动摇态势](https://www.yicai.com/news/102684705.html)
-Token length: 1826
+Append: [马上评｜录取通知书，为何连自家校名都能写错](https://m.thepaper.cn/detail/31027446)
+Token length: 728
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：整治“内卷式”竞争法治必须先行](https://www.yicai.com/news/102684908.html)
-Token length: 181
+Append: [男生北大退学又考上清华被质疑“挤占名额”，本人回应](https://m.thepaper.cn/detail/31026438)
+Token length: 76
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI进化速递丨阿里云推出自动驾驶模型加速框架](https://www.yicai.com/news/102684840.html)
-Token length: 3021
-Summarized using gemini model: gemini-2.0-flash
-Append: [高规格划定时间表路线图，上海国际金融中心建设能级跃升](https://www.yicai.com/news/102684867.html)
-Token length: 1018
-Summarized using gemini model: gemini-2.0-flash
-Append: [“广州震感”冲上热搜第一，手机地震预警功能如何打开？](https://www.yicai.com/news/102684837.html)
-Token length: 4057
-Summarized using gemini model: gemini-2.0-flash
-Append: [我国执业药师总数逼近85万，“影子药师”为何仍屡禁不止](https://www.yicai.com/news/102684804.html)
-Token length: 188
-Summarized using gemini model: gemini-2.0-flash
-Append: [2小时投掷超100枚弹药 以军密集突袭伊朗首都德黑兰](https://www.yicai.com/news/102684747.html)
-Token length: 747
-Summarized using gemini model: gemini-2.0-flash
-Append: [重庆发布外卖新规 无堂食商家应实时展示食品加工过程](https://www.yicai.com/news/102684754.html)
-Token length: 2411
-Summarized using gemini model: gemini-2.0-flash
-Append: [EIA报告中的霍尔木兹海峡：有无替代路线？](https://www.yicai.com/news/102684651.html)
-Token length: 1785
-Summarized using gemini model: gemini-2.0-flash
-Append: [全力扩投资稳增长，多地重点项目超序时推进](https://www.yicai.com/news/102684658.html)
-Token length: 2646
-Summarized using gemini model: gemini-2.0-flash
-Append: [跨境支付通上线实测：深港汇款进入“读秒时代”，银行打响营销战](https://www.yicai.com/news/102684677.html)
-Token length: 2820
-Summarized using gemini model: gemini-2.0-flash
-Append: [以伊冲突冲击波：越来越多的货船选择停在霍尔木兹海峡以外](https://www.yicai.com/news/102684697.html)
-Token length: 1573
-Summarized using gemini model: gemini-2.0-flash
-Append: [上海又现法拍房成交价超亿元，业内人士认为是“捡漏价”](https://www.yicai.com/news/102684715.html)
-Token length: 2833
-Summarized using gemini model: gemini-2.0-flash
-Append: [次新基业绩首尾相差逾46个百分点，建仓节奏成胜负手](https://www.yicai.com/news/102684728.html)
-append_entries: 20
-Finish: 2025-06-23 14:21:26.758317
+Append: [释疑｜伊朗如何回应美国轰炸？中东有多少美军基地？](https://m.thepaper.cn/detail/31024701)
+append_entries: 13
+Finish: 2025-06-23 16:26:52.689880
