@@ -2,440 +2,394 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-06-23T10:24:34Z</updated>
+    <updated>2025-06-23T12:43:28Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[工业级Transformer优化手册：混合精度训练+量化部署实战解析​]]></title>
-        <link href="https://juejin.cn/post/7518349094365134900" />
-        <id>https://juejin.cn/post/7518349094365134900</id>
-        <updated>Sun, 22 Jun 2025 17:49:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Transformer, 训练, 推理, Beam Search, 量化
+        <title><![CDATA[10余人被罚没近6000万，一批监管罚单剑指内幕交易]]></title>
+        <link href="https://www.yicai.com/news/102684505.html" />
+        <id>https://www.yicai.com/news/102684505.html</id>
+        <updated>Mon, 23 Jun 2025 18:45:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词：内幕交易，监管趋严，行政处罚，证监会，违法成本
 
 <br><br>总结:
-1.  **训练过程**: 主要使用教师强制，通过真实目标序列指导模型学习。损失函数选择取决于任务类型，优化策略则常使用Noam调度器调整学习率。
-2.  **推理过程**: 采用自回归生成，逐个生成token。可以使用贪婪解码快速生成，也可以使用Beam Search平衡生成质量和多样性。
-3.  **Beam Search优化**: 通过长度归一化和覆盖惩罚来提升生成效果，前者避免生成过短的句子，后者避免重复关注相同位置。
-4.  **推理加速**: 包括KV缓存加速自注意力计算，以及批量并行生成提高效率。
-5.  **工业部署**: 可通过模型量化、ONNX导出与推理、TensorRT加速等方式优化资源利用率。此外，批量大小，正则化，混合精度训练等也是训练调优方式。
+1. 证监会披露多起内幕交易行政处罚，涉及上市公司控制权变更、重大合同签订、业绩预增等敏感信息，10余人被罚没近6000万元。
+2. 涉案人员包括内幕信息知情人及其关系密切者，交易行为异常，如买入时间与内幕信息吻合、集中连续买入等。
+3. 近年来内幕交易监管持续趋严，每年查处案件上百起，今年以来已披露30余张罚单。
+4. 监管部门坚持“零容忍”，通过完善制度提高违法成本，强化刑事、行政、民事责任追究。
+5. 监管面临内幕信息传递隐蔽的挑战，需运用科技手段、强化信息披露、完善民事赔偿司法解释，以保护投资者权益。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[「实战指南」90%+准确率的BERT微调：情感分析模型落地指南​]]></title>
-        <link href="https://juejin.cn/post/7518186491208155136" />
-        <id>https://juejin.cn/post/7518186491208155136</id>
-        <updated>Sun, 22 Jun 2025 14:03:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词: BERT, 文本分类, 微调, 优化, 部署
+        <title><![CDATA[珠澳两地“一展双城”，全球智能机械与电子产品博览会12月举办]]></title>
+        <link href="https://www.yicai.com/news/102684508.html" />
+        <id>https://www.yicai.com/news/102684508.html</id>
+        <updated>Mon, 23 Jun 2025 18:45:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 博览会, 智能机械, 电子产品, 澳门, 珠海
 
 <br><br>总结:
-1.  本文介绍了使用BERT模型进行文本分类任务的完整流程，包括环境准备、数据加载和预处理。
-2.  详细讲解了BERT模型微调的步骤，包括模型初始化、训练配置和训练循环，以及训练过程中的损失和准确率可视化。
-3.  阐述了模型评估和推理的流程，包括生成完整的分类报告和混淆矩阵，以及封装推理API。
-4.  介绍了多种工业级优化技巧，包括混合精度训练、梯度累积和分层学习率，以提高训练效率和解决显存不足的问题。
-5.  提供了任务适配扩展指南，包括多分类、多标签分类和领域自适应微调的适配方法。
-6.  讨论了部署优化方案，包括模型量化、ONNX导出和Triton推理服务部署，以减小模型体积和提高推理性能。
-7.  最后，给出了OOM错误和过拟合的解决方案，以及长文本处理的建议。
+1. 首届全球智能机械与电子产品博览会将于12月4日至6日在澳门和珠海两地举办，预计吸引7万专业观众。
+2. 博览会旨在促进广东智能产品产业集群的发展，依托粤港澳大湾区的科创优势，打造智能制造领域重要展会平台。
+3. 主旨论坛设在澳门，助力澳门经济多元发展，提升澳门在全球科技产业链中的地位，推动本地企业融入国际市场。
+4. 博览会将举办“1+6+N”场活动，包括主旨论坛、专题分论坛以及新品发布会等，聚焦智能制造、AI应用等前沿议题。
+5. 展会期间将举办超过50场供采对接活动，促进本地企业与全球科技产业链对接，助力澳门培育智慧科技创新生态。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[李强签署国务院令 公布《互联网平台企业涉税信息报送规定》]]></title>
-        <link href="https://www.yicai.com/news/102684368.html" />
-        <id>https://www.yicai.com/news/102684368.html</id>
-        <updated>Mon, 23 Jun 2025 17:25:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 互联网平台企业, 涉税信息, 报送规定, 税收环境, 平台经济
+        <title><![CDATA[“红包雨”来袭，本周超300只A股实施分红，总额超两千亿]]></title>
+        <link href="https://www.yicai.com/news/102684511.html" />
+        <id>https://www.yicai.com/news/102684511.html</id>
+        <updated>Mon, 23 Jun 2025 18:45:17 +0800</updated>
+        <summary type="html"><![CDATA[分红派息, 年报, 红利, 股息率, 持续性
 
 <br><br>总结:
-1. 《互联网平台企业涉税信息报送规定》旨在规范平台企业涉税信息报送，提升税收管理效能，保护纳税人权益，营造公平税收环境，促进平台经济发展。
-2. 平台企业需按季度报送平台内经营者和从业人员的身份信息和收入信息。
-3. 特定情形下，如享受税收优惠的从业人员收入信息，以及规定施行前的涉税信息，可免予报送。
-4. 对于已申报或政府部门共享的涉税信息，平台企业无需重复报送，税务机关需提供便捷报送渠道。
-5. 平台企业和税务机关都需对涉税信息保密，违反规定将承担相应法律责任。
+1.  A股年报分红派息进入高峰期，本周超300家公司分红到账，总额超2050亿元，中国石油等公司发出百亿“现金红包”。
+
+2.  本月已超1200家A股公司完成派息，“红包雨”持续至月底，中国平安等公司将在月底派息。
+
+3.  行业方面，酒企每股派息金额亮眼，中国石油分红总额居首，计算机、通信、电气机械等行业公司分红集中。
+
+4.  监管引导下，A股公司分红意愿增强，分红常态化趋势显现，科技企业分红意识提升。
+
+5.  投资者应结合公司股息率、分红持续性等挑选标的，关注行业分类和公司基本面，注意周期性行业高分红的不可持续性及公司信息披露情况。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[山东墨龙7连板背后：游资接力炒作，股东高位减持，公司基本面承压]]></title>
-        <link href="https://www.yicai.com/news/102684361.html" />
-        <id>https://www.yicai.com/news/102684361.html</id>
-        <updated>Mon, 23 Jun 2025 17:22:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 山东墨龙, 股价暴涨, 游资, 业绩亏损, 股东减持
+        <title><![CDATA[国际油价一日内先涨后跌：霍尔木兹海峡遭封锁危机，怎样影响油气市场后续走势]]></title>
+        <link href="https://www.yicai.com/news/102684536.html" />
+        <id>https://www.yicai.com/news/102684536.html</id>
+        <updated>Mon, 23 Jun 2025 18:44:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 霍尔木兹海峡, 伊朗, 石油, 封锁, 替代路线
 
 <br><br>总结:
-1. 山东墨龙近期股价暴涨，录得7连板，受油气板块热度和游资炒作推动。
-2. 多个知名游资席位频繁现身龙虎榜，助推股价持续攀升。
-3. 山东墨龙H股大涨，二股东智梦控股高位减持套现，减持比例高达17%。
-4. 公司基本面承压，主营业务增收不增利，扣非归母净利润连续5年亏损。虽然通过出售子公司股权大幅减亏，但主营业务仍面临较大压力。
-5. 主力资金有出逃动作，多空博弈激烈，投资人对公司未来发展存疑。
+1. 伊朗议会拟关闭霍尔木兹海峡导致国际油价飙升，但随后回落，市场关注伊朗是否实际封锁海峡。<br>
+2. 霍尔木兹海峡是全球重要的石油和天然气运输通道，石油流量占全球消费量的1/5，LNG贸易量占全球的逾1/5，主要流向亚洲市场。<br>
+3. 封锁霍尔木兹海峡可能干扰全球能源市场及供应链，存在替代运输路线，但运力有限，难以弥补供应缺口。<br>
+4. 业内人士认为，伊朗彻底封锁海峡的可能性较低，因会损害自身及经济伙伴的利益，具有自我挫败性质。<br>
+5. 中国外交部呼吁维护地区安全稳定，防止地区局势动荡对全球经济造成影响，长期来看，原油过剩局面或难以打破。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[连板股追踪丨A股今日共84只个股涨停 山东墨龙收获7连板]]></title>
-        <link href="https://www.yicai.com/news/102684301.html" />
-        <id>https://www.yicai.com/news/102684301.html</id>
-        <updated>Mon, 23 Jun 2025 16:45:21 +0800</updated>
-        <summary type="html"><![CDATA[油气股, 山东墨龙, 固态电池, 诺德股份, 连板股
+        <title><![CDATA[国务院规范平台企业涉税报送，各类“小哥”家政人员不受影响]]></title>
+        <link href="https://www.yicai.com/news/102684526.html" />
+        <id>https://www.yicai.com/news/102684526.html</id>
+        <updated>Mon, 23 Jun 2025 18:44:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词：互联网平台, 涉税信息, 税收优惠, 个税缴纳, 平台经济
 
 <br><br>总结:
-1. 6月23日A股市场共有84只个股涨停。
-2. 油气股山东墨龙收获7连板。
-3. 固态电池板块的诺德股份收获5连板，湘潭电化3连板。
+1. 国务院出台《互联网平台企业涉税信息报送规定》，旨在健全常态化涉税信息报送制度，维护税收公平，优化市场秩序，推动平台经济高质量发展。
+2. 规定明确报送主体为互联网平台企业，平台内经营者和从业人员无需操作。
+3. 存在多种不报送情形，包括施行前的涉税信息、享受税收优惠或无需纳税的便民劳务人员收入信息、已申报的涉税信息以及通过部门共享获取的信息。
+4. 规定不影响“小哥”、家政人员的日常工作、收入和税负。
+5. 综合所得年收入不超过12万元的平台内从业人员基本无须缴纳个人所得税。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全联汽车经销商商会：呼吁汽车生产厂家优化返利政策 缩短返利兑现账期]]></title>
-        <link href="https://www.yicai.com/news/102684299.html" />
-        <id>https://www.yicai.com/news/102684299.html</id>
-        <updated>Mon, 23 Jun 2025 16:45:03 +0800</updated>
-        <summary type="html"><![CDATA[返利政策, 价格倒挂, 账期缩短, 现金返利, 经销商困境
+        <title><![CDATA[6月23日这些公告有看头]]></title>
+        <link href="https://www.yicai.com/news/102684472.html" />
+        <id>https://www.yicai.com/news/102684472.html</id>
+        <updated>Mon, 23 Jun 2025 18:12:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 信息披露, 重大资产重组, 固态电池, 端侧AI, 股份回购
 
 <br><br>总结:
-1. 汽车经销商因价格倒挂面临资金压力，急需及时兑现返利缓解困境。
-2. 倡议简化返利设置，明确返利标准，避免模糊不清的返利政策，让经销商对返利有清晰预期。
-3. 呼吁所有汽车品牌将返利兑现账期缩短至30天以内，减轻经销商资金压力。
-4. 建议以现金形式返还返利给经销商，并确保经销商可自由支配使用，取消不必要的限制条件。
-5. 旨在构建生产厂家与经销商互信共赢的合作生态，解决汽车产业“内卷式”竞争问题。
+1. **嘉澳环保**因涉嫌信息披露违法违规被证监会立案调查。
+2. **华升股份**拟发行股份及支付现金购买易信科技100%股份，股票复牌。
+3. **长城军工**澄清无重大资产重组事项，提示投资风险。
+4. **诺德股份**提示固态电池铜箔业务收入占比低，且公司此前因信息披露问题被立案调查。
+5. **国投中鲁**拟购买电子院控股权，股票继续停牌。
+6. **海联讯**换股吸收合并杭汽轮的申请获深交所受理。
+7. **泰凌微**端侧AI新品二季度销售额达千万元规模。
+8. **安恒信息**股东阿里创投减持股份至6.74%。
+9. **上海洗霸**控股股东及其一致行动人拟减持不超过3%公司股份。
+10. **药明康德**已完成10亿元股份回购并计划注销。
+11. **浪潮信息**拟以2亿元-3亿元回购公司股份，用于减少注册资本。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[上影节放映的这部纪录片，讲述一位作曲家的创作与人生]]></title>
-        <link href="https://www.yicai.com/news/102684298.html" />
-        <id>https://www.yicai.com/news/102684298.html</id>
-        <updated>Mon, 23 Jun 2025 16:38:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 陈其钢, 隐者山河, 作曲家, 音乐, 创作
+        <title><![CDATA[中银证券换帅，接棒者周权来自中行总行]]></title>
+        <link href="https://www.yicai.com/news/102684444.html" />
+        <id>https://www.yicai.com/news/102684444.html</id>
+        <updated>Mon, 23 Jun 2025 18:11:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：中银证券，宁敏，周权，换帅，中国银行
 
 <br><br>总结:
-*   纪录片《隐者山河》展现了著名作曲家陈其钢的创作生涯和艺术追求，历时7年，辗转多国拍摄，采访了众多国际知名音乐家。
-*   影片分为六个乐章，呈现了陈其钢隐居生活、音乐生涯、以及东西方文化交融下的创作之路。
-*   陈其钢的音乐创作独特，不取悦大众，坚持自我风格，其作品融合了中西方文化元素，具有极高的辨识度。
-*   影片也讲述了陈其钢经历的人生低谷，以及他如何通过音乐走出困境，更深刻地理解生活与生命。
-*   制作方正在努力争取《隐者山河》上院线，让更多人了解这位有世界影响力的中国作曲家。
+1.  中银证券原董事长宁敏因工作调动将回中国银行总行任行政事业机构部总经理。
+2.  中国银行推荐周权接任中银证券董事长，周权原为中国银行总行资产负债管理部总经理。
+3.  周权正式接任董事长尚需公司治理程序，空档期由周冰代为履行职责。
+4.  宁敏在任期间推动中银证券经营管理重上轨道，实现A股上市，并实施差异化战略。
+5.  宁敏带领中银证券建立了资本补充长效机制，并实现了业绩增长，多项指标跑赢行业平均水平。未来周权领导下的中银证券表现值得关注。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[日美“2+2”会谈为何推迟？和以伊冲突有关？]]></title>
-        <link href="https://www.yicai.com/news/102684271.html" />
-        <id>https://www.yicai.com/news/102684271.html</id>
-        <updated>Mon, 23 Jun 2025 16:38:08 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 日美关系, 国防开支, 参议院选举, 石破内阁, 以伊冲突
+        <title><![CDATA[霍尔木兹海峡命悬一线！油价创五个月新高后，这两大“最坏情境”不容忽视]]></title>
+        <link href="https://www.yicai.com/news/102684408.html" />
+        <id>https://www.yicai.com/news/102684408.html</id>
+        <updated>Mon, 23 Jun 2025 18:11:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 伊朗, 霍尔木兹海峡, 油价, 地缘政治, 冲突
 
 <br><br>总结:
-1. 原定于7月1日的日美“2+2”会谈被推迟，官方理由是中东局势升级，但实际原因可能与美国要求日本增加国防开支有关。
-2. 美国要求日本将国防开支从GDP的1.4%提高到3.5%，引发日本方面不满，认为国防预算应由日本自主决定。
-3. 日本近年来国防预算持续增长，但增速超过GDP增长，给日本财政带来压力，同时国内物价上涨，民众对政府不满。
-4. 日本首相石破茂面临7月参议院改选的压力，执政联盟选情不乐观，内阁支持率下滑，通胀和米价飙升是主要原因。
-5. 即将举行的东京都议会选举被视为参议院选举的前哨战，选举结果将对参议院选举产生影响，可能导致自民党领导层更迭。
+1. 以伊冲突升级后，原油市场反应显著，分析师预计伊朗大概率不会封锁霍尔木兹海峡，地缘政治冲突溢价将减弱。
+2. 但存在两种最坏情境：一是伊朗封锁霍尔木兹海峡，二是伊朗政权不稳定，这两种情况下油价都可能突破100美元/桶。
+3. 多数分析师认为，即使冲突升级，伊朗能源设施未受攻击，表明各方有意避免原油供应受影响。
+4. 历史经验表明，涉及以色列的冲突虽短期内推高油价，但最终会稳定下跌。其他地区冲突若未造成重大原油供应损失，对油价影响不大。
+5. 若霍尔木兹海峡被封锁，油价可能飙升至120美元/桶甚至更高。若伊朗政局不稳，油价可能长期大幅上涨。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[饿了么、飞猪加入阿里电商事业群，电商为何卷向“大消费平台”？]]></title>
-        <link href="https://www.yicai.com/news/102684203.html" />
-        <id>https://www.yicai.com/news/102684203.html</id>
-        <updated>Mon, 23 Jun 2025 16:07:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 电商, 整合, 流量, 供应链, 大消费平台
+        <title><![CDATA[研选公司丨短期承压主因深海订单波动，深耕国际客户+油气景气复苏，机构认为25年业绩有望实现70%增长]]></title>
+        <link href="https://www.yicai.com/vip/news/102684435.html" />
+        <id>https://www.yicai.com/vip/news/102684435.html</id>
+        <updated>Mon, 23 Jun 2025 17:58:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 618优惠，深海订单，国际客户，复合集流体，业绩增长
 
 <br><br>总结:
-1.  阿里巴巴将饿了么、飞猪并入中国电商事业群，战略升级为“大消费平台”，目的是解决电商的流量危机和优化供应链。
-2.  阿里整合电商资源，将更多资源和能力整合进电商事业群，旨在加强业务协同，重塑电商业务的重要性。
-3.  饿了么、飞猪合并能将即时配送能力与淘宝闪购融合，实现“远场电商+近场零售”的全场景覆盖，并拓展旅游产品销售渠道。
-4.  传统电商的边界正在消融，各平台通过外卖、酒旅等业务寻求新用户和更全面的供应链，以应对流量瓶颈和“内卷”。
-5.  电商平台希望通过“大消费平台”模式拓展可能性，但如何利用自身优势解决即时零售、酒旅市场的新问题是关键。
+1. 618超级回归福利力度大，年单8折起，直降700元，本月内有效。
+2. 短期业绩承压主要由于深海订单波动影响。
+3. 积极深耕国际客户，叠加油气行业景气复苏，机构预测2025年业绩有望实现70%的增长。
+4. 锂电、汽车、半导体和配件四大业务驱动增长。
+5. 复合集流体业务有望打开更大增长空间，未来三年高增长确定性强。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全国政协十四届常委会第十二次会议开幕 王沪宁出席]]></title>
-        <link href="https://www.yicai.com/news/102684227.html" />
-        <id>https://www.yicai.com/news/102684227.html</id>
-        <updated>Mon, 23 Jun 2025 16:06:36 +0800</updated>
-        <summary type="html"><![CDATA[经济体制改革, 中国式现代化, 全国政协, 专题调研, 协商议政
+        <title><![CDATA[研选行业丨233亿美元资产已“上链”，还有2万亿美元蓝海待挖掘！牌照是门票、生态是金矿，券商圈出这些上市公司]]></title>
+        <link href="https://www.yicai.com/vip/news/102684416.html" />
+        <id>https://www.yicai.com/vip/news/102684416.html</id>
+        <updated>Mon, 23 Jun 2025 17:57:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词：618促销, 资产上链, 低空经济, 细分品种, 券商推荐
 
 <br><br>总结:
-1.  全国政协常委会第十二次会议开幕，主题为“进一步深化经济体制改革，推进中国式现代化”，王沪宁出席。
-2.  何立峰作报告，强调要深入学习贯彻习近平总书记关于全面深化改革的思想，围绕构建高水平社会主义市场经济体制等六个方面落实改革任务。
-3.  胡春华主持会议，强调要深入贯彻落实中共二十大和二十届二中、三中全会精神，为推进中国式现代化贡献智慧和力量。
-4.  会议听取了关于重点水利建设、生育支持、人工智能等专题调研报告，以及《协商工作规则》和《专门委员会通则》修订草案的说明。
-5.  本次会议为期两天半，政协常委将围绕七个专题进行分组讨论。
+1. 618期间有超级回归福利，年单8折起，直降700元，是年内最大优惠。
+2. 233亿美元资产已经“上链”，预示着2万亿美元的蓝海市场潜力巨大，券商正在关注相关上市公司。
+3. 低空经济中存在一个细分品种，价值占比高达41.73%，相关公司有望在6800亿元的市场中获利。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[以军称袭击伊朗6个机场，摧毁15架战机和战斗直升机]]></title>
-        <link href="https://m.thepaper.cn/detail/31027408" />
-        <id>https://m.thepaper.cn/detail/31027408</id>
-        <updated>Mon, 23 Jun 2025 14:24:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 以色列国防军，伊朗，空袭，机场，战机
+        <title><![CDATA[中通快递成立航空公司，各路资本纷纷入局的航空货运赚钱吗？]]></title>
+        <link href="https://www.yicai.com/news/102684411.html" />
+        <id>https://www.yicai.com/news/102684411.html</id>
+        <updated>Mon, 23 Jun 2025 17:50:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词：航空货运, 快递公司, 全货机, 市场需求, 货源客户
 
 <br><br>总结:
-1. 以色列国防军宣称对伊朗西、东、中部6个机场发动空袭。
-2. 以色列国防军称摧毁了15架战机和战斗直升机。
-3. 袭击目标包括跑道、地下机库、加油机及F-14、F-5和AH-1飞机。
-4. 以色列空军声称破坏了机场的起飞能力，使伊朗空军作战能力瘫痪。
-5. 伊朗方面对此暂无回应。
+1.  中通快递成立中通航空，入局航空货运，此前顺丰、邮政、京东、圆通等已成立货运公司。<br>
+2.  疫情后，国际客运减少，货运需求激增，运价上涨，政策支持，各路资本加速进入航空货运市场。<br>
+3.  三大航旗下货运物流公司业绩优于客运，跨境电商带来国际空运需求爆发。<br>
+4.  国内航空货运竞争激烈，友和道通航空破产，长龙航空淡化货运加码客运，小型航司依赖快递公司货源。<br>
+5.  掌握货源和客户比拥有更多飞机更重要，综合物流服务是发展方向。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[伊朗核设施在美军空袭中受损情况如何？]]></title>
-        <link href="https://wallstreetcn.com/articles/3749619" />
-        <id>https://wallstreetcn.com/articles/3749619</id>
-        <updated>Mon, 23 Jun 2025 13:29:02 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 福尔道, 纳坦兹, 伊斯法罕, 空袭, 核设施
+        <title><![CDATA[抖音官方辟谣商业化副总裁离职传闻]]></title>
+        <link href="https://www.yicai.com/news/102684426.html" />
+        <id>https://www.yicai.com/news/102684426.html</id>
+        <updated>Mon, 23 Jun 2025 17:44:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 抖音, 浦燕子, 离职, AI, 谣言
 
 <br><br>总结:
-1.  伊朗福尔道、纳坦兹和伊斯法罕三处核设施遭到美国空袭，福尔道受损情况初步评估为严重破坏但未完全摧毁，纳坦兹地上设施之前已遭以色列袭击，本次空袭新增弹坑，伊斯法罕的隧道入口受到影响。
-
-2.  国际原子能机构表示，袭击后场外辐射水平没有上升，但对地下设施内部损坏的评估尚需时日。伊朗方面正在计算损失，并强调即使设施被摧毁，相关知识和意志依然存在。
-
-3.  卫星图像显示福尔道附近有多个弹坑，纳坦兹地下建筑上方也出现弹坑，伊斯法罕有大量建筑物被摧毁或部分损毁。
-
-4.  有报告称，伊斯法罕的主要铀转化设施遭到严重破坏，隧道入口被用土回填，可能用于控制爆炸或防止扩散。
-
-5.  有迹象表明，伊朗可能已将核材料转移，美国官员承认对伊朗近乎炸弹级铀库存的下落不知情，但认为伊朗制造核武器的潜力已受挫。
+1. 有传言称字节跳动商业化副总裁浦燕子因与AI部门资源分配问题即将离职。
+2. 抖音官方回应称此消息不实，并指出该谣言最早来源于一则AI生成的信息，目前已被删除。
+3. 浦燕子于2013年加入字节跳动，长期负责商业化和销售工作。
+4. 2023年11月，她开始兼任抖音集团生活服务业务负责人。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[36氪独家丨淘宝闪购联合饿了么订单峰值突破6000万单，这个夏天结束预计达到8000万单]]></title>
-        <link href="https://www.36kr.com/p/3348431317179010" />
-        <id>https://www.36kr.com/p/3348431317179010</id>
-        <updated>Mon, 23 Jun 2025 13:11:25 +0800</updated>
-        <summary type="html"><![CDATA[淘宝闪购, 饿了么, 即时零售, 订单量, 阿里巴巴
+        <title><![CDATA[受贿1.21亿余元，公安部禁毒局原局长刘跃进一审被判死缓]]></title>
+        <link href="https://m.thepaper.cn/detail/31028079" />
+        <id>https://m.thepaper.cn/detail/31028079</id>
+        <updated>Mon, 23 Jun 2025 17:01:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词：刘跃进，受贿，死缓，职务便利，追缴
 
 <br><br>总结:
-1. 淘宝闪购联合饿了么在618期间订单峰值突破6000万单，且上线后订单量快速增长。
-2. 阿里巴巴预计到8月底订单量将达到8000万单左右。
-3. 淘宝闪购的核心指标是订单量、DAU和购买频次，扶持后淘宝DAU显著增长，购买频次也增加。
-4. 阿里巴巴高度重视即时零售，给予资源支持，包括一级入口、百亿补贴和整合饿了么等。
-5. 阿里巴巴正在以饱和式投入聚焦即时零售，并计划在夏季战役结束后复盘，以明确下一阶段的战略。
+1. 刘跃进，原十三届全国政协委员（副部长级），因受贿罪被判处死刑，缓期二年执行，剥夺政治权利终身，没收个人全部财产。
+2. 1992年至2020年期间，刘跃进利用职务便利，为他人谋取利益，非法收受财物共计折合人民币1.21亿余元。
+3. 其行为构成受贿罪，数额特别巨大，造成国家和人民利益遭受重大损失。
+4. 考虑到其到案后如实供述罪行，主动交代犯罪事实，认罪悔罪，积极退赃，受贿赃款赃物已全部追缴，因此对其从轻处罚。
+5. 福州市中级人民法院作出了上述判决，刘跃进犯罪所得财物及孳息依法予以追缴，上缴国库。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[宁德时代领投，「银河通用」完成超10亿元新一轮融资 | 智能涌现独家]]></title>
-        <link href="https://www.36kr.com/p/3348318736685701" />
-        <id>https://www.36kr.com/p/3348318736685701</id>
-        <updated>Mon, 23 Jun 2025 10:00:00 +0800</updated>
-        <summary type="html"><![CDATA[银河通用, 具身智能, 宁德时代, 融资, 机器人
+        <title><![CDATA[美国出手打击伊朗，为何全球市场依然淡定？]]></title>
+        <link href="https://wallstreetcn.com/articles/3749628" />
+        <id>https://wallstreetcn.com/articles/3749628</id>
+        <updated>Mon, 23 Jun 2025 16:27:36 +0800</updated>
+        <summary type="html"><![CDATA[关键词：伊朗核设施，市场反应，地缘政治风险，霍尔木兹海峡，油价
 
 <br><br>总结:
-1. 银河通用完成新一轮超10亿元融资，宁德时代和溥泉资本领投，创具身智能赛道今年最大单笔融资。
-2. 银河通用累计融资金额超23亿元，公司定位国内具身智能赛道第一梯队。
-3. 银河通用发布了首款具身大模型机器人 Galbot G1，采用“双臂+折叠本体+轮式底盘”结构，侧重上肢操作，并研发多款具身智能模型。
-4. 银河通用坚持仿真数据驱动模型训练，以低成本、快速生成大规模机器人操作数据集著称。
-5. Galbot 已落地部分应用场景，如智慧零售、工厂搬运分拣、公共服务接待等。宁德时代投资有望与银河通用在场景落地方面形成战略协同，并可能为机器人提供电池或引入机器人到生产线。
+1.  美国袭击伊朗核设施后，全球金融市场反应温和，美股期货跌幅收窄，原油、黄金冲高回落。
+2.  市场反应温和主要因为投资者预期美国军事干预是短暂的，目标是威慑而非长期冲突，地缘政治风险被视为可控。
+3.  伊朗反制风险方面，虽然伊朗议会批准关闭霍尔木兹海峡，但专家认为实际可能性较低，关闭海峡将招致美国强烈报复。
+4.  油价走势取决于冲突是否会中断石油流动。摩根士丹利提出三种情景：冲突未中断石油流动油价回落至60美元/桶；伊朗出口减少油价在75-80美元区间交易；冲突影响更广泛地区石油出口，油价可能回到2022年高位。
+5.  分析师认为地缘政治事件不会改变美股长期上涨趋势，预计标普500指数到2025年底将达到6500点，中东地区可能迎来“根本性变革”。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[充电宝上热搜，罗马仕可能要凉了？]]></title>
-        <link href="https://www.36kr.com/p/3347814215768962" />
-        <id>https://www.36kr.com/p/3347814215768962</id>
-        <updated>Mon, 23 Jun 2025 09:23:43 +0800</updated>
-        <summary type="html"><![CDATA[关键词：罗马仕, 充电宝, 自燃, 召回, 安全
+        <title><![CDATA[浦东机场出租车“短途之困”何以再优化？]]></title>
+        <link href="https://m.thepaper.cn/detail/31026271" />
+        <id>https://m.thepaper.cn/detail/31026271</id>
+        <updated>Mon, 23 Jun 2025 15:43:31 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 浦东机场, 出租车, 短途票, 排队, 大数据
 
 <br><br>总结:
-1.  罗马仕充电宝因存在自燃爆炸风险，被多所高校禁用，引发广泛关注和负面舆论。
-2.  罗马仕充电宝此前已有多次自燃事故记录，涉及航空安全及个人财产损失。
-3.  罗马仕已发布声明道歉并启动召回计划，但召回方式存在争议，且3C证书已被吊销，上游供应商也受到牵连。
-4.  事件暴露了充电宝行业在低价竞争下可能存在的安全隐患，提醒消费者在选购充电宝时应注重品牌信誉和产品质量，避免因贪图便宜而忽视安全。
-5.  该事件可能对罗马仕品牌造成长期负面影响，类似三星Note 7事件，消费者可能对其安全性产生质疑。
+1. 浦东机场出租车存在短途服务差、临港打车难等问题，司机抱怨排队时间长。
+2. "短途票"政策旨在鼓励短途接单，但存在司机“拆单”、使用“断码器”作弊等漏洞。
+3. 上海机场集团计划引入大数据技术优化短途用车方案，将短途返回时间从60分钟延长至120分钟。
+4. 有人大代表建议将临港滴水湖区域纳入“短途票”范围，目前该地打车不便。
+5. 有专家建议参考深圳机场的积分机制，以数字化手段减少司机等待，平衡巡游出租车和网约车关系。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全网骂他AI作弊狗，硅谷风投反手砸1.2亿，这届VC就爱疯批创业者]]></title>
-        <link href="https://www.36kr.com/p/3348348811598722" />
-        <id>https://www.36kr.com/p/3348348811598722</id>
-        <updated>Mon, 23 Jun 2025 08:52:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI, 作弊, Cluely, 融资, 生产力
+        <title><![CDATA[伊朗议会赞成关闭霍尔木兹海峡，外交部：呼吁国际社会推动冲突降级]]></title>
+        <link href="https://m.thepaper.cn/detail/31027452" />
+        <id>https://m.thepaper.cn/detail/31027452</id>
+        <updated>Mon, 23 Jun 2025 15:35:28 +0800</updated>
+        <summary type="html"><![CDATA[霍尔木兹海峡, 伊朗, 安全, 稳定, 国际贸易
 
 <br><br>总结:
-1.  Roy Lee 创立的 AI 公司 Cluely 以 "Cheat At Everything" 为口号，主打利用 AI 帮助用户在面试、考试、求职等场景中“作弊”，以提高效率。
-2.  Cluely 获得了 Andreessen Horowitz 领投的 1500 万美元种子轮融资，估值达到 1.2 亿美元。
-3.  Cluely 最初是一个面试作弊工具，后扩展到销售、会议、招聘等多种场景，并已在企业级市场获得验证。
-4.  Cluely 通过病毒式营销和用户生成内容迅速获得品牌声量和订阅收入，并计划招聘大量实习生进行推广。
-5.  Cluely 认为 AI 不仅仅是工具，而是将重新定义世界的游戏规则，未来奖励的是“影响力”，鼓励人们利用 AI 提高效率。
+*   针对伊朗议会赞成关闭霍尔木兹海峡的消息，中国外交部表示已知悉。
+*   中方认为波斯湾水域是重要的国际贸易通道，其安全稳定符合国际利益。
+*   中方呼吁国际社会共同努力，推动冲突降级，防止地区局势动荡。
+*   中方认为地区动荡会对全球经济发展造成更大影响。
+*   发言人未明确回应是否与伊朗通话。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[AI查重“杀死”一切，学生93分钟一镜到底自证清白]]></title>
-        <link href="https://www.36kr.com/p/3348349188561797" />
-        <id>https://www.36kr.com/p/3348349188561797</id>
-        <updated>Mon, 23 Jun 2025 08:52:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI检测, 误判, 学生, 作弊, 教育
+        <title><![CDATA[轰炸伊朗核设施，特朗普把自己逼入双输境地]]></title>
+        <link href="https://www.huxiu.com/article/4498298.html" />
+        <id>https://www.huxiu.com/article/4498298.html</id>
+        <updated>Mon, 23 Jun 2025 13:45:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 伊朗核威胁, 特朗普, 以色列, 核设施, 政治风险
 
 <br><br>总结:
-1.  **AI检测误判问题日益严重:** 学生辛苦完成的作业被AI检测工具误判为ChatGPT代笔，导致零分甚至影响毕业，休斯顿大学学生靠15页证据才洗清冤屈。
-2.  **学生被迫自证清白:** 为了避免被误判，学生采取极端方式，如录屏写作过程、使用记录击键历史的文档工具，以证明作业原创性。
-3.  **信任危机加剧:** AI检测工具的不靠谱导致教育界的信任崩塌，学生对自己的写作产生怀疑，甚至影响未来的写作方式。
-4.  **AI检测标准模糊不清:** 使用形容词过多、长句子、破折号等都可能触发警报，导致学生需要反复修改直至符合检测器标准。
-5.  **学校应对态度不一:** 一些学校停用AI检测功能，强调师生关系和对话；另一些学校则继续使用，但强调申诉权。
+1. 以色列长期担忧伊朗核威胁，推动特朗普政府对伊朗核设施发动空袭，但美国情报部门与以色列在此问题上存在分歧。
+2. 伊朗虽未发展核武器，但其高浓缩铀储备引发区域安全担忧，现有军事手段难以彻底摧毁伊朗深埋地下的核能力。
+3. 空袭可能刺激伊朗加速核计划，引发与以色列的持久消耗战，并通过导弹和巡飞弹对以色列进行攻击。
+4. 特朗普政府的行动违背其孤立主义承诺，面临国内政治风险，且可能将美国拖入冲突升级的境地。
+5. 内塔尼亚胡政府开启了“未经挑衅就发动战争”的先例，这使得未来伊朗对以色列的军事行动具有“正当性”，从而使得以色列未来将长期面临威胁。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[发布全新品牌IP，雷克萨斯着急了]]></title>
-        <link href="https://www.36kr.com/p/3345746467904130" />
-        <id>https://www.36kr.com/p/3345746467904130</id>
-        <updated>Mon, 23 Jun 2025 08:28:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词：雷克萨斯，电动化，本土化，保值率，品牌IP
+        <title><![CDATA[别慌，世界在三年前就毁灭了]]></title>
+        <link href="https://www.huxiu.com/article/4498304.html" />
+        <id>https://www.huxiu.com/article/4498304.html</id>
+        <updated>Mon, 23 Jun 2025 13:40:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 伊朗, 新冠, 噩梦, 现实感
 
 <br><br>总结:
-1.  雷克萨斯在中国市场面临销量增长放缓、市场份额被挤压以及电动化转型滞后等危机，主要体现在BBA等竞争对手的降价策略和雷克萨斯在售电动车型竞争力不足，未建立本土化研发体系，产品迭代慢，用户画像老化。
-2.  雷克萨斯试图通过高保值率构建竞争优势，尤其在价格战激烈的市场中，但高保值率与降价促销存在矛盾。
-3.  雷克萨斯发布全新品牌IP“I·LEXUS”，旨在实现从产品导向到用户生态的转型，通过产品革新、技术本土化和服务生态升级重塑品牌形象。
-4.  雷克萨斯通过上海新能源工厂的建立和中国专属研发等措施加速本土化进程，以应对市场需求并降低成本。
-5.  雷克萨斯在智能驾驶、市场模式等方面仍面临挑战，但其用户粘性、高保值率以及对东方美学的独特诠释是其竞争优势，未来的发展仍需时间检验。
+1. 特朗普轰炸伊朗核设施引发关注，中东和平前景渺茫，世界局势令人震惊。
+2. 作者回忆疫情期间的噩梦，梦中新冠病毒导致人类失忆，需不断恢复记忆。
+3. 梦里人们对抗病毒，有人选择自杀，有人选择将意识上传到虚拟空间。
+4. 作者醒来后失忆，怀疑世界可能被重置，进行博尔赫斯式的思想实验。
+5. 作者强调世界无常感强烈，人们应找回现实感，思考理性与生命真假的问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美军公布炸伊核设施时间线：超百架军机参与，有的佯装飞行]]></title>
-        <link href="https://wallstreetcn.com/articles/3749598" />
-        <id>https://wallstreetcn.com/articles/3749598</id>
-        <updated>Mon, 23 Jun 2025 08:01:03 +0800</updated>
-        <summary type="html"><![CDATA[伊朗核设施, 美国袭击, 午夜之锤, B-2轰炸机, 钻地炸弹
+        <title><![CDATA[京东阿里都要发币了，稳定币是智商税吗？]]></title>
+        <link href="https://www.36kr.com/p/3348519854300041" />
+        <id>https://www.36kr.com/p/3348519854300041</id>
+        <updated>Mon, 23 Jun 2025 12:08:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 稳定币, 监管, 美元霸权, 跨境支付, 数字人民币
 
 <br><br>总结:
-1. 美国总统特朗普宣布对伊朗三处核设施发起“清除行动”，行动目标是摧毁伊朗核能力。
-2. 国防部长称美国摧毁了伊朗核计划，但袭击行动没有针对伊朗军队或伊朗人民。
-3. 美军参谋长联席会议主席公布行动代号“午夜之锤”，超过125架美国飞机参与任务，包括B-2隐形轰炸机。
-4. 行动中，B-2轰炸机向福尔道和纳坦兹核设施投下钻地炸弹，潜艇向伊斯法罕核设施发射“战斧”导弹。
-5. 行动时间线从美东时间6月20日深夜开始，至21日下午结束，伊朗方面没有对美军开火。
+1. 稳定币是一种与法币挂钩的加密货币，主要用于支付，尤其在跨境支付中能实现快速结算。
+2. 中美两国都在积极推进稳定币相关立法，但同时也面临着监管挑战，如货币供应管理难度加大和反洗钱难度增加。
+3. 美国力推稳定币是为了巩固美元霸权，并将其作为美债的潜在买家。
+4. 中国布局稳定币具有防御性意义，一方面通过香港拥抱Web3，另一方面发展数字人民币，后者可视为人民币的稳定币，虽发行方为央行，但本质与稳定币类似。
+5. 长期来看，随着监管的细化和传统支付体系的技术进步，稳定币与传统支付体系可能会逐渐整合。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[涉半导体豁免，美国放风取消]]></title>
-        <link href="https://wallstreetcn.com/articles/3749597" />
-        <id>https://wallstreetcn.com/articles/3749597</id>
-        <updated>Mon, 23 Jun 2025 07:54:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 台积电，三星，豁免，中国大陆，半导体
+        <title><![CDATA[全球前瞻｜空袭后美国又想和伊朗对话，伊朗称将回应侵略行径]]></title>
+        <link href="https://m.thepaper.cn/detail/31026594" />
+        <id>https://m.thepaper.cn/detail/31026594</id>
+        <updated>Mon, 23 Jun 2025 11:31:59 +0800</updated>
+        <summary type="html"><![CDATA[黄循财访华, 伊朗核问题, 北约峰会, 夏季达沃斯, 军费开支
 
 <br><br>总结:
-1. 美国商务部计划撤销台积电、三星等在中国大陆使用美国技术的豁免，引发台韩担忧。
-2. 目前这些公司享有全面豁免，可将美国芯片制造设备运往大陆工厂，无需单独申请。
-3. 美国声称此举为打击关键技术流向中国，确保程序平等。
-4. 新举措可能使全球芯片制造商在华运营更困难，加剧中美科技竞争。
-5. 台韩企业可能被迫评估采购替代设备，韩国政府呼吁积极协调以减少影响。台湾舆论认为台积电受冲击相对较小。美国此举可能为大陆半导体设备业者创造机会。
+1. 新加坡总理黄循财于6月22日至26日对中国进行正式访问，期间将出席夏季达沃斯论坛，深化中新关系。
+2. 美国国务卿呼吁与伊朗直接谈判，但伊朗总统表示，美国袭击伊朗核设施是侵略行径，伊朗将作出回应。
+3. 北约峰会将于6月24日至25日举行，主要议题包括要求成员国提高军费，美国要求军费达到GDP的5%，但部分成员国反对。
+4. 世界经济论坛第十六届新领军者年会（夏季达沃斯论坛）将于6月24日至26日在天津召开，主题为“新时代企业家精神”，聚焦全球经济挑战和新增长模式。
+5. 美国完成了对伊朗三处核设施的袭击，以色列提前得知了此事。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token<br>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, Github注册时间, 免费使用, Docker应用, 一键部署
+
+Github注册时间大于180天的用户可以在Claw Cloud Run上享受长期免费使用，每月获得5美元赠金。通过查询Github注册时间的方法可以在浏览器中打开链接https://api.github.com/users/XXX，其中XXX为Github用户名，查看“created at”后显示的日期即为注册时间。Claw Cloud Run可用于搭建各种Docker应用，支持一键自动部署和手动部署。推荐部署的两款应用分别为Memos（轻笔记应用）和AList（网盘挂载工具）。这些详细内容可以通过观看Youtube视频了解。<br><br>总结: Claw Cloud Run是一个免费容器平台，注册时间大于180天的Github用户可享受长期免费使用，每月获得5美元赠金。用户可以在平台上部署各种Docker应用，支持一键自动部署和手动部署。推荐部署的应用有Memos和AList，详细信息可通过观看Youtube视频了解。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM实例、科学上网<br>
 <br>
-爪云提供内网穿透服务，注册时可获得免费域名。部署VPS前需安装Docker，可选择临时或固定隧道模式。在固定模式下，需准备UUID、Cloudflare隧道Token和隧道域名。运行相关命令来启动容器，并可以使用docker命令来管理容器。相关视频教程包括爪云使用、免费域名注册以及爪云科学上网节点部署。<br>
-<br>
-总结: 爪云提供内网穿透服务，注册时可获得免费域名，部署VPS前需安装Docker。可选择临时或固定隧道模式，固定模式需准备UUID、Cloudflare隧道Token和隧道域名。相关视频教程包括爪云使用、免费域名注册和科学上网节点部署。]]></summary>
+总结:本文介绍了如何利用谷歌云免费VPS政策注册账号、创建VM实例并搭建科学上网节点。注册时需要添加付款资料和方式，创建VM实例选择免费配置，包括地区、机器配置、操作系统等。开放防火墙规则，建议小白用户全部放行。登录方式包括官方后台和第三方SSH工具。科学上网建议使用Hysteria 2节点，注意免费政策和CDN流量产生费用。搭建节点可选择命令行或面板搭建，也可使用甬哥一键脚本简化流程。详细操作可观看相关视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名、挂了、Cloudflare、注册
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期
 
-us.kg免费域名目前存在一些问题，已注册的域名仍然有效，可以继续使用。新的域名也可以托管到Cloudflare，同时可以临时托管到FreeDNS。目前仍可以注册新的us.kg域名，但需要注意与已注册的域名的区别。需要留意的是，us.kg域名的使用方式有些变化，用户需要留意注册和使用域名的注意事项。]]></summary>
+域名注册工具DigitalPlat提供免费和收费域名选项，新用户可以获得免费域名额度，老用户可继续获得更多。免费域名不占用us.kg域名的免费额度。所有域名需要每年续期，续期过程永久免费。详细操作教程可在Youtube上找到。GitHub和Cloudflare是相关工具和服务的网站，提供注册地址和SSL证书解决方案。需要注意us.kg域名同样需要续期并不占用免费域名额度。整体方案提供了多种选择并保证续期便捷。<br><br>总结: DigitalPlat提供了免费和收费的域名注册选项，GitHub和Cloudflare为注册和SSL证书提供支持，详细操作教程在Youtube上，续期每年永久免费，us.kg域名需要续期，整体方案多样并方便。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
-Serv00提供免费科学上网服务，用户可以通过Serv00域名登录搭建节点，同时利用Cloudflare进行固定隧道设置和CDN回源，确保网络访问速度和稳定性。用户可以通过网页保活功能监控和管理节点，还可以利用Cloudflare远程保活功能保持节点持续运行。整个过程需要在Serv00注册账号，搭建科学上网节点，进行Cloudflare设置，配置CDN回源，保活节点，并在Cloudflare建立远程保活Worker。这些步骤的详细执行方法可以在相关的Github项目和Youtube视频中找到。<br><br>总结: Serv00注册账号登录，搭建科学上网节点，设置Cloudflare隧道和CDN回源，管理节点保活，建立Cloudflare远程保活Worker，确保网络稳定和持续运行。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG, 域名, 注册, Cloudflare, KYC验证
-
-US.KG域名现在受限，需要通过 https://dash.domain.digitalplat.org/ 进行注册和KYC验证。注册账号并验证邮箱，完成KYC验证后注册域名并托管到Cloudflare。免费续订域名和使用免费域名的缺点。详细步骤可查看Youtube视频教程。总结: US.KG域名受限，需先注册和KYC验证，托管到Cloudflare。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek、网页端、APP、API、本地部署
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买体验、插件
 <br>
-Deepseek是一款搜索工具，可以在网页端和APP上使用。同时也提供了API接口，支持Perplexity等应用的使用。用户还可以选择将Deepseek本地部署，通过安装Ollama并使用命令提示符运行来实现。总体而言，Deepseek提供了多种使用方式，可以满足用户不同的需求。<br><br>总结: Deepseek提供了网页端、APP和API等多种使用方式，并支持本地部署，为用户提供了灵活的选择。]]></summary>
+稳定性和速度方面，HostUNO提供的服务表现良好，无需保活。购买过程简单顺利，价格公道。搭建代理节点方便快捷，测速表现也不错。然而，存在ChatGPT降智问题，需注意。续费流程简单明了。总体来说，HostUNO值得购买，性价比较高。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
+<br>
+US.KG注册不了，可选择免费域名注册并托管到Cloudflare。通过身份信息生成器注册账号，使用优惠码（newuser）购买域名可享受一年免费。托管到Cloudflare后，登录添加域名并填入分配的两个名称服务器。详细步骤可观看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
