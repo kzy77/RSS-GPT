@@ -1,15 +1,8 @@
 ------------------------------------------------------
-Started: 2025-06-25 18:28:10.009231
-Existing_entries: 20
+Started: 2025-06-25 20:21:50.344183
+Existing_entries: 3
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1076
-Summarized using gemini model: gemini-2.0-flash
-Append: [可灵AI推出全球首部AIGC单元剧，行业早期仍需“反复抽卡”](https://www.yicai.com/news/102690078.html)
-Token length: 1224
-Summarized using gemini model: gemini-2.0-flash
-Append: [从光伏到智能算力，*ST金刚斥巨资再次跨界“自救”](https://www.yicai.com/news/102689956.html)
-Token length: 3898
-Summarized using gemini model: gemini-2.0-flash
-Append: [冯大刚对话钟鼎资本严力：创业者心里有梦，比什么都重要丨WAVES新浪潮2025](https://www.36kr.com/p/3351260109155203)
-append_entries: 3
-Finish: 2025-06-25 18:28:22.707002
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f63afd671c0>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -3] Temporary failure in name resolution)"))
+Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
