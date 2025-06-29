@@ -1,66 +1,8 @@
 ------------------------------------------------------
-Started: 2025-06-29 12:36:45.988716
-Existing_entries: 7
+Started: 2025-06-29 14:16:20.310798
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 4668
-Summarized using gemini model: gemini-2.0-flash
-Append: [管涛：“弱美元”真遂了美国政府的愿吗︱汇海观涛](https://www.yicai.com/news/102696207.html)
-Token length: 2934
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普政府税收政策决策的情绪化](https://www.yicai.com/news/102696206.html)
-Token length: 162
-Summarized using gemini model: gemini-2.0-flash
-Append: [爱尔眼科与华为云AI战略合作签约](https://www.yicai.com/news/102696200.html)
-Token length: 2531
-Summarized using gemini model: gemini-2.0-flash
-Append: [7月关税谈判大限要延至9月？特朗普称“可延长、可缩短”](https://www.yicai.com/news/102696165.html)
-Token length: 3268
-Summarized using gemini model: gemini-2.0-flash
-Append: [市场不缺钱！](https://wallstreetcn.com/articles/3750056)
-Token length: 2498
-Summarized using gemini model: gemini-2.0-flash
-Append: [G7税收新规允许“美国例外”：全球最低企业税遇挫，数字税何去何从？](https://www.yicai.com/news/102696177.html)
-Token length: 1520
-Summarized using gemini model: gemini-2.0-flash
-Append: [开源证券终止IPO：营收增速下滑，债券承销业务被暂停6个月](https://www.yicai.com/news/102696178.html)
-Token length: 2542
-Summarized using gemini model: gemini-2.0-flash
-Append: [A股上半年“红利+小盘成长”风格主导，中报业绩或催化下轮行情](https://www.yicai.com/news/102696176.html)
-Token length: 255
-Summarized using gemini model: gemini-2.0-flash
-Append: [↩️ دوتاشم‌وصل🟢](https://t.me/V2rayNg_madam/4496)
-Token length: 316
-Summarized using gemini model: gemini-2.0-flash
-Append: [vmess://eyJhZGQiOiJkZTEubGVub3Zhc2VydmVyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibXcuY29tIiwiaWQiOiIxNTA1MmUwNy00MzcxLTRjNjktODg1Mi0xMT...](https://t.me/V2rayNg_madam/4495)
-Token length: 1130
-Summarized using gemini model: gemini-2.0-flash
-Append: [小米回应YU7刹车片赛道测试起火：没跑散热圈极端情况下直接驻车，制动系统功能健全](https://m.thepaper.cn/detail/31061936)
-Token length: 2882
-Summarized using gemini model: gemini-2.0-flash
-Append: [一热就卡，同配置机器，性能差那么多？](https://www.36kr.com/p/3356264549500681)
-Token length: 835
-Summarized using gemini model: gemini-2.0-flash
-Append: [全无人驾驶！特斯拉实现史上首次车辆自己交付给车主，最高时速115公里，雷军点赞](https://m.thepaper.cn/detail/31058291)
-Token length: 2255
-Summarized using gemini model: gemini-2.0-flash
-Append: [6月29日这些公告有看头](https://www.yicai.com/news/102696152.html)
-Token length: 968
-Summarized using gemini model: gemini-2.0-flash
-Append: [全国首个脑机接口未来产业集聚区“脑智天地”启动建设](https://www.yicai.com/news/102696144.html)
-Token length: 2262
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国稀土多名董事、高管调整引发关注，最新声明：相关人员仍在集团其他岗位任职](https://m.thepaper.cn/detail/31061869)
-Token length: 2620
-Summarized using gemini model: gemini-2.0-flash
-Append: [拥抱安全赛：充电宝行业迎来新机遇](https://www.36kr.com/p/3356242488891782)
-Token length: 2604
-Summarized using gemini model: gemini-2.0-flash
-Append: [下周重磅日程：“大漂亮”法案逼近“7月4日”大限，中美PMI、美国非农、金砖国家峰会](https://wallstreetcn.com/articles/3750048)
-Token length: 2774
-Summarized using gemini model: gemini-2.0-flash
-Append: [柠檬涨价，奶茶店主慌了？我发现真相并非如此](https://www.36kr.com/p/3356894152607491)
-Token length: 2279
-Summarized using gemini model: gemini-2.0-flash
-Append: [司美格鲁肽又有新对手：信达生物玛仕度肽获批](https://www.36kr.com/p/3355647712675845)
-append_entries: 20
-Finish: 2025-06-29 12:38:06.534330
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbe52174bb0>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -3] Temporary failure in name resolution)"))
+Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
