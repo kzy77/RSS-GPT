@@ -2,122 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.dpdns.org" />
-    <updated>Thu, 03 Jul 2025 10:21:08 GMT</updated>
+    <updated>Thu, 03 Jul 2025 12:39:29 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Gemini CLI 国区使用常见问题解决方法]]></title>
-        <link href="https://juejin.cn/post/7520514539638243354" />
-        <id>https://juejin.cn/post/7520514539638243354</id>
-        <updated>Sat, 28 Jun 2025 12:53:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Gemini CLI, Claude Code, 中文用户, Google Cloud, 网络问题
+        <title><![CDATA[做大模型应用的你们，真的懂markdown渲染吗？]]></title>
+        <link href="https://juejin.cn/post/7522617533485219891" />
+        <id>https://juejin.cn/post/7522617533485219891</id>
+        <updated>Thu, 03 Jul 2025 15:45:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词：markdownIt, DOMPurify, 安全, 渲染, VNode
 
 <br><br>总结:
-1.  **Gemini CLI 优势:** Gemini CLI 相比 Claude Code，对中文用户更友好，解决了网络访问和账户注册限制问题，并提供了免费的 Gemini 2.5 Pro 模型访问权限。
-2.  **安装与启动:** 推荐使用 npx 快速启动或 npm 全局安装 Gemini CLI，并使用 Google 账户登录。
-3.  **网络问题:** 通过开启代理工具的 TUN 模式或在终端中设置临时代理解决网络问题导致的登录失败或中断。
-4.  **Google 登录报错:** 需登录 Google Cloud 控制台创建项目，获取项目ID并设置 GOOGLE_CLOUD_PROJECT 环境变量，并启用 Gemini for Google Cloud API。
-5.  **认证方式:** 务必选择 Google 账户登录以获取免费的 Gemini 2.5 Pro 模型和每日额度，避免使用 API Key 登录。
+1.  文章介绍了Markdown渲染和HTML清理方案，包括技术选型（markdownIt 和 DOMPurify）和核心设计原则（Web安全、高可用、易拓展和性能）。
+2.  markdownIt是一个流行的Markdown渲染库，拥有丰富的插件生态和强大的拓展性，使用流程包括创建实例、配置选项、解析文本和生成HTML。常用的插件包括markdown-it-emoji、markdown-it-table-of-contents等。
+3.  DOMPurify用于清理恶意HTML，专注于防止XSS攻击，支持浏览器和Node.js环境。渲染后需要使用DOMPurify.sanitize对HTML进行净化。
+4.  文章还提出了局部更新方案，将Markdown渲染为HTML后，再转换为VNode，解决了使用v-html可能导致的页面闪烁和卡顿问题。利用unifiedjs生态系统进行数据处理，实现更细粒度的更新。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[SubsTracker – 订阅管理与提醒系统 （Cloudflare page）]]></title>
-        <link href="https://www.freedidi.com/19913.html" />
-        <id>https://www.freedidi.com/19913.html</id>
-        <updated>Thu, 03 Jul 2025 13:19:41 +0800</updated>
-        <summary type="html"><![CDATA[订阅管理, Cloudflare Workers, Telegram, NotifyX, 自动提醒
+        <title><![CDATA[充电宝“危机”竟是因为行业内卷？有供应商称隔膜从15美金卷到1元/m² 业内：极致内卷引发质量问题 需遏制｜一探]]></title>
+        <link href="https://www.yicai.com/video/102702593.html" />
+        <id>https://www.yicai.com/video/102702593.html</id>
+        <updated>Wed, 02 Jul 2025 23:14:13 +0800</updated>
+        <summary type="html"><![CDATA[充电宝召回 隔膜材料 价格内卷 产品质量 安全隐患
+
 <br><br>总结:
-1.  **项目简介:** SubsTracker 是一个基于 Cloudflare Workers 的轻量级订阅管理和提醒系统，旨在帮助用户追踪各类订阅服务的到期时间，并通过 Telegram 或 NotifyX 发送及时提醒。
-<br><br>2.  **主要功能:** SubsTracker 提供自动提醒、订阅管理Web界面、周期计算、响应式设计以及免服务器部署等功能，数据存储在 Cloudflare KV 中，保证安全高效。
-<br><br>3.  **V3 版本更新:** 包括订阅列表按到期日升序排序、修复提醒天数逻辑、自动续费切换、增强测试通知、Toast 通知系统、表单验证及错误处理、安全配置等。
-<br><br>4.  **部署指南:** 需要 Cloudflare 账户和 Telegram Bot。步骤包括创建 Cloudflare Worker 并粘贴代码，创建 KV 键值对并绑定，设置定时执行时间，使用默认账号密码登录，修改账号密码和配置通知信息。
-<br><br>5.  **通知服务:** 支持 Telegram 和 NotifyX，用户可以在系统配置中选择和配置，并测试通知功能。
+1. 近期发生充电宝召回事件，引发公众关注。
+2. 核心原因在于电池隔膜材料价格大幅下降，从每平方米15美元降至1元以下，行业竞争白热化。
+3. 恶性价格竞争导致部分厂家为降低成本牺牲产品质量，埋下安全隐患。
+4. 必须尽快遏制这种牺牲质量换取价格优势的现象，避免进一步的安全问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare pages 搭建免费图床!  享受 Telegram 的无限空间]]></title>
-        <link href="https://www.freedidi.com/19912.html" />
-        <id>https://www.freedidi.com/19912.html</id>
-        <updated>Thu, 03 Jul 2025 13:06:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Cloudflare Pages, 图床, Telegram, 免费, Telegraph
+        <title><![CDATA[“哈佛事件”之后，香港高校已发出36份“转校”录取通知书]]></title>
+        <link href="https://www.yicai.com/news/102702570.html" />
+        <id>https://www.yicai.com/news/102702570.html</id>
+        <updated>Wed, 02 Jul 2025 23:12:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 香港高校, 海外学生, 转学申请, 教育枢纽, 非本地生
 
 <br><br>总结:
-1.  该方案提供了一个免费的图片托管服务，作为Flickr/imgur的替代品，基于Cloudflare Pages和Telegram。
-2.  由于Telegraph API接口关闭，上传渠道切换至Telegram Channel，需要设置TG_Bot_Token和TG_Chat_ID，通过Telegram Bot获取Token和Chat ID，并设置机器人为频道管理员。
-3.  需要在Cloudflare Pages后台设置TG_Bot_Token和TG_Chat_ID环境变量，修改后需重新部署。
-4.  部署简单，只需Fork仓库或上传仓库文件到Cloudflare Pages即可。
-5.  该图床具有无限图片储存数量、无需服务器和域名、支持图片审查API、支持后台图片管理等特性。
-6.  存在一些限制，包括Telegraph的图片大小限制（5MB）、部分地区的加载速度问题，以及Cloudflare Function的每日请求限制（100,000次）。
+1. 香港高校收到大量海外学生转学申请，源于海外高等教育政策变化，尤其是“哈佛事件”影响。
+2. 香港各大学积极响应，提供学分转移、签证协助、住宿安排及奖学金等支持措施。
+3. 香港拥有5所全球百强大学，致力于建设国际专上教育枢纽，具有英文授课环境和开放的学术环境优势。
+4. 香港高校非本地生申请人数持续增长，海外学生申请数字倍升，政府考虑进一步提高招生限额。
+5. 香港特区政府积极施策，发展“北都大学教育城”，增加奖学金名额，以吸引国际高端人才。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudfare page 免费搭建 LibreTV 在线视频聚合平台！]]></title>
-        <link href="https://www.freedidi.com/19908.html" />
-        <id>https://www.freedidi.com/19908.html</id>
-        <updated>Thu, 03 Jul 2025 12:55:40 +0800</updated>
-        <summary type="html"><![CDATA[LibreTV, 视频搜索, 在线观看, Cloudflare Pages, 部署
+        <title><![CDATA[ETF产品加速涌现，中长期资金更青睐哪些方向？]]></title>
+        <link href="https://www.yicai.com/news/102702470.html" />
+        <id>https://www.yicai.com/news/102702470.html</id>
+        <updated>Wed, 02 Jul 2025 22:32:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：ETF，指数化投资，中长期资金，产品设计，市场发展
 
 <br><br>总结:
-1. LibreTV是一个免费、轻量级的在线视频平台，提供多源视频搜索和观看服务。
-2. 项目无需注册，支持多种设备访问，结合了前端和后端代理技术。
-3. 部署推荐使用Cloudflare Pages，只需Fork仓库并连接GitHub。
-4. 构建命令和输出目录留空，在环境变量中设置PASSWORD。
-5. 可选设置ADMINPASSWORD，并对接提供的影视接口。
+1.  ETF市场快速发展得益于政策支持、市场环境变化、产品创新和“三投资”理念的契合。
+2.  ETF产品设计需考虑资金配置需求和指数投资容量，宽基类和红利类产品更适合配置型资金。
+3.  大型基金公司可布局宽基指数产品，中小公司可开发自身策略，如城市科技ETF。
+4.  未来看好沪深300指数产品、红利型ETF、债券ETF和港股ETF的发展潜力。
+5.  中长期资金适配方向包括宽基指数核心配置、策略指数“核心+卫星”模式和多资产指数风险分散。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[从零教你微调一个专属领域大模型，看完小白也能学会炼丹!]]></title>
-        <link href="https://juejin.cn/post/7521973217771831350" />
-        <id>https://juejin.cn/post/7521973217771831350</id>
-        <updated>Tue, 01 Jul 2025 20:54:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLaMA Factory, 微调, 模型, 数据集, Web安全
+        <title><![CDATA[特朗普称美越达成贸易协议，美国对越南商品征关税至少20%]]></title>
+        <link href="https://wallstreetcn.com/articles/3750306" />
+        <id>https://wallstreetcn.com/articles/3750306</id>
+        <updated>Thu, 03 Jul 2025 00:36:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 越南, 关税, 贸易协议, 美国股市
 
 <br><br>总结:
-1.  **LLaMA Factory 微调教程:** 分享大模型微调经验，教程由浅入深，包含基础理论、工具使用、参数配置、效果观察和模型部署。
-2.  **微调目标与效果:** 以Web安全领域专家模型为例，旨在提高专业推理能力，解决私有部署数据安全和成本问题，提升回答丰富度和推理能力，同时保留非专业领域知识迁移。
-3.  **LLaMA Factory 工具:** 介绍其功能、安装、基础使用，以及与其他工具如 Unsloth 的对比，强调其全面性和易用性。
-4.  **微调参数调整:** 详细讲解学习率、训练轮数、批量大小、截断长度、LoRA秩、验证集比例等关键参数的作用、影响和调整思路。
-5.  **微调过程观察:** 阐述如何通过LOSS曲线、SwanLab等工具监控微调过程，以及如何理解和分析不同LOSS曲线的特征。
-6.  **微调后模型使用:** 介绍如何加载、合并、导出微调后的模型，并提供本地调用模型的方案，如Ollama和VLLM，以及在 Easy Dataset 对比模型微调效果。
+1. 美国总统特朗普宣布与越南达成贸易协议，越南将对出口美国的商品支付20%的关税，对经越南转运出口至美国的商品征收40%关税，并承诺对美国产品实施零关税。
+2. 此协议是在美国政府暂停征收“对等关税”90天截止期限临近之际达成的，旨在解决美越贸易问题，越南建议美国承认其市场经济地位并取消高科技产品出口限制。
+3. 新关税水平虽高于现有基准关税，但低于此前美国计划征收的“对等关税”。
+4. 贸易协议宣布后，美国股市，尤其是服装鞋履、运动品牌、谷物期货等相关板块受到提振，MSCI越南精选指数ETF一度上涨。
+5. 作为协议的一部分，越南将采购价值80亿美元的波音飞机，美国商务部长称该协议对美国农民意义重大。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[宠物险市场“蓝海”下，“成本高”与“赔得少”之困]]></title>
-        <link href="https://www.yicai.com/news/102702205.html" />
-        <id>https://www.yicai.com/news/102702205.html</id>
-        <updated>Thu, 03 Jul 2025 00:13:14 +0800</updated>
-        <summary type="html"><![CDATA[宠物险, 宠物医疗, 行业规范, 赔付, 产品设计
+        <title><![CDATA[东风与日产再设合资公司，向海外要增量]]></title>
+        <link href="https://www.yicai.com/news/102702409.html" />
+        <id>https://www.yicai.com/news/102702409.html</id>
+        <updated>Wed, 02 Jul 2025 22:31:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 合资公司, 出口业务, 东风汽车, 日产, 新能源汽车
 
 <br><br>总结:
-1.  宠物经济蓬勃发展，宠物险作为一种新兴保障方式快速发展，但面临赔付成本高和消费者认为赔付少等问题。
-2.  国内宠物保险市场规模快速增长，但渗透率远低于发达国家，市场潜力巨大。
-3.  行业痛点包括宠物医疗市场不规范，诊疗不透明，保险公司核保和产品设计不完善，以及用户对保险产品理解不足。
-4.  行业规范化亟待构建和完善，需多方共建，包括制定诊疗标准、统一采购渠道、规范疾病分类和治疗方案等。
-5.  优化产品设计，提高产品性价比，完善保险知识宣导，可减少消费者误解和理赔纠纷。
+1. 东风汽车与日产成立合资公司，注册资本10亿元，日产持股60%，旨在合作向海外市场出口汽车及零部件。
+2. 东风汽车此前已与日产有合资公司，此次新合资公司成立反映双方对海外市场出口的需求。东风日产计划2025年开始出口，目标销量10万辆，包含四款日产品牌新能源汽车。
+3. 日产计划出口东风日产N7和郑州日产Frontier Pro PHEV，并依托全球经销商网络制定策略。
+4. 国内新能源汽车市场竞争激烈，合资品牌寻求海外商机，日产计划增加新能源车型投放，但产能问题仍待解决。
+5. 日产汽车业绩下滑，2024财年净亏损，中国市场销量也大幅下降，亟需出口业务实现突破。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马上评｜关于充电宝的这些问题，应该得到回应]]></title>
-        <link href="https://m.thepaper.cn/detail/31085857" />
-        <id>https://m.thepaper.cn/detail/31085857</id>
-        <updated>Wed, 02 Jul 2025 16:51:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 3C认证, 充电宝, 航空安全, 销售市场, 产品处理
+        <title><![CDATA[大理苍山野生菌被指遭游客掠夺式采摘：有人“掘地三尺找菌子”，官方称将加强巡护]]></title>
+        <link href="https://m.thepaper.cn/detail/31086878" />
+        <id>https://m.thepaper.cn/detail/31086878</id>
+        <updated>Wed, 02 Jul 2025 20:53:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词：野生菌, 苍山, 掠夺式采摘, 生态破坏, 游客
 
 <br><br>总结:
-1.  **产品质量:** 市场仍有无3C认证充电宝销售，是否违规，责任追究，来源打击，检验流程，以及对3C认证本身需加强把关和企业监督。
-2.  **销售市场:** 无标产品售卖，商家兜售3C贴纸，如何阻止不合格品流入市场，电商平台把关，监管部门策略，伪造标识的法律责任，以及机场安检识别伪造标识的能力。
-3.  **产品处理:** 非3C认证充电宝的处理方式，如何科学环保，机场拦截充电宝的处理流向，以及回收充电宝的流向监管和二手市场合法性。
-4.  **旅客服务:** 机场是否可推出更合理的寄存服务，对手机没电的旅客提供紧急措施，如3C充电宝供应站或置换，以及双向分流利用拦截充电宝的建议。
-5.  **产品使用:** 应用场景细化，以及政策的协调性和自洽性，充电宝之困不仅是航空安全问题，还涉及到方方面面，需要多方解答。
+1. 大量游客涌入大理苍山掠夺式采摘野生菌，破坏森林地表，导致菌丝死亡，威胁生态环境。
+2. 商业“野生向导”招揽游客，收取费用，加剧采摘行为，甚至破坏保护植物。
+3. 苍山洱海国家级自然保护区管理局回应称已加强巡查，违规进入核心区、缓冲区将处以罚款。
+4. 专家呼吁停止无节制采摘，采用科学方法保护野生菌生长环境，维护生态平衡。
+5. 相关部门已发布通告，严禁违规进入苍山核心区、缓冲区，违者将处以罚款。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普“大漂亮”法案众议院受阻，共和党内讧升级！]]></title>
+        <link href="https://wallstreetcn.com/articles/3750269" />
+        <id>https://wallstreetcn.com/articles/3750269</id>
+        <updated>Wed, 02 Jul 2025 19:53:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大漂亮法案, 参议院, 众议院, 共和党, 债务上限
+
+<br><br>总结:
+1.  参议院通过的“大漂亮法案”版本在众议院面临共和党内部强烈阻力，投票前景不明。
+2.  众议院共和党主要不满包括：社会保障支出削减过多，债务上限提升过大，以及税改“永久化”导致未来赤字增加。
+3.  共和党内部存在两派反对力量：极端保守派关注赤字和债务，温和派反对削减医疗补助。
+4.  由于共和党在众议院的多数席位微弱，法案面临无法通过的风险，民主党已表态全票反对。
+5.  特朗普正在施压众议院共和党议员支持该法案，但众议院议长约翰逊面临巨大压力，甚至可能威胁到他的议长职位。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Trae 小册上线了！7 大项目带你玩转 AI 实战编程！]]></title>
+        <link href="https://juejin.cn/post/7520158346361552933" />
+        <id>https://juejin.cn/post/7520158346361552933</id>
+        <updated>Fri, 27 Jun 2025 07:24:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI IDE, Trae, Cursor, Agent架构, AI编程
+
+<br><br>总结:
+1.  **AI IDE的兴起:** 软件开发正被AI深度重塑，未来的核心竞争力在于与AI高效协作。
+2.  **Trae的定位:** Trae是一款国内首个对标Cursor的AI IDE，基于VS Code，采用Agent架构，旨在让AI成为自主思考和执行任务的智能伙伴。
+3.  **Trae的优势:** Trae在核心AI编程体验上与Cursor相似，但在定价策略上对国内用户更具吸引力，同时提供双版本以应对大模型的使用限制。
+4.  **小册内容:** 小册通过三阶递进的方式，带你上手7个完整的实战项目，掌握AI编程的思维模式。内容包括Trae核心功能的掌握、AI进阶技巧的探索以及覆盖不同技术领域的实战项目。
+5.  **适用人群及收获:** 适用于开发者、产品经理、设计师、创业者、效率爱好者和在校学生，旨在提升AI编程效率，转变创造者思维，轻松搞定全场景应用。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“小非农”爆冷！美股三大指数小幅下跌，现货黄金短线拉升、美元短线下跌、新台币升破29关口]]></title>
+        <link href="https://wallstreetcn.com/articles/3750260" />
+        <id>https://wallstreetcn.com/articles/3750260</id>
+        <updated>Wed, 02 Jul 2025 21:35:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词：ADP就业，降息预期，非农数据，贸易谈判，医疗保险
+
+<br><br>总结:
+1. 美国6月ADP就业人数大幅下降，加剧经济放缓担忧，推升市场降息预期。
+2. 美股走势分化，科技股苹果、特斯拉上涨，医疗保险股Oscar、Centene暴跌。
+3. 银行股因提高分红而上涨，微软计划进一步裁员。
+4. 全球股市方面，亚洲股市多数下跌，欧股走势分化，英国股债汇三杀。
+5. 美元指数小幅上涨，新台币兑美元升破29，投资者关注即将公布的非农就业数据和贸易谈判进展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“大而美”法案是如何在参议院通关的？CBO预计或使美国无医保人数激增千万]]></title>
+        <link href="https://www.yicai.com/news/102701464.html" />
+        <id>https://www.yicai.com/news/102701464.html</id>
+        <updated>Wed, 02 Jul 2025 22:05:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词：减税法案，参议院，医疗补助，马斯克，特朗普
+
+<br><br>总结:
+1. 美国参议院以51:50的微弱优势通过了全面减税和支出法案，副总统万斯投了关键一票。
+2. 三名共和党参议员投了反对票，众议院议长也警告参议院不要过度修改该法案。
+3. 该法案的参议院版本预计将导致2034年美国无医疗保险的人数增加1180万人，削减医疗补助等政府支出。
+4. 特斯拉CEO马斯克激烈批评该法案，特朗普回应称可能会审查马斯克麾下的企业，甚至考虑将其驱逐出境。
+5. 特朗普的支持者菲什巴克将成立一个超级政治行动委员会，以对抗马斯克在中期选举中可能的政治活动。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[滚动更新丨美股三大指数开盘小幅下跌，特斯拉涨4.5%]]></title>
+        <link href="https://www.yicai.com/news/102702412.html" />
+        <id>https://www.yicai.com/news/102702412.html</id>
+        <updated>Wed, 02 Jul 2025 22:00:49 +0800</updated>
+        <summary type="html"><![CDATA[美股, 特斯拉, Adobe, 欧洲股市, 英特尔
+
+<br><br>总结:
+1. 美股三大指数开盘小幅下跌，科技巨头表现分化，特斯拉因二季度产销数据上涨，而Adobe因目标价遭机构下调而下跌。
+2. 欧洲股市多数上涨，其中欧洲斯托克50指数、德国DAX30指数和法国CAC40指数均上涨，英国富时100指数下跌。
+3. 高盛和摩根士丹利股价创历史新高，美股芯片板块走高，台积电触及历史新高。
+4. 英特尔下跌，原因是考虑调整芯片代工业务战略。Rivian因第二季度交付量下降而下跌。
+5. 美国6月ADP就业人数意外下降。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一财社论：正确政绩观是纵深推进全国统一大市场建设重要一环]]></title>
+        <link href="https://www.yicai.com/news/102702428.html" />
+        <id>https://www.yicai.com/news/102702428.html</id>
+        <updated>Wed, 02 Jul 2025 21:42:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词：统一大市场，政绩观，地方保护主义，高质量发展，干部考核
+
+<br><br>总结:
+1.  中央财经委会议强调纵深推进全国统一大市场建设，核心在于破除地方保护主义等“障碍”，实现市场基础制度、基础设施、政府行为、市场监管执法、要素资源市场的“五统一”。
+2.  要引导干部树立正确政绩观，克服地方观念，服从和服务于全国统一大市场建设，清理阻碍市场统一的“地方粮票”，杜绝低层次重复建设和地区封锁。
+3.  通过《关于开展市场准入壁垒清理整治行动 促进全国统一大市场建设的通知》，清理整治地方性法规、规章等违反市场准入制度要求的各类规定文件，以及各级政府违规设置市场准入壁垒的各类做法情形。
+4.  完善高质量发展考核体系和干部政绩考核评价体系，注重发展质量、营商环境、民生改善、财政健康状况等方面，将维护公平竞争秩序和建设统一大市场的成果作为地方干部绩效的重要考核内容。
+5.  明确党员领导干部政绩观错位，违背新发展理念、背离高质量发展要求，给党、国家和人民利益造成较大损失的处分，对搞劳民伤财的“形象工程”“政绩工程”的，从重或者加重处分。
 ]]></summary>
     </entry>
     
