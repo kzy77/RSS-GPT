@@ -2,286 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-03T08:27:58Z</updated>
+    <updated>2025-07-03T10:22:15Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[充电宝“危机”竟是因为行业内卷？有供应商称隔膜从15美金卷到1元/m² 业内：极致内卷引发质量问题 需遏制｜一探]]></title>
-        <link href="https://www.yicai.com/video/102702593.html" />
-        <id>https://www.yicai.com/video/102702593.html</id>
-        <updated>Wed, 02 Jul 2025 23:14:13 +0800</updated>
-        <summary type="html"><![CDATA[充电宝召回 隔膜材料 电池安全 价格内卷 质量牺牲
+        <title><![CDATA[马上评｜关于充电宝的这些问题，应该得到回应]]></title>
+        <link href="https://m.thepaper.cn/detail/31085857" />
+        <id>https://m.thepaper.cn/detail/31085857</id>
+        <updated>Wed, 02 Jul 2025 16:51:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 3C认证, 充电宝, 航空安全, 销售市场, 产品处理
 
 <br><br>总结:
-1. 近期充电宝召回事件引发关注。
-2. 隔膜材料作为电池安全的关键组件，价格从每平方米15美金降至1元以下。
-3. 行业内卷导致部分厂家为降低成本牺牲产品质量。
-4. 亟需遏制这种牺牲质量换取低价的现象，保障电池安全。
+1.  **产品质量:** 市场仍有无3C认证充电宝销售，是否违规，责任追究，来源打击，检验流程，以及对3C认证本身需加强把关和企业监督。
+2.  **销售市场:** 无标产品售卖，商家兜售3C贴纸，如何阻止不合格品流入市场，电商平台把关，监管部门策略，伪造标识的法律责任，以及机场安检识别伪造标识的能力。
+3.  **产品处理:** 非3C认证充电宝的处理方式，如何科学环保，机场拦截充电宝的处理流向，以及回收充电宝的流向监管和二手市场合法性。
+4.  **旅客服务:** 机场是否可推出更合理的寄存服务，对手机没电的旅客提供紧急措施，如3C充电宝供应站或置换，以及双向分流利用拦截充电宝的建议。
+5.  **产品使用:** 应用场景细化，以及政策的协调性和自洽性，充电宝之困不仅是航空安全问题，还涉及到方方面面，需要多方解答。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“哈佛事件”之后，香港高校已发出36份“转校”录取通知书]]></title>
-        <link href="https://www.yicai.com/news/102702570.html" />
-        <id>https://www.yicai.com/news/102702570.html</id>
-        <updated>Wed, 02 Jul 2025 23:12:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词：香港高校，海外学生，转学申请，国际枢纽，招生政策
+        <title><![CDATA[从零教你微调一个专属领域大模型，看完小白也能学会炼丹!]]></title>
+        <link href="https://juejin.cn/post/7521973217771831350" />
+        <id>https://juejin.cn/post/7521973217771831350</id>
+        <updated>Tue, 01 Jul 2025 20:54:51 +0800</updated>
+        <summary type="html"><![CDATA[关键词: LLaMA Factory, 微调, 模型, 数据集, Web安全
 
 <br><br>总结:
-1. 香港高校收到大量海外学生转学查询，尤其是在美国政府对哈佛大学施压后，部分高校已发出录取通知。
-2. 香港各大学积极响应，为转学生提供入学、学分、签证和住宿等协助，部分大学还提供奖学金。
-3. 香港致力于建设国际专上教育枢纽，其英文授课环境和开放学术环境吸引国际学生。
-4. 香港高校非本地生申请人数持续增长，海外学生申请人数倍升。
-5. 香港特区政府计划提高非本地生招生限额，发展“北都大学教育城”，增加奖学金名额，推动香港成为国际人才聚集地。
+1.  **LLaMA Factory 微调教程:** 分享大模型微调经验，教程由浅入深，包含基础理论、工具使用、参数配置、效果观察和模型部署。
+2.  **微调目标与效果:** 以Web安全领域专家模型为例，旨在提高专业推理能力，解决私有部署数据安全和成本问题，提升回答丰富度和推理能力，同时保留非专业领域知识迁移。
+3.  **LLaMA Factory 工具:** 介绍其功能、安装、基础使用，以及与其他工具如 Unsloth 的对比，强调其全面性和易用性。
+4.  **微调参数调整:** 详细讲解学习率、训练轮数、批量大小、截断长度、LoRA秩、验证集比例等关键参数的作用、影响和调整思路。
+5.  **微调过程观察:** 阐述如何通过LOSS曲线、SwanLab等工具监控微调过程，以及如何理解和分析不同LOSS曲线的特征。
+6.  **微调后模型使用:** 介绍如何加载、合并、导出微调后的模型，并提供本地调用模型的方案，如Ollama和VLLM，以及在 Easy Dataset 对比模型微调效果。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[ETF产品加速涌现，中长期资金更青睐哪些方向？]]></title>
-        <link href="https://www.yicai.com/news/102702470.html" />
-        <id>https://www.yicai.com/news/102702470.html</id>
-        <updated>Wed, 02 Jul 2025 22:32:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：ETF、指数化投资、中长期资金、产品设计、市场发展
-
+        <title><![CDATA[SubsTracker – 订阅管理与提醒系统 （Cloudflare page）]]></title>
+        <link href="https://www.freedidi.com/19913.html" />
+        <id>https://www.freedidi.com/19913.html</id>
+        <updated>Thu, 03 Jul 2025 13:19:41 +0800</updated>
+        <summary type="html"><![CDATA[订阅管理, Cloudflare Workers, Telegram, NotifyX, 自动提醒
 <br><br>总结:
-1. ETF市场快速扩张的驱动因素包括：政策支持，个人投资者需求，产品创新，以及与“三投资”理念契合。
-2. ETF产品设计需考虑配置型资金需求、指数投资容量，以及宽基、策略类、跨境、行业主题等不同类型产品的特点。
-3. 中小型基金公司可专注于开发自身策略，例如城市科技ETF等特色产品，以避免同质化。
-4. 机构看好沪深300指数产品、红利型ETF、债券ETF和港股ETF的未来发展潜力，认为港股是配置中国资产的重要市场。
-5. 中长期资金适配方向包括：宽基指数作为核心配置，策略指数采用“核心+卫星”模式，以及多资产指数实现风险分散。
+1.  **项目简介:** SubsTracker 是一个基于 Cloudflare Workers 的轻量级订阅管理和提醒系统，旨在帮助用户追踪各类订阅服务的到期时间，并通过 Telegram 或 NotifyX 发送及时提醒。
+<br><br>2.  **主要功能:** SubsTracker 提供自动提醒、订阅管理Web界面、周期计算、响应式设计以及免服务器部署等功能，数据存储在 Cloudflare KV 中，保证安全高效。
+<br><br>3.  **V3 版本更新:** 包括订阅列表按到期日升序排序、修复提醒天数逻辑、自动续费切换、增强测试通知、Toast 通知系统、表单验证及错误处理、安全配置等。
+<br><br>4.  **部署指南:** 需要 Cloudflare 账户和 Telegram Bot。步骤包括创建 Cloudflare Worker 并粘贴代码，创建 KV 键值对并绑定，设置定时执行时间，使用默认账号密码登录，修改账号密码和配置通知信息。
+<br><br>5.  **通知服务:** 支持 Telegram 和 NotifyX，用户可以在系统配置中选择和配置，并测试通知功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[东风与日产再设合资公司，向海外要增量]]></title>
-        <link href="https://www.yicai.com/news/102702409.html" />
-        <id>https://www.yicai.com/news/102702409.html</id>
-        <updated>Wed, 02 Jul 2025 22:31:29 +0800</updated>
-        <summary type="html"><![CDATA[合资品牌, 出海, 日产, 东风汽车, 出口
+        <title><![CDATA[Cloudflare pages 搭建免费图床!  享受 Telegram 的无限空间]]></title>
+        <link href="https://www.freedidi.com/19912.html" />
+        <id>https://www.freedidi.com/19912.html</id>
+        <updated>Thu, 03 Jul 2025 13:06:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Cloudflare Pages, 图床, Telegram, 免费, Telegraph
 
 <br><br>总结:
-1. 东风汽车与日产（中国）成立新的合资公司，注册资本10亿元，双方分别出资40%和60%，合同期限28年，主要开展汽车、零部件及配件的出口业务。
-2. 新合资公司成立源于双方的出口需求。东风汽车计划从2025年开始出口，初步目标为10万辆，包含四款日产品牌新能源汽车。日产也计划出口东风日产N7和郑州日产Frontier Pro PHEV，并依托全球经销商网络制定差异化策略。
-3. 中国新能源汽车市场竞争激烈，促使合资品牌寻求海外商机。日产计划到2027年夏季将新能源车型增至10款。
-4. 日产业绩下滑，2024财年净亏损6709亿日元，中国市场销量也大幅下降，亟需通过出口业务实现突破。
-5. 日产出口计划面临产能挑战，纯电车型N7交付周期较长，产能爬坡是开启全球出口计划的前提。
+1.  该方案提供了一个免费的图片托管服务，作为Flickr/imgur的替代品，基于Cloudflare Pages和Telegram。
+2.  由于Telegraph API接口关闭，上传渠道切换至Telegram Channel，需要设置TG_Bot_Token和TG_Chat_ID，通过Telegram Bot获取Token和Chat ID，并设置机器人为频道管理员。
+3.  需要在Cloudflare Pages后台设置TG_Bot_Token和TG_Chat_ID环境变量，修改后需重新部署。
+4.  部署简单，只需Fork仓库或上传仓库文件到Cloudflare Pages即可。
+5.  该图床具有无限图片储存数量、无需服务器和域名、支持图片审查API、支持后台图片管理等特性。
+6.  存在一些限制，包括Telegraph的图片大小限制（5MB）、部分地区的加载速度问题，以及Cloudflare Function的每日请求限制（100,000次）。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“大而美”法案是如何在参议院通关的？CBO预计或使美国无医保人数激增千万]]></title>
-        <link href="https://www.yicai.com/news/102701464.html" />
-        <id>https://www.yicai.com/news/102701464.html</id>
-        <updated>Wed, 02 Jul 2025 22:05:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：减税法案, 参议院, 医疗补助, 马斯克, 特朗普
+        <title><![CDATA[Cloudfare page 免费搭建 LibreTV 在线视频聚合平台！]]></title>
+        <link href="https://www.freedidi.com/19908.html" />
+        <id>https://www.freedidi.com/19908.html</id>
+        <updated>Thu, 03 Jul 2025 12:55:40 +0800</updated>
+        <summary type="html"><![CDATA[LibreTV, 视频搜索, 在线观看, Cloudflare Pages, 部署
 
 <br><br>总结:
-1. 美国参议院以51:50的微弱优势通过了全面减税和支出法案，副总统万斯的关键一票打破僵局。
-2. 该法案在医疗补助方面削减巨大，预计将导致2034年美国无医保人数增加1180万，引发共和党议员担忧，认为会损害乡村医院。
-3. 特斯拉CEO马斯克强烈批评该法案，甚至威胁成立新政党，特朗普回应考虑驱逐马斯克。
-4. 特朗普支持者菲什巴克宣布成立超级政治行动委员会FSD PAC，以对抗马斯克可能的政治活动，支持特朗普的议程。
+1. LibreTV是一个免费、轻量级的在线视频平台，提供多源视频搜索和观看服务。
+2. 项目无需注册，支持多种设备访问，结合了前端和后端代理技术。
+3. 部署推荐使用Cloudflare Pages，只需Fork仓库并连接GitHub。
+4. 构建命令和输出目录留空，在环境变量中设置PASSWORD。
+5. 可选设置ADMINPASSWORD，并对接提供的影视接口。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[滚动更新丨美股三大指数开盘小幅下跌，特斯拉涨4.5%]]></title>
-        <link href="https://www.yicai.com/news/102702412.html" />
-        <id>https://www.yicai.com/news/102702412.html</id>
-        <updated>Wed, 02 Jul 2025 22:00:49 +0800</updated>
-        <summary type="html"><![CDATA[美股, 欧洲股市, 特斯拉, Adobe, 英特尔
+        <title><![CDATA[宠物险市场“蓝海”下，“成本高”与“赔得少”之困]]></title>
+        <link href="https://www.yicai.com/news/102702205.html" />
+        <id>https://www.yicai.com/news/102702205.html</id>
+        <updated>Thu, 03 Jul 2025 00:13:14 +0800</updated>
+        <summary type="html"><![CDATA[宠物险, 宠物医疗, 行业规范, 赔付, 产品设计
 
 <br><br>总结:
-1. 美股三大指数开盘小幅下跌，科技巨头表现分化，特斯拉因二季度交付量大涨，英特尔因代工业务战略调整下跌。
-2. 芯片板块走高，台积电触及历史新高。铝金属板块亦拉升。
-3. 欧洲股市收盘多数上涨，但英国富时100指数下跌。
-4. 高盛、摩根士丹利股价纷纷创历史新高，稳定币Circle跌幅较大。
-5. Adobe因目标价遭机构大砍而下跌。美国6月ADP就业人数意外下降。
+1.  宠物经济蓬勃发展，宠物险作为一种新兴保障方式快速发展，但面临赔付成本高和消费者认为赔付少等问题。
+2.  国内宠物保险市场规模快速增长，但渗透率远低于发达国家，市场潜力巨大。
+3.  行业痛点包括宠物医疗市场不规范，诊疗不透明，保险公司核保和产品设计不完善，以及用户对保险产品理解不足。
+4.  行业规范化亟待构建和完善，需多方共建，包括制定诊疗标准、统一采购渠道、规范疾病分类和治疗方案等。
+5.  优化产品设计，提高产品性价比，完善保险知识宣导，可减少消费者误解和理赔纠纷。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一财社论：正确政绩观是纵深推进全国统一大市场建设重要一环]]></title>
-        <link href="https://www.yicai.com/news/102702428.html" />
-        <id>https://www.yicai.com/news/102702428.html</id>
-        <updated>Wed, 02 Jul 2025 21:42:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：统一大市场, 政绩观, 地方保护, 市场壁垒, 高质量发展
+        <title><![CDATA[Gemini CLI 国区使用常见问题解决方法]]></title>
+        <link href="https://juejin.cn/post/7520514539638243354" />
+        <id>https://juejin.cn/post/7520514539638243354</id>
+        <updated>Sat, 28 Jun 2025 12:53:34 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Gemini CLI, Claude Code, 中文用户, Google Cloud, 网络问题
 
 <br><br>总结:
-1.  会议强调要纵深推进全国统一大市场建设，并聚焦“五统一”，破除阻碍统一的地方保护主义和不正确政绩观。
-2.  地方保护主义体现在设置隐性壁垒、限制外地企业进入，以及招商引资中突破政策法规，进行“政策竞赛”。
-3.  要清理整治违反市场准入制度的地方性规定，克服地方观念，服从和服务于全国统一大市场建设的总体要求，避免低层次重复建设和地区封锁。
-4.  引导干部树立正确政绩观，服从“统一”原则，同时完善高质量发展考核体系，将维护公平竞争秩序和建设统一大市场的成果纳入考核内容。
-5.  对于政绩观错位、违背新发展理念的干部，要依法依规进行处分，保证全国统一大市场的建设顺利进行。
+1.  **Gemini CLI 优势:** Gemini CLI 相比 Claude Code，对中文用户更友好，解决了网络访问和账户注册限制问题，并提供了免费的 Gemini 2.5 Pro 模型访问权限。
+2.  **安装与启动:** 推荐使用 npx 快速启动或 npm 全局安装 Gemini CLI，并使用 Google 账户登录。
+3.  **网络问题:** 通过开启代理工具的 TUN 模式或在终端中设置临时代理解决网络问题导致的登录失败或中断。
+4.  **Google 登录报错:** 需登录 Google Cloud 控制台创建项目，获取项目ID并设置 GOOGLE_CLOUD_PROJECT 环境变量，并启用 Gemini for Google Cloud API。
+5.  **认证方式:** 务必选择 Google 账户登录以获取免费的 Gemini 2.5 Pro 模型和每日额度，避免使用 API Key 登录。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“小非农”爆冷！美股三大指数小幅下跌，现货黄金短线拉升、美元短线下跌、新台币升破29关口]]></title>
-        <link href="https://wallstreetcn.com/articles/3750260" />
-        <id>https://wallstreetcn.com/articles/3750260</id>
-        <updated>Wed, 02 Jul 2025 21:35:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：就业数据，降息预期，美元走势，医疗保险，贸易政策
-
-<br><br>总结:
-1.  美国6月ADP就业人数大幅下降，降息预期升温，黄金短线拉升，美元指数下跌，美债收益率走低。
-2.  投资者关注周四非农就业数据，以寻找美联储政策走向线索，同时关注美国和主要贸易伙伴的关税谈判进展。
-3.  美股整体表现分化，科技股中苹果、特斯拉走高，但医疗保险板块下跌明显，因个股评级下调和业绩指引撤回。
-4.  银行股因提高分红而上涨，科技七巨头表现不一。
-5.  亚洲股市多数下跌，美元指数小幅上扬，新台币兑美元升破29元整数，原油价格上涨。
-]]></summary>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare
+<br>
+总结: 文章介绍了爪云（Claw Cloud Run）及内网穿透部分的配置方法。首先是注册爪云和免费域名，然后介绍了在VPS部署的前置工作，包括获取root权限和安装docker。接着详细说明了临时隧道模式和固定隧道模式的设置方法，需要准备UUID、Cloudflare隧道Token和隧道域名。最后给出了相关的docker命令和视频教程链接。整篇文章内容简洁明了，适合初学者快速上手。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[华强北禁售无3C认证的充电宝]]></title>
-        <link href="https://www.yicai.com/news/102701838.html" />
-        <id>https://www.yicai.com/news/102701838.html</id>
-        <updated>Wed, 02 Jul 2025 21:17:49 +0800</updated>
-        <summary type="html"><![CDATA[3C认证, 华强北, 充电宝, 安全, 监管
-
-<br><br>总结:
-1. 华强北市场已下发通知，严禁销售无3C认证的充电宝，此前赛格电子市场已要求。
-2. 充电宝安全问题日益突出，导致罗马仕、安克等品牌召回产品，部分3C认证被暂停。
-3. 国家强制要求市售充电宝带有3C标识，民航局禁止携带无3C标识充电宝乘机。
-4. 行业内卷导致安全问题被忽视，大量企业涉及法律诉讼或行政处罚。
-5. 监管部门加强飞行检查，行业或将从技术竞赛转向安全比拼，促进行业良性发展。
-]]></summary>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、域名挂了、注册地址、Cloudflare、FreeDNS
+<br>
+us.kg域名目前仍存在，已注册的域名仍在使用。新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。现在仍可以注册新的us.kg域名，但需要注意两种域名的区别。因此，用户仍可以通过Cloudflare或FreeDNS托管已注册的域名，或注册新的us.kg域名。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[首批陪伴机器人交付在即：会撒娇卖萌，AI硬件变得“更懂人”]]></title>
-        <link href="https://www.yicai.com/news/102702348.html" />
-        <id>https://www.yicai.com/news/102702348.html</id>
-        <updated>Wed, 02 Jul 2025 21:07:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 陪伴机器人, AI, 情绪价值, 人机交互, 关系建立
-
-<br><br>总结:
-1.  陪伴机器人旨在通过建立与用户之间的“关系”来实现长期陪伴，而非仅仅依靠AI噱头。
-2.  灵童机器人等产品通过动作捕捉、人机交互和情绪识别等技术，力求更懂人，并已获得融资。
-3.  要点在于让机器人“动得像人”、看得懂人、记得住情感轨迹，需大量数据训练和微调。
-4.  情绪价值的实现方式存在争议，除语言交互外，多模态输入（视觉、触觉）和行为学习能力也很重要。
-5.  AI是陪伴机器人溢价的关键，但需要精细打磨落地场景，通过用户共创和记忆保存等方式建立亲密关系，实现真正的陪伴。
-]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、Cloudflare、Windterm、CDN回源、节点搭建<br>
+Serv00是一个科学上网工具，通过Cloudflare提供的固定隧道和CDN回源功能，可以帮助用户搭建科学上网节点。用户可以使用Windterm软件进行操作，通过Serv00提供的多功能主页进行网页保活和远程保活。在搭建节点时，用户需要注册Serv00账户，并登录使用指定的域名，同时需要通过Cloudflare添加隧道和设置CDN回源。用户还可以使用Cloudflare的远程保活功能来保持节点的稳定运行。整个操作流程包括节点搭建、Cloudflare固定隧道、CDN回源、网页保活和Cloudflare远程保活。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[大理苍山野生菌被指遭游客掠夺式采摘：有人“掘地三尺找菌子”，官方称将加强巡护]]></title>
-        <link href="https://m.thepaper.cn/detail/31086878" />
-        <id>https://m.thepaper.cn/detail/31086878</id>
-        <updated>Wed, 02 Jul 2025 20:53:45 +0800</updated>
-        <summary type="html"><![CDATA[野生菌, 苍山, 采摘, 生态破坏, 保护区
-
-<br><br>总结:
-*   大量游客涌入大理苍山，进行掠夺式采摘野生菌，对生态环境造成严重威胁。
-*   "野生向导"通过社交平台招揽游客，使得上苍山采菌成为热门旅游项目。
-*   游客使用铁耙等工具破坏性采摘，导致菌丝死亡，甚至危及树木。
-*   苍山洱海国家级自然保护区管理局已关注此事，将加强巡查巡护，并对违规进入核心区、缓冲区的游客处以罚款。
-*   专家呼吁停止无节制采摘，否则将破坏生态，甚至危及濒危植物。
-]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、托管、Cloudflare<br>
+US.KG的域名现在处于受限状态，建议通过 https://dash.domain.digitalplat.org/ 完成注册和KYC验证，等待域名状态恢复后，再托管到Cloudflare使用。注册账号需要填写信息并验证邮箱，完成KYC验证后可以注册域名并托管到Cloudflare。免费续订域名可通过Cloudflare进行。需要注意的是，使用免费域名可能存在一些缺点，需谨慎考虑。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普“大漂亮”法案众议院受阻，共和党内讧升级！]]></title>
-        <link href="https://wallstreetcn.com/articles/3750269" />
-        <id>https://wallstreetcn.com/articles/3750269</id>
-        <updated>Wed, 02 Jul 2025 19:53:45 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大漂亮法案, 参议院, 众议院, 共和党, 分歧
-
-<br><br>总结:
-1. 参议院通过的“大漂亮法案”版本，在众议院共和党内部引发强烈不满，投票面临巨大阻力。
-2. 众议院共和党主要不满点包括：参议院版本社会保障支出削减幅度过大，尤其是医疗补助；债务上限提升过高；以及税改“永久化”可能导致长期赤字扩大。
-3. 共和党内部存在两大反对派：极端保守派关注赤字和债务增加，温和派则反对削减医疗补助。
-4. 共和党在众议院的多数席位非常脆弱，民主党已表示将全票反对，因此共和党必须团结一致才能使法案通过。
-5. 特朗普正在公开施压，敦促共和党议员支持该法案，但众议院议长面临巨大压力，甚至可能面临议长职位不保的风险。
-]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, Perplexity, 本地部署  
+Deepseek是一个强大的工具，用户可以通过网页端、APP或API来使用。Perplexity等应用也可以使用Deepseek进行辅助。用户还可以选择将Deepseek本地部署，步骤简单。总之，Deepseek提供了多种方式让用户方便地使用，无论是在线还是本地。同时，用户还可以下载Ollama并安装，运行指定命令来实现本地部署。整个过程简单易懂，使用户能够更好地利用Deepseek的功能。  
+<br><br>总结:  
+- Deepseek提供网页端、APP、API等多种使用方式  
+- Perplexity等应用可以使用Deepseek进行辅助  
+- 用户可以选择将Deepseek本地部署，步骤简单易行  
+- 下载Ollama并安装，运行指令即可实现本地部署  
+- 简单易懂的操作流程，使用户更好地利用Deepseek的功能]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普称美越达成贸易协议，美国对越南商品征关税至少20%]]></title>
-        <link href="https://wallstreetcn.com/articles/3750306" />
-        <id>https://wallstreetcn.com/articles/3750306</id>
-        <updated>Thu, 03 Jul 2025 00:36:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美国, 越南, 关税, 贸易协议, 特朗普
-
-<br><br>总结:
-1. 美国总统特朗普宣布与越南达成贸易协议，越南出口到美国的所有商品将被征收至少20%的关税，经越南转运至美国的商品将被征收40%的关税。
-2. 越南将对美国全面开放市场，对美国产品实施零关税，并提到大排量汽车在美国表现良好，此类产品将成为越南的绝佳补充。
-3. 特朗普强调美国将继续与越南合作解决贸易问题，越南建议美国承认其市场经济地位并取消对越南高科技产品的出口限制。
-4. 该关税水平高于目前的基准关税，但低于美国计划实行的对等关税。
-5. 越南将采购价值80亿美元的波音飞机，该协议对美国农民意义重大，美股服装、鞋履、运动品牌公司股价一度上涨。
-]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Trae 小册上线了！7 大项目带你玩转 AI 实战编程！]]></title>
-        <link href="https://juejin.cn/post/7520158346361552933" />
-        <id>https://juejin.cn/post/7520158346361552933</id>
-        <updated>Fri, 27 Jun 2025 07:24:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI编程, Trae, Cursor, IDE, Agent-First
-
-<br><br>总结:
-要点1：AI正在重塑软件开发，开发者应学会与AI协作，而非被取代。Trae是一款AI IDE，旨在帮助开发者成为AI创造者。
-要点2：Trae对标Cursor，采用Agent-First架构，让AI自主思考和执行任务，提供相似体验，但价格更优。
-要点3：Trae有国内版和国际版，分别针对国内合规需求和追求极致体验的用户，模型有所不同。
-要点4：小册通过三个阶段的实战项目，帮助开发者掌握Trae的核心用法、进阶技巧和全场景应用。
-要点5：适合开发者、产品经理、设计师、创业者和学生等，旨在提升效率、实现创意，并转变思维模式。
-]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Github注册时间, Claw Cloud Run, 免费容器, 应用商店, 终身免费
-
-Github注册时间通过访问API链接查看。Claw Cloud Run是免费容器，每月可获得5美元赠金，当Github注册时间大于180天时，可实现终身免费使用。用户可在应用商店中一键部署各种Docker应用，也可手动部署。推荐部署的两款应用分别是Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可观看Youtube视频了解更多信息。<br><br>总结: Claw Cloud Run是一个免费容器平台，提供终身免费使用的机会，用户可通过查看Github注册时间来确定是否符合条件，并且可以方便地部署各种应用。]]></summary>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云账号、VPS实例、SSH登录、科学上网、Hysteria节点<br>
-谷歌云提供免费VPS政策，注册账号需添加付款资料，创建完全免费VM实例，设置防火墙并可使用SSH登录。建议使用Hysteria节点进行科学上网，注意免费流量限制和避免产生额外费用。详细操作及注意事项请参考文章内容。 <br><br>总结: 谷歌云账号需验证付款资料，创建免费VPS实例设置SSH登录和防火墙，科学上网可选择Hysteria节点，免费流量有限制。]]></summary>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址，美国地址生成器，Github仓库，Cloudflare官网，Cloudflare Pages<br><br>这篇文章介绍了DigitalPlat平台的注册地址和美国地址生成器，以及相关的Github仓库和Cloudflare官网。用户可以获取免费的域名dpdns.org，新用户可以获得1个免费域名，老用户可获得3个免费域名，经过Github加Star后可增加域名数量。用户也可以通过购买us.kg域名来获取更多域名。域名需要每年进行续期，续期一次，永久免费。详细操作教程可以在Youtube视频中查看。]]></summary>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO, 稳定性, 速度, 保活, ChatGPT
-
-HostUNO提供稳定性和速度较好的服务，不需要保活。在购买过程中，价格适中，用户体验良好。搭建代理节点时，测速情况良好。然而，存在ChatGPT降智问题，需要注意。续费流程简单。总体而言，HostUNO值得购买，但需注意降智问题。详情请参考相关链接。<br><br>总结: HostUNO提供稳定快速的服务，购买过程简单，续费方便，但需注意ChatGPT降智问题。值得购买。]]></summary>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[注册、域名、Cloudflare、免费、教程
-
-注册一个US.KG域名可能有困难，但可以选择另一个免费域名，在Cloudflare上免费托管一年。首先注册账号，使用身份信息生成器辅助填写。然后购买域名时输入优惠码(newuser)，即可享受一年免费。最后登录Cloudflare添加域名，并将分配的两个名称服务器填入域名管理界面即可完成托管。如需更详细的操作步骤，可观看相关Youtube视频教程。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
