@@ -2,411 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-03T14:21:31Z</updated>
+    <updated>2025-07-03T16:25:10Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[百度正在改变百度]]></title>
-        <link href="https://www.36kr.com/p/3361853553903618" />
-        <id>https://www.36kr.com/p/3361853553903618</id>
-        <updated>Wed, 02 Jul 2025 21:36:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI搜索, 智能框, 多模态, 超级入口, 百度
+        <title><![CDATA[做大模型应用的你们，真的懂markdown渲染吗？]]></title>
+        <link href="https://juejin.cn/post/7522617533485219891" />
+        <id>https://juejin.cn/post/7522617533485219891</id>
+        <updated>Thu, 03 Jul 2025 15:45:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词：markdownIt, DOMPurify, XSS, vNode, unifiedjs
 
 <br><br>总结:
-1.  百度搜索框升级为“智能框”，底层由文心大模型等支持，中间层调用各种能力完善产品与服务，上层包括智能框、百看、AI助手等，支持超千字文本、拍照、语音等输入，并可调取AI写作、作图工具。
-2.  “百看”功能升级，支持图文音视频混合输出，接入智能体和真人服务。“AI助手”加入视频通话，提升多模态输入输出能力。智能创作能力升级，一句话即可生成视频。
-3.  百度搜索正从工具化向内容化跨越，从信息检索到复杂任务交付，从搜索引擎到AI生态转变，通过AI生成式相机和多模态AI大模型能力理解用户需求，提供个性化内容解答。
-4.  百度具备优质模型能力和强大的流量平台（百度App月活7.24亿），通过MCP生态连接大模型与现实世界，使用户可以直接调用外部工具和数据源，完成任务执行。
-5.  百度主动变革和积极探索，拓宽搜索的能力边界，将AI模型与搜索模型结合，搭建AI生态，目标是成为一个理解用户意图、提供主动服务、协助用户完成各项任务的智能助手。
+1.  **技术选型：** 文章介绍了Markdown渲染库选择 `markdownIt`，因其生态丰富和高拓展性；以及恶意HTML清理库选择 `DOMPurify`，因其专注于防止 XSS 攻击并支持跨平台。
+2.  **基本使用：**  `markdownIt` 的核心流程是创建实例、配置选项、解析 Markdown 文本生成 HTML。`DOMPurify` 用于净化 `markdownIt` 生成的HTML，移除恶意代码，保证安全性。
+3.  **配合使用：** 提供了一个示例，展示了如何结合 `markdownIt` 和 `DOMPurify`，通过自定义渲染规则拓展功能，以及如何移除 a 标签的 href 属性并添加 id 属性，自定义跳转方法。
+4.  **问题与解决：** 针对 `v-html` 导致的重复渲染和页面闪烁问题，提出了将 HTML 转换为 AST (抽象语法树) 再转换为 vNode 的局部更新方案，并介绍了 `unifiedjs` 生态的使用方法，实现更高效的渲染。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[不做KTV，做娱乐新物种：星聚会的逆势增长方法论]]></title>
-        <link href="https://www.36kr.com/p/3359913368438530" />
-        <id>https://www.36kr.com/p/3359913368438530</id>
-        <updated>Wed, 02 Jul 2025 21:34:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：KTV, 星聚会, 社交, 数字化, 扩张
+        <title><![CDATA[估值66.6亿，蔚来前高管闯出一个IPO]]></title>
+        <link href="https://www.36kr.com/p/3362585904023558" />
+        <id>https://www.36kr.com/p/3362585904023558</id>
+        <updated>Thu, 03 Jul 2025 11:05:22 +0800</updated>
+        <summary type="html"><![CDATA[智能座舱, 域控, 镁佳股份, IPO, 营收
 
 <br><br>总结:
-1.  星聚会作为中国KTV头部品牌，逆势在日本涩谷开设门店，计划三年内国内门店达到2000家，海外300家。
-2.  星聚会重新定义KTV为“娱乐社交空间”，通过多元化场景和服务，包括蹦迪、剧本杀、下午茶等，提高坪效，从“时段性空间租赁收入”升级为“空间+时间+内容消费”的复合收入。
-3.  星聚会采用“4+1”法则，加强拉新和留存，将互联网领域的“私域流量”移植到线下，以实现增长。
-4.  星聚会通过数字化转型，实现小体量、轻人力的低成本高效运营模式，解决了租金和人力成本痛点。
-5.  星聚会具备资源、时间和技术三大护城河，标准化运营和品控，利用数据自我进化，正计划扩张至东南亚、欧美、澳洲等市场。
+1. 镁佳股份向港交所提交上市申请，主打集成式智能座舱+X域控解决方案，预计2025年底技术将拓展到超40个国家和地区。
+2. 其解决方案已应用于奇瑞、长安、东风等主机厂，客户和定点数量持续增长，但2024年营收略有下降，为14.2亿元。
+3. 2022年至2024年，公司仍处于亏损状态，但毛利逐年增加。
+4. 镁佳股份面临客户集中度过高的挑战，前五大客户收入占比高。
+5. 公司创始人庄莉曾任蔚来汽车副总裁，公司获得众多知名机构投资，最新估值达9.3亿美元。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马上评｜关于充电宝的这些问题，应该得到回应]]></title>
-        <link href="https://m.thepaper.cn/detail/31085857" />
-        <id>https://m.thepaper.cn/detail/31085857</id>
-        <updated>Wed, 02 Jul 2025 16:51:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 3C认证, 充电宝, 航空安全, 销售市场, 产品处理
+        <title><![CDATA[小鹏增程下放至G7、MONA等，多新车迎战零跑、比亚迪]]></title>
+        <link href="https://www.36kr.com/p/3362002274212231" />
+        <id>https://www.36kr.com/p/3362002274212231</id>
+        <updated>Thu, 03 Jul 2025 08:59:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小鹏, 增程, MONA, 性价比, 成本
 
 <br><br>总结:
-1.  **产品质量问题:** 市场上存在大量无3C认证的充电宝，质疑违规销售，应追究商家和电商平台责任，并从生产环节加强检验流程，加强对3C认证的把关和企业监督。
-
-2.  **销售市场乱象:** 无标产品肆意售卖，甚至兜售3C贴纸，需要加强销售环节的监管，电商平台应把关，监管部门采取应对策略，追究伪造3C标识的法律责任。建议出台补贴或以旧换新政策，促进市场淘汰。
-
-3.  **产品处理难题:** 如何科学环保地处理非3C认证充电宝，以及机场拦截的充电宝的流向问题，需要妥善的处理方案和监督流程。二手市场是否合法及如何监管也是需要关注的问题。
-
-4.  **旅客服务缺失:** 机场应推出更合理、便捷的寄存服务，或提供3C充电宝的租借、购买、置换等措施，满足旅客的紧急需求。考虑利用各机场拦截的充电宝进行双向分流，方便旅客。
-
-5.  **产品使用场景:** 区分应用场景，是否应进一步细化对充电宝使用的规定，比如在人流密集的公共场所。政策的配合度上，应更加协调、自洽。
+1. 小鹏计划今年四季度推出 G9、X9 的增程版，首次进入增程市场，随后将增程技术下放至 G7 和 MONA 系列，覆盖高中低端市场。
+2. MONA 系列主打性价比，M03 是小鹏最畅销车型，未来该系列将推出更多纯电和增程版本的新车，进军15万及以下市场。
+3. 小鹏的增程技术被称为“鲲鹏电动”，目标是实现更长的纯电续航和超静音发动机，计划“纯电+超电”两条腿走路。
+4. 小鹏通过管理改革降低成本，推出了低价的 M03 以及新款 P7+、G6，进军性价比市场，与比亚迪、零跑等竞争。
+5. 小鹏希望通过增程车实现销量增长，并计划在今年第四季度实现盈利，全年销量目标约为40万辆。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[从零教你微调一个专属领域大模型，看完小白也能学会炼丹!]]></title>
-        <link href="https://juejin.cn/post/7521973217771831350" />
-        <id>https://juejin.cn/post/7521973217771831350</id>
-        <updated>Tue, 01 Jul 2025 20:54:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLaMA Factory, 微调, 模型, 数据集, 学习率
-
-<br><br>总结:
-1.  **LLaMA Factory教程:** 花园老师发布了LLaMA Factory系列微调教程，共36个章节，并经过LLaMA Factory作者Review。该教程旨在分享大模型微调经验，帮助学习者复刻并应用到实际工作中。
-2.  **微调基础知识:** 回顾了微调的前置知识，包括微调的原因、任务分类（监督微调、知识蒸馏、强化学习）以及流程，强调了数据集的重要性（训练集、验证集、测试集）。
-3.  **LLaMA Factory工具:** 介绍了LLaMA Factory的特性，如支持多种模型、微调技术、零代码Web UI，以及其与Unsloth的对比。安装过程需用Conda虚拟环境，启动WebUI后包含通用设置、微调训练、模型评估、在线推理、模型导出等模块。
-4.  **微调参数调整:** 详细讲解了学习率、训练轮数、批量大小、截断长度、LoRA秩、验证集比例等关键参数的作用、影响和调整思路。
-5.  **微调过程观察与模型使用:** 介绍了如何通过LOSS曲线和SwanLab观察微调过程，以及如何使用Lora适配器加载模型、合并和导出模型，最后介绍了本地调用微调后模型的方案（Ollama和VLLM），以及使用EDS对比模型微调效果。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare Pages 永久白嫖！ 搭建免费无限图床、影视聚合、待办提醒等 | LibreTV | SubsTracker |Telegraph Image | 零度解说]]></title>
-        <link href="https://www.freedidi.com/19957.html" />
-        <id>https://www.freedidi.com/19957.html</id>
-        <updated>Thu, 03 Jul 2025 20:39:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词：强化学习, 大语言模型, 工具学习, 决策, 自动化
-
-<br><br>总结:
-1. 该研究探索了如何利用强化学习(RL)来训练大型语言模型(LLM)以更有效地使用外部工具。
-2. LLM通过RL能够学习到何时、如何以及为何调用工具来完成特定任务，从而增强其决策能力。
-3. 这种方法旨在实现任务的自动化，例如数据分析、代码生成等，提升LLM解决复杂问题的能力。
-4. 通过训练，LLM能够更好地理解工具的功能，并将其集成到其推理和生成过程中。
-5. 最终目标是构建更智能、自主且高效的LLM，使其能够独立完成更多任务。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[免费开源 .NET OpenCV 迷你运行时全平台发布]]></title>
-        <link href="https://www.cnblogs.com/sdcb/p/18963793/opencvsharp4-mini-all-platforms-published" />
-        <id>https://www.cnblogs.com/sdcb/p/18963793/opencvsharp4-mini-all-platforms-published</id>
-        <updated>Thu, 03 Jul 2025 16:00:00 +0800</updated>
-        <summary type="html"><![CDATA[OpenCvSharp, 迷你运行时, NuGet包, 版本更新, 跨平台
-
-<br><br>总结:
-1. Sdcb.OpenCvSharp4发布了迷你运行时v4.11.0.35版本。
-2. 一次性发布了15个全新的OpenCvSharp迷你运行时NuGet包。
-3. 该版本支持Windows、Linux、macOS等多种平台。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[SubsTracker – 订阅管理与提醒系统 （Cloudflare workers）]]></title>
-        <link href="https://www.freedidi.com/19913.html" />
-        <id>https://www.freedidi.com/19913.html</id>
-        <updated>Thu, 03 Jul 2025 13:19:41 +0800</updated>
-        <summary type="html"><![CDATA[订阅管理, Cloudflare Workers, Telegram, NotifyX, 订阅提醒
-
-<br><br>总结:
-1.  SubsTracker 是一个基于 Cloudflare Workers 的订阅管理和提醒系统，无需服务器。
-<br><br>2.  主要功能包括订阅到期前的 Telegram 或 NotifyX 自动提醒、Web 界面订阅管理、周期计算和响应式设计。
-<br><br>3.  V3 版本提供用户登录界面和管理员界面，管理员可以管理订阅列表，包括添加、编辑、删除、启用/停用订阅。
-<br><br>4.  系统配置页面允许管理员设置管理员用户名和密码，以及 Telegram 或 NotifyX 的通知设置。
-<br><br>5.  部署步骤包括在 Cloudflare 创建 Worker 并绑定 KV 存储，设置默认账号密码登录，配置通知信息，最后测试通知功能。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare pages 搭建免费图床!  享受 Telegram 的无限空间]]></title>
-        <link href="https://www.freedidi.com/19912.html" />
-        <id>https://www.freedidi.com/19912.html</id>
-        <updated>Thu, 03 Jul 2025 13:06:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 图床, Cloudflare Pages, Telegram, 免费, Telegraph
-
-<br><br>总结:
-1.  该项目提供了一个免费的图床解决方案，是Flickr和Imgur的替代品，基于Cloudflare Pages和Telegram。
-2.  由于Telegraph API被关闭，需要配置Telegram Bot Token和Chat ID，需要创建一个Telegram Bot并将其设置为频道管理员，然后获取频道ID作为Chat ID。
-3.  需要在Cloudflare Pages后台设置TG_Bot_Token和TG_Chat_ID环境变量。
-4.  通过Fork或下载仓库，然后在Cloudflare Pages上创建项目并连接到Git仓库或上传文件即可完成部署。
-5.  该图床具有无限图片储存数量，无需服务器和域名，支持图片审查和后台管理。但图片大小限制为5MB，加载速度可能受限，Cloudflare Function免费版每日限制10万次请求。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudfare page 免费搭建 LibreTV 在线影视聚合、播放平台！]]></title>
-        <link href="https://www.freedidi.com/19908.html" />
-        <id>https://www.freedidi.com/19908.html</id>
-        <updated>Thu, 03 Jul 2025 12:55:40 +0800</updated>
-        <summary type="html"><![CDATA[LibreTV, 在线视频, 搜索播放, Cloudflare Pages, 部署指南
-
-<br><br>总结:
-1.  LibreTV 是一个免费轻量级的在线视频搜索和播放平台，无需注册，支持多平台访问。
-2.  项目结合前后端技术，可部署在各类支持服务端功能的网站托管服务上。
-3.  部署方法以 Cloudflare Pages 为例，需要Fork仓库到GitHub，并进行项目创建。
-4.  构建命令和输出目录留空，重要步骤是在环境变量中添加 PASSWORD 变量。
-5.  对接影视接口，如饭团影视、影视工厂、七七资源等，以获取视频源。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[雷军劝用户考虑Model Y？两小时直播干货：SU7转单不到15%]]></title>
-        <link href="https://www.36kr.com/p/3362543253358598" />
-        <id>https://www.36kr.com/p/3362543253358598</id>
-        <updated>Thu, 03 Jul 2025 10:08:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 雷军, YU7, 锁单, 交付, 纽北
-
-<br><br>总结:
-1. 雷军直播回应YU7定价及市场质疑，强调大定和犹豫期是行业惯例，SU7转YU7转单率低，展现SU7产品力。
-2. 雷军介绍了YU7用户画像，平均年龄33岁，女性用户比例较高，苹果用户占比高。
-3. 雷军呼吁用户耐心等待YU7交付，同时也推荐了其他品牌车型。
-4. 雷军批评友商对小米产品的诋毁行为，并强调友谊，预祝小鹏G7成功上市。
-5. 雷军分享了小米在纽北的长期计划，包括租用办公室和抢占广告牌，展现了小米对汽车研发的决心，表示2027年考虑出国，目前订单压力大。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[硅谷富豪的不死执念：让AI接管身体，连性生活都要预约｜深氪]]></title>
-        <link href="https://www.36kr.com/p/3358576188196871" />
-        <id>https://www.36kr.com/p/3358576188196871</id>
-        <updated>Thu, 03 Jul 2025 09:48:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 抗衰老, 布莱恩·约翰逊, 蓝图计划, AI, 长寿
-
-<br><br>总结:
-1.  布莱恩·约翰逊是一位硅谷富豪，每年花费200万美元进行抗衰老研究，目标是逆转生理年龄，通过严格控制饮食、睡眠和运动等方式，实践“蓝图计划”。<br><br>
-2.  布莱恩为了追求长寿，尝试过包括输血、服用大量药物和保健品等激进方法，但也因此出现过不良反应，甚至“翻车”，但他不断迭代抗衰老方案。<br><br>
-3.  布莱恩的抗衰老理念并非单纯为了活着，而是相信通过科技和AI的力量，可以延长人类寿命，并团结人类，避免沉溺于不良习惯。<br><br>
-4.  布莱恩将身体数据化，像开发科技产品一样不断debug，希望成为世界上衰老最慢的人，并分享他的经验，成为抗衰老领域的“精神领袖”。<br><br>
-5.  尽管他的方法受到医学界的质疑，但他坚持以数据为依据，并创建了“Don’t Die”的社群，通过集会等方式传播他的理念，鼓励人们相信良好的生活方式可以让人不死。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[家里真有矿，我也不敢报这个专业]]></title>
-        <link href="https://www.36kr.com/p/3362474914924293" />
-        <id>https://www.36kr.com/p/3362474914924293</id>
-        <updated>Thu, 03 Jul 2025 08:54:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 珠宝专业, 就业率, 鉴定师, 销售, 创业
-
-<br><br>总结:
-1.  珠宝专业就业率高企的说法存在争议，名校硕士毕业生也面临就业难题，就业方向多为销售而非专业对口的鉴定工作。
-2.  鉴定工作枯燥且收入不高，证书含金量下降，促使从业者转向珠宝商贸。
-3.  水贝市场对学历要求低，珠宝行业最终归宿是销售的说法普遍存在。
-4.  进入珠宝行业需要高昂的证书费用，加重了求职者的经济负担。
-5.  行业内部分人选择创业，但面临市场不景气、直播冲击等挑战，需坚守专业价值。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[情绪价值至上时代，一家硬件创业公司的10亿美元征途｜独家专访Nothing联创]]></title>
-        <link href="https://www.36kr.com/p/3362494609213449" />
-        <id>https://www.36kr.com/p/3362494609213449</id>
-        <updated>Thu, 03 Jul 2025 08:27:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Nothing, 手机, 设计, 年轻人, 创新
-
-<br><br>总结:
-1.  **公司发展**: Nothing是一家英国硬件科技公司，成立5年，2024年营收破5亿美元，预计2025年累计营收超10亿美元。产品线包括耳机和手机，累计销量已突破700万台。
-
-2.  **产品策略**: Nothing推出第三款旗舰手机Phone (3)，价格上涨，但注重设计，配备像素风第二屏幕Glyph Matrix，强调AI交互体验。同时首次推出头戴式耳机Headphone (1)，延续透明设计，与KEF合作。
-
-3.  **目标用户**: Nothing用户平均年龄26岁，更年轻，超过六成用户看重设计。公司认为全球年轻人都希望表达自我价值，因此产品设计注重个性化和差异化。
-
-4.  **市场策略**: Nothing在新兴市场（如印度）保持高增速，在西欧和日本市场增长迅速。进入日本市场与乐天合作，注重产品质价比和用户共鸣。Phone (3)和Headphone (1)将正式登陆美国市场。
-
-5.  **中国市场**: Headphone (1)今年将上市国内市场，CMF第三代手表也将推出中国版。中国团队建设初期，侧重研发和供应链人才。Nothing认为在中国立足需要提供有意义的差异化情绪价值，兼顾产品体验与精神触动。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[降到 4.49 万起，优惠继续，车企下半年冲量开始...]]></title>
-        <link href="https://www.36kr.com/p/3361914475579137" />
-        <id>https://www.36kr.com/p/3361914475579137</id>
-        <updated>Thu, 03 Jul 2025 08:23:13 +0800</updated>
-        <summary type="html"><![CDATA[价格战, 优惠政策, 目标群体, 贷款, 增值服务
-
-<br><br>总结:
-1. 乐道汽车推出0首付+3年免息等针对年轻群体的优惠，包括置换补贴和应届毕业生礼包。
-2. 理想汽车针对L6车型提供5年0息、选装基金和家用充电桩等优惠，旨在继续提升该车型的销量。
-3. 吉利汽车全系车型降价，帝豪系列起售价降至4.49万元，并提供置换补贴和三电终身质保等。
-4. 长城汽车魏牌提供高价值配置免费赠送，如后排娱乐屏和智能驾驶功能，以及增换购补贴。
-5. 购车门槛降低，各车企提供低首付、0利息或长期限贷款，置换补贴和增值服务也成为竞争焦点，车市竞争进入精细化运营阶段，消费者需注意优惠政策的附加条件和综合成本。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[8点1氪｜特朗普称考虑将马斯克驱逐出境；8月1日起现金买黄金超10万元需上报；抹黑胖东来的网红“柴怼怼”被通报]]></title>
-        <link href="https://www.36kr.com/p/3362475638949636" />
-        <id>https://www.36kr.com/p/3362475638949636</id>
-        <updated>Thu, 03 Jul 2025 08:13:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 上市, 特朗普, 黄金, 营商环境, 人工智能
-
-<br><br>总结:
-1.  微脉公司和视源电子向港交所递交上市申请。
-2.  特朗普考虑驱逐马斯克，因其拿政府补贴。
-3.  8月1日起，现金购买黄金超10万元需上报。
-4.  网信办曝光一批网络黑嘴，抹黑胖东来的网红“柴怼怼”被通报。
-5.  “鼠头鸭脖”涉事公司将决议解散，曾因违法被罚款10万元。
-
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[宠物险市场“蓝海”下，“成本高”与“赔得少”之困]]></title>
-        <link href="https://www.yicai.com/news/102702205.html" />
-        <id>https://www.yicai.com/news/102702205.html</id>
-        <updated>Thu, 03 Jul 2025 00:13:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词：宠物险，宠物医疗，行业规范，赔付，消费者
-
-<br><br>总结:
-1.  宠物险市场潜力巨大，但面临消费者认为“限制多、赔得少”与保险公司认为“赔付成本高”的矛盾。
-2.  矛盾根源在于宠物医疗市场的不规范、宠物险产品设计的不完善以及用户对保险产品理解不足，导致高赔付成本和理赔纠纷。
-3.  宠物医疗的不规范体现在诊疗不规范、价格不透明等方面，还存在骗保现象。
-4.  行业规范化需要多方共建，包括规范宠物医疗过程、统一采购渠道、规范疾病分类与治疗方案等。
-5.  优化产品设计，提高性价比，完善保险知识宣导，减少误解产生的纠纷，也是规范化发展的关键。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Gemini CLI 国区使用常见问题解决方法]]></title>
-        <link href="https://juejin.cn/post/7520514539638243354" />
-        <id>https://juejin.cn/post/7520514539638243354</id>
-        <updated>Sat, 28 Jun 2025 12:53:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: gemini-cli, Claude Code, 中文用户, 网络问题, Google Cloud
-
-<br><br>总结:
-1.  **gemini-cli 优势:** 相比 Claude Code，gemini-cli 对中文用户更友好，解决了 Claude Code 在网络访问和账户注册上的限制，且提供免费且慷慨的 Gemini 2.5 Pro 模型访问权。
-2.  **安装与启动:** 推荐使用 npx 命令快速启动，或者通过 npm 进行全局安装。首次启动时，选择 Google 账号登录。
-3.  **网络问题解决:** 通过开启代理工具的 TUN 模式，或者在终端中设置 HTTP/HTTPS 代理，解决因网络问题导致的登录失败或中断。
-4.  **Google 登录报错解决:** 登录 Google Cloud 控制台并创建项目，获取项目ID并设置 GOOGLE_CLOUD_PROJECT 环境变量，启用 Gemini for Google Cloud API (或 Cloud AI Companion API)。
-5.  **认证方式选择:** 务必选择 Google 账户登录，以获取免费 Gemini 2.5 Pro 模型和每日 1000 次额度，避免使用 API Key 登录导致降级或付费。
-6.  **实用技巧:** 掌握会话管理（/chat save, /chat list, /chat resume），上下文管理（GEMINI.md 文件, /memory add, /memory show, /memory refresh），以及统计信息（/stats）等指令，提升使用体验。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[百度文心4.5系列正式开源：国产大模型走到了世界牌桌正中央]]></title>
-        <link href="https://juejin.cn/post/7521283343269068838" />
-        <id>https://juejin.cn/post/7521283343269068838</id>
-        <updated>Mon, 30 Jun 2025 16:39:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 文心大模型, 开源, 百度, 多模态, 飞桨
-
-<br><br>总结:
-1. 百度正式开源文心大模型4.5系列，包含10款模型，覆盖稠密模型和混合专家模型(MoE)，并且开源模型权重和推理代码，是框架层（飞桨）+模型层的“双层开源”。
-2. 技术亮点包括全栈自研MoE混合专家架构，飞桨3.0框架支持，顶级多模态能力（文心4.5-VL-28B-A3B优于OpenAI o1），以及轻量模型以小博大。
-3. 文心大模型已应用于罗永浩数字人直播带货、文心快码AI IDE和企业内部AI助手文小言等场景，证明其具有实用价值。
-4. 开源生态包括模型全量开放，飞桨3.0全面支持，以及百度千帆大模型平台API上线，降低了开发者的使用门槛。
-5. 百度文心4.5的开源证明了开源是技术自信的结果，国产AI正在成为世界牌桌的底牌之一，好用才是王道。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、注册、内网穿透、VPS部署、命令<br>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, Github注册时间, 5美元赠金, Docker应用, 应用部署<br>
 <br>
-总结: 本文介绍了爪云（Claw Cloud Run）及内网穿透部分内容，包括注册链接、VPS部署所需的命令或网址。在前置工作中，需获取root权限并安装docker，然后可以选择临时隧道模式或固定隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token、隧道域名三个变量，并运行相应命令。最后列出了相关docker命令以及视频教程链接。整体内容涵盖了爪云注册、内网穿透、VPS部署等方面的重要信息。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg, 域名, Cloudflare, FreeDNS, 注册
+要点1: Claw Cloud Run是一款免费容器，提供每月5美元赠金<br>
+要点2: 可以通过查看Github注册时间来确定是否符合免费条件<br>
+要点3: 可以搭建各种Docker应用，支持一键或手动部署<br>
+要点4: 推荐部署Memos（轻笔记应用）和AList（网盘挂载工具）<br>
+要点5: 详细内容可查看Youtube视频<br>
 <br>
-us.kg免费域名目前仍可使用，已注册的域名仍有效。新注册的域名可以托管到Cloudflare，也可临时托管到FreeDNS。用户目前可以选择使用已注册的域名或注册新的域名。us.kg和dpdns.org是两种不同的域名，使用方式和注册流程略有不同。总体来说，us.kg仍可以使用和注册，用户可以根据需求选择不同的域名托管方式。]]></summary>
+总结: 在免费容器Claw Cloud Run中，用户可通过查看Github注册时间确认资格，获得每月5美元赠金，用于搭建各种Docker应用，并推荐部署Memos和AList。感兴趣的用户可以观看Youtube视频，获取更多详细内容。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证账号、创建VM实例、开放防火墙、SSH登录方式
+
+注册谷歌云账号需添加付款资料和方式，选择俄勒冈地区创建完全免费的VM实例配置，配置防火墙并选择SSH登录方式。注意数据保护设置和免费流量政策，科学上网需注意使用Hysteria 2节点，免费政策和建议节点选择。可观看相关YouTube视频获取详细步骤。  
+<br><br>总结: 注册谷歌云账号，创建VM实例配置，配置防火墙并选择SSH登录方式，使用Hysteria 2节点搭建科学上网节点。愿学习者能成功使用谷歌云免费VPS。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址、美国地址生成器、Github仓库、Cloudflare官网、Cloudflare Pages、域名选择、续期、教程、免费额度
+
+<br>总结:本文介绍了数字平台提供的注册地址、美国地址生成器、Github仓库以及Cloudflare官网和Cloudflare Pages的相关信息。其中提到了两种域名可选择，dpdns.org为免费，us.kg为收费，但不占用免费额度。免费域名额度根据用户类型不同有所区别。域名续期永久免费，每年续期一次，us.kg域名也需每年续期。此外，还有详细的教程视频可供参考。整个流程简单易懂，操作便捷，适合用户快速获取并维护域名。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT<br>
 <br>
-Serv00是一个提供科学上网服务的平台，用户可以在Serv00上搭建自己的科学上网节点。使用Cloudflare可以设置固定隧道和CDN回源，确保网站访问速度和安全性。同时，通过设置网页保活功能，可以实现多功能主页的保活和远程保活，确保网站稳定运行。整个教程包括Serv00的注册登录、科学上网节点搭建、Cloudflare固定隧道设置、CDN回源规则添加和网页保活等步骤。通过这些操作，用户可以轻松搭建自己的科学上网节点，保障网站的稳定性和安全性。
-<br><br>总结: Serv00平台提供科学上网服务，搭建节点后设置Cloudflare固定隧道和CDN回源，保活功能确保网站稳定运行。]]></summary>
+总结：<br>
+HostUNO是一家提供稳定性和速度较好的服务商，不需要保活，但购买时价格较高。购买过程简单，可以修改登录密码，并搭建代理节点进行测速。在使用中发现ChatGPT可能存在降智问题，需要注意。续费操作也比较方便，总体而言，是否值得购买需根据个人需求来评估。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名注册、KYC验证、Cloudflare、免费续订
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG注册、免费域名、Cloudflare、身份信息生成器、优惠码
 <br>
-总结: 本文介绍了使用 https://dash.domain.digitalplat.org/ 进行US.KG域名注册的步骤。首先注册账号并验证邮箱，接着进行KYC验证。然后可以注册域名并将其托管到Cloudflare上使用。还介绍了如何免费续订域名。通过这些步骤，用户可以顺利注册US.KG域名并且免费续订使用。]]></summary>
+US.KG注册不了，推荐另一个免费域名，可托管到Cloudflare，免费一年。注册账号时可使用身份信息生成器填写，购买域名时输入优惠码(newuser)可享受一年免费。最后托管到Cloudflare并填入分配的两个名称服务器进行管理。详细教程见Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 应用, API, 本地部署, Ollama
-Deepseek是一个翻译应用，可通过网页端、APP和API进行使用，也可以本地部署。使用Deepseek的方法包括访问官方网站、下载手机客户端、注册API获取体验金，或使用第三方应用。本地部署需要下载安装Ollama并运行命令提示符输入指令。使用Chatbox时可选择Ollama API作为模型提供方。视频内容详细介绍了Deepseek的应用方法和模型选择参考。总结: Deepseek是一个多功能翻译应用，提供网页端、APP和API使用方式，也可进行本地部署，使用方法简单方便。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
