@@ -2,389 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-04T16:26:09Z</updated>
+    <updated>2025-07-04T18:27:00Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[“大而美”法案令税收抵免提前7年终止，如何影响在美清洁能源投资]]></title>
-        <link href="https://www.yicai.com/news/102706536.html" />
-        <id>https://www.yicai.com/news/102706536.html</id>
-        <updated>Fri, 04 Jul 2025 22:57:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大而美法案，光伏产业，补贴退坡，投资税收抵免，中东市场
+        <title><![CDATA[真正的生产力来了！Docker迁移部署两步搞定！]]></title>
+        <link href="https://www.cnblogs.com/deali/p/18958179" />
+        <id>https://www.cnblogs.com/deali/p/18958179</id>
+        <updated>Mon, 30 Jun 2025 17:27:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Docker, 迁移, 部署, 脚本, 可移植性
 
 <br><br>总结:
-1. 美国“大而美”法案获参众两院通过，待总统签署。该法案提前终止光伏项目投资和发电税收抵免至2025年底，原补贴计划至2032年。
-2.  法案导致美国清洁能源产业受挫，建设成本预计上涨10%-20%，抑制项目部署，对可再生能源投资产生“寒蝉效应”。
-3. 已在美国投资建厂的中国光伏企业短期影响难估，部分企业通过合作等方式降低损失。
-4. 法案可能导致已投资企业被排除在补贴范围外，项目盈利性下降，轻微延误可能导致内部收益率大幅下降。
-5. 中国光伏储能企业应分散国际化投资，加速布局美国以外地区，例如中东市场，多家企业已宣布在中东的建厂计划。
+1. 作者遇到复杂应用部署需求，尝试迁移已部署好的Docker环境以节省时间。
+2. 迁移过程比预期复杂，耗费时间较长。
+3. 作者最终编写了一键迁移脚本，方便以后类似场景使用。
+4. Docker 的可移植性是其主要优势之一，此次迁移是这一优势的实际应用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[民航局成立通用航空和低空经济工作领导小组]]></title>
-        <link href="https://www.yicai.com/news/102707082.html" />
-        <id>https://www.yicai.com/news/102707082.html</id>
-        <updated>Fri, 04 Jul 2025 22:39:41 +0800</updated>
-        <summary type="html"><![CDATA[通用航空，低空经济，领导小组，民航局，安全监管
-
-<br><br>总结:
-1. 民航局优化调整了相关领导小组，成立了通用航空和低空经济工作领导小组，以加强组织领导和协调统筹。
-2. 领导小组由民航局主要领导担任组长，负责贯彻落实决策部署，确定重点工作安排，协调跨部门问题。
-3. 领导小组设立了6个专项工作组，并建立了相关工作机制。
-4. 民航局将聚焦发展规划编制、航空器适航审定、市场监管、飞行运营监管、飞行服务保障、飞行服务调度平台建设及安全监管体系建设等方面开展工作。
-5. 目标是促进通用航空和低空经济安全有序发展。
-]]></summary>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、免费域名注册、VPS部署、内网穿透、docker命令<br>
+爪云注册链接及免费域名注册链接提供了简单的注册方式。VPS部署需要安装docker，并可以选择临时隧道模式或固定隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名。相关docker命令可用于管理容器。视频教程提供了详细的使用指导。整体内容介绍了爪云的注册、VPS部署与内网穿透教程，操作简单高效。总结: 爪云注册和VPS部署操作简单，提供免费域名注册和内网穿透服务，需要准备UUID、Token和域名，通过docker命令管理容器，视频教程详细介绍操作步骤。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[东北首家上市农商行拟港股退市，吉林金控超30亿元要约收购]]></title>
-        <link href="https://www.yicai.com/news/102707084.html" />
-        <id>https://www.yicai.com/news/102707084.html</id>
-        <updated>Fri, 04 Jul 2025 22:31:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：九台农商银行, 退市, 吉林金控, 业绩下滑, 东北地区
-
-<br><br>总结:
-1.  九台农商银行拟从港交所退市，吉林金控将以每股0.70港元收购H股，每股人民币0.63元收购内资股。
-2.  退市原因是近年来九台农商银行财务表现和状况每况愈下，不利于银行发展，需要策略性调整。
-3.  九台农商银行业绩持续下滑，2021-2023年营收和利润增幅均下降，不良贷款率走高，预计2024年净亏损17-19亿元。
-4.  该行股价持续下跌，长期处于低价位，成交量低迷，股权市场融资能力有限，上市地位不再提供融资管道。
-5.  如果此次退市成行，东北地区将再无A股、H股上市银行，九台农商银行将继续立足吉林省开展特色化经营。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对华放松出口管制 在越“暗藏杀机” 特朗普到底想干什么？丨夜话]]></title>
-        <link href="https://www.yicai.com/video/102707072.html" />
-        <id>https://www.yicai.com/video/102707072.html</id>
-        <updated>Fri, 04 Jul 2025 22:09:01 +0800</updated>
-        <summary type="html"><![CDATA[半导体, 出口限制, 越南, 贸易协议, 关税
-
-<br><br>总结:
-1.  美国近期放松了对华出口管制，解除了半导体EDA软件、乙烷、飞机发动机等产品的限制，多家企业恢复对华出口。
-2.  美国与越南达成贸易协议，但协议中规定可能对经由越南转口至美国的产品征收40%关税。
-3.  此举被认为意在损害中国企业的贸易利益。
-4.  文章质疑美国政府对华政策的真实意图，呼吁关注其“放松管制”背后的战略考量。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[北京推动创新药基础大模型研发]]></title>
-        <link href="https://www.yicai.com/news/102707023.html" />
-        <id>https://www.yicai.com/news/102707023.html</id>
-        <updated>Fri, 04 Jul 2025 21:36:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词：音频生成，AI智能体，创新药，AI应用，政务服务
-
-<br><br>总结:
-①阿里通义实验室开源了音频生成模型ThinkSound，使得AI能够理解画面内容并生成相应音频。
-②国声智库发布了“智库界AI智能体”，标志着AI在智库领域的应用进展。
-③酷狗音乐上线集成AI动态标引系统的“酷爱学习”播放器，而喜马拉雅也推出了“AI听中问”功能，表明AI正在提升用户体验。
-④北京正在推动创新药基础大模型的研发，并探索类脑智能技术在医药健康领域的应用。
-⑤郑州引入了“AI公务员”，将政务服务平均响应时间缩短了80%，显示了AI在提升政府效率方面的潜力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[支付牌照变局：抖音等13家获长期许可，5家退出]]></title>
-        <link href="https://www.yicai.com/news/102707024.html" />
-        <id>https://www.yicai.com/news/102707024.html</id>
-        <updated>Fri, 04 Jul 2025 21:35:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 支付牌照, 续展, 长期有效, 优胜劣汰, 监管
-
-<br><br>总结:
-*   中国人民银行公布首批《非银行支付机构监督管理条例》实施后的支付牌照续展情况，13家机构牌照变更为长期有效，体现监管向备案制转变。
-
-*   广州合利宝支付续展申请中止审查，广东粤通宝续展申请不予受理，瑞银信支付和金运通网络支付未提交续展申请，不再续展，山东飞银支付和人保支付主动退出。
-
-*   未续展机构主要原因是集团战略调整、合规压力或经营不善。
-
-*   此次续展标志牌照管理进入新阶段，监管从数量管控转向质量优化，通过动态退出机制加速行业出清。
-
-*   行业将在更有序的牌照发放和更严格的动态监管下，实现合规与创新并重的高质量发展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[越对美出口关税将增至20%，中国家电企业怎么看？]]></title>
-        <link href="https://www.yicai.com/news/102706942.html" />
-        <id>https://www.yicai.com/news/102706942.html</id>
-        <updated>Fri, 04 Jul 2025 21:00:02 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美越贸易协议, 关税, 越南, 原产地, 家电企业
-
-<br><br>总结:
-1.  美越达成贸易协议框架，越南出口美国商品关税将增至20%，经越南转口美国的商品关税将面临40%。
-2.  协议核心内容包括美国对越南出口商品征收20%关税，对通过越南转口未实质加工的商品征收40%关税，美国商品进入越南零关税等。
-3.  中国家电企业冷静应对，部分企业在越南生产的产品或考虑出口到欧洲等其他市场，将聚焦技术创新和品牌力提升。
-4.  专家认为，越南作为替代基地的关税优势将被削弱，成本敏感订单可能重新评估是否留在越南。
-5.  部分企业可能将产业链搬离越南，转移到马来西亚、泰国等关税更低的国家。在越南投资的企业预计将加大本地供应链投资，以获得更高原产地比例。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[住房城乡建设部：持续巩固房地产市场稳定态势]]></title>
-        <link href="https://www.yicai.com/news/102706909.html" />
-        <id>https://www.yicai.com/news/102706909.html</id>
-        <updated>Fri, 04 Jul 2025 20:45:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 房地产, 稳定预期, 激活需求, 优化供给, 化解风险
-
-<br><br>总结:
-1. 住建部调研组赴广东、浙江调研，强调促进房地产市场平稳、健康、高质量发展的重要性，要求各地扛起责任，用好调控政策自主权，因城施策，提升政策有效性，巩固市场稳定态势。
-2. 要加快建设“好房子”，满足人民群众新期待，并多管齐下稳定预期、激活需求、优化供给、化解风险，推动市场止跌回稳。
-3. 广东、浙江两省通过扩大政策效果、激活住房消费潜力、推进“好房子”建设等措施，实现了新建商品房网签交易面积同比增长，二手房交易活跃，库存消化周期回归合理区间，稳定了市场预期。
-4. 广州、深圳积极推动城市房地产融资协调机制落地见效；宁波、珠海实施“以旧换新”“带押过户”等便民举措；杭州坚持以需供地、精准供地，建立人房地钱要素联动机制。
-5. 各地区、各部门落实党中央、国务院决策部署，保交房攻坚战推进有力，维护了购房人合法权益，落实房地产政策“组合拳”，上半年全国新房和二手房交易总量同比增长，市场保持稳定，二手房交易占比逐步提高。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[机器人融资额五个月超去年总和，投资人称“挤破脑袋也要上牌桌”]]></title>
-        <link href="https://www.yicai.com/news/102704045.html" />
-        <id>https://www.yicai.com/news/102704045.html</id>
-        <updated>Fri, 04 Jul 2025 20:33:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 具身智能, 融资, 估值, 产业资本, 技术突破
-
-<br><br>总结:
-1. 具身智能赛道迎来资本狂热，2025年前5个月融资额超2024年全年总和，大型产业投资者如比亚迪、宁德时代入局。
-2. 机构争相投资，导致被投企业获得超预期投资额，但创业者普遍感到估值被低估，认为中美技术水平相当但估值差距大。
-3. 技术层面，深度学习、强化学习、预训练大模型等技术突破推动具身智能发展；需求端，美国制造业回流和中国老龄化趋势都需要具身产业补位。
-4. 创业者认为当前估值低，影响基础模型研发投入；行业尚未找到核心规模化商业应用闭环，但未来可能迎来第二波资本爆发。
-5. 具身行业多元化发展，通用型机器人已初步商业化，人形机器人面临挑战；企业正密集融资和上市，未来三年或有3-5家企业上市。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[充电宝有3C认证为何还自燃？检测机构：样品符合 但量产管控出问题]]></title>
-        <link href="https://www.yicai.com/video/102706900.html" />
-        <id>https://www.yicai.com/video/102706900.html</id>
-        <updated>Fri, 04 Jul 2025 20:29:58 +0800</updated>
-        <summary type="html"><![CDATA[充电宝，安全，3C认证，锂电池，质量管控
-
-<br><br>总结:
-1. 充电宝安全问题近期受到关注。
-2. 即使充电宝有3C认证，仍然存在自燃的风险。
-3. 自燃风险源于批量生产过程中质量管控可能出现问题。
-4. 锂电池检测机构指出，样品认证合格不代表量产产品安全。
-5. 专家呼吁行业重视安全质量标准，避免过度内卷。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[海南一企业22年前竞得地块被判合同无效：未完成征收等手续，原告已上诉]]></title>
-        <link href="https://m.thepaper.cn/detail/31075183" />
-        <id>https://m.thepaper.cn/detail/31075183</id>
-        <updated>Fri, 04 Jul 2025 20:25:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 土地出让, 宏华公司, 美兰区政府, 海口市资规局, 征地
-
-<br><br>总结:
-1. 1988年开始宏华公司被招商引资到原琼山市，2002年签订土地出让协议，约定出让一块15.383亩土地，宏华公司支付了144.114万元。
-2. 由于政府未完成征地补偿和土地变性，导致合同无法签订，土地未能交付，2003年原琼山市撤市划区并入海口市后，该地块归海口市美兰区管辖。
-3. 2024年4月，美兰区政府通知解除协议并退款，宏华公司起诉美兰区政府和海口市资规局，索赔1亿余元，包括资金占用损失和可得利益损失。
-4. 一审法院判决协议无效，政府退款并支付利息，驳回其他诉求。宏华公司不服，已上诉。涉事土地后来被卖给国企，价格上涨22倍。
-5. 美兰区委宣传部表示事件复杂，涉及多方，正在准备应诉材料，待二审开庭后再接受采访。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[欧盟希望与美国达成“原则性协议” ，未来贸易谈判有哪些难点？]]></title>
-        <link href="https://www.yicai.com/news/102706840.html" />
-        <id>https://www.yicai.com/news/102706840.html</id>
-        <updated>Fri, 04 Jul 2025 20:14:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美欧贸易, 原则性协议, 关税, 谈判, 反制措施
-
-<br><br>总结:
-1. 美欧短期内或达成原则性框架协议，避免贸易战升级，但后续条款谈判和落实需时较长。
-2. 欧盟希望通过谈判解决与美国的贸易争端，但已准备好反制措施，包括对美国产品加征关税，以及可能启动“反胁迫工具”。
-3. 美欧谈判难点在于经济互补性差，欧盟内部利益不一致，以及对特朗普政府谈判风格的警惕。
-4. 欧盟对美反制手段包括报复性关税、数字税、WTO起诉以及启动“反胁迫工具”限制美企。
-5. 尽管美欧市场互补性不强，但相互渗透度高，一旦分开，双方都会感受到对方的重要性。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[吵了4个多月！ “大而美法案”众议院闯关成功]]></title>
-        <link href="https://www.yicai.com/news/102705949.html" />
-        <id>https://www.yicai.com/news/102705949.html</id>
-        <updated>Fri, 04 Jul 2025 19:52:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大而美法案，减税，社会福利，特朗普，两党分歧
-
-<br><br>总结:
-1. 美国众议院通过特朗普力推的“大而美法案”，预计特朗普将在7月4日签署生效。
-2. 法案核心内容包括延长大规模减税，增加国家安全和边境安全支出，同时削减社会福利项目（如联邦医疗补助和粮食券），以及绿色能源相关的税收抵免。
-3. 该法案遭到民主党一致反对，认为将损害美国人民的健康、安全和福祉，并导致医疗保险覆盖人数减少，增加财政赤字。
-4. 特朗普政府则称赞该法案将创造历史性的经济增长，开启美国的黄金时代，并将对边境安全和军事进行重大投资。
-5. 特朗普计划在白宫正式签署该法案，并安排空军喷气机飞过白宫上空庆祝。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[税务严打骗享小微企业所得税优惠，曝光作案手法]]></title>
-        <link href="https://www.yicai.com/news/102706797.html" />
-        <id>https://www.yicai.com/news/102706797.html</id>
-        <updated>Fri, 04 Jul 2025 19:31:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 小微企业，税收优惠，虚列成本，骗税，税务稽查
-
-<br><br>总结:
-1.  一些企业为享受小微企业5%企业所得税等优惠，通过虚列成本（如虚开发票、虚增工资）等手段将应纳税所得额控制在300万以内，骗取税收优惠。
-2.  税务总局曝光两起典型案例：四川仁远医疗科技有限公司通过虚开发票和虚列工资少缴企业所得税123.35万元；龙岩亿懿生辉企业管理咨询服务有限公司通过虚增销售数量和重复结算业务减少应纳税所得额，少缴企业所得税333.67万元。
-3.  税务部门对上述企业追缴税款、加收滞纳金并处罚款，并将仁远医疗涉嫌虚开发票线索移送公安机关。
-4.  税务总局强调企业要合法合规享受税费优惠，切勿骗享，要增强合规经营意识和风险防范意识。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[长三角发布卫生健康3年行动计划：更侧重医药产业联动、国际开放合作]]></title>
-        <link href="https://www.yicai.com/news/102706794.html" />
-        <id>https://www.yicai.com/news/102706794.html</id>
-        <updated>Fri, 04 Jul 2025 19:30:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：长三角, 卫生健康, 一体化, 医学创新, 国际化
-
-<br><br>总结:
-1.  《长三角区域卫生健康一体化发展三年行动计划（2025-2027年）》聚焦医学科技创新、产业协同与联动、国际化开放合作、卫生健康治理机制。
-2.  提升医疗技术同质化水平，协同建设国家区域医疗中心，推进检查检验结果互认，专科专病联盟建设和医疗质控一体化合作。
-3.  联动医药产业发展，建设区域医学科技创新共同体，联合申报国家重大科技项目，探索医学伦理审查结果互认。
-4.  促进区域卫生健康发展国际化，加强自贸区医疗开放互学互鉴，探索组建国际医疗联盟，共建高水平开放平台。
-5.  打造国际标准的医疗服务样板区，推动政策规则对接，加强多边合作，提升长三角在全球健康治理体系中的话语权。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[直击亚布力：从飞行相机到AI月嫂，AI能否成为消费新引擎]]></title>
-        <link href="https://www.yicai.com/news/102706789.html" />
-        <id>https://www.yicai.com/news/102706789.html</id>
-        <updated>Fri, 04 Jul 2025 19:30:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI，消费，用户需求，产品思维，服务迭代
-
-<br><br>总结:
-1.  零零科技的飞行相机依赖AI技术，但C端市场拓展面临户外运动文化培育期的挑战，强调高毛利率和高增长是科技产品竞争力的关键。
-2.  圣贝拉在尝试自研垂类大模型受挫后，转向利用通用大模型打造AI Agent“Doctor Bella”，解决母婴护理问题，提供数据分析和服务。
-3.  宝宝树也发布了育儿场景的垂直AI Agent“米卡AI”，侧重于为用户提供服务，而非单纯解答问题。
-4.  乐刻运动强调AI在服务行业的应用应以用户体验为核心，避免“炫技”。
-5.  文章强调在AI进入消费深水区时，深刻理解用户需求和具备产品思维的企业才能脱颖而出。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普关税政策重创美国哪些地区？加州受伤最深，得州排第二]]></title>
-        <link href="https://www.yicai.com/news/102706772.html" />
-        <id>https://www.yicai.com/news/102706772.html</id>
-        <updated>Fri, 04 Jul 2025 19:29:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 关税, 加利福尼亚州, 特朗普, 进口, 经济影响
-
-<br><br>总结:
-1.  报告显示，今年前5个月，加利福尼亚州受关税影响最严重，达113亿美元，其次是得克萨斯州和密歇根州。
-2.  有17个州关税负担超过10亿美元，一些支持特朗普的州也受到影响。
-3.  Trade Partnership Worldwide预测，全面关税政策下，美国企业面临高达4330亿美元的新关税，加州和得州承担最大份额。
-4.  加州州长纽森批评关税政策，指出加州港口进口量大幅减少，经济亮红灯，消费者信心骤减。
-5.  洛杉矶地区可能损失约5000亿美元收入，200万个工作岗位受威胁，长滩港到港船舶数量大幅下降，美线旺季不旺。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[央行：明确CIPS参与者的账户管理、注资、资金结算等详细流程]]></title>
-        <link href="https://www.yicai.com/news/102706748.html" />
-        <id>https://www.yicai.com/news/102706748.html</id>
-        <updated>Fri, 04 Jul 2025 19:16:02 +0800</updated>
-        <summary type="html"><![CDATA[CIPS, 业务规则, 参与者, 风险管理, 结算机制
-
-<br><br>总结:
-- 为了适应CIPS业务发展和参与者规模扩大，需要修订《人民币跨境支付系统业务规则》。
-- 修订后的规则将健全参与者管理机制，提高管理水平，并满足CIPS业务发展的需要。
-- 新规则明确了账户管理、业务处理、结算机制等方面的规范。
-- 强调CIPS运营机构和参与者应建立健全应急处置和预警机制，并建立备份系统。
-- CIPS运营机构应制定操作指引，与参与者签订协议，并发布报文标准。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[上海自贸区77条试点措施复制推广，涉及数字人民币创新应用等领域]]></title>
-        <link href="https://www.yicai.com/news/102706756.html" />
-        <id>https://www.yicai.com/news/102706756.html</id>
-        <updated>Fri, 04 Jul 2025 19:14:08 +0800</updated>
-        <summary type="html"><![CDATA[关键词：自贸试验区, 制度型开放, 复制推广, 数字贸易, 金融开放
-
-<br><br>总结:
-1.  国务院印发《通知》，将上海自贸试验区试点的77条成熟、有效、可控措施复制推广，其中34条推广至其他自贸试验区，43条推广至全国。
-2.  复制推广措施聚焦七个方面，包括服务贸易扩大开放、货物贸易便利化、数字贸易规则、知识产权保护、政府采购改革、“边境后”管理和风险防控。
-3.  上海自贸试验区在数字领域先行先试，通过数据出境管理清单和开放公共数据集，促进数字贸易发展。2024年上海数字贸易进出口达到1095.3亿美元，同比增长4.9%。
-4.  上海在金融领域推出跨国公司本外币一体化资金池、自由贸易账户升级等措施，并支持绿色金融发展。
-5.  未来，将加大“上海经验”的复制推广力度，包括数字人民币创新应用等，探索金融领域开放创新路径。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[全国用电负荷超14亿千瓦 创历史新高]]></title>
-        <link href="https://www.yicai.com/news/102706732.html" />
-        <id>https://www.yicai.com/news/102706732.html</id>
-        <updated>Fri, 04 Jul 2025 19:04:02 +0800</updated>
-        <summary type="html"><![CDATA[电力负荷, 高温, 历史新高, 国家能源局, 国家电网
-
-<br><br>总结:
-1. 7月4日全国最大电力负荷达到14.65亿千瓦，创历史新高。
-2. 此次电力负荷创新高是由于多地持续高温，带动用电负荷快速增长。
-3. 相比6月底，全国最大电力负荷上升约2亿千瓦，比去年同期增长接近1.5亿千瓦。
-4. 华东电网负荷达4.22亿千瓦，空调负荷占比约37%。江苏、山东、河南、安徽、湖北等省级电网负荷已多次创新高。
-5. 国家电网将利用特高压电网的资源配置能力，跨区跨省输电超过2亿千瓦，保障电力可靠供应。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费、容器、Github注册时间、部署
-总结:
-Claw Cloud Run是一款免费容器，注册时间大于180天的Github用户可获得每月5美元赠金。为长期免费使用提供可能。可以搭建各种Docker应用，支持一键自动部署和手动部署。查看Github注册时间可访问https://api.github.com/users/XXX，找到倒数第二行的“created at”后面的日期。推荐部署Memos（轻笔记应用）和AList（网盘挂载工具）。详情可查看Youtube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云VPS、免费政策、注册验证、创建实例、SSH登录<br>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、免费域名、挂了、已注册的域名、Cloudflare
 <br>
-总结:本文介绍了如何使用谷歌云免费VPS，包括注册验证账号、创建免费实例、开放防火墙、SSH登录方式、科学上网使用注意事项和搭建Hysteria 2节点等内容。详细步骤和注意事项都有提到，包括免费政策和设置细节，方便用户快速上手和使用。]]></summary>
+us.kg免费域名最近出现问题，已注册的域名仍在使用中，新的域名可以托管到Cloudflare，目前可以临时托管到FreeDNS。现在仍然可以注册新的us.kg域名，与之前的域名有所区别，需要注意不同使用方式。对于已注册的域名，仍可使用Cloudflare进行托管。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、Github、域名、注册、SSL证书
-<br>
-美国地址生成器提供了注册地址，DigitalPlat的Github仓库有详细教程。Cloudflare提供Pages、自定义域名及SSL证书。有两种免费域名，dpdns.org和us.kg（需付费）。新用户可获得1个免费域名（加星后增至2个），老用户可获得3个（加星后增至4个）。us.kg不计入免费配额，续期永久免费，每年一次，必须在到期前180天内续期。详细教程请查看Youtube视频。总结：文章介绍了如何通过Cloudflare和Github获取免费域名和SSL证书，以及如何生成美国地址。同时提到了两种免费域名和其续期方式，以及详细的教程视频。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
+Serv00提供了科学上网节点搭建服务，用户可以通过Cloudflare固定隧道和CDN回源来使自己的网站获得更好的访问体验和安全性。同时，网页保活和Cloudflare远程保活功能可以帮助用户保持节点的在线状态，确保服务的稳定性和持续性。通过以上方案的组合使用，用户可以轻松搭建一个稳定的科学上网节点，并保持其正常运行。<br><br>总结: Serv00提供了搭建科学上网节点的服务，搭建过程包括Cloudflare固定隧道和CDN回源，同时网页保活和Cloudflare远程保活功能可以帮助用户确保节点的稳定性。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT<br>
-<br>
-本视频评测了HostUNO的稳定性和速度，讨论了是否需要保活以及ChatGPT降智问题。主持人提到了购买过程、价格、节点测速情况以及续费方式。总体来说，HostUNO的服务令人满意，但在使用ChatGPT时可能会存在降智问题。视频提供了相关链接，包括HostUNO网站、Windterm下载地址、Sing-box Github仓库以及ChatGPT降智检测插件。整体而言，HostUNO的服务值得一试。 <br><br>总结: HostUNO的服务稳定性和速度表现不错，购买过程简单，但在使用ChatGPT时可能会出现降智问题，需要注意。值得一试。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 购买, 优惠码
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名, 注册, KYC验证, Cloudflare, 视频教程
 
-US.KG无法注册，可以选择另一个免费域名，在Cloudflare上托管并享受一年免费服务。首先使用身份信息生成器辅助注册账号，然后购买域名时输入优惠码(newuser)以获得一年免费服务。最后登录Cloudflare并添加域名，将分配的两个名称服务器填入域名管理界面即可成功托管。详细步骤可参考Youtube视频。希望对您有帮助。<br><br>总结: US.KG注册不了，推荐免费的域名注册服务，可托管到Cloudflare并享受一年免费服务，具体操作步骤请参照文章说明。]]></summary>
+<br>
+在本视频中，介绍了如何注册US.KG免费域名并完成KYC验证，然后将域名托管到Cloudflare。通过注册账号、验证邮箱、上传KYC文件、注册域名、托管到Cloudflare等步骤，可以免费获取US.KG域名。视频详细展示了每个步骤的操作流程，帮助用户轻松完成整个过程。值得注意的是，视频提到了US.KG域名目前处于受限状态，建议先使用特定网址完成注册和验证，等待域名恢复后再托管到Cloudflare使用。通过本视频，用户可以充分了解US.KG域名的优点和免费注册步骤，快速获取自己的免费域名。<br><br>总结: 视频教程详细介绍了如何免费注册US.KG域名并完成KYC验证，最后将域名托管到Cloudflare使用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek，网页端，APP，API，Perplexity
+
+Deepseek是一个搜索工具，用户可以通过官方网站、手机客户端或API进行搜索。API注册后可以获得10元体验金，可以用于沉浸式翻译、Chatbox等软件。除了官方应用外，第三方应用也可以使用Deepseek。用户还可以选择本地部署，通过下载Ollama并安装来使用。总的来说，Deepseek提供了多种使用方式，可以满足用户不同的需求。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
