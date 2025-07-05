@@ -2,164 +2,376 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-05T08:24:39Z</updated>
+    <updated>2025-07-05T10:20:22Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Linux系统 KDE桌面，打造最接近Windows的界面环境！]]></title>
-        <link href="https://www.freedidi.com/19994.html" />
-        <id>https://www.freedidi.com/19994.html</id>
-        <updated>Sat, 05 Jul 2025 13:22:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Linux, KDE, 桌面环境, 开源, Windows过渡
+        <title><![CDATA[老黄预言成真！全球首个 AI 原生游戏引擎，一句话秒出 GTA 级神作]]></title>
+        <link href="https://juejin.cn/post/7522421979534835738" />
+        <id>https://juejin.cn/post/7522421979534835738</id>
+        <updated>Thu, 03 Jul 2025 10:28:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI原生, UGC, 游戏引擎, 实时生成, 世界模型
 
 <br><br>总结:
-1. Linux系统以自由、开源、多样化著称，但选择过多让新手难以入门。
-2. KDE桌面环境因其操作习惯接近Windows，适合作为过渡桥梁。
-3. KDE社区开发和维护众多应用程序，功能强大且用途广泛。
-4. 用户可下载Fedora KDE Plasma桌面或虚拟机版，完全免费。
-5. 使用Rufus工具将系统镜像刻录到U盘，制作U盘系统盘进行安装。
-6. KDE应用程序全面，涵盖办公、绘图、视频编辑等。
+1.  谷歌、英伟达等八大机构联合发布了全球首款AI原生UGC游戏引擎Mirage，允许玩家通过自然语言实时生成游戏内容，无需预设关卡。
+2.  Mirage基于Transformer和扩散模型训练的实时交互式“世界模型”，利用从互联网收集的大规模游戏数据，实现了对游戏机制和风格的捕捉。
+3.  Mirage集成了帧级提示词处理，玩家可以通过键盘指令和自然语言提示词即时改变游戏世界，并通过云端串流实现跨平台游戏体验，且每次游戏体验都独一无二。
+4.  Mirage采用定制化的因果Transformer模型，结合视觉编码器、优化后的位置编码以及为长时交互序列优化的结构，确保视觉效果的连贯一致，并运用蒸馏策略保证生成速度和内容质量。
+5.  Mirage的出现预示着游戏产业的变革，将游戏由专家设计转变为由玩家想象实时生成，开启了UGC 2.0时代，玩家将成为游戏的创造者。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[颠覆2026格局？马斯克探讨“建党”：目标是2到3个参议院席位和8到10个众议院选区]]></title>
-        <link href="https://wallstreetcn.com/articles/3750489" />
-        <id>https://wallstreetcn.com/articles/3750489</id>
-        <updated>Sat, 05 Jul 2025 12:24:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：独立日, 两党制, 美国党, 政治杠杆, 关键席位
+        <title><![CDATA[外国投资人，开始赞美996]]></title>
+        <link href="https://www.huxiu.com/article/4543938.html" />
+        <id>https://www.huxiu.com/article/4543938.html</id>
+        <updated>Sat, 05 Jul 2025 15:25:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：996, 硅谷, 创业, 内卷, 心理健康
 
 <br><br>总结:
-1. 马斯克在独立日提出是否应创建美国党，并非传统政党，而是旨在通过精准狙击少数关键席位，以“政治杠杆”撬动国会。
-2. 马斯克计划聚焦少数参议院和众议院席位，以在有争议的法案上起到决定性作用，确保其符合人民意愿，导火索是其认为将增加美国国家债务的支出法案。
-3. 马斯克曾承诺若支出法案通过将成立美国党，但法案通过后，仅发起二次民调，被质疑执行力不足，仅停留在“豪言壮语”阶段。
-4. 华盛顿政治圈内存在组建新政党的讨论，参与者包括反特朗普的共和党人和中间派民主党人，旨在恢复传统价值观和夺回中间地带。
-5. 未来，拥有资本和舆论影响力的个人或团体可能通过狙击关键席位撬动国家政策，催生新型政治风险，市场参与者应高度警惕。
+1. 硅谷创投圈重新讨论并提倡“996”工作制，认为其是提高效率、应对AI时代机遇的有效手段。
+2. 欧洲创业者因强调工作生活平衡而被批评不够努力，引发了关于工作强度和创业文化的讨论。
+3. 部分投资人认为“996”是创业公司的标配，旨在最大化团队成员的生产力，并列举了相关案例。
+4. 批评者认为过度工作会导致倦怠，提倡关注创业者的心理健康，并认为轻度躁郁可能有助于创业。
+5. 针对“内卷”，文章提出要抵制无脑和无效内卷，注意身体健康，适度内卷，合理安排时间。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[甘肃天水一幼儿园幼儿血铅异常，多位家长称检测结果前后悬殊]]></title>
-        <link href="https://m.thepaper.cn/detail/31112635" />
-        <id>https://m.thepaper.cn/detail/31112635</id>
-        <updated>Sat, 05 Jul 2025 11:49:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：血铅超标, 幼儿园, 天水, 西安, 检测差异
+        <title><![CDATA[院士预测广东将发生8级以上大地震？倪四道院士团队辟谣]]></title>
+        <link href="https://m.thepaper.cn/detail/31113452" />
+        <id>https://m.thepaper.cn/detail/31113452</id>
+        <updated>Sat, 05 Jul 2025 14:46:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词：地震，院士，广东，谣言，倪四道
 
 <br><br>总结:
-1. 甘肃天水麦积区褐石培心幼儿园被查出违规使用添加剂导致幼儿血铅异常，已立案侦查。
-2. 家长带孩子到西安市中心医院检测，发现血铅指标严重超标，部分儿童超400ug/L，远高于正常值100ug/L以下。
-3. 天水当地检测结果与西安检测结果存在巨大差异，部分家长称天水告知结果正常，但西安检测结果却严重超标。
-4. 西安市中心医院儿科住院部已满，加床处理，检测量暴增，医院已开辟绿色通道。
-5. 涉事幼儿园有四套菜谱轮换使用，家长被邀请参观厨房，但未发现异常，目前食物留样已被查封，具体添加剂正在调查。
+1.  网络流传“院士倪四道预测广东将发生8级以上地震”的截图。
+2.  经核实，该截图内容并非倪四道院士发布，其团队已报警。
+3.  地震专家陈会忠表示，该信息没有任何科学依据，系借院士之名造谣。
+4. 倪四道院士已就此事报警。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[华尔街见闻早餐FM-Radio | 2025年7月5日]]></title>
-        <link href="https://wallstreetcn.com/articles/3750473" />
-        <id>https://wallstreetcn.com/articles/3750473</id>
-        <updated>Sat, 05 Jul 2025 07:04:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普关税, 台积电, Jane Street, 大漂亮法案, 铁矿石
+        <title><![CDATA[特朗普：已签署12封贸易信函，计划周一发出]]></title>
+        <link href="https://wallstreetcn.com/articles/3750490" />
+        <id>https://wallstreetcn.com/articles/3750490</id>
+        <updated>Sat, 05 Jul 2025 13:56:46 +0800</updated>
+        <summary type="html"><![CDATA[关税，特朗普，贸易，通牒，谈判
 
 <br><br>总结:
-1. 特朗普政府的关税威胁引发市场避险情绪，欧洲股市下跌，美股休市。美国可能重启对华发动机供应，但特朗普重申将发关税函，欧盟谈判未取得突破。
-2. 台积电因担忧关税，推迟日本芯片工厂建设，优先考虑美国投资。
-3. Jane Street因涉嫌操纵印度指数期权市场被印度监管机构处罚。
-4. 特朗普签署“大漂亮”法案，引发对赤字和股市泡沫的担忧，可能重创特斯拉碳积分收入，马斯克重心转移。
-5. 铁矿石价格短期反弹，但高盛警告百元关口或成天花板。中国住建部要求稳定房地产市场，美联储货币政策评估聚焦长期目标和沟通工具。
+1. 特朗普政府计划从8月1日起对未达成贸易协议的国家实施10%至70%的新关税，远高于此前宣布的50%。
+2. 特朗普已签署发往“大概12个”国家的关税信函，并将其形容为“要么接受，要么放弃”的最后通牒，简化了贸易谈判流程。
+3. 策略转变源于与主要贸易伙伴谈判的屡屡受挫，白宫失去了通过谈判达成广泛协议的耐心。
+4. 仅有少数国家与美国达成协议，如英国和越南，前者获得汽车等关键领域豁免，后者成功降低部分商品的关税。
+5. 这一激进的贸易策略给全球经济带来了巨大的不确定性，市场正关注这12封信函的最终去向及其可能引发的连锁反应。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国万亿减税支出法来了，特朗普签署“大漂亮”法案，看好经济和股市]]></title>
-        <link href="https://wallstreetcn.com/articles/3750474" />
-        <id>https://wallstreetcn.com/articles/3750474</id>
-        <updated>Sat, 05 Jul 2025 05:50:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 独立日, 特朗普, 减税, 支出, 债务
+        <title><![CDATA[老欧洲会吊死在乌克兰这颗树上吗？]]></title>
+        <link href="https://www.huxiu.com/article/4543792.html" />
+        <id>https://www.huxiu.com/article/4543792.html</id>
+        <updated>Sat, 05 Jul 2025 12:57:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：苏伊士时刻，欧洲，美国，乌克兰，特朗普
 
 <br><br>总结:
-1. 美国独立日，特朗普签署“大漂亮”法案生效，标志着他在经济刺激和减税方面的重大胜利。
-2. 法案主要内容包括延长减税政策，降低企业税，并计划未来十年减税4万亿美元，削减至少1.5万亿美元支出。
-3. CBO估计法案将使美国政府债务增加3.4万亿美元，并大幅削减社会保障项目，导致未来十年可能1180万美国人失去健康保险。
-4. 法案受到争议，被指责造成联邦援助削减、长期债务增加，以及为富人和大企业减税，将加剧债务危机。
-5. 分析显示，法案主要受益者是富人，低收入人群税后收入反而可能下降，引发对美国财政轨迹和债务负担的担忧。
+1. **苏伊士时刻重现：** 类似于1956年的苏伊士危机，美国在俄乌问题上的态度转变（暂停援助）使欧洲再次面临影响力衰退的困境。
+
+2. **美国战略转变：** 美国从积极管理盟友转向更交易性和以自我为中心，减少对乌克兰的支持，优先考虑自身利益和与其他国家（如沙特）的关系。
+
+3. **欧洲困境：** 欧洲对特朗普的讨好策略失败，未能阻止其减少对乌克兰的援助。欧洲在军事上依赖美国，自身战略重组缓慢，难以应对新的地缘政治现实。
+
+4. **乌克兰战争数学：** 乌克兰在战争中面临不可持续的损失、士气下降和征兵问题，过度依赖外援导致战略决策受制于“金主爸爸”的需求，影响军事效能。
+
+5. **地缘政治中心转移：** 欧洲在全球事务中的影响力减弱，地缘政治中心正在从大西洋向太平洋转移，世界秩序日益由中美主导，欧洲的声音将日益微弱。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[TVB资深演员雪妮病逝，其夫唐佳上月坠楼身亡]]></title>
-        <link href="https://m.thepaper.cn/detail/31106096" />
-        <id>https://m.thepaper.cn/detail/31106096</id>
-        <updated>Fri, 04 Jul 2025 22:21:07 +0800</updated>
-        <summary type="html"><![CDATA[雪妮, 唐佳, 胰脏癌, TVB, 讣告
+        <title><![CDATA[K1373次列车乘客砸窗通风，官方通报事件详情：铁路公安已对砸窗男子批评教育]]></title>
+        <link href="https://m.thepaper.cn/detail/31112954" />
+        <id>https://m.thepaper.cn/detail/31112954</id>
+        <updated>Sat, 05 Jul 2025 12:51:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 列车脱线, 东孝站, 应急处置, 旅客滞留, 砸窗事件
 
 <br><br>总结:
-1. TVB资深演员雪妮因胰脏癌于7月3日去世，享年77岁。
-2. 雪妮的丈夫，著名武术指导唐佳于6月23日坠楼身亡，享年88岁，或因雪妮长期住院难过而选择轻生。
-3. 两人后事将于7月14日在红磡世界殡仪馆设灵，翌日出殡并火化。
-4. 雪妮原名李超纯，是早期武侠片演员，代表作是《女黑侠木兰花》，与唐佳因该片相识，1969年结婚。
-5. 雪妮曾参演《金玉满堂》、《创世纪》、《我的野蛮奶奶》、《巾帼枭雄》、《盲侠大律师2020》等剧，2013年获TVB杰出演员大奖，2020年退休。
+1. 7月2日，K1373次列车因货物列车侵入线路，在东孝站发生机车脱线事故，导致列车滞留。
+2. 事发后，列车工作人员立即启动紧急处置，包括通风降温，提供矿泉水等，并安排旅客休息。
+3. 铁路部门紧急协调运送补给，并联系救护车做好应急准备。
+4. 由于安全原因，未立即开启车门。一名旅客擅自砸窗，工作人员及时制止并进行防护。
+5. 列车恢复运行后，对砸窗男子进行了批评教育，并修复了车窗。铁路部门呼吁旅客配合应急处置。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、部署应用、推荐两款应用<br>
+        <title><![CDATA[列车因故停运3小时乘客砸窗透气，铁路部门通报]]></title>
+        <link href="https://m.thepaper.cn/detail/31112945" />
+        <id>https://m.thepaper.cn/detail/31112945</id>
+        <updated>Sat, 05 Jul 2025 12:51:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: K1373次, 脱线, 滞留, 应急, 旅客
+
+<br><br>总结:
+1. 7月2日，K1373次因金温线货车侵入沪昆线下行线在东孝站发生机车脱线，滞留现场。
+2. 滞留期间，列车工作人员打开气窗通风，发放矿泉水，照顾不适旅客，并收到金华车务段送来的八宝粥和矿泉水。
+3. 因东孝站条件限制及安全考虑，未立即开启车门，后一名男性旅客擅自砸破车窗，工作人员及时制止并进行防护。
+4. 列车于23时27分恢复运行，停靠金华站后，铁路公安对砸窗男子进行批评教育，车辆工作人员对破损车窗进行了修复。
+5. 铁路部门呼吁旅客在突发情况时听从工作人员安排，配合应急处置。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[试图打破谈判僵局，各方保持高度警惕，美预告将确定多国关税税率]]></title>
+        <link href="https://wallstreetcn.com/articles/3750480" />
+        <id>https://wallstreetcn.com/articles/3750480</id>
+        <updated>Sat, 05 Jul 2025 08:46:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 关税, 美国, 日本, 贸易
+
+<br><br>总结:
+*   特朗普政府计划对未达成关税协议的国家征收10%-70%的新关税，最早8月1日生效。
+*   日本担心高关税会使其对美出口变得不可能，并希望与美国继续谈判。日本前首相认为应增强自身对美国的独立性。
+*   韩国正试图与美国谈判延长豁免期，避免适用更高关税，希望继续推进谈判。
+*   分析师认为，特朗普此举旨在推动与主要贸易伙伴达成协议，但也可能导致贸易伙伴报复。
+*   中国与美国近期确认了落实两国元首6月5日通话重要共识和巩固日内瓦经贸会谈成果的具体细节。双方团队正加紧落实伦敦框架有关成果。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[马斯克 Neuralink 脑机接口新成果！看完头皮发麻]]></title>
+        <link href="https://juejin.cn/post/7521376266110091298" />
+        <id>https://juejin.cn/post/7521376266110091298</id>
+        <updated>Mon, 30 Jun 2025 15:46:05 +0800</updated>
+        <summary type="html"><![CDATA[脑机接口, Neuralink, 马斯克, 受试者, 全脑接口
+
+<br><br>总结:
+1. Neuralink展示最新脑机接口N1成果，七名受试者通过意念控制电脑，玩游戏，甚至操作机械手。
+2. 受试者包括脊髓损伤和渐冻症患者，脑机接口帮助他们重新获得部分生活能力，如控制电脑、交流等。
+3. Neuralink的最终目标是实现“全脑接口”，分为Telepathy（已实现）、Blindsight（恢复视力）和Deep（治疗神经系统疾病）三个组成部分。
+4. 未来三年计划：增加通道数量，进行言语皮层植入，实现Blindsight植入，并进行脑机接口与AI的整合。
+5. 目标到2028年实现对大脑任何部分的访问，用于治疗精神疾病、疼痛等神经功能失调。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[拜登：好多欧洲领导人打电话喊我重出江湖]]></title>
+        <link href="https://m.thepaper.cn/detail/31107567" />
+        <id>https://m.thepaper.cn/detail/31107567</id>
+        <updated>Fri, 04 Jul 2025 23:10:47 +0800</updated>
+        <summary type="html"><![CDATA[拜登，欧洲领导人，电话，重新参政，建议
+
+<br><br>总结:
+1. 美国前总统拜登声称许多欧洲领导人曾致电他。
+2. 这些领导人希望拜登重新参与政治事务。
+3. 拜登表示不会直接介入。
+4. 但他愿意提供建议。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[夜读｜人生确实福祸相倚]]></title>
+        <link href="https://m.thepaper.cn/detail/31074326" />
+        <id>https://m.thepaper.cn/detail/31074326</id>
+        <updated>Fri, 04 Jul 2025 21:32:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词：体检, 直肠癌, 诊断, 治疗, 积极应对
+
+<br><br>总结:
+1. 作者因骨折将母亲接到身边照顾，并安排体检，意外发现母亲患有直肠癌。
+2. 最初病理报告未给出分期，作者与家人商议后决定带母亲到上海治疗。
+3. 确诊为直肠癌三期，预估五年生存率较高。
+4. 作者认为早发现是“不幸中的幸运”，因直肠癌早期无明显症状。
+5. 面对命运无常，作者选择与家人积极应对，共同抵御疾病，并将此视为一种“尽人事”而获得的人生之福。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[何小鹏偷偷学会雷军的“套路”]]></title>
+        <link href="https://www.36kr.com/p/3364521166100867" />
+        <id>https://www.36kr.com/p/3364521166100867</id>
+        <updated>Fri, 04 Jul 2025 19:20:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小鹏G7, 智能化, 算力, 情绪价值, 特斯拉Model Y
+
+<br><br>总结:
+01、小鹏G7上市9分钟大定破万，定位中型纯电SUV，售价19.58万起，主打高算力、智能驾驶和舒适大空间，Ultra版搭载三颗自研AI芯片，算力达2250TOPS。
+<br><br>02、G7通过技术和智能化来激发用户的情绪价值，对标特斯拉Model Y，但强调舒适家用，同时配备太极AI底盘，提升舒适性和操控性。
+<br><br>03、小鹏汽车重视用户反馈，推出602 Max版满足用户对价格和续航的需求，力求将G7打造成又一爆款。
+<br><br>04、虽然部分智能座舱芯片需后期安装，但何小鹏对G7的销量和公司盈利充满信心，且2025年销量已超2024全年。
+<br><br>05、小鹏汽车在成本控制方面有所提升，毛利率持续上升，飞行汽车和人形机器人等项目也有新进展，未来还将推出增程式车型。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[国产折叠屏集火苹果，库克很受伤]]></title>
+        <link href="https://www.36kr.com/p/3364445197113732" />
+        <id>https://www.36kr.com/p/3364445197113732</id>
+        <updated>Fri, 04 Jul 2025 18:47:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 折叠屏, 苹果, 国产手机, 生态, 卡位
+
+<br><br>总结:
+1.  国产手机品牌（小米、vivo、荣耀）在苹果折叠屏手机推出前集中发布折叠屏产品，意图抢占市场先机，通过低于万元的定价进行折叠屏“普世教育”，形成折叠屏即国产的认知。
+2.  国产手机品牌在硬件基础上，强调打破苹果生态壁垒，实现跨生态互联互通，争夺苹果用户，包括通过手机与Apple Watch跨生态连接、安卓iCloud云端直通等方式，方便用户换机。
+3.  苹果在中国市场面临增长压力，创新不足，AI功能缺失，高端市场份额下降，而国产手机厂商通过创新产品和服务，试图分流苹果用户。
+4.  国产手机品牌早已在折叠屏领域深耕多年，并在此刻集中发力，具备技术上的领先优势，可以精准地卡在了苹果还在与供应链巨头博弈、产品细节不断被曝光的时间段。
+5.  如果苹果不能在明年推出具有碾压优势的折叠屏手机，将难以挽回在中国市场上的颓势，国产手机品牌已经从单纯的硬件比拼，升级到软件生态和跨平台互联的维度，为“平替”苹果奠定基础。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[稳住淘天基本盘，阿里和京东、美团在新赛道相遇]]></title>
+        <link href="https://www.36kr.com/p/3364509690251012" />
+        <id>https://www.36kr.com/p/3364509690251012</id>
+        <updated>Fri, 04 Jul 2025 18:47:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 阿里，电商，AI，即时零售，云计算
+
+<br><br>总结:
+1. 阿里2025财年财报亮眼，营收和净利润大幅增长，主要得益于电商业务基本盘的稳固，以及及时调整业务模式，回归用户。
+<br><br>
+2. 阿里加码即时零售，通过淘宝闪购整合饿了么，迅速提升市场份额，但面临高运营成本和盈利挑战。
+<br><br>
+3. 阿里将“AI驱动”定位为核心战略，大力投入云计算和AI硬件设施，但AI商业化前景不明朗，需要深度赋能零售基本盘。
+<br><br>
+4. 当前阿里“云+AI”战略的核心是成为“卖水人”，为其他客户提供算力和AI资源。
+<br><br>
+5. 阿里需要梳理电商、即时零售和“云+AI”的关系，实现新业务对电商基本盘的赋能，才能打开更大的增长空间。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[云南丽江一导游称遭游客殴打，官方：警方正按治安案件办理]]></title>
+        <link href="https://m.thepaper.cn/detail/31105045" />
+        <id>https://m.thepaper.cn/detail/31105045</id>
+        <updated>Fri, 04 Jul 2025 17:56:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词：丽江导游, 游客殴打, 治安案件, 调解, 分歧
+
+<br><br>总结:
+1. 丽江导游唐某某因游客小孩坐过站，找回后被小孩亲属殴打。
+2. 当地警方已立案，按治安案件进行办理。
+3. 文旅部门和属地正在组织调解，但双方分歧较大，尚未达成一致。
+4. 官方否认导游反映的“涉事游客‘逍遥法外’‘旅游管理部门不管不问’”等不实信息。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[从哪吒到威马，造车烧了几百亿，最后谁买单？]]></title>
+        <link href="https://www.36kr.com/p/3364353471420802" />
+        <id>https://www.36kr.com/p/3364353471420802</id>
+        <updated>Fri, 04 Jul 2025 16:53:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 造车新势力, 投资机构, LP, 投资纪律, 投后管理
+
+<br><br>总结:
+1、哪吒汽车和威马汽车等造车新势力的倒闭，暴露了投资机构和LP的巨大损失，其中威马烧掉的资金总额超过600亿元。
+<br><br>2、新鼎资本投资威马汽车的案例，反映了重仓单一项目、广撒网策略和缺乏投后管理的问题。
+<br><br>3、良好的投资纪律对投资机构至关重要，包括控制财务风险和估值、设计多元化退出路径以及动态平衡回报与风险。
+<br><br>4、GP对LP负有受托人责任，不应利用LP追逐热点的心理进行投资，而应以回报率为第一追求，并提供专业的投后管理。
+<br><br>5、如果机构只是拿LP的钱去赌“命中独角兽”，而忽视风险控制和投后管理，则是对受托责任的背弃。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、注册、VPS、命令  
+
+爪云提供了免费的内网穿透服务，注册和获取免费域名后，用户可以使用相应的VPS部署命令来实现临时或固定隧道模式。用户需要准备固定UUID、Cloudflare隧道Token和隧道域名来配置固定隧道模式，然后通过相关docker命令来管理容器。视频教程提供了详细的使用指导，帮助用户轻松搭建科学上网节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、挂了、已注册、域名、Cloudflare
 <br>
-关于Claw Cloud Run的介绍：这是一个免费容器服务，Github注册时间大于180天的用户可以每月获得5美元赠金，实现长期免费使用。用户可以使用该容器搭建各种Docker应用，并可以在应用商店一键自动部署，也可以手动部署。用户可以通过查看自己的Github注册时间来判断是否符合条件。推荐部署的两款应用是Memos（轻笔记应用）和AList（网盘挂载工具）。
-<br><br>总结: Claw Cloud Run 是一个免费的容器服务，对于Github注册时间大于180天的用户提供每月5美元赠金，可以搭建Docker应用并自动部署。用户可以通过查看Github注册时间来判断符合条件，推荐部署Memos和AList两款应用。]]></summary>
+us.kg网站免费域名服务已经挂了，已注册的域名仍然有效。现在新的域名注册是否可以托管到Cloudflare还不明确，但可以临时托管到FreeDNS。目前已注册的us.kg域名可以继续使用，但新的域名注册情况不明确。使用Cloudflare和FreeDNS的区别需要进一步了解。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云 免费VPS 配置 SSH登录 科学上网节点 搭建科学节点<br>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活
 <br>
-总结：该文章介绍了如何在谷歌云上获得免费VPS，并详细说明了注册、创建实例、开放防火墙、SSH登录、科学上网的步骤和注意事项。用户需添加付款资料和方式，选择适当配置和地区，设置防火墙规则并登录SSH。建议科学上网时使用Hysteria 2节点，避免产生额外费用。通过搭建科学节点，用户可以实现免费的科学上网服务。]]></summary>
+Serv00注册登录后，搭建科学上网节点，设置Cloudflare固定隧道和CDN回源以加速网站访问速度。通过多功能主页实现网页保活，结合Cloudflare远程保活功能，保障网站稳定运行。整个操作流程需先登录Serv00，搭建科学上网节点，配置Cloudflare隧道和CDN回源，设置网页保活功能，最后添加Cloudflare远程保活Worker，保持网站稳定性。详细操作可观看相关Youtube视频。同时也介绍了Windterm工具以及免费域名教程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[地址生成器，Github仓库，Cloudflare官网，免费域名，域名续期
-<br>
-美国地址生成器和us.kg域名收费，dpdns.org域名免费。新用户可获得1个免费域名，老用户可获得3个（加Star后可增加到2或4个）。域名续期每年一次，us.kg域名需同样续期。具体操作请参考Youtube视频教程。Cloudflare Pages提供自定义域和SSL证书。总结: DigitalPlat提供地址生成器和免费域名服务，通过Github仓库获取域名，并使用Cloudflare Pages进行自定义域和SSL证书设置，域名需要每年续期。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 域名, 注册, Cloudflare, 视频
+
+总结:
+US.KG的域名现在处于受限状态，想注册可以先用https://dash.domain.digitalplat.org/完成注册和KYC验证，等待域名状态恢复后再托管到Cloudflare使用。视频中详细介绍了注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare等步骤。免费注册US.KG域名的优点和缺点也有提及，欢迎观看Youtube视频获取更多详细信息。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、购买过程、ChatGPT降智问题
-<br>
-HostUNO是一款稳定性和速度表现良好的VPN服务，不需要保活。在购买过程中，官方态度友好，价格合理。用户体验整体良好，设置代理节点简便，速度更佳。然而，存在ChatGPT降智问题，需注意。续费流程简便。总体而言，HostUNO性价比较高，值得购买。]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署  
+Deepseek是一个翻译工具，用户可以通过网页端、APP或API进行使用，也可以选择进行本地部署。用户可通过官方网站或手机客户端来使用Deepseek。使用API注册后可获得10元体验金，可应用在沉浸式翻译、Chatbox和欧路词典等软件上。第三方应用也可使用Deepseek提供的服务。本地部署需要下载安装Ollama，并使用指令在命令提示符中运行。 Chatbox使用时可选择Ollama API提供的模型。硬件选型可参考具体模型需求。 <br><br>总结: Deepseek是一个多功能翻译工具，可通过网页、APP、API和本地部署四种方式使用。用户注册API后可获得体验金，可应用于多种第三方应用，同时也可选择本地部署方式使用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、域名注册、身份信息生成器  
-总结: 本文介绍了一个无法在US.KG注册域名的情况下，推荐了另一个免费域名注册网站，可以将域名托管到Cloudflare并享受一年免费服务。通过身份信息生成器辅助填写注册信息，购买域名时使用优惠码可获得免费一年服务。文章详细介绍了整个注册域名和托管到Cloudflare的步骤，并提供了Youtube视频教程。需先注册账号，注册域名并输入优惠码，最后托管域名到Cloudflare并填入分配的名称服务器。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
