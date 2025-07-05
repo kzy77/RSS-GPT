@@ -2,224 +2,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-05T20:20:52Z</updated>
+    <updated>2025-07-05T22:18:38Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[如何基于three.js(webgl)引擎架构，实现3D医院、3D园区导航，3D科室路径导航]]></title>
-        <link href="https://www.cnblogs.com/yeyunfei/p/18964244" />
-        <id>https://www.cnblogs.com/yeyunfei/p/18964244</id>
-        <updated>Thu, 03 Jul 2025 19:56:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Three.js, 三维导航, A*算法, 路径规划, 可视化
+        <title><![CDATA[MinHook 如何对 .NET 母体 CoreCLR 进行拦截]]></title>
+        <link href="https://www.cnblogs.com/huangxincheng/p/18961787" />
+        <id>https://www.cnblogs.com/huangxincheng/p/18961787</id>
+        <updated>Wed, 02 Jul 2025 17:11:00 +0800</updated>
+        <summary type="html"><![CDATA[终结器队列, 非托管内存, .NET, 第三方组件, 释放
 
 <br><br>总结:
-1. 本文提出了一种基于Three.js的三维导航路径算法方案。
-2. 该方案的核心是三维A*算法，利用Node3D类构建三维节点模型。
-3. 算法采用26方向邻居搜索，并结合包含高度维度的启发式函数。
-4. 实现了跨楼层路径规划与动态避障功能。
-5. 最终应用于医院园区，实现了3D导航。
+
+一：背景：问题的提出源于.NET公司在使用第三方组件时，非托管内存暴涨，且关联对象囤积在终结器队列中，原因是第三方组件未及时释放资源。
+二：设想：希望干预终结器队列，避免非托管内存持续增长。
+三：第三方组件局限性：由于组件代码无法修改，直接添加using语句释放资源不可行。
+四：解决思路：探究如何从外部干预终结器队列，以此缓解非托管内存压力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[这些“苏超”数据告诉你，中国足球应该打好哪些基础]]></title>
-        <link href="https://m.thepaper.cn/detail/31085278" />
-        <id>https://m.thepaper.cn/detail/31085278</id>
-        <updated>Sat, 05 Jul 2025 21:33:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 苏超, 青训, 足球场地, 群众基础, 情绪经济
-
-<br><br>总结:
-1. "苏超"单场观众人数突破6万，场均观众人数接近英超和德甲，显示出巨大的群众基础和潜力。<br>
-2. "苏超"的火爆得益于中国足球青训的触底反弹，大量非职业球员参与，比赛精彩程度不减，体现了“全民足球”的理念。<br>
-3.  全国足球场地数量大幅增加，江苏省位居前列，为足球发展提供了硬件基础，更多场地向市民开放，促进了群众参与。<br>
-4. "苏超"的成功在于其引发的情绪经济，各具特色的地域文化和幽默感吸引了大量非球迷的关注，提高了足球的普及率。<br>
-5. "苏超"的商业模式以赞助为主，票价低廉，借鉴了日本业余球队的成功经验，注重培养足球文化和筑牢群众基础，为中国足球发展提供了新的思路。
+        <title><![CDATA[最接近 Windows 界面的 Linux 系统！Fedora KDE Plasma 深度体验与安装教程 | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20012.html" />
+        <id>https://www.freedidi.com/20012.html</id>
+        <updated>Sat, 05 Jul 2025 20:42:30 +0800</updated>
+        <summary type="html"><![CDATA[请提供你需要我总结的文章。我需要文本才能提取关键词并进行总结。请将文章内容粘贴给我。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“苏超”观众人数纪录再刷新，南京主场观众达60396人]]></title>
-        <link href="https://m.thepaper.cn/detail/31114150" />
-        <id>https://m.thepaper.cn/detail/31114150</id>
-        <updated>Sat, 05 Jul 2025 21:14:00 +0800</updated>
-        <summary type="html"><![CDATA[苏超，南京队，苏州队，观众人数，纪录
+        <title><![CDATA[突遇11级大风！湖南资兴一景区游船侧翻致29人落水，已救出28人]]></title>
+        <link href="https://m.thepaper.cn/detail/31114093" />
+        <id>https://m.thepaper.cn/detail/31114093</id>
+        <updated>Sat, 05 Jul 2025 18:52:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：游船侧翻，大风，郴州资兴，东江湖，搜救
 
 <br><br>总结:
-1. “苏超”第6轮南京队主场对阵苏州队，吸引了60396名观众，刷新了“苏超”单场观众人数纪录。
-2. 此前“苏超”第5轮苏州队对阵扬州队的比赛创造了43617人的纪录。
-3. 尽管南京高温橙色预警，仍未能阻止球迷热情。
-4. 南京队与苏州队最终0-0战平，成为“苏超”6轮首场平局，但观众仍报以掌声。
-5. 中国足球上座人数最多的国内比赛也在南京奥体中心，2012年江苏舜天对广州恒大，65769人观战，而中国足坛历史纪录是今年3月中国男足对澳大利亚，70588人。
+*   7月5日16时30分许，湖南郴州资兴市东江湖白廊景区发生游船侧翻事故。
+*   事故原因是游船突遇11级大风。
+*   游船核载40人，实载29人，全部落水。
+*   截至7月5日18时许，已救出28人（27人无生命危险，1人正在抢救），仍有1人正在搜救中。
+*   目前，正在进行人员搜救、伤者救治和原因调查工作。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[车市“价格战”踩刹车]]></title>
-        <link href="https://m.thepaper.cn/detail/31114115" />
-        <id>https://m.thepaper.cn/detail/31114115</id>
-        <updated>Sat, 05 Jul 2025 19:22:42 +0800</updated>
-        <summary type="html"><![CDATA[关键词：价格战, 内卷, 汽车行业, 质量, 高质量发展
+        <title><![CDATA[特朗普称8月1日起实施新关税，最高税率或达70%]]></title>
+        <link href="https://m.thepaper.cn/detail/31113558" />
+        <id>https://m.thepaper.cn/detail/31113558</id>
+        <updated>Sat, 05 Jul 2025 15:48:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 关税, 贸易伙伴, 单边, 最后期限
 
 <br><br>总结:
-1.  汽车行业的价格战表现为无序竞争，导致企业盈利下降，供应链受压，经销商亏损，行业整体“增量不增收”。
-2.  无序价格战会挤压企业利润空间，导致企业忽视技术创新，冲击产业链安全，甚至以次充好，带来安全隐患。
-3.  高质量发展要求产业体系完整，创新力强，产品质量高，投资有回报，企业有利润，员工有收入，而价格战阻碍了这些目标的实现。
-4.  价格战降价提量效果减弱，企业发现单纯降价难以有效提高销量。
-5.  有关部门加强了对无序竞争的治理，中汽协发布倡议，工信部加强产品一致性抽查，引导企业提升产品品质，推动落后产能退出。
+*   美国总统特朗普宣布，从7月4日起将向贸易伙伴发送信函，设定新的单边关税税率。
+*   新关税预计从8月1日生效，税率范围可能在10%到70%之间。
+*   预计7月9日前所有信件将送达，此前特朗普将此日设为关税谈判的最后期限。
+*   目前尚不清楚具体哪些国家将收到信件，但欧盟和日本等贸易伙伴可能在列。
+*   高额关税可能增加美国经济的通胀风险，并可能对美国股市、债券和美元造成负面影响。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[点开这张图表，测测你到底有多了解“苏大强”]]></title>
-        <link href="https://m.thepaper.cn/detail/31085277" />
-        <id>https://m.thepaper.cn/detail/31085277</id>
-        <updated>Sat, 05 Jul 2025 18:01:04 +0800</updated>
-        <summary type="html"><![CDATA[苏超, 南京队, 苏州队, 赛事经济, 观赛意愿
+        <title><![CDATA[精选 10 个 C#/.NET 开发必备开源库！]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/18967209" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/18967209</id>
+        <updated>Sat, 05 Jul 2025 14:26:00 +0800</updated>
+        <summary type="html"><![CDATA[C#, .NET, .NET Core, 编程技巧, 练习集
 
 <br><br>总结:
-1. 7月5日南京队将在南京奥体中心主场迎战苏州队，这是南京奥体中心“苏超”首秀，有望创下观赛人数新纪录。
-2. 截至6月29日，南京队积分第四，苏州队第六，这场比赛被视为“散装江苏”之争。
-3. 超过九成江苏居民知晓“苏超”，逾八成有观赛意愿，短视频平台相关话题播放量已突破110亿次。
-4. “苏超”赛事带动经济发展，南京队主场比赛期间，全市重点监测商场销售额同比增长，体育场周边酒店预订量激增。
+* DotNetExercises是DotNetGuide专栏下C#/.NET/.NET Core编程技巧的练习集合。
+* 内容涵盖常用语法、算法、技巧、中间件、类库以及工作业务实操。
+* 配套详细的文章教程讲解，帮助用户快速掌握C#/.NET/.NET Core的各种编程知识。
+* 目标是帮助用户掌握C#/.NET/.NET Core的各种编程常用语法、算法。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[魔都眼｜上海乐高乐园开园：大飞车需排队105分钟]]></title>
-        <link href="https://m.thepaper.cn/detail/31107633" />
-        <id>https://m.thepaper.cn/detail/31107633</id>
-        <updated>Sat, 05 Jul 2025 17:55:22 +0800</updated>
-        <summary type="html"><![CDATA[乐高乐园, 上海, 开园, 亲子, 体验
+        <title><![CDATA[微信最近的更新，怎么狂放大招啊？]]></title>
+        <link href="https://www.36kr.com/p/3365453888030466" />
+        <id>https://www.36kr.com/p/3365453888030466</id>
+        <updated>Sat, 05 Jul 2025 10:38:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词：微信更新, 朋友圈, 聊天记录备份, 公众号, 功能优化
 
 <br><br>总结:
-- 2025年7月5日，上海乐高乐园正式开园，成为中国首座乐高乐园。
-- 开园首日火爆，全球首发的乐高大飞车排队时间长达105分钟。
-- 7月5日至13日举行“开园欢庆周”，包含主题装饰、沉浸式体验、独家优惠等活动。
-- 乐园提供一系列独家景点，例如全球首发的乐高悟空小侠花果山降魔现场秀和乐高乐园游船。
-- 乐园拥有八大主题区，超75个互动骑乘设施、表演和玩乐景点，以及数千个乐高模型，专为2-12岁亲子家庭打造。
+1.  **朋友圈功能更新：** 微信新增“仅提醒朋友与我的互动”功能，过滤无关点赞和评论通知，同时恢复了朋友圈评论图片功能，但仅部分用户可体验。
+2.  **聊天记录备份：** 新增聊天记录自动备份至电脑或硬盘功能，但同样为灰度测试，云备份功能仍未推出。
+3.  **公众号功能改进：** 公众号评论区支持自定义动态表情，并新增“划线句子”和“点赞/收藏文章”的查找功能，同时用户可选择关闭浏览记录。
+4.  **细节优化：** 对话框中支持“部分引用”回复，群聊踢人时可查看成员详细资料，防止误操作。
+5.  **总结与期待：** 作者对微信近期集中更新实用功能表示肯定，并期待未来能推出云备份和语音进度条功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“19岁女生遭侵害落水致溺亡案”追踪：受害人家属称嫌犯已被执行死刑]]></title>
-        <link href="https://m.thepaper.cn/detail/31113997" />
-        <id>https://m.thepaper.cn/detail/31113997</id>
-        <updated>Sat, 05 Jul 2025 17:49:30 +0800</updated>
-        <summary type="html"><![CDATA[死刑，故意杀人，强奸，溺亡，改判
+        <title><![CDATA[AIGC独角兽硅基智能完成D轮融资，数字人业务营收数亿、已服务超50万用户｜硬氪首发]]></title>
+        <link href="https://www.36kr.com/p/3362675516901129" />
+        <id>https://www.36kr.com/p/3362675516901129</id>
+        <updated>Sat, 05 Jul 2025 09:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：硅基智能, AIGC, 数字人, DUIX, 思维链
 
 <br><br>总结:
-1. 19岁女生闫某遭陈林诱骗至偏僻地段，欲强奸未遂后，闫某为躲避侵害落水。
-2. 陈林为灭口，用树竿敲打闫某致其溺亡。
-3. 一审判决陈林死缓，引发检察院抗诉和原告上诉。
-4. 河南高院二审改判陈林死刑，认为其犯罪动机卑劣，手段残忍。
-5. 陈林已被执行死刑，家属申请的民事赔偿进入财产查控阶段。
+1. 硅基智能完成数亿元D轮融资，由嘉兴高新区产业基金投资，资金用于研发创新和市场化应用。
+2. 硅基智能聚焦AIGC数字人技术，构建了DUIX智能交互平台等四大产品线。
+3. 硅基智能推出新一代多模态大模型DUIX ONE，提升了交互真实感和市场普适性，包括语音识别、形象构建和智能交互等功能。
+4. 硅基智能采用差异化产品策略，为B端客户提供API接口服务，降低技术应用门槛，并为C端用户提供数字人克隆服务。
+5. 硅基智能平台用户超过50万，日均用户生成内容突破50万条，并将DUIX平台核心技术全面开源，推动AIGC技术普惠化。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马上评丨“砸窗通风”是与非，不妨多问问现场乘客的感受]]></title>
-        <link href="https://m.thepaper.cn/detail/31113570" />
-        <id>https://m.thepaper.cn/detail/31113570</id>
-        <updated>Sat, 05 Jul 2025 16:07:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词: K1373列车, 断电滞留, 砸窗通风, 应急措施, 乘客感受
+        <title><![CDATA[9点1氪：DeepSeek给王一博道歉是假的；雷军回应纸巾盒定价169元；格力高管回应董明珠海归派言论]]></title>
+        <link href="https://www.36kr.com/p/3365353934686208" />
+        <id>https://www.36kr.com/p/3365353934686208</id>
+        <updated>Sat, 05 Jul 2025 08:57:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: DeepSeek, 小米, 董明珠, 缅甸, 罗马仕
 
 <br><br>总结:
-1.  K1373列车因断电滞留，乘客砸窗通风引发争议，铁路部门回应称未达破窗标准。
-2.  铁路部门顾虑开门可能导致乘客摔伤，采取了打开气窗、提供饮用水等通风降温措施。
-3.  事件核心在于如何判断车内闷热程度是否危及乘客健康，应重视乘客的现场感受和判断。
-4.  消防安全锤的设置表明鼓励自救，对紧急情况的判断应更宽松，预见到危险苗头时应果断出手。
-5.  应急措施应更灵活，可借鉴“司马光砸缸”的思路，优先保障生命安全，并吸取此次事件的教训。
+1.  DeepSeek给王一博道歉的消息为假，官方未发布相关声明，截图带有AI水印，相关法律判决书也查不到。
+2.  雷军回应小米YU7磁吸纸巾盒定价高，解释称其材料耐高温低温，保证稳定性，承认定价高并表示正在努力降低成本。
+3.  格力高管回应董明珠“不用海归派”言论，强调格力重视忠诚友善、勤奋进取的人才，不分海归派，只看重苦干实干。
+4.  被骗至缅甸失联的25岁模特已获救，中国驻泰国大使馆提醒警惕海外“高薪工作”陷阱。
+5.  罗马仕因账户余额不足无法退款，淘宝客服称正在催缴保证金，且罗马仕法定代表人再次变更。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[OpenAI宫斗加剧，Meta高薪截胡奥特曼]]></title>
+        <link href="https://www.36kr.com/p/3364529325770755" />
+        <id>https://www.36kr.com/p/3364529325770755</id>
+        <updated>Sat, 05 Jul 2025 08:00:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: OpenAI, Meta, 人才争夺, AI, 薪酬
+
+<br><br>总结:
+1.  OpenAI面临Meta的"人才闪电战"，一周内被挖走至少7名核心研究员，公司被迫"停摆"一周，暴露内部管理问题和AI行业人才竞争激烈。
+2.  OpenAI内部因商业化和安全路线之争导致元老离职，公司战略摇摆不定，官僚化加剧，薪酬体系不合理，难以匹配Meta等竞争对手的天价报价。
+3.  Meta通过投资Scale AI，成立"Meta超级智能实验室"，扎克伯格亲自操盘挖角，用"CEO直聘"、免面试等方式，快速吸引OpenAI的核心人才。
+4.  全球AI产业进入"人才通缩"时代，顶尖AI研究者培养成本高昂，供需失衡导致人才身价暴涨，AI人才的评价标准也在经历革命性重塑。
+5.  中美两国AI竞争呈现"你中有我"态势，中国培养的AI人才主导美国企业的创新，OpenAI与Meta的应对策略折射出不同的技术哲学。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[王毅痛批美轰炸伊朗开创恶劣先例：只讲实力，公理何在？]]></title>
-        <link href="https://m.thepaper.cn/detail/31113543" />
-        <id>https://m.thepaper.cn/detail/31113543</id>
-        <updated>Sat, 05 Jul 2025 15:23:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词：王毅, 美国, 核设施, 主权国家, 规则公理
+        <title><![CDATA[每天忙得要死，我是怎么坚持学习的？]]></title>
+        <link href="https://www.36kr.com/p/3332052883827206" />
+        <id>https://www.36kr.com/p/3332052883827206</id>
+        <updated>Sat, 05 Jul 2025 08:00:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词：时间管理, 计划表, 自律, 效率, 学习
 
 <br><br>总结:
-*   王毅指出美国轰炸主权国家核设施是恶劣先例。
-*   他质问若仅凭实力判断对错，规则和公理何在。
+1.  作者分享了自己在996工作环境下，通过制定时间表和裁减无用事项，每天挤出2小时学习的经验。
+2.  时间表的关键在于指导行动，而非获得高效的幻觉，即使完成度只有50%，也比没有计划要好。
+3.  找出并砍掉浪费时间的事情，例如无目的刷视频和过度纠结，不是要完全杜绝，而是适度减少。
+4.  根据自身情况调整时间管理方法，适应生活而不是被生活绑架，打造属于自己的时间表，推动个人成长。
+5.  即使有了家庭和孩子，也要坚持时间管理原则，找到自己的节奏，掌控时间。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[商务部就公布对原产于欧盟进口相关白兰地反倾销调查最终裁定答问]]></title>
-        <link href="https://m.thepaper.cn/detail/31113510" />
-        <id>https://m.thepaper.cn/detail/31113510</id>
-        <updated>Sat, 05 Jul 2025 15:01:36 +0800</updated>
-        <summary type="html"><![CDATA[反倾销, 白兰地, 欧盟, 价格承诺, 贸易救济
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS、Docker、Cloudflare
 
-<br><br>总结:
-1. 商务部对原产于欧盟的进口相关白兰地反倾销案做出最终裁定，部分欧盟企业适用价格承诺，不征收反倾销税。
-2. 接受价格承诺的企业，只要满足承诺条件出口，就不会被征税，若违反承诺，将恢复征税。
-3. 调查机关考虑国内产业状况，认为价格承诺符合中国法律法规，有利于维护公平竞争市场秩序。
-4. 国内产业支持终裁和价格承诺方式，欧盟业界也表示欢迎。
-5. 接受价格承诺展现了中方通过对话磋商解决贸易摩擦的立场。
-]]></summary>
+总结:
+爪云是一个提供内网穿透服务的平台，可以通过VPS部署来实现。通过Docker可以方便地部署临时或固定隧道模式。在固定隧道模式下，需要准备UUID、Cloudflare隧道Token和隧道域名。可以通过相关docker命令来管理已运行的docker容器。另外，也提供了相关视频教程来帮助用户快速入门。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、Github注册时间、5美元赠金、Docker应用、应用部署
-Github用户可以通过浏览器查看自己的注册时间，以获取5美元赠金免费使用Claw Cloud Run。该免费容器支持部署各种Docker应用，可以在应用商店一键自动部署或手动部署。推荐部署的应用包括轻笔记应用Memos和网盘挂载工具AList。需要注意的是，访问GitHub的API有请求限制，若受到影响可以尝试关闭代理再次尝试。<br><br>总结: Github注册时间获取5美元赠金，Claw Cloud Run支持Docker应用部署，推荐部署Memos和AList应用。]]></summary>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg, 免费域名, dpdns.org, Cloudflare, FreeDNS
+
+总结:
+us.kg免费域名目前已经挂了，原先注册的域名仍然存在。新域名可以托管到Cloudflare，也可以临时托管到FreeDNS。现在仍然可以注册新的us.kg域名，但注册的域名和原先的有一些区别。要使用新的域名，可以选择托管到Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云账号、VM实例、防火墙、SSH登录、科学上网<br>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Sing-box-yg、Cloudflare、Windterm、免费域名教程、科学上网节点搭建
 <br>
-谷歌云提供免费VPS政策，需要注册并验证账号，选择配置创建VM实例，设置防火墙保护，使用SSH方式登录，搭建科学上网节点。注意设置数据保护避免费用发生，选择合适的地区和操作系统，注意免费流量和付款方式，进行节点搭建时可选择简单命令行或使用面板。建议使用Hysteria 2节点进行科学上网，避免产生额外费用。总体操作简单便捷，需要注意细节才能充分利用谷歌云免费政策。]]></summary>
+总结: 本文介绍了如何使用Sing-box-yg项目搭建科学上网节点。首先登录Sing-box-yg项目，通过Cloudflare固定隧道和CDN回源设置域名和端口。然后，在Windterm中进行系统初始化和安装脚本，完成科学上网节点搭建。通过网页保活功能，可以实现节点的启动、重启和重置端口。最后，通过Cloudflare远程保活功能设置Worker并修改代码，实现远程保活并设置保活频率。整个过程需要在Sing-box-yg、Cloudflare和Windterm中进行操作，综合利用各项功能完成科学上网节点搭建并实现远程保活。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址、美国地址生成器、免费域名额度、us.kg域名、续期<br>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、域名注册、KYC验证、Cloudflare、免费<br>
 <br>
-注册地址为dpdns.org或使用美国地址生成器，可以获取免费域名额度，新用户可获得1个免费域名，老用户可获得3个免费域名。若在Github加Star后，新用户可增加至2个，老用户可增加至4个。us.kg域名收费，不占用免费额度，需要每年续期。续期操作永久免费，需在到期前180天内续期，详细教程可查看Youtube视频。<br>
-<br>
-<br>总结: 注册地址或美国地址生成器获取免费域名额度，提供us.kg域名（收费），续期操作永久免费，详细操作请看Youtube视频。]]></summary>
+总结: 通过 https://dash.domain.digitalplat.org/ 完成US.KG域名注册和KYC验证，等待恢复后托管到Cloudflare。具体步骤包括注册账号、验证邮箱、KYC验证、注册域名、托管到Cloudflare。免费域名注册的优点是方便快捷，但缺点是需要进行KYC验证并等待域名状态恢复。建议按照步骤操作，详细教程可参考Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
-<br>
-价格略高，但服务稳定。购买流程简单，使用体验良好。节点速度快，但需保持活跃。需注意ChatGPT降智问题，续费操作简便。综合而言，HostUNO提供的服务值得购买。对于需要稳定性和速度的用户来说，是一个不错的选择。但在使用ChatGPT时，要注意其可能带来的降智问题。需要确保定期续费以保持服务。]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
+Deepseek是一个翻译工具，用户可以通过官方网站、手机客户端或API进行使用，还可以在第三方应用中集成。用户也可以选择进行本地部署。使用方法包括访问官方网站、下载APP或API，注册后可以享受体验金优惠。同时，用户也可以使用Ollama进行本地部署，通过命令提示符运行Chatbox等应用。硬件选择取决于模型提供方和需求，用户可以根据自己的需求选择合适的硬件。总的来说，Deepseek提供了多种使用方式，方便用户进行翻译和其他应用的操作。<br><br>总结: Deepseek是一款翻译工具，用户可以通过官方网站、APP、API或本地部署进行使用，提供了各种便捷的操作方式。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管<br>
-<br>
-注册US.KG域名不可行，推荐使用免费域名注册并托管到Cloudflare。首先，需要使用身份信息生成器辅助注册账号；其次，在注册域名时输入优惠码"newuser"可享受一年免费。最后，登录Cloudflare添加域名，并将分配的两个名称服务器填入域名管理界面。详细操作流程可参考Youtube视频。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
