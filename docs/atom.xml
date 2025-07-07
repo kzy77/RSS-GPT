@@ -2,340 +2,390 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-07T06:32:13Z</updated>
+    <updated>2025-07-07T08:30:27Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[常州队拿到苏超第一分，进球被取消疑似遭遇误判]]></title>
-        <link href="https://m.thepaper.cn/detail/31119094" />
-        <id>https://m.thepaper.cn/detail/31119094</id>
-        <updated>Sun, 06 Jul 2025 23:37:06 +0800</updated>
-        <summary type="html"><![CDATA[苏超, 淮安队, 常州队, 0比0, 争议判罚
+        <title><![CDATA[边学边做：图片识别技术的学习与应用]]></title>
+        <link href="https://juejin.cn/post/7522193219146727450" />
+        <id>https://juejin.cn/post/7522193219146727450</id>
+        <updated>Wed, 02 Jul 2025 19:30:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 图片识别, 向量化, 卷积神经网络, 向量数据库, 目标检测
 
 <br><br>总结:
-1. 苏超第六轮淮安队主场对阵常州队，最终0比0战平。
-2. 比赛第87分钟，常州队进球被判无效，引发巨大争议。
-3. 裁判判罚常州队进攻犯规在先，但慢镜头显示并无身体接触，疑似误判。
-4. 淮安队门将在进球后试图抢球并被出示黄牌。
-5. 赛后，“常州进球无效”等关键词登上热搜，有裁判认为进球应有效。
+1. **向量化**: 将图片转换为高维数值向量，从而将图片相似度问题转化为向量相似度问题，例如使用ResNet-50提取2048维特征向量。
+
+2. **向量数据库**: 传统数据库不适合高维向量相似度搜索，向量数据库（如Milvus）针对此优化，能快速检索。HNSW索引是一种近似最近邻搜索算法，提高性能。
+
+3. **目标检测**: 解决用户上传图片包含无关信息的问题，使用YOLO进行目标检测，将商品从复杂背景中分离。
+
+4. **数据标注与训练**: 使用Label Studio标注二次元商品数据，训练YOLO模型，少量高质量数据即可获得较好的训练效果(mAP 97.6%)。GPU加速训练过程。
+
+5. **系统架构与挑战**: 构想了包含模型训练、数据预处理、实时检索和反馈优化四个环节的系统。 当前面临数据质量、参数调优、模型泛化等技术挑战。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[机构近一个月密集调研这些公司，高增长标的受青睐]]></title>
-        <link href="https://www.yicai.com/video/102708602.html" />
-        <id>https://www.yicai.com/video/102708602.html</id>
-        <updated>Mon, 07 Jul 2025 12:55:31 +0800</updated>
-        <summary type="html"><![CDATA[冰轮环境, 涛涛车业, 机构调研, 业绩预告, 涨幅
+        <title><![CDATA[Cursor 发布 Web 和移动端 Agent：随时随地，开启编程！]]></title>
+        <link href="https://juejin.cn/post/7522090856246951986" />
+        <id>https://juejin.cn/post/7522090856246951986</id>
+        <updated>Wed, 02 Jul 2025 10:55:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Cursor, Agent, Web, 移动端, 协作
 
 <br><br>总结:
-1. 近一个月共有183家公司被机构调研。
-2. 冰轮环境被调研次数最多，达13次。
-3. 涛涛车业接待的机构数量最多，为126家。
-4. 涛涛车业是区间涨幅最大的个股。
-5. 涛涛车业预计2025年上半年归母净利润同比增长70.34%至97.81%。
+1. Cursor 推出 Web 和移动端 Agent，扩展了其智能编程助手的使用场景，开发者可以在任何设备上使用。
+2. Agent 延续了桌面 IDE 的核心功能，如 Bug 修复、功能开发和代码库问题解答，且任务可在后台持续运行。
+3. 支持全平台无缝访问，移动端通过 PWA 提供接近原生应用的体验。
+4. 团队协作功能增强，支持实时查看 diff、在线创建和合并 Pull Request，并深度集成 Slack，方便团队在消息流中沟通协作。
+5. 计费模式与现有后台 Agent 相同，计算资源目前免费，仅根据 AI 模型消耗付费。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[星动纪元完成近5亿元A轮融资]]></title>
-        <link href="https://www.yicai.com/news/102708629.html" />
-        <id>https://www.yicai.com/news/102708629.html</id>
-        <updated>Mon, 07 Jul 2025 12:50:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人形机器人，融资，研发，量产，海外订单
+        <title><![CDATA[沈阳一男子将私家车改为白色警车，与电动车剐碰后被民警识破]]></title>
+        <link href="https://m.thepaper.cn/detail/31119061" />
+        <id>https://m.thepaper.cn/detail/31119061</id>
+        <updated>Sun, 06 Jul 2025 23:14:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词：警车改装，假冒警察，非法装备，交通剐蹭，刑事强制措施
 
 <br><br>总结:
-1. 星动纪元完成近5亿元A轮融资，由鼎晖VGC和海尔资本领投。
-2. 融资将用于人形机器人软硬技术的研发与量产落地，构建“模型-本体-场景数据”闭环。
-3. 今年已累计交付超200台产品，另有上百个订单在量产交付中。
-4. 订单中50%以上来自海外客户。
+1. 沈阳一男子徐某某为“拉风”将私家车改装成警车，包括假车牌、警灯和警报器。
+2. 徐某某驾驶假警车在前往加油站途中与电动自行车发生剐碰，被执勤交警发现异常。
+3. 经调查，徐某某并非警察，因涉嫌非法生产、买卖警用装备罪被公安机关采取刑事强制措施。
+4. 目前案件正在进一步办理中。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[注册永久免费域名，托管到 CloudFlare ，自动免费续订、提醒！]]></title>
-        <link href="https://www.freedidi.com/20033.html" />
-        <id>https://www.freedidi.com/20033.html</id>
-        <updated>Mon, 07 Jul 2025 12:47:57 +0800</updated>
-        <summary type="html"><![CDATA[免费域名, digitalplat, Cloudflare, 续期, SubsTracker
+        <title><![CDATA[特朗普威胁对金砖国家加征10%新关税 外交部回应]]></title>
+        <link href="https://www.yicai.com/news/102708910.html" />
+        <id>https://www.yicai.com/news/102708910.html</id>
+        <updated>Mon, 07 Jul 2025 16:02:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 金砖国家, 特朗普, 关税, 贸易战, 保护主义
 
 <br><br>总结:
-1.  Digitalplat提供免费的.dpdns.org域名注册服务。
-2.  注册需使用常用邮箱，以便后续续订和找回密码。
-3.  建议将域名托管到Cloudflare进行统一管理。
-4.  域名需每180天免费续期一次，可使用SubsTracker订阅提醒。
-5.  通过创建Cloudflare Worker和KV存储，部署SubsTracker进行续期提醒，并绑定免费域名访问。
+* 金砖国家是新兴市场和发展中国家合作的重要平台，倡导开放包容、合作共赢，不搞阵营对抗，不针对任何国家。
+* 针对特朗普威胁对金砖国家加征关税，中方重申一贯立场。
+* 中方认为贸易战、关税战没有赢家，保护主义没有出路。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[关税大限在即，美印进入博弈关键周]]></title>
-        <link href="https://www.huxiu.com/article/4550287.html" />
-        <id>https://www.huxiu.com/article/4550287.html</id>
-        <updated>Mon, 07 Jul 2025 11:39:02 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 关税, 贸易协议, 最后期限, 印度, 美国
+        <title><![CDATA[成立国内业务事业群，奇瑞称：不涉及品牌定位调整]]></title>
+        <link href="https://www.yicai.com/news/102708898.html" />
+        <id>https://www.yicai.com/news/102708898.html</id>
+        <updated>Mon, 07 Jul 2025 15:41:30 +0800</updated>
+        <summary type="html"><![CDATA[奇瑞汽车, 品牌调整, 组织架构, 事业部, 战略聚焦
 
 <br><br>总结:
-1. 美国财政部长贝森特表示，如果贸易伙伴不推进事务，8月1日将是最后期限，美国将恢复4月2日的关税水平。特朗普政府计划对未能达成协议的国家重新征收10%至70%的互惠关税。
-2. 印美两国正力争在7月9日暂缓期结束前敲定临时贸易协定，平均关税可能在10%左右。但印度在农业和乳制品等敏感领域划下红线，如果协议未能达成，印度准备对美国商品征收报复性关税。
-3. 特朗普宣布与越南达成贸易协议，但协议细节尚未发布，越南是否真正同意特朗普列出的条款仍不确定。
+1. 奇瑞汽车成立奇瑞品牌国内业务事业群，下设星途、艾虎、风云、QQ四大事业部。
+2. 最大的变化是星途品牌国内业务事业部整体纳入奇瑞品牌国内业务事业群。
+3. 四大事业部分别聚焦高端品牌星途、经典产品艾瑞泽和瑞虎、新能源品牌风云和小车产品。
+4. 此次调整不涉及品牌定位，主要原因是为了实现战略聚焦、资源整合、强化协同、品牌向上。
+5. 奇瑞汽车执行副总裁李学用兼任奇瑞品牌国内业务事业群总经理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[罗马仕京东、淘宝官方旗舰店已关闭]]></title>
-        <link href="https://www.yicai.com/news/102708488.html" />
-        <id>https://www.yicai.com/news/102708488.html</id>
-        <updated>Mon, 07 Jul 2025 11:30:28 +0800</updated>
-        <summary type="html"><![CDATA[罗马仕, 旗舰店, 关闭, 3C认证, 暂停
+        <title><![CDATA[收盘丨沪指窄幅震荡微涨0.02%，全市场超3200只个股上涨]]></title>
+        <link href="https://www.yicai.com/news/102708866.html" />
+        <id>https://www.yicai.com/news/102708866.html</id>
+        <updated>Mon, 07 Jul 2025 15:22:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词: A股, 板块轮动, 资金流向, 中报业绩, 量化交易
 
 <br><br>总结:
-*   罗马仕京东、淘宝官方旗舰店已关闭。
-*   抖音旗舰店目前未关闭。
-*   罗马仕几乎全线移动电源的3C认证证书近期陆续被暂停。
-*   所有电商平台，罗马仕的官方旗舰店已下架充电宝产品。
-*   仅余数据线等配件在售。
+1. A股三大指数7月7日涨跌不一，上证指数微涨，深证成指和创业板指下跌，但全市场超3200只个股上涨，市场整体活跃。
+2. 板块方面呈现轮动特征，中船系、电力、房地产、互联网电商板块走强，生物制品、减肥药、AI手机板块跌幅居前。
+3. 资金流向上，主力资金流入房地产、银行等板块，流出教育、工程机械等板块，个股资金流向分化明显。
+4. 机构观点认为，中报披露期是挖掘结构性机会的关键窗口，业绩驱动成为关键因素，可关注“营收增速跳升”和“盈利质量改善”的方向。
+5. 量化交易新规对小盘股流动性产生短期影响，市场可能继续调整，但长期来看，新规有助于减少市场操纵。
+6. 上证指数创2025年以来新高，是海内外宏观环境改善、市场情绪高涨、中报业绩验证新经济增长动能等多重利好共振的结果，短期指数回调风险加大，若调整则是低位布局良机。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“外卖三角战”：美团阿里京东齐跌，茶百道古茗蜜雪等奶茶股大涨]]></title>
-        <link href="https://wallstreetcn.com/articles/3750532" />
-        <id>https://wallstreetcn.com/articles/3750532</id>
-        <updated>Mon, 07 Jul 2025 10:41:34 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 外卖大战, 补贴, 美团, 阿里, 蜜雪冰城
+        <title><![CDATA[四川雅安发生山体垮塌 已致3人遇难2人失联]]></title>
+        <link href="https://www.yicai.com/news/102708848.html" />
+        <id>https://www.yicai.com/news/102708848.html</id>
+        <updated>Mon, 07 Jul 2025 15:18:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 山体垮塌 雅安 天全县 伤亡 失联
 
 <br><br>总结:
-1. 7月5日晚，淘宝闪购与美团通过大量“满减”、“0元购”优惠券引发全民外卖“薅羊毛”狂欢，美团订单量破1.2亿，系统崩溃。
-2. 淘宝闪购当日订单超8000万，日活用户超2亿，启动500亿元补贴计划。
-3. 大量订单涌入导致外卖店员“忙哭”，门店订单堆积如山，#美团崩了#登上热搜。
-4. 资本市场对“外卖战”反应负面，美团、阿里、京东股价下跌，蜜雪冰城等品牌股价上涨。
-5. 高盛预计外卖配送大战将持续，预计阿里外卖业务未来12个月亏损410亿，京东亏损260亿，美团利润将下降250亿元。
+四川省雅安市天全县国道318线7月5日发生山体垮塌，导致车辆被埋。
+截至7月7日14时，已搜救出3辆被埋车辆和5名被困人员，其中2人轻伤，3人死亡，仍有2人失联。
+雅安市已成立抢险救援应急指挥部，正在协调各方力量开展进一步救援工作。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[香港财库局局长：目标今年内可发出稳定币牌照]]></title>
-        <link href="https://www.yicai.com/news/102708327.html" />
-        <id>https://www.yicai.com/news/102708327.html</id>
-        <updated>Mon, 07 Jul 2025 10:17:17 +0800</updated>
-        <summary type="html"><![CDATA[稳定币, 牌照, 条例, 金管局, 香港
+        <title><![CDATA[前5月上海口岸出口玩具增长8.2%，查获侵权泡泡玛特货物6.3万余件]]></title>
+        <link href="https://www.yicai.com/news/102708858.html" />
+        <id>https://www.yicai.com/news/102708858.html</id>
+        <updated>Mon, 07 Jul 2025 15:18:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 上海口岸，玩具出口，泡泡玛特，侵权，海关查获
 
 <br><br>总结:
-1. 香港《稳定币条例》将于8月生效，金管局正就落实条例指引咨询市场，预计本月内公布，内容涉及反洗钱等要求。
-2. 财经事务及库务局局长许正宇预计稳定币牌照发放数量为个位数，希望条例生效后收到申请，目标年内发出牌照。
-3. 若发行与人民币挂钩的稳定币，需与相关机构讨论。
-4. 香港特区立法会已通过《稳定币条例草案》，旨在设立法币稳定币发行人的发牌制度，完善虚拟资产监管框架。
-5. 条例规定，在香港发行法币稳定币或发行宣称锚定港元价值的稳定币，必须申领牌照。
+1. 今年1-5月，上海口岸玩具出口货值超过80亿元，同比增长8.2%。
+2. 泡泡玛特等中国潮玩品牌受到国内外市场欢迎。
+3. 市场火爆导致出现大量仿冒造假行为。
+4. 上半年上海海关查获97批次侵犯泡泡玛特商标权及著作权的文创产品。
+5. 共计查获侵权货物6.3万余件。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[自立门户创建新党，马斯克不管特斯拉死活了？]]></title>
-        <link href="https://www.huxiu.com/article/4550067.html" />
-        <id>https://www.huxiu.com/article/4550067.html</id>
-        <updated>Mon, 07 Jul 2025 09:57:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词：马斯克, 美国党, 特斯拉, 特朗普, 《大美丽法案》
+        <title><![CDATA[尹锡悦会否再次被拘留？9日法院进行必要性审查]]></title>
+        <link href="https://www.yicai.com/news/102708796.html" />
+        <id>https://www.yicai.com/news/102708796.html</id>
+        <updated>Mon, 07 Jul 2025 15:09:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：尹锡悦, 拘留, 特检法, 内乱罪, 李在明
 
 <br><br>总结:
-1.  马斯克成立“美国党”，直接原因是《大美丽法案》取消了新能源和电动车补贴，损害了特斯拉的利益，并加剧了美国债务负担。
-2.  马斯克与特朗普彻底决裂，从盟友转为对立，原因是对该法案削减补贴和扩大债务的不满。
-3.  “美国党”的目标是赢得中期选举中的国会席位，以影响美国政策，但马斯克本人不参选，而是扶持他人。
-4.  马斯克此举可能面临特朗普政府的报复，特斯拉可能成为打击目标，包括取消补贴、政府合同，甚至遣返马斯克。
-5.  特斯拉销量已下滑，分析师担忧马斯克涉足政治会分散精力，并增加公司运营的不确定性。
+1. 韩国特检组再次申请拘留尹锡悦，罪名包括妨碍公务、伪造公文等，法院将于9日进行审查。
+2. 尹锡悦被指控涉嫌去年12月发布的紧急戒严令，可能构成内乱罪，最高可判处终身监禁甚至死刑。他否认所有指控，特检组担心其串供、干扰证人。
+3. 李在明政府上台后，迅速推进《内乱特检法》、《金建希特检法》和《蔡上等兵特检法》，调查团队庞大，调查或将持续数月。这些法案涉及尹锡悦本人及其夫人的多项争议事件。
+4. 金允俊认为，尹锡悦是否被拘留是特检法案下一步走向的关键。
+5. 李在明就职满月后，民调支持率超过60%。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[知名历史学者傅国涌因病去世，年仅59岁]]></title>
-        <link href="https://m.thepaper.cn/detail/31120921" />
-        <id>https://m.thepaper.cn/detail/31120921</id>
-        <updated>Mon, 07 Jul 2025 09:53:40 +0800</updated>
-        <summary type="html"><![CDATA[教育学者, 历史学者, 傅国涌, 去世, 著作
+        <title><![CDATA[陶冬：“大而美”法案埋下祸根]]></title>
+        <link href="https://www.yicai.com/news/102708666.html" />
+        <id>https://www.yicai.com/news/102708666.html</id>
+        <updated>Mon, 07 Jul 2025 14:18:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 税改法案, 就业数据, 美联储, 利率, 特朗普
 
 <br><br>总结:
-1. 著名教育学者、历史学者、作家傅国涌先生于2025年7月7日凌晨因心脏病去世，享年59岁。
-2. 傅国涌先生1967年生于浙江乐清，长期关注教育、历史领域。
-3. 他著有多部作品，包括《金庸传》、《百年寻梦》、《叶公超传》、《追寻失去的传统》、《发现廿八都》等。
+1.  美国国会通过税改法案，该法案将永久化特朗普1.0版的减税措施，并对未来二十年美国经济和社会收入分配产生重大影响，同时也会加剧贫富差距。
+2.  美国就业数据强劲，但主要由政府部门拉动，私人部门就业实际上在减少，这可能夸大了就业的强度，并对美联储降息决策产生影响，预计9月前降息机会不大。
+3.  美联储主席鲍威尔对降息持开放态度，但会根据数据决策，除非经济或市场出现坍塌式恶化，否则短期内不会降息，但长期来看，预计仍将重启降息以推进利率中性化。
+4.  民意调查显示，多数人反对该税改法案，特朗普政府强行通过该法案满足了个人野心，却牺牲了底层人民的利益，埋下了进一步民意撕裂的隐患。
+5.  本周关注美国关税暂停期结束以及特朗普是否会加回关税，此外还有美联储6月会议纪要、OPEC+讨论增加生产和中国6月信贷数据。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[外媒：美官员暗示延长关税谈判期限]]></title>
-        <link href="https://www.yicai.com/news/102708265.html" />
-        <id>https://www.yicai.com/news/102708265.html</id>
-        <updated>Mon, 07 Jul 2025 09:50:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 对等关税, 贝森特, 特朗普, 贸易谈判, 最后期限
+        <title><![CDATA[国产片主导、引进片平淡，暑期档票房破26亿元]]></title>
+        <link href="https://www.yicai.com/news/102708632.html" />
+        <id>https://www.yicai.com/news/102708632.html</id>
+        <updated>Mon, 07 Jul 2025 13:28:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词：暑期档, 票房, 国产片, 引进片, 电影市场
 
 <br><br>总结:
-1. 美国财政部长贝森特称特朗普将致信贸易伙伴，告知关税税率。
-2. 未在8月1日前与美国达成协议的国家，将面临恢复至4月宣布的“对等关税”。
-3. 贝森特未明确8月1日是否为最新截止日期，暗示可能延期。
-4. 尽管贝森特否认，但其言论暗示特朗普政府正在设定新的谈判最后期限。
-5. 美国正加紧与多国贸易谈判，但进度不及预期。
+1. 2025年暑期档票房已突破26亿元，但与去年同期相比增速稍缓，且尚未出现票房爆款。
+2. 国产片方面，《酱园弄·悬案》口碑争议影响票房，后续《长安的荔枝》、《你行！你上！》及多部历史战争题材影片如《东极岛》、《731》等值得期待，动画片有《聊斋：兰若寺》和《罗小黑战记2》等。
+3. 引进片方面，虽口碑不俗，但票房表现平淡。《超人》、《神奇4侠：初露锋芒》和《坏蛋联盟2》等续集或将带来惊喜。
+4. 整体来看，暑期档影片类型丰富，但市场尚未完全激活，能否出现票房奇迹仍待观察。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[轮式足式可切换，智元发布灵犀X2-N机器人]]></title>
-        <link href="https://www.yicai.com/news/102708218.html" />
-        <id>https://www.yicai.com/news/102708218.html</id>
-        <updated>Mon, 07 Jul 2025 09:40:51 +0800</updated>
-        <summary type="html"><![CDATA[灵犀X2-N, 机器人, 足式, 轮式, 切换
+        <title><![CDATA[布拉德·皮特主演的这部爽片，让苹果和F1都松了一口气]]></title>
+        <link href="https://www.yicai.com/news/102708642.html" />
+        <id>https://www.yicai.com/news/102708642.html</id>
+        <updated>Mon, 07 Jul 2025 13:27:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词：F1，票房，苹果，赛车，布拉德·皮特
 
 <br><br>总结:
-1. 智元发布灵犀X2-N机器人。
-2. 灵犀X2-N机器人能够在足式和轮式两种形态之间切换。
-3. 足式状态下，能盲走台阶，手持12斤重物。
-4. 轮式状态下，能应对单边桥、斜坡等复杂地形。
+1. 《F1：狂飙飞车》票房表现亮眼，内地预测票房有望突破4亿元，全球票房已超过3.55亿美元，成为苹果原创电影迄今为止最卖座的作品。
+2. 影片讲述失意赛车手重返赛场的故事，剧情虽套路，但沉浸式视听体验是亮点，在真实的F1赛道上实拍，演员坐进赛车中拍摄，营造身临其境的体验感。
+3. 影片由布拉德·皮特主演，汉斯·季默配乐，约瑟夫·科辛斯基执导，主创阵容强大，并获得多位F1现役车手客串，增加真实性和专业质感。
+4. 影片强调团队协作的重要性，展示赛车文化，并成功吸引了未接触过F1的观众，同时让F1这项赛事得到宣传。
+5. 《F1》的成功对苹果原创电影公司意义重大，有望带动Apple TV+订阅用户数量增长，苹果公司也储备了多个电影项目。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[加沙停火谈判首轮会议结束 各方未能达成一致]]></title>
-        <link href="https://www.yicai.com/news/102708185.html" />
-        <id>https://www.yicai.com/news/102708185.html</id>
-        <updated>Mon, 07 Jul 2025 09:39:53 +0800</updated>
-        <summary type="html"><![CDATA[停火谈判, 以色列, 哈马斯, 多哈, 未达成一致
+        <title><![CDATA[欧佩克+超预期增产致美油价格盘中跌超2%，国际油价会否失守60美元关口]]></title>
+        <link href="https://www.yicai.com/news/102708636.html" />
+        <id>https://www.yicai.com/news/102708636.html</id>
+        <updated>Mon, 07 Jul 2025 13:24:34 +0800</updated>
+        <summary type="html"><![CDATA[OPEC+，增产，油价下跌，供应过剩，关税政策
 
 <br><br>总结:
-* 加沙停火谈判首轮会议在卡塔尔多哈结束，各方未能达成一致。
-* 以色列谈判小组被指责缺乏足够授权，无法与哈马斯达成协议。
+1.  OPEC+八大产油国决定逐步增产，旨在解除之前的减产计划，目前增产速度已超过预期，若9月延续8月增产节奏，可能提前一年完成增产目标。
+2.  国际油价受此消息影响大幅下跌，WTI和布伦特原油期货均跌超1%。
+3.  分析认为OPEC+增产意在重新掌握市场，但可能导致供应过剩和油价进一步下跌至60美元/桶。
+4.  需求端，消费旺季的增量已基本兑现，未来增长空间有限；中国原油加工量虽增，但汽柴油消费低于去年同期。
+5.  特朗普关税政策的不确定性也对油价产生负面影响，可能扰乱全球供应链，抑制能源消费，削弱原油需求增长动力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“大而美”法案正式生效 对投资影响几何？关税第二轮大考在即 美股多空激辩！]]></title>
-        <link href="https://www.yicai.com/news/102708071.html" />
-        <id>https://www.yicai.com/news/102708071.html</id>
-        <updated>Mon, 07 Jul 2025 09:33:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普法案，关税，欧洲股市，原油增产，AI芯片
+        <title><![CDATA[特朗普：即将公布各国关税信函 税率最高70%]]></title>
+        <link href="https://www.yicai.com/news/102708664.html" />
+        <id>https://www.yicai.com/news/102708664.html</id>
+        <updated>Mon, 07 Jul 2025 13:22:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 关税，贸易协议，美国，特朗普，截止日期
 
 <br><br>总结:
-① 特朗普签署“大而美”法案，涵盖减税和大规模支出，短期利好股市流动性，但长期可能增加财政赤字和债务，利空美债和美元，对大宗商品和贵金属有利。行业方面，传统能源与军工受益，新能源受挫。
-② 特朗普或对部分国家实施新关税，引发市场对通胀风险和资产抛售的担忧。美股虽创新高，面临调整压力，但中期仍强劲。
-③ 德国股市表现强劲，盈利预期超越美国，受益于刺激计划和美国经济向好。但关税影响带来不确定性。
-④ OPEC+超预期增产，可能加剧全球原油供应过剩风险，油价或继续下移。
-⑤ AI ASIC芯片供应链迎来增长周期，云服务商加大AI芯片投入，MPI、Aspeed和Alchip等公司前景乐观。
+1. 特朗普政府将于7月7日公布与贸易伙伴的关税计划。
+2. 对于8月1日前未达成贸易协议的国家，关税将恢复到4月份的“对等关税”水平。
+3. 美国财政部长贝森特的表态暗示美方可能默许7月9日关税谈判期限延后。
+4. 贝森特拒绝明确8月1日是否为最终期限。
+5. 美国正加紧与多国进行贸易谈判，但进度不及预期。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[青岛大学一物业工作人员在值班室离世：排除刑案可能，校方成立专班]]></title>
-        <link href="https://m.thepaper.cn/detail/31120439" />
-        <id>https://m.thepaper.cn/detail/31120439</id>
-        <updated>Mon, 07 Jul 2025 06:17:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词：青岛大学, 物业, 工作人员, 离世, 情况说明
+        <title><![CDATA[马上评丨杨笑天被罚，苏超对球场“小动作”说不]]></title>
+        <link href="https://m.thepaper.cn/detail/31121154" />
+        <id>https://m.thepaper.cn/detail/31121154</id>
+        <updated>Mon, 07 Jul 2025 12:18:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词：杨笑天, 肘击, 纪律委员会, 苏超, 赛场秩序
 
 <br><br>总结:
-* 青岛大学发布情况说明，涉及一名物业工作人员离世事件。
+1.  南京队杨笑天在对阵苏州队的比赛中肘击对手喉部，引发争议。
+2.  江苏省城市足球联赛纪律委员会对杨笑天处以停赛一场的处罚，苏超官方相当于补了一张“红牌”。
+3.  苏超此举是为了维护赛场秩序，对冲撞规则、伤害对手的行为零容忍。
+4.  文章强调了苏超作为业余联赛，应保持赛事的干净和纯正，严惩不文明行为，以维护其联赛形象和发展。
+5.  同时，文章也通过其他案例，例如镇江队刘丹的暴力行为，和淮安队守门员推到对方球员的行为，来提醒苏超要“杀伐果断”。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、注册链接、VPS部署、命令网址
-总结:本文介绍了爪云及内网穿透的使用方法，包括注册链接和VPS部署所需的命令或网址。首先讲解了如何获取root权限和安装docker，然后介绍了临时隧道模式和固定隧道模式的设置步骤。在固定隧道模式下，需要准备UUID、Cloudflare隧道Token和隧道域名等变量。最后，提供了相关docker命令的使用方法和视频教程链接，帮助用户快速了解并使用爪云及内网穿透功能。<br><br>]]></summary>
+        <title><![CDATA[美国得州暴洪：河水45分钟暴涨8米，山洪易发区“无预警系统”]]></title>
+        <link href="https://m.thepaper.cn/detail/31121030" />
+        <id>https://m.thepaper.cn/detail/31121030</id>
+        <updated>Mon, 07 Jul 2025 11:10:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 得克萨斯州洪灾, 死亡人数, 预警系统, 极端天气, 搜救
+
+<br><br>总结:
+1. 得克萨斯州中部突发洪灾，死亡人数已达82人，仍有数十人失踪，搜救工作因天气恶劣受阻。特朗普已签署重大灾难声明，启动联邦援助。
+2. 洪灾由凌晨的强降雨导致瓜达卢佩河水位在短时间内急剧上涨引发，许多人在睡梦中未能及时撤离。灾区是基督教夏季营会所在地，遇难者包括儿童、家人和营地人员。
+3. 洪灾暴露了当地预警系统缺失的问题，尽管气象部门发布了预警，但许多营地和居民未能及时收到撤离通知。
+4. 气候变化导致极端降雨更加猛烈，精准预报和“最后一公里”的预警传递仍面临技术障碍。
+5. 营地已向家属开放，幸存者正在陆续离开，现场一片狼藉，充满悲伤。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg域名、挂了、注册、Cloudflare、FreeDNS
+        <title><![CDATA[小米纸巾盒卖 169 元，贵吗？]]></title>
+        <link href="https://www.36kr.com/p/3367576285038341" />
+        <id>https://www.36kr.com/p/3367576285038341</id>
+        <updated>Mon, 07 Jul 2025 10:16:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小米纸巾盒, 价格争议, 车规级, 品牌溢价, 第二增长曲线
+
+<br><br>总结:
+1. 小米汽车推出磁吸纸巾盒，售价169元，引发网友关于价格是否合理的争议，部分人认为贵，另一部分人觉得与竞品相比性价比高，但都难掩其火爆程度。
+
+2. 雷军解释，纸巾盒采用耐高温PU皮、特制磁铁及全手工包覆工艺，并通过车规认证，能承受极端环境，成本较高，适用场景广泛。
+
+3. “车规级”标准通常指电子元件，但小米纸巾盒在选材和设计上也符合高标准，保证了安全性，因此不能简单视为“智商税”，是实用价值和品牌溢价的结合。
+
+4. 小米汽车通过高性价比的车辆获取市场份额，然后提高周边产品的毛利率，将配件作为新的利润增长点，这是一种聪明的策略。
+
+5. 众多车企都在探索“第二增长曲线”，通过车载配件等衍生市场获取利润，小米也不例外，但若纸巾盒价格能降低，消费者可能更愿意买单。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[美股定价权之战，散户赢了]]></title>
+        <link href="https://wallstreetcn.com/articles/3750525" />
+        <id>https://wallstreetcn.com/articles/3750525</id>
+        <updated>Mon, 07 Jul 2025 08:59:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 散户, 资金流入, 个股, 逢低买入, 高风险资产
+
+<br><br>总结:
+1. 2025年上半年，美国散户投资者向美股市场注入1553亿美元资金，创历史新高，尤其在第二季度交易活跃度激增。
+2. 散户保持“逢低买入”策略，标普500每下跌1%，散户净流入1亿美元。
+3. 散户资金主要流入个股，英伟达、特斯拉、Palantir最受欢迎，高贝塔和杠杆类产品也备受关注。
+4. 散户对科技股ETF (QQQ, XLK) 的兴趣增加，单股杠杆ETF如2倍做多特斯拉ETF(TSLL)首次进入前20名。
+5. 尽管偏好高风险资产，散户投资组合表现与大盘同步，2024年以来累计回报率甚至超过QQQ和SPY。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[厮杀万亿级市场，阿里京东美团短兵相接]]></title>
+        <link href="https://www.36kr.com/p/3368142743226112" />
+        <id>https://www.36kr.com/p/3368142743226112</id>
+        <updated>Mon, 07 Jul 2025 08:38:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 补贴大战, 即时零售, 流量入口, 组织架构, 业务整合
+
+<br><br>总结:
+1. 互联网大厂掀起新一轮补贴大战，总额预计达千亿级别，阿里、京东、美团争夺大消费流量入口。
+2. 巨头们通过调整组织架构、整合业务，如饿了么、飞猪并入阿里中国电商事业群，美团聚焦即时零售，京东“0佣金”开拓酒旅市场，打造综合性大消费平台。
+3. 各平台采取差异化策略：阿里整合饿了么和飞猪，美团加码小象超市和美团闪购，京东拓展酒旅市场。
+4. 巨头们通过线上线下补贴、冠名体育赛事等方式抢占用户心智，淘宝闪购和京东外卖加大电梯间广告投放，美团侧重站内补贴。
+5. 最终目标是通过外卖等高频消费带动远场电商，或将远场电商用户转化为即时零售用户，实现更高的业务转换，逐鹿万亿级大消费市场，未来或有更多玩家入场。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[反内卷的三个意义]]></title>
+        <link href="https://wallstreetcn.com/articles/3750521" />
+        <id>https://wallstreetcn.com/articles/3750521</id>
+        <updated>Mon, 07 Jul 2025 07:56:51 +0800</updated>
+        <summary type="html"><![CDATA[关键词：反内卷, 供需比, 竞底竞争, 行业自律, 供给侧改革
+
+<br><br>总结:
+第一，反内卷具有三重意义：打破“囚徒困境”，优化产业结构；改善“供需比”，将工业增长转化为可持续利润；终结“竞底竞争”，提升全球产业链分工中的优势。
+<br><br>第二，本轮反内卷与2016年供给侧改革不同：重点行业从钢铁、水泥等传统产业转向光伏、锂电池、新能源汽车等新兴行业；重点任务从化解过剩产能转向治理企业低价无序竞争。
+<br><br>第三，反内卷的政策实现路径包括：供需两侧协同发力，刺激消费，扩大出口；规范政府行为，树立正确政绩观，完善市场经济基础制度；强化行业自律，制定行业标准，鼓励技术创新和产业升级。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、5美元赠金、长期免费使用
 <br>
-us.kg免费域名目前存在注册问题，已注册的域名仍在使用，新的域名也可以托管到Cloudflare。作为临时解决方案，可以将域名托管到FreeDNS。虽然us.kg域名面临注册问题，但仍然可以继续注册新域名，与已注册的域名有所区别。总体来说，us.kg域名依然可用，可以继续使用和注册。]]></summary>
+关于Claw Cloud Run，只要Github注册时间大于180天，即可每月获得5美元赠金，从而实现长期免费使用。用户可以搭建各种Docker应用，在应用商店一键自动部署或手动部署。想要查看Github注册时间，只需打开https://api.github.com/users/XXX（将XXX替换为你的Github用户名），倒数第二行会显示"created at"后面的日期。推荐部署的两款应用有Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可参考Youtube视频。 
+<br><br>总结: Claw Cloud Run提供免费容器，通过Github注册时间获得5美元赠金， 实现长期免费使用，可部署各种Docker应用，查看注册时间方法在文章内，推荐使用Memos和AList，Youtube视频提供详细信息。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN、网页保活
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册、创建VM实例、SSH登录方式<br>
 <br>
-Serv00是一个供应网络科学上网的服务平台，搭建科学上网节点需要注册登录Serv00，通过Cloudflare设置固定隧道和CDN回源，实现网页保活。科学上网节点搭建包括系统初始化、重置端口和安装脚本。Cloudflare固定隧道需拥有已托管到Cloudflare的域名，设置隧道域名、类型和URL，并输入隧道域名和令牌。CDN回源需要添加DNS记录和回源规则，以确保网页的访问稳定。网页保活功能包括启动、重启、重置端口以及查看节点和订阅信息。另外，可以通过Cloudflare远程保活新建Worker，粘贴特定代码并设置保活频率来保持网页的稳定运行。]]></summary>
+总结: 本文介绍了如何注册和使用谷歌云免费VPS，包括添加付款资料、创建VM实例、开放防火墙等步骤。提到了需要外币信用卡或借记卡，以及创建完全免费的VM实例的配置选择。另外，还介绍了SSH登录方式和科学上网注意事项，包括建议使用Hysteria 2节点，免费政策和搭建节点的方法。文章中还提到了一些注意事项和教程视频链接。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、免费<br>
-总结：文章介绍了如何在US.KG域名受限状态时通过 https://dash.domain.digitalplat.org/ 完成注册和KYC验证，并在域名状态恢复后托管到Cloudflare使用。注册步骤包括注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare。 免费域名的优点是免费续订，缺点是部分步骤可能需要等待。详细教程可在Youtube视频中查看。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek，网页端，APP，API，本地部署
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址，美国地址生成器，Github仓库，Cloudflare官网，Cloudflare Pages<br>
 <br>
-Deepseek是一个提供翻译、Chatbox、欧路词典等功能的工具，可通过网页端、APP和API使用。用户可以在官方网站注册使用，也可以通过手机客户端和API获取更多功能。此外，用户还可以通过第三方应用获得Deepseek服务，或者选择本地部署使用。本地部署需要下载Ollama并安装，在终端中输入指令运行。总的来说，Deepseek提供了多种方式让用户使用其提供的翻译和Chatbox等功能。 <br><br>总结: Deepseek是一个多功能的工具，提供翻译和Chatbox等服务，可通过网页端、APP、API或本地部署来使用。]]></summary>
+注册地址和美国地址生成器是DigitalPlat提供的服务，用户可通过Github仓库查看更多信息。Cloudflare官网和Cloudflare Pages提供自定义域名及SSL证书服务。用户可免费获得dpdns.org域名，新用户可获得1个免费域名，老用户可获得3个免费域名（通过Github加Star后可增加）。us.kg是收费域名，每年续费一次，但不占用免费域名额度。详细教程可在Youtube视频中查看。us.kg域名续费需每年操作。整体服务免费且续费操作简便。域名使用和续费需在180天内操作。  
+<br><br>总结: DigitalPlat提供注册地址和美国地址生成器服务，用户可通过Github仓库获得更多信息。Cloudflare官网和Cloudflare Pages提供自定义域名和SSL证书服务。用户可免费获得dpdns.org域名，us.kg为收费域名，但不占用免费域名额度，需每年续费操作，操作简便。详细操作教程可在Youtube视频中查看。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
+<br>
+HostUNO是一个提供稳定性和速度的服务，不需要保活。在购买过程中价格合理，用户体验良好。节点测速情况良好，但存在ChatGPT降智问题。续费方式简便。综合评价，HostUNO值得购买。在使用过程中需注意ChatGPT降智问题，并及时续费。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 注册, 主页
+
+US.KG注册不了，推荐另一个免费域名注册，可托管到Cloudflare，免费一年。注册账号后，使用身份信息生成器辅助填写，购买域名时输入优惠码（newuser），可享受一年免费。登录Cloudflare添加域名，将分配的两个名称服务器填入域名管理界面。详细教程可在Youtube视频中查看。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
