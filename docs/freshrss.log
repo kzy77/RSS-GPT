@@ -1,61 +1,41 @@
 ------------------------------------------------------
-Started: 2025-07-08 12:40:49.853521
-Existing_entries: 10
+Started: 2025-07-08 14:18:40.494407
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1309
+Token length: 2513
 Summarized using gemini model: gemini-2.0-flash
-Append: [债权人开始接受新方案，龙光旭辉推进境内化债](https://www.yicai.com/news/102711935.html)
+Append: [专家热议债市转型：低利率环境下如何破局？](https://www.yicai.com/news/102712214.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [商家备战“苏超”，江苏休闲玩乐订单成华东地区第一](https://www.yicai.com/news/102712065.html)
+Append: [蜜雪冰城被曝员工用脚关直饮水桶，食安问题备受关注](https://www.yicai.com/news/102712235.html)
+Token length: 2362
+Summarized using gemini model: gemini-2.0-flash
+Append: [债市新动向：地方债市场持续领跑，科创债与跨境融资迎新机](https://www.yicai.com/news/102712226.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [刚刚扭亏实控人即高位转让18%股权，蓝黛科技控制权可能生变](https://www.yicai.com/news/102711884.html)
-Token length: 1584
-Summarized using gemini model: gemini-2.0-flash
-Append: [血铅半衰期约28天：进入人体内的铅能彻底清除吗？](https://www.yicai.com/news/102712051.html)
-Token length: 1559
-Summarized using gemini model: gemini-2.0-flash
-Append: [4S店退网潮暗藏消费风险，车企等三方应提前作出预案](https://www.yicai.com/news/102712013.html)
-Token length: 1509
-Summarized using gemini model: gemini-2.0-flash
-Append: [当平台补贴退潮，咖啡茶饮终需比拼真功夫](https://www.yicai.com/news/102711894.html)
+Append: [滚动更新丨纳指涨0.26%，京东集团涨1.5%](https://www.yicai.com/news/102712228.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [老龄化最快的“十五五”：3亿老年人将迎来哪些养老新变化](https://www.yicai.com/news/102712034.html)
+Append: [广汽菲克资不抵债正式宣告破产，曾主推Jeep国产化](https://www.yicai.com/news/102712213.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [资金面宽松持续，同业存单利率下破1.6%后怎么走](https://www.yicai.com/news/102711999.html)
-Token length: 225
-Summarized using gemini model: gemini-2.0-flash
-Append: [共享充电宝还能放心用吗？实测：三大常见品牌都有无3C情况 客服称较早批次产品未更换3C](https://www.yicai.com/video/102712039.html)
-Token length: 1043
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI与真人讲师搭配干活，尝试解决教育行业“不可能三角”难题](https://www.yicai.com/news/102711988.html)
-Token length: 2200
-Summarized using gemini model: gemini-2.0-flash
-Append: [费德勒成首个身家超10亿美元的网球运动员，顶尖运动员靠什么赚钱？](https://www.yicai.com/news/102711971.html)
-Token length: 3557
-Summarized using gemini model: gemini-2.0-flash
-Append: [建筑即内容，LV巨轮等如何改写城市商业逻辑](https://www.yicai.com/news/102709393.html)
-Token length: 1226
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国“大而美”法案：债务扩张下的美元信用危机与黄金配置](https://www.yicai.com/news/102710685.html)
-Token length: 1623
-Summarized using gemini model: gemini-2.0-flash
-Append: [2025下半年五大投资要点：关税与利率成关键](https://www.yicai.com/news/102710677.html)
-Token length: 1521
-Summarized using gemini model: gemini-2.0-flash
-Append: [东南亚多国被特朗普投送关税信函，“待遇”为何各不相同](https://www.yicai.com/news/102711804.html)
-Token length: 159
-Summarized using gemini model: gemini-2.0-flash
-Append: [“塞上咽喉”宁夏固原文物亮相上博东馆](https://www.yicai.com/image/102711812.html)
-Token length: 2226
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普对14国加征最高40%关税，欧美协议能否在7月9日前紧急冲线？](https://www.yicai.com/news/102711781.html)
+Append: [英诺赛科称年底将扩产8英寸GaN至2万片/月](https://www.yicai.com/news/102712168.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [美国消费者能否感知到特朗普关税影响？上半年美消费支出显著放缓释放什么信号](https://www.yicai.com/news/102711744.html)
-Token length: 1342
+Append: [一财社论：汽车产业要筑牢“软件安全”防线](https://www.yicai.com/news/102712147.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [债市下半年展望：预计维持震荡格局，三季度有配置窗口期](https://www.yicai.com/news/102712131.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [关税风云进入第二季！这次大类资产表现会有何不同？](https://www.yicai.com/news/102712145.html)
+Token length: 167
 Summarized using gemini model: gemini-2.0-flash
-Append: [纯苯期货期权上市，芳烃产业链风险管理工具升级](https://www.yicai.com/news/102711780.html)
-Token length: 7207
+Append: [广汽菲克宣告破产](https://www.yicai.com/news/102712022.html)
+Token length: 2443
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财首席经济学家调研：经济景气度延续修复态势，年度增速预测均值5.02%](https://www.yicai.com/news/102711926.html)
-append_entries: 20
-Finish: 2025-07-08 12:42:12.203138
+Append: [贴上“稳定币”股价创两年新高，金一文化能否靠买来的子公司脱困？](https://www.yicai.com/news/102712040.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [遭印度监管指控市场操纵，量化巨头Jane Street发内部信否认](https://www.yicai.com/news/102712104.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [报道称一些国家与中国商谈武器采购计划，国防部回应](https://m.thepaper.cn/detail/31131195)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [美财长想与中方当面聊：期待未来几周能见面，推动各领域磋商](https://m.thepaper.cn/detail/31130950)
+Token length: 7098
+Summarized using gemini model: gemini-2.0-flash
+Append: [普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程](https://juejin.cn/post/7522547529632890907)
+append_entries: 15
+Finish: 2025-07-08 14:19:51.641814
