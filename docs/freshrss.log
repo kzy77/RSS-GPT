@@ -1,66 +1,36 @@
 ------------------------------------------------------
-Started: 2025-07-08 08:27:15.594033
-Existing_entries: 9
+Started: 2025-07-08 10:20:58.181458
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3470
+Token length: 1580
 Summarized using gemini model: gemini-2.0-flash
-Append: [七部门发文加快推进普惠托育服务体系建设](https://www.yicai.com/news/102711517.html)
-Token length: 104
+Append: [人民币股票交易柜台即将纳入港股通，A、H股联袂大涨](https://www.yicai.com/news/102711740.html)
+Token length: 1300
 Summarized using gemini model: gemini-2.0-flash
-Append: [连板股追踪丨A股今日共75只个股涨停 这只PCB概念股4连板](https://www.yicai.com/news/102711456.html)
-Token length: 1561
+Append: [万达老人退出，珠海万达高层席位大变更](https://www.yicai.com/news/102711553.html)
+Token length: 938
 Summarized using gemini model: gemini-2.0-flash
-Append: [关税压力、经济增长放缓、实际工资减少，日本央行加息路漫漫](https://www.yicai.com/news/102711126.html)
-Token length: 1093
+Append: [乘联分会：6月新能源乘用车市场零售同比增长29.7%](https://www.yicai.com/news/102711641.html)
+Token length: 2803
 Summarized using gemini model: gemini-2.0-flash
-Append: [山姆2公斤冰块卖22.8元引争议，卖冰成本高吗](https://www.yicai.com/news/102711266.html)
-Token length: 1127
+Append: [沪指距3500点“一步之遥”，光伏、算力产业链爆发，恒指涨1%，金涌投资大涨530%，多晶硅期货涨停，国债齐跌](https://wallstreetcn.com/articles/3750610)
+Token length: 1621
 Summarized using gemini model: gemini-2.0-flash
-Append: [股价震荡下行，“外卖大战”暴露部分科技股“护城河”隐忧｜记者观察](https://www.yicai.com/news/102711267.html)
-Token length: 1405
+Append: [一轮四败战绩惨淡，国乒男队统治力下滑肉眼可见](https://m.thepaper.cn/detail/31130805)
+Token length: 1161
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普对关税“松口”，美股指数期货齐涨，欧股小幅低开，30年期日债收益率飙升](https://wallstreetcn.com/articles/3750611)
-Token length: 3143
+Append: [马上评丨彩绘颜料做幼儿园点心，让利欲熏心者付出代价](https://m.thepaper.cn/detail/31130325)
+Token length: 63
 Summarized using gemini model: gemini-2.0-flash
-Append: [对话贝莱德李薇：关税“大限”逼近，下半年资金怎么投？](https://www.yicai.com/news/102709706.html)
-Token length: 701
+Append: [财晓得｜这家电芯生产商，是怎么让充电宝行业“心脏骤停”的](https://m.thepaper.cn/detail/31121628)
+Token length: 54451
 Summarized using gemini model: gemini-2.0-flash
-Append: [收盘丨沪指涨0.7%逼近3500点，光伏、PCB概念集体爆发](https://www.yicai.com/news/102711434.html)
-Token length: 238
+Append: [专访 | 硅谷富豪不死赌局：砸千万美金，向死神追回5.1岁](https://www.36kr.com/p/3368725155809282)
+Token length: 2532
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普宣布将对14国加征关税 外交部：关税战、贸易战没有赢家](https://www.yicai.com/news/102711443.html)
-Token length: 2956
+Append: [苹果开发者自曝用Claude完成95%开发，开发应用已上架](https://www.36kr.com/p/3368814073759491)
+Token length: 74795
 Summarized using gemini model: gemini-2.0-flash
-Append: [物业费谈不拢，多地屡现物业公司“卷不动”宣布撤场](https://www.yicai.com/news/102711121.html)
-Token length: 2906
-Summarized using gemini model: gemini-2.0-flash
-Append: [港元汇率快速转弱，香港金管局两周四度入市干预，港元创最快强弱保证切换](https://www.yicai.com/news/102711095.html)
-Token length: 142
-Summarized using gemini model: gemini-2.0-flash
-Append: [基金经理调仓动向曝光：调仓背后谁“吸金”？后市还能看高一线？| 财经头条](https://www.yicai.com/video/102711276.html)
-Token length: 3069
-Summarized using gemini model: gemini-2.0-flash
-Append: [余华作品再次登上话剧舞台，“爱情”到底要说些什么？](https://www.yicai.com/news/102710670.html)
-Token length: 1751
-Summarized using gemini model: gemini-2.0-flash
-Append: [从农产品贸易到文明共鸣，纳米比亚前总统姆本巴解码中纳经贸新机遇](https://www.yicai.com/news/102711000.html)
-Token length: 160
-Summarized using gemini model: gemini-2.0-flash
-Append: [京东外卖宣布投入超百亿扶持品质商家](https://www.yicai.com/news/102711144.html)
-Token length: 5883
-Summarized using gemini model: gemini-2.0-flash
-Append: [8点1氪｜青岛大学回应宿管离世事件并公示采购7217台空调；特朗普宣布征收日韩25%关税；猫眼回应周杰伦演唱会500元只能看大屏](https://www.36kr.com/p/3369548209833985)
-Token length: 3429
-Summarized using gemini model: gemini-2.0-flash
-Append: [小米空调暴增20倍，东北高温的泼天富贵，美的格力们能否分享？](https://www.36kr.com/p/3368951160543368)
-Token length: 343
-Summarized using gemini model: gemini-2.0-flash
-Append: [关税又又又要延期了 所有特朗普的对手都在等崩盘](https://wallstreetcn.com/premium/articles/3750581?layout=wscn-layout)
-Token length: 3910
-Summarized using gemini model: gemini-2.0-flash
-Append: [Stack Overflow，轰然倒下！](https://juejin.cn/post/7524164737170702362)
-Token length: 154
-Summarized using gemini model: gemini-2.0-flash
-Append: [Stack Overflow，轰然倒下！](https://www.cnblogs.com/thisiswhy/p/18972242)
-append_entries: 20
-Finish: 2025-07-08 08:28:44.573763
+Append: [Python入门指南-AI番外-MCP完整教程：从零开始学会Model Context Protocol](https://juejin.cn/post/7523038523675623470)
+append_entries: 10
+Finish: 2025-07-08 10:21:24.246944
