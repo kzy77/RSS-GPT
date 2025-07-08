@@ -1,41 +1,51 @@
 ------------------------------------------------------
-Started: 2025-07-08 14:18:40.494407
-Existing_entries: 20
+Started: 2025-07-08 16:25:49.851062
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2513
+Token length: 95
 Summarized using gemini model: gemini-2.0-flash
-Append: [专家热议债市转型：低利率环境下如何破局？](https://www.yicai.com/news/102712214.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [蜜雪冰城被曝员工用脚关直饮水桶，食安问题备受关注](https://www.yicai.com/news/102712235.html)
-Token length: 2362
+Append: [传赴港IPO为向英国监管施压？SHEIN回应：消息不实，系恶意揣测](https://www.yicai.com/news/102712337.html)
+Token length: 2117
 Summarized using gemini model: gemini-2.0-flash
-Append: [债市新动向：地方债市场持续领跑，科创债与跨境融资迎新机](https://www.yicai.com/news/102712226.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [滚动更新丨纳指涨0.26%，京东集团涨1.5%](https://www.yicai.com/news/102712228.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [广汽菲克资不抵债正式宣告破产，曾主推Jeep国产化](https://www.yicai.com/news/102712213.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [英诺赛科称年底将扩产8英寸GaN至2万片/月](https://www.yicai.com/news/102712168.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [一财社论：汽车产业要筑牢“软件安全”防线](https://www.yicai.com/news/102712147.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [债市下半年展望：预计维持震荡格局，三季度有配置窗口期](https://www.yicai.com/news/102712131.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [关税风云进入第二季！这次大类资产表现会有何不同？](https://www.yicai.com/news/102712145.html)
-Token length: 167
+Append: [东海证券因并购旧案吃6000万罚单，多家券商年内因投行业务被罚](https://www.yicai.com/news/102711895.html)
+Token length: 1159
 Summarized using gemini model: gemini-2.0-flash
-Append: [广汽菲克宣告破产](https://www.yicai.com/news/102712022.html)
-Token length: 2443
+Append: [中美史克终结近40年合资历史！赫力昂完成全资控股](https://www.yicai.com/news/102712302.html)
+Token length: 2897
 Summarized using gemini model: gemini-2.0-flash
-Append: [贴上“稳定币”股价创两年新高，金一文化能否靠买来的子公司脱困？](https://www.yicai.com/news/102712040.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [遭印度监管指控市场操纵，量化巨头Jane Street发内部信否认](https://www.yicai.com/news/102712104.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [报道称一些国家与中国商谈武器采购计划，国防部回应](https://m.thepaper.cn/detail/31131195)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [美财长想与中方当面聊：期待未来几周能见面，推动各领域磋商](https://m.thepaper.cn/detail/31130950)
-Token length: 7098
+Append: [书店与餐厅融合经营，重庆刀锋书酒馆想在商业上走得更远](https://www.yicai.com/news/102712314.html)
+Token length: 230
 Summarized using gemini model: gemini-2.0-flash
-Append: [普通人用Gemini CLI提效的 1 万种方法！藏师傅保姆级教程](https://juejin.cn/post/7522547529632890907)
+Append: [特朗普8月1日起征收14个国家25%关税 为什么是这些国家？](https://www.yicai.com/video/102712254.html)
+Token length: 310
+Summarized using gemini model: gemini-2.0-flash
+Append: [特朗普第一批关税函发出 为什么是这些国家？](https://www.yicai.com/video/102712286.html)
+Token length: 224
+Summarized using gemini model: gemini-2.0-flash
+Append: [智元机器人收购上市公司上纬新材超63.62%股份](https://www.yicai.com/news/102712290.html)
+Token length: 211
+Summarized using gemini model: gemini-2.0-flash
+Append: [为全球文明对话预热 中外嘉宾上海行多维度体验中国成就](https://www.yicai.com/image/102712293.html)
+Token length: 3825
+Summarized using gemini model: gemini-2.0-flash
+Append: [新一轮反内卷冲锋号吹响，新兴产业民企占比高需因业施策](https://www.yicai.com/news/102709871.html)
+Token length: 2696
+Summarized using gemini model: gemini-2.0-flash
+Append: [文坛抄袭风波发酵：读书博主打假多名作家，大刊开始查重](https://www.yicai.com/news/102712116.html)
+Token length: 2122
+Summarized using gemini model: gemini-2.0-flash
+Append: [发了14封关税信，特朗普为何特别点名日本和韩国](https://www.yicai.com/news/102711537.html)
+Token length: 159
+Summarized using gemini model: gemini-2.0-flash
+Append: [国办发文 推进人工智能大模型等新技术在政务服务领域应用](https://www.yicai.com/news/102712137.html)
+Token length: 2124
+Summarized using gemini model: gemini-2.0-flash
+Append: [罗马仕网店关店引退货退款担忧，深圳市监局：正全天候督导召回工作](https://m.thepaper.cn/detail/31130498)
+Token length: 72
+Summarized using gemini model: gemini-2.0-flash
+Append: [内塔尼亚胡提名角逐诺贝尔和平奖，特朗普：你推荐尤其有意义](https://m.thepaper.cn/detail/31129785)
+Token length: 911
+Summarized using gemini model: gemini-2.0-flash
+Append: [高盛：标普500年底目标6600！降息+基本面驱动](https://wallstreetcn.com/articles/3750603)
 append_entries: 15
-Finish: 2025-07-08 14:19:51.641814
+Finish: 2025-07-08 16:26:59.405157
