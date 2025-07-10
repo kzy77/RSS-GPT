@@ -1,54 +1,65 @@
 ------------------------------------------------------
-Started: 2025-07-10 10:21:35.447419
-Existing_entries: 20
+Started: 2025-07-10 12:41:15.028794
+Existing_entries: 16
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2326
+Token length: 1707
 Summarized using gemini model: gemini-2.0-flash
-Append: [欧方指责中国市场准入、补贴和所谓“产能过剩”等问题，商务部这样回应](https://www.yicai.com/news/102715817.html)
-Token length: 2382
+Append: [依法依规申报境外所得 及时防范化解涉税风险——专家解读境外所得申报纳税有关规定](https://www.yicai.com/news/102715403.html)
+Token length: 209
 Summarized using gemini model: gemini-2.0-flash
-Append: [马斯克带领xAI团队发布Grok 4，“全球最强模型”含金量如何？](https://www.yicai.com/news/102715700.html)
-Token length: 1113
+Append: [中马互免签证将生效，暑期马来西亚酒店预订量增长43%](https://www.yicai.com/news/102716266.html)
+Token length: 1638
 Summarized using gemini model: gemini-2.0-flash
-Append: [不只发布国际开源合作倡议，世界人工智能大会将发人形机器人产业图谱](https://www.yicai.com/news/102715750.html)
-Token length: 1199
+Append: [专项债十年：额度大增，投向领域多元化](https://www.yicai.com/news/102716262.html)
+Token length: 2350
 Summarized using gemini model: gemini-2.0-flash
-Append: [地产股爆发！A股港股房企集体飙升，机构称政策预期升温](https://www.yicai.com/news/102715753.html)
-Token length: 957
+Append: [脑机接口进入“元年”，中西部第一大省要抢占先机](https://www.yicai.com/news/102716255.html)
+Token length: 2525
 Summarized using gemini model: gemini-2.0-flash
-Append: [龙光219亿境内债整体重组落定，短期内流动性压力缓解](https://www.yicai.com/news/102715776.html)
-Token length: 958
+Append: [“反内卷”升级下，股市影响几何？](https://www.yicai.com/news/102716189.html)
+Token length: 884
 Summarized using gemini model: gemini-2.0-flash
-Append: [退休人员基本养老金上调2%！详细调整看这里](https://www.yicai.com/news/102715829.html)
-Token length: 2659
+Append: [药明康德半年报业绩预喜，增速高于一季度](https://www.yicai.com/news/102716165.html)
+Token length: 2206
 Summarized using gemini model: gemini-2.0-flash
-Append: [沪指站稳3500点，地产股掀涨停潮，黑色系商品普涨，恒指重返24000点，金融股爆发，国债集体下跌](https://wallstreetcn.com/articles/3750786)
-Token length: 905
+Append: [汽车制造商和船东警告特朗普政府：征收高额港口费将适得其反](https://www.yicai.com/news/102716168.html)
+Token length: 1636
 Summarized using gemini model: gemini-2.0-flash
-Append: [上调2%，2025年退休人员养老金调整](https://m.thepaper.cn/detail/31149098)
-Token length: 296
+Append: [时隔4个月韩国前总统尹锡悦再被捕，如何搅动韩国政坛？](https://www.yicai.com/news/102715770.html)
+Token length: 1337
 Summarized using gemini model: gemini-2.0-flash
-Append: [商务部：已部署开展打击战略矿产走私出口专项行动](https://www.yicai.com/news/102715754.html)
-Token length: 1661
+Append: [美政府对哈佛又有新动作 双方紧张关系再升级](https://www.yicai.com/news/102716149.html)
+Token length: 2183
 Summarized using gemini model: gemini-2.0-flash
-Append: [Grok 4正式发布！当世最强算力训练，对垒GPT-5和Claude 4 Opus](https://wallstreetcn.com/articles/3750796)
-Token length: 1885
+Append: [建筑建材行业集体“反内卷”，要向“违规分包”“垫资施工”开刀](https://www.yicai.com/news/102716110.html)
+Token length: 1634
 Summarized using gemini model: gemini-2.0-flash
-Append: [高教界热议“本升专”，舆论呼吁教育应与时代脉搏同频共振](https://m.thepaper.cn/detail/31148354)
-Token length: 797
+Append: [潜江小龙虾交易规模领跑全国，湖北“虾十条”助推扩大朋友圈](https://www.yicai.com/news/102716123.html)
+Token length: 1670
 Summarized using gemini model: gemini-2.0-flash
-Append: [总产量2994.8亿斤，今年全国夏粮实现稳产丰收](https://m.thepaper.cn/detail/31147485)
-Token length: 5491
+Append: [新品被代购排队14小时溢价出售，上海迪士尼叫停线下发售](https://www.yicai.com/news/102716142.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [2025年6月【创作者训练营】开奖公示 🎇](https://juejin.cn/post/7525267335897694258)
+Token length: 2256
 Summarized using gemini model: gemini-2.0-flash
-Append: [雷军再闯“产能地狱”](https://www.36kr.com/p/3372384585110274)
-Token length: 285
+Append: [民企老板被错关212天：申请千万元国家赔偿，法院决定赔偿十五万](https://m.thepaper.cn/detail/31149053)
+Token length: 5156
 Summarized using gemini model: gemini-2.0-flash
-Append: [韩媒：尹锡悦将被关押在没有空调的囚室中](https://m.thepaper.cn/detail/31146685)
-Token length: 3920
+Append: [年费超 2 万，马斯克刚刚发布最贵 AI ，Grok 4 号称所有领域碾压博士](https://www.36kr.com/p/3372821970097925)
+Token length: 1135
 Summarized using gemini model: gemini-2.0-flash
-Append: [人民日报：“十四五”规划即将收官，这些成就的取得都与你我有关](https://m.thepaper.cn/detail/31146590)
-Token length: 1749
+Append: [马上评｜回归文物开发文创，怎么就“不尊重历史”了 ？](https://m.thepaper.cn/detail/31148203)
+Token length: 3339
 Summarized using gemini model: gemini-2.0-flash
-Append: [男童在餐馆外遭醉汉用塑料椅砸头：或需做开颅手术，伤人者已被刑拘](https://m.thepaper.cn/detail/31141016)
-append_entries: 16
-Finish: 2025-07-10 10:22:52.231148
+Append: [曹操出行：与其说是网约车公司，不如说是吉利系定制车销售公司](https://www.36kr.com/p/3372391505811845)
+Token length: 2778
+Summarized using gemini model: gemini-2.0-flash
+Append: [四部门联合发文：车企自建大功率充电设施网络应无差别开放，蔚来、理想回应](https://www.36kr.com/p/3371789006230532)
+Token length: 315
+Summarized using gemini model: gemini-2.0-flash
+Append: [内塔尼亚胡：以色列没有处理伊朗浓缩铀问题](https://m.thepaper.cn/detail/31142819)
+Token length: 119
+Summarized using gemini model: gemini-2.0-flash
+Append: [湖南湘潭县通报“市场监督管理局执法大队队长有关生活作风问题”](https://m.thepaper.cn/detail/31142762)
+append_entries: 20
+Finish: 2025-07-10 12:42:35.355948
