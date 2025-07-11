@@ -2,162 +2,336 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-11T04:37:21Z</updated>
+    <updated>2025-07-11T06:31:51Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Manus跑路了吗？]]></title>
-        <link href="https://www.36kr.com/p/3372914808936196" />
-        <id>https://www.36kr.com/p/3372914808936196</id>
-        <updated>Thu, 10 Jul 2025 17:20:48 +0800</updated>
-        <summary type="html"><![CDATA[Manus, AI Agent, 裁员, 新加坡, 出海
+        <title><![CDATA[[原创]《C#高级GDI+实战：从零开发一个流程图》第06章：繁琐？没扩展性？抽象！抽象！]]></title>
+        <link href="https://www.cnblogs.com/lesliexin/p/18972184" />
+        <id>https://www.cnblogs.com/lesliexin/p/18972184</id>
+        <updated>Wed, 09 Jul 2025 14:02:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：抽象, 形状, 代码量, 可维护性, 扩展性
 
 <br><br>总结:
-1. Manus公司将总部从北京迁至新加坡，核心研发团队的40人随迁，裁掉了国内约80名非核心员工。
-2. Manus 3月份爆火，并持续推出新功能，4月份完成了B轮融资，估值达到5亿美元，5月份开放注册，注册量迅速突破100万。
-3. Manus公司做的是通用AI Agent，在海外模型API、开发者生态和企业客户付费意愿方面，环境更成熟，更适合发展。
-4. 国内ToC软件的付费习惯较弱，订阅制的AI产品难以维护高粘性用户群体，所以Manus将重心转向海外。
-5. Manus优先赚外国人的钱，做给海外用户用的工具，是一种基于现实驱动的选择，是和所有做出海业务的公司一样。
+一、前言指出现有矩形和圆形代码的缺点：增加新形状导致代码量和判断逻辑剧增，可维护性和扩展性差。
+二、提出解决方案：采用抽象的方法来解决上述问题，提升代码的可维护性和扩展性。
+三、预计效果：通过抽象，读者可以有效解决形状增加带来的代码问题，提升编程技能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[微软9000人大裁员：资本黑洞与3A危机]]></title>
-        <link href="https://www.huxiu.com/article/4566036.html" />
-        <id>https://www.huxiu.com/article/4566036.html</id>
-        <updated>Fri, 11 Jul 2025 11:20:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 微软裁员, Xbox, AI投资, Game Pass, 员工抗议
+        <title><![CDATA[多银行经营贷款利率跌破3% 部分银行以优惠券形式发放 某网点：同产品此前利率在5%｜一探]]></title>
+        <link href="https://www.yicai.com/video/102717910.html" />
+        <id>https://www.yicai.com/video/102717910.html</id>
+        <updated>Fri, 11 Jul 2025 12:13:56 +0800</updated>
+        <summary type="html"><![CDATA[经营贷 利率 银行 深圳 资质
 
 <br><br>总结:
-1.  微软裁员9000人，Xbox工作室和动视暴雪受影响严重，The Initiative工作室关闭，《完美黑暗》等项目取消。
-2.  裁员原因是微软为AI基础设施投入巨额资金（800亿美元），同时Game Pass订阅增长乏力，收益未达预期。
-3.  裁员引发员工强烈不满，工会介入维权，建议失业员工使用ChatGPT安抚情绪的做法引众怒。
-4.  裁员后微软股价稳定，表明资本市场优先考虑成本控制和AI投入，忽视员工利益。
-5.  未来微软可能依赖AI自动化开发，牺牲游戏质量和创新，Game Pass内容减少可能导致恶性循环。
+* 深圳多家银行（包括中国银行、建设银行、招商银行）推出了利率“2”字头的经营贷产品。
+* 具体利率和额度根据借款人资质综合评定。
+* 某银行工作人员表示，该产品利率从之前的5%一路下降。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[解财报丨银行业半年报前瞻：哪些“关键变量”能支撑股价的强劲表现？]]></title>
-        <link href="https://www.yicai.com/live/102713964.html" />
-        <id>https://www.yicai.com/live/102713964.html</id>
-        <updated>Fri, 11 Jul 2025 11:02:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：银行，半年报，业绩，息差，宏观经济
+        <title><![CDATA[余承东称尚界将搭载华为高阶智驾]]></title>
+        <link href="https://www.yicai.com/news/102717600.html" />
+        <id>https://www.yicai.com/news/102717600.html</id>
+        <updated>Fri, 11 Jul 2025 09:59:19 +0800</updated>
+        <summary type="html"><![CDATA[尚界汽车, 华为, 上汽集团, 智驾, 秋季上市
 
 <br><br>总结:
-1. 上市银行半年报业绩备受市场关注，对宏观经济和A股行情有重要影响。
-2. 一季度银行利润分化，多数银行逆势增长，但全行业净利润微降。
-3. 银行面临息差压力，投资者关注哪些银行能够扛住压力并有超预期表现。
-4. 投资者将密切关注半年报以研判银行业基本面和未来发展趋势。
+* 尚界汽车是华为和上汽集团共同打造的汽车品牌。
+* 华为发布海报预示尚界汽车即将“上场”。
+* 余承东透露新车有望今年秋季上市。
+* 新车将搭载华为高阶智驾系统，并配备“蓝灯”功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[公安机关侦破缅北果敢白家犯罪集团专案]]></title>
-        <link href="https://www.yicai.com/news/102717693.html" />
-        <id>https://www.yicai.com/news/102717693.html</id>
-        <updated>Fri, 11 Jul 2025 11:01:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 缅北果敢, 四大家族, 白家, 电信诈骗, 中缅合作
+        <title><![CDATA[美国对巴西加征关税反噬自身 美咖啡橙汁首当其冲面临涨价]]></title>
+        <link href="https://www.yicai.com/news/102717549.html" />
+        <id>https://www.yicai.com/news/102717549.html</id>
+        <updated>Fri, 11 Jul 2025 09:58:05 +0800</updated>
+        <summary type="html"><![CDATA[巴西，阿拉比卡咖啡，橙汁，关税，美国
 
 <br><br>总结:
-1. 缅北果敢“四大家族”犯罪集团遭到毁灭性打击，其中白家犯罪集团专案已提起公诉。
-2. 白家利用其家族影响力，开发建设赌诈园区，招揽犯罪团伙实施电信网络诈骗和网络赌博，并招募、诱骗国内人员参与。
-3. 白家还牵头成立果敢娱乐管理委员会，通过颁发推广证等方式攫取巨额非法利益，以诈养兵、以兵护诈，对赌诈园区实施武装管控。
-4. 公安部部署侦办白家犯罪集团专案，公开悬赏通缉白所成、白应苍等人，并已抓获多名重要犯罪嫌疑人。
-5. 白家犯罪集团涉嫌诈骗、故意杀人等罪名，致我国公民6人死亡，涉诈案件3.1万余起，涉诈资金超106亿元，涉赌资金超180亿元，制造并贩卖毒品约11吨。
+1. 巴西是阿拉比卡咖啡和橙汁的主要生产国，分别占世界总量的近一半和全球出口量的80%。
+2. 美国是巴西的第二大贸易伙伴，且大量消费巴西的咖啡和橙汁。
+3. 美国计划从8月1日起对从巴西进口的所有商品征收50%关税。
+4. 这将导致美国市场上的巴西咖啡和橙汁价格大幅上涨。
+5. 美国国内橙子产量下降，使得美国对巴西橙汁的依赖程度更高。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[致我国公民6人死亡、制造并贩毒约11吨，缅北果敢白家犯罪集团专案侦破]]></title>
-        <link href="https://m.thepaper.cn/detail/31156540" />
-        <id>https://m.thepaper.cn/detail/31156540</id>
-        <updated>Fri, 11 Jul 2025 10:09:57 +0800</updated>
-        <summary type="html"><![CDATA[缅北诈骗，白家犯罪集团，跨境犯罪，中缅合作，打击犯罪
+        <title><![CDATA[特朗普：下周一将发布有关俄罗斯的“重大声明”]]></title>
+        <link href="https://www.yicai.com/news/102717543.html" />
+        <id>https://www.yicai.com/news/102717543.html</id>
+        <updated>Fri, 11 Jul 2025 09:57:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 普京, 乌克兰, 武器, 失望
 
 <br><br>总结:
-1. 公安部部署打击缅北涉我犯罪专项工作，中缅合作抓获大量中国籍涉诈嫌疑人。
-2. 缅北果敢白家犯罪集团被摧毁，该集团以白所成为首，长期利用其家族影响力建设赌诈园区，招揽犯罪团伙。
-3. 白家犯罪集团通过成立果敢娱乐管理委员会攫取非法利益，并以诈养兵，对赌诈园区实施武装管控。
-4. 公安机关侦办白家犯罪集团专案，悬赏通缉白所成等人，并成功将其移交我方。
-5. 白家犯罪集团涉嫌诈骗、故意杀人等罪名，涉及诈骗案件3.1万余起，涉诈资金超106亿元，涉赌资金超180亿元，制造并贩卖毒品约11吨，造成我国公民6人死亡。
+1. 特朗普表示对俄罗斯空袭乌克兰加剧感到失望，认为普京“口头客气但毫无实质”。
+2. 美国将向乌克兰输送更多武器，主要是防御性武器，以帮助乌克兰进行自卫。
+3. 特朗普将于下周一就俄罗斯问题发表“重大声明”。
+4. 俄罗斯方面对特朗普的言论表示“平静”，认为他以使用强硬言辞而闻名。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[车企为部分智驾事故兜底？专家提醒车主需关注场景和责任认定问题]]></title>
-        <link href="https://m.thepaper.cn/detail/31147792" />
-        <id>https://m.thepaper.cn/detail/31147792</id>
-        <updated>Fri, 11 Jul 2025 07:54:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 智能驾驶, 兜底, 智驾险, 责任认定, 数据共享
+        <title><![CDATA[北半球夏季提前进入“炙烤模式”，会带来哪些经济影响|树线图]]></title>
+        <link href="https://www.yicai.com/news/102716261.html" />
+        <id>https://www.yicai.com/news/102716261.html</id>
+        <updated>Fri, 11 Jul 2025 09:47:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 热浪, 热穹顶, 全球变暖, 极端天气, 早期预警
 
 <br><br>总结:
-1. 比亚迪等车企率先探索智能驾驶功能事故兜底，如智能泊车场景下的损失赔偿，无需保险流程，旨在增强用户信心。
-2. 小鹏汽车、鸿蒙智行等也推出了类似智驾权益，但通常有额度限制，且可能需要先使用车险理赔。
-3. 专家指出，这些“智驾险”并非真正的保险产品，而是车企主导的权益类产品，车企同时扮演销售者和理赔方的角色，可能存在责任认定争议。
-4. 责任认定是关键问题，包括智驾模式的启用状态判定权、事故场景范围的定义，可能导致消费者处于不利地位。
-5. 长期来看，需要智驾技术成熟、法规完善，以及车企与保险公司共享数据，才能推动真正的智驾保险产品发展，切实保障车主权益。
+1.  北半球遭遇热浪，与“热穹顶”效应有关，全球变暖放大了此效应，导致欧洲等地极端高温事件频率和强度增加。
+2.  全球变暖加速，2024年可能成为最热年份，海平面上升，冰川消融加速，海洋表面温度及热含量均创新高。
+3.  极端天气包括热浪、寒潮、干旱等，由全球变暖和气候系统内部因素共同作用导致，影响全球格局。
+4.  极端天气导致流离失所人数增加，粮食危机加剧，干旱范围扩大，并可能使今年全球经济增长放缓。
+5.  世界气象组织呼吁各国加强国际合作，建设全球早期预警体系，加强技术和资金合作，投资气候领域，应对全球气候挑战。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-05-30T03:32:37.586-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, Github注册时间, 免费容器, 长期免费使用, 应用部署<br>
+        <title><![CDATA[特朗普：对加拿大商品征收35%关税，对多数贸易伙伴征收15%或20%的关税，将向欧盟发函]]></title>
+        <link href="https://wallstreetcn.com/articles/3750871" />
+        <id>https://wallstreetcn.com/articles/3750871</id>
+        <updated>Fri, 11 Jul 2025 09:41:36 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 特朗普, 关税, 加拿大, 贸易伙伴, 俄罗斯
+
+<br><br>总结:
+1. 特朗普宣布自8月1日起对加拿大进口商品征收35%关税。
+2. 他计划对多数贸易伙伴征收15%或20%的统一关税。
+3. 欧盟和加拿大即将收到关税通知信函。
+4. 特朗普将于下周一就俄罗斯问题发表重要声明。
+5. 本周特朗普已向韩国、日本等多个国家发出了关税信函，并宣布将从8月1日起对所有进口到美国的铜征收50%的关税。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[创业板指、沪指双双涨逾1%，稀土永磁、大金融板块全线爆发]]></title>
+        <link href="https://www.yicai.com/news/102717505.html" />
+        <id>https://www.yicai.com/news/102717505.html</id>
+        <updated>Fri, 11 Jul 2025 09:38:49 +0800</updated>
+        <summary type="html"><![CDATA[稀土, 证券, 医药, 数字货币, 港股
+
+<br><br>总结:
+*   A股午盘三大指数集体上涨，其中创业板指、沪指涨幅均超1%。全市场超2800只个股上涨。
+
+*   盘面上，稀土永磁、大金融板块全线爆发，CRO、小金属板块涨幅居前，PCB、游戏板块走弱。
+
+*   多个概念板块活跃：数字货币概念、稳定币概念、钢铁行业、光伏概念等均有异动拉升或反复活跃。
+
+*   港股方面，医药股走强，“周杰伦概念股”巨星传奇拉升。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[比特币盘中升破116000美元大关，后市或面临阶段性调整？]]></title>
+        <link href="https://www.yicai.com/news/102717355.html" />
+        <id>https://www.yicai.com/news/102717355.html</id>
+        <updated>Fri, 11 Jul 2025 09:34:57 +0800</updated>
+        <summary type="html"><![CDATA[比特币, 历史新高, ETF, 特朗普, 机构投资
+
+<br><br>总结:
+1.  比特币周四盘中突破116000美元，创历史新高，年初至今涨幅超20%。
+2.  美国政策支持（特朗普政府设立加密货币储备、任命支持者、家族企业计划推出加密货币ETF）是推动因素之一。
+3.  机构投资者通过现货比特币ETF大量涌入，相关产品已吸引超过500亿美元资金流入，贝莱德IBIT基金规模增长迅速。
+4.  分析人士提醒需警惕风险，包括价格高波动性、与股市关联性、宏观经济变化和政策支持减弱可能带来的压力。
+5.  市场关注宏观环境与贸易局势走向，美联储鸽派信号和美元走弱利好比特币，同时美国股市也创新高。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[6000年前最初的上海是什么样]]></title>
+        <link href="https://www.yicai.com/news/102717379.html" />
+        <id>https://www.yicai.com/news/102717379.html</id>
+        <updated>Fri, 11 Jul 2025 09:33:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 上海史前文化, 考古学文化, 崧泽文化, 良渚文化, 先民生活
+
+<br><br>总结:
+1.  上海史前文化经历了马家浜文化、崧泽文化、良渚文化、广富林文化和马桥文化，与长江三角洲其他区域同步发展。
+2.  崧泽文化、广富林文化和马桥文化以上海的考古发现命名，其中崧泽文化和良渚文化对长江下游地区文化一体化奠定了基础。
+3.  考古研究表明，上海先民属于蒙古人种，身高与新石器时期人群相似，可能存在拔牙、划船、跪坐等习俗，并可能患有颈椎病和结核病。
+4.  当时的上海生态环境多样，有湿地、草原、树林，生活着麋鹿、大象、老虎等多种动物。
+5.  上海先民以稻作农业为主，辅以采集菱角、芡实等，食用鹿科动物，并驯养家猪，还利用动物骨骼制作工具。
+6.  上海先民具有开拓精神和创新能力，体现在石犁的发明和陶甗的创新设计上，并在陶器、玉器等手工业生产中展现了高超的审美和工艺水平，上海是中华文明5000多年历史的实证。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[被边缘化的贫穷白人和美国隐匿的阶级问题｜荐书]]></title>
+        <link href="https://www.yicai.com/news/102717380.html" />
+        <id>https://www.yicai.com/news/102717380.html</id>
+        <updated>Fri, 11 Jul 2025 09:33:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词：穷白垃圾, 阶级问题, 特朗普, 美国历史, 中国文明
+
+<br><br>总结:
+1.  文章介绍了《穷白垃圾》一书，该书揭示了美国底层白人（“穷白垃圾”）被长期忽视的社会生活史，指出了美国社会存在的阶级问题。
+
+2.  特朗普利用“穷白垃圾”群体的困境和诉求，通过MAGA口号赢得了支持。
+
+3.  《穷白垃圾》一书追溯了底层白人400年的历史，揭示了美国社会长期存在的阶级对立，并认为这是导致美国社会撕裂和动荡的根源。
+
+4.  文章还介绍了《中国之诞生》一书，该书是西方第一部利用考古发现对商周文明进行综合性论述的著作，揭示了早期中国文明的形成与发展过程。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[从“垮掉的一代”到“在路上”，凯鲁亚克的反叛和自我寻找]]></title>
+        <link href="https://www.yicai.com/news/102717381.html" />
+        <id>https://www.yicai.com/news/102717381.html</id>
+        <updated>Fri, 11 Jul 2025 09:32:47 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 凯鲁亚克, 垮掉的一代, 文艺青年, 较高收入群体, 真诚
+
+<br><br>总结:
+1.  凯鲁亚克的剧本《垮掉的一代》虽未获得当时的认可，但它命名了一代人及其生活。他的戏剧观念是让人们像在现实生活中一样说话，但真正的戏剧并非如此。
+2.  他的文学手法是自然主义，描写特定时代迷惘、混乱的较高收入群体的反叛生活，缺乏创新，本质上是“直白的不真实”。
+3.  如今他的作品更多是帮助特定读者群发泄热情和不满，尤其是那些想成为较高收入群体的文艺青年。
+4.  他本质上是一个现代巫师，提供自由的幻觉，他的作品带有时代局限性，脱离时代背景，意义大打折扣。
+5.  凯鲁亚克与格瓦拉的不同在于，凯鲁亚克是美式个人主义者，关心自我救赎，而格瓦拉更具有世界意义。他的作品在中国走红，也反映了时代背景，但更多时候只是一种迷魂药，供人自欺。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普最后一刻“信口开河”，越南对关税协议“惊讶、失望和愤怒”？]]></title>
+        <link href="https://www.huxiu.com/article/4566042.html" />
+        <id>https://www.huxiu.com/article/4566042.html</id>
+        <updated>Fri, 11 Jul 2025 09:31:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：越南，美国，关税，贸易协议，特朗普
+
+<br><br>总结:
+1. 越南与美国原本就11%左右的关税税率达成初步共识，但特朗普在最后一刻提高至20%，导致越南至今未正式接受。
+2. 双方均未公布正式协议文件，协议细节存疑，引发对协议真实性的质疑。
+3. 特朗普此举削弱了其他国家对美国贸易谈判可信度的信心，其他国家或将以此事件为鉴，对与美国谈判持谨慎态度。
+4. 该事件可能对美越关系造成长期损害，影响越南对美国作为可靠伙伴的信任。
+5. 美越贸易额巨大，越南是美国第六大进口来源国，关税变动可能对双边贸易关系产生重大影响。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[阿里终于想通了]]></title>
+        <link href="https://www.36kr.com/p/3373158175332100" />
+        <id>https://www.36kr.com/p/3373158175332100</id>
+        <updated>Fri, 11 Jul 2025 07:35:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：外卖大战, 美团, 阿里, 京东, 即时零售
+
+<br><br>总结:
+1. 高盛预计外卖大战将导致阿里、京东亏损严重，美团利润减少，行业竞争激烈。
+2. 阿里整合本地生活业务，淘宝闪购走到台前，试图通过“集中目标，统一作战”来改变局面，此前饿了么曾模仿美团模式但效果不佳。
+3. 美团通过与大众点评的合并获得流量优势，并构建了本地生活业态的雏形，即“能买到的都能送”的即时零售，实现规模和利润的平衡，这与阿里的单兵作战模式不同。
+4. 京东入局外卖，意在通过外卖用户带动电商产品销售，形成流量闭环，阿里可能也在借鉴这种逻辑重新布局。
+5. 阿里本地生活的问题在于缺乏统一指挥和集权，多次更换负责人，而美团和京东分别由核心人物掌控，目前阿里由淘宝主导本地生活，希望能解决指挥问题。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-06-07T01:59:26.947-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS、Docker、UUID<br>
+爪云注册链接提供了免费域名注册链接，通过安装Docker获取root权限，可以在VPS上部署临时或固定的隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名，然后通过相应的命令来实现。相关docker命令可以用于管理已运行的docker容器。相关视频教程提供了爪云的使用教程、免费域名注册教程以及一分钟部署科学上网节点的教程。总的来说，这篇文章详细介绍了如何使用爪云进行内网穿透，并提供了相应的工具和教程。 <br><br>总结: 该文章介绍了使用爪云进行内网穿透的步骤，包括注册爪云、获取免费域名、在VPS上部署Docker等。同时提供了临时和固定隧道模式的操作方法，以及相关docker命令和视频教程。整体内容详细，适合初学者理解和实践。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg免费域名、挂了、新情况、解读、注册地址、已注册域名、dpdns.org域名托管到Cloudflare、临时托管到FreeDNS、注册新域名
+
+总结:<br><br>文章介绍了us.kg免费域名的情况，探讨了已注册域名的状态和新域名能否托管到Cloudflare的可能性。同时提到了临时托管到FreeDNS的解决方法，还说明了现在是否可以注册新域名。对比两种域名的区别，给出了详细分析和解读。文章通过时间线的方式清晰地呈现了相关情况，并提供了不同注册地址以及托管服务的信息。文章内容涵盖全面，对us.kg域名的情况有较为深入的探讨。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Github项目、Cloudflare、Windterm、免费域名、教程<br>
 <br>
-搭建免费容器Claw Cloud Run并享受每月5美元赠金的方法是查看Github注册时间，注册时间需大于180天。在浏览器打开链接https://api.github.com/users/XXX（将XXX替换为你的Github用户名），倒数第二行的“created at”后面显示的日期即为注册时间。推荐两款应用部署是Memos（轻笔记应用）和AList（网盘挂载工具）。使用Claw Cloud Run，可以实现长期免费使用并搭建各种Docker应用，方便在应用商店一键自动部署或手动部署。视频中详细介绍了具体操作方法。 <br><br>总结: Claw Cloud Run提供免费容器服务，需查看Github注册时间来获取每月5美元赠金，搭建应用方便实现长期免费使用。]]></summary>
+登录Sing-box-yg项目的Cloudflare主页，下载Windterm软件，获取免费域名教程。登录指定域名进入系统，搭建科学上网节点，并设置Cloudflare固定隧道和CDN回源。利用多功能主页实现网页保活功能，并通过Cloudflare远程保活实现定时触发事件。观看Youtube视频获取详细教程。整体流程包括账号注册登录、节点搭建、固定隧道、CDN回源、保活功能设置等。总结: 本教程介绍了如何使用Sing-box-yg项目结合Cloudflare和Windterm搭建科学上网节点，并实现网页保活及远程保活等功能。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM实例、科学上网<br>
-<br>
-注册谷歌云账号并验证后，可以免费创建VPS实例，选择合适地区和配置，设置防火墙，通过SSH登录进行科学上网，注意流量免费政策和设置备份方式避免产生额外费用。建议使用Hysteria 2节点进行科学上网，避免选择特殊CDN加速以免产生费用。通过甬哥一键脚本等方式搭建节点简单快捷。详细步骤和注意事项可以在Youtube视频中找到。<br><br>总结: 按照指南注册、创建、设置VPS并科学上网需留意流量政策和备份方式，使用Hysteria 2节点设置节点后可畅通无阻浏览互联网。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名, 注册, KYC验证, Cloudflare, 视频教程
+
+US.KG域名现在受限，使用 https://dash.domain.digitalplat.org/ 完成注册和KYC验证，待恢复后托管到Cloudflare。视频介绍了注册账号、验证邮箱、KYC验证、注册域名、托管到Cloudflare等步骤。Cloudflare提供免费域名续订和托管服务，但免费域名有一些缺点需要注意。详细操作可参考视频教程。<br><br>总结: US.KG域名受限，使用https://dash.domain.digitalplat.org/注册和KYC验证，托管至Cloudflare。视频详细介绍了注册、验证、KYC、托管步骤以及免费域名的优缺点。Cloudflare提供免费域名服务，但需注意免费域名的限制。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Github、Cloudflare、dpdns.org、us.kg、SSL证书
-<br>
-注册地址为dpdns.org或使用美国地址生成器，GitHub仓库DigitalPlat提供详细教程，Cloudflare提供Pages服务与SSL证书支持。dpdns.org免费，us.kg收费，新用户可获得1个免费域名（通过Github加星后增加至2个），老用户可获得3个（通过Github加星后增加至4个），us.kg域名不消耗免费额度，续期永久免费。详细操作方法可在Youtube视频中查看。总结: 提供免费与收费域名注册服务，注册与续期操作简便，GitHub提供培训教程，Cloudflare提供Pages服务和SSL证书支持。]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, Deepseek网页端, Deepseek APP, Deepseek API, Perplexity.
+Deepseek是一款全新的搜索工具，可以通过网页端、APP或API进行使用。用户可以使用Deepseek进行沉浸式翻译、Chatbox、欧路词典等应用。此外，Deepseek还支持本地部署，用户可以下载Ollama并在命令提示符输入指令使用。Deepseek的模型选择可以参考硬件需求。总结：Deepseek是一个多功能的搜索工具，用户可以通过不同平台（网页端、APP、API）使用，也可以选择本地部署。用户可以享受深度搜索带来的便利和快捷体验。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、价格、购买过程、ChatGPT<br>
-<br>
-总结:<br>本视频主要介绍了HostUNO代理服务的体验情况。官方态度友好，价格适中，购买流程简单。在搭建代理节点时稳定性和速度表现不错。需要注意的是使用ChatGPT时可能出现降智问题，续费操作也很便捷。整体来说，HostUNO值得购买提供稳定性和快速的代理服务。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码<br>
-<br>
-注册US.KG域名遇到问题，可用免费域名注册并托管到Cloudflare平台，享受一年免费服务。具体步骤为：使用身份信息生成器注册账号，填写优惠码(newuser)注册域名，然后登录Cloudflare添加域名并将分配的两个名称服务器填入域名管理界面。视频教程详细介绍了整个流程，帮助用户顺利完成注册和托管。通过此方法，用户可以顺利获取一个免费的域名，并在Cloudflare平台享受一年的免费服务。如果想要注册US.KG域名出现问题，这个方法是很好的替代选择。 <br><br>总结: 注册免费域名并托管到Cloudflare，享受一年免费服务。]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2024-12-20T10:00:29.846-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
