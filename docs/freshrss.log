@@ -1,65 +1,22 @@
 ------------------------------------------------------
-Started: 2025-07-11 12:39:43.617275
-Existing_entries: 18
+Started: 2025-07-11 14:19:39.576912
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2586
+Token length: 678
 Summarized using gemini model: gemini-2.0-flash
-Append: [家电龙头卡位人形机器人赛道，抢“入场券”还需经历长跑](https://www.yicai.com/news/102718853.html)
-Token length: 2476
-Summarized using gemini model: gemini-2.0-flash
-Append: [三星失速、SK海力士快跑，存储厂商激战HBM4，吹响定制化号角](https://www.yicai.com/news/102718788.html)
-Token length: 2994
-Summarized using gemini model: gemini-2.0-flash
-Append: [日本人有没有觉得，日本在美国那里很没有面子？](https://www.huxiu.com/article/4567155.html)
-Token length: 892
-Summarized using gemini model: gemini-2.0-flash
-Append: [多晶硅期货三周飙涨近30%，硅料报价跳升却“有价无市”](https://www.yicai.com/news/102718822.html)
-Token length: 3375
-Summarized using gemini model: gemini-2.0-flash
-Append: [实探智元机器人落地工厂：三小时搬800箱，能否打通最后一百米？](https://www.yicai.com/news/102718732.html)
+Append: [滚动更新丨美股三大指数集体下跌 富途控股涨超1.5%](https://www.yicai.com/news/102719147.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [特朗普“对等关税2.0”开战，美股开盘三大指数齐跌，现货黄金日内涨1%，比特币涨创新高](https://wallstreetcn.com/articles/3750895)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [特朗普第二波征税函剑指“摇摆大国”？](https://www.huxiu.com/article/4567909.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [工信部发文支持企业在重点场景应用通用大模型、行业大模型和智能体](https://www.yicai.com/news/102719052.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [Manus官网显示“在你所在地区不可用”，多个社交账号清空内容](https://m.thepaper.cn/detail/31158795)
 Token length: 1186
 Summarized using gemini model: gemini-2.0-flash
-Append: [沪深交易所发布指引，北向资金被纳入程序化交易报告范畴](https://www.yicai.com/news/102718819.html)
-Token length: 343
-Summarized using gemini model: gemini-2.0-flash
-Append: [王毅会见美国国务卿鲁比奥](https://www.yicai.com/news/102718800.html)
-Token length: 849
-Summarized using gemini model: gemini-2.0-flash
-Append: [旁白｜看守所在押人员死亡事件里不容忽视的细节](https://m.thepaper.cn/detail/31157902)
-Token length: 1127
-Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜村民捞手机索要高额“辛苦费”，景区不能不管](https://m.thepaper.cn/detail/31157473)
-Token length: 76
-Summarized using gemini model: gemini-2.0-flash
-Append: [凶手不服死刑提起上诉，湖南湘潭大学宿舍投毒案二审今日开庭](https://m.thepaper.cn/detail/31157507)
-Token length: 2798
-Summarized using gemini model: gemini-2.0-flash
-Append: [手机厂商更新惹争议：老用户一夜成牛夫人，都是机海战术给逼的？](https://www.36kr.com/p/3373991898585475)
-Token length: 3345
-Summarized using gemini model: gemini-2.0-flash
-Append: [19.39万提大型SUV，乐道L90预售，大刀挥向理想L9](https://www.36kr.com/p/3373940873681281)
-Token length: 2821
-Summarized using gemini model: gemini-2.0-flash
-Append: [“养老贷”火热背后：或存多重风险，监管空白待补](https://www.yicai.com/news/102716158.html)
-Token length: 1771
-Summarized using gemini model: gemini-2.0-flash
-Append: [创业板综指迎升级：引入风险警示与ESG剔除机制，7家基金抢滩布局](https://www.yicai.com/news/102718543.html)
-Token length: 6480
-Summarized using gemini model: gemini-2.0-flash
-Append: [7月11日这些公告有看头](https://www.yicai.com/news/102718734.html)
-Token length: 2292
-Summarized using gemini model: gemini-2.0-flash
-Append: [阿迪达斯请“地表最强17岁球员”来中国，各大运动品牌开启“校园行”](https://www.yicai.com/news/102718683.html)
-Token length: 1554
-Summarized using gemini model: gemini-2.0-flash
-Append: [对美国贸易逆差就能躲过关税战吗？巴西的答案是否定的，卢拉批特朗普关税信"内容失实"](https://www.yicai.com/news/102718658.html)
-Token length: 2791
-Summarized using gemini model: gemini-2.0-flash
-Append: [义乌稳定币支付的百亿美元“传说”？外贸人对此连连摇头](https://www.yicai.com/news/102716600.html)
+Append: [石破茂：如果美国觉得日本既然依赖就要言听计从，那可不能让人这么小瞧](https://wallstreetcn.com/articles/3750876)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [机构今日抛售这13股，买入大智慧1.51亿元](https://www.yicai.com/news/102718661.html)
-Token length: 2079
-Summarized using gemini model: gemini-2.0-flash
-Append: [家族信托被“击穿”，还是“乌龙”造成的恐慌？](https://www.yicai.com/news/102718592.html)
-append_entries: 20
-Finish: 2025-07-11 12:41:09.793923
+Append: [如何识别SQL Server中需要添加索引的查询](https://www.cnblogs.com/LuoCore/p/18972388)
+append_entries: 7
+Finish: 2025-07-11 14:19:53.147363
