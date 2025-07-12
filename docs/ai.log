@@ -1,110 +1,28 @@
 ------------------------------------------------------
-Started: 2025-07-12 12:38:40.615975
-Existing_entries: 12
+Started: 2025-07-12 14:18:17.757148
+Existing_entries: 6
 Fetching from https://7techlife.blogspot.com/atom.xml
-Token length: 778
+Token length: 765
 Summarized using openai model: gpt-3.5-turbo
-Append: [永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程](https://7techlife.blogspot.com/2025/05/3.html)
-Summarization failed for 'ai' (openai/gpt-3.5-turbo): GPT summary failed with model gpt-3.5-turbo: <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script type="e78818667e3352dce86bde8b-text/javascript">
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> chatanywhere.cn</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">95e09a65a960ff5a</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.162.243.169</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script type="e78818667e3352dce86bde8b-text/javascript">(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script type="e78818667e3352dce86bde8b-text/javascript">
-    window._cf_translation = {};
-    
-    
-  </script>
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="e78818667e3352dce86bde8b-|49" defer></script></body>
-</html>
-Append: [Claw Cloud Run 免费容器 部署Docker应用](https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html)
-Token length: 263
+Append: [Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透](https://7techlife.blogspot.com/2025/06/cloudflarevps.html)
+Token length: 260
 Summarized using openai model: gpt-3.5-turbo
-Append: [DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名](https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html)
-Token length: 242
+Append: [us.kg免费域名真的挂了吗？新情况解读](https://7techlife.blogspot.com/2025/03/uskg.html)
+Token length: 755
 Summarized using openai model: gpt-3.5-turbo
-Append: [Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享](https://7techlife.blogspot.com/2025/04/serv00-hostuno.html)
-Token length: 267
+Append: [Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源](https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html)
+Token length: 508
 Summarized using openai model: gpt-3.5-turbo
-Append: [US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用](https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html)
-Append: [Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索](https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html)
-append_entries: 6
-Finish: 2025-07-12 12:39:33.008950
+Append: [US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare](https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html)
+Token length: 358
+Summarized using openai model: gpt-3.5-turbo
+Append: [对Deepseek的看法，并介绍使用方法 | 最简单的本地部署](https://7techlife.blogspot.com/2025/02/deepseek.html)
+Append: [Serv00搭建代理节点完整版 | Serv00-Play](https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html)
+Append: [如何解决ChatGPT降智问题？](https://7techlife.blogspot.com/2025/01/chatgpt.html)
+Append: [Serv00另类注册方法，小黄鱼过程分享，100%成功](https://7techlife.blogspot.com/2025/01/serv00100.html)
+Append: [让Windows也可以像Mac那样优雅使用ChatGPT](https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html)
+Append: [ChatGPT搜索高效使用技巧，一键直达，更加合理](https://7techlife.blogspot.com/2024/12/chatgpt.html)
+Append: [Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活](https://7techlife.blogspot.com/2024/12/serv00ip.html)
+Append: [一个IPTV教程，带你免费实现看电视自由](https://7techlife.blogspot.com/2024/12/iptv.html)
+append_entries: 12
+Finish: 2025-07-12 14:18:32.028975
