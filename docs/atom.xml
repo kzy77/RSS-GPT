@@ -2,308 +2,393 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-12T10:20:36Z</updated>
+    <updated>2025-07-12T12:39:33Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[【定时任务核心】究竟是谁在负责盯着时间，并在恰当时机触发任务？]]></title>
-        <link href="https://www.cnblogs.com/sun-10387834/p/18974791" />
-        <id>https://www.cnblogs.com/sun-10387834/p/18974791</id>
-        <updated>Thu, 10 Jul 2025 08:43:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：定时任务，调度线程，优先队列，延迟队列，外部触发
+        <title><![CDATA[阳光城总部大厦“三拍三流”，单价已降至3万/平方米]]></title>
+        <link href="https://www.yicai.com/news/102720026.html" />
+        <id>https://www.yicai.com/news/102720026.html</id>
+        <updated>Sat, 12 Jul 2025 19:50:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 阳光城, 滨江国际广场, 流拍, 债务, 拍卖
 
 <br><br>总结:
-1.  定时任务系统的核心在于时间触发机制，即“守夜人”角色。
-2.  模式一：专用调度线程，基于优先队列或延迟队列，线程负责检查时间和触发任务。
-3.  模式二：操作系统定时器，利用操作系统提供的定时功能，到点触发回调函数执行任务。
-4.  模式三：外部触发，依赖外部系统（如Cron）触发，系统接收触发信号后执行任务。
-5.  不同的实现模式影响系统的效率和精度，选择取决于具体应用场景和需求。
+1. 阳光城总部大厦“滨江国际广场1号楼”位于上海杨浦区黄浦江畔，地理位置优越。
+2. 该写字楼建筑面积4.77万平方米，土地面积1.86万平方米。
+3. 该大厦因阳光城债务问题被华泰证券资产管理公司拍卖，所涉债权初始金额为9.33亿元。
+4. 此次是该大厦第三次拍卖，起拍价已降至14.57亿元，相当于首次拍卖的七折。
+5. 尽管大幅降价，但此次拍卖依然流拍，无人报名或出价。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普关税风云第二季下，如何研判全球贸易中的逆风｜全球贸易观察]]></title>
-        <link href="https://www.yicai.com/news/102719991.html" />
-        <id>https://www.yicai.com/news/102719991.html</id>
-        <updated>Sat, 12 Jul 2025 16:35:45 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 全球贸易, 贸易增长, 关税, 不确定性, 经济放缓
+        <title><![CDATA[研究显示：中低收入国家约半数儿童血铅水平超标！智商损失很难逆转]]></title>
+        <link href="https://www.yicai.com/news/102720019.html" />
+        <id>https://www.yicai.com/news/102720019.html</id>
+        <updated>Sat, 12 Jul 2025 19:49:23 +0800</updated>
+        <summary type="html"><![CDATA[血铅, 儿童, 智商, 暴露源, 中低收入国家
 
 <br><br>总结:
-1.  全球贸易在2025年上半年保持强劲增长，但下半年面临阻力增大和不确定性。
-2.  新出口订单指数跌破基准线，预示贸易增长放缓。
-3.  贸易政策不确定性，关税增加及地缘政治紧张是主要阻力。
-4.  全球贸易增速预计将从2024年的3.4%放慢至2025年的1.8%左右。
-5.  贸易限制措施可能导致贸易增长长期低迷，投资疲软和生产率提升放慢。
+*   研究表明，中低收入国家儿童血铅水平普遍高于高收入国家，且半数儿童血铅超标。
+*   即使极低水平的血铅也可能增加认知障碍等风险，造成智商下降和过早死亡。
+*   铅暴露源包括工业污染、腐烂油漆、传统药物等，中低收入国家由于监管不严，风险尤为突出。
+*   流行病学数据不全可能低估部分铅源的健康影响，未来研究应关注特定污染源。
+*   应采取全面铅风险管理，包括立法限制、市场监测和社区干预，并针对不同铅源采取差异化策略。
+*   儿童对铅的吸收强、排泄弱，更易铅中毒，且铅的神经毒性对智商影响不可逆，因此预防至关重要。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[1.42亿泰铢！泰方获得霸王茶姬泰国公司51%股权]]></title>
-        <link href="https://www.yicai.com/news/102719986.html" />
-        <id>https://www.yicai.com/news/102719986.html</id>
-        <updated>Sat, 12 Jul 2025 16:34:17 +0800</updated>
-        <summary type="html"><![CDATA[霸王茶姬, 东南亚, 合资, 泰国, 风险
+        <title><![CDATA[陆家嘴金融沙龙：构建赋能中早期科技企业的金融服务新生态]]></title>
+        <link href="https://www.yicai.com/video/102720018.html" />
+        <id>https://www.yicai.com/video/102720018.html</id>
+        <updated>Sat, 12 Jul 2025 18:20:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 科技创新, 融资困境, 金融服务, 陆家嘴金融沙龙, 机制改革
 
 <br><br>总结:
-1. 霸王茶姬泰国公司获泰国总统饮料有限公司投资，注册资本增加，泰方控股51%。
-2. 投资方背景强大，涉及食品、电商、地产三大领域。
-3. 这并非霸王茶姬首次在东南亚尝试合资模式，此前已与马来西亚联大集团合作。
-4. 合作旨在借助泰方资源优势，加速市场扩张。
-5. 合资模式虽可快速提升市场份额，但长期来看，供应链自主以及战略决策可能存在潜在风险。
+*   科技创新是经济发展的核心动力。
+*   科技企业早期发展面临融资难题，传统金融服务难以匹配其长周期、高风险特点。
+*   优质投资服务短缺，阻碍了科技企业的持续发展。
+*   陆家嘴金融沙龙探讨通过机制改革、融资模式转换和金融产品创新，构建多层次金融服务体系。
+*   目的是引导更多金融资源支持科技创新领域。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[外交部发言人就菲律宾发表关于 “南海仲裁案裁决”出台9年声明答记者问]]></title>
-        <link href="https://m.thepaper.cn/detail/31166753" />
-        <id>https://m.thepaper.cn/detail/31166753</id>
-        <updated>Sat, 12 Jul 2025 15:59:01 +0800</updated>
-        <summary type="html"><![CDATA[南海仲裁案, 菲律宾, 国际法, 《联合国海洋法公约》, 南海问题
+        <title><![CDATA[AI能否解决黎曼猜想等未知难题？诺奖得主这样说]]></title>
+        <link href="https://www.yicai.com/news/102720010.html" />
+        <id>https://www.yicai.com/news/102720010.html</id>
+        <updated>Sat, 12 Jul 2025 18:08:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 人工智能, 戴维·格罗斯, 物理学, 算力, 理论研究
 
 <br><br>总结:
-1. 中国认为南海仲裁案裁决非法无效，不接受、不承认该裁决及其衍生主张，中国的南海权益不受影响。
-2. 南海仲裁案违反国际法基本原则，菲律宾单方面提起仲裁违背共识和国际法原则。
-3. 南海仲裁案违反《联合国海洋法公约》，仲裁庭越权审理，损害了《公约》的完整性和权威性。
-4. 南海仲裁案违背南海基本事实，裁决在事实认定和法律适用上存在重大缺陷，错误明显。
-5. 中国致力于通过谈判解决南海争议，奉劝有关国家停止利用非法裁决进行挑衅。
+1. 戴维·格罗斯认为当前AI大模型被高估，只是模仿人类，缺乏验证能力，无法取代人类的聪明才智和创造力。
+2. 他明确指出2024年诺贝尔物理学奖并非颁给AI，而是表彰约翰·霍普菲尔德将物理学方法应用于神经科学的研究，AI只是工具。
+3. 算力发展极大地推动了理论物理研究，尤其是在QCD理论方面，但算法与算力的发展离不开人类的智力。
+4. 他强调科研的关键在于享受探索未知的乐趣，保持好奇心，热爱科研过程中的艰辛。
+5. 格罗斯教授认为物理学的定义是物理学家所从事的工作，只要采用物理方法研究自然现象，就属于物理学范畴。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[谈的再好，懂王随时变卦！越南吃的亏，全世界都怕]]></title>
-        <link href="https://wallstreetcn.com/articles/3750952" />
-        <id>https://wallstreetcn.com/articles/3750952</id>
-        <updated>Sat, 12 Jul 2025 13:59:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普, 贸易谈判, 关税, 不确定性, 可信度
+        <title><![CDATA[警惕汽车“山寨风”再起|有点逸思]]></title>
+        <link href="https://www.yicai.com/news/102720005.html" />
+        <id>https://www.yicai.com/news/102720005.html</id>
+        <updated>Sat, 12 Jul 2025 17:37:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 山寨, 平替, 原创, 销量, 风险
 
 <br><br>总结:
-1. 特朗普政府的贸易谈判风格极具不确定性，即使达成初步协议，也可能被特朗普临时推翻，越南的遭遇就是一个典型案例。
-2. 多国政策制定者对与美国谈判的可信度表示担忧，认为与美国的谈判就像进入迷宫，最终回到原点。
-3. 特朗普的不可预测性甚至影响到盟友，例如加拿大因数字服务税问题与美国谈判中断，并收到关税信函。
-4. 特朗普将关税与巴西的司法审判挂钩，引发巴西的反制。
-5. 这种缺乏耐心和随意性的谈判模式正在严重损害美国贸易谈判的可信度，并对全球经济造成负面影响。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[10分4板5助3帽1抢断！夏联首秀杨瀚森填满数据单]]></title>
-        <link href="https://m.thepaper.cn/detail/31165858" />
-        <id>https://m.thepaper.cn/detail/31165858</id>
-        <updated>Sat, 12 Jul 2025 13:11:55 +0800</updated>
-        <summary type="html"><![CDATA[杨瀚森, NBA, 开拓者, 夏季联赛, 首秀
-
-<br><br>总结:
-1. 杨瀚森在NBA夏季联赛首秀中表现出色，出场23分钟，贡献10分4板5助攻3盖帽1抢断，正负值+19，帮助开拓者大胜勇士。
-2. 他的传球能力突出，多次送出妙传，被队友和记者称赞，展现了“指挥交通”的能力。
-3. 他在防守端也展现了能力，送出盖帽和抢断。
-4. 他在比赛中表现得越来越适应，并在下半场更加自如，多次送出助攻。
-5. 开拓者队对杨瀚森寄予厚望，为其腾出内线空间甚至买断了状元中锋艾顿。
+1.  中国汽车市场出现“豪车平替”现象，小米等品牌车型因外观与保时捷、法拉利等相似而热销，反映了车企追求销量的捷径。<br><br>
+2.  原创设计投入巨大但未必成功，而“平替”车型销量可观，导致部分车企倾向模仿。<br><br>
+3.  法律上，外观神似难以界定为侵权，历史上有车企抄袭外观但最终胜诉或未被追究，外观专利也存在保护期限制。<br><br>
+4.  虽然“山寨”是汽车工业发展初期常见现象，但中国汽车已摆脱抄袭阶段，正努力创新。<br><br>
+5.  长期来看，纯模仿难以为继，最终会被市场淘汰，自主品牌应避免“山寨”标签，坚持原创，实现可持续发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[周末不谈了！欧盟“静待”特朗普的关税函]]></title>
-        <link href="https://wallstreetcn.com/articles/3750949" />
-        <id>https://wallstreetcn.com/articles/3750949</id>
-        <updated>Sat, 12 Jul 2025 12:12:43 +0800</updated>
-        <summary type="html"><![CDATA[特朗普关税，欧盟，贸易协议，不可预测性，市场反应
+        <title><![CDATA[“陪跑”变黑马，NBA首秀结束的杨瀚森会是下一个姚明吗？]]></title>
+        <link href="https://m.thepaper.cn/detail/31121075" />
+        <id>https://m.thepaper.cn/detail/31121075</id>
+        <updated>Sat, 12 Jul 2025 16:04:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词：杨瀚森, 开拓者, NBA选秀, 中国球员, 策应
 
 <br><br>总结:
-1. 欧盟正紧张应对特朗普政府可能的新一轮关税威胁，面临作为美国最大贸易伙伴的严峻挑战。
-2. 欧盟希望与美国达成贸易协议，但担忧特朗普的不可预测性，欧盟内部在应对策略上也存在分歧。
-3. 特朗普可能对所有未加征关税的贸易伙伴征收统一关税，并已向多个国家发出关税信函。
-4. 关税不确定性已导致企业改变供应链，减少进口，并推迟订单，市场也因此下跌，避险需求增加。
-5. 欧盟面临是否延长价值210亿欧元对美进口关税的暂停期限的决定，并担忧特朗普可能改变主意。
+1. 杨瀚森在开拓者夏季联赛首秀中表现出色，得到10分4篮板5助攻1抢断3盖帽，为NBA生涯开了个好头。
+2. 他在NBA选秀中被开拓者以16号签选中，成为继姚明和易建联后第三位在首轮被选中的中国球员。
+3. 选秀前，杨瀚森并不被看好，但通过联合试训和对抗赛中的出色表现赢得了多支球队的青睐，尤其展现了优秀的身体条件和策应能力。
+4. 在选秀前夕，他横跨美国试训14支球队，创下中国球员纪录。
+5. 杨瀚森已与开拓者签下4年2139万美元的新秀合同，前两年薪资有保障，后两年取决于表现，技术流中锋的定位对他而言既是机遇也是挑战。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[动力电池“三国杀”：中企提前锁定胜局，日韩厂商集体失守]]></title>
-        <link href="https://www.36kr.com/p/3374662765746564" />
-        <id>https://www.36kr.com/p/3374662765746564</id>
-        <updated>Sat, 12 Jul 2025 09:21:21 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 动力电池，装车量，中国企业，日韩企业，市场份额
+        <title><![CDATA[永不塌房！AI歌手Yuri火爆全网，上限是初音OR周杰伦？]]></title>
+        <link href="https://www.36kr.com/p/3354805616236673" />
+        <id>https://www.36kr.com/p/3354805616236673</id>
+        <updated>Sat, 12 Jul 2025 14:00:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI歌手，Yuri，商业化，虚拟偶像，音乐质量
 
 <br><br>总结:
-1. 2025年1-5月全球动力电池装车量同比增长38.5%，达401.3GWh，中国企业占据主导地位。
-2. 宁德时代蝉联榜首，比亚迪紧随其后，中国企业整体市场份额持续提升，达到68.4%。
-3. 中国二线厂商如中创新航、国轩高科、亿纬锂能和蜂巢能源装车量显著增长，冲击日韩厂商市场地位。
-4. LG新能源、SK On、三星SDI、松下等日韩厂商市场份额普遍下滑，主要受电动汽车客户销量下滑影响。
-5. 中国厂商崛起受益于电动汽车客户群体和车型，以及技术创新和全球化布局的加速，但需警惕产品安全性和地缘政治风险。
+1.  AI歌手Yuri凭借首支AI音乐MV《SURREAL》迅速走红，全网播放量突破700万，引发了人们对AI歌手的关注。
+2.  Yuri的成功得益于AI大模型技术的进步，使得人物形象更加逼真，音乐质量也得到了用户认可，同时在多平台发布也扩大了其影响力。
+3.  AI歌手的商业化模式可以借鉴初音未来、洛天依等虚拟偶像的成功经验，通过售卖专辑、手办、广告合作、演唱会等方式实现。
+4.  AI歌手面临的挑战是IP塑造和作品质量的提升，只有用心打磨歌曲和MV，才能在激烈的竞争中脱颖而出。
+5.  AI数字人市场规模正在快速增长，预示着AI明星将会在各个领域涌现，而AI歌手能否开辟出新赛道，取决于其背后的企业和工作室能否创作出更多高质量的作品。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[王毅就“南海仲裁案”阐明中方立场]]></title>
-        <link href="https://m.thepaper.cn/detail/31160714" />
-        <id>https://m.thepaper.cn/detail/31160714</id>
-        <updated>Fri, 11 Jul 2025 22:10:30 +0800</updated>
-        <summary type="html"><![CDATA[南海仲裁案, 王毅, 菲律宾, 《联合国海洋法公约》, 南海行为准则
+        <title><![CDATA[外卖补贴大战周末重启：集中在咖啡茶饮品牌，已有门店接近爆单]]></title>
+        <link href="https://wallstreetcn.com/articles/3750953" />
+        <id>https://wallstreetcn.com/articles/3750953</id>
+        <updated>Sat, 12 Jul 2025 13:32:56 +0800</updated>
+        <summary type="html"><![CDATA[外卖补贴，淘宝闪购，美团外卖，咖啡茶饮，订单增长
 
 <br><br>总结:
-1. 王毅外长在东亚合作年度系列外长会上阐明中国在南海仲裁案上的立场，指出菲律宾单方面提起仲裁案违背了事先交换意见的原则和当事方同意原则，不具备法律要件，违反了《南海各方行为宣言》和中菲双边协议，触犯了“禁止反言”的国际法准则。
-2. 王毅强调仲裁实质涉及中国南沙群岛的领土主权和海洋划界，而领土问题不属于《联合国海洋法公约》管辖范围，中国早已声明排除海洋划界。
-3. 王毅指出仲裁庭越权审理，滥用《公约》争端解决机制，冲击国际海洋法治，在事实认定和法律适用上存在重大缺陷，特别是将太平岛判定为岩礁，不符合南海事实和《公约》规定。
-4. 王毅强调南海仲裁案背后有域外国家策划和操弄，旨在搅乱南海，中方立场是在维护国际法治精神和《公约》的严肃性。
-5. 王毅表示在中国和东盟各国共同努力下，南海形势稳定，航行自由得到保障，双方正加快磋商“南海行为准则”。
+1.  外卖补贴大战周末重启，淘宝闪购和美团外卖再度推出优惠活动，集中在咖啡茶饮品牌。
+2.  美团提供线下咖啡茶饮通兑券，淘宝闪购发放188元红包，吸引消费者。
+3.  外卖订单量大增，部分门店出现爆单现象，骑手收入也随之增加。
+4.  阿里发力淘宝闪购，旨在打造“大消费平台”，打通资源，探索新的商业模式。
+5.  阿里和京东的整体单量逼近美团，阿里闪购的单量增长迅速。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[媒体：未婚女子退税发现自己被结婚8年，当地民政局回应]]></title>
-        <link href="https://m.thepaper.cn/detail/31160503" />
-        <id>https://m.thepaper.cn/detail/31160503</id>
-        <updated>Fri, 11 Jul 2025 21:44:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 未婚, 被结婚, 身份冒用, 婚姻登记, 撤销婚姻
+        <title><![CDATA[外卖补贴大战周末重启：集中在咖啡茶饮品牌，已有门店接近爆单]]></title>
+        <link href="https://m.thepaper.cn/detail/31165979" />
+        <id>https://m.thepaper.cn/detail/31165979</id>
+        <updated>Sat, 12 Jul 2025 13:15:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：外卖补贴，淘宝闪购，美团外卖，订单增长，即时零售
 
 <br><br>总结:
-* 云南文山罗女士退税时发现8年前在安徽马鞍山“被结婚”，结婚对象不认识，本人也未去过安徽。
-* 马鞍山民政局查询后发现结婚证所用身份证、户口本均为真实证件。
-* 罗女士已在文山平坝派出所报警，案件正在办理中。
-* 马鞍山民政局表示若警方确认身份冒用，将撤销婚姻关系。
-* 记者致电文山平坝派出所未能接通。
+1. 外卖平台再次开启补贴大战，淘宝闪购和美团外卖纷纷推出优惠活动，包括发放红包和通兑券等。
+2. 补贴力度大，消费者可以低价甚至免单购买咖啡茶饮等商品，订单量激增。
+3. 骑手订单量暴涨，单价上涨，商家爆单。
+4. 阿里试图通过淘宝闪购打造“超级星期六”，在未来100天内每周六发放外卖消费红包。
+5. 阿里发力即时零售，旨在打通各项资源，探索新的商业模式和生意增长空间，做大消费平台。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[2025 上半年国内外投融资热与冷：AI 重塑教育价值链]]></title>
-        <link href="https://www.36kr.com/p/3374400347871745" />
-        <id>https://www.36kr.com/p/3374400347871745</id>
-        <updated>Fri, 11 Jul 2025 19:47:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI，教育，投融资，智能硬件，细分领域
+        <title><![CDATA[8000万淘宝闪购日订单后：沉默的蒋凡下最重的手]]></title>
+        <link href="https://www.36kr.com/p/3369167592298631" />
+        <id>https://www.36kr.com/p/3369167592298631</id>
+        <updated>Sat, 12 Jul 2025 12:00:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 淘宝闪购, 蒋凡, 补贴, ONE ALIBABA, 用户留存
 
 <br><br>总结:
-1. 2025上半年教育行业投融资市场活跃，国内融资超25起，金额达12亿，海外融资9起。
-2. 国内早期创新活跃，天使轮为主，机构关注技术迭代、场景量化和增长验证的AI教育项目。
-3. 国内AI深度融合教育全场景，智能硬件成为新增长点，职业教育与终身学习需求强劲，细分领域受关注。
-4. 海外市场两端发力，成熟平台获大规模融资，早期项目也获种子轮支持。
-5. 海外AI教育工具全面进入教学主场，自适应学习成资本新宠，学习体验从工具向娱乐延展。
+1、淘宝闪购在蒋凡主导下，通过巨额补贴和组织协同，日订单数突破8000万，日活跃用户超2亿。核心策略是ONE ALIBABA战略，调动全公司资源，证明组织整合的重要性。
+
+2、淘宝闪购与竞对的不同在于，更注重用户留存，通过大品类和非餐补贴，避免“白嫖党”，建立持久的用户习惯。
+
+3、淘宝闪购的成功离不开产品和营销的结合，通过“送奶茶”等活动，快速提升日订单，并通过常州队营销，提升用户好感度。
+
+4、闪购大战是阿里、京东等平台争夺本地生活新战场的关键，背后是组织能力的较量。腾讯的态度和微信生态位将决定最终格局。
+
+5、闪购不仅仅是电商的补充，更重要的是培养用户的同城消费心智，未来饿了么等平台需要在非标服务上寻求突破。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[摸着苹果过河，谷歌版AI通知摘也要来了]]></title>
-        <link href="https://www.36kr.com/p/3374446575655428" />
-        <id>https://www.36kr.com/p/3374446575655428</id>
-        <updated>Fri, 11 Jul 2025 19:08:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI通知管家, Android, 谷歌, 通知摘要, 苹果
+        <title><![CDATA[智氪 | 华尔街为何疯抢这只的稳定币股票？]]></title>
+        <link href="https://www.36kr.com/p/3375403123480837" />
+        <id>https://www.36kr.com/p/3375403123480837</id>
+        <updated>Sat, 12 Jul 2025 11:23:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：稳定币, Circle, 美元, 储备收入, 估值
 
 <br><br>总结:
-1.  谷歌加速Android的AI改造，推出AI通知管家，旨在通过AI模型分析通知，分为推广、新闻、社交和推荐四类，并自动总结通知摘要，目前仅社交类“对话通知”适用。
-
-2.  智能手机App数量激增，开发者为争夺用户注意力，滥用通知推送，导致Android用户面临海量通知。谷歌此前强制使用FCM推送服务以减少电量消耗，但因反垄断调查被迫改为可选。
-
-3.  Android生态推送服务多样，厂商各自为政，统一推送联盟名存实亡，海外市场谷歌受反垄断限制，无法统一推送服务。
-
-4.  谷歌的AI通知管家将通知分门别类，并用AI摘要总结社交媒体、即时通讯的聊天内容，旨在解决用户被海量通知淹没的问题。
-
-5.  谷歌吸取苹果在AI通知摘要上的教训，缩小AI摘要的应用范围，仅限于私信和群组聊天内容，以避免因信息失实引发争议。
+1. 稳定币市场表现火爆，Circle作为稳定币发行商，其收入主要来自储备收入，即将客户资金存入储备账户，配置生息资产产生利息。
+2. Circle与Coinbase深度合作，Coinbase是USDC最主要的分销渠道，二者结合构建稳定币交投生态。
+3. 投资者看好稳定币市场前景，以及Circle作为寡头之一的稀缺性，给出了超高估值。
+4. 美国政府大力发展稳定币，旨在维系美元霸权地位，并将其作为美债的“超级买家”之一。
+5. Circle在基础设施、生态系统和合规性等方面具备差异化优势，是其成为行业寡头的重要支撑。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS、Docker、UUID<br>
+        <title><![CDATA[美政府高官公开发帖暗示：鲍威尔考虑辞职]]></title>
+        <link href="https://wallstreetcn.com/articles/3750944" />
+        <id>https://wallstreetcn.com/articles/3750944</id>
+        <updated>Sat, 12 Jul 2025 11:02:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 鲍威尔，辞职，美联储，翻新，特朗普
+
+<br><br>总结:
+1.  有美国政府官员暗示，因美联储总部翻新项目争议，鲍威尔可能考虑辞职，房利美和房地美的负责人Bill Pulte也在社交媒体平台X上发文称，他听说鲍威尔对于完成其任期有所动摇。
+2.  争议源于美联储总部翻新项目成本超支30%，被批评奢华，白宫预算官员要求鲍威尔解释，并质疑其在国会听证会上发表了误导性言论。
+3.  特朗普任命新成员加入NCPC，被解读为向鲍威尔施压，目的是迫使他辞职。
+4.  美联储下一次议息会议在7月底，市场预计利率不变，但主席辞职传闻给市场带来不确定性。
+5.  市场猜测若鲍威尔辞职，潜在接替者或采取宽松货币政策，可能刺激比特币和黄金价格上涨。Nick Timiraos社社交媒体发帖称鲍威尔可能不会离任。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[闲谈 ：AI编程效率反而降低了 ，大家AI 编程的正确姿势到底是什么？]]></title>
+        <link href="https://juejin.cn/post/7525680948999274536" />
+        <id>https://juejin.cn/post/7525680948999274536</id>
+        <updated>Sat, 12 Jul 2025 10:59:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI 编程, IDE 工具, 代码生成, 生产效率, 使用问题
+
+<br><br>总结:
+
+一. 作者体验了多种 AI 编程工具，包括通义灵码、GitHub Copilot、Cursor 等，发现它们在生产环境中（后端 Java）对提高效率帮助不大，但在业余项目（Python/HTML）中效果显著。
+
+二. AI 工具存在以下问题：
+    1. 无法理解复杂的业务需求，对超过一定行数的代码逻辑处理不好。
+    2. 生成代码过于发散，存在大量无用代码。
+    3. 代码质量不高，不符合项目规范，影响代码整体质量。
+    4. 上下文理解有限，全局处理能力不足。
+
+三. 目前 AI 编程工具在生产环境中只能用于生成简单的语法糖或 DTO，在业余项目中可以高效生成代码。
+
+四. 作者主要使用 Cursor，通过插件在 IDEA 和 Cursor 之间切换，并关注 Augment 的使用体验。 他主要针对 Java 这种后端语言进行开发测试，不清楚前端和更底层的 C 在这种方面有什么感觉。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[中国台湾00后画师BW漫展现场求职]]></title>
+        <link href="https://m.thepaper.cn/detail/31160865" />
+        <id>https://m.thepaper.cn/detail/31160865</id>
+        <updated>Sat, 12 Jul 2025 10:18:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：BW，ACGN，插画师，抠肉肚脐，求职
+
+<br><br>总结:
+1. BW是亚洲最大的ACGN综合性展会。
+2. 台湾插画师“抠肉肚脐”参加了BW。
+3. 她在BW上与观众交流。
+4. 她在BW上求职，希望与大陆游戏公司合作。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[抖音又杀出一个次抛黑马？]]></title>
+        <link href="https://www.36kr.com/p/3374565074590214" />
+        <id>https://www.36kr.com/p/3374565074590214</id>
+        <updated>Sat, 12 Jul 2025 09:33:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 抖音美妆，品牌格局，达人生态，流量营销，国货崛起
+
+<br><br>总结:
+1.  抖音美妆市场品牌格局呈现三足鼎立之势：国货崛起与国际大牌抗衡，同时流量型品牌涌现，但迭代快、周期短。中小品牌面临增长困境，难以平衡流量和成分营销。
+2.  达人生态显著倾斜，娱乐向、综合类及创始人IP主播成主流，专业美垂类达人空间收窄。
+3.  国货品牌如韩束、珀莱雅保持领先，百雀羚、丸美首次入榜，受益于环肽套组等策略。新锐彩妆品牌蒂洛薇通过底妆大单品和投流迅速崛起，登顶彩妆榜首。
+4.  林清轩通过创始人IP矩阵和达人推广，实现线上转型增长。厦门帮品牌如ELL、三资堂依赖极致投流和低价策略，但长期运营面临挑战。
+5.  美妆达人榜洗牌，娱乐型主播如韦雪崛起，传统美垂达人表现乏力。品牌方倾向于投放粉丝群体更广阔的娱乐型或是综合类主播。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[2025，酒旅商家拥抱电商巨头]]></title>
+        <link href="https://www.36kr.com/p/3374730644756864" />
+        <id>https://www.36kr.com/p/3374730644756864</id>
+        <updated>Sat, 12 Jul 2025 09:17:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词：酒旅, 电商, 供应链, 平台, 商家
+
+<br><br>总结:
+1.  酒旅市场仍高速增长，但OTA平台格局固化，携程等头部平台占据主导地位。
+2.  京东、阿里等电商平台加码酒旅，旨在打通电商用户与本地生活+酒旅市场，并利用自身优势重塑酒旅玩法。
+3.  商家与OTA平台矛盾日益突出，平台掌握议价权，中小商家面临高佣金和强制调价等问题。
+4.  京东试图通过赋能供应链，改变传统OTA平台的佣金模式，解决行业不透明、规模化程度低的问题。
+5.  电商平台拥有庞大用户基础和供应链优势，有望为酒旅市场带来新变化，但仍面临挑战。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[9点1氪丨上海门店回应玛莎拉蒂售价38万元；黄仁勋跃居全球富豪榜第十，仅次于巴菲特；印航空难初步调查结果公布：或系飞行员操作失误]]></title>
+        <link href="https://www.36kr.com/p/3374687863691520" />
+        <id>https://www.36kr.com/p/3374687863691520</id>
+        <updated>Sat, 12 Jul 2025 08:42:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 玛莎拉蒂, 黄仁勋, 印航空难, 英伟达, 缅北诈骗
+
+<br><br>总结:
+1. 上海玛莎拉蒂门店推出Grecale车型38.88万元起售的限时活动，2天已售出十几辆，但该活动为经销商行为，与品牌无关。
+2. 黄仁勋身家跃居全球富豪榜第十，与巴菲特仅差10亿美元，未来有望超越。
+3. 印航空难初步调查结果指向飞行员操作失误，可能关闭了关键燃油开关，导致飞机坠毁，造成重大伤亡。
+4. 英伟达股价再创新高，市值突破4万亿美元，巩固了其在人工智能领域的领军地位。
+5. 缅北白家犯罪集团涉嫌多项罪名，诈骗金额超过106亿元，涉赌金额超过180亿元，造成中国公民伤亡。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“父母健在就是最大幸福”，女儿急着上班，104岁母亲掌勺100岁父亲烧火帮做饭]]></title>
+        <link href="https://m.thepaper.cn/detail/31158007" />
+        <id>https://m.thepaper.cn/detail/31158007</id>
+        <updated>Sat, 12 Jul 2025 08:38:50 +0800</updated>
+        <summary type="html"><![CDATA[关键词：百岁老人 安庆 做饭 儿女 幸福
+
+<br><br>总结:
+* 安徽安庆张女士分享了父母为她做饭的视频。
+* 她的母亲104岁，父亲100岁，身体依然健康。
+* 张女士因上班繁忙，父母主动帮忙做饭。
+* 张女士感叹父母健在是儿女最大的幸福。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[和AI聊完，我和爸妈“冷战”一年｜ 深氪lite]]></title>
+        <link href="https://www.36kr.com/p/3358384565913349" />
+        <id>https://www.36kr.com/p/3358384565913349</id>
+        <updated>Sat, 12 Jul 2025 08:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI, 心理咨询, 共情, 情感需求, 人际关系
+
+<br><br>总结:
+1. 阿梁因工作压力向AI倾诉，AI提供理解和建议，但方式各异，体现了AI在情绪支持方面的潜力。<br><br>
+2. Abby曾是心理咨询的资深用户，现使用AI进行心理咨询，认为AI反馈高效，能提供更深入的探讨，更懂自己。<br><br>
+3. AI的优势在于不知疲倦、随时响应，且能模仿共情，提供情绪价值，但提供的理解可能只是概率优化出的结果，而非真正的感同身受。<br><br>
+4. 专家认为，AI适合心理健康筛查和轻咨询，针对亚健康人群，不能替代专业的心理治疗，尤其是在处理复杂情绪和精神疾病方面存在局限性。<br><br>
+5. 过度依赖AI可能让人感到不安，应从真实生活中了解自己，寻找与人相处的方式，采取多种方法解决心理问题，解决问题的意愿和行动力最重要。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[广电总局发布管理提示：杜绝微短剧过度娱乐化、反智化倾向]]></title>
+        <link href="https://m.thepaper.cn/detail/31160709" />
+        <id>https://m.thepaper.cn/detail/31160709</id>
+        <updated>Fri, 11 Jul 2025 22:17:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 微短剧, 反智, 现实主义, 价值导向, 创作责任
+
+<br><br>总结:
+1.  广电总局肯定了微短剧的良好发展态势，及其在价值导向和品质升级上的进步，也肯定了“微短剧+”系列创作计划的积极影响。
+2.  管理提示指出，部分微短剧存在过度娱乐化、反智化倾向，编织脱离现实和逻辑的剧情，影响行业形象。
+3.  强调艺术创作应尊重生活真实和基本逻辑，反对将胡编乱造视为“破圈”之道，或将主流价值观错位和伪现实创作当作技巧。
+4.  提倡现实主义创作，关注人民群众需求，体现现实关怀，坚守主流价值，传播主流文化，以表现时代、直面生活的精神书写“中国故事”。
+5.  各级广电部门和行业市场主体应落实监督和主体责任，坚决杜绝极端“反智”“雷人”“离谱”的内容，回归真实，激活大众创作创新能力，创造优质微短剧。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、VPS、免费、配置、科学上网
+VPS配置免费，需注册并验证账号。选择适当地区和配置，设置防火墙。登录方式可直接使用官方后台或第三方SSH工具。科学上网时要注意使用Hysteria 2节点并避免产生额外费用，可以通过命令行或面板搭建节点。需修改数据保护设置以避免费用产生。详细信息可查看视频。总结: 谷歌云提供免费VPS服务，注册并验证账号后选择配置，设置防火墙并登录SSH。科学上网时使用Hysteria 2节点，避免产生额外费用。搭建节点时需注意设置以避免费用产生。详细信息可查看视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[地址生成器，Github仓库，Cloudflare，域名，教程
+注册地址生成器DigitalPlat的Github仓库提供了两种域名选择，dpdns.org免费，us.kg收费。用户可根据需要选择域名，注册时注意免费域名额度，新用户可获得1个免费域名，老用户可获得3个免费域名，通过Github加Star后可增加域名额度。域名续期永久免费，每年续期一次，us.kg域名也需续期。另外，如有SSL证书和自定义域名问题，可参考Cloudflare Pages的官网和视频教程。详细操作步骤和注意事项请参考相关链接。<br><br>总结: 用户可选择免费或收费域名，注册时注意免费域名额度和续期问题，可通过Github加Star增加域名数量，需注意SSL证书和自定义域名等问题，详细操作请参考相关链接。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT<br>
 <br>
-爪云是一个注册域名并提供内网穿透服务的平台，通过VPS和Docker部署可以实现临时或固定隧道模式。用户需要准备UUID、Cloudflare隧道Token和隧道域名来配置固定隧道模式。通过相关docker命令可以查看、停止或删除容器。视频教程提供了详细的使用指导，包括爪云注册、免费域名注册和部署科学上网节点教程。<br><br>总结:爪云为用户提供了内网穿透服务，通过VPS和Docker部署可以实现临时或固定隧道模式，用户需要准备UUID、Cloudflare隧道Token和隧道域名来配置固定隧道模式。容器的管理可以通过相关docker命令来进行，视频教程提供了详细的使用指导。]]></summary>
+稳定性和速度方面，HostUNO表现良好，不需要保活。关于ChatGPT降智问题，可能需要使用降智检测插件进行处理。整体体验良好，购买过程简单，修改登录密码也方便。搭建代理节点后节点测速良好。续费也比较简单。总体来说，HostUNO值得购买。但注意ChatGPT可能会出现降智问题，可以考虑使用相关插件解决。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、注册、挂了、Cloudflare、FreeDNS<br>
-总结:us.kg免费域名目前的注册情况并未完全清晰，已注册的域名仍存在，但新域名是否可以托管到Cloudflare尚不确定。目前建议临时托管到FreeDNS。至于是否还能注册新域名以及两种域名的区别，也有待进一步了解。建议密切关注官方公告和最新动态。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Github项目 Cloudflare Windterm 域名教程 科学上网节点<br>
-Serv00登录 节点搭建 Cloudflare隧道 CDN回源 网页保活 Cloudflare远程保活<br><br>
-总结: 本文介绍了如何使用Sing-box-yg Github项目和Windterm软件搭建科学上网节点，并利用Cloudflare进行隧道设置和CDN回源。同时还介绍了网页保活和Cloudflare远程保活的方法，以确保节点的稳定运行。整个教程详细介绍了登录、节点搭建、隧道设置、CDN回源、网页保活和远程保活等步骤，帮助用户顺利搭建自己的科学上网节点。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、视频
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码newuser
 
-US.KG域名现在处于受限状态，若想注册，可先用 https://dash.domain.digitalplat.org/ 进行注册和KYC验证。注册账户后，验证邮箱并进行KYC验证，然后注册域名并托管到Cloudflare。该过程详细步骤可在视频中找到，以便免费续订域名。总的来说，通过该平台注册US.KG域名，并将其托管到Cloudflare。]]></summary>
+US.KG注册不了，推荐使用免费域名并托管到Cloudflare。注册流程包括：使用身份信息生成器注册账号，购买免费域名时输入优惠码newuser可享受一年免费，然后将域名托管到Cloudflare，登录Cloudflare添加域名并填入分配的名称服务器。详细操作可观看Youtube视频。步骤包括注册账号、注册域名、域名托管到Cloudflare。希望这些信息对你有帮助。 <br><br>总结: US.KG注册不了，推荐使用免费域名托管到Cloudflare。流程包括注册账号、注册域名、托管到Cloudflare，使用优惠码newuser可享受一年免费。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署  
-Deepseek是一个搜索引擎，可以通过网页端、APP和API来使用，也可以在本地部署。使用Deepseek可以体验沉浸式翻译、Chatbox和欧路词典等功能。想要使用Deepseek，可以访问官方网站、下载官方手机客户端或注册Deepseek API获取体验金。另外，也可以通过第三方应用来使用Deepseek的功能。在本地部署时，需要下载并安装Ollama，并在命令提示符中输入相应指令来运行。深度查找模型选择硬件可以参考视频中提到的内容。<br><br>总结: Deepseek是一款功能强大的搜索引擎，可以通过多种方式来使用并且支持本地部署，可以用于沉浸式翻译、Chatbox等功能。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
