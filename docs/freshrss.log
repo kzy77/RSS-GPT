@@ -1,61 +1,41 @@
 ------------------------------------------------------
-Started: 2025-07-14 12:41:55.815912
-Existing_entries: 14
+Started: 2025-07-14 14:20:54.936901
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 91
+Token length: 338
 Summarized using gemini model: gemini-2.0-flash
-Append: [UnicomAI/wanwu](https://gitee.com/unicomai/wanwu)
-Token length: 7156
-Summarized using gemini model: gemini-2.0-flash
-Append: [西方对中国基建的认知，怎么还停留在“廉价修路”？](https://www.huxiu.com/article/4578236.html)
-Token length: 1531
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普夸人又翻车！美非迷你峰会频现尴尬，“贸易替代援助”政策遭质疑](https://www.yicai.com/news/102721740.html)
+Append: [央行14000亿买断式逆回购操作 王青：释放三重政策信号](https://www.yicai.com/video/102722416.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [1230亿元超长期特别国债完成发行，本月国补继续](https://www.yicai.com/news/102721448.html)
+Append: [“外卖补贴大战”重燃战火 巨额补贴还能持续多久？](https://www.yicai.com/video/102722396.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [程实：协同三路径，五年可新增25万亿消费规模](https://www.yicai.com/news/102722163.html)
-Token length: 3209
+Append: [滚动更新丨道指跌0.2%，中概股多数上涨](https://www.yicai.com/news/102722378.html)
+Token length: 2297
 Summarized using gemini model: gemini-2.0-flash
-Append: [“法定许可”条款如何助力邓紫棋翻盘版权官司](https://www.yicai.com/news/102722162.html)
-Token length: 3511
-Summarized using gemini model: gemini-2.0-flash
-Append: [经济半年报即将发布，二季度GDP增速有望实现5%以上](https://www.yicai.com/news/102720892.html)
+Append: [特朗普30%关税威胁下欧盟为何暂缓反制？专家：一场“心知肚明”的较量](https://www.yicai.com/news/102721839.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [泡泡玛特选择题：全仓Labubu还是产品线齐头并进？](https://www.yicai.com/news/102720155.html)
-Token length: 116
-Summarized using gemini model: gemini-2.0-flash
-Append: [湖北：延长婚假至15天 落实育儿补贴等经济激励政策](https://www.yicai.com/news/102722161.html)
-Token length: 730
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国将对非洲53个建交国零关税，利好非洲咖啡出口，目前咖啡豆更多来自这个国家](https://www.yicai.com/news/102722170.html)
-Token length: 827
-Summarized using gemini model: gemini-2.0-flash
-Append: [阿斯利康新型降压药显示积极疗效，难治性高血压患者迎来新希望](https://www.yicai.com/news/102722177.html)
-Token length: 789
-Summarized using gemini model: gemini-2.0-flash
-Append: [三部门：为加强绿色金融市场流动性，提升绿色金融资产管理效率](https://www.yicai.com/news/102722181.html)
-Token length: 2038
-Summarized using gemini model: gemini-2.0-flash
-Append: [“关税大棒”会怎样影响美股市场，跨境美股ETF重回高位](https://www.yicai.com/news/102722098.html)
+Append: [特朗普“架空”美联储？两位“凯文”角逐“影子主席”，他们是谁？](https://www.yicai.com/video/102722322.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [落马书记盲目上马文旅项目造成闲置浪费，遭中央通报](https://www.yicai.com/news/102721822.html)
-Token length: 1908
-Summarized using gemini model: gemini-2.0-flash
-Append: [全球包王诞生！日本买家豪掷7000万元买下爱马仕首款铂金包](https://www.yicai.com/news/102722057.html)
-Token length: 2693
-Summarized using gemini model: gemini-2.0-flash
-Append: [ETF市场规模达4.38万亿：债基黄金跨境三线“揽金”，股票型遭资金流出](https://www.yicai.com/news/102722034.html)
+Append: [面板企业上半年业绩分化，7月面板价格继续下跌带来新考验](https://www.yicai.com/news/102722293.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [A股钢企中报预告分化，“反内卷”驱动资金博弈](https://www.yicai.com/news/102722018.html)
-Token length: 183
+Append: [中国外贸连续七个季度保持同比增长，朋友圈更趋多元，外资加快产能投资](https://www.yicai.com/news/102721352.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [最新绿电消纳责任权重下达！多省、多行业目标超预期](https://www.yicai.com/news/102722260.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [近2.3万亿化债资金快速落地，下半年地方还有哪些新举措](https://www.yicai.com/news/102722261.html)
+Token length: 1602
 Summarized using gemini model: gemini-2.0-flash
-Append: [二十届中央第六轮巡视对象公布](https://m.thepaper.cn/detail/31176402)
-Token length: 5164
+Append: [一财社论：筑牢行业良性发展基石，金融机构要承担更大责任](https://www.yicai.com/news/102722242.html)
+Token length: 2523
 Summarized using gemini model: gemini-2.0-flash
-Append: [中共中央关于加强新时代审判工作的意见](https://m.thepaper.cn/detail/31176122)
-Token length: 837
+Append: [银行转债加速“缩编”：年内千亿规模或将蒸发](https://www.yicai.com/news/102722244.html)
+Token length: 2070
 Summarized using gemini model: gemini-2.0-flash
-Append: [国务院国资委原副部长级干部骆玉林一审被判死缓](https://m.thepaper.cn/detail/31176035)
-append_entries: 20
-Finish: 2025-07-14 12:43:22.513100
+Append: [半年吃下3000万罚单，银行理财子罚金接近去年总和](https://www.yicai.com/news/102722243.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [央行主管媒体：当前的一个政策抓手是扩内需、治内卷](https://wallstreetcn.com/articles/3751049)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [“历史最冷”大满贯收获三冠，为何说国乒美国之行喜忧参半](https://m.thepaper.cn/detail/31175689)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [全球前瞻｜印度外长五年来首次访华，日本参议院选举石破政权背水一战](https://m.thepaper.cn/detail/31174203)
+append_entries: 15
+Finish: 2025-07-14 14:22:16.038282
