@@ -1,48 +1,61 @@
 ------------------------------------------------------
-Started: 2025-07-14 10:22:31.593992
-Existing_entries: 17
+Started: 2025-07-14 12:41:55.815912
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2183
+Token length: 91
 Summarized using gemini model: gemini-2.0-flash
-Append: [“杭州六小龙”两人加入特首顾问团：李家超的“阳谋”](https://www.yicai.com/news/102720421.html)
-Token length: 122
+Append: [UnicomAI/wanwu](https://gitee.com/unicomai/wanwu)
+Token length: 7156
 Summarized using gemini model: gemini-2.0-flash
-Append: [刷新纪录！招商蛇口以8万元/平方米单价拿下深圳前海宅地](https://www.yicai.com/news/102721876.html)
-Token length: 3388
+Append: [西方对中国基建的认知，怎么还停留在“廉价修路”？](https://www.huxiu.com/article/4578236.html)
+Token length: 1531
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普“大而美”法案对中国影响有多大？](https://www.huxiu.com/article/4577038.html)
-Token length: 4831
+Append: [特朗普夸人又翻车！美非迷你峰会频现尴尬，“贸易替代援助”政策遭质疑](https://www.yicai.com/news/102721740.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [1230亿元超长期特别国债完成发行，本月国补继续](https://www.yicai.com/news/102721448.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [程实：协同三路径，五年可新增25万亿消费规模](https://www.yicai.com/news/102722163.html)
+Token length: 3209
 Summarized using gemini model: gemini-2.0-flash
-Append: [《以法之名》：不把检察官拍成“神”，是对真实的尊重](https://www.yicai.com/news/102721529.html)
-Token length: 2113
+Append: [“法定许可”条款如何助力邓紫棋翻盘版权官司](https://www.yicai.com/news/102722162.html)
+Token length: 3511
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普关税倒逼全球贸易变局，欧盟、加拿大等盟友开始另寻贸易出路](https://www.yicai.com/news/102721720.html)
-Token length: 1298
+Append: [经济半年报即将发布，二季度GDP增速有望实现5%以上](https://www.yicai.com/news/102720892.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [泡泡玛特选择题：全仓Labubu还是产品线齐头并进？](https://www.yicai.com/news/102720155.html)
+Token length: 116
 Summarized using gemini model: gemini-2.0-flash
-Append: [做空日元卷土重来！日本参议院选举前投资者押注美元兑日元重返150](https://www.yicai.com/news/102721611.html)
-Token length: 1454
+Append: [湖北：延长婚假至15天 落实育儿补贴等经济激励政策](https://www.yicai.com/news/102722161.html)
+Token length: 730
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国财长本周访问日本，陷入僵局的日美关税谈判能否被激活](https://www.yicai.com/news/102721588.html)
-Token length: 3228
+Append: [中国将对非洲53个建交国零关税，利好非洲咖啡出口，目前咖啡豆更多来自这个国家](https://www.yicai.com/news/102722170.html)
+Token length: 827
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海打造“文化磁场”，内容创作者近悦远来](https://www.yicai.com/news/102721585.html)
-Token length: 1545
+Append: [阿斯利康新型降压药显示积极疗效，难治性高血压患者迎来新希望](https://www.yicai.com/news/102722177.html)
+Token length: 789
 Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦人民币汇率、货币政策、提振消费……央行发布会要点速览](https://www.yicai.com/news/102721796.html)
-Token length: 2955
+Append: [三部门：为加强绿色金融市场流动性，提升绿色金融资产管理效率](https://www.yicai.com/news/102722181.html)
+Token length: 2038
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国6月社融增量4.2万亿元，新增人民币贷款2.24万亿元，M2-M1剪刀差缩小](https://wallstreetcn.com/articles/3751032)
-Token length: 1964
+Append: [“关税大棒”会怎样影响美股市场，跨境美股ETF重回高位](https://www.yicai.com/news/102722098.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [落马书记盲目上马文旅项目造成闲置浪费，遭中央通报](https://www.yicai.com/news/102721822.html)
+Token length: 1908
 Summarized using gemini model: gemini-2.0-flash
-Append: [法治课｜大连工业大学公告里的几个法律问题](https://m.thepaper.cn/detail/31172330)
-Token length: 236
+Append: [全球包王诞生！日本买家豪掷7000万元买下爱马仕首款铂金包](https://www.yicai.com/news/102722057.html)
+Token length: 2693
 Summarized using gemini model: gemini-2.0-flash
-Append: [宇树科技创始人王兴兴等民营企业家将亮相国新办中外记者见面会](https://m.thepaper.cn/detail/31174255)
-Token length: 10099
+Append: [ETF市场规模达4.38万亿：债基黄金跨境三线“揽金”，股票型遭资金流出](https://www.yicai.com/news/102722034.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [A股钢企中报预告分化，“反内卷”驱动资金博弈](https://www.yicai.com/news/102722018.html)
+Token length: 183
 Summarized using gemini model: gemini-2.0-flash
-Append: [✅2025全网最具权威深度解析并手写RAG Pipeline](https://juejin.cn/post/7526343800873353254)
-Token length: 3607
+Append: [二十届中央第六轮巡视对象公布](https://m.thepaper.cn/detail/31176402)
+Token length: 5164
 Summarized using gemini model: gemini-2.0-flash
-Append: [🔥 大模型开发进阶：基于LangChain的异步流式响应与性能优化​](https://juejin.cn/post/7526309936813375534)
-append_entries: 14
-Finish: 2025-07-14 10:23:41.518559
+Append: [中共中央关于加强新时代审判工作的意见](https://m.thepaper.cn/detail/31176122)
+Token length: 837
+Summarized using gemini model: gemini-2.0-flash
+Append: [国务院国资委原副部长级干部骆玉林一审被判死缓](https://m.thepaper.cn/detail/31176035)
+append_entries: 20
+Finish: 2025-07-14 12:43:22.513100
