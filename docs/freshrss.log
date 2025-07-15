@@ -1,45 +1,18 @@
 ------------------------------------------------------
-Started: 2025-07-15 16:26:44.058760
-Existing_entries: 15
+Started: 2025-07-15 18:30:38.670600
+Existing_entries: 16
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [用公交送快递，司机也能收派件！传统交通“试水”新业务](https://www.yicai.com/news/102725419.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [百度涨超8%，萝卜快跑搭上Uber快车，这些国家率先“发车”](https://www.yicai.com/news/102725407.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [英伟达、AMD股价开盘大涨，GPU出口“松绑”后仍需面临激烈竞争](https://www.yicai.com/news/102725391.html)
-Token length: 1217
+Token length: 4756
 Summarized using gemini model: gemini-2.0-flash
-Append: [英伟达开盘涨出大半个AMD！黄仁勋将首次用中文演讲](https://www.yicai.com/news/102725392.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [“反内卷”暂未将光伏企业拖出亏损泥潭，但部分企业二季度已减亏或盈利](https://www.yicai.com/news/102725388.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [煤价持续下探，多家煤企预告上半年业绩亏损](https://www.yicai.com/news/102725387.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [英伟达获准恢复对华销售H20芯片](https://www.yicai.com/video/102725350.html)
-Token length: 126
+Append: [特朗普对俄下通牒，能奏效吗？](https://www.huxiu.com/article/4581557.html)
+Token length: 777
 Summarized using gemini model: gemini-2.0-flash
-Append: [B站国创IP X 豫园次元裂变：传统文化地标与二次元破壁共舞新潮](https://www.yicai.com/image/102725375.html)
-Token length: 2619
+Append: [贝森特：鲍威尔继任者的正式程序已启动，遴选将按照特朗普的速度来进行](https://wallstreetcn.com/articles/3751155)
+Token length: 1755
 Summarized using gemini model: gemini-2.0-flash
-Append: [CPI数据温和提振市场，美股开盘三大股指涨跌不一，英伟达涨超4%，AMD涨逾5%，阿里巴巴涨超6%](https://wallstreetcn.com/articles/3751139)
-Token length: 925
+Append: [就差你一句话：激战“浙BA”，众县市喊话网友频频催“梗”](https://m.thepaper.cn/detail/31171771)
+Token length: 174
 Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜这一砸，只能暴露出问题和心虚](https://m.thepaper.cn/detail/31185149)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [东亚杯守住底线只是及格，新周期的国足依然悬而未决](https://m.thepaper.cn/detail/31185648)
-Token length: 6619
-Summarized using gemini model: gemini-2.0-flash
-Append: [观察｜特朗普为何对俄罗斯下50天最后通牒？](https://m.thepaper.cn/detail/31184952)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [基于Prompt 的DevOps 与终端重塑](https://juejin.cn/post/7527188023701569574)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [中国连锁经营协会倡议：规范即时零售市场秩序，联合抵制价格补贴“内卷式”竞争](https://m.thepaper.cn/detail/31185152)
-Token length: 557
-Summarized using gemini model: gemini-2.0-flash
-Append: [一男子骑车未戴头盔遇交警查处时死亡，湖南岳阳相关部门：当地正处理](https://m.thepaper.cn/detail/31184529)
-Token length: 2168
-Summarized using gemini model: gemini-2.0-flash
-Append: [沟通能力强的人，说话顺序都是这样的](https://www.36kr.com/p/3379666401613954)
-append_entries: 16
-Finish: 2025-07-15 16:27:57.921359
+Append: [2025上半年国民经济“成绩单”出炉！全方位解读](https://www.yicai.com/topic/102723726)
+append_entries: 4
+Finish: 2025-07-15 18:30:48.681660
