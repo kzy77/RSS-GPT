@@ -1,51 +1,45 @@
 ------------------------------------------------------
-Started: 2025-07-15 14:18:59.232731
-Existing_entries: 20
+Started: 2025-07-15 16:26:44.058760
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 174
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [用公交送快递，司机也能收派件！传统交通“试水”新业务](https://www.yicai.com/news/102725419.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [百度涨超8%，萝卜快跑搭上Uber快车，这些国家率先“发车”](https://www.yicai.com/news/102725407.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [英伟达、AMD股价开盘大涨，GPU出口“松绑”后仍需面临激烈竞争](https://www.yicai.com/news/102725391.html)
+Token length: 1217
 Summarized using gemini model: gemini-2.0-flash
-Append: [2025上半年国民经济“成绩单”出炉！全方位解读](https://www.yicai.com/topic/102723726)
-Token length: 1338
+Append: [英伟达开盘涨出大半个AMD！黄仁勋将首次用中文演讲](https://www.yicai.com/news/102725392.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [“反内卷”暂未将光伏企业拖出亏损泥潭，但部分企业二季度已减亏或盈利](https://www.yicai.com/news/102725388.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [煤价持续下探，多家煤企预告上半年业绩亏损](https://www.yicai.com/news/102725387.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [英伟达获准恢复对华销售H20芯片](https://www.yicai.com/video/102725350.html)
+Token length: 126
 Summarized using gemini model: gemini-2.0-flash
-Append: [滚动更新丨美股三大指数集体高开，英伟达涨近5%](https://www.yicai.com/news/102725337.html)
-Token length: 219
+Append: [B站国创IP X 豫园次元裂变：传统文化地标与二次元破壁共舞新潮](https://www.yicai.com/image/102725375.html)
+Token length: 2619
 Summarized using gemini model: gemini-2.0-flash
-Append: [全球首例 深圳机器人搭地铁为商家送货](https://www.yicai.com/news/102725260.html)
-Token length: 479
+Append: [CPI数据温和提振市场，美股开盘三大股指涨跌不一，英伟达涨超4%，AMD涨逾5%，阿里巴巴涨超6%](https://wallstreetcn.com/articles/3751139)
+Token length: 925
 Summarized using gemini model: gemini-2.0-flash
-Append: [市场监管总局：坚持重拳出击，严厉打击直播电商违法违规行为](https://www.yicai.com/news/102725240.html)
-Token length: 18
+Append: [马上评｜这一砸，只能暴露出问题和心虚](https://m.thepaper.cn/detail/31185149)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [东亚杯守住底线只是及格，新周期的国足依然悬而未决](https://m.thepaper.cn/detail/31185648)
+Token length: 6619
 Summarized using gemini model: gemini-2.0-flash
-Append: [值得推荐！7款免费开源软件！听歌神器、多线程下载、抓包工具、无魔法访问 Google等 | 零度解说](https://www.freedidi.com/20213.html)
-Token length: 2990
+Append: [观察｜特朗普为何对俄罗斯下50天最后通牒？](https://m.thepaper.cn/detail/31184952)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [基于Prompt 的DevOps 与终端重塑](https://juejin.cn/post/7527188023701569574)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [中国连锁经营协会倡议：规范即时零售市场秩序，联合抵制价格补贴“内卷式”竞争](https://m.thepaper.cn/detail/31185152)
+Token length: 557
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海的创作者联盟：把中国故事，讲给世界听](https://www.yicai.com/news/102725239.html)
-Token length: 1643
+Append: [一男子骑车未戴头盔遇交警查处时死亡，湖南岳阳相关部门：当地正处理](https://m.thepaper.cn/detail/31184529)
+Token length: 2168
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：持续释放民企活力，稳固经济向好态势](https://www.yicai.com/news/102725212.html)
-Token length: 1994
-Summarized using gemini model: gemini-2.0-flash
-Append: [古驰取消9月女装秀，LV首家美妆店落地南京](https://www.yicai.com/news/102725215.html)
-Token length: 2139
-Summarized using gemini model: gemini-2.0-flash
-Append: [经纪自营增长、投行回暖，26家上市券商中报业绩预喜](https://www.yicai.com/news/102725226.html)
-Token length: 71
-Summarized using gemini model: gemini-2.0-flash
-Append: [无需魔法访问 Google ！堪称Web式的云端电脑？](https://www.freedidi.com/20212.html)
-Token length: 2221
-Summarized using gemini model: gemini-2.0-flash
-Append: [外资理财规模逆势攀升，法巴、贝莱德突破500亿大关](https://www.yicai.com/news/102725199.html)
-Token length: 1992
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国6月核心CPI同比上涨2.9%，环比0.2%，连续5个月低于预期！](https://wallstreetcn.com/articles/3751163)
-Token length: 1176
-Summarized using gemini model: gemini-2.0-flash
-Append: [湖北多地多管齐下激活夏季消费](https://www.yicai.com/news/102725149.html)
-Token length: 2223
-Summarized using gemini model: gemini-2.0-flash
-Append: [光伏企业上半年业绩分化，海外市场与BC技术成二季度扭亏“法宝”](https://www.yicai.com/news/102725164.html)
-Token length: 154
-Summarized using gemini model: gemini-2.0-flash
-Append: [2025年中总结：我想我克服公众演讲的恐惧了，一个社恐分子突破自我的故事](https://www.cnblogs.com/kagol/p/18985215)
-append_entries: 15
-Finish: 2025-07-15 14:20:09.910379
+Append: [沟通能力强的人，说话顺序都是这样的](https://www.36kr.com/p/3379666401613954)
+append_entries: 16
+Finish: 2025-07-15 16:27:57.921359
