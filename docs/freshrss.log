@@ -1,6 +1,59 @@
 ------------------------------------------------------
-Started: 2025-07-15 04:38:28.559723
-Existing_entries: 20
+Started: 2025-07-15 06:31:33.552940
+Existing_entries: 0
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-Finish: 2025-07-15 04:38:41.954646
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [山东临沂通报“发布菜品视频拟被高额处罚”事件调查进展](https://www.yicai.com/news/102723903.html)
+Token length: 1023
+Summarized using gemini model: gemini-2.0-flash
+Append: [国家统计局答一财：五大因素支持下半年价格低位温和回升](https://www.yicai.com/news/102723902.html)
+Token length: 56
+Summarized using gemini model: gemini-2.0-flash
+Append: [发布会纪要｜上半年经济稳中有进、稳中向好 用更大力度推动房地产市场止跌回稳](https://www.yicai.com/news/102723892.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [光模块CPO概念股爆发！新易盛20%涨停创历史新高，上半年业绩超预期](https://www.yicai.com/video/102723864.html)
+Token length: 425
+Summarized using gemini model: gemini-2.0-flash
+Append: [MusicFree 多平台音乐播放器！免费开源，超级良心](https://www.freedidi.com/20145.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [Ghost Downloader 3 – 开源、跨平台、智能多线程下载神器 （Win/Mac/Linux）](https://www.freedidi.com/20155.html)
+Token length: 627
+Summarized using gemini model: gemini-2.0-flash
+Append: [Phoenix Code – 高效的全能文本、代码编辑器！免费开源，支持多平台!](https://www.freedidi.com/20185.html)
+Token length: 450
+Summarized using gemini model: gemini-2.0-flash
+Append: [Sniffnet 网络流量监控神器！支持跨平台、直观、免费开源可靠！](https://www.freedidi.com/20194.html)
+Token length: 1875
+Summarized using gemini model: gemini-2.0-flash
+Append: [二季度GDP增长5.2%，专家解读来了](https://www.yicai.com/news/102723634.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [黄仁勋：美国政府已批准出口许可，将开始向中国市场销售H20芯片](https://wallstreetcn.com/articles/3751111)
+Token length: 1172
+Summarized using gemini model: gemini-2.0-flash
+Append: [黄仁勋：美国政府已批准出口许可，将开始向中国销售H20芯片](https://m.thepaper.cn/detail/31182701)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [Visual Studio 现已支持新的、更简洁的解决方案文件（slnx）格式](https://www.cnblogs.com/Can-daydayup/p/18985033)
+Token length: 6305
+Summarized using gemini model: gemini-2.0-flash
+Append: [8点1氪｜尾号8个7手机号拍出320万元天价；蜜雪冰城辟谣1750杯奶茶费仅用76元；黄仁勋再访华，大热天仍穿皮夹克合影雷军](https://www.36kr.com/p/3379462010823425)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [新华时评：“热情过头”的通信营销，该收收了](https://m.thepaper.cn/detail/31178192)
+Token length: 5103
+Summarized using gemini model: gemini-2.0-flash
+Append: [我去配了一副 AI 眼镜，发现近视不配用 AI 眼镜？（附配镜指南）](https://www.36kr.com/p/3378603016935942)
+Token length: 4543
+Summarized using gemini model: gemini-2.0-flash
+Append: [00后整顿直播带货](https://www.36kr.com/p/3378503887198468)
+Token length: 3354
+Summarized using gemini model: gemini-2.0-flash
+Append: [车企老板自嘲「变弱智」，协会怒喷窝里斗，车圈开会发言比吐槽大会还狠](https://www.36kr.com/p/3378352502921728)
+Token length: 81
+Summarized using gemini model: gemini-2.0-flash
+Append: [SparkShop/SparkX](https://gitee.com/shop-sparker/spark-x)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [刘亚平/简搭云可视化大屏设计器](https://gitee.com/liuyaping007/bigscreen)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [TinyPiXOS/tinyPiXCore](https://gitee.com/tinypixos/tinyPiXCore)
+append_entries: 20
+Finish: 2025-07-15 06:32:55.979417
