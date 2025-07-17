@@ -1,66 +1,22 @@
 ------------------------------------------------------
-Started: 2025-07-17 14:18:48.896408
-Existing_entries: 19
+Started: 2025-07-17 16:26:22.785009
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 145
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [极氪估值两年半内“腰斩”，宁德时代、越秀资本曾高位接盘](https://www.yicai.com/news/102729518.html)
+Token length: 1211
 Summarized using gemini model: gemini-2.0-flash
-Append: [财经夜行线丨特朗普与鲍威尔“口水战”反复升级 鲍威尔“被解雇”不确定性如何影响美国市场](https://www.yicai.com/video/102729454.html)
-Token length: 1565
+Append: [女子体检10年未查出癌症，爱康集团回应](https://www.yicai.com/news/102729501.html)
+Token length: 647
 Summarized using gemini model: gemini-2.0-flash
-Append: [黄仁勋对谈王坚：赞DeepSeek写出A+论文，称“嫉妒年轻人”](https://www.yicai.com/news/102728291.html)
-Token length: 1492
+Append: [潜在美联储主席候选人沃什：特朗普公开施压是正确的，我们最不需要的就是美联储一切照旧](https://wallstreetcn.com/articles/3751339)
+Token length: 1241
 Summarized using gemini model: gemini-2.0-flash
-Append: [金融租赁SPV试点再扩围！临港新增新能源、动力电池等四类租赁物](https://www.yicai.com/news/102729430.html)
-Token length: 745
+Append: [马上评｜“古城维护费”要经得起市场检验](https://m.thepaper.cn/detail/31203449)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [爱康回应“体检十年未查出患癌风险”：以第三方权威机构以及专家建议为准](https://m.thepaper.cn/detail/31203210)
+Token length: 2912
 Summarized using gemini model: gemini-2.0-flash
-Append: [滚动更新丨美股三大指数涨跌不一，科技七巨头多数上涨](https://www.yicai.com/news/102729437.html)
-Token length: 1556
-Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：强化成本真实和产品真实，制止新能源汽车等领域非理性竞争](https://www.yicai.com/news/102729425.html)
-Token length: 232
-Summarized using gemini model: gemini-2.0-flash
-Append: [全国产化AI一体机在深发布](https://www.yicai.com/news/102729362.html)
-Token length: 1768
-Summarized using gemini model: gemini-2.0-flash
-Append: [上海外滩FTC启幕，打造互联网优质内容创作新地标](https://www.yicai.com/news/102729383.html)
-Token length: 0
-Summarized using gemini model: gemini-2.0-flash
-Append: [这是12年前的我们！住在阴暗、潮湿的地下室， 致每一位80、90后，这是我们逝去的青春和记忆！ | 零度解说](https://www.freedidi.com/20219.html)
-Token length: 1379
-Summarized using gemini model: gemini-2.0-flash
-Append: [生猪养殖连续14个月盈利，农业农村部回应猪价下行压力](https://www.yicai.com/news/102729342.html)
-Token length: 3893
-Summarized using gemini model: gemini-2.0-flash
-Append: [稳定币：中美时代的“铸币权战争”](https://www.huxiu.com/article/4589086.html)
-Token length: 2605
-Summarized using gemini model: gemini-2.0-flash
-Append: [昔日暴利如今赚钱难，传统4S店艰难拥抱新市场](https://www.yicai.com/news/102729255.html)
-Token length: 1380
-Summarized using gemini model: gemini-2.0-flash
-Append: [第四代大学越来越多，还有多所新型研究型大学在筹建](https://www.yicai.com/news/102729295.html)
-Token length: 734
-Summarized using gemini model: gemini-2.0-flash
-Append: [“苏超”带火民航出行，开赛以来503万人次飞往江苏](https://www.yicai.com/news/102729315.html)
-Token length: 3599
-Summarized using gemini model: gemini-2.0-flash
-Append: [娃哈哈争产案最新文件曝光，宗馥莉“惹”上大麻烦](https://wallstreetcn.com/articles/3751341)
-Token length: 2534
-Summarized using gemini model: gemini-2.0-flash
-Append: [专业孵化人员增长33%，上海如何打造创新创业“引力场”](https://www.yicai.com/news/102729284.html)
-Token length: 2341
-Summarized using gemini model: gemini-2.0-flash
-Append: [美元强势反弹！人民币走出“强中间价、弱即期”](https://www.yicai.com/news/102729319.html)
-Token length: 2422
-Summarized using gemini model: gemini-2.0-flash
-Append: [控制权变更宣告终止，*ST金比拟受让方因信披违规收监管函](https://www.yicai.com/news/102729314.html)
-Token length: 1758
-Summarized using gemini model: gemini-2.0-flash
-Append: [丝竹萦绕耳畔，上海音乐厅推出VR项目呈现百年前上海](https://www.yicai.com/news/102729269.html)
-Token length: 2172
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国又又又威胁退群了，这次是国际能源署，唱的是哪出](https://www.yicai.com/news/102729256.html)
-Token length: 1890
-Summarized using gemini model: gemini-2.0-flash
-Append: [投资增速放缓但结构优化，下半年走势如何](https://www.yicai.com/news/102729251.html)
-append_entries: 20
-Finish: 2025-07-17 14:20:18.578268
+Append: [A股地产半年报继续“探底”，业内称未来有望修复利润表](https://www.yicai.com/news/102729087.html)
+append_entries: 6
+Finish: 2025-07-17 16:26:35.029730
