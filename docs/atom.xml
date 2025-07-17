@@ -2,210 +2,306 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-17T03:28:09Z</updated>
+    <updated>2025-07-17T04:38:32Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[vless://turboo-server@turbooserver.sadafspace.com:55990?security=reality&encryption=none&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&headerType=no...]]></title>
-        <link href="https://t.me/V2rayNg_madam/2810" />
-        <id>https://t.me/V2rayNg_madam/2810</id>
-        <updated>Wed, 16 Jul 2025 23:51:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词：VLESS, Reality, TCP, Canva, 配置
+        <title><![CDATA[vless://e1bb70ee-8ac0-4440-8bc9-c5a86ba442fb@em-2.webnama.com.tr:3799/?encryption=none&flow=&host=varzesh3.com&path=%2F&type=tcp&headerType=http#%F0%9...]]></title>
+        <link href="https://t.me/V2rayNg_madam/2807" />
+        <id>https://t.me/V2rayNg_madam/2807</id>
+        <updated>Wed, 16 Jul 2025 23:21:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：VLESS, TCP, HTTP, varzesh3.com, Poland
 
 <br><br>总结:
-1. 该配置使用VLESS协议进行数据传输。
-2. 安全性方面采用Reality机制进行加密，且没有额外加密层。
-3. 使用TCP协议进行连接。
-4. SNI（服务器名称指示）设置为canva.com，可能用于伪装流量。
-5. 目标服务器地址为turbooserver.sadafspace.com:55990，指明了连接的具体服务器和端口。
+1.  这是一个VLESS协议的连接配置。
+2.  传输协议为TCP，伪装类型为HTTP。
+3.  目标服务器的域名是varzesh3.com，端口号为3799。
+4.  连接路径为“/”。
+5.  连接目的地似乎与波兰（Poland）有关。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vless://turboo-server@turboo-server.sadafspace.com:48723?mode=gun&security=reality&encryption=none&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&fp=...]]></title>
-        <link href="https://t.me/V2rayNg_madam/2809" />
-        <id>https://t.me/V2rayNg_madam/2809</id>
-        <updated>Wed, 16 Jul 2025 23:51:14 +0800</updated>
-        <summary type="html"><![CDATA[VLESS, Reality, gRPC, TLS, trojan-go
+        <title><![CDATA[中国汽车上半年出口超300万辆，行业呼吁加强创新有序出海]]></title>
+        <link href="https://www.yicai.com/news/102727502.html" />
+        <id>https://www.yicai.com/news/102727502.html</id>
+        <updated>Wed, 16 Jul 2025 23:09:27 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 出海, 内卷, 中东, 汽车出口, 有序发展
 
 <br><br>总结:
-1. 该配置是一个VLESS协议的链接。
-2. 它使用了Reality安全模式进行流量伪装。
-3. 传输协议是gRPC。
-4. TLS/SSL通过sni=tgju.org进行域名伪装。
-5. 类似trojan-go通过域名伪装和Reality保证安全性。
+1. 中国汽车出口上半年增长显著，中东市场成为重要增长点，尤其是阿联酋和沙特。
+2. 奇瑞捷途旅行者在中东市场表现亮眼，出口销量占比高，方盒子SUV出口排名第一。
+3. 业界呼吁中国汽车产业有序出海，防止内卷外溢，避免恶性竞争。
+4. 车企要深化本土融合，深入研究目标市场需求，强化风险管控，并构建韧性生态。
+5. 中国汽车工业协会正在推动企业尊重当地文化和法律，处理好内部竞争，拒绝内卷。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[vless://turboo-server@108.162.192.201:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=cdn.sadafspace.com&fp=chrome&type=ws&sni=cdn.sada...]]></title>
-        <link href="https://t.me/V2rayNg_madam/2808" />
-        <id>https://t.me/V2rayNg_madam/2808</id>
-        <updated>Wed, 16 Jul 2025 23:51:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: VLESS, TLS, WebSocket, CDN, 域名伪装
+        <title><![CDATA[从 “会员专属” 到 “超市同款”山姆260元会员费还值吗？]]></title>
+        <link href="https://www.yicai.com/video/102727483.html" />
+        <id>https://www.yicai.com/video/102727483.html</id>
+        <updated>Wed, 16 Jul 2025 23:03:48 +0800</updated>
+        <summary type="html"><![CDATA[山姆会员店, 下架商品, 选品逻辑, 差异化商品力, 核心竞争力
 
 <br><br>总结:
-* 该链接提供了一个VLESS协议的连接配置。
-* 它使用TLS加密保证数据安全，并通过WebSocket协议传输数据。
-* 通过CDN (Content Delivery Network) 提供服务，并使用域名伪装（`cdn.sadafspace.com`）隐藏真实服务器地址。
-* 该连接的host设置为 `cdn.sadafspace.com`， SNI（服务器名称指示）也设置为`cdn.sadafspace.com`。
-* alpn设置为 `http/1.1`，并使用 chrome 的指纹 (fp=chrome) 来模拟浏览器行为。
+- 山姆会员店下架太阳饼、米布丁、低糖蛋黄酥等“口碑商品”，上架好丽友、溜溜梅等传统品牌，引发消费者质疑其“换品不换优”。
+- 消费者认为山姆的“差异化商品力”正在削弱。
+- 山姆的选品逻辑发生了变化，作为主打精选、高性价比、独家商品的会员制商超，这种变化令人关注。
+- 在高速扩张、本地化运营的背景下，山姆面临供应链与用户期待之间的拉扯。
+- 面对日益激烈的竞争，山姆要如何守住自己的核心竞争力是关键问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[科兴“宫斗”背后，第一大股东强新资本的算盘]]></title>
-        <link href="https://www.yicai.com/news/102727328.html" />
-        <id>https://www.yicai.com/news/102727328.html</id>
-        <updated>Wed, 16 Jul 2025 22:02:47 +0800</updated>
-        <summary type="html"><![CDATA[李嘉强, 科兴生物, 股权争夺, 强新科技, 创新药
+        <title><![CDATA[重庆支持整车企业在这些领域应用人工智能大模型]]></title>
+        <link href="https://www.yicai.com/news/102727320.html" />
+        <id>https://www.yicai.com/news/102727320.html</id>
+        <updated>Wed, 16 Jul 2025 22:17:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 人工智能, 大模型, 交通运输, 飞行汽车, AI Agent
 
 <br><br>总结:
-1. 李嘉强曾在美国创办并出售四家生物科技公司，现为强新科技创始人，该公司是一家不包含海外投资人的中国创新药企。
-2. 李嘉强控制的强新资本是科兴生物第一大股东，持有约三分之一股份。
-3. 李嘉强希望尽快结束科兴生物的股权纷争，原因是为了转移精力，推动强新科技的创新药研发上市。
-4. 李嘉强认为创新药领域更具投资价值，赢得科兴股权争夺战将为强新科技的资本布局增加筹码。
-5. 科兴生物股权争夺持续多年，导致其在纳斯达克停牌，目前争议仍在继续。
+① 交通运输部推动“人工智能+交通运输”行动，加速行业智能化升级。
+② 重庆市支持整车企业在飞行汽车研发和自动驾驶训练中应用人工智能大模型，推动产业创新。
+③ 黄仁勋认为中国在人形机器人发展方面具有独特优势，或将引领该领域发展。
+④ 稀宇科技发布MiniMax Agent全栈开发功能，助力AI Agent的开发和应用。
+⑤ 阶跃星辰计划在2025世界人工智能大会期间推出全新旗舰模型，提升AI性能。
+⑥ 软银计划年内部署10亿个AI Agent，预示AI Agent将迎来大规模应用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[报道称特朗普已起草解雇鲍威尔信函，特朗普回应：还不打算将其免职]]></title>
-        <link href="https://wallstreetcn.com/articles/3751259" />
-        <id>https://wallstreetcn.com/articles/3751259</id>
-        <updated>Thu, 17 Jul 2025 00:02:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普, 鲍威尔, 美联储, 解职, 金融市场
+        <title><![CDATA[澎湃回声丨村民因与被告同名遭法院冻结600万元，澎湃报道当天账户解冻]]></title>
+        <link href="https://m.thepaper.cn/detail/31195532" />
+        <id>https://m.thepaper.cn/detail/31195532</id>
+        <updated>Wed, 16 Jul 2025 21:29:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 王喜民, 账户解冻, 错误冻结, 民事诉讼, 国家赔偿
 
 <br><br>总结:
-1. 特朗普总统询问共和党议员是否应解雇美联储主席鲍威尔，引发市场猜测。
-2. 特朗普政府此前已对鲍威尔施压，并质疑美联储的资金管理。
-3. 法律上，总统是否有权解雇美联储主席存在争议，但市场普遍认为此举可能对金融市场产生负面影响。
-4. 消息传出后，美债、黄金、比特币价格上涨，美股和美元下跌，金融市场出现波动。
-5. 特朗普否认解雇鲍威尔的计划，但此前曾表示鲍威尔工作表现糟糕，市场随后出现反弹。
+* 吉林省德惠市王喜民因与通化市辉南县王喜民同名，被一起民事诉讼错误波及，导致账户被冻结，生活受到严重影响。
+* 新疆哈密市中级人民法院二审开庭，确认德惠市王喜民并非本案诉讼对象，二审不再进行实体审理。
+* 法院承诺庭后处理账户解封事宜。
+* 7月16日，德惠市王喜民的银行账户已成功解冻，恢复正常使用。
+* 律师将为王喜民申请国家赔偿，弥补因错误冻结账户带来的损失。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[kimi2实测：5分钟造3D游戏+个人网站，真·国产Claude级编程体验，含Cline教程]]></title>
-        <link href="https://juejin.cn/post/7526304394235002914" />
-        <id>https://juejin.cn/post/7526304394235002914</id>
-        <updated>Sun, 13 Jul 2025 18:56:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Kimi K2, 编程, 数据分析, API, 3D游戏
+        <title><![CDATA[特斯拉中国官宣六座Model Y L：今秋上市，业界预计售价约40万元]]></title>
+        <link href="https://m.thepaper.cn/detail/31194909" />
+        <id>https://m.thepaper.cn/detail/31194909</id>
+        <updated>Wed, 16 Jul 2025 21:16:10 +0800</updated>
+        <summary type="html"><![CDATA[特斯拉, Model Y L, 六座, 纯电SUV, 轴距
 
 <br><br>总结:
-1. Kimi K2模型在编程能力上有了显著提升，能够完成个人网站、3D小游戏等项目的开发，速度快，效果惊艳，甚至超越其他模型，并能够实现动态效果。
-2.  Kimi K2在数据分析方面表现出色，可以根据用户提供的Excel数据生成可视化报告，并给出选题和定价建议，分析结果详细且专业。
-3.  Kimi K2支持API使用，可以通过VS Code & Cline/RooCode 等多种方式进行无缝衔接，方便开发者使用，即使是编程小白也能轻松上手。
-4.  Kimi K2 降低了学习成本，让用户在国内就能享受到类似Claude的编程体验，拓展了Kimi的应用场景，不仅仅局限于文案生成。
-5.  建议小白用户可以先与AI单聊设计想法，获取技术栈和文件目录，再利用Kimi K2进行开发，逐步学习前端知识。
+1. 特斯拉官宣推出六座版Model Y L，定位介于Model Y和Model X之间，是上海超级工厂出品的旗舰车型。
+2. Model Y L为全轮驱动，轴距超过3米，车长约5米，具有超长续航、超大空间和更高级内饰。
+3. 新车预计售价40万元左右，将于今年秋季上市交付，工信部已公示相关车辆新产品。
+4. Model Y L车身尺寸为4997mm*1920mm*1668mm，比现有Model Y长约200mm。
+5. 特斯拉此举旨在刺激销量，应对Model Y销量下滑及中国市场大六座纯电SUV的市场竞争。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、命令、VPS、Docker<br>
+        <title><![CDATA[媒体：黄杨钿甜“天价耳环”事件追踪]]></title>
+        <link href="https://m.thepaper.cn/detail/31194507" />
+        <id>https://m.thepaper.cn/detail/31194507</id>
+        <updated>Wed, 16 Jul 2025 20:30:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 黄杨钿甜, 天价耳环, 杨伟, 违规经商, 舆论
+
+<br><br>总结:
+1. **天价耳环事件:** 耳环并非天价，价值数百元，是朋友赠送的玻璃饰品，而非珠宝品牌。
+2. **亿元别墅传闻:** “手指别墅”照片拍摄于多年前路过时，并非黄杨钿甜家，其家人也非该别墅业主。
+3. **父亲违规问题:** 父亲杨伟承认违规经商，已被没收违法所得3万元，隐瞒生育二孩问题因已离职不予追究。
+4. **姓氏问题:** 黄杨钿甜随爷爷姓黄，是当地“三代还祖”的习俗。
+5. **公司转让:** 转让注册资本1000万元（实缴为0）的空壳公司，是为了获取2600元转让收益。
+6. **舆论推波助澜:** 存在大量不实信息在网上散布，公安机关已查处多名编造、散布谣言者。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[邱贻可晒孙颖莎战绩：理性看待竞技起伏，互联网非法外之地]]></title>
+        <link href="https://m.thepaper.cn/detail/31194492" />
+        <id>https://m.thepaper.cn/detail/31194492</id>
+        <updated>Wed, 16 Jul 2025 20:22:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：邱贻可, 孙颖莎, 网暴, 战绩, 教练
+
+<br><br>总结:
+*   邱贻可教练在社交媒体上晒出孙颖莎的辉煌战绩，包括单打、双打和团体冠军数量，以及长期保持世界排名第一的记录。
+*   他回应了近期网络上针对他和孙颖莎的网暴行为，表示感谢球迷支持，但无法接受不实言论和人身攻击。
+*   邱贻可强调互联网不是法外之地，呼吁理性看待运动员和教练员的付出，并希望营造良好的舆论环境。
+*   此前，孙颖莎在美国大满贯赛事中遭遇滑铁卢，单打成绩不佳，双打也未能夺冠。
+*   邱贻可表示会与孙颖莎保持沟通，继续努力，感谢大家的支持。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[外交部亚洲司司长刘劲松就日本新版《防卫白皮书》涉华消极动向向日方提出严正交涉]]></title>
+        <link href="https://m.thepaper.cn/detail/31194317" />
+        <id>https://m.thepaper.cn/detail/31194317</id>
+        <updated>Wed, 16 Jul 2025 19:31:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词：外交部, 刘劲松, 日本, 防卫白皮书, 交涉
+
+<br><br>总结:
+1. 2025年7月16日，中国外交部亚洲司司长刘劲松约见了日本驻华使馆首席公使横地晃。
+2. 交涉原因是日本在7月15日发布的新版《防卫白皮书》中包含了涉华错误和消极表述。
+3. 中方对日方《防卫白皮书》中的相关内容表示强烈不满。
+4. 刘劲松司长代表中方就此向日方提出了严正交涉，表达了中方的立场和关切。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[聚在机舱门口围观明星致航班延误，“伴飞”粉丝被警方处罚]]></title>
+        <link href="https://m.thepaper.cn/detail/31194193" />
+        <id>https://m.thepaper.cn/detail/31194193</id>
+        <updated>Wed, 16 Jul 2025 18:43:45 +0800</updated>
+        <summary type="html"><![CDATA[追星, 扰序, 机场, 航班延误, 行政处罚
+
+<br><br>总结:
+1. 浙江机场公安公布两起“追星扰序”案例，明星在机场遭遇粉丝围堵。
+2. 一名粉丝强闯防爆检测围栏并推倒工作人员，被处以行政拘留。
+3. 数十名粉丝为近距离接触偶像，购买机票“伴飞”，在机舱门口围观拍照，导致航班延误，被拒载并移交警方。
+4. 警方对以“刷关”“伴飞”等方式扰乱秩序的粉丝给予行政处罚，此类行为违反《民用航空安全保卫条例》和《治安管理处罚法》。
+5. 今年以来，浙江机场公安已对20名追星扰序的违法行为人给予行政处罚。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[北约秘书长称巴西、中国等国或面临二级制裁，外交部：坚决反对]]></title>
+        <link href="https://m.thepaper.cn/detail/31193052" />
+        <id>https://m.thepaper.cn/detail/31193052</id>
+        <updated>Wed, 16 Jul 2025 15:30:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词：北约，二级制裁，乌克兰危机，对话谈判，劝和促谈
+
+<br><br>总结:
+1. 北约秘书长声称若俄罗斯不与乌克兰达成和平协议，巴西、中国和印度可能面临美国二级制裁。
+2. 外交部发言人重申中方立场，对话谈判是解决乌克兰危机的唯一出路，反对非法单边制裁和长臂管辖。
+3. 中方认为胁迫施压无法解决问题，希望各方为乌克兰危机政治解决营造氛围，积累条件。
+4. 中方呼吁各方多做有益于劝和促谈的事情。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[马上测丨多家网红女装尺码竟比童装小，4位女生试着试着心态“崩了”]]></title>
+        <link href="https://m.thepaper.cn/detail/31184944" />
+        <id>https://m.thepaper.cn/detail/31184944</id>
+        <updated>Thu, 17 Jul 2025 08:02:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 女装尺码, 缩水, 网红店, 身材焦虑, 审美霸凌
+
+<br><br>总结:
+1. 澎湃新闻调查发现，多家网红女装店的尺码存在“缩水”现象，部分女装尺寸甚至小于童装尺寸。
+2.  店铺尺码标识混乱，部分店铺的“均码”实际为S码或XS码，实际尺寸与网售标注不符。
+3. 尺码“缩水”背后是商家推崇“纤瘦”的畸形审美，加剧了女性的身材焦虑。
+4. 这种现象实际上是对女性的“身材霸凌”，限制了女性的穿衣自由。
+5. 评论指出，衣服应该服务于人，商家不应一味迎合畸形审美，最终会被市场抛弃。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华南理工“奖学金全覆盖改分级发放”新规引争议，校方已关注]]></title>
+        <link href="https://m.thepaper.cn/detail/31194758" />
+        <id>https://m.thepaper.cn/detail/31194758</id>
+        <updated>Thu, 17 Jul 2025 07:47:27 +0800</updated>
+        <summary type="html"><![CDATA[关键词：华南理工大学, 硕士研究生, 奖学金, 招生承诺, 分级发放
+
+<br><br>总结:
+1. 华南理工大学发布新规，将硕士研究生奖学金调整为分等级发放，适用于2025级及以后入学的研究生，原先是承诺全覆盖。
+2. 准研究生反映，招生宣传时学校承诺奖学金全覆盖，如今改为分级发放，与承诺不符。
+3. 校方表示已关注到学生反映，但未明确答复，而律师认为学校应按招生承诺履行，招生宣传手册属于合同组成部分。
+4. 新规将奖学金分为特等奖、一等奖、二等奖三个等级，获奖比例不同。
+5. 学生希望学校兑现承诺，并建议校方在招生前明确政策，避免后续纠纷。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[财晓得丨自动续费怎么成了AI用户的“钱包刺客”？]]></title>
+        <link href="https://m.thepaper.cn/detail/31121644" />
+        <id>https://m.thepaper.cn/detail/31121644</id>
+        <updated>Thu, 17 Jul 2025 07:45:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词：自动续费，AI用户，扣款，黑猫投诉，钱包刺客
+
+<br><br>总结:
+1. 大部分AI用户在不知情的情况下被开通了自动续费服务。
+2. 自动续费扣款时间常常发生在凌晨。
+3. 由于这些不合理的自动续费，AI用户遭遇了“钱包刺客”。
+4. 数据来源于对黑猫投诉平台521条相关投诉的爬取分析。
+5. 分析揭示了自动续费成为AI用户经济负担的现状。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[2025下半场，如何在新周期中破浪前行]]></title>
+        <link href="https://m.thepaper.cn/detail/31183757" />
+        <id>https://m.thepaper.cn/detail/31183757</id>
+        <updated>Thu, 17 Jul 2025 07:37:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 新周期, 新质生产力, 高质量发展, 内需潜力, 结构转型
+
+<br><br>总结:
+1. 2025下半年中国经济进入新周期，目标是完成“十四五”规划并为“十五五”打基础。
+2. 上半年经济数据表明，新质生产力加速成长，传统产业也在技术创新中焕发活力，GDP同比增长5.3%。
+3. 内需方面，消费和投资“双轮驱动”，社会消费品零售总额增长5.0%，制造业和基建投资稳步增长。
+4. 挑战在于全球经贸格局调整，出口面临压力，国内“供强需弱”和“内卷式”竞争持续。
+5. 下半年关键在于平衡稳增长与调结构，通过财政和货币政策创新，推动新质生产力发展和传统产业升级，资本市场有望迎来机遇。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[注册时间、容器、免费、部署、推荐
+<br><br>总结: Claw Cloud Run是一款免费容器，注册时间大于180天的Github用户可以每月获得5美元赠金，实现长期免费使用。用户可根据自己的需求搭建各种Docker应用，并可通过一键自动部署或手动部署。推荐部署的应用有轻笔记应用Memos和网盘挂载工具AList，可在Youtube视频中了解更多详情。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM、科学上网<br>
 <br>
-爪云（Claw Cloud Run）是一个提供内网穿透服务的平台，使用Docker部署，需要获取root权限和安装Docker。可以选择临时或固定隧道模式，固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名。相关的docker命令包括查看和操作容器。整个部署过程可以参考视频教程，包括爪云的注册和免费域名注册。通过这些步骤，可以快速搭建一个科学上网节点。总之，这篇文章介绍了如何在VPS上部署爪云内网穿透服务，以及相关的命令和教程。 <br><br>总结: 本文章介绍了如何在VPS上部署爪云内网穿透服务，使用Docker进行部署，包括临时和固定隧道模式的操作步骤，以及相关的docker命令和视频教程。]]></summary>
+谷歌云提供免费VPS政策，需要注册验证账号并添加付款方式，选择免费配置创建VM实例，确保数据保护设置为“无备份”，开放防火墙并使用SSH登录方式。建议科学上网使用Hysteria 2节点，注意免费政策和避免产生额外费用，最后可以使用甬哥一键脚本搭建科学上网节点。<br><br>总结: 谷歌云免费VPS政策允许注册验证后选择免费配置创建VM并搭建科学上网节点，注意数据保护设置和避免额外费用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名挂了、已注册的域名、Cloudflare、托管、FreeDNS、注册新域名、区别
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、注册、续期
 <br>
-us.kg免费域名是否挂了已成谜。已注册域名尚存在，可托管至Cloudflare。临时托管到FreeDNS。现仍可以注册新域名。两种域名的区别需考虑注册地址与域名使用情况。]]></summary>
+域名注册和管理工具DigitalPlat提供免费和收费两种域名选项，新用户可获得1个免费域名（通过Github加Star可增至2个），老用户可有3个免费域名（通过Github加Star可增至4个），us.kg域名不计入免费额度。所有域名都需要每年续期，续期是永久免费的，续期周期为一年，可在到期前180天内续期。详细操作教程可在Youtube视频中找到。GitHub、Cloudflare和us.kg域名都是相关服务的重要组成部分，大大方便了用户注册和管理域名。Cloudflare还提供Pages自定义域和SSL证书服务。总之，DigitalPlat为用户提供了便捷的域名管理解决方案，让用户能够轻松注册、续期和管理他们的域名。 <br><br>总结: 域名注册续期服务DigitalPlat方便用户管理域名，提供免费和收费域名选项，注册和续期均非常简便。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活
-总结：
-Serv00是一个项目，提供了科学上网节点搭建和网页保活的功能。用户可以通过Serv00提供的免费域名教程，使用Cloudflare固定隧道和CDN回源功能，来保证节点的稳定运行。另外，用户还可以通过Cloudflare远程保活功能，设置Worker来定时触发保活操作，确保节点持续在线。整个过程需要登录Serv00域名，进行节点搭建、设置隧道、回源规则等操作，最终实现科学上网节点的稳定运行。Serv00提供了多功能主页，方便用户进行节点管理和监控。通过本教程和视频指引，用户可以轻松搭建并保持节点运行。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG, 域名, 注册, 验证, Cloudflare
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、价格、ChatGPT
 
-US.KG域名现在受限，建议使用https://dash.domain.digitalplat.org/注册和KYC验证。注册账号后验证邮箱并进行KYC验证，然后注册域名并托管到Cloudflare。免费续订域名并注意免费域名的缺点。详情请看Youtube视频。<br><br>总结:建议使用https://dash.domain.digitalplat.org/注册US.KG域名，完成注册和验证步骤后托管到Cloudflare，注意免费域名的缺点。]]></summary>
+稳定性和速度表现良好，不需要保活，评价值得购买。在购买过程中，价格合理，体验良好。搭建代理节点后测速结果满意。ChatGPT降智问题存在，续费流程顺利。总体而言，HostUNO提供稳定、高速的服务，值得一试。购买时需注意ChatGPT降智问题，价格适中，续费便捷。总结: HostUNO提供优质的稳定性和速度，价格合理，使用体验良好，但购买时需注意ChatGPT降智问题并且续费流程便捷。值得一试。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
-Deepseek是一款强大的搜索工具，可以在网页端和APP上使用，还提供API供其他应用使用。用户可以使用Deepseek进行沉浸式翻译、Chatbox、欧路词典等功能。此外，用户还可以选择在本地部署Deepseek来更灵活地使用。部署过程包括下载Ollama并安装以及在终端输入指令下载和运行。对于模型选择，可以参考硬件推荐。整体而言，Deepseek提供了多种使用方式，用户可以根据自己的需求选择合适的方式来使用。<br><br>总结: Deepseek是一款强大的搜索工具，可以在网页端、APP上使用，提供API供其他应用调用，也支持本地部署。]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG免费域名 Cloudflare 托管 注册 身份信息生成器<br>
+<br>
+总结: 文章介绍了无法注册US.KG域名的情况，并推荐了另一个免费的域名注册方法，可以将域名托管到Cloudflare并享受一年免费服务。通过使用身份信息生成器辅助注册账号和填写信息，购买域名时输入优惠码可获得免费一年服务。最后通过登录Cloudflare并添加域名，并将分配的名称服务器填入域名管理界面，实现域名托管到Cloudflare。详细操作步骤可以查看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2024-12-20T10:00:29.846-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
