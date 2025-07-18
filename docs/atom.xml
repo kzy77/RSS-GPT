@@ -2,437 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-18T03:39:14Z</updated>
+    <updated>2025-07-18T04:38:51Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Cursor Claude 模型无法使用的解决方法]]></title>
-        <link href="https://juejin.cn/post/7527499205909741619" />
-        <id>https://juejin.cn/post/7527499205909741619</id>
-        <updated>Wed, 16 Jul 2025 20:41:03 +0800</updated>
-        <summary type="html"><![CDATA[Cursor, AI协同研发, Claude断供, HTTP兼容模式, 网络节点
-
-<br><br>总结:
-要点1: Cursor的用户今天遇到了“Model not available”的地区限制问题，影响了AI协同研发的效率。
-要点2: 问题的可能原因是Claude断供导致Cursor的策略调整，让用户感到不满。
-要点3: 临时解决方案有两个：一是将Cursor的HTTP Compatibility Mode设置为HTTP/1.1；二是配合更换网络节点，尤其是美国节点。
-要点4: 可以通过Network Diagnostics验证Cursor是否恢复可用，无需直接使用AI Chat浪费Token。
-要点5: 文章作者后续计划测评其他AI编程Agent，探索基于Cursor的新API方式，或自行实现Agent以应对Cursor的问题。
-]]></summary>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-05-30T03:32:37.586-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器，Github注册时间，5美元赠金，Docker应用，一键部署。Memso应用，轻笔记，AList应用，网盘挂载。<br><br>总结: Claw Cloud Run是一款免费容器，长时间Github用户可每月获得5美元赠金。可以搭建各种Docker应用，支持一键部署。推荐使用Memos和AList两款应用。可以通过查看Github注册时间确认是否满足条件。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Model Y加长，能让特斯拉再次赢回中国市场吗？]]></title>
-        <link href="https://www.36kr.com/p/3382969725467141" />
-        <id>https://www.36kr.com/p/3382969725467141</id>
-        <updated>Thu, 17 Jul 2025 20:37:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特斯拉, Model Y L, 中国市场, 六座SUV, 竞争
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录方式
 
-<br><br>总结:
-1. 特斯拉将在中国首发Model Y L车型，该车型为六座版本，轴距加长，动力有所提升。
-2. 特斯拉此举旨在应对中国市场日益激烈的竞争和市场份额的萎缩，此前在中国市场动作效果不佳，FSD落地也受阻。
-3. 中国品牌如小米、小鹏等都在对标特斯拉Model Y，且部分车型销量已超越。
-4. Model Y L在尺寸上与中国热销的六座SUV相比不具备优势，价格和产能也面临挑战。
-5. 理想汽车等竞争对手已纷纷回应特斯拉的举动，六座SUV市场竞争将更加激烈。
-]]></summary>
+谷歌云提供免费VPS政策，注册验证账号后可以创建完全免费的VM实例，并开放防火墙设置。通过SSH登录方式可以访问VPS，建议使用官方后台直接登录。科学上网注意事项包括使用Hysteria 2节点和免费政策，搭建节点可使用面板或甬哥一键脚本。务必避免产生额外费用，如将“数据保护”设置为“无备份”以避免扣费。总体来说，遵循正确的步骤和注意事项可以充分利用谷歌云的免费VPS服务。 <br><br>总结: 谷歌云提供免费VPS政策，注册、创建VM实例、设置防火墙、SSH登录方式和科学上网注意事项等关键步骤可让用户免费充分利用此服务。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[也是出息了，业务代码里面也用上算法了。]]></title>
-        <link href="https://www.cnblogs.com/thisiswhy/p/18984681" />
-        <id>https://www.cnblogs.com/thisiswhy/p/18984681</id>
-        <updated>Mon, 14 Jul 2025 21:17:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：业务代码, 优化, 算法, 下游系统, 接口
-
-<br><br>总结:
-1. 歪师傅在业务代码中发现了一个可以优化的点。
-2. 他想到了一个现成的算法可以用来优化代码。
-3. 优化目标是调用下游系统的统一接口。
-4. 歪师傅记录并分享了这个优化过程，属于业务代码中难得使用算法的例子。
-]]></summary>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、SSL证书、教程
+<br>总结：
+文章介绍了DigitalPlat平台提供的免费域名服务，包括两种域名选择、免费额度、续期规则等。用户可以通过Github加Star来增加免费域名额度。同时，提供了注册地址和美国地址生成器等相关链接。用户可以在Cloudflare官网申请自定义域和SSL证书。此外，文章还提供了Youtube视频教程，详细介绍了使用过程和操作步骤。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[商务部谈中美经贸关系：人为“脱钩”是脱不掉的]]></title>
-        <link href="https://www.yicai.com/news/102730167.html" />
-        <id>https://www.yicai.com/news/102730167.html</id>
-        <updated>Fri, 18 Jul 2025 11:08:05 +0800</updated>
-        <summary type="html"><![CDATA[中美经贸，脱钩，贸易额，王文涛，单边主义
-
-<br><br>总结:
-1. 中美经贸合作拥有坚实的经济和民意基础，人为“脱钩”无法实现。
-2. 商务部部长王文涛指出，尽管经历了风雨，中美仍然是重要的经贸伙伴。
-3. 自2018年以来，美国单边主义和保护主义行为干扰了中美正常的经贸合作。
-4. 尽管中美贸易在各自总额中的占比下降，但双边贸易总体保持稳定。
-5. 2024年，中美货物贸易额和服务贸易额分别达到6883亿美元和1558亿美元，相比2017年分别增长18%和34.7%。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[商务部部长王文涛昨日在京会见黄仁勋]]></title>
-        <link href="https://www.yicai.com/news/102730182.html" />
-        <id>https://www.yicai.com/news/102730182.html</id>
-        <updated>Fri, 18 Jul 2025 11:07:42 +0800</updated>
-        <summary type="html"><![CDATA[英伟达 黄仁勋 商务部 王文涛 会见
-
-<br><br>总结:
-*   商务部部长王文涛7月17日在北京会见了英伟达CEO黄仁勋。
-*   此消息由王文涛在国新办新闻发布会上透露。
-*   7月18日国新办举行了高质量完成“十四五”规划系列主题新闻发布会。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[财长谈健全横向生态保护补偿机制，部署四大重点任务]]></title>
-        <link href="https://www.yicai.com/news/102729990.html" />
-        <id>https://www.yicai.com/news/102729990.html</id>
-        <updated>Fri, 18 Jul 2025 10:34:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：生态保护补偿机制，大江大河，省际流域，补偿形式，基础研究
-
-<br><br>总结:
-1. 中国正积极完善横向生态保护补偿机制，财政部等多部门出台相关政策文件，重点推进长江、黄河干流的统一流域横向生态保护补偿机制建设，目标是在2027年建成并稳定运行。
-
-2. 深化省际间重点流域补偿机制建设，中央部门加强协同联动，地方承担主体责任，完善奖励政策，确保到2027年基本实现省内重点流域横向生态保护补偿机制全覆盖。
-
-3. 拓展和丰富补偿机制的形式和内涵，从水资源、水环境、水生态统筹，鼓励将水量、水生态指标纳入补偿考核范围，探索生态产品价值核算，推动财政补偿向市场化补偿拓展，并在森林、草原、湿地等其他生态要素上进行探索。
-
-4. 完善基础研究支持，包括深入开展流域生态保护补偿相关技术研究，加强水资源、水环境、水生态监测支撑能力建设，健全调查体系和长效监测机制。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[“十四五”以来我国累计吸收外资超7000亿美元]]></title>
-        <link href="https://www.yicai.com/news/102730028.html" />
-        <id>https://www.yicai.com/news/102730028.html</id>
-        <updated>Fri, 18 Jul 2025 10:14:45 +0800</updated>
-        <summary type="html"><![CDATA[关键词：外资，外贸，韧性，投资中国，十四五
-
-<br><br>总结:
-1. “十四五”以来，中国外贸表现出强大韧性，货物贸易保持全球第一，出口和进口市场份额稳定。
-2. 服务贸易规模位居全球第二。
-3. 累计吸收外资超过7000亿美元，超出预期目标。
-4. “投资中国”的金字招牌更加闪亮。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[今年我国社会消费品零售总额有望突破50万亿元]]></title>
-        <link href="https://www.yicai.com/news/102730014.html" />
-        <id>https://www.yicai.com/news/102730014.html</id>
-        <updated>Fri, 18 Jul 2025 10:08:32 +0800</updated>
-        <summary type="html"><![CDATA[关键词：社会消费品零售总额，年均增长，十四五，消费市场，50万亿元
-
-<br><br>总结:
-*   “十四五”期间，中国消费市场规模保持全球第二。
-*   过去四年，社会消费品零售总额年均增长5.5%。
-*   预计今年社会消费品零售总额将突破50万亿元人民币。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一线发布丨商务部部长王文涛介绍“十四五”商务高质量发展成就]]></title>
-        <link href="https://www.yicai.com/live/102729111.html" />
-        <id>https://www.yicai.com/live/102729111.html</id>
-        <updated>Fri, 18 Jul 2025 10:02:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 国务院新闻办公室, 新闻发布会, “十四五”规划, 商务部, 王文涛
-
-<br><br>总结:
-1. 国务院新闻办公室将于2025年7月18日上午10时举行新闻发布会。
-2. 发布会主题为“高质量完成‘十四五’规划”系列。
-3. 商务部部长王文涛将出席发布会。
-4. 王文涛部长将介绍“十四五”商务高质量发展成就。
-5. 发布会将设置答记者问环节。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[数据利好 美联储官员对利率前景分歧；特朗普拟开放401(k) 账户投资加密货币、黄金与私募资产]]></title>
-        <link href="https://www.yicai.com/news/102729772.html" />
-        <id>https://www.yicai.com/news/102729772.html</id>
-        <updated>Fri, 18 Jul 2025 09:49:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词：零售销售，特朗普，特斯拉，奈飞，旅行需求
-
-<br><br>总结:
-
-① 美国6月零售销售强劲反弹，劳动力市场稳固，但结构性风险犹存；美联储官员对降息时机存在分歧，前财长警告特朗普的利率偏好可能引发通胀。
-
-② 特朗普计划允许401(k)账户投资加密货币、黄金等另类资产，可能改变退休金市场格局，但也带来风险。
-
-③ 特斯拉推出Model Y L六座版车型，市场反应积极，但交付量下滑和政策风险需警惕；马斯克旗下xAI正与沙特洽谈租赁数据中心。
-
-④ 奈飞二季度利润创新高，上调全年指引，但高估值和成本压力导致盘后股价下跌。
-
-⑤ 旅行需求回暖提振信心，美联航上调全年利润目标，但宏观经济不确定性仍存。
-
-⑥ 美银下调Centene和HCA医疗评级，担忧特朗普“大而美”法案对医疗板块的影响。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普否认致信爱泼斯坦 称《华尔街日报》刊登“伪造信件”]]></title>
-        <link href="https://www.yicai.com/news/102729910.html" />
-        <id>https://www.yicai.com/news/102729910.html</id>
-        <updated>Fri, 18 Jul 2025 09:48:25 +0800</updated>
-        <summary type="html"><![CDATA[特朗普, 爱泼斯坦, 《华尔街日报》, 伪造信件, 诽谤
-
-<br><br>总结:
-1. 特朗普否认与爱泼斯坦有任何不当关联，并称相关报道为“假新闻”。
-2. 《华尔街日报》刊登了一封据称是特朗普在2003年写给爱泼斯坦的生日信件。
-3. 特朗普怒斥《华尔街日报》刊登“伪造信件”，指责其“虚假、恶意、诽谤”。
-4. 特朗普表示将起诉《华尔街日报》、新闻集团及鲁珀特·默多克本人。
-5. 特朗普声称已警告默多克及主编该信为伪造，但对方仍执意刊发。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[滚动更新丨A股三大股指持续拉升，稀土永磁概念股再度大涨]]></title>
-        <link href="https://www.yicai.com/news/102729899.html" />
-        <id>https://www.yicai.com/news/102729899.html</id>
-        <updated>Fri, 18 Jul 2025 09:37:59 +0800</updated>
-        <summary type="html"><![CDATA[脑机接口, 医药商业, 多模态AI, 稀土永磁, RWA
-
-<br><br>总结:
-1.  A股三大股指集体高开，脑机接口、医药商业、多模态AI、短剧游戏等板块活跃，光伏、多元金融等板块走低。
-2.  稀土永磁概念股走强，多家公司中报预增。
-3.  稳定币、跨境支付概念活跃，多家公司就RWA达成战略合作。港股华检医疗启动“IVDNewCo Exchange”全球首个聚焦医疗创新药NewCo高科技资产的RWA交易所生态及“IVDD”稳定币计划。
-4.  AI智能体概念股开盘活跃，OpenAI发布重磅产品ChatGPT Agent。
-5.  沪深两市成交额突破5000亿，且连续37个交易日突破1万亿，较昨日此时放量超1100亿。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[坏了，以色列怎么变成“正义使者”了？]]></title>
-        <link href="https://www.huxiu.com/article/4590516.html" />
-        <id>https://www.huxiu.com/article/4590516.html</id>
-        <updated>Fri, 18 Jul 2025 09:27:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 叙利亚, 德鲁兹人, 以色列, 西方, 道德叙事
-
-<br><br>总结:
-1.  叙利亚苏韦达省爆发冲突，起因是德鲁兹人与贝都因人之间的抢劫报复，后演变为叙政府军与贝都因民兵联合屠杀德鲁兹社区。
-2.  苏韦达省地理位置重要，扼守大马士革南部门户，是叙政府和以色列争夺的战略要地，该地直接关系到叙利亚首都的安全和以色列边境的稳定。
-3.  德鲁兹人是叙利亚少数族群，长期受政府猜忌，自治空间被挤压，面临生存危机；本次事件中，他们对新政府缺乏信任，寻求外部保护。
-4.  以色列罕见空袭叙政府军目标，目的是阻止增援苏韦达，保护德鲁兹人，并转移国内政治压力，同时维护自身边境安全。
-5.  国际社会对叙利亚新政府屠杀行为沉默，凸显西方在国际关系中选择性运用道德叙事，国家行为更多受生存与安全利益驱动，半岛电视台陷入报道困境。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[双重间谍、大国博弈、地缘政治：福赛斯的小说世界]]></title>
-        <link href="https://www.yicai.com/news/102729801.html" />
-        <id>https://www.yicai.com/news/102729801.html</id>
-        <updated>Fri, 18 Jul 2025 09:25:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词：福赛斯, 惊险小说, 间谍, 冷战, 《敖德萨档案》
-
-<br><br>总结:
-1.  福赛斯是国际政治惊险小说大师，其小说以清晰易懂的故事、明快的节奏和扣人心弦的情节著称。
-2.  《敖德萨档案》是他重要的作品，展现了他成熟的世界观，将虚实结合的灵感转化为确凿的故事。
-3.  他的小说细节精确，专业性强，体现了他对情报工作、媒体、政治格局、军事国防等方面的全知全能。
-4.  福赛斯的小说紧跟时代，从冷战到苏联解体再到“9·11”，他始终关注国际政治局势的变化，并将其融入创作中。
-5.  后期，福赛斯立场趋于保守，作品主题转为追捕绝对恶势力，小说人物形象也逐渐扁平化。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[战后德国如何重塑自信、与过去达成和解？]]></title>
-        <link href="https://www.yicai.com/news/102729795.html" />
-        <id>https://www.yicai.com/news/102729795.html</id>
-        <updated>Fri, 18 Jul 2025 09:25:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词：德国反思, 战后重建, 教育改造, 环保主义, 世代反抗
-
-<br><br>总结:
-1. 西方占领国对战后德国的教育政策影响深远，推动了反战、和平主义和反思纳粹专制的教育方针。
-2. 历史学家康拉德·H.雅劳施通过个人经历、团体机构的合作关系和公开辩论，尝试解读德国如何从物质和道德的沉沦中再度崛起，实现“人性回归”。
-3. 雅劳施将战后德国历史划分为三个阶段：清理纳粹遗毒、与西方接轨建立包容社会、两德统一后建立新体制并保持开放文化。
-4. 战后初期，媒体兴起对德国人的思想改造起到了重要作用。
-5. 上世纪六七十年代，德国年轻人通过世代反抗、参与社会运动，推动了价值观的转变，并积极寻找改变社会的领域，最终推动了女性权益运动和生态主义的发展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[境外间谍利用寄递手段窃取我稀土相关物项，国安机关坚决截断]]></title>
-        <link href="https://m.thepaper.cn/detail/31208987" />
-        <id>https://m.thepaper.cn/detail/31208987</id>
-        <updated>Fri, 18 Jul 2025 07:42:58 +0800</updated>
-        <summary type="html"><![CDATA[稀土, 出口管制, 间谍, 窃取, 国家安全
-
-<br><br>总结:
-1. 我国作为稀土大国，稀土资源对国家战略具有重要意义。
-2. 境外间谍情报机关及其代理人企图通过内外勾结，以伪报品名、夹带私货等手段窃取我国稀土相关物项。
-3. 这些非法活动严重危害我国国家安全。
-4. 国家安全机关会同有关部门采取行动，截断稀土相关物项非法出境渠道。
-5. 公民应积极举报危害关键矿产资源安全的可疑线索，共同维护国家安全。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[十字路口的古镇｜成都古镇样本调查：重资产困境与破局之道]]></title>
-        <link href="https://m.thepaper.cn/detail/31177794" />
-        <id>https://m.thepaper.cn/detail/31177794</id>
-        <updated>Fri, 18 Jul 2025 07:31:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 古镇转型, 龙潭水乡, 元通古镇, 文化赋能, 重资产/轻资产
-
-<br><br>总结:
-1.  古镇转型是时代命题，面临“假古镇”、“人造古镇”的困境，需要升级改造。
-2.  龙潭水乡是“重资产”投入的仿古小镇，初期客流大，后因定位模糊、特色不鲜明、缺乏持续宣传和交通不便等问题，导致游客锐减，商铺倒闭。
-3.  元通古镇是“轻资产”投入的千年古镇，初期受限于地理位置和人口，发展受限，面临“半日游”困境。
-4.  元通古镇通过文化IP赋能文旅升级，举办民俗活动（元通清明春台会）和喜剧周（与开心麻花合作），吸引年轻人，打破交通区位短板，实现客流量增长。
-5.  古镇发展应根据自身特色找准市场定位，打造独特文旅场景，文旅投资应倾向重创意、轻投资，充分利用文化遗产，内容和形式上不断创新，吸引年轻人。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[释新闻｜强势介入叙南部冲突，以色列为何要“保护德鲁兹人”？]]></title>
-        <link href="https://m.thepaper.cn/detail/31204208" />
-        <id>https://m.thepaper.cn/detail/31204208</id>
-        <updated>Fri, 18 Jul 2025 07:22:03 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 叙利亚, 德鲁兹, 以色列, 冲突, 新政权
-
-<br><br>总结:
-1.  叙利亚南部苏韦达省爆发德鲁兹武装与贝都因部落冲突，叙政权武装介入，后达成停火协议。
-2.  以色列以保护叙利亚德鲁兹人为由介入冲突，并空袭大马士革叙利亚“总统府”和“总参谋部”。
-3.  叙利亚新政权领导人指责以色列试图分裂叙利亚，强调保护德鲁兹人权益。
-4.  德鲁兹派在叙利亚内战中保持中立，对新政权持谨慎态度，不愿被其统治。
-5.  以色列积极笼络北部边境的德鲁兹社群，干预叙利亚局势，旨在遏制潜在威胁，扩大对叙南部控制。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[连续3个月减持！5月中国减持9亿美元美债，日本、英国增持]]></title>
-        <link href="https://m.thepaper.cn/detail/31205140" />
-        <id>https://m.thepaper.cn/detail/31205140</id>
-        <updated>Fri, 18 Jul 2025 07:13:28 +0800</updated>
-        <summary type="html"><![CDATA[美债, 减持, 中国, 日本, 英国
-
-<br><br>总结:
-1. 2025年5月，日本和英国增持美国国债，分别增持5亿美元和17亿美元，保持美国第一和第二大债主地位。
-2. 中国继续减持美国国债9亿美元，为连续第三个月减持，持仓规模降至7563亿美元，仍为美国第三大债主。
-3. 中国自2022年4月以来，美债持仓持续低于1万亿美元，总体呈减持趋势。
-4. 5月海外对美国证券和银行现金流净流入总额为3111亿美元，其中私人资金净流入显著，官方资金净流出。
-5. 5月海外净买入美国长期证券3185亿美元，但调整后总体净卖出2594亿美元。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普被确诊患静脉疾病]]></title>
-        <link href="https://m.thepaper.cn/detail/31208640" />
-        <id>https://m.thepaper.cn/detail/31208640</id>
-        <updated>Fri, 18 Jul 2025 04:19:52 +0800</updated>
-        <summary type="html"><![CDATA[特朗普, 腿部肿胀, 静脉功能不全, 超声检查, 79岁
-
-<br><br>总结:
-* 特朗普近日出现腿部肿胀。
-* 诊断结果为慢性静脉功能不全，这在70岁以上人群中常见。
-* 超声检查显示没有发现心力衰竭或肾功能障碍等严重疾病。
-* 特朗普今年79岁。
-* 他上周观看国际足联俱乐部世界杯决赛时，脚踝肿胀照片引发外界对其健康状况的猜测。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T20:14:54.917-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-06-07T01:59:26.947-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token。<br>
-爪云和内网穿透的部署过程需要注册并获取 UUID 和 Cloudflare 隧道 Token，然后使用相应的命令和工具进行部署。可以选择临时或固定隧道模式，通过 Docker 命令来启动和管理容器。对于固定隧道模式，需要提前准备好相应的变量并按照指定格式输入到命令中。视频教程提供了详细的步骤指导，帮助用户快速实现科学上网节点部署。总结: 爪云和内网穿透部署需要注册并获取UUID和Cloudflare隧道Token，使用Docker命令启动容器，提供临时或固定隧道模式选择。视频教程提供详细指导。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg, 注册地址, Cloudflare, FreeDNS, 域名区别  
-us.kg免费域名是否挂了目前尚未确认，已注册的域名仍然存在。新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。现在仍可以注册新的us.kg域名，不过需要注意两种域名的区别。请留意注册地址并注意域名的托管服务选择。对于已注册的域名，可考虑使用Cloudflare进行托管。<br><br>总结: us.kg域名未挂，可注册新域名，可选择Cloudflare托管。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare、CDN回源、网页保活
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、价格
 <br>
-Serv00是一个能够帮助用户科学上网的工具，通过Cloudflare固定隧道和CDN回源实现网络加速与隐藏真实IP的功能。用户可以通过网页保活功能保持节点的稳定性，同时利用Cloudflare远程保活功能可以远程控制节点的运行状态。整个教程详细介绍了如何注册Serv00账号、搭建科学上网节点、设置Cloudflare固定隧道、配置CDN回源以及使用网页保活和Cloudflare远程保活功能。通过观看视频教程并按照其中的步骤操作，用户可以快速搭建自己的科学上网节点并实现网络加速和保护隐私的目的。<br><br>总结:Serv00工具可助于搭建科学上网节点，使用Cloudflare固定隧道和CDN回源加速网络连接，同时通过网页保活和Cloudflare远程保活功能保持节点稳定。]]></summary>
+稳定性和速度表现良好，无需保活，但存在ChatGPT降智问题。HostUNO在价格方面合理，购买流程简便，可修改登录密码。搭建代理节点耗时较长，需独立测速。续费方式简单明了。总体来说，HostUNO值得购买，但需注意ChatGPT降智问题。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、视频教程
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
 <br>
-总结: 通过视频了解到，想要注册US.KG域名需先在https://dash.domain.digitalplat.org/完成注册和KYC验证。注册账号后，验证邮箱并上传KYC文件，再注册域名并托管到Cloudflare。视频详细介绍了整个注册流程，包括免费续订域名和免费域名的缺点，帮助大家顺利完成US.KG域名注册。]]></summary>
+US.KG注册不了，推荐使用免费域名注册并托管到Cloudflare。首先使用身份信息生成器注册账号，然后购买免费域名并输入优惠码(newuser)享受一年免费。最后登录Cloudflare，将域名托管至其平台。详细步骤可查看Youtube视频。 
+<br><br>
+总结: US.KG注册不了，推荐使用免费域名注册并托管到Cloudflare。首先注册账号，购买免费域名并输入优惠码(newuser)享受一年免费，最后将域名托管至Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, Deepseek网页端, Deepseek APP, Deepseek API, 本地部署
-<br>
-Deepseek是一个人工智能软件，可通过网页端、APP和API进行使用，也可本地部署。用户可以在Deepseek官方网站或手机客户端上使用，也可以通过API与其他应用集成，如Perplexity、Chatbox等。此外，用户还可以选择将Deepseek本地部署，具体方法是下载并安装Ollama后通过命令提示符运行。整体而言，Deepseek提供了多种方便的使用途径，用户可以根据需求选择合适的方式进行体验。 
-<br><br>总结:Deepseek是一个人工智能软件，用户可以通过网页端、APP、API或本地部署进行使用，提供了多种方便的使用途径。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
