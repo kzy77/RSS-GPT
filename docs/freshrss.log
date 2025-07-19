@@ -1,24 +1,47 @@
 ------------------------------------------------------
-Started: 2025-07-19 10:20:21.179777
-Existing_entries: 20
+Started: 2025-07-19 12:38:10.972427
+Existing_entries: 6
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 260
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [官方通报杭州余杭自来水异味](https://m.thepaper.cn/detail/31220173)
-Token length: 554
+Append: [实测！马斯克AI女友，Grok首发3D伴侣，性感睡衣、物理抖动！虚拟“致命诱惑”来了！| 零度解说](https://www.freedidi.com/20224.html)
+Token length: 85
 Summarized using gemini model: gemini-2.0-flash
-Append: [国家出口管制工作协调机制办公室部署推进打击战略矿产走私出口专项行动](https://m.thepaper.cn/detail/31220137)
-Token length: 579
+Append: [越南前国家领导人阮春福、武文赏、王庭惠等被解除党内职务](https://m.thepaper.cn/detail/31220640)
+Token length: 945
 Summarized using gemini model: gemini-2.0-flash
-Append: [福建福耀科技大学在广西本科普通批最低投档线公布，超过多所双一流名校](https://m.thepaper.cn/detail/31219841)
-Token length: 3144
+Append: [上海数学界的“言哥”获国际数学奥林匹克竞赛满分，明年大赛将在沪举行](https://m.thepaper.cn/detail/31220097)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [国产电池大容量，三星 iPhone 用不上](https://www.36kr.com/p/3384474596720132)
+Token length: 2699
 Summarized using gemini model: gemini-2.0-flash
-Append: [从176亿到68亿！深圳拟近四折价格收储深港综合体项目，世茂起诉要求返还土地出让金](https://m.thepaper.cn/detail/31211544)
-Token length: 1018
+Append: [宁波杀出超级隐形冠军：卖平价空调年入300亿，全球第五](https://www.36kr.com/p/3384387263069698)
+Token length: 2811
 Summarized using gemini model: gemini-2.0-flash
-Append: [光明日报：堂食与外卖“双标”，怎么成了生意经？](https://m.thepaper.cn/detail/31218435)
-Token length: 1246
+Append: [做游戏好过做外卖，字节不装了](https://www.36kr.com/p/3384382576056453)
+Token length: 2055
 Summarized using gemini model: gemini-2.0-flash
-Append: [OpenAI之后，苹果也被Meta挖麻了，疑似2名庞若鸣嫡系出走](https://www.36kr.com/p/3384328095300871)
-append_entries: 6
-Finish: 2025-07-19 10:20:36.878518
+Append: [言短意长｜考生给福耀科技大学“投票”](https://m.thepaper.cn/detail/31220129)
+Token length: 6208
+Summarized using gemini model: gemini-2.0-flash
+Append: [9点1氪｜被订书钉损坏的Switch 2拍出179万天价；239亿深圳地王或被三折贱卖；市场监管总局约谈外卖平台要求理性竞争](https://www.36kr.com/p/3385160820408066)
+Token length: 2842
+Summarized using gemini model: gemini-2.0-flash
+Append: [专访｜演员赵今麦：允许自己慢一点，成长不是赛跑](https://m.thepaper.cn/detail/31203364)
+Token length: 2707
+Summarized using gemini model: gemini-2.0-flash
+Append: [旧手机先别扔，花不到70元，10年前旧手机「秒变」数据中心：下海识鱼8小时都没掉线](https://www.36kr.com/p/3384408688148231)
+Token length: 2076
+Summarized using gemini model: gemini-2.0-flash
+Append: [硅谷开启新一轮裁员，拥抱AI、或是被AI淘汰](https://www.36kr.com/p/3384310270442756)
+Token length: 5795
+Summarized using gemini model: gemini-2.0-flash
+Append: [用 Kimi K2 写前端是一种什么体验？还支持 Claude Code 接入？](https://juejin.cn/post/7526305931421286400)
+Token length: 452
+Summarized using gemini model: gemini-2.0-flash
+Append: [被骗至缅甸失联近半月的19岁高考生已找到：正准备回国事宜](https://m.thepaper.cn/detail/31219529)
+Token length: 2168
+Summarized using gemini model: gemini-2.0-flash
+Append: [买百万豪车要多花10万？“豪车税”门槛降至90万元，纯电车纳入征收范围](https://www.36kr.com/p/3384248011144192)
+append_entries: 14
+Finish: 2025-07-19 12:39:19.697123
