@@ -2,289 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-19T12:39:31Z</updated>
+    <updated>2025-07-19T14:20:51Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[用 Kimi K2 写前端是一种什么体验？还支持 Claude Code 接入？]]></title>
-        <link href="https://juejin.cn/post/7526305931421286400" />
-        <id>https://juejin.cn/post/7526305931421286400</id>
-        <updated>Sun, 13 Jul 2025 16:56:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Kimi K2模型, 开源, 前端编程, cline, Claude Code
+        <title><![CDATA[香奈儿柜员和顾客发生肢体冲突，合肥蜀山警方通报]]></title>
+        <link href="https://m.thepaper.cn/detail/31220654" />
+        <id>https://m.thepaper.cn/detail/31220654</id>
+        <updated>Sat, 19 Jul 2025 18:26:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词：合肥 万象城 香奈儿 互殴 警情通报
 
 <br><br>总结:
-1.  Kimi 宣布 K2 模型正式可用并开源，该模型在 SWE-bench Verified、SWE-bench Multilingual、LiveCodeBench v6、OJBench 四个指标上表现良好，尤其在理解真实项目上下文和跨语言修复方面。
-
-2.  通过 cline 插件，文章测试了 K2 模型在前端编程中的应用，包括复杂表单生成与校验以及画廊站点生成。在表单生成中，K2 模型能生成包含多步骤校验和动态字段的 React 表单，但在依赖管理方面存在小问题。画廊站点生成中，K2 模型实现了无限滚动、图片懒加载等功能，首次生成后经修复达到预期效果。
-
-3.  K2 模型还兼容 Claude Code 的使用方式，用户可以通过配置 API 密钥和 URL，直接在 Claude Code 中使用 K2 模型进行编程。
-
-4.  K2 模型的定价具有竞争力，使其性价比很高。
-
-5.  当前 K2 模型的缺点是不支持多模态和缺乏 thinking 模型。
+1. 合肥市公安局蜀山分局发布警情通报。
+2. 事件涉及合肥万象城香奈儿店铺。
+3. 网传视频显示该店铺工作人员和顾客发生互殴。
+4. 该事件在社交平台引发热议。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[实测！马斯克AI女友，Grok首发3D伴侣，性感睡衣、物理抖动！虚拟“致命诱惑”来了！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/20224.html" />
-        <id>https://www.freedidi.com/20224.html</id>
-        <updated>Sat, 19 Jul 2025 20:31:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：LLM, 推理, 提示工程, 知识检索, 鲁棒性
+        <title><![CDATA[官方通报杭州余杭自来水异味]]></title>
+        <link href="https://m.thepaper.cn/detail/31220173" />
+        <id>https://m.thepaper.cn/detail/31220173</id>
+        <updated>Sat, 19 Jul 2025 15:30:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词：水质异常，藻类降解，硫醚类物质，应急预案，不信谣传谣
 
 <br><br>总结:
-1. 大语言模型(LLM)在复杂推理任务中表现出潜力，但其性能受提示词质量影响较大。
-2. 提示工程旨在优化提示词，提升LLM在特定任务上的表现，涉及各种技巧。
-3. 知识检索增强可以提高LLM的知识储备，并辅助推理过程。
-4. LLM在面对对抗性输入或数据漂移时，鲁棒性面临挑战。
-5. 研究致力于改进LLM的推理能力，提高提示工程的有效性，并增强其鲁棒性，使其在实际应用中更加可靠。
+1. 7月16日，杭州余杭区仁和水厂发现水质嗅味指标异常，疑似污染。
+2. 经分析确认为藻类厌氧降解产生的硫醚类物质导致异味，具体原因仍在调查。
+3. 水厂已启动应急预案，切换水源，出厂水质安全可控。
+4. 针对网上“粪水”等谣言，警方已介入查处，呼吁居民不信谣、不传谣。
+5. 政府对事件给居民带来的影响表示歉意，并承诺加强管理，确保供水安全。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[越南前国家领导人阮春福、武文赏、王庭惠等被解除党内职务]]></title>
-        <link href="https://m.thepaper.cn/detail/31220640" />
-        <id>https://m.thepaper.cn/detail/31220640</id>
-        <updated>Sat, 19 Jul 2025 17:30:08 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 越南，人事变动，阮春福，武文赏，王庭惠
+        <title><![CDATA[国家出口管制工作协调机制办公室部署推进打击战略矿产走私出口专项行动]]></title>
+        <link href="https://m.thepaper.cn/detail/31220137" />
+        <id>https://m.thepaper.cn/detail/31220137</id>
+        <updated>Sat, 19 Jul 2025 15:14:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词：战略矿产，走私出口，出口管制，专项行动，联合执法
 
 <br><br>总结:
-越共中央解除了一系列前任高级领导人的职务，包括：
-1. 前总理阮春福在越共党内的一切职务。
-2. 前国家主席武文赏在越共党内的一切职务。
-3. 前国会主席王庭惠在越共党内的一切职务。
-4. 前越共中央书记处书记黎明慨在越共党内的一切职务。
+1. 国家多部门联合召开会议，总结了打击战略矿产走私出口专项行动的阶段性成效。
+2. 会议分析了当前严峻的打私形势，指出走私手法日趋隐蔽，需要保持高压态势。
+3. 会议要求持续深入开展专项行动，加大执法力度，研究建立两用物项出口管制联合执法协调中心。
+4. 会议强调要依法从严从快查办案件，公布典型案例，防止绕道出口，将规避出口管制措施的境外用户列入管控名单。
+5. 会议要求制定战略矿产合规出口工作指引，指导出口企业做好尽职调查，严防物项被非法用于军事。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[上海数学界的“言哥”获国际数学奥林匹克竞赛满分，明年大赛将在沪举行]]></title>
-        <link href="https://m.thepaper.cn/detail/31220097" />
-        <id>https://m.thepaper.cn/detail/31220097</id>
-        <updated>Sat, 19 Jul 2025 15:27:21 +0800</updated>
-        <summary type="html"><![CDATA[IMO, 中国队, 邓乐言, 上海中学, 满分
+        <title><![CDATA[杨植麟摸着DeepSeek过河]]></title>
+        <link href="https://www.36kr.com/p/3385374882397957" />
+        <id>https://www.36kr.com/p/3385374882397957</id>
+        <updated>Sat, 19 Jul 2025 12:25:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Kimi K2, 开源模型, 智能体, DeepSeek, AGI
 
 <br><br>总结:
-1. 2025年第66届国际数学奥林匹克竞赛（IMO）在澳大利亚举行，中国队获得世界第一，全员摘金。
-2. 上海中学的邓乐言和巴蜀中学的张恒烨获得满分，邓乐言是上海中学近十年来首位以高一身份入选国家队的选手，并首次参赛就获得满分金牌。
-3. 中国队共获得六枚金牌，其余四名队员也表现出色，均获得金牌。
-4. 上海中学历来重视数学人才培养，已获得18枚IMO金牌，位居我国同类学校第一。
-5. 2026年第67届IMO将在上海中学举行。
+1. 月之暗面开源万亿参数MoE模型Kimi K2，擅长编程和智能体任务，性能超过DeepSeek-V3和阿里Qwen2，下载量迅速攀升，引发全球开发者社区震动。
+2. K2主打高性能、低成本，专注智能体能力，优化工具调用速度和质量，降低模型训练和使用成本，API定价低于Claude 4 Sonnet 75%。
+3. Kimi引入新优化器Muon，降低算力需求。
+4. DeepSeek R1发布后，行业共识转向追求模型能力提升，Kimi专注于提升编程、智能体能力。
+5. K2的开源模式和技术实力吸引了全球开发者的关注，有利于建立名声、展现信仰和招揽人才。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[言短意长｜考生给福耀科技大学“投票”]]></title>
-        <link href="https://m.thepaper.cn/detail/31220129" />
-        <id>https://m.thepaper.cn/detail/31220129</id>
-        <updated>Sat, 19 Jul 2025 15:21:30 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 福耀科技大学, 传统名校, 招生, 改革, 校长IP
+        <title><![CDATA[当海外Tier 1开始讲中国故事]]></title>
+        <link href="https://www.36kr.com/p/3384494530248454" />
+        <id>https://www.36kr.com/p/3384494530248454</id>
+        <updated>Sat, 19 Jul 2025 09:57:18 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 丰田, Tier 1, 电动化, 中国, 利润
 
 <br><br>总结:
-1. 福耀科技大学在广西投档线超过部分“双一流”名校，但招生人数少、专业热门、培养计划吸引是优势，不能简单论断其“全面超越”。
-2. 新型研究型大学的崛起给传统名校带来压力，倒逼其改革。
-3. 传统名校学科改革速度不够快，需积极应对AI趋势，如复旦大学的项目制招生改革。
-4. 传统名校不够重视校长IP的传播价值，新型大学校长更善于与考生和家长直接对话。
-5. 传统名校与主流媒体沟通不足，应抓住机会宣传学校改革举措，提高在考生和家长中的影响力。
+1. 丰田等车企将研发中心转移至中国，反映了中国在电动化和智能化领域的领先地位。
+2. Tier 1供应商面临利润下滑的困境，原因在于电动化转型需要大量投资新技术，同时传统业务的利润受到挤压。
+3. Tier 1 初期押注欧美车企转型，但欧美车企电动化进程缓慢，战略失焦。
+4. 电动车架构变革导致车企话语权提高，Tier 1 的系统集成优势被削弱。
+5.  Tier 1 选择在中国重建竞争力，抓住欧美车企放缓电动化目标的窗口期，以适应中国市场的快速发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[被骗至缅甸失联近半月的19岁高考生已找到：正准备回国事宜]]></title>
-        <link href="https://m.thepaper.cn/detail/31219529" />
-        <id>https://m.thepaper.cn/detail/31219529</id>
-        <updated>Sat, 19 Jul 2025 13:00:37 +0800</updated>
-        <summary type="html"><![CDATA[缅甸, 失联, 高考生, 营救, 交接
+        <title><![CDATA[一年爆卖32亿，中国最“土”饮料，被“华尔街收购之王”盯上]]></title>
+        <link href="https://www.36kr.com/p/3378161012103303" />
+        <id>https://www.36kr.com/p/3378161012103303</id>
+        <updated>Sat, 19 Jul 2025 09:51:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大窑汽水, 餐饮渠道, 性价比, 吴京, KKR
 
 <br><br>总结:
-1. 陕西汉中19岁高考生彭某轩被网友以“主播岗位”诱骗至缅甸后失联近半个月，现已平安找到。
-2. 缅甸佤邦相关部门在获悉彭某轩疑似进入缅甸境内后，部署警务力量进行排查，并在缅甸当阳地区找到被好心市民救助的彭某轩。
-3. 彭某轩自述因年龄问题被园区劝返，后被当地好心大哥救助。
-4. 佤邦当地相关部门已完成彭某轩的信息备案与材料初审。
-5. 缅方正与中方就跨境交接细节进行最后协商，彭某轩父母已在云南。
+1. 大窑汽水凭借6元大容量、高性价比和高渠道利润，成功占领烧烤摊等餐饮渠道，年营收已达32亿元，远超其他区域品牌。
+2. 大窑通过“大汽水，喝大窑”的口号和吴京代言，强化了品牌与男性消费者的连接，占据了大汽水品类的心智。
+3. 大窑靠平价策略打开市场，但添加剂争议和健康化趋势对其在一二线城市扩张造成阻碍，新品反响平淡。
+4. KKR或将收购大窑，可能助力其成为全国化品牌，但也存在整合风险，品牌需在供应链、产品力、品牌力上形成协同。
+5. 大窑的发展是国产饮料突围的缩影，需理解本土消费场景，在巨头夹缝中寻找机会，不能只靠性价比和情怀。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[国产电池大容量，三星 iPhone 用不上]]></title>
-        <link href="https://www.36kr.com/p/3384474596720132" />
-        <id>https://www.36kr.com/p/3384474596720132</id>
-        <updated>Sat, 19 Jul 2025 09:43:44 +0800</updated>
+        <title><![CDATA[良品铺子卖身，一个零食时代结束了]]></title>
+        <link href="https://www.36kr.com/p/3384604171262337" />
+        <id>https://www.36kr.com/p/3384604171262337</id>
+        <updated>Sat, 19 Jul 2025 09:10:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 良品铺子, 国资, 股权转让, 零食, 健康化
+
+<br><br>总结:
+1.  良品铺子控股权易主，武汉国资长江国贸以14.85亿元获得29.99%的股份，创始人时代结束，创始人将留任高管但失去控股权。
+2.  易主原因是良品铺子业绩下滑，面临亏损，战略摇摆，且错失量贩零食市场机会。
+3.  长江国贸的入主被视为雪中送炭，可借助国资的资金和物流优势，改善供应链。
+4.  交易存在隐忧，包括国资接手后能否改善经营状况，以及此前与广州轻工的股权转让纠纷。
+5.  零食行业面临量贩零食的冲击，健康化将是未来竞争方向，良品铺子正朝此方向转型。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[36氪出海·中东｜阿联酋跃居全球FDI十强，打开中国企业的机遇之窗]]></title>
+        <link href="https://www.36kr.com/p/3383855123889415" />
+        <id>https://www.36kr.com/p/3383855123889415</id>
+        <updated>Fri, 18 Jul 2025 22:07:07 +0800</updated>
+        <summary type="html"><![CDATA[阿联酋，FDI，投资，中国企业，IFZA 自由区
+
+<br><br>总结:
+1. 阿联酋2024年外国直接投资（FDI）流入量达456亿美元，创历史新高，位居全球第十，并吸引中东地区37%的外资。
+2. 阿联酋通过战略领导力、投资者友好型政策（如全资外资所有权、低税率）和经济多元化愿景吸引全球资本，目标到2030年吸引3540亿美元 FDI。
+3. 迪拜 IFZA 自由区作为桥梁，为中国企业提供一站式落地解决方案，助力把握中东、北非商机。
+4. IFZA 自由区注册费用低廉透明，流程简洁，经营许可范围宽广，提供专业的咨询服务，并提供共享办公室等支持。
+5. IFZA 自由区拥有专业的中国工作人员，为中国企业提供全面支持，是中国企业撬动全球市场的战略支点。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、命令、视频教程
+<br>
+爪云是一个提供免费域名注册和内网穿透服务的平台，用户可以通过VPS部署指定命令来实现临时或固定隧道模式。用户需要提前注册UUID并获取Cloudflare隧道Token和隧道域名。通过相关docker命令，用户可以查看、停止或删除指定的docker容器。此外，还提供了视频教程指导用户如何注册使用爪云、免费注册域名，并在一分钟内部署科学上网节点。整体来说，文章涵盖了爪云注册、内网穿透部署和相关操作命令的内容，同时提供视频教程以辅助用户更好地了解和使用这些功能。<br><br>总结: 爪云平台提供免费域名注册和内网穿透服务，用户通过VPS部署命令实现隧道模式，需要准备UUID、Cloudflare隧道Token、隧道域名，并可通过相关docker命令管理容器。视频教程指导注册、免费域名注册和部署科学上网节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[9点1氪｜被订书钉损坏的Switch 2拍出179万天价；239亿深圳地王或被三折贱卖；市场监管总局约谈外卖平台要求理性竞争]]></title>
-        <link href="https://www.36kr.com/p/3385160820408066" />
-        <id>https://www.36kr.com/p/3385160820408066</id>
-        <updated>Sat, 19 Jul 2025 08:46:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词：双林股份，宇树科技，世茂集团，茶颜悦色，顺丰快递
-
-<br><br>总结:
-1. 双林股份计划在香港联交所主板挂牌上市H股股票；宇树科技开启上市辅导，中信证券担任辅导机构。
-2. 世茂集团深圳龙岗项目因拿地成本239亿，现68亿被收回，相当于三折贱卖。
-3. 茶颜悦色因新品包装疑似侵权方大同专辑封面致歉并下架产品。
-4. 总价值107万元的油卡被顺丰快递员变卖后，顺丰仅同意赔偿2500元，引发争议。
-5. 多名网友在社交平台发视频称，在小米汽车工厂，偶遇小米集团创始人雷军和比亚迪董事长兼总裁王传福会面。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[专访｜演员赵今麦：允许自己慢一点，成长不是赛跑]]></title>
-        <link href="https://m.thepaper.cn/detail/31203364" />
-        <id>https://m.thepaper.cn/detail/31203364</id>
-        <updated>Sat, 19 Jul 2025 06:17:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 樱桃琥珀, 赵今麦, 林其乐, 成长, 原生家庭
-
-<br><br>总结:
-1.  《樱桃琥珀》聚焦90后成长，赵今麦饰演的林其乐乐观真诚，有韧性，角色特质细腻、高能量、真诚，原生家庭包容但个人选择更重要。
-2.  拍摄挑战在于角色差异化和情感表达的克制留白，通过与同龄人交流来准备。
-3.  赵今麦与张凌赫二搭更有默契，角色关系对调。林其乐和蒋峤西的关系像“两棵一起长大的树”，温暖长久，留有各自空间。
-4.  写信是“慢下来的真诚”表达方式，传递“被认真对待”的重量。
-5.  成长是“有人同行，有人告别”的过程，接受自然变化，享受过程，不必急于求成，允许自己慢一点。希望观众能从中感受到成长的意义，爱己亦爱人。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[旧手机先别扔，花不到70元，10年前旧手机「秒变」数据中心：下海识鱼8小时都没掉线]]></title>
-        <link href="https://www.36kr.com/p/3384408688148231" />
-        <id>https://www.36kr.com/p/3384408688148231</id>
-        <updated>Fri, 18 Jul 2025 21:12:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 旧手机, 数据中心, 算力, 改造, 电子垃圾
-
-<br><br>总结:
-1. 研究表明，旧手机可以改造成低成本的“微型数据中心”，利用其剩余算力完成特定任务。
-2. 改造过程包括：移除电池外接供电、更换为Linux系统、构建多手机协作集群、3D打印支架。
-3. 这种数据中心成本低廉（约66元），适合初创企业或对算力需求不高的场景。
-4. 局限性在于：并非所有手机都易于改造，开源、模块化的旧型号更合适。
-5. 该方案有助于减少电子垃圾，并启发电子产品厂商考虑产品的可维护性和可再利用性。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[宁波杀出超级隐形冠军：卖平价空调年入300亿，全球第五]]></title>
-        <link href="https://www.36kr.com/p/3384387263069698" />
-        <id>https://www.36kr.com/p/3384387263069698</id>
-        <updated>Fri, 18 Jul 2025 20:57:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词：奥克斯, 空调, AI, 出海, 细分市场
-
-<br><br>总结:
-1. 奥克斯由初中毕业的郑坚江创立，从低价策略切入空调市场，迅速崛起，目前正寻求在香港IPO。
-2. 空调AI化是行业新机会，奥克斯推出AI语音空调，实现从“指令式控制”到“主动式理解”的升级，满足市场对智能空调的需求。
-3. 节能与健康技术是关键，奥克斯通过AI空气传感系统和深度学习，优化能耗和空气质量，同时其他品牌也在新风和节能技术上发力。
-4. 空调出海成为新增长点，奥克斯已在多国设立销售公司和本地团队，扩大海外市场份额。
-5. 垂直细分市场涌现，包括机房、船用空调等特殊场景，以及为老年人、儿童设计的空调，高端定制化空调也有增长潜力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[做游戏好过做外卖，字节不装了]]></title>
-        <link href="https://www.36kr.com/p/3384382576056453" />
-        <id>https://www.36kr.com/p/3384382576056453</id>
-        <updated>Fri, 18 Jul 2025 20:56:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 字节跳动, 游戏业务, 收购, 心光流美, 有限扩张
-
-<br><br>总结:
-1. 字节跳动在游戏业务方面采取了“有限扩张”的新策略，与之前“大力出奇迹”的模式不同。
-2. 字节通过收购杭州心光流美等具有国内业务经验的团队，作为回归国内市场的锚点，同时也在洽谈收购SLG游戏团队。
-3. 字节保留游戏业务是由于其是少数的“优等生”，在海外市场如《无尽对决》取得了成功，具有重要的战略意义。
-4. 字节看到了国内游戏市场版号放宽的机会，希望借助历史性的“大放水”再次博一把。
-5. 字节的收购行为表明其在游戏领域的野心依旧存在，只是改变了策略，通过收购方式更快地进入国内市场。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[硅谷开启新一轮裁员，拥抱AI、或是被AI淘汰]]></title>
-        <link href="https://www.36kr.com/p/3384310270442756" />
-        <id>https://www.36kr.com/p/3384310270442756</id>
-        <updated>Fri, 18 Jul 2025 19:39:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 人工智能, 裁员, 微软, 生产力, AI技能
-
-<br><br>总结:
-1. 微软等科技公司以简化流程、提升生产力为由裁员，实际原因在于利用AI工具替代人工，以降低成本。
-2. 微软高管建议员工投资AI技能，暗示AI可能导致更多裁员，并用AI减轻失业负担，引发争议。
-3. 科技行业裁员并非因市场不景气，而是为提升利润率，将AI用于销售、客服、软件工程等领域。
-4. AI技术进步和智能体(Agent)的成熟，加速了AI对初级职位和白领工作的替代，提高了就业门槛。
-5. 打工人需要适应AI时代，要么掌握AI技能成为AI的合作者，要么面临被淘汰的风险。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[买百万豪车要多花10万？“豪车税”门槛降至90万元，纯电车纳入征收范围]]></title>
-        <link href="https://www.36kr.com/p/3384248011144192" />
-        <id>https://www.36kr.com/p/3384248011144192</id>
-        <updated>Fri, 18 Jul 2025 17:51:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词：超豪华小汽车, 消费税, 纯电动汽车, 零售环节, 政策调整
-
-<br><br>总结:
-1.  **政策调整：** 财政部、税务总局发布公告，调整超豪华小汽车消费税政策，7月20日起实施。
-2.  **征收范围扩大：** 征收范围调整为零售价90万元以上（不含增值税）的各种动力类型乘用车和中轻型商用客车，包括纯电动、燃料电池等。
-3.  **二手车免税：** 明确纳税人销售二手超豪华小汽车，不征收消费税，避免重复征税。
-4.  **零售环节销售额明确：** 明确“零售环节销售额”包含与购车相关的全部价款和价外费用，防止终端市场以其他名义规避税费。
-5.  **市场影响：** 主要售价在90万-140万元的车型短期内售价可能上涨。政策调整旨在引导合理消费，加大对超豪华汽车消费的调节力度，并强化税制公平统一。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、Docker应用、一键部署<br>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、域名、注册、Cloudflare、FreeDNS
 <br>
-Claw Cloud Run是一款免费容器，只要Github注册时间大于180天，即可每月获得5美元赠金，实现长期免费使用。通过查看Github注册时间，可以确认是否符合条件。该平台支持搭建各种Docker应用，在应用商店进行一键自动部署或手动部署。推荐部署的两款应用是Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可查看Youtube视频。总结：Claw Cloud Run提供免费容器服务，支持Docker应用搭建和一键部署，Github注册时间大于180天可获得5美元赠金使用。]]></summary>
+us.kg免费域名目前仍可注册并托管到Cloudflare，已注册的域名仍然有效。用户可以使用临时托管服务FreeDNS来临时托管域名。新的域名可以注册，并且可以选择将其托管到Cloudflare。两种域名的区别在于注册方式和托管服务选择，用户可以根据需求选择适合自己的域名注册和托管方式。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云, VPS, 免费, SSH, 科学上网
-
-谷歌云提供免费VPS服务，需要注册和验证账号，选择免费配置，并设置防火墙。可通过SSH登录，也可使用第三方工具登录。建议科学上网使用Hysteria 2节点，注意流量规定。搭建科学上网节点时可选择命令行或面板搭建，也可以使用甬哥一键脚本。需要特别注意的是设置数据保护选项以免产生费用，详细步骤和注意事项可观看相关视频。 
-
-<br><br>总结: 谷歌云提供免费VPS，注册验证账号后选择配置和设置防火墙。可通过SSH登录，科学上网时选择Hysteria 2节点，注意流量规定。搭建节点时可选择不同方式，需留意数据保护设置避免费用产生。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址、美国地址生成器、Github仓库、Cloudflare官网、Cloudflare Pages<br>
-总结：<br>
-DigitalPlat提供的域名服务包括免费和收费两种类型 dpdns.org和us.kg域名，新用户可获得1个免费域名（Github加Star后增至2个），老用户可获得3个免费域名（Github加Star后增至4个）。续期永久免费，每年续期一次，us.kg域名也需要续期。详细操作教程可查看Youtube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、价格<br>
-总结:<br>
-该视频内容主要介绍了HostUNO服务器的稳定性和速度，以及购买过程和体验。官方态度友好，价格合理，购买流程简单。搭建代理节点后进行了测速，性能表现良好。提到了ChatGPT降智问题，需要注意。续费操作也简便。总体来说，HostUNO的表现值得购买，具体信息可查看相关链接。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、US.KG、注册、免费、域名
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活
 <br>
-Cloudflare提供了一个替代方案，允许用户免费注册一个域名并在Cloudflare上托管一年。用户可以使用身份信息生成器辅助填写注册账号，并在购买域名时使用优惠码(newuser)享受一年免费。然后，用户可以登录Cloudflare添加域名，并将分配的两个名称服务器填入域名管理界面，完成域名托管。整个流程包括注册账号、注册域名、域名托管到Cloudflare，详细步骤可在Youtube视频中查看。]]></summary>
+Serv00是一个免费域名和加速服务，通过科学上网节点搭建来实现科学上网，使用Cloudflare固定隧道和CDN回源来加速网站访问速度，同时维护网页保活。通过Cloudflare远程保活来保持网页的运行稳定性。整个教程详细介绍了注册登录Serv00，搭建科学上网节点，设置Cloudflare隧道与CDN回源，以及通过不同功能的网页保活操作和Cloudflare远程保活来保持网页在线状态。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、域名、注册、验证、Cloudflare
+
+US.KG域名目前处于受限状态，注册时可先使用https://dash.domain.digitalplat.org/完成KYC验证。注册流程包括注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare等步骤。注册后可免费续订域名，但需注意免费域名的缺点。详细教程可查看相关视频。总结: US.KG域名处于受限状态，先用指定网址完成KYC验证注册。注册流程包括注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare。免费续订域名，但需注意免费域名的缺点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 翻译, API, 本地部署, Ollama
+<br>
+Deepseek是一个翻译工具，可以通过官方网站、手机客户端、API等方式使用，还可以在本地部署。使用Deepseek可以实现沉浸式翻译、Chatbox等功能。通过下载Ollama并安装，可以在本地部署使用Deepseek。总的来说，Deepseek提供了多种方式和工具，方便用户实现各种翻译和语言应用。<br><br>总结: Deepseek是一个多功能的翻译工具，可以通过官方网站、手机客户端、API等方式使用，还可以在本地部署，提供了丰富的功能和工具。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
