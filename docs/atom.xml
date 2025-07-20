@@ -2,405 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-19T22:20:53Z</updated>
+    <updated>2025-07-20T01:53:58Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[.NET周刊【7月第1期 2025-07-06】]]></title>
-        <link href="https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_7_1" />
-        <id>https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_7_1</id>
-        <updated>Wed, 16 Jul 2025 20:14:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET, MongoDB, ORM, SqlSugar, SQL习惯
+        <title><![CDATA[独立项目运营一周年经验分享]]></title>
+        <link href="https://www.cnblogs.com/lucas365/p/18976819" />
+        <id>https://www.cnblogs.com/lucas365/p/18976819</id>
+        <updated>Thu, 10 Jul 2025 14:24:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 临时邮箱, 网站推广, v2ex, 用户反馈, 流量高峰
 
 <br><br>总结:
-*   .NET中缺乏好用的MongoDB ORM框架，开发者为了填补这一空白，开发了SqlSugar。
-*   SqlSugar是一款面向.NET的MongoDB ORM，其设计理念是让开发者能够以类似SQL的方式操作MongoDB。
-*   文章介绍了SqlSugar的基本使用方法，旨在提供一种更加便捷高效的MongoDB数据访问方式。
-*   SqlSugar的目标是为.NET开发者提供一个更好的MongoDB ORM选择，简化MongoDB数据库的操作。
-*   该框架希望能够降低.NET开发者使用MongoDB的门槛，提高开发效率。
+1. 作者于去年7月发布了免费临时邮箱网站tempmail100.com。
+2. 通过在v2ex论坛发布推广帖子，网站迎来流量高峰。
+3. (文章未提供更多要点，后续内容缺失)
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[WSL初探]]></title>
-        <link href="https://www.cnblogs.com/zhaoweiwei/p/18986211/wsl" />
-        <id>https://www.cnblogs.com/zhaoweiwei/p/18986211/wsl</id>
-        <updated>Wed, 16 Jul 2025 16:34:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：WSL，安装，命令，GPU，Windows
+        <title><![CDATA[焦点访谈丨中介“做局”、银行放水，没偿还能力竟成功贷款48万]]></title>
+        <link href="https://m.thepaper.cn/detail/31221454" />
+        <id>https://m.thepaper.cn/detail/31221454</id>
+        <updated>Sat, 19 Jul 2025 22:24:00 +0800</updated>
+        <summary type="html"><![CDATA[包装贷, 职业背债人, 贷款中介, 银行, 虚假材料
 
 <br><br>总结:
-1. 介绍了在Windows下安装Linux子系统WSL的方法。
-2. 讲解了WSL子系统的一些主要命令。
-3. 说明了如何在WSL子系统中使用主机中的GPU显卡。
+1.  非法贷款中介通过虚构职业、包装资产、伪造流水等手段，将不符合贷款条件的人包装成“职业背债人”骗取银行贷款，并从中牟利。
+2.  黄某礼在贷款中介的诱导下，通过伪造工作单位、收入证明等虚假材料，在多家银行骗取了总计48.2万元的贷款。
+3.  贷款中介与炒房客、房贷中介、甚至银行内部人员勾结，通过高评高贷、虚假装修、伪造还款证明等手段，层层瓜分贷款。
+4.  银行在贷款审核过程中存在不尽职问题，未能有效核实申贷材料的真伪，导致“包装贷”得以成功。
+5.  “包装贷”现象普遍存在，当地还有多位村民被“包装”成“职业背债人”，背负巨额债务，该犯罪行为破坏金融管理秩序、损害社会信用体系，应依法严惩。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[瞧瞧别人家的接口重试，那叫一个优雅！]]></title>
-        <link href="https://www.cnblogs.com/12lisu/p/18982777" />
-        <id>https://www.cnblogs.com/12lisu/p/18982777</id>
-        <updated>Sun, 13 Jul 2025 20:33:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：重试，接口，幂等性，退款，故障
+        <title><![CDATA[访日后释放乐观信号，贝森特会见石破茂后表示：美日可以达成不错的贸易协议]]></title>
+        <link href="https://wallstreetcn.com/articles/3751471" />
+        <id>https://wallstreetcn.com/articles/3751471</id>
+        <updated>Sat, 19 Jul 2025 19:27:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 美日贸易, 关税, 谈判, 石破茂, 贝森特
 
 <br><br>总结:
-*   2025年某电商平台因不当重试策略导致银行退款接口被过度调用，造成重复退款损失。
-*   多数开发者对重试理解不足，简单使用循环和休眠，忽略了重试风暴等问题。
-*   文中将介绍8种常用的接口重试方案，旨在帮助开发者避免类似问题。
-*   重点强调了幂等性的重要性，以及重试可能引发的资源雪崩风险。
+1. 美国财政部长贝森特表示美日可以达成贸易协议，但需要时间，并强调互利。
+2. 虽然双方释放积极信号，但25%的汽车关税仍是主要分歧，8月1日关税上调日期临近，谈判缺乏进展。
+3. 日本参议院选举可能影响谈判，执政联盟选情堪忧，削弱其谈判地位。
+4. 日本希望取消所有关税，但可能性较低，赤泽良圣将下周访美继续磋商。
+5. 日本成功将贸易谈判与国防和外汇问题分开处理，避免了更多不利因素。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何加快推进信创产业发展？专家企业家这么说]]></title>
-        <link href="https://www.yicai.com/news/102731843.html" />
-        <id>https://www.yicai.com/news/102731843.html</id>
-        <updated>Sat, 19 Jul 2025 21:00:47 +0800</updated>
-        <summary type="html"><![CDATA[信创, 自主创新, 供给侧, 需求侧, 发展不均衡
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github 注册时间, 5美元赠金, Docker 应用, Memos 应用, AList 应用 
 
-<br><br>总结:
-1.  信创产业作为数字产业和数字化转型的重要组成部分，正在金融、能源、电信、教育等关键行业拓展应用。
-2.  国产基础软硬件在部分行业核心业务场景已实现规模化应用，自主创新的网信技术性能显著提升，但行业间发展不均衡，金融领域领先，能源、电信跟进，制造业、教育相对较慢。
-3.  深化自主创新需实现供给侧与需求侧的双向奔赴。
-4.  信创产业正从“少慢差贵”向“多快好省”转变。
-5.  诚迈科技发布信创产品矩阵并联合多家企业成立“信创共赢生态联盟”，加速推进信创产业发展。
-]]></summary>
+注册Claw Cloud Run可以获得免费容器，只要Github注册时间大于180天即可享受每月5美元的赠金。可以使用该平台搭建各种Docker应用，支持一键自动部署或手动部署。用户可通过查看自己Github账户的注册时间来确认是否符合领取赠金的条件。推荐部署两款应用：Memos轻笔记应用和AList网盘挂载工具。此外，可以通过Youtube视频了解更多详细内容。 <br><br>总结: Claw Cloud Run提供免费容器和赠金，支持各种Docker应用部署，用户需满足Github注册时间条件，推荐部署Memos和AList应用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[百年电梯巨头加码中国制造数字化转型，将宣布在华投资新计划]]></title>
-        <link href="https://www.yicai.com/news/102731830.html" />
-        <id>https://www.yicai.com/news/102731830.html</id>
-        <updated>Sat, 19 Jul 2025 21:00:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 数字化, 智能制造, 柔性生产, 物联网, 电梯改造
-
-<br><br>总结:
-1. 通力电梯正在昆山生产基地进行大规模数字化制造升级，并计划在华投资新的智慧物流项目。
-2. 通力昆山工厂已实现自动化生产和5G网络全覆盖，运用人工智能数字孪生技术优化生产流程，并出口产品至全球。
-3. 通过物联网技术和人工智能大数据，通力实现了电梯监管数据的实时上传和故障风险的预测性维护，降低故障率和困人风险。
-4. 通力正在构建柔性生产体系，利用数字化技术响应电梯改造的个性化需求，加速从增量建设向存量运维的转型。
-5. 通力等跨国电梯巨头积极参与中国老旧电梯更新项目，拓展中国电梯存量市场业务，并利用中国成熟的数字经济生态系统提升电梯安全和智能化管理。
-]]></summary>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[免费配置，注册验证，创建VM实例，开放防火墙，SSH登录<br>
+科学上网注意事项，搭建科学上网节点<br><br>总结:文章介绍了如何免费使用谷歌云VPS，包括注册验证账号、创建VM实例、开放防火墙、SSH登录以及搭建科学上网节点等步骤。同时提到了免费政策和注意事项，可通过看视频获得更详细指导。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[AI进化速递丨总投资50亿元，立讯机器人总部基地项目在常熟开工]]></title>
-        <link href="https://www.yicai.com/news/102731845.html" />
-        <id>https://www.yicai.com/news/102731845.html</id>
-        <updated>Sat, 19 Jul 2025 20:51:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词：立讯机器人, 中国商飞, 5G, 人工智能, 联通云
-
-<br><br>总结:
-*   立讯机器人在常熟开工建设总部基地项目。
-*   中国商飞董事长表示将继续推进5G和人工智能在国产大飞机产业中的应用。
-*   联通云实现了AI全栈升级。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[国务院国资委公布最新央企名录]]></title>
-        <link href="https://m.thepaper.cn/detail/31221074" />
-        <id>https://m.thepaper.cn/detail/31221074</id>
-        <updated>Sat, 19 Jul 2025 20:49:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 国务院国资委, 央企, 名录, 中国核工业集团, 中国航天科技集团
-
-<br><br>总结:
-1. 国务院国资委发布最新央企名录。
-2. 名录共包含99家央企。
-3. 名录中包括中国核工业集团有限公司。
-4. 名录中包括中国航天科技集团有限公司。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[摩根大通首份非上市公司深度报告：OpenAI的“王座”与“枷锁”]]></title>
-        <link href="https://wallstreetcn.com/articles/3751472" />
-        <id>https://wallstreetcn.com/articles/3751472</id>
-        <updated>Sat, 19 Jul 2025 20:22:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：OpenAI, 护城河, 模型商品化, AI代理, 治理结构
-
-<br><br>总结:
-1.  OpenAI面临技术护城河日益脆弱的挑战，其领先模型在性能排名中下降，竞争对手的模型在性价比上更具优势，模型商品化趋势加剧。
-<br><br>2.  为应对挑战，OpenAI正转型为智能代理生态系统，押注AI代理、硬件布局和收入多元化，以构建更持久的竞争壁垒。
-<br><br>3.  OpenAI独特的非营利组织控制营利实体的治理结构，已成为公司发展的掣肘，影响融资和收购，面临改革压力。
-<br><br>4.  OpenAI需要在年底前完成资本重组，调整治理结构，同时面临激烈的AI人才争夺战。
-<br><br>5.  OpenAI的未来取决于能否在新领域创新，并成功解决内部治理结构问题。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[越南前国家领导人阮春福、武文赏、王庭惠等被解除党内职务]]></title>
-        <link href="https://www.yicai.com/news/102731776.html" />
-        <id>https://www.yicai.com/news/102731776.html</id>
-        <updated>Sat, 19 Jul 2025 18:59:45 +0800</updated>
-        <summary type="html"><![CDATA[阮春福, 武文赏, 王庭惠, 黎明慨, 越共中央
-
-<br><br>总结:
-* 越共中央第十三届中央委员会第十二次会议召开。
-* 会议决定解除阮春福在越共党内的一切职务。
-* 会议决定解除武文赏在越共党内的一切职务。
-* 会议决定解除王庭惠在越共党内的一切职务。
-* 会议决定解除黎明慨在越共党内的一切职务。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中国雅江集团有限公司成立大会举行 张国清出席并为公司成立揭牌]]></title>
-        <link href="https://www.yicai.com/news/102731761.html" />
-        <id>https://www.yicai.com/news/102731761.html</id>
-        <updated>Sat, 19 Jul 2025 17:34:04 +0800</updated>
-        <summary type="html"><![CDATA[关键词：雅江集团, 能源安全, 雅下水电, 国家安全观, 党的治藏方略
-
-<br><br>总结:
-1. 组建中国雅江集团是党中央的重大决策，旨在深入落实总体国家安全观、能源安全新战略和新时代党的治藏方略，保障雅下水电工程的顺利建设运营。
-2.  要精心做好工程组织管理和建设实施，坚持质量为先、安全为本，注重科技攻关和生态保护。
-3.  要扎实抓好企业运营管理，建立扁平化、高效率管理架构，建设数字化、智能化指挥调度系统，构建考核激励机制和队伍管理体系，弘扬“老西藏精神”。
-4. 要坚持党的领导，发挥好公司党组和基层党组织的作用。
-5.  全力把雅下水电工程打造成为具有中国特色、经得起历史检验的世纪工程、标杆工程。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陆家嘴金融沙龙：数智驱动 构建高质量发展的普惠金融新生态]]></title>
-        <link href="https://www.yicai.com/video/102731769.html" />
-        <id>https://www.yicai.com/video/102731769.html</id>
-        <updated>Sat, 19 Jul 2025 17:33:39 +0800</updated>
-        <summary type="html"><![CDATA[普惠金融，数智驱动，高质量发展，中小微企业，政策支持
-
-<br><br>总结:
-本次陆家嘴金融沙龙聚焦于在经济高质量发展和中小微企业融资需求增长的背景下，如何利用数智驱动构建高质量发展的普惠金融新生态。<br>
-要点包括：优化普惠金融政策支持体系；创新普惠金融产品与服务模式；强化普惠金融科技应用与风险防控；拓宽普惠金融覆盖范围与服务效能。<br>
-旨在通过这些措施，为上海普惠金融的高质量发展提供动力，激发市场主体活力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[多部门密集部署，新能源汽车产业“反内卷”思路明晰]]></title>
-        <link href="https://www.yicai.com/news/102731746.html" />
-        <id>https://www.yicai.com/news/102731746.html</id>
-        <updated>Sat, 19 Jul 2025 17:32:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 新能源汽车, 价格战, 竞争秩序, 成本监测, 科技创新
-
-<br><br>总结:
-1.  针对新能源汽车产业“内卷”式竞争，工信部、发改委、市场监管总局等多部门联合行动，规范市场秩序。<br><br>
-2.  主要举措包括：加强成本调查和价格监测，防止企业低价倾销；强化产品生产一致性监督检查，保障产品质量安全；督促车企落实供应商货款账期承诺，缓解产业链资金压力。<br><br>
-3.  强调要建立健全规范竞争的长效机制，加强行业自律，发挥标准引领作用，引导企业通过科技创新、提升质量等增强竞争力，实现产业升级和高质量发展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[这款“全球首创”国产肺癌药在美国获批，如何敲开FDA大门]]></title>
-        <link href="https://www.yicai.com/news/102731752.html" />
-        <id>https://www.yicai.com/news/102731752.html</id>
-        <updated>Sat, 19 Jul 2025 17:32:47 +0800</updated>
-        <summary type="html"><![CDATA[EGFR exon20ins, 舒沃哲, 迪哲医药, FDA, NSCLC
-
-总结:
-- 舒沃哲，一款国产创新药，获美国FDA加速批准上市，用于治疗经含铂化疗后进展的EGFR exon20ins突变局部晚期或转移性非小细胞肺癌（NSCLC）成人患者。
-<br><br>- 舒沃哲是全球首个且唯一的EGFR exon20ins NSCLC小分子靶向药，此前已在中国获批上市。
-<br><br>- 此次获批基于国际多中心注册临床研究“悟空1B”的疗效和安全性数据，该研究包含40%以上的国外患者，支持了上市申报。
-<br><br>- 迪哲医药坚持源头创新，希望自主进行药物的全球市场推广，并考虑包括BD在内的多种商业化模式。
-<br><br>- 舒沃哲被纳入美国国立综合癌症网络非小细胞肺癌指南推荐，用于治疗EGFR exon20ins NSCLC。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[李强出席雅鲁藏布江下游水电工程开工仪式并宣布工程开工]]></title>
-        <link href="https://wallstreetcn.com/articles/3751470" />
-        <id>https://wallstreetcn.com/articles/3751470</id>
-        <updated>Sat, 19 Jul 2025 17:06:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：雅鲁藏布江, 水电工程, 开工仪式, 李强, 林芝
-
-<br><br>总结:
-1. 雅鲁藏布江下游水电工程在西藏林芝市举行开工仪式。
-2. 李强总理出席并宣布工程正式开工。
-3. 工程采取截弯取直、隧洞引水方式，建设5座梯级电站。
-4. 工程总投资约1.2万亿元。
-5. 工程电力以外送消纳为主，兼顾西藏本地自用需求。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[余杭官方通报：已初步查明导致异味的为特定自然气候条件下藻类厌氧降解产生的硫醚类物质]]></title>
-        <link href="https://www.yicai.com/news/102731738.html" />
-        <id>https://www.yicai.com/news/102731738.html</id>
-        <updated>Sat, 19 Jul 2025 15:52:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 自来水异味, 藻类厌氧降解, 硫醚类物质, 余杭区, 水质安全
-
-<br><br>总结:
-1. 7月16日，杭州余杭区仁和水厂发现自来水异味。
-2. 应急预案启动，切换水源，出厂水质安全。
-3. 专家组调查初步查明异味原因为特定气候下藻类厌氧降解产生硫醚类物质。
-4. 具体原因正在溯源调查中，结果将及时公布。
-5. 警方已查处“粪水”谣言，呼吁不信谣不传谣，并对居民致歉，承诺加强管理确保供水安全。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[有“内鬼”？报道：特朗普系官员力推了引发争议的美联储装修项目]]></title>
-        <link href="https://wallstreetcn.com/articles/3751457" />
-        <id>https://wallstreetcn.com/articles/3751457</id>
-        <updated>Sat, 19 Jul 2025 11:31:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美联储, 翻新, 大理石, 特朗普, 鲍威尔
-
-<br><br>总结:
-1. 美联储总部翻新项目因成本超支和建材选择（大理石）受到白宫抨击，白宫以此攻击鲍威尔。
-2. 美联储最初计划使用玻璃幕墙以体现“透明度”，但特朗普政府任命的委员在2020年反对，认为大理石更显“坚固与永恒”。
-3. 最终美联储采用了包含大理石的方案，并在2021年敲定，而特朗普在2020年签署行政命令，要求首都公共建筑采用古典建筑风格。
-4. 鲍威尔回应称项目受到严格监督，并已采取措施控制成本。翻修的必要性在于结构维修和系统升级，包括处理石棉和铅污染。美联储监察长正在调查成本超支问题。
-5. 此次事件削弱了白宫指责的力度，揭示了白宫团队曾经推动使用大理石的事实。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普签署稳定币相关法案，称不会任由美元下滑，加密货币对美元有利]]></title>
-        <link href="https://wallstreetcn.com/articles/3751447" />
-        <id>https://wallstreetcn.com/articles/3751447</id>
-        <updated>Sat, 19 Jul 2025 07:21:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普，稳定币，美元霸权，CBDC，天才法案
-
-<br><br>总结:
-1. 特朗普政府签署《天才法案》，旨在监管与美元挂钩的稳定币，增强市场信任，推动行业增长。
-2. 特朗普强调稳定币有利于美元和国家，并认为其是金融科技领域的“一场革命”，将使美国成为世界加密货币之都。
-3. 特朗普政府的核心逻辑是利用稳定币来加强美元的地位，而不是取代美元，稳定币发行方需持有美元资产作为储备，从而增加对美国国债的需求。
-4. 特朗普坚决反对央行数字货币（CBDC），并承诺签署法案禁止CBDC的出现，以捍卫美元的全球霸权地位。
-5. 该法案的通过标志着特朗普对加密货币态度转变，从怀疑转向支持。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[C23和C++26的#embed嵌入资源指南]]></title>
-        <link href="https://www.cnblogs.com/apocelipes/p/18983462" />
-        <id>https://www.cnblogs.com/apocelipes/p/18983462</id>
-        <updated>Mon, 14 Jul 2025 10:09:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： C++26, 资源嵌入, 标准, 编译器, 实验
-
-<br><br>总结:
-1. C++26标准刚确定，包含许多新特性。
-2. 目前可实际测试的特性较少，只有“资源嵌入”（resource inclusion）可以体验。
-3. 文章实际上是关于资源嵌入的实验记录，而非指南。
-4. 编译器对资源嵌入的支持尚处于早期阶段。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[dotnetty 内存泄漏的BUG修复了]]></title>
-        <link href="https://www.cnblogs.com/fanliang11/p/18991484" />
-        <id>https://www.cnblogs.com/fanliang11/p/18991484</id>
-        <updated>Fri, 18 Jul 2025 14:48:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：内存稳定，CPU稳定，直播推流，用户体验，优化
-
-<br><br>总结:
-一、产品稳定性的重要性：内存和CPU的稳定直接影响用户对产品性能的信任，稳定的产品远比宣传中的高性能更具说服力。
-二、优化目标：通过优化，目标是将直播推流的内存占用稳定在60MB左右，CPU占用降低到1%左右。
-三、结果预期：通过持续优化，提升产品的稳定性和性能，增强用户信任。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期
 <br>
-爪云（Claw Cloud Run）提供内网穿透服务，注册链接需获取UUID，Cloudflare隧道Token及域名。VPS部署需安装docker，并可选择临时或固定隧道模式。固定隧道需准备UUID、Cloudflare隧道Token和隧道域名，运行相关docker命令即可。通过视频教程可学习爪云的使用、免费域名注册以及一分钟部署科学上网节点。<br><br>总结: 爪云提供内网穿透服务，需准备UUID、Cloudflare隧道Token和域名，通过docker运行实现VPS部署，可选择临时或固定隧道模式，视频教程提供相关操作指导。]]></summary>
+域名注册地址为dpdns.org或使用美国地址生成器，可在Github仓库DigitalPlat上获得免费域名额度，续费永久免费，us.kg为收费域名。Cloudflare提供Pages自定义域及SSL证书服务。新用户可获得1个免费域名（通过Github加Star可增加至2个），老用户可获得3个免费域名（通过Github加Star可增加至4个），us.kg域名不占用免费额度。详细教程可参考Youtube视频。总结：DigitalPlat在Github上提供免费域名注册服务，使用Cloudflare提供Pages服务创建网站，通过免费域名或付费域名us.kg来访问，续期永久免费。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、免费域名、挂了、已注册的域名、Cloudflare托管、dpdns.org域名、托管情况、临时托管、FreeDNS、注册情况
-
-总结: us.kg免费域名目前情况不明，已注册的域名仍然存在。新的域名可以托管到Cloudflare，dpdns.org域名也可以在Cloudflare托管。暂时可以将域名临时托管到FreeDNS。目前不清楚us.kg是否还能注册新域名，需要进一步了解。两种域名托管方式有所区别，需要根据实际情况选择适合的方法。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活
-总结:
-Serv00是一个免费域名服务，通过科学上网节点搭建，可使用Cloudflare固定隧道和CDN回源来实现网络加速。同时，通过网页保活功能和Cloudflare远程保活功能，可以保持网页的稳定运行，确保节点信息和订阅信息的及时更新。整个教程详细介绍了如何注册登录Serv00，搭建科学上网节点，设置Cloudflare固定隧道和CDN回源，以及使用网页保活和Cloudflare远程保活功能。这些操作可以有效提高网站的访问速度和稳定性，是网站管理者值得学习和使用的技术。<br><br>]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、免费<br>
-总结: 本文介绍了如果想注册US.KG域名的方法，因域名受限，可先通过 https://dash.domain.digitalplat.org/ 完成注册和KYC验证。注册步骤包括注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare。教程详情可查看Youtube视频。US.KG域名的优点包括免费续订域名，但免费域名也有缺点，需要注意。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买过程
 <br>
-Deepseek是一个多功能的工具，提供网页端和APP版本，也可以通过API访问。用户可以利用Deepseek进行沉浸式翻译，Chatbox和欧路词典等操作。此外，Deepseek还支持第三方应用的使用。用户也可以选择进行本地部署，通过下载并安装Ollama来实现。整体而言，Deepseek提供了多样的功能，满足不同用户的需求。<br><br>总结: Deepseek提供了丰富的功能，包括网页端、APP、API等，用户可以通过这些方式进行沉浸式翻译、Chatbox操作等。同时还支持第三方应用的使用，以及本地部署选择。]]></summary>
+稳定性和速度表现良好，无需保活，但存在ChatGPT降智问题。在HostUNO购买代理节点的过程中，需注意价格和续费问题。总体体验较好，购买方便，节点测速满意。需注意修改登录密码和使用ChatGPT降智检测插件。可在Windterm下载地址和Sing-box Github仓库获取更多信息。总体而言，HostUNO值得购买，但需注意相关细节，以确保良好的使用体验。<br><br>总结:稳定性和速度良好，购买过程便捷，注意ChatGPT降智问题和续费，节点测速满意。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 域名注册, 免费, Cloudflare, 身份信息生成器
+总结: 本文介绍了在US.KG注册域名遇到问题时，可以尝试另一个免费域名注册方式，并且可以将域名托管到Cloudflare上。具体步骤包括注册账号，注册域名并使用优惠码享受一年免费服务，最后将域名托管到Cloudflare，并将分配的名称服务器填入域名管理界面。详细操作步骤可以在Youtube视频中查看。整个过程简单易懂，适合初学者尝试。希望能帮助到需要注册域名的用户。<br><br>]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
