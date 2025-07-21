@@ -1,39 +1,64 @@
 ------------------------------------------------------
-Started: 2025-07-21 16:26:23.250325
-Existing_entries: 10
+Started: 2025-07-21 18:30:47.002056
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1042
+Token length: 4632
 Summarized using gemini model: gemini-2.0-flash
-Append: [【社论】如果高铁上不能吃泡面](https://m.thepaper.cn/detail/31229793)
-Token length: 865
+Append: [科创板开市满六周年，从改革“试验田”迈向科创“新高地”](https://www.yicai.com/news/102734210.html)
+Token length: 1531
 Summarized using gemini model: gemini-2.0-flash
-Append: [为何会“蝉尿如雨”？动物学者：滴液主要成分是水，不必担心](https://m.thepaper.cn/detail/31228789)
-Token length: 2601
+Append: [一财社论：为创新型科技企业扩宽融资“绿色通道”](https://www.yicai.com/news/102734201.html)
+Token length: 378
 Summarized using gemini model: gemini-2.0-flash
-Append: [👉LLM的进化路线、领域微调及NLP的应用落地方式](https://juejin.cn/post/7528500530853117992)
+Append: [石破茂政府失利！美日关税谈判再生变局？丨夜话](https://www.yicai.com/video/102734195.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [hang_s/EasyUKey](https://gitee.com/hang_s/EasyUKey)
+Append: [滚动更新丨纳斯达克综合指数首次突破21000点 特斯拉涨近2%](https://www.yicai.com/news/102734162.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [言短意长｜福耀科技大学、东方理工大学为何首战告捷？](https://m.thepaper.cn/detail/31229442)
-Token length: 606
+Append: [下一个出海重镇是这里？中国缝制机械“泡在海外”转危为机](https://www.yicai.com/news/102734137.html)
+Token length: 3367
 Summarized using gemini model: gemini-2.0-flash
-Append: [受贿2.89亿余元，中国电科原副总经理何文忠一审被判死缓](https://m.thepaper.cn/detail/31229794)
-Token length: 1372
+Append: [对话中信建投证券王崇赫：股债“双引擎”驱动下，投行服务科创需向“立体化”转型 | 科创资本论](https://www.yicai.com/news/102734138.html)
+Token length: 1571
 Summarized using gemini model: gemini-2.0-flash
-Append: [日本政局剧变，日元、日股期货为何走高？](https://wallstreetcn.com/articles/3751529)
-Token length: 67
+Append: [加沙：以军子弹“倾泻而下”，领食物饥民惨历“致命一天”](https://m.thepaper.cn/detail/31229546)
+Token length: 1064
 Summarized using gemini model: gemini-2.0-flash
-Append: [兔哥博客近况分享：停更背后的故事与新的开始](https://ipsk.net/tuge-blog-recent-update-reflection/)
-Token length: 266
+Append: [华润接盘康佳完成股权转让，正式派驻人选尚未明确](https://www.yicai.com/news/102734062.html)
+Token length: 1852
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国富国银行高管被禁止离华，外交部答澎湃：其涉及刑案，依法限制出境](https://m.thepaper.cn/detail/31229064)
-Token length: 1512
+Append: [年内第二家评级遭下调，中小银行“减量提质”加速推进](https://www.yicai.com/news/102734047.html)
+Token length: 2479
 Summarized using gemini model: gemini-2.0-flash
-Append: [美股就像“华尔街上空飘荡的气球，只需一根针就能戳破”？多头也在准备迎接动荡](https://wallstreetcn.com/articles/3751509)
-Token length: 3106
+Append: [美元理财提前止盈背后：规模冲上5000亿元但收益率下行，现在还能上车吗？](https://www.yicai.com/news/102733950.html)
+Token length: 2101
 Summarized using gemini model: gemini-2.0-flash
-Append: [186元键盘被嘲？其实“电子垃圾”是直男们的赛博Labubu](https://www.36kr.com/p/3388111890930054)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [港股科技可能引领第三轮中国资产重估](https://wallstreetcn.com/articles/3751504)
-append_entries: 12
-Finish: 2025-07-21 16:27:32.054687
+Append: [外卖 “暗战” 硝烟未散，餐饮协会喊 “停”，商家呼吁回归线下](https://www.yicai.com/news/102734012.html)
+Token length: 2617
+Summarized using gemini model: gemini-2.0-flash
+Append: [科创板半导体的六年：从单点突破到全链崛起，AI浪潮推升产业再跃升](https://www.yicai.com/news/102734006.html)
+Token length: 888
+Summarized using gemini model: gemini-2.0-flash
+Append: [上半年活期存款激增8.8%，广东存款活期化趋势显现](https://www.yicai.com/news/102733972.html)
+Token length: 2526
+Summarized using gemini model: gemini-2.0-flash
+Append: [事关住房租赁 两部门七问七答](https://www.yicai.com/news/102733965.html)
+Token length: 3448
+Summarized using gemini model: gemini-2.0-flash
+Append: [规范新能源汽车竞争秩序需综合施策丨法经兵言](https://www.yicai.com/news/102733843.html)
+Token length: 3252
+Summarized using gemini model: gemini-2.0-flash
+Append: [弱消费碾压高关税，美国经济转变加剧](https://www.yicai.com/news/102733844.html)
+Token length: 3175
+Summarized using gemini model: gemini-2.0-flash
+Append: [我国研发经费比“十三五”末增长近50%，科技体制改革向纵深推进｜“十四五”规划收官](https://www.yicai.com/news/102733910.html)
+Token length: 2802
+Summarized using gemini model: gemini-2.0-flash
+Append: [养老基金Y份额业绩规模双升，年内最高回报超18%](https://www.yicai.com/news/102733866.html)
+Token length: 2563
+Summarized using gemini model: gemini-2.0-flash
+Append: [美国消费数据回暖背后现隐忧！美国家庭可自由支配的服务支出已在缩减](https://www.yicai.com/news/102733830.html)
+Token length: 1619
+Summarized using gemini model: gemini-2.0-flash
+Append: [上海国资出手！拟18.51亿元入主康华生物](https://www.yicai.com/news/102733819.html)
+append_entries: 20
+Finish: 2025-07-21 18:32:11.709022
