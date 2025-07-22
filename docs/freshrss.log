@@ -1,32 +1,39 @@
 ------------------------------------------------------
-Started: 2025-07-22 16:27:04.142729
-Existing_entries: 17
+Started: 2025-07-22 18:30:19.761603
+Existing_entries: 9
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [科创板ETF规模近2700亿， “硬科技”指数化投资进阶](https://www.yicai.com/news/102736208.html)
-Token length: 0
+Token length: 1441
 Summarized using gemini model: gemini-2.0-flash
-Append: [租房市场告别“野蛮生长”：法治化时代如何重塑房东与租客的权益天平？](https://www.yicai.com/video/102736380.html)
-Token length: 1438
+Append: [上证科创板民营企业指数等2条指数即将发布](https://www.yicai.com/news/102736454.html)
+Token length: 1245
 Summarized using gemini model: gemini-2.0-flash
-Append: [3年要开1万家外卖自营店，京东最新回应：已有7千人报名开发菜品](https://www.yicai.com/news/102736401.html)
-Token length: 182
+Append: [再创新高！沪市债券ETF规模突破4000亿](https://www.yicai.com/news/102736456.html)
+Token length: 1171
 Summarized using gemini model: gemini-2.0-flash
-Append: [官方回应北京网约车平台禁燃油车](https://www.yicai.com/news/102736424.html)
-Token length: 277
+Append: [向“新”发力，提“质”致远](https://www.yicai.com/news/102736463.html)
+Token length: 2173
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国第三次宣布退出联合国教科文组织](https://m.thepaper.cn/detail/31238574)
-Token length: 3680
+Append: [外卖热战停了，冷思考有哪些？](https://www.yicai.com/news/102734855.html)
+Token length: 450
 Summarized using gemini model: gemini-2.0-flash
-Append: [11年未了的土地官司：缴纳出让金后未获“净地”交付，开发商称因此破产](https://m.thepaper.cn/detail/31237343)
-Token length: 247
+Append: [商务部条约法律司负责人就世贸组织公布中欧有关世贸争端案件上诉仲裁裁决事答记者问](https://www.yicai.com/news/102736363.html)
+Token length: 3016
 Summarized using gemini model: gemini-2.0-flash
-Append: [澎湃漫评｜高铁一次性座椅套何以热销](https://m.thepaper.cn/detail/31237316)
-Token length: 4689
+Append: [揭秘二手房估价直播：水军上演“剧本杀”，有行业协会提示风险](https://www.yicai.com/news/102735596.html)
+Token length: 1182
 Summarized using gemini model: gemini-2.0-flash
-Append: [再遇见｜欧盟对外行动署亚太总司长科旺斯特伦：欧盟对中欧关系有两大核心关切](https://m.thepaper.cn/detail/31229239)
-Token length: 4140
+Append: [滚动更新丨美股三大指数涨跌不一 七巨头多数上涨](https://www.yicai.com/news/102736341.html)
+Token length: 264
 Summarized using gemini model: gemini-2.0-flash
-Append: [当下最有可能取代Cursor的AI编辑器Kiro初体验](https://juejin.cn/post/7528346620989177910)
-append_entries: 9
-Finish: 2025-07-22 16:27:25.252994
+Append: [财经夜行线丨《黑神话》后国产3A游戏再创佳绩 《明末：渊虚之羽》登顶Steam全球热销榜](https://www.yicai.com/video/102736360.html)
+Token length: 1642
+Summarized using gemini model: gemini-2.0-flash
+Append: [国家医保局连开座谈会释放哪些新信号](https://www.yicai.com/news/102736339.html)
+Token length: 2080
+Summarized using gemini model: gemini-2.0-flash
+Append: [西安打赢重庆、成都，中欧班列运行格局渐变](https://www.yicai.com/news/102736320.html)
+Token length: 1589
+Summarized using gemini model: gemini-2.0-flash
+Append: [一财社论：从管制到治理，是食品安全的必经之路](https://www.yicai.com/news/102736304.html)
+append_entries: 11
+Finish: 2025-07-22 18:31:27.989901
