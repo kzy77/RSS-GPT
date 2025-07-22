@@ -1,44 +1,66 @@
 ------------------------------------------------------
-Started: 2025-07-22 10:23:10.068014
-Existing_entries: 20
+Started: 2025-07-22 12:42:24.320117
+Existing_entries: 13
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1416
+Token length: 3551
 Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦人民币汇率、来华投资、自贸试验区……外汇局发布会速览](https://www.yicai.com/news/102735778.html)
-Token length: 2581
+Append: [上半年上市险企保费回暖，权益市场改善或提振利润表现](https://www.yicai.com/news/102736143.html)
+Token length: 140
 Summarized using gemini model: gemini-2.0-flash
-Append: [陈佩斯《戏台》即将上映，夹击中能否延续话剧票房神话？](https://www.yicai.com/news/102735759.html)
-Token length: 0
+Append: [图灵量子完成亿元级战略轮融](https://www.yicai.com/news/102736100.html)
+Token length: 1941
 Summarized using gemini model: gemini-2.0-flash
-Append: [一键生成你想要的视频！DomoAI支持图生视频、视频转视频、文生视频，创意无限，可免费试用 | 零度解说](https://www.freedidi.com/20228.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [A股三大股指齐创年内新高，雅江水电站概念股继续大涨，商品爆发、玻璃焦煤焦炭多晶硅等涨停](https://wallstreetcn.com/articles/3751599)
-Token length: 1489
+Append: [上半年外汇收支数据向好，外资增配人民币资产成亮点](https://www.yicai.com/news/102736081.html)
+Token length: 3318
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI发现特定心脏病准确率已超过人类专家？心电图迎来技术飞跃](https://www.yicai.com/news/102735679.html)
-Token length: 1084
+Append: [公募基金上半年赚6390亿，银行、通信、非银成加仓三大方向](https://www.yicai.com/news/102736048.html)
+Token length: 913
 Summarized using gemini model: gemini-2.0-flash
-Append: [京东外卖新模式上线：首家自营外卖门店开业](https://www.yicai.com/news/102733898.html)
-Token length: 273
+Append: [患者尚有生命迹象时器官就被摘除？美国卫生部开始整改器官移植](https://www.yicai.com/news/102735954.html)
+Token length: 539
 Summarized using gemini model: gemini-2.0-flash
-Append: [外汇局：计划将一批创新试点政策推广至全国更多自贸试验区](https://www.yicai.com/news/102735652.html)
-Token length: 120
+Append: [受贿超4245万元，司法部原副部长刘志强一审被判13年](https://m.thepaper.cn/detail/31238150)
+Token length: 897
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股共112只个股涨停 上纬新材收获10连板](https://www.yicai.com/news/102735635.html)
-Token length: 688
+Append: [“长沙润府小区精装房承重梁主筋被切断”事件续：开发商致歉](https://m.thepaper.cn/detail/31237707)
+Token length: 2474
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国足协：计划组建中国国家电子竞技足球队](https://m.thepaper.cn/detail/31237353)
-Token length: 3746
+Append: [雷军天塌了，YU7加价2万卖爆](https://www.36kr.com/p/3389585899929737)
+Token length: 4370
 Summarized using gemini model: gemini-2.0-flash
-Append: [《唐纵日记》摘录](http://www.ruanyifeng.com/blog/2025/07/tangzong-diary.html)
-Token length: 81
+Append: [几月前的伤心事，ChatGPT突然翻出来提醒我？网友当场破防：太会捅刀子了](https://www.36kr.com/p/3389464614387846)
+Token length: 3229
 Summarized using gemini model: gemini-2.0-flash
-Append: [女子称被女儿学校老师性侵感染HPV，社区、学校：性侵无证据，男方赔偿20余万](https://m.thepaper.cn/detail/31236105)
-Token length: 1168
+Append: [中国汽车：将有三分天下，需闯两道难关](https://www.36kr.com/p/3389460177289344)
+Token length: 3868
 Summarized using gemini model: gemini-2.0-flash
-Append: [华东理工大学录取通知书涉嫌抄袭？校方：正在了解情况](https://m.thepaper.cn/detail/31236010)
-Token length: 4503
+Append: [反内卷，大宗商品的疯狂牛市来了吗](https://wallstreetcn.com/articles/3751584)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [晚一天多花10万，豪车税惊了买车人](https://www.36kr.com/p/3388528073228680)
-append_entries: 13
-Finish: 2025-07-22 10:24:22.363678
+Append: [[WPF]在WPF中使用ObservableCollections显示Microsoft.Extensions.Logging的日志信息](https://www.cnblogs.com/echo-sama/p/18995636)
+Token length: 1433
+Summarized using gemini model: gemini-2.0-flash
+Append: [Kiro AI IDE上手初体验！亚马逊出品，能否撼动Cursor的王座？](https://juejin.cn/post/7527569902493122610)
+Token length: 1165
+Summarized using gemini model: gemini-2.0-flash
+Append: [中新ETF互通“上新”，奥明易方达创业板ETF在新加坡交易所上市](https://www.yicai.com/news/102735990.html)
+Token length: 1958
+Summarized using gemini model: gemini-2.0-flash
+Append: [哈佛联邦资金被冻结案听证会举行，特朗普：若结果不利将立即上诉](https://www.yicai.com/news/102735911.html)
+Token length: 2351
+Summarized using gemini model: gemini-2.0-flash
+Append: [暴涨7倍后掉头向下，东方电气疑似“乌龙指”与港股这些变化有关？](https://www.yicai.com/news/102735964.html)
+Token length: 5292
+Summarized using gemini model: gemini-2.0-flash
+Append: [7月22日这些公告有看头](https://www.yicai.com/news/102735965.html)
+Token length: 2315
+Summarized using gemini model: gemini-2.0-flash
+Append: [前美联储高级经济学家：给美联储“立储”幼稚，也不会改变鲍威尔任期结束前路径](https://www.yicai.com/news/102735931.html)
+Token length: 2254
+Summarized using gemini model: gemini-2.0-flash
+Append: [沪指逼近3600点、融资再上1.9万亿高位，融资客最喜欢哪些个股？](https://www.yicai.com/news/102735849.html)
+Token length: 4259
+Summarized using gemini model: gemini-2.0-flash
+Append: [上海：推动下一代显示产业高质量发展 布局智能眼镜生产能力](https://www.yicai.com/news/102735930.html)
+append_entries: 20
+Finish: 2025-07-22 12:43:57.552920
