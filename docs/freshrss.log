@@ -1,63 +1,62 @@
 ------------------------------------------------------
-Started: 2025-07-23 10:22:35.435615
-Existing_entries: 20
+Started: 2025-07-23 12:43:06.947426
+Existing_entries: 19
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 57
+Token length: 60
 Summarized using gemini model: gemini-2.0-flash
-Append: [AWS 亚马逊云新免费计划上线！我的注册踩坑经历](https://ipsk.net/aws-new-free-tier-registration-experience/)
-Token length: 1029
+Append: [KVCache.AI/Mooncake](https://gitee.com/kvcache-ai/Mooncake)
+Token length: 2201
 Summarized using gemini model: gemini-2.0-flash
-Append: [传统豪华车渠道变革潮下，沃尔沃将对经销商管理流程“动刀”](https://www.yicai.com/news/102737999.html)
-Token length: 1937
+Append: [沪指冲关3600点、业绩普遍高增，券商股配置机会来了？](https://www.yicai.com/news/102738380.html)
+Token length: 3171
 Summarized using gemini model: gemini-2.0-flash
-Append: [半年盘点｜零售商集体“练内功”，从商品“卷”到前置仓](https://www.yicai.com/news/102738002.html)
-Token length: 2466
+Append: [境外油气资产审计意见起冲突，*ST新潮起诉审计机构索赔300余万](https://www.yicai.com/news/102738345.html)
+Token length: 3166
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国又又又退群！缺钱砍项目，联合国如何自救？](https://www.yicai.com/news/102737994.html)
-Token length: 0
+Append: [外卖大战各方必须回归理性赛道](https://www.yicai.com/news/102738311.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [稳定币：资本投资、财产隐匿与高效交易的利器？](https://www.yicai.com/news/102738312.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [佛山顺德基孔肯雅热病例接近三千：已外溢至省外，传播快原因何在](https://www.yicai.com/news/102738272.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [夸克通过“主任医师级”笔试，健康大模型如何解准确性难题？](https://www.yicai.com/news/102738271.html)
+Token length: 2066
 Summarized using gemini model: gemini-2.0-flash
-Append: [高等教育格局生变！985、211被一批新型研究型大学“超越”](https://www.yicai.com/video/102737934.html)
-Token length: 302
+Append: [越来越多中小机场投运，“小机场城市游”受追捧](https://www.yicai.com/news/102738248.html)
+Token length: 1859
 Summarized using gemini model: gemini-2.0-flash
-Append: [商务部就中美瑞典经贸会谈答记者问](https://www.yicai.com/news/102737933.html)
-Token length: 868
+Append: [从地标场景到元宇宙应用，上海全方位扶持互联网优质内容创作生态](https://www.yicai.com/news/102735865.html)
+Token length: 437
 Summarized using gemini model: gemini-2.0-flash
-Append: [公安部：目前的“智驾”系统都不具备“自动驾驶”功能 探索辅助驾驶操作规范纳入驾考范围](https://www.yicai.com/news/102737959.html)
-Token length: 3047
+Append: [驾乘体验不输“豪华汽车” 这样的eVTOL座舱你见过吗｜一探](https://www.yicai.com/video/102738144.html)
+Token length: 2063
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股午后回落，沪指一度站上3600点，雅江电站概念股分化，恒科指涨超2%，腾讯创新高，焦煤涨11%，国债跌](https://wallstreetcn.com/articles/3751687)
-Token length: 4147
+Append: [破界协同：企业级HITL AI Agent双闭环架构解密——让机器智能与人类智慧共舞](https://juejin.cn/post/7529976120596119592)
+Token length: 3284
 Summarized using gemini model: gemini-2.0-flash
-Append: [200家俱乐部、7000万美元奖金池，沙特豪赌电竞未来](https://www.yicai.com/news/102737898.html)
-Token length: 2523
+Append: [四年2亿，苹果天才离职内幕首曝光，庞若鸣发离职信告别，苹果AI大溃败](https://www.36kr.com/p/3391196474017923)
+Token length: 3133
 Summarized using gemini model: gemini-2.0-flash
-Append: [日美贸易协定落地能否挽救石破茂政权？日本政坛陷“罗生门时刻”](https://www.yicai.com/news/102737874.html)
-Token length: 1597
+Append: [以身入局纯电大六座，Model Y 会成炮灰吗？](https://www.36kr.com/p/3390817308019072)
+Token length: 2952
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海临港新片区亮相英国伦敦，中外企业聚焦前沿产业与科技创新](https://www.yicai.com/news/102737856.html)
-Token length: 618
+Append: [小米增程SUV再曝光，瞄准问界和理想，强敌环伺突围难](https://www.36kr.com/p/3390118930913409)
+Token length: 5686
 Summarized using gemini model: gemini-2.0-flash
-Append: [重庆姐弟坠亡案涉事房产60万起拍：法院作特别提醒，暂无人报名](https://m.thepaper.cn/detail/31240135)
-Token length: 480
+Append: [平板电脑又杀回来了](https://www.36kr.com/p/3390107474593925)
+Token length: 4158
 Summarized using gemini model: gemini-2.0-flash
-Append: [两男子造谣传播“昆明驾车撞人案” 不实信息，已被刑拘](https://m.thepaper.cn/detail/31240152)
-Token length: 1426
+Append: [京东美团杀入了同一片战场](https://www.36kr.com/p/3390159776336007)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [WonderFox 视频转 GIF 转换器！ 赠送终身许可密钥](https://www.freedidi.com/20268.html)
+Token length: 714
 Summarized using gemini model: gemini-2.0-flash
-Append: [言短意长｜以小搏大，浙江正重构高教版图](https://m.thepaper.cn/detail/31239867)
-Token length: 3247
+Append: [【限免】O&O DiskImage 专业的备份和恢复数据工具！赠【终身】许可密钥](https://www.freedidi.com/20241.html)
+Token length: 1672
 Summarized using gemini model: gemini-2.0-flash
-Append: [12月18日海南自贸港封关！“零关税”商品比例74%、“一线”口岸8个](https://wallstreetcn.com/articles/3751691)
-Token length: 5389
+Append: [上亿元投入，人形机器人零部件何时结束“手搓时代”？](https://www.yicai.com/news/102738191.html)
+Token length: 3255
 Summarized using gemini model: gemini-2.0-flash
-Append: [独家专访｜王尧：每个时代都有难题，知识分子既清醒也困惑](https://m.thepaper.cn/detail/31238416)
-Token length: 1405
-Summarized using gemini model: gemini-2.0-flash
-Append: [媒体：“共享打印机”的创业套路，不该大行其道](https://m.thepaper.cn/detail/31238829)
-Token length: 497
-Summarized using gemini model: gemini-2.0-flash
-Append: [光明网：三大运营商精简套餐透明资费，动真格还是换汤不换药？](https://m.thepaper.cn/detail/31238826)
-Token length: 1767
-Summarized using gemini model: gemini-2.0-flash
-Append: [Cursor限制国内用户使用Claude模型？附简单解决方案！](https://juejin.cn/post/7527949657052053547)
-append_entries: 19
-Finish: 2025-07-23 10:24:03.468690
+Append: [晚间公告丨7月23日这些公告有看头](https://www.yicai.com/news/102738157.html)
+append_entries: 20
+Finish: 2025-07-23 12:44:30.191526
