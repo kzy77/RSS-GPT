@@ -1,36 +1,34 @@
 ------------------------------------------------------
-Started: 2025-07-24 14:21:42.772647
-Existing_entries: 20
+Started: 2025-07-24 16:23:58.869784
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 50
 Summarized using gemini model: gemini-2.0-flash
-Append: [重磅发布！ChatGPT Agent 正式上线，全新功能大揭秘 、OpenAI 官方直播内容全回顾！ | 零度解说](https://www.freedidi.com/20290.html)
-Token length: 0
+Append: [通过手机号便可轻松获取对方姓名，隐私泄露无处不在](https://ipsk.net/phone-number-privacy-leak-real-name-exposure/)
+Token length: 420
 Summarized using gemini model: gemini-2.0-flash
-Append: [痛心！东北大学6名学生在矿企坠亡！第一财经查阅发现：涉事格栅板的安装固定 国家早有明确标准！](https://www.yicai.com/video/102740583.html)
-Token length: 2327
+Append: [中金黄金：中国黄金集团内蒙古矿业有限公司已停产](https://www.yicai.com/news/102740681.html)
+Token length: 1334
 Summarized using gemini model: gemini-2.0-flash
-Append: [“反内卷行情”升温，中国股、汇齐涨，国际投资者怎么看](https://www.yicai.com/news/102740528.html)
-Token length: 2746
+Append: [欧央行按下降息“暂停键”，拉加德称外部风险仍高](https://www.yicai.com/news/102740618.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [医保五年累计支出12万亿，长护险全国推广预期增强](https://www.yicai.com/news/102740609.html)
+Token length: 1618
 Summarized using gemini model: gemini-2.0-flash
-Append: [创新药崛起带动基金业绩普涨，规模分化背后资金分歧加剧](https://www.yicai.com/news/102740521.html)
-Token length: 3403
+Append: [一财社论：与国际规则接轨，打造跨国商事争端解决优选地](https://www.yicai.com/news/102740598.html)
+Token length: 1775
 Summarized using gemini model: gemini-2.0-flash
-Append: [房产高评高贷、伪造流水……揭秘“职业背债人”骗贷产业链](https://www.yicai.com/news/102740486.html)
-Token length: 2666
+Append: [强力“反内卷”！时隔27年，价格法重新修订](https://wallstreetcn.com/articles/3751821)
+Token length: 1215
 Summarized using gemini model: gemini-2.0-flash
-Append: [近十年城镇常住人口增1.7亿， “十五五”城镇化有哪些重点](https://www.yicai.com/news/102740468.html)
-Token length: 71
+Append: [LLM→RAG→Agent→Training的企业级AI应用落地分层实施路线图](https://juejin.cn/post/7530033857476411392)
+Token length: 1805
 Summarized using gemini model: gemini-2.0-flash
-Append: [东北大学“6名学生溺亡”事故细节披露：听到呼救后急停浮选机，老师坠落半空被救](https://m.thepaper.cn/detail/31246134)
-Token length: 326
+Append: [🤖Cherry Studio+ MCP实现文件自由操控的奥秘](https://juejin.cn/post/7529660423998734388)
+Token length: 2135
 Summarized using gemini model: gemini-2.0-flash
-Append: [周静华被引渡回国，亚洲地区“百名红通人员”清零](https://m.thepaper.cn/detail/31246039)
-Token length: 862
-Summarized using gemini model: gemini-2.0-flash
-Append: [北京日报：大家反感的，不是PPT](https://m.thepaper.cn/detail/31241193)
-Token length: 254
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普：将对大部分国家征收15%至50%的简单关税](https://wallstreetcn.com/articles/3751757)
+Append: [9个中西部省份领跑上半年进出口增速，优势在哪里](https://www.yicai.com/news/102740398.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [阿里大模型刚发布就降价，AI编程赛道迎“抢滩”时刻？](https://www.yicai.com/news/102740381.html)
 append_entries: 10
-Finish: 2025-07-24 14:22:16.342042
+Finish: 2025-07-24 16:24:21.248424
