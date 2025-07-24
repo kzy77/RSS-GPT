@@ -2,417 +2,425 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-24T01:48:16Z</updated>
+    <updated>2025-07-24T03:39:41Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[重庆上半年GDP增长5%，“问界”推新带动汽车产业回暖]]></title>
-        <link href="https://www.yicai.com/news/102738516.html" />
-        <id>https://www.yicai.com/news/102738516.html</id>
-        <updated>Wed, 23 Jul 2025 21:38:04 +0800</updated>
-        <summary type="html"><![CDATA[重庆, 工业增加值, 赛力斯, 汽车产业, GDP
+        <title><![CDATA[你抢到Solo邀请码了吗？]]></title>
+        <link href="https://juejin.cn/post/7529840579258581035" />
+        <id>https://juejin.cn/post/7529840579258581035</id>
+        <updated>Wed, 23 Jul 2025 14:20:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Solo, 全栈项目, Bug修复, TypeScript, 部署
 
 <br><br>总结:
-1. 上半年重庆GDP同比增长5.0%，规模以上工业增加值同比增长5.6%，较一季度提升2.0个百分点。
-2. 汽车产业是重要支柱，但年初受产品换代和燃油车市场萎缩影响，一季度增速回落，拖累整体经济。
-3. 赛力斯推出问界系列新产品后，二季度销量提升，盈利能力增强，带动汽车产业回暖。
-4. 上半年汽车产业增加值同比增长8.4%，对全市工业的拉动力显著增强。
-5. 赛力斯等新能源车企的良好表现是汽车产业回暖的关键因素。
+1. 作者体验了Trae2.0 Solo模式，旨在金九银十期间利用其生成项目。Solo能快速生成代码和页面，效率高于Manus。
+2. 在智能日程项目后，作者尝试用Solo创建一个像素风的日记/短文软件，前端React + JS + TailwindCSS + Zustand，后端Node + MongoDB。
+3. Solo生成的代码存在问题，如坚持使用TypeScript，尽管作者明确要求不要使用。
+4. 后端存在逻辑Bug，如数据删除后重新登录仍然存在，且多次修复未成功。
+5. Solo前端部署到Vercel，后端需自行部署，作者因不熟悉MongoDB配置而未成功部署。最终，作者认为Solo擅长快速生成前端，但后端不可靠，AI只能辅助，不能完全依赖。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[欧洲是下一个？卢特尼克：日本用5500亿“买了”较低的汽车关税税率]]></title>
-        <link href="https://wallstreetcn.com/articles/3751735" />
-        <id>https://wallstreetcn.com/articles/3751735</id>
-        <updated>Wed, 23 Jul 2025 21:14:54 +0800</updated>
-        <summary type="html"><![CDATA[关税, 日本, 欧盟, 投资, 贸易协议
+        <title><![CDATA[泰国与柬埔寨在两国边境地区发生交火，外交关系降至最低级别]]></title>
+        <link href="https://www.yicai.com/news/102739234.html" />
+        <id>https://www.yicai.com/news/102739234.html</id>
+        <updated>Thu, 24 Jul 2025 11:09:52 +0800</updated>
+        <summary type="html"><![CDATA[交火事件, 地雷爆炸, 外交降级, 边境冲突, 领土争议
 
 <br><br>总结:
-1. 美国商务部长表示，美日贸易协议可作为欧盟贸易协议的范本，并希望欧盟“完全”开放市场。
-2. 日本通过向美国投资5500亿美元，换取了美国对其汽车征收较低的15%关税。
-3. 美国财政部长认为日本获得优惠关税的关键在于其提出的创新性融资安排，即设立5500亿美元投资基金对美投资。
-4. 相比之下，欧盟尚未在贸易谈判中提出类似的创新方案，且面临27个成员国的集体行动问题。
-5. 若美国对欧盟实施关税，欧盟或将对价值约1170亿美元的美国产品征收报复性关税。
+1. 泰柬边境发生交火事件，双方互相指责对方率先开火。
+2. 泰国指责柬埔寨士兵触雷事件，并降低与柬埔寨的外交关系级别，召回大使并驱逐柬埔寨大使。
+3. 柬埔寨否认泰方关于地雷爆炸的指控，认为泰方捏造事实，并将责任转嫁给柬埔寨。
+4. 柬埔寨采取对等措施，降低与泰国的外交关系至代办级，并召回驻泰国大使馆外交官。
+5. 柬埔寨敦促泰国遵守两国谅解备忘录，利用国际法律机制解决边界争端。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[孙正义被奥特曼忽悠，五千亿星际之门流产？马斯克豪言：要上5000万块GPU]]></title>
-        <link href="https://www.36kr.com/p/3391404228528517" />
-        <id>https://www.36kr.com/p/3391404228528517</id>
-        <updated>Wed, 23 Jul 2025 18:39:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 孙正义, 奥特曼, OpenAI, 星际之门, 算力
+        <title><![CDATA[Neuralink目标实现10亿美元年收入]]></title>
+        <link href="https://www.yicai.com/news/102739299.html" />
+        <id>https://www.yicai.com/news/102739299.html</id>
+        <updated>Thu, 24 Jul 2025 11:01:14 +0800</updated>
+        <summary type="html"><![CDATA[Neuralink, 脑机接口, 芯片植入, 马斯克, 营收目标
 
 <br><br>总结:
-1.  软银孙正义计划投资OpenAI的“星际之门”项目，但OpenAI的奥特曼绕过软银，直接与其他运营商合作，引发双方矛盾。
-2.  OpenAI大幅扩展“星际之门”项目目标，与甲骨文合作在美国开发额外的数据中心容量，预计总容量超过5000兆瓦，运行超过200万块芯片。
-3.  马斯克的xAI也在大力发展AI算力，速度远超其他公司，并计划在五年内上线5000万块H100等效AI算力，与OpenAI展开算力竞赛。
-4.  OpenAI和软银在“星际之门”项目的选址和运营上存在分歧，软银认为奥特曼绕过自己，直接与其他公司签订数据中心协议。
-5.  软银此前已向OpenAI投入300亿美元，但“星际之门”进展缓慢，可能对孙正义在AI领域的布局造成打击。
+Neuralink公司计划：
+1. 每年为2万人植入脑机接口芯片。
+2. 公司属于马斯克旗下。
+3. 预计到2031年实现至少10亿美元的年收入。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马上评｜比“集体承诺”更重要的是落实]]></title>
-        <link href="https://m.thepaper.cn/detail/31240322" />
-        <id>https://m.thepaper.cn/detail/31240322</id>
-        <updated>Wed, 23 Jul 2025 15:45:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 运营商，承诺，整改，透明，用户
+        <title><![CDATA[TikTok 2024年收入230亿美元，占字节营收比例创新高]]></title>
+        <link href="https://www.yicai.com/news/102739206.html" />
+        <id>https://www.yicai.com/news/102739206.html</id>
+        <updated>Thu, 24 Jul 2025 10:52:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：TikTok，营收，增长，字节跳动，海外业务
 
 <br><br>总结:
-1. 三大运营商承诺改善服务，包括透明消费、精简套餐等，以响应工信部“明白办、放心用”行动和“行风纠风”要求。移动、电信、联通分别推出服务承诺和规范措施，例如订购需明确同意、禁止销售未公示套餐、突出显示关键条款。
-2. 尽管运营商推出多项承诺，但用户评论区多为吐槽，集中在套餐复杂、骚扰电话、老用户无法享受优惠等方面。
-3. 运营商需正视用户呼声，将承诺落到实处，解决违规营销、不透明收费等问题，才能真正赢得用户信任和好评。
+1. TikTok营收显著增长：Business of Apps报告显示，2024年TikTok营收同比增长42.8%至230亿美元，跃居全球营收规模第四大社交应用。
+2. 海外业务贡献突出：字节跳动海外业务收入（主要来自TikTok）同比增长63%，占公司总收入的四分之一，比例创历史新高。
+3. 字节跳动整体利润情况：虽然字节跳动2024年净利润增幅和利润率有所放缓，但海外业务表现亮眼。
+4. 官方回应：截至目前，字节跳动官方未对上述数据做出回应。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全国多地图书馆批评“放娃”现象，有家长点外卖让孩子呆一整天]]></title>
-        <link href="https://m.thepaper.cn/detail/31240044" />
-        <id>https://m.thepaper.cn/detail/31240044</id>
-        <updated>Wed, 23 Jul 2025 11:53:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词：图书馆, 熊孩子, 家长, 看护, 安静
+        <title><![CDATA[市场监管总局着力整治质量领域“内卷式”竞争]]></title>
+        <link href="https://www.yicai.com/news/102739180.html" />
+        <id>https://www.yicai.com/news/102739180.html</id>
+        <updated>Thu, 24 Jul 2025 10:38:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词：内卷式竞争, 质量, 市场监管, 恶性竞争, 消费者权益
 
 <br><br>总结:
-1. 多地图书馆发文批评“家长甩手放娃”现象。
-2. 图书馆呼吁保持安静，维护阅读环境。
-3. 衡阳市图书馆每天有近100名无看护儿童滞留。
-4. 部分家长将孩子送到图书馆后不闻不问，甚至点外卖后让孩子独自待一整天。
+1. 市场监管总局曝光质量领域“内卷式”竞争违法案例，指出企业为短期利益忽视品牌、质量和技术，采取降低成本、低价竞争等手段扰乱市场秩序，损害消费者权益。
+2. 造成“内卷式”竞争的原因包括供需失衡、企业缺乏创新和底线意识、监管机制不完善。
+3. 市场监管总局采取措施：加强市场准入管理，严格生产许可，从源头化解供需矛盾；加强质量安全监管，加大抽查力度，遏制假冒伪劣行为；加强助企服务，实施精准帮扶，提升产品质量。
+4. 下一步将深入推进整治工作，创新监管方式，深化专项治理和技术帮扶，曝光违法案例，营造良好社会氛围。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[日本首相石破茂计划8月结束前宣布辞职]]></title>
-        <link href="https://m.thepaper.cn/detail/31239943" />
-        <id>https://m.thepaper.cn/detail/31239943</id>
-        <updated>Wed, 23 Jul 2025 10:31:38 +0800</updated>
-        <summary type="html"><![CDATA[石破茂，辞职，日本，首相，自民党
+        <title><![CDATA[美上诉法院裁定：特朗普限制“出生公民权”违宪]]></title>
+        <link href="https://www.yicai.com/news/102739173.html" />
+        <id>https://www.yicai.com/news/102739173.html</id>
+        <updated>Thu, 24 Jul 2025 10:37:45 +0800</updated>
+        <summary type="html"><![CDATA[出生公民权, 特朗普, 行政令, 违宪, 上诉法院
 
 <br><br>总结:
-1. 日本首相石破茂计划在8月结束前正式宣布辞职。
-2. 辞职原因是自民党和公明党组成的执政联盟在参议院选举中落败。
-3. 石破茂内阁支持率因此跌至新低。
-4. 自民党内出现要求石破茂辞职的呼声。
+* 美国第九巡回上诉法院裁定特朗普限制“出生公民权”的行政令违宪，并阻止其在全国范围内执行。
+* 该行政令规定父母非美国公民或合法永久居民的新生儿不能自动获得美国公民身份，与美国已有100多年历史的“出生公民权”政策相悖。
+* 此前最高法院曾裁定联邦地区法官无权发布全国性禁令阻止该行政令，但新罕布什尔州一法官利用最高法院裁决中的例外再次阻止该行政令。
+* 上诉法院的裁决可能使“出生公民权”问题再次回到最高法院进行审理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[自由职业指南：不满足这5个条件，我劝你别辞职]]></title>
-        <link href="https://www.36kr.com/p/3390794655517061" />
-        <id>https://www.36kr.com/p/3390794655517061</id>
-        <updated>Wed, 23 Jul 2025 08:34:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 副业, 独立工作, 超能力, 情绪控制, 使命
+        <title><![CDATA[直击业绩会｜特斯拉2025年二季度业绩会]]></title>
+        <link href="https://www.yicai.com/live/102738908.html" />
+        <id>https://www.yicai.com/live/102738908.html</id>
+        <updated>Thu, 24 Jul 2025 10:22:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特斯拉，2025，二季度，业绩，说明会
 
 <br><br>总结:
-1.  **副业现金流:** 评估副业的现金流是否能持续超过主业，并考虑副业的发展轨迹、定价能力、可扩展性和口碑。
-2.  **超能力:** 明确自身独特的"超能力"，并衡量其能为客户带来至少10倍的价值，确保这种能力在市场上具有稀缺性和可量化性。
-3.  **资本:** 除了储备资金外，还需具备声誉资本（可重复实现成果的记录）、关系资本（关键人脉）和知识资本（可转化为他人付费的知识资产）。
-4.  **情绪控制:** 能够调节负面情绪，如自我怀疑和冒名顶替综合症，避免情绪影响定价和决策。
-5.  **使命驱动:** 对技艺和使命的执着超过对赞誉和金钱的渴望，热爱所解决的问题，而非仅关注解决方案，从而保持创新和持续为客户创造价值。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[乌释放停火信号 俄希望接着谈 第三轮谈判不到一小时谈了什么]]></title>
-        <link href="https://www.yicai.com/news/102738756.html" />
-        <id>https://www.yicai.com/news/102738756.html</id>
-        <updated>Thu, 24 Jul 2025 08:14:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词：俄乌谈判, 换俘, 停火信号, 无人机, 军事生产
-
-<br><br>总结:
-1. 俄乌在土耳其举行谈判，仅就交换战俘达成共识，同意近期交换1200人以上，并继续交换遗体。
-2. 乌方释放停火信号，提议在8月底前举行领导人会议，邀请埃尔多安和特朗普参加。俄方称领导人会晤时机不成熟，需充分讨论停火协议。
-3. 俄方称双方在停火问题上立场相距甚远，但同意继续讨论，并建议成立政治、人文和军事问题工作组，希望举行第四轮谈判。
-4. 俄乌无人机攻防战白热化，俄军使用“天竺葵”无人机打击乌克兰军工厂，并扩大“天竺葵-2”自杀式无人机生产；乌克兰开始生产反无人机步枪子弹。
-5. 双方都在加码生产包括光纤无人机在内的各种无人机，未来无人机对攻或将成为俄乌冲突的主要攻击模式。
+特斯拉于美国当地时间7月23日发布了2025年二季度业绩。第一财经对此次业绩说明会进行了全程直播。本次说明会的核心在于公布特斯拉在2025年第二季度的经营状况和财务表现，并对未来的发展战略进行解读。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[白宫称日本将立即增加75%美国大米进口量]]></title>
-        <link href="https://www.yicai.com/news/102738708.html" />
-        <id>https://www.yicai.com/news/102738708.html</id>
-        <updated>Thu, 24 Jul 2025 08:14:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：美日贸易，大米进口，商品购买，投资协议，关税下调
+        <title><![CDATA[全国基本医保参保率稳定在95%左右]]></title>
+        <link href="https://www.yicai.com/news/102739105.html" />
+        <id>https://www.yicai.com/news/102739105.html</id>
+        <updated>Thu, 24 Jul 2025 10:14:32 +0800</updated>
+        <summary type="html"><![CDATA[医保，参保率，参保人数，十四五，稳定
 
 <br><br>总结:
-*   日本将立即增加75%的美国大米进口量，并大幅扩大进口配额。
-*   日本将购买价值80亿美元的美国商品，包括玉米、大豆、化肥、生物乙醇和可持续航空燃料。
-*   美日投资协议将重点关注半导体设计和制造、天然气和新造船厂。
-*   日本承诺购买美国制造的商用飞机，包括一项购买100架波音飞机的协议。
-*   原定25%的对等关税税率将下调至15%，日本将向美国投资5500亿美元。
+* “十四五”期间，全国基本医保参保率稳定在95%左右。
+* 2024年度全国基本医保参保人数达13.27亿人。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[俄乌第三轮直接谈判结束 双方同意新一轮换俘]]></title>
-        <link href="https://www.yicai.com/news/102738738.html" />
-        <id>https://www.yicai.com/news/102738738.html</id>
-        <updated>Thu, 24 Jul 2025 08:13:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词：俄乌谈判, 战俘交换, 停火, 领导人会晤, 工作组
+        <title><![CDATA[贵州省委常委、毕节市委书记吴胜华任上被查，今年37名中管干部已落马]]></title>
+        <link href="https://m.thepaper.cn/detail/31241412" />
+        <id>https://m.thepaper.cn/detail/31241412</id>
+        <updated>Thu, 24 Jul 2025 10:03:24 +0800</updated>
+        <summary type="html"><![CDATA[吴胜华, 贵州, 毕节, 违纪违法, 中管干部
 
 <br><br>总结:
-*   俄乌双方完成了第二轮谈判达成的250名俘虏交换，并同意近期再进行1200人以上的交换。俄罗斯已向乌克兰交还了7000余具遗体，如有冷冻设备，将继续交还3000具。
-*   俄方建议停火24-48小时以收敛尸体和撤出伤员，并提议成立政治、人文和军事问题三个工作组，乌方承诺考虑。
-*   乌方提议在8月底前举行有土耳其总统埃尔多安和美国总统特朗普参加的领导人会议，并释放出愿意停火的信号，特别是停止对关键和民用基础设施的打击。
-*   停火方面至今仍未取得实质性突破，但乌克兰强调民众利益、实现停火和促成领导人会面是优先事项。双方同意继续在代表团和工作组层面讨论。
+1. 贵州省委常委、毕节市委书记吴胜华涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。
+2. 吴胜华是布依族，长期在贵州工作，历任多个重要职务，包括贵定县委书记、黔南州州长、贵州省副省长等。
+3. 2022年4月，吴胜华升任贵州省委常委，同年5月起任毕节市委书记。
+4. 吴胜华的落马使今年中央纪委国家监委网站公开通报的落马中管干部人数升至37人。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普：将对大部分国家征收15%至50%的简单关税；世卫组织警告“20年前疫情正重演”；中央财政首次发放养老消费补贴｜早报]]></title>
-        <link href="https://www.yicai.com/news/102738757.html" />
-        <id>https://www.yicai.com/news/102738757.html</id>
-        <updated>Thu, 24 Jul 2025 08:11:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 基孔肯雅热, 关税, 养老补贴, 自贸港, 智驾
+        <title><![CDATA[美联储召开首次银行资本公开会议：阿尔特曼受邀出席、鲍威尔保持低调]]></title>
+        <link href="https://www.yicai.com/news/102739075.html" />
+        <id>https://www.yicai.com/news/102739075.html</id>
+        <updated>Thu, 24 Jul 2025 09:58:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 巴塞尔协议III，压力测试，系统重要性附加资本，补充杠杆率，人工智能
 
 <br><br>总结:
-1. 世卫组织警告基孔肯雅热疫情重演，已蔓延至欧洲和亚洲。
-2. 特朗普计划对大部分国家征收15%-50%关税，正与欧盟谈判降低关税。
-3. 中国首次在全国范围实施养老服务消费补贴，支持失能老年人照护。
-4. 海南自贸港全岛封关货物税收政策明确，进口“零关税”体系基本确立。
-5. 中美将于7月27日至30日在瑞典举行经贸会谈。
-6. 三部门联合整治车辆运输车超标装载，保障道路交通安全。
-7. 公安部明确“智驾”为辅助驾驶，驾驶人承担最终责任，最高可刑事追责。
-8. 国家医保局公布智能监管改革试点地区和单位名单。
-9. 农业农村部召开座谈会，强调稳住生猪和猪肉价格。
-10. 生态环境部强调核安全是核电发展的生命线。
-11. 国家气候中心预计7月下旬及8月有3-4个台风登陆或影响我国沿海地区。
-12. 印度时隔5年恢复中国公民旅游签证。
-13. 佛山顺德基孔肯雅热病例接近三千，已外溢至省外。
-14. 江苏单价最贵地块纪录被刷新，楼面价6.52万/平。
-15. 2025百强县发布：前10江苏占6席，这7个是“超强县”。
-16. 昆明优化调整住房公积金个人住房贷款住房套数认定标准。
-17. 6名大学生在内蒙古企业参观学习中意外坠落溺亡。
-18. 特朗普将自行决定5500亿美元日本对美投资的使用。
-19. 白宫称日本将立即增加75%美国大米进口量。
-20. 美欧接近达成15%关税协议。
-21. 特朗普称与欧盟达成一项对乌军援协议。
-22. 美国政府对哈佛大学发起新一轮签证项目合规调查。
-23. 日本首相石破茂重申留任意向。
-24. 李在明5起刑事案件全被延期审理韩国法院：他已是国家元首要保证总统顺利施政。
-25. 泰国代总理称将降低与柬埔寨外交关系等级。
-26. 周鸿祎评DeepSeek流量下滑。
-27. 余承东：问界M8纯电版将首发华为自研电驱。
-28. 机构23日抛售这25股，买入海特生物1.09亿元。
-29. 道指涨超500点！标普纳指再创新高。
-30. 存款利率继续下降，3个月定存平均利率步入“0时代”。
-31. “职业背债人”骗局猖獗，监管提示警惕“轻松致富”陷阱。
+1.  美联储召开银行资本监管公开会议，讨论巴塞尔协议III终局、压力测试、GSIB和eSLR等议题，目标是重塑监管路径，缓解对信贷和创新的约束。
+2.  分析师预计美联储将加快资本监管改革落地，或在第三或第四季度启动征求意见程序，并在鲍威尔任期结束前完成规则制定。
+3.  会议讨论了现行规则的复杂性、高成本和过度约束，与会者普遍表达了简化监管的诉求，并指出了“重复计提”问题，建议调整GSIB附加资本机制。
+4.  压力测试改革和eSLR调整也在评估中，可能将eSLR与GSIB挂钩，或在交易子公司层面剔除国债资产。
+5.  OpenAI CEO阿尔特曼受邀探讨人工智能在金融监管中的影响，提醒警惕AI可能助长的消费者欺诈和新型金融风险，美联储或将主动回应AI监管风险。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对冲关税冲击！美元贬值成为新财报季关键变量]]></title>
-        <link href="https://www.yicai.com/news/102738710.html" />
-        <id>https://www.yicai.com/news/102738710.html</id>
-        <updated>Thu, 24 Jul 2025 07:58:50 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美元贬值, 汇率利好, 财报季, 企业业绩, 关税影响
+        <title><![CDATA[沪指再度重回3600点，中国电建股价创近2年新高]]></title>
+        <link href="https://www.yicai.com/news/102738990.html" />
+        <id>https://www.yicai.com/news/102738990.html</id>
+        <updated>Thu, 24 Jul 2025 09:37:13 +0800</updated>
+        <summary type="html"><![CDATA[股市，电建，稀土，黄金，海南自贸
 
 <br><br>总结:
-1. 美元贬值成为美国跨国公司财报的意外利好，缓解了特朗普政府关税政策带来的负面影响。百事可乐、强生、3M、李维斯、奈飞等公司均提及汇率因素对业绩的积极作用。
-2. 美元贬值提升了美国公司海外收入的价值，并使美国出口商品更具竞争力。
-3. 过去20年数据显示，美元每贬值1%，标普500指数的每股收益EPS增长率就会提高约0.6个百分点。信息科技、原材料、能源等行业海外敞口较大，受益更明显。
-4. 企业开始对冲未来两到五年的汇率风险，探索窗口远期等衍生品工具来保护利润。
-5. 汇率利好对业绩的影响有限，经济前景和消费需求才是关键。投资者不应过度依赖汇率带来的暂时性收益。
+1. A股早盘三大股指开盘涨跌不一，沪指低开，沪深两市成交额已连续41个交易日破万亿。
+2. 盘面上板块轮动明显，草甘膦、美容护理、小家电等板块活跃，贵金属、钢铁、稀土永磁等板块走低。中国电建走出4连板，成交额超150亿元。
+3. 碳酸锂和焦煤主力合约分别由跌转涨和大幅上涨，半导体板块震荡走强。
+4. 稀土永磁概念股拉升，受益于全球氧化镨钕供需偏紧的预期。
+5. 海南自贸概念活跃，受益于2025年封关的临近。
+6. 黄金股集体下跌，中金黄金因安全事故股价下跌。
+7. 央行进行了逆回购操作，人民币对美元中间价调升。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[放弃尝试解雇鲍威尔？特朗普剑指美联储董事会谋降息]]></title>
-        <link href="https://www.yicai.com/news/102738726.html" />
-        <id>https://www.yicai.com/news/102738726.html</id>
-        <updated>Thu, 24 Jul 2025 07:58:27 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 特朗普, 鲍威尔, 美联储, 贝森特, 利率
+        <title><![CDATA[中金黄金致歉：对6名大学生不幸遇难表示沉痛哀悼]]></title>
+        <link href="https://www.yicai.com/news/102738802.html" />
+        <id>https://www.yicai.com/news/102738802.html</id>
+        <updated>Thu, 24 Jul 2025 09:30:54 +0800</updated>
+        <summary type="html"><![CDATA[关键词：东北大学, 中金黄金, 矿业事故, 溺亡, 应急处置
 
 <br><br>总结:
-1. 特朗普持续向美联储主席鲍威尔施压，要求降息，并呼吁美联储董事会采取行动。
-2. 尽管此前有解雇鲍威尔的传闻，但特朗普政府似乎已放弃这一想法，转而尝试影响美联储董事会，以实现降息目标。
-3. 财长贝森特透露，政府正在寻找鲍威尔的继任者，候选人范围广泛，包括现任FOMC成员、地区联储主席以及其他女性候选人。
-4. 特朗普认为降低利率可以为美国节省大量资金，但他推动降息的努力可能难以实现，因为需要多数票委的支持。
-5. 贝森特否认特朗普会解雇鲍威尔，并表示与鲍威尔保持沟通，鲍威尔也未告知是否会提前结束美联储理事任期。
+1. 2025年7月23日，东北大学6名学生在中国黄金集团内蒙古矿业有限公司参观学习时，因格栅板脱落坠入浮选槽溺亡，另有1名老师受伤。
+2. 中金黄金发布公告，说明情况，并对遇难者表示哀悼，对家属表示慰问。
+3. 事故发生后，公司立即启动应急预案，并上报当地政府相关部门。
+4. 目前各项处置工作正在有序进行。
+5. 公司对事故产生的社会影响深表歉意。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普：将对大部分国家征收15%至50%的简单关税]]></title>
-        <link href="https://www.yicai.com/news/102738689.html" />
-        <id>https://www.yicai.com/news/102738689.html</id>
-        <updated>Thu, 24 Jul 2025 07:53:21 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普, 关税, 美国, 欧盟, 谈判
+        <title><![CDATA[科技七巨头财报来啦！特斯拉汽车业务承压 自动驾驶与机器人成焦点；谷歌业绩优秀 上调全年资本开支；亚马逊加快收购步伐拓展智能可穿戴设备领域]]></title>
+        <link href="https://www.yicai.com/news/102738793.html" />
+        <id>https://www.yicai.com/news/102738793.html</id>
+        <updated>Thu, 24 Jul 2025 09:30:21 +0800</updated>
+        <summary type="html"><![CDATA[特斯拉, 谷歌, 亚马逊, AI, 可穿戴设备
 
 <br><br>总结:
-1. 美国总统特朗普计划对世界大部分国家征收15%至50%的简单关税。
-2. 美国正与欧盟进行谈判。
-3. 如果欧盟同意向美国企业开放，美国将允许他们支付较低的关税。
+
+① 特斯拉二季度营收和净利润同比下降，主要原因是销量下滑和碳积分收入减少。马斯克呼吁关注自动驾驶和机器人业务，包括Robotaxi试点和Optimus机器人量产计划。
+
+② 谷歌二季度营收和净利润均超预期，广告和云收入表现强劲。公司大幅上调全年资本支出，重点投入AI基础设施建设。
+
+③ 亚马逊计划收购Bee AI，拓展可穿戴设备和AI领域，目标是整合Bee的技术与Alexa，与苹果/谷歌在可穿戴设备领域展开竞争。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[农业农村部召开推动生猪产业高质量发展座谈会；纳指首次收盘站上21000点关口]]></title>
-        <link href="https://www.yicai.com/news/102738723.html" />
-        <id>https://www.yicai.com/news/102738723.html</id>
-        <updated>Thu, 24 Jul 2025 07:50:09 +0800</updated>
-        <summary type="html"><![CDATA[关键词：科技股，中美经贸，特斯拉，雅鲁藏布江水电，生猪产业
+        <title><![CDATA[广发证券拥抱AI技术创新：“ETF大本营”破局万亿赛道]]></title>
+        <link href="https://www.yicai.com/news/102738032.html" />
+        <id>https://www.yicai.com/news/102738032.html</id>
+        <updated>Thu, 24 Jul 2025 09:11:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI, ETF, 广发证券, 智能, 财富管理
 
 <br><br>总结:
-1.  机构看好市场前景，认为补涨低位权重后，将回到轻指数重个股的结构性牛市，科技板块补涨潜力大。
-2.  中美双方将于7月27日至30日在瑞典举行经贸会谈。
-3.  特斯拉二季度营收同比减少12%，盘后股价重挫，创十余年来最大降幅。
-4.  多家公司发布公告，回应参与雅鲁藏布江下游水电工程项目的不确定性。
-5.  农业农村部召开座谈会，强调严格落实产能调控举措，推进生猪全产业链转型升级。
+1. ETF市场规模迅速扩张，广发证券推出“ETF大本营”频道，利用AI技术解决投资者认知、选择和配置难题。
+2. “ETF大本营”依托广发“天玑智融”AI大模型，提供全自动化的“千人千面”陪伴服务，并构建了“认知-种草-体验”的智能化运营闭环，提升服务覆盖面和响应速度。
+3. “ETF大本营”集成智能分析工具，如K线择时、神奇九转等，并提供网格交易、行业轮动等专业策略，实现从机会发现到交易的全流程无缝衔接。
+4. 广发证券加速AI原生应用变革，打造具有广发特色的MCP服务平台，为外部机构提供专业化的AI赋能服务。
+5. 广发证券将继续深化AI技术在财富管理领域的应用，探索智能化发展的新路径，为客户创造更大价值，为行业发展注入新动能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[华尔街见闻早餐FM-Radio | 2025年7月24日]]></title>
-        <link href="https://wallstreetcn.com/articles/3751753" />
-        <id>https://wallstreetcn.com/articles/3751753</id>
-        <updated>Thu, 24 Jul 2025 07:26:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：贸易摩擦, 特斯拉, 谷歌, 美日协议, 人工智能
+        <title><![CDATA[6名大学生参观学习中意外坠落溺亡，中金黄金公告致歉]]></title>
+        <link href="https://m.thepaper.cn/detail/31241262" />
+        <id>https://m.thepaper.cn/detail/31241262</id>
+        <updated>Thu, 24 Jul 2025 08:50:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大学生, 坠落溺亡, 中金黄金, 内蒙古, 企业参观
 
 <br><br>总结:
-1.  **市场情绪:** 美日协议和欧美关税协议预期提振市场，标普500和纳指创新高，小盘股领涨。
-2.  **贸易动态:** 中美将在瑞典举行经贸会谈。美国与日本达成协议，但美国三大车企对此不满。
-3.  **公司业绩:** 特斯拉Q2业绩下滑，马斯克警告未来几个季度形势严峻；谷歌母公司业绩超预期，提高全年资本支出。
-4.  **AI发展:** 白宫发布AI行动计划，OpenAI、微软、亚马逊被认为是赢家，AI算力竞争激烈。
-5.  **政策动向:** 香港金管局拟在7月底公布稳定币监管指引。科技部发布《驾驶自动化指引》，规范驾驶自动化技术发展。
+1. 6名大学生在内蒙古一家企业参观学习期间，不幸坠落溺亡。
+2. 涉事企业为中金黄金。
+3. 中金黄金已发布公告，对此次事故表示致歉。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[道指涨超500点！标普纳指再创新高，特斯拉放榜盘后跌5%]]></title>
-        <link href="https://www.yicai.com/news/102738675.html" />
-        <id>https://www.yicai.com/news/102738675.html</id>
-        <updated>Thu, 24 Jul 2025 07:16:24 +0800</updated>
-        <summary type="html"><![CDATA[美股，贸易谈判，特斯拉，谷歌，美国国债
+        <title><![CDATA[8点1氪｜余杭自来水异味7人被严肃问责；上海和平饭店罐装可乐一瓶卖50元，市监局回应；山姆App重新上架卫龙魔芋爽]]></title>
+        <link href="https://www.36kr.com/p/3392194333657218" />
+        <id>https://www.36kr.com/p/3392194333657218</id>
+        <updated>Thu, 24 Jul 2025 08:00:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 上市, 余杭自来水, 和平饭店, 卫龙, 罗马仕<br><br>总结:
+1. **公司上市:** 聚智科技向港交所递交上市申请，立讯精密拟发行H股在港交所上市。
+2. **余杭自来水异味:** 余杭区自来水出现异味，原因是藻类繁殖导致硫醚类物质进入取水口。官方通报了调查结果，7人被问责，并采取措施保障供水安全，免收7月水费。
+3. **上海和平饭店高价可乐:** 上海和平饭店罐装可乐售价50元，市监局认为属于市场调节价，但需明确告知消费者服务费。
+4. **卫龙魔芋爽重返山姆:** 山姆App重新上架卫龙高纤牛肝菌魔芋爽，为山姆专供产品。
+5. **罗马仕充电宝自燃:** 网友称罗马仕充电宝自燃导致腿部烧伤，官方尚未回应。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[十字路口的古镇｜洛阳龙凤山古镇：30亿打造的“人造古镇”如何生出文化基因？]]></title>
+        <link href="https://m.thepaper.cn/detail/31151020" />
+        <id>https://m.thepaper.cn/detail/31151020</id>
+        <updated>Thu, 24 Jul 2025 07:34:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词：古镇转型, 人造古镇, 龙凤山古镇, 文化内涵, 文旅融合
 
 <br><br>总结:
-*   美股三大股指上涨，道指涨超500点，纳指首次站上21000点关口，标普创今年第12次收盘新高纪录，主要受美欧贸易谈判前景乐观情绪提振。
-*   中长期美债收益率走高，10年期美债重返4.4%，市场普遍预计美联储下周维持利率不变。
-*   特斯拉二季度营收和净利润均低于预期，汽车收入和监管信贷收入下降，全年交付预测未更新，盘后股价重挫。
-*   谷歌二季度营收和净利润超预期，搜索和广告部门实现增长，云收入增长显著，人工智能搜索产品月活用户增加。
-*   个股方面，科技股涨多跌少，赛默飞世尔科技涨幅显著，德州仪器暴跌，纳斯达克金龙中国指数上涨。美国6月份的成屋销售年化量下降，价格创下历史新高。
+1.  龙凤山古镇是河南洛阳伊川县投资30亿打造的4A级“人造古镇”，以宋代建筑风格和灯光夜景为特色，被称为“洛阳的凤凰古城”，但被质疑缺乏历史文化底蕴。
+
+2.  古镇通过仿古建筑、特色商业街、游乐设施等吸引游客，但存在商业同质化严重、文化产品缺乏特色等问题，游客主要集中在节假日和夜间。
+
+3.  古镇尝试通过闭园升级改造、举办文化活动、打造差异化旅游文化体系等方式来提升文化内涵，但人造古镇与真实文化遗产存在本质区别。
+
+4.  文旅专家建议，应挖掘自身历史文化资源，打造独特文化IP，避免千篇一律的仿古建筑和商业化模式，发展文化旅游与生态旅游相结合的模式。
+
+5.  伊川县政府将持续投入资金，推动龙凤山古镇业态提升，发展夜间经济和研学旅游，力争实现游客数量和旅游综合收入的增长，实现古镇的可持续发展，并在资金支持下更好地挖掘文化内涵、提升服务品质。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特斯拉Q2业绩惨淡、创十年最大销售下滑，重申发新车和Cybercab量产计划，指引缺席 | 财报见闻]]></title>
-        <link href="https://wallstreetcn.com/articles/3751756" />
-        <id>https://wallstreetcn.com/articles/3751756</id>
-        <updated>Thu, 24 Jul 2025 06:28:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特斯拉，营收下降，利润下滑，Robotaxi，关税影响
+        <title><![CDATA[石破茂“被辞职”前后：微妙时机达成日美关税协议，自民党“长老会议”上涉险过关]]></title>
+        <link href="https://m.thepaper.cn/detail/31241034" />
+        <id>https://m.thepaper.cn/detail/31241034</id>
+        <updated>Thu, 24 Jul 2025 07:23:07 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 石破茂, 日美贸易协议, 自民党, 参议院选举, 辞职传闻
 
 <br><br>总结:
-1. 特斯拉二季度营收和利润均低于预期，营收同比下降12%，利润同比下降23%。汽车业务收入同比下降16%，储能业务收入同比下降7%。
-2. 特斯拉自由现金流同比大幅下降，但仍为正值，部分得益于其他收入和数字资产收益。
-3. 特斯拉重申今年推出新款平价车型计划，预计2025年上半年试生产。Cybercab和Semi卡车计划于2026年量产。
-4. 特斯拉强调向AI和机器人领域转型，扩大Robotaxi服务范围，并在中国筹备推出FSD。
-5. 特斯拉认为关税和财政政策变化带来不确定性，将持续进行研发和资本支出，以应对挑战。
+1. 日本首相石破茂面临政治危机，因自民党在参议院选举中失利，朝野出现辞职呼声。
+2. 石破茂否认辞职传闻，将留任问题与日美关税谈判挂钩，强调避免“政治空白”。
+3. 日美达成贸易协议，汽车关税降低，日本汽车股上涨，但协议细节和影响尚待观察。
+4. 自民党内部存在“倒石破”浪潮，三位前首相与石破茂会谈，党内元老暂时允许其继续执政。
+5. 未来，石破茂面临落实日美关税协议、提振国内经济等挑战，其政治生命取决于能否解决这些问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[媒体称欧美接近达成协议、美将对欧盟征15%关税，白宫回应是臆测]]></title>
-        <link href="https://wallstreetcn.com/articles/3751748" />
-        <id>https://wallstreetcn.com/articles/3751748</id>
-        <updated>Thu, 24 Jul 2025 05:03:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 欧美贸易, 关税协议, 日本模式, 报复性关税, 白宫回应
+        <title><![CDATA[光明网评论员：发喜报“阴阳”学生不报清北，是学校的失格]]></title>
+        <link href="https://m.thepaper.cn/detail/31241144" />
+        <id>https://m.thepaper.cn/detail/31241144</id>
+        <updated>Thu, 24 Jul 2025 06:53:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：清北率, 喜报, 教育公平, 教育政绩, 学生选择
 
 <br><br>总结:
-1. 美国和欧盟据称接近达成关税协议，美国可能对欧盟征收15%的关税，部分产品如飞机、烈酒和医疗器械可能免除关税。
+1. 江西余干中学和瑞昌一中近期出现两起因学生未报考清华北大而引发争议的事件，反映出部分学校过度追求“清北率”的现象，将其视为重要政绩和招生宣传手段。
+2. 学生有权根据自身兴趣和未来规划选择专业，学校和老师应尊重并支持学生的决定，而非强求其报考清北以提高学校的“清北率”。
+3. 这种追逐“清北率”的行为违反了教育部的相关规定，扭曲了教育生态，损害了师生关系，甚至可能导致教育资源分配不公，对少数尖子生过度投入，破坏教育公平。
+4. 舆论应对这种短视行为保持高压态势，教育部门应明确惩戒红线，帮助学校放下对“清北率”的执念，回归教育的本质。
+5. 学校应反思“清北率”指标的合理性，教育部门应加强监管，避免学校为了追求升学率而牺牲学生的个人发展和教育公平。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[谷歌母公司二季度业绩超预期，提高全年资本支出至850亿美元，盘后一度涨3.4% | 财报见闻]]></title>
+        <link href="https://wallstreetcn.com/articles/3751755" />
+        <id>https://wallstreetcn.com/articles/3751755</id>
+        <updated>Thu, 24 Jul 2025 05:41:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Alphabet, 营收, AI, 资本支出, 谷歌云
+
+<br><br>总结:
+1. Alphabet二季度营收超预期，同比增长14%，达964.3亿美元，每股收益为2.31美元。
+2. 各业务板块中，谷歌云营收136亿美元，同比增长32%，云计算部门运营利润达28.3亿美元，表现亮眼；广告总营收同比增长10.4%，搜索业务和YouTube广告收入均超预期。
+3. 公司将全年资本支出计划上调至850亿美元，预计2026年继续增加，主要用于AI开发和数据中心建设。
+4. 谷歌在AI人才争夺战中积极布局，收购AI编程初创公司Windsurf并高薪招揽人才，面临Meta等竞争对手的压力。
+5. 投资者关注Alphabet在AI领域的投资回报，以及反垄断诉讼对公司未来发展的影响。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS、UUID、Cloudflare隧道Token
 <br>
-2. 欧盟也准备了价值约1000亿欧元的报复性关税方案，以应对美国可能提高关税的情况。
+爪云注册免费域名，获取root权限安装docker，临时隧道及固定隧道模式。运行命令，相关docker命令如查看容器、停止容器等。视频教程包括爪云使用、免费域名注册、一分钟部署科学上网节点。 
+<br><br>总结: 本文介绍了爪云注册和内网穿透，包括VPS部署所需的命令及网址，以及临时和固定隧道模式的运行和相关docker命令。视频教程包括爪云注册、免费域名注册和部署科学上网节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg, 免费域名, Cloudflare, FreeDNS, 注册
 <br>
-3. 特朗普政府高官暗示欧盟应效仿日本，通过投资等方式换取更优惠的关税待遇。日本通过5500亿美元的对美投资获得了15%的关税。
+us.kg免费域名近期出现问题，已注册的域名仍在，新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。现在还可以注册新的us.kg域名，但要注意已注册的和新注册的域名之间的区别。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
+Serv00平台提供了科学上网节点搭建的服务，用户可以通过Serv00登录搭建科学上网节点。同时，用户可以利用Cloudflare固定隧道和CDN回源功能，实现网站加速和保活。通过设置Cloudflare远程保活功能，用户可以实现定时保活网站，确保网站的稳定运行。整个过程需要在Serv00平台注册登录，在Cloudflare进行相关设置，并通过Windterm进行操作。详细操作步骤可以通过观看Youtube视频获取。总的来说，通过Serv00和Cloudflare平台提供的功能，用户可以搭建科学上网节点、加速网站，并实现网站保活。需注意合理使用服务防止滥用。<br> <br>总结: 搭建科学上网节点，Cloudflare固定隧道和CDN回源，实现网站加速和保活。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、注册、KYC验证、Cloudflare、教程
+US.KG的域名现在处于受限状态，可通过https://dash.domain.digitalplat.org/完成注册和KYC验证。注册账号后，验证邮箱，进行KYC验证，注册域名并托管到Cloudflare。免费续订域名，但有缺点。详细教程请见Youtube视频。 
+<br><br>总结: US.KG域名目前受限，使用上述网址注册和验证信息后，可托管到Cloudflare。记得KYC验证，也可免费续订域名。详细步骤在Youtube视频中有讲解。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 官方网站, 客户端, API, 本地部署
 <br>
-4. 白宫方面对欧美达成协议的消息予以否认，称相关报道是臆测，并强调除非特朗普宣布，否则任何贸易协议的讨论都应视为臆测。
-<br>
-5. 德国和法国正推动欧盟采取强硬反制措施，准备应对可能的贸易战。
-]]></summary>
+Deepseek是一个强大的翻译工具，可以通过官方网站、客户端和API来使用。用户也可以选择进行本地部署来使用该工具。具体使用方法如下：1. 访问Deepseek官方网站进行翻译；2. 下载官方手机客户端进行使用；3. 注册Deepseek API获取体验金，可用于各种第三方应用；4. 使用第三方应用如Perplexity等；5. 进行本地部署，下载安装Ollama并在终端输入相应指令即可使用。整体而言，Deepseek提供了多种使用方式和工具，能满足用户不同的翻译需求。<br><br>总结: Deepseek是一款多功能翻译工具，用户可以通过网站、客户端、API和本地部署等方式使用，满足不同的翻译需求。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[白宫发布“AI行动计划”：放宽监管、扩大能源，加快推动AI发展]]></title>
-        <link href="https://wallstreetcn.com/articles/3751744" />
-        <id>https://wallstreetcn.com/articles/3751744</id>
-        <updated>Thu, 24 Jul 2025 01:54:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI行动计划，监管放宽，数据中心，能源供应，意识形态偏见
-
-<br><br>总结:
-1. 特朗普政府发布《AI行动计划》，旨在加速美国人工智能发展，通过放宽监管、扩大数据中心能源供应来实现。
-2. 该计划建议改革审批流程，简化环境标准，加快基础设施项目进程，并使美国技术成为全球AI的基础。
-3. 计划要求联邦政府征求意见，了解阻碍AI应用的监管政策，并推动法规回撤，限制对AI监管严格州的资金支持。
-4. 政府要求与开发“无自上而下意识形态偏见”AI模型的公司签约，并删除风险管理框架中有关错误信息、多样性、公平和气候变化的内容。
-5. 白宫关注AI对劳动力市场的影响，推动技能培训，优先投资理论研究，扩大燃煤、天然气和核能的使用，以支持AI发展的能源需求。
-6. 计划还包括重振美国芯片制造业，并审查拜登政府时期对AI合作关系的调查。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 5美元赠金, 应用部署, Memos应用, AList应用
-
-Github用户可以通过Claw Cloud Run免费容器获得5美元赠金，前提是注册时间大于180天。用户可通过查询自己的Github注册时间来确认资格。该容器可用于搭建各种Docker应用，支持一键自动部署和手动部署。推荐部署两款应用：轻笔记应用Memos和网盘挂载工具AList。用户只需在浏览器中输入特定网址，便可查询到自己的Github注册时间，从而享受长期免费使用的便利。<br><br>总结: Claw Cloud Run为Github用户提供免费容器服务，注册时间超过180天即可获得5美元赠金，可享受长期免费使用，支持各种Docker应用的部署，推荐使用Memos和AList应用。]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录、科学上网节点
-
-1. 关于谷歌云免费VPS的政策和注册验证方法。
-2. 创建完全免费的VM实例和开放防火墙设置。
-3. SSH登录方式和安全建议。
-4. 科学上网注意事项和免费政策提示。
-5. 搭建科学上网节点的方法和推荐配置。
-
-总结: 本文介绍了如何利用谷歌云免费VPS，包括注册验证账号、创建VM实例、设置防火墙、SSH登录方式、科学上网注意事项和搭建节点的方法。详细内容可在提供的视频中了解。]]></summary>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Cloudflare Pages, 域名, 免费, 续期, 教程
-<br>
-本文介绍了DigitalPlat提供的免费域名服务，用户可选择免费的dpdns.org或收费的us.kg域名。新用户可获得1个免费域名（加Star后增至2个），老用户可获得3个免费域名（加Star后增至4个）。域名续期永久免费，每年需续期一次，us.kg域名同样需要续期。用户可通过Github仓库获取详细教程。us.kg域名不占用免费域名额度。Cloudflare Pages提供自定义域及SSL证书服务，更多信息可查看Youtube视频。 
-<br><br>
-总结: 本文介绍了DigitalPlat提供的免费域名服务，包括免费和收费域名选择，免费域名额度和续期方式，以及通过Github仓库获取详细教程。同时提到了Cloudflare Pages提供的自定义域及SSL证书服务，用户可通过Youtube视频获取更多信息。]]></summary>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、续费
-<br>
-稳定性和速度方面，HostUNO表现良好，无需保活，但存在ChatGPT降智问题。购买流程简单，价格适中。用户体验好，登录密码可以自行修改。搭建代理节点方便，节点测速情况良好。续费操作简单且方便。总体而言，HostUNO值得购买。]]></summary>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[Cloudflare、免费域名、注册、身份信息生成器、优惠码
-<br>
-美国KG注册困难，推荐另一免费域名。注册Cloudflare账号并使用身份信息生成器，购买域名时输入优惠码"newuser"可获一年免费。将域名托管到Cloudflare，添加域名并填入分配的两个名称服务器。详细步骤可查看Youtube视频教程。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
