@@ -2,425 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-07-25T03:39:39Z</updated>
+    <updated>2025-07-25T04:38:56Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[面试时该如何做好自我介绍呢？附带介绍样板示例！！！]]></title>
-        <link href="https://www.cnblogs.com/Can-daydayup/p/19003624" />
-        <id>https://www.cnblogs.com/Can-daydayup/p/19003624</id>
-        <updated>Thu, 24 Jul 2025 21:40:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：.NET开发者，面试，自我介绍，简历，项目
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 5美元赠金, Docker应用, Memos, AList
 
-<br><br>总结:
-*   很多.NET开发者面试时自我介绍冗长，直接复述简历内容。
-*   这种复述简历式的自我介绍会被面试官打断。
-*   有效的自我介绍应该简明扼要，突出重点，展现与岗位的匹配度，避免重复简历信息。
-]]></summary>
+1. Claw Cloud Run是一款免费容器，可以获得5美元赠金，GitHub注册时间需大于180天。
+2. 用户可以在浏览器上查看自己的GitHub注册时间，通过访问特定网址。
+3. Claw Cloud Run支持各种Docker应用的部署，可一键自动部署或手动部署。
+4. 推荐部署的应用有Memors（轻笔记应用）和AList（网盘挂载工具）。
+5. 用户可以观看关于Claw Cloud Run的更多详细内容的YouTube视频。
+
+<br><br>总结: Claw Cloud Run是一款免费容器平台，用户可获得5美元赠金并部署各种Docker应用。通过查询GitHub注册时间，用户可以确定是否符合赠金条件。推荐部署Memors和AList等应用，详情可观看YouTube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全球每年近一千万人到印度旅游，哪些人更爱去？]]></title>
-        <link href="https://m.thepaper.cn/detail/31213659" />
-        <id>https://m.thepaper.cn/detail/31213659</id>
-        <updated>Thu, 24 Jul 2025 19:44:50 +0800</updated>
-        <summary type="html"><![CDATA[关键词：印度旅游签证, 中国游客, 文化吸引, 游客结构, 挑战与担忧
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、注册、创建VM实例、开放防火墙、科学上网。
 
-<br><br>总结:
-*   印度时隔五年恢复向中国公民签发旅游签证，自2025年7月24日起生效。
-*   签证办理流程较之前更为复杂，包括提高存款证明金额至10万元人民币，且电子签证尚未恢复，需亲自递交材料。
-*   恢复签证后，机票搜索量迅速上升，商务签证量也同比增长，但社交媒体上对印度的治安、卫生条件存在担忧。
-*   2023年印度接待外国游客952万人，主要来自孟加拉国、美国、英国、澳大利亚和加拿大。
-*   印度以其独特的文化底蕴、丰富的历史古迹、宗教灵性以及世界遗产吸引着大量游客，但也面临公共卫生、环境污染和社会治安等挑战，影响游客选择。
-]]></summary>
+注册并验证谷歌云账号，添加付款方式，创建免费VM实例，配置地区、机器、存储等，开放防火墙确保正常访问，使用SSH登录方式，建议使用Hysteria 2节点科学上网，避免额外费用。同时注意修改数据保护设置以免产生费用。详细内容可参考Youtube视频教程。<br><br>总结: 注册谷歌云账号并创建免费VPS，注意设置防火墙和科学上网方式，避免产生费用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[性能优化：两条SQL索引优化，CPU占用率从40%降至25%]]></title>
-        <link href="https://www.cnblogs.com/www-htz-pw/p/18996832/xing-neng-you-hua-liang-tiaosql-suo-yin-you-huacpu" />
-        <id>https://www.cnblogs.com/www-htz-pw/p/18996832/xing-neng-you-hua-liang-tiaosql-suo-yin-you-huacpu</id>
-        <updated>Mon, 21 Jul 2025 22:51:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: CPU告警, HIS系统, 数据库, 慢查询, 优化
-
-<br><br>总结:
-1. 医院HIS系统出现CPU告警问题。
-2. 通过分析发现是数据库存在慢查询。
-3. 定位到具体的慢查询SQL语句。
-4. 对慢查询SQL语句进行了优化。
-5. 优化后，CPU告警问题得到解决。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[跨界连麦丨外卖大战“升级”！ 美团京东争做线下店，这局谁能赢？]]></title>
-        <link href="https://www.yicai.com/live/102739707.html" />
-        <id>https://www.yicai.com/live/102739707.html</id>
-        <updated>Fri, 25 Jul 2025 11:05:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词：七鲜小厨，浣熊食堂，外卖，线下餐饮，即时零售
-
-<br><br>总结:
-1. 京东计划三年内投入超百亿建设超10000家“七鲜小厨”门店。
-2. 美团也推出“浣熊食堂”，计划三年内投资建设1200家。
-3. 平台从“送外卖”转向“做外卖”，引发商家、消费者、外卖员关注。
-4. 互联网巨头转战线下，或将对线下餐饮外卖、即时零售等行业带来变革。
-5. 这次碰撞是外卖大战后的又一次竞争，胜负未定。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[医药股表现活跃，康泰医学等涨停，机构建议关注两类标的]]></title>
-        <link href="https://www.yicai.com/news/102741319.html" />
-        <id>https://www.yicai.com/news/102741319.html</id>
-        <updated>Fri, 25 Jul 2025 11:05:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词：医药股, 创新药, 医保目录, 药品集采, 政策优化
-
-<br><br>总结:
-1. 医药股早盘活跃，医疗器械、智能医疗等方向领涨，受多重利好因素驱动。
-2. “十四五”以来402种药品进入国家医保目录，目录总数达3159种，超过100个创新药申报目录。
-3. 第十一批集采启动，规则优化，不再简单以最低价为参考，鼓励企业公开报价合理性，且不低于成本报价。
-4. 国家医保局召开座谈会，推出医保价格政策赋能药械创新的新举措，包括统一新设医疗服务价格项目，研究实行新上市药品首发价格机制等。
-5. 政策环境向好，商保创新药目录或将出台，与基本医保目录形成“双目录”并行模式，有望为创新药打开商业化空间，并合理控制协议期内药品降价幅度。建议关注集采中选龙头和研发管线丰富的创新药企。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[提升玻璃矿物棉工业治污水平，多项大气污染防治技术获推荐]]></title>
-        <link href="https://www.yicai.com/news/102741081.html" />
-        <id>https://www.yicai.com/news/102741081.html</id>
-        <updated>Fri, 25 Jul 2025 09:49:09 +0800</updated>
-        <summary type="html"><![CDATA[关键词：玻璃工业, 矿物棉工业, 大气污染防治, 可行技术指南, 生态环境部
-
-<br><br>总结:
-1.  生态环境部发布玻璃和矿物棉工业大气污染防治可行技术指南，旨在提升相关行业大气污染防治水平，改善大气环境质量。
-2.  指南针对玻璃工业，推荐纯氧燃烧、电助熔等节能降碳技术，以及低氮燃烧等减少氮氧化物排放的技术，并提出源头减排工艺措施，适用于95%以上的玻璃企业。
-3.  指南针对矿物棉工业，引导使用富氧燃烧、纯氧燃烧和全电熔制等技术，同样推荐低氮燃烧技术，并提出源头减排工艺措施，适用于95%以上的矿物棉企业。
-4.  指南推荐的技术在企业可接受的成本范围内，可有效指导企业选择可行的治理技术，避免盲目投资，降低运行成本，并为地方生态环境部门核发排污许可证提供支撑。
-5.  指南强调玻璃和矿物棉工业需全面削减污染物产生，进行全过程末端治理。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[上海崇明等获认证，中国成为“国际湿地城市”最多国家]]></title>
-        <link href="https://www.yicai.com/news/102741087.html" />
-        <id>https://www.yicai.com/news/102741087.html</id>
-        <updated>Fri, 25 Jul 2025 09:48:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：国际湿地城市，湿地保护，中国，湿地公约，生态系统
-
-<br><br>总结:
-*   《湿地公约》第十五届缔约方大会上，中国新增上海崇明等9个“国际湿地城市”，总数达到22个，位居全球第一。
-*   这些城市湿地资源丰富，在湿地生态系统保护、生物多样性维护、城乡人民共享生态空间等方面取得了显著成就。例如，上海崇明拥有世界最大河口冲积岛，温州构建全域湿地保护格局，大理形成高山湖泊与城市相依格局。
-*   中国湿地保护工作取得了显著进展，湿地面积稳定在5635万公顷以上，红树林面积净增长，且加强了鸟类迁飞通道的保护修复，为全球湿地保护提供了宝贵经验。
-*   《湿地公约》是致力于全球湿地生态系统保护和合理利用，促进人类可持续发展的最早的政府间多边环境公约之一。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[滚动更新丨券商股持续走强；碳酸锂期货主力合约触及涨停]]></title>
-        <link href="https://www.yicai.com/news/102741036.html" />
-        <id>https://www.yicai.com/news/102741036.html</id>
-        <updated>Fri, 25 Jul 2025 09:38:05 +0800</updated>
-        <summary type="html"><![CDATA[海南自贸区, 券商, 华为算力, 碳酸锂, 医疗器械
-
-<br><br>总结:
-1.  A股三大指数开盘涨跌不一，随后一度翻绿，午盘前拉升翻红，沪深两市成交额突破5000亿并持续破万亿，但随后再度走弱，超2800只个股下跌。
-2.  板块方面，海南自贸区、影视院线、旅游酒店、免税店概念活跃，贵金属、稀土永磁走弱。券商股午盘前走强，华为算力概念股表现活跃。医疗器械、CRO概念股震荡走强。煤炭股盘中异动。雅下水电概念盘初下挫。
-3.  期货市场，多晶硅、碳酸锂期货主力合约触及涨停，玻璃主力合约涨幅扩大。
-4.  港股恒生指数、恒生科技指数早盘下跌，有色行业活跃。
-5.  央行公开市场开展逆回购操作，人民币兑美元中间价调贬。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[硅片7月涨20%、硅料期货更猛，控产力度将成后续出清关键]]></title>
-        <link href="https://www.yicai.com/news/102740529.html" />
-        <id>https://www.yicai.com/news/102740529.html</id>
-        <updated>Fri, 25 Jul 2025 09:14:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 光伏, 提价, 限产, 价格法, 内卷
-
-<br><br>总结:
-1.  光伏行业面临“内卷式”竞争，主要通过“提价”和“限产”两条路径解决。
-2.  7月以来，光伏产业链价格大幅上涨，硅料、硅片价格均显著提升，受市场情绪和政策监管推动。
-3.  国家发布《价格法修正草案》，旨在规范市场价格秩序，治理低价倾销，有助于光伏“反内卷”。
-4.  尽管提价缓解了光伏制造商的经营压力，但由于装机需求增速放缓，控产的有效性至关重要。
-5.  企业面临持续亏损和现金流压力，减产成为修复现金流、阻止资产减值的有效手段，市场对政策落地和产能整合抱有强预期。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[美联邦航空管理局：印度客机空难似乎并非由波音燃油控制装置引起]]></title>
-        <link href="https://www.yicai.com/news/102740776.html" />
-        <id>https://www.yicai.com/news/102740776.html</id>
-        <updated>Fri, 25 Jul 2025 08:58:19 +0800</updated>
-        <summary type="html"><![CDATA[FAA，波音787，印度航空，坠毁，燃油控制
-
-<br><br>总结:
-1. 印度航空一架波音787客机发生坠毁事故。
-2. FAA局长贝德福德表示，事故原因似乎并非机械故障。
-3. FAA已拆卸燃油控制装置进行测试，并派检查员登机检查。
-4. FAA认为燃油控制装置意外操作的可能性很小。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[互指对方先开火 泰柬局势持续升级 联合国安理会将召开紧急会议]]></title>
-        <link href="https://www.yicai.com/news/102740839.html" />
-        <id>https://www.yicai.com/news/102740839.html</id>
-        <updated>Fri, 25 Jul 2025 08:57:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 冲突, 柬埔寨, 泰国, 国际社会, 对话
-
-<br><br>总结:
-1. 柬埔寨和泰国在边境地区发生冲突，造成人员伤亡。泰国军方对柬埔寨军事目标实施打击，包括出动F-16战机。
-2. 柬埔寨首相洪玛奈指责泰国违反国际法，呼吁停止敌对行动。
-3. 联合国安理会将召开紧急会议讨论局势。联合国秘书长、中国、越南、美国、俄罗斯等国际社会均对冲突表示关切，呼吁双方保持克制，通过对话解决问题。
-4. 中国外交部表示深感担忧，希望双方通过对话协商妥善解决问题，并将劝和促谈。
-5. 中国驻泰国大使馆发布公告，提醒在泰中国公民留意泰柬边境区域安全指引，避免前往相关区域。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[英特尔宣布启动一轮重大重组计划，首席执行官称“不再开空头支票”]]></title>
-        <link href="https://www.yicai.com/news/102740828.html" />
-        <id>https://www.yicai.com/news/102740828.html</id>
-        <updated>Fri, 25 Jul 2025 08:56:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 英特尔, 裁员, AI芯片, 先进制程, 重组
-
-<br><br>总结:
-1. 英特尔宣布重组计划，拟裁员15%，预计到年底员工总数减少至75000人，以提高效率并精简决策链条。
-2. 公司将暂停部分工厂建设项目，采取更谨慎的产能扩张策略，优先考虑市场需求。
-3. 英特尔将整合全球封装业务，放弃部分供应链弹性战略。
-4. 公司将重点发展AI芯片与核心制程技术（18A和14A），力求在AI领域取得突破并重夺市场份额。
-5. 英特尔在经历连续亏损后，将采取更务实的市场策略，以客户需求为导向推进产品落地。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[为大模型 MCP Code Interpreter 而生：C# Runner 开源发布]]></title>
-        <link href="https://www.cnblogs.com/sdcb/p/19003720/csharp-runner-mcp" />
-        <id>https://www.cnblogs.com/sdcb/p/19003720/csharp-runner-mcp</id>
-        <updated>Fri, 25 Jul 2025 08:45:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：C#，大语言模型(LLM)，运行器，MCP，一等公民
-
-<br><br>总结:
-1. 作者7月初立下Flag，要开发一个专为大语言模型(LLM)设计的C#运行器MCP。
-2. 目标是使C#能够像Python一样，成为大模型世界的“一等公民”。
-3. 经过一段时间的开发，项目已经完成。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[泰柬边境地区再次发生交火，安理会将举行紧急会议]]></title>
-        <link href="https://m.thepaper.cn/detail/31246476" />
-        <id>https://m.thepaper.cn/detail/31246476</id>
-        <updated>Fri, 25 Jul 2025 08:35:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：泰柬冲突, 边境交火, 自卫反击, 外交谈判, 安理会会议
-
-<br><br>总结:
-1. 泰国和柬埔寨在边境地区再次发生交火，此前一天也曾发生交火，双方互指对方率先开火。
-2. 泰国称行动为自卫，希望通过外交谈判尽快结束冲突。
-3. 柬埔寨称被迫自卫反击，要求泰国撤军。
-4. 联合国安理会将举行紧急会议讨论泰柬局势。
-5. 泰国和柬埔寨分别致函安理会要求举行会议。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[重识中欧｜两个港口的故事：经贸、文化与民心]]></title>
-        <link href="https://m.thepaper.cn/detail/31244029" />
-        <id>https://m.thepaper.cn/detail/31244029</id>
-        <updated>Fri, 25 Jul 2025 07:26:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 中欧关系，港口合作，一带一路，人文交流，经贸合作
-
-<br><br>总结:
-1. 中欧交往历史悠久，但由于交通、技术和文化差异，彼此认知存在模糊。如今虽有科技加持，文化差异和信息干扰依然存在。
-2. 汉堡港和比雷埃夫斯港是中欧经贸合作的重要支点。汉堡港是德国通往世界的门户，与中国贸易历史悠久；比雷埃夫斯港是地中海重要港口，受益于“一带一路”倡议，发展迅速。
-3. “一带一路”倡议通过港口合作连接中欧，促进经济和基础设施发展，如中欧陆海快线，为中欧贸易提供新通道。
-4. 中欧港口合作推动城市间的文化交流，如汉堡和上海结为友城，汉堡豫园的建立，促进了双方的相互学习和借鉴。
-5. 中欧关系面临信任问题和竞争，但合作仍是主基调。通过互惠互利的合作，惠及普通民众，增进彼此了解和信任，是未来中欧关系发展的关键。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一对母子，决心摘去命运的“巨痣”]]></title>
-        <link href="https://m.thepaper.cn/detail/31230352" />
-        <id>https://m.thepaper.cn/detail/31230352</id>
-        <updated>Fri, 25 Jul 2025 07:15:27 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 黑素细胞痣, 巨痣, 治疗, 母亲, 网络求助
-
-<br><br>总结:
-1. 三岁乐宝患有罕见病黑素细胞痣，面部覆盖大面积巨痣，母亲郭惠带其到上海进行手术治疗。
-2. 治疗方案包括皮肤扩张术和后续的黑痣切除等，需多次手术，费用高昂。
-3. 郭惠通过卖气球、做团购、网络求助等方式筹集医疗费，并发布乐宝的视频，获得网友捐助。
-4. 网络求助引发争议，有人质疑郭惠“卖惨”博取同情，个人求助的法律边界受到关注。
-5. 郭惠表示求助是为了给乐宝治病，费用会专款专用，并期望手术顺利进行，孩子健康成长。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[“变革·新生”2025外滩新媒体年会今日举行，议程抢先看]]></title>
-        <link href="https://m.thepaper.cn/detail/31241804" />
-        <id>https://m.thepaper.cn/detail/31241804</id>
-        <updated>Fri, 25 Jul 2025 06:55:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：澎湃新闻，系统性变革，工作室模式，内容创作，媒体融合
-
-<br><br>总结:
-1. 澎湃新闻上线11周年，正深化落实主流媒体系统性变革，是全国媒体系统性变革的“探路人”。
-2. 澎湃新闻推出24个垂直IP工作室，以全新工作室模式重塑数字新闻生产流程。
-3. 年会发布澎湃工作室“引擎”计划，通过制度赋能，优化垂类赛道布局，推动全媒体内容发展。
-4. 澎湃新闻响应“沪九条”扶持政策，启动“创潮”专业内容创作者赋能行动和“引潮”计划新一年度作品征集。
-5. 与会嘉宾围绕AI时代下新型主流媒体的使命、提升用户吸引力等主题展开深入讨论。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[马克龙宣布法国将于9月承认巴勒斯坦国]]></title>
-        <link href="https://m.thepaper.cn/detail/31246365" />
-        <id>https://m.thepaper.cn/detail/31246365</id>
-        <updated>Fri, 25 Jul 2025 04:12:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 马克龙, 法国, 巴勒斯坦国, 两国方案, 联合国大会
-
-<br><br>总结:
-1. 法国总统马克龙宣布法国将正式承认巴勒斯坦国，计划在9月联合国大会期间正式宣布。
-2. 马克龙强调加沙冲突必须立即停止，所有人质应获释放，人道援助应迅速送达。
-3. 马克龙公开致阿巴斯信函，强调法国支持“两国方案”，肯定阿巴斯在推动停火方面的承诺。
-4. 法国将与沙特在下周联合国主持召开落实“两国方案”高级别会议，推动巴勒斯坦问题的和平解决。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[报道：OpenAI准备在8月初推出GPT-5]]></title>
-        <link href="https://wallstreetcn.com/articles/3751838" />
-        <id>https://wallstreetcn.com/articles/3751838</id>
-        <updated>Fri, 25 Jul 2025 00:53:09 +0800</updated>
-        <summary type="html"><![CDATA[GPT-5, OpenAI, 开源模型, AGI, 奥特曼
-
-<br><br>总结:
-1. OpenAI预计8月初发布GPT-5，并推出API适用的mini和nano版本，但发布时间可能因各种因素调整。
-2. OpenAI还计划在7月底前发布一款具备推理能力的开源语言模型，类似“o3 mini”，这是自2019年以来首次公开权重模型。
-3. 奥特曼透露即将发布GPT-5，并分享了其强大能力，能完美解答他不懂的问题。
-4. GPT-5将包含o3推理能力，是OpenAI简化产品线、合并大语言模型的一部分，旨在实现通用人工智能（AGI）。
-5. 实现AGI对OpenAI意义重大，可能导致与微软重新谈判合作关系。GPT-5发布后还需数月才能达到黄金级别能力。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[内蒙古自治区成立中国黄金集团内蒙古矿业有限公司“7·23”事故调查组]]></title>
-        <link href="https://m.thepaper.cn/detail/31246352" />
-        <id>https://m.thepaper.cn/detail/31246352</id>
-        <updated>Fri, 25 Jul 2025 00:39:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词：内蒙古, 中国黄金, 矿业公司, 事故, 调查组
-
-<br><br>总结:
-1. 内蒙古自治区中国黄金集团内蒙古矿业有限公司发生一起6死1伤的事故。
-2. 事故发生在乌努格吐山铜钼矿选矿厂。
-3. 自治区政府已成立事故调查组，对该事故进行提级调查。
-4. 调查组已进驻现场，展开工作，旨在查明原因、明确事故性质并提出整改措施。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云, 内网穿透, VPS部署, UUID, Cloudflare隧道Token <br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址、美国地址生成器、免费域名额度、us.kg域名、续期<br>
 <br>
-总结: 本文介绍了爪云（Claw Cloud Run）及内网穿透部分的视频教程和VPS部署步骤。前置工作包括获取root权限和安装docker。临时隧道模式通过运行命令创建临时隧道。固定隧道模式则需要准备UUID、Cloudflare隧道Token和隧道域名，然后运行特定命令创建固定隧道。相关docker命令包括查看已运行的docker容器、查看日志、停止和删除容器。此外，文章还提供了爪云注册链接、免费域名注册教程和其他相关视频教程。]]></summary>
+本文介绍了DigitalPlat提供的注册地址和美国地址生成器，以及免费域名和收费域名的区别。新用户可以获得1个免费域名，老用户可获得3个，通过加Star可以增加域名额度。us.kg域名不占用免费域名额度，续期每年一次，永久免费。详细教程可以在Youtube视频中找到，并可通过Github仓库和Cloudflare官网获取更多信息。总体而言，用户可以使用免费的dpdns.org域名，或选择收费的us.kg域名，并且我们提供了方便的续期服务。 <br><br>总结: 本文介绍了DigitalPlat注册地址和美国地址生成器，以及免费和收费域名的情况，包括域名额度、us.kg域名、续期方法。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO, 稳定性, 速度, 保活, ChatGPT, 降智, 值不值得买
+
+官方认为HostUNO提供稳定性和速度良好的服务，不需要保活。购买过程简便，但价格较高。用户体验整体良好，搭建代理节点方便。节点测速结果显示性能优秀。ChatGPT降智问题可能存在，需要注意。续费方式简单。总体而言，HostUNO值得购买，但需谨慎使用ChatGPT插件。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名挂了、已注册的域名、dpdns.org、Cloudflare
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、身份信息生成器
 <br>
-us.kg免费域名现在已经无法正常使用，原先注册的域名仍存在。dpdns.org域名可以托管到Cloudflare，临时托管到FreeDNS。现在即可注册新域名，与已注册的域名有所不同。]]></summary>
+US.KG注册不了，但可以选择另一个免费域名，在Cloudflare免费托管一年。通过注册账号、填写身份信息、输入优惠码（newuser）购买域名并托管到Cloudflare，可以轻松实现免费注册和托管。详情可参考Youtube视频教程。 
+<br><br>
+总结: US.KG无法注册，但可以选择另一个免费域名，通过在Cloudflare免费托管一年实现注册，步骤包括注册账号、填写身份信息、购买域名输入优惠码、托管到Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活
-<br>
-Serv00是一个免费的科学上网工具，通过Cloudflare固定隧道和CDN回源可以实现在Serv00上搭建节点，同时利用网页保活功能保持节点的稳定运行。用户可以通过Serv00的多功能主页对节点进行管理，也可以利用Cloudflare远程保活功能实现远程监控和保持节点的活跃状态。整个教程详细介绍了Serv00的注册登录、科学上网节点搭建、Cloudflare固定隧道、CDN回源和网页保活以及Cloudflare远程保活的步骤和操作方法。通过这些步骤，用户可以方便地搭建和管理自己的科学上网节点，保持节点的稳定运行。<br><br>总结: Serv00的注册登录、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活和Cloudflare远程保活的操作方法都详细介绍了如何搭建和管理科学上网节点。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、教程
-US.KG域名目前受限，注册时可先通过https://dash.domain.digitalplat.org/完成KYC验证。注册账号需输入信息并验证邮箱，再进行KYC验证。注册域名后可托管到Cloudflare，在视频中有详细教程。另外，免费续订域名也是一大优点。总结: US.KG域名现受限，注册需先完成KYC验证，注册账号验证邮箱，并上传KYC文件。注册域名后托管到Cloudflare，免费续订域名。视频中有详细教程。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 官方网站, API, 本地部署, Ollama <br>
-Deepseek是一个强大的工具，可通过官方网站、API或本地部署的方式使用。官方网站和手机客户端提供便捷的界面，API可以用于沉浸式翻译和其他应用程序，本地部署则需要安装Ollama并使用命令提示符。通过这些方法，用户可以利用Deepseek进行多种任务，如Chatbox和欧路词典等。Deepseek的使用方法和应用场景在视频中有详细介绍，有兴趣的用户可以参考。<br><br>总结: Deepseek是一款功能强大的工具，通过官方网站、API和本地部署等方式可以方便地进行使用，提供多种应用场景和效果。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
