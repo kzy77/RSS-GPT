@@ -1,62 +1,60 @@
 ------------------------------------------------------
-Started: 2025-07-29 12:44:49.826514
-Existing_entries: 13
+Started: 2025-07-29 14:24:09.249856
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 160
+Token length: 844
 Summarized using gemini model: gemini-2.0-flash
-Append: [诺和诺德宣布新CEO任命](https://www.yicai.com/news/102747913.html)
-Token length: 2219
+Append: [滚动更新丨美股三大指数集体高开，诺和诺德跌超21%](https://www.yicai.com/news/102748062.html)
+Token length: 1532
 Summarized using gemini model: gemini-2.0-flash
-Append: [“煤都”停止狂飙，区域“小龙小虎”为何威风不再？](https://www.yicai.com/news/102747897.html)
-Token length: 3798
+Append: [欧美股市走强，诺和诺德跌约22%，美元创月内新高，欧元跌至五周低点](https://wallstreetcn.com/articles/3752129)
+Token length: 379
 Summarized using gemini model: gemini-2.0-flash
-Append: [娃哈哈离岸家族信托陷罗生门，信托是否存在及有效要看哪些因素？](https://www.yicai.com/news/102745483.html)
+Append: [楼面价达20万一平米 新“地王”出圈背后 上海豪宅“量价齐升”︱一探](https://www.yicai.com/video/102748041.html)
+Token length: 1253
+Summarized using gemini model: gemini-2.0-flash
+Append: [广州开发区发布生物医药3.0政策，重点支持创新研发转化](https://www.yicai.com/news/102748030.html)
+Token length: 2825
+Summarized using gemini model: gemini-2.0-flash
+Append: [公募基金经理“奔私”潮再起：平台与明星都在重新洗牌](https://www.yicai.com/news/102748022.html)
+Token length: 3402
+Summarized using gemini model: gemini-2.0-flash
+Append: [反内卷要打“持久战”，新能源车光伏仍是重点，法治建设也在跟进](https://www.yicai.com/news/102748019.html)
+Token length: 2198
+Summarized using gemini model: gemini-2.0-flash
+Append: [最新世界500强出炉：沃尔玛稳坐第一，还有这些最赚钱制药公司](https://www.yicai.com/news/102748002.html)
+Token length: 386
+Summarized using gemini model: gemini-2.0-flash
+Append: [IMF：大幅调高今年中国经济增速预期0.8个百分点，全球经济韧性仍在、前景脆弱](https://www.yicai.com/news/102747979.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [谁会是美联储新掌门](https://www.yicai.com/news/102747841.html)
-Token length: 3586
+Append: [中国光伏行业协会辟谣：部分自媒体发布反内卷内容与实际情况严重不符](https://www.yicai.com/news/102747975.html)
+Token length: 173
 Summarized using gemini model: gemini-2.0-flash
-Append: [家族企业治理与传承的“二十一条军规”](https://www.yicai.com/news/102747839.html)
-Token length: 1553
+Append: [AI进化速递丨微软据悉就长期获取OpenAI技术展开深入谈判](https://www.yicai.com/news/102747939.html)
+Token length: 225
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：以法治建设攻坚市场监管深水区](https://www.yicai.com/news/102747843.html)
-Token length: 2572
+Append: [北京强降雨考验快递物流 快递站点：慢一点，也得送完 装备+调度 扛住汛期压力｜一探](https://www.yicai.com/video/102747937.html)
+Token length: 1373
 Summarized using gemini model: gemini-2.0-flash
-Append: [罗志恒：育儿补贴规模每年或可达千亿 “投资于人”信号意义明显｜首席对策](https://www.yicai.com/video/102747885.html)
-Token length: 468
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国AI为何破圈？不止靠技术 还有把未来“种”进生活︱2025WAIC](https://www.yicai.com/video/102747860.html)
-Token length: 1216
-Summarized using gemini model: gemini-2.0-flash
-Append: [比亚迪杨冬生：向外部竞争，“没必要两个团队只干一件事”](https://www.yicai.com/news/102747844.html)
-Token length: 3011
-Summarized using gemini model: gemini-2.0-flash
-Append: [民营银行下一个十年：向AI银行进化，技术是关键变量](https://www.yicai.com/news/102747838.html)
+Append: [向恶性竞争宣战！多地银行业出台“反内卷”措施](https://www.yicai.com/news/102747922.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [上市公司业绩预告喜忧参半，哪些行业景气度改善？](https://www.yicai.com/news/102747779.html)
+Append: [每孩一年3600元的育儿补贴，影响有多大？](https://m.thepaper.cn/detail/31247112)
+Token length: 1051
+Summarized using gemini model: gemini-2.0-flash
+Append: [美股盘前暴跌28%！诺和诺德任命新CEO并下调全年指引，减肥药Wegovy销售不及预期](https://wallstreetcn.com/articles/3752152)
+Token length: 703
+Summarized using gemini model: gemini-2.0-flash
+Append: [印乐法师任少林寺住持，此前担任洛阳白马寺方丈](https://m.thepaper.cn/detail/31251540)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [广州上半年GDP增长3.8%，专家这样看地产、汽车业表现](https://www.yicai.com/news/102747774.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [人类如何建造一个“鲑鱼之国”｜书摘](https://www.yicai.com/news/102747770.html)
-Token length: 3829
+Append: [英国电动车新政引发争议，中国车企出海之路披荆斩棘](https://m.thepaper.cn/detail/31251351)
+Token length: 818
 Summarized using gemini model: gemini-2.0-flash
-Append: [上半年理财收益率降至2.12%，二季度新增千万投资者](https://www.yicai.com/news/102747730.html)
-Token length: 745
+Append: [不只是卖库存了！报道称英伟达向台积电新订购30万块H20订单](https://wallstreetcn.com/articles/3752114)
+Token length: 1537
 Summarized using gemini model: gemini-2.0-flash
-Append: [科普｜暴雨后警惕“鼠尿病”！虽罕见但仍可致命](https://www.yicai.com/news/102747710.html)
-Token length: 1627
+Append: [创始人来自清华、斯坦福，驯鹿AI完成数千万A+轮融资，机器人100%替代人工销售和客服｜硬氪首发](https://www.36kr.com/p/3399386047285383)
+Token length: 1248
 Summarized using gemini model: gemini-2.0-flash
-Append: [华发处置前海冰雪世界7块未建地块，政府75折回收](https://www.yicai.com/news/102747709.html)
-Token length: 2036
-Summarized using gemini model: gemini-2.0-flash
-Append: [新型减重药联合胰岛素疗法获批治疗糖尿病，哪类患者将受益？](https://www.yicai.com/news/102747708.html)
-Token length: 130
-Summarized using gemini model: gemini-2.0-flash
-Append: [“交个朋友”全员入驻快手，深度合作可灵AI](https://www.yicai.com/news/102747727.html)
-Token length: 1039
-Summarized using gemini model: gemini-2.0-flash
-Append: [新汽车央企股权结构图首次曝光](https://www.yicai.com/news/102747664.html)
-Token length: 347
-Summarized using gemini model: gemini-2.0-flash
-Append: [外逃28年，“百名红通人员”梁锦文回国投案](https://m.thepaper.cn/detail/31251604)
-append_entries: 20
-Finish: 2025-07-29 12:46:12.847734
+Append: [GPT-5「全家桶」爆出本周上线，惊艳首测秒出网页，编程彻底起飞](https://www.36kr.com/p/3399361409501314)
+append_entries: 19
+Finish: 2025-07-29 14:25:39.097829
