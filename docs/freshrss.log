@@ -1,66 +1,8 @@
 ------------------------------------------------------
-Started: 2025-07-30 06:33:35.853803
-Existing_entries: 0
+Started: 2025-07-30 08:29:02.903121
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 192
-Summarized using gemini model: gemini-2.0-flash
-Append: [上海发布暴雨橙色预警信号 强降雨致灾风险很高](https://www.yicai.com/news/102749059.html)
-Token length: 902
-Summarized using gemini model: gemini-2.0-flash
-Append: [IMF首席答一财：对中国经济增速预期上调幅度是所有经济体中最大的](https://www.yicai.com/video/102748950.html)
-Token length: 3602
-Summarized using gemini model: gemini-2.0-flash
-Append: [刘元春：四个维度看下半年经济挑战与韧性](https://www.yicai.com/news/102748962.html)
-Token length: 2270
-Summarized using gemini model: gemini-2.0-flash
-Append: [俄堪察加东岸远海8.7级强震，多国发布预警，驻日领馆紧急提醒](https://www.yicai.com/news/102748911.html)
-Token length: 2663
-Summarized using gemini model: gemini-2.0-flash
-Append: [熊园：育儿补贴落地影响几何](https://www.yicai.com/news/102748884.html)
-Token length: 2013
-Summarized using gemini model: gemini-2.0-flash
-Append: [又有2人被宣判 足球系列贪腐案已有18人获刑](https://www.yicai.com/news/102748832.html)
-Token length: 2208
-Summarized using gemini model: gemini-2.0-flash
-Append: [我国外贸逆势实现“三个首次” 背后有哪些因素在支撑？](https://www.yicai.com/news/102748807.html)
-Token length: 2615
-Summarized using gemini model: gemini-2.0-flash
-Append: [逾300只量化基金净值创历史新高，小微盘“高光”背后有何风险？](https://www.yicai.com/news/102747895.html)
-Token length: 1588
-Summarized using gemini model: gemini-2.0-flash
-Append: [纽约曼哈顿枪击事件最新进展：枪手走错楼层，黑石高管遇袭身亡](https://www.yicai.com/news/102748641.html)
-Token length: 208
-Summarized using gemini model: gemini-2.0-flash
-Append: [持用中国护照可免签或落地签前往全球90多个国家地区](https://www.yicai.com/news/102748673.html)
-Token length: 1873
-Summarized using gemini model: gemini-2.0-flash
-Append: [还原纽约曼哈顿枪击事件，案发大楼是多家跨国公司所在地](https://www.yicai.com/news/102747133.html)
-Token length: 1834
-Summarized using gemini model: gemini-2.0-flash
-Append: [“新美联储通讯社”：2张反对票，3个阵营，关键是“鲍威尔在发布会是否暗示9月降息”](https://wallstreetcn.com/articles/3752193)
-Token length: 5639
-Summarized using gemini model: gemini-2.0-flash
-Append: [财政部长蓝佛安：要支持加快构建房地产发展新模式，推动建立偿债备付金制度](https://wallstreetcn.com/articles/3752190)
-Token length: 3339
-Summarized using gemini model: gemini-2.0-flash
-Append: [30万岗位将被AI吞噬？印度2830亿美元软件业迎来“清算时刻”](https://www.36kr.com/p/3399932220950917)
-Token length: 893
-Summarized using gemini model: gemini-2.0-flash
-Append: [山东一货车在曲阜发生事故翻车：10多吨货物被村民哄抢，警方现场制止无效](https://m.thepaper.cn/detail/31251499)
-Token length: 156
-Summarized using gemini model: gemini-2.0-flash
-Append: [直播丨严阵以待应对“竹节草”！澎湃新闻上海临港一线直击](https://m.thepaper.cn/detail/31251084)
-Token length: 154
-Summarized using gemini model: gemini-2.0-flash
-Append: [千万级的大表如何新增字段？](https://www.cnblogs.com/12lisu/p/19008591)
-Token length: 154
-Summarized using gemini model: gemini-2.0-flash
-Append: [2025年：是时候重新认识System.Text.Json了](https://www.cnblogs.com/sdcb/p/19010852/2025-meet-system-text-json)
-Token length: 5484
-Summarized using gemini model: gemini-2.0-flash
-Append: [专访｜日本移民政策学者：“日本人优先”向不满和不安的日本人发出了明确信号](https://m.thepaper.cn/detail/31250375)
-Token length: 402
-Summarized using gemini model: gemini-2.0-flash
-Append: [李成钢：中美将继续推动已暂停的美方对等关税24%部分以及中方反制措施如期展期](https://m.thepaper.cn/detail/31251915)
-append_entries: 20
-Finish: 2025-07-30 06:34:59.248686
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7feedab7fe20>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -3] Temporary failure in name resolution)"))
+Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
