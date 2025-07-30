@@ -1,8 +1,65 @@
 ------------------------------------------------------
-Started: 2025-07-30 08:29:02.903121
+Started: 2025-07-30 10:22:56.370847
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7feedab7fe20>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -3] Temporary failure in name resolution)"))
-Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-error when rendering xml, skip docs/freshrss
+Token length: 18
+Summarized using gemini model: gemini-2.0-flash
+Append: [xiaoke/智眸测谎动态感知--视频测谎程序](https://gitee.com/Ske/video-lie-detection-program)
+Token length: 59
+Summarized using gemini model: gemini-2.0-flash
+Append: [dromara/domain-admin](https://gitee.com/dromara/domain-admin)
+Token length: 1133
+Summarized using gemini model: gemini-2.0-flash
+Append: [育儿补贴为何定为3600元，中央出多少？财政部解释](https://www.yicai.com/news/102749749.html)
+Token length: 1314
+Summarized using gemini model: gemini-2.0-flash
+Append: [政治局会议部署下半年财政政策，“适时加力”怎么理解？](https://www.yicai.com/news/102749727.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [中国金属材料流通协会：摒弃“内卷式”恶性竞争](https://www.yicai.com/news/102749734.html)
+Token length: 959
+Summarized using gemini model: gemini-2.0-flash
+Append: [中国专家领衔发布，脂肪肝已成为肝癌重要诱因](https://www.yicai.com/news/102749660.html)
+Token length: 2100
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI制药向临床加速转化，百亿美元资本进场](https://www.yicai.com/news/102749652.html)
+Token length: 1358
+Summarized using gemini model: gemini-2.0-flash
+Append: [市值蒸发500亿美元背后，诺和诺德的艰难一仗](https://www.yicai.com/news/102749651.html)
+Token length: 3339
+Summarized using gemini model: gemini-2.0-flash
+Append: [常州“土特产”上新，长三角新能源汽车引领智能化下半场](https://www.yicai.com/news/102749627.html)
+Token length: 3179
+Summarized using gemini model: gemini-2.0-flash
+Append: [从民谣歌手到艺术家，艾敬为孩子们办了一个绘画大赛](https://www.yicai.com/news/102749585.html)
+Token length: 2630
+Summarized using gemini model: gemini-2.0-flash
+Append: [AH股午后跳水，创业板跌超1%，工业富联大涨超6%，恒科指跌超2%，科网股普跌，国债、商品上涨](https://wallstreetcn.com/articles/3752207)
+Token length: 262
+Summarized using gemini model: gemini-2.0-flash
+Append: [在啤酒中非法添加功能类似于“伟哥”的物质，涉事酒企已注销](https://m.thepaper.cn/detail/31252429)
+Token length: 382
+Summarized using gemini model: gemini-2.0-flash
+Append: [中国佛教协会副会长释永信的信息已从官网撤下](https://m.thepaper.cn/detail/31252342)
+Token length: 4317
+Summarized using gemini model: gemini-2.0-flash
+Append: [售价2万一台的智能健身器械，这家深圳公司要攻下全球高端家庭市场｜Insight全球](https://www.36kr.com/p/3362742683010820)
+Token length: 5474
+Summarized using gemini model: gemini-2.0-flash
+Append: [Tiktok之后，又一款中国互联网产品炸场美国](https://www.36kr.com/p/3400021555693953)
+Token length: 7232
+Summarized using gemini model: gemini-2.0-flash
+Append: [8点1氪｜国航南航东航支持在“民航版12306”直销平台购票；少林寺通报新住持任职；三胎概念股集体大涨](https://www.36kr.com/p/3400692572014721)
+Token length: 11175
+Summarized using gemini model: gemini-2.0-flash
+Append: [我用一个周末开发的MCP工具，让Claude帮我管理了整个项目](https://juejin.cn/post/7532287059374817323)
+Token length: 2693
+Summarized using gemini model: gemini-2.0-flash
+Append: [GPT-5基准测试泄露，被曝两天后发布？复刻Minecraft震撼开挂网友直呼封神](https://www.36kr.com/p/3399932195342722)
+Token length: 17
+Summarized using gemini model: gemini-2.0-flash
+Append: [游侠/3DGisEngine](https://gitee.com/Gathin/3DGisEngine)
+Token length: 2970
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI算力集群迈进“万卡”时代，超节点为什么火了？](https://www.yicai.com/news/102749550.html)
+append_entries: 20
+Finish: 2025-07-30 10:24:27.329768
