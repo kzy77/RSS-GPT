@@ -1,36 +1,8 @@
 ------------------------------------------------------
-Started: 2025-08-01 04:57:41.618618
-Existing_entries: 20
+Started: 2025-08-01 06:33:22.477578
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2352
-Summarized using gemini model: gemini-2.0-flash
-Append: [哪里的蚊子最猖狂？多地公布蚊媒高风险区域，一地提示佛山返回人员14天健康监测](https://www.yicai.com/news/102753379.html)
-Token length: 60
-Summarized using gemini model: gemini-2.0-flash
-Append: [一图读懂｜特朗普8月1日如何重启“对等关税”](https://www.yicai.com/news/102753388.html)
-Token length: 1725
-Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦以旧换新资金、价格法修订、“内卷式”竞争、人工智能……发改委发布会要点速览](https://www.yicai.com/news/102753327.html)
-Token length: 4098
-Summarized using gemini model: gemini-2.0-flash
-Append: [文弱书生，中国古典文学中的男性气概是怎么形成的](https://www.yicai.com/news/102753351.html)
-Token length: 2688
-Summarized using gemini model: gemini-2.0-flash
-Append: [在你学会使用AI之前，机器早已在帮助人类写作了](https://www.yicai.com/news/102753353.html)
-Token length: 2557
-Summarized using gemini model: gemini-2.0-flash
-Append: [从卢布走过的一个半世纪，透视俄罗斯政治变迁](https://www.yicai.com/news/102753358.html)
-Token length: 1029
-Summarized using gemini model: gemini-2.0-flash
-Append: [又一家美国巨头因关税压力涨价！多家美国消费品公司称涨价不可避免](https://www.yicai.com/news/102753350.html)
-Token length: 1998
-Summarized using gemini model: gemini-2.0-flash
-Append: [美团、淘宝饿了么接连表态：抵制不正当竞争！补贴大战“急刹车”](https://www.yicai.com/news/102753310.html)
-Token length: 2400
-Summarized using gemini model: gemini-2.0-flash
-Append: [韩国股市领跌亚太，日元、韩元对美元跌破关键点位！“关税大限”倒计时，全球市场怎么走](https://www.yicai.com/news/102753318.html)
-Token length: 5647
-Summarized using gemini model: gemini-2.0-flash
-Append: [🚀 2025 年 07 月 GitHub 十大热门项目排行榜 🔥](https://juejin.cn/post/7533169614206861339)
-append_entries: 10
-Finish: 2025-08-01 04:58:02.851655
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8f0d796700>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -2] Name or service not known)"))
+Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
