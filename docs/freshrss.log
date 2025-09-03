@@ -1,8 +1,8 @@
 ------------------------------------------------------
-Started: 2025-09-03 12:37:19.708814
+Started: 2025-09-03 14:18:24.333615
 Existing_entries: 10
 Fetching from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f41ff5a8580>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -2] Name or service not known)"))
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.dpdns.org', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4e28b68bb0>: Failed to resolve 'freshrss.chunkj.dpdns.org' ([Errno -2] Name or service not known)"))
 Fetch failed from https://freshrss.chunkj.dpdns.org/i/?a=rss&user=chunkj&token=chunkj&hours=24
 append_entries: 0
 error when rendering xml, skip docs/freshrss
