@@ -1,6 +1,14 @@
 ------------------------------------------------------
-Started: 2025-09-16 02:55:37.514079
+Started: 2025-09-16 04:21:32.992815
 Existing_entries: 0
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-Finish: 2025-09-16 02:55:38.237429
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [【限免】Allavsoft Windows 版免费密钥 – 视频和音乐下载器](https://www.freedidi.com/20623.html)
+Token length: 931
+Summarized using gemini model: gemini-2.0-flash
+Append: [【限时免费】EaseUS Key Finder Key Free – 专业产品密钥查找软件](https://www.freedidi.com/20614.html)
+Token length: 1314
+Summarized using gemini model: gemini-2.0-flash
+Append: [【限免】AOMEI Backupper 专业版免费密钥 – PC 备份和恢复、同步和克隆软件](https://www.freedidi.com/20611.html)
+append_entries: 3
+Finish: 2025-09-16 04:21:38.255060
