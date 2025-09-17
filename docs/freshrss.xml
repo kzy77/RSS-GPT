@@ -2,25 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 17 Sep 2025 14:17:34 GMT</updated>
+    <updated>Wed, 17 Sep 2025 16:23:37 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[赶紧下载！6款 “限时免费” 软件！得到就是赚到，为你省下数百刀！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/20653.html" />
-        <id>https://www.freedidi.com/20653.html</id>
-        <updated>Tue, 16 Sep 2025 23:56:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 量子计算, 线性方程组, HHL算法, 迭代法, 误差分析
+        <title><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
+        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html" />
+        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
+        <updated>Thu, 11 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: SGLang, 大模型推理, 优化, 美团M17, LongCat-Flash
 
 <br><br>总结:
-1. 文章探讨了利用量子计算解决线性方程组的问题，重点关注了HHL算法。
-2. 指出了HHL算法在实际应用中对误差的敏感性。
-3. 分析了使用迭代量子线性方程组算法（Iterative QLSA）以提高精度和鲁棒性的可能性。
-4. 研究了迭代QLSA在处理各种误差（包括量子门误差、状态制备误差等）时的表现。
-5. 评估了不同迭代次数对最终解精度的影响，并提出了优化迭代次数的策略。
+1. SGLang团队专注于大模型推理系统优化，并维护开源框架SGLang。
+2. 美团M17团队与SGLang团队合作。
+3. 双方合作实现了LongCat-Flash模型在SGLang上的优化。
 ]]></summary>
     </entry>
     
