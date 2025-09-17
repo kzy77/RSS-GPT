@@ -2,24 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 17 Sep 2025 16:23:37 GMT</updated>
+    <updated>Wed, 17 Sep 2025 18:26:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
-        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html" />
-        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
-        <updated>Thu, 11 Sep 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: SGLang, 大模型推理, 优化, 美团M17, LongCat-Flash
-
-<br><br>总结:
-1. SGLang团队专注于大模型推理系统优化，并维护开源框架SGLang。
-2. 美团M17团队与SGLang团队合作。
-3. 双方合作实现了LongCat-Flash模型在SGLang上的优化。
-]]></summary>
-    </entry>
     
 </feed>
