@@ -2,25 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 17 Sep 2025 06:28:05 GMT</updated>
+    <updated>Wed, 17 Sep 2025 08:24:10 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[赶紧下载！6款 “限时免费” 软件！得到就是赚到，为你省下数百刀！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/20653.html" />
-        <id>https://www.freedidi.com/20653.html</id>
-        <updated>Tue, 16 Sep 2025 23:56:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：深度学习, 大语言模型, 人工智能, 效率, Transformer
+        <title><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
+        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html" />
+        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
+        <updated>Thu, 11 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：SGLang, 大模型推理, LongCat-Flash, 美团M17, 开源框架
 
 <br><br>总结:
-1. 深度学习驱动了大语言模型的快速发展，成为当前人工智能领域的核心技术。
-2. Transformer架构是当前大语言模型的主流架构，其并行处理能力显著提升了训练效率。
-3. 提升大语言模型的效率至关重要，包括训练效率和推理效率，直接影响着模型的可用性和成本。
-4. 研究人员致力于优化模型架构、算法和硬件，以提高大语言模型的效率。
-5. 持续提高大语言模型的效率是推动人工智能技术进一步发展的关键。
+1. SGLang团队专注于大模型推理系统优化，并维护开源框架SGLang。
+2. 美团M17团队与SGLang团队合作。
+3. 合作实现了LongCat-Flash模型在SGLang上的优化。
 ]]></summary>
     </entry>
     
