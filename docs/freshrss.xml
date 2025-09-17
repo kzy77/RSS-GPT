@@ -2,25 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 17 Sep 2025 10:18:19 GMT</updated>
+    <updated>Wed, 17 Sep 2025 12:38:13 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[赶紧下载！6款 “限时免费” 软件！得到就是赚到，为你省下数百刀！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/20653.html" />
-        <id>https://www.freedidi.com/20653.html</id>
-        <updated>Tue, 16 Sep 2025 23:56:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI医疗，诊断准确性，伦理考量，公平性，数据隐私
+        <title><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
+        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html" />
+        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
+        <updated>Thu, 11 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：SGLang, 大模型推理, 美团M17, LongCat-Flash, 优化
 
 <br><br>总结:
-1. AI医疗在提高诊断准确性和效率方面潜力巨大，能够辅助医生进行疾病识别和治疗方案制定。
-2.  然而，AI医疗的应用带来诸多伦理问题，例如算法偏见可能导致不公平的诊断结果，需要关注并解决。
-3.  数据隐私是另一个关键问题，需要建立严格的数据安全保障机制，确保患者信息不被滥用。
-4.  为了确保AI医疗的公平性，需要使用多样化的数据集训练AI模型，减少算法偏见。
-5.  AI医疗的发展需要医疗专业人员、伦理学家和政策制定者的共同努力，制定完善的监管框架，推动其健康发展。
+1. SGLang团队专注于大模型推理系统优化，维护开源框架SGLang。
+2. 美团M17团队与SGLang团队合作。
+3. 合作目标是优化LongCat-Flash模型。
+4. 优化成果应用于SGLang框架之上。
 ]]></summary>
     </entry>
     
