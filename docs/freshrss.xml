@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 20 Sep 2025 01:19:09 GMT</updated>
+    <updated>Sat, 20 Sep 2025 02:53:34 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[【安全上网】防火长城GFW史上最大规模的内部文件泄露事件，揭示GFW的运作细节，DPI深度包检测｜流量限速｜篡改网页数据｜注入恶意代码｜DDos攻击｜流量定位到个人｜重点关注对象｜普通用户应该怎么办？]]></title>
-        <link href="https://www.youtube.com/watch?v=yCq_Rwpm10A" />
-        <id>https://www.youtube.com/watch?v=yCq_Rwpm10A</id>
-        <updated>Fri, 19 Sep 2025 14:00:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词：LLM，对抗性攻击，后门，投毒，鲁棒性
-
-<br><br>总结:
-1. 大型语言模型(LLM)容易受到各种对抗性攻击，这些攻击可能导致模型输出意外或有害的内容。
-2. 后门攻击是一种特殊的对抗性攻击，攻击者可以在模型中植入后门，使其在特定触发条件下产生预设的输出。
-3. 投毒攻击是指攻击者通过修改训练数据来影响模型的行为。
-4. 这些攻击对LLM的安全性构成了重大威胁，并需要开发相应的防御机制。
-5. 提高LLM的鲁棒性，使其能够抵御这些攻击，是当前研究的重要方向。
-]]></summary>
-    </entry>
     
 </feed>
