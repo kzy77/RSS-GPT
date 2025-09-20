@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 20 Sep 2025 10:17:18 GMT</updated>
+    <updated>Sat, 20 Sep 2025 12:34:52 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[Windows 11 25H2 官方 ISO 终于发布！]]></title>
-        <link href="https://www.freedidi.com/20659.html" />
-        <id>https://www.freedidi.com/20659.html</id>
-        <updated>Sat, 20 Sep 2025 12:31:28 +0800</updated>
-        <summary type="html"><![CDATA[Windows 11, 25H2, ISO, 发布预览, Copilot
-
-<br><br>总结:
-*   微软发布了 Windows 11 25H2 的官方 ISO 文件，此前已在发布预览频道推送。
-*   用户可通过微软官网下载 ISO 文件，选择 Windows 11 Insider Preview（发布预览频道） – Build 26200（25H2）。
-*   25H2 版本安装包体积增大至 7GB 以上，推测与新增内容有关。
-*   25H2 整体变化不大，开始菜单无变化，Copilot 更名为 Microsoft 365 Copilot，性能与 24H2 基本持平。
-*   安装时可能遇到无法使用 Microsoft 帐户登录的问题，可使用命令行 "start ms-cxh:localonly" 调出命令提示符，创建本地帐户，避免 OneDrive 强制同步。
-]]></summary>
-    </entry>
     
 </feed>
