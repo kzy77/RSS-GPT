@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 21 Sep 2025 01:36:28 GMT</updated>
+    <updated>Sun, 21 Sep 2025 03:06:48 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[Windows 11（25H2）终于发布！官方 ISO 下载、新功能及最新安装教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20668.html" />
+        <id>https://www.freedidi.com/20668.html</id>
+        <updated>Sat, 20 Sep 2025 21:22:00 +0800</updated>
+        <summary type="html"><![CDATA[请提供需要总结的文章。我需要文章内容才能提取关键词并进行总结。 请将文章内容复制粘贴给我，我将按照您要求的格式完成任务。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Windows 11 25H2 官方 ISO 终于发布！]]></title>
+        <link href="https://www.freedidi.com/20659.html" />
+        <id>https://www.freedidi.com/20659.html</id>
+        <updated>Sat, 20 Sep 2025 12:31:28 +0800</updated>
+        <summary type="html"><![CDATA[Windows 11, 25H2, ISO, Copilot, 安装问题
+
+微软发布 Windows 11 25H2 官方 ISO 文件，用户可通过微软官网下载发布预览频道 Build 26200 版本。<br><br>该版本 ISO 文件体积增大至 7GB 以上，推测是由于新增应用和系统文件。<br><br>25H2 整体变动不大，开始菜单没有变化，Copilot 更名为 Microsoft 365 Copilot，性能与 24H2 持平。<br><br>安装时可能遇到无法使用 Microsoft 帐户登录的问题，可通过命令提示符窗口切换到本地帐户解决，输入 `start ms-cxh:localonly`，此方法还能避免 OneDrive 强制同步。<br><br>升级到dev开发者预览版，可以获得不一样的开始菜单，它可以自动将APP应用程序以分类形式进行合并在一个大的分类下，方便快速启动！
+
+<br><br>总结:
+]]></summary>
+    </entry>
     
 </feed>
