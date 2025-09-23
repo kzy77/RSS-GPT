@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Tue, 23 Sep 2025 18:27:40 GMT</updated>
+    <updated>Tue, 23 Sep 2025 20:19:59 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[Cloudflare 推出学生福利！可享12个月免费开发者套餐（美国）]]></title>
+        <link href="https://www.freedidi.com/20681.html" />
+        <id>https://www.freedidi.com/20681.html</id>
+        <updated>Tue, 23 Sep 2025 18:01:07 +0800</updated>
+        <summary type="html"><![CDATA[Cloudflare 学生套餐 开发者 .edu 美国学生 免费
+
+<br><br>总结:
+Cloudflare 为年满 18 岁且持有 .edu 邮箱的美国在校生推出为期 12 个月的免费开发者套餐。<br><br>
+学生套餐提供远超免费版的配额，包括 Workers 月请求 1000 万次、Workers KV 月读取 1000 万次及写入 100 万次、Hyperdrive 无限查询、Durable Objects 每日 100 万请求、Workers Logs 月 2000 万日志事件（保留7天）、Workers Logpush 月 1000 万日志事件，以及 Queues 月 100 万次操作。<br><br>
+申请需要绑定信用卡，账单地址需与邮箱匹配，且可使用 .edu 邮箱注册新账户或现有账户。<br><br>
+套餐到期后会自动降级为免费版，对学生而言是零风险体验高级开发者功能的机会。
+]]></summary>
+    </entry>
     
 </feed>
