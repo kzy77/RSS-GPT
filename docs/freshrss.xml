@@ -2,37 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 24 Sep 2025 08:25:32 GMT</updated>
+    <updated>Wed, 24 Sep 2025 10:19:05 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Wan2.2-Animate 图片转视频！完美角色一致性，动画替换模型，本地部署教程！]]></title>
-        <link href="https://www.freedidi.com/20685.html" />
-        <id>https://www.freedidi.com/20685.html</id>
-        <updated>Tue, 23 Sep 2025 22:29:11 +0800</updated>
-        <summary type="html"><![CDATA[Qwen, Wan2.2-Animate-14B, 角色动画, 模型部署, Dashscope API
+        <title><![CDATA[开源 | InfiniteTalk：无限长虚拟人视频生成的新范式]]></title>
+        <link href="https://tech.meituan.com/2025/09/21/infinitetalk.html" />
+        <id>https://tech.meituan.com/2025/09/21/infinitetalk.html</id>
+        <updated>Sun, 21 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：虚拟人，长视频生成，质量退化，InfiniteTalk，美团
 
 <br><br>总结:
-1. Qwen推出了Wan2.2-Animate-14B，这是一个统一的角色动画和替换模型，可以完整复制动作和表情。
-2. 官方发布了模型权重和推理代码，用户可以在多个平台试用，也可以本地部署。
-3. 本地部署需要Python 3.10和Git，以及安装项目依赖。
-4. 使用Dashscope API key可以增强功能，需要注册账号获取。
-5. 模型及项目代码均已开源，方便用户下载和使用。
+1. 针对虚拟人长视频生成过程中出现的质量退化问题，美团推出了 InfiniteTalk 技术。
+2. InfiniteTalk 技术旨在实现无限时长的视频生成。
+3. 该项目已在 GitHub 开源，并获得了广泛关注（1.6K Stars, Hugging Face 64.8K 下载）。
+4. InfiniteTalk 技术受到好评，并有潜力应用于电商直播、教育和影视等多个领域。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare 推出学生福利！可享12个月免费开发者套餐（美国）]]></title>
-        <link href="https://www.freedidi.com/20681.html" />
-        <id>https://www.freedidi.com/20681.html</id>
-        <updated>Tue, 23 Sep 2025 18:01:07 +0800</updated>
-        <summary type="html"><![CDATA[Cloudflare, 学生, 开发者套餐, 免费, .edu 邮箱
+        <title><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
+        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html" />
+        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
+        <updated>Mon, 22 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美团, LongCat, 推理模型, Flash-Thinking, SOTA
 
 <br><br>总结:
-Cloudflare 推出面向美国年满 18 岁且持有 .edu 邮箱的学生的 12 个月免费开发者套餐。该套餐提供比免费版更高的使用配额，包括 Workers、Workers KV、Hyperdrive、Durable Objects、Workers Logs、Workers Logpush 和 Queues 等功能。申请者需使用 .edu 邮箱注册 Cloudflare 账户并绑定有效信用卡，且账单地址与邮箱匹配。到期后未升级则自动降级为免费版。
+1. 美团 LongCat 团队发布了新型高效推理模型 LongCat-Flash-Thinking。
+2. 该模型在逻辑、数学、代码、智能体等多个领域的推理任务中表现出色。
+3. LongCat-Flash-Thinking 已达到全球开源模型的最先进水平（SOTA）。
 ]]></summary>
     </entry>
     
