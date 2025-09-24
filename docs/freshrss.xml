@@ -2,42 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 24 Sep 2025 04:21:53 GMT</updated>
+    <updated>Wed, 24 Sep 2025 06:28:00 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Wan2.2-Animate 图片转视频！完美角色一致性，动画替换模型，本地部署教程！]]></title>
-        <link href="https://www.freedidi.com/20685.html" />
-        <id>https://www.freedidi.com/20685.html</id>
-        <updated>Tue, 23 Sep 2025 22:29:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Qwen, Wan2.2-Animate-14B, 角色动画, 替换模型, 本地部署
+        <title><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
+        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html" />
+        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
+        <updated>Mon, 22 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美团, LongCat, 推理模型, Flash-Thinking, SOTA
 
 <br><br>总结:
-1. Qwen发布了Wan2.2-Animate-14B，一个统一的角色动画和替换模型，可以完整复制动作和表情，并开源了模型权重和推理代码。
-2. 该模型可以在wan.video、ModelScope Studio或HuggingFace Space上在线试用。
-3. 也可以选择本地部署使用，需要Python 3.10和Git环境。
-4. 本地部署步骤包括克隆仓库，创建并激活Python环境，安装依赖项，并运行app.py。
-5. 成功安装后，可通过本地地址http://127.0.0.1:7860/访问。
-6. 使用Dashscope API Key 需要免费注册账号来创建。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare 推出学生福利！可享12个月免费开发者套餐（美国）]]></title>
-        <link href="https://www.freedidi.com/20681.html" />
-        <id>https://www.freedidi.com/20681.html</id>
-        <updated>Tue, 23 Sep 2025 18:01:07 +0800</updated>
-        <summary type="html"><![CDATA[Cloudflare, 学生, 开发者套餐, 免费, 美国
-
-<br><br>总结:
-1. Cloudflare 推出面向美国年满 18 岁并持有 .edu 邮箱学生的为期 12 个月的免费开发者套餐。
-2. 此套餐提供远高于免费版的配额，包括 Cloudflare Workers、Workers KV、Hyperdrive、Durable Objects、Workers Logs、Workers Logpush 和 Queues 等功能，使用量大幅提升。
-3. 申请者需为美国在校生，使用 .edu 邮箱注册Cloudflare账号，并绑定有效信用卡，账单地址需与邮箱匹配。
-4. 12 个月到期后，若未升级至付费计划，将自动降级回免费版。
-5. 该计划为学生提供了零风险试用 Cloudflare 高级功能的机会，有利于云计算和无服务器开发领域的学习和实践。
+1. 美团 LongCat 团队发布了新的高效推理模型 LongCat-Flash-Thinking。
+2. 该模型在逻辑、数学、代码和智能体等多个推理任务上表现卓越。
+3. LongCat-Flash-Thinking 达到了全球开源模型的最先进水平 (SOTA)。
 ]]></summary>
     </entry>
     
