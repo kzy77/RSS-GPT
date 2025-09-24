@@ -2,41 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 24 Sep 2025 20:20:44 GMT</updated>
+    <updated>Wed, 24 Sep 2025 22:17:16 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[最新AI视频神器！Wan2.2-Animate 免费开源 · 本地部署，角色一致性惊艳，动画替换效果拉满！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/20701.html" />
-        <id>https://www.freedidi.com/20701.html</id>
-        <updated>Wed, 24 Sep 2025 21:46:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 气候变化，海洋，酸化，生态系统，应对措施
+        <title><![CDATA[开源 | InfiniteTalk：无限长虚拟人视频生成的新范式]]></title>
+        <link href="https://tech.meituan.com/2025/09/21/infinitetalk.html" />
+        <id>https://tech.meituan.com/2025/09/21/infinitetalk.html</id>
+        <updated>Sun, 21 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：虚拟人, 长视频, 生成, InfiniteTalk, 美团
 
 <br><br>总结:
-1. 气候变化导致海洋吸收过量二氧化碳，引发海洋酸化。
-2. 海洋酸化对海洋生态系统产生广泛且负面的影响，威胁生物多样性、食物链和沿海社区的生计。
-3. 文章强调了量化和理解海洋酸化对不同海洋生态系统影响的重要性。
-4. 提出了应对海洋酸化的各种策略，包括减少碳排放，实施地方性保护措施，以及发展适应气候变化的能力。
-5. 呼吁全球合作，共同应对海洋酸化带来的挑战，以保护海洋健康和人类福祉。
+1. 美团团队推出 InfiniteTalk 技术，旨在解决虚拟人长视频生成过程中出现的质量退化问题。
+2. 该技术可以实现无限时长的虚拟人视频生成，应用前景广泛。
+3. InfiniteTalk 已开源，并在 GitHub 和 Hugging Face 上获得高度关注，分别获得1.6K Stars 和 64.8K 月下载量。
+4. 该技术可应用于电商直播、教育、影视等多个领域。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Wan2.2-Animate 图片转视频！完美角色一致性，动画替换模型，本地部署教程！]]></title>
-        <link href="https://www.freedidi.com/20685.html" />
-        <id>https://www.freedidi.com/20685.html</id>
-        <updated>Tue, 23 Sep 2025 22:29:11 +0800</updated>
-        <summary type="html"><![CDATA[Qwen, Wan2.2-Animate-14B, 角色动画, 替换模型, 本地部署
+        <title><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
+        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html" />
+        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
+        <updated>Mon, 22 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美团, LongCat, 推理模型, Flash-Thinking, SOTA
 
 <br><br>总结:
-1. Qwen正式推出Wan2.2-Animate-14B，该模型可用于角色动画和替换，能够复制动作和表情。
-2. 模型权重和推理代码已发布，可在多个平台试用。
-3. 可以通过克隆仓库，创建Python环境，安装依赖项并运行app.py进行本地部署。
-4. 需要注册Dashscope API key，并填写到app.py文件中。
-5. 可以下载Wan2.2-Animate开源项目及Wan2.2-Animate-14B模型，也可在线免费试用。
+1. 美团 LongCat 团队发布了新的高效推理模型 LongCat-Flash-Thinking。
+2. 该模型在逻辑、数学、代码、智能体等多个推理领域表现出色。
+3. 综合评估结果表明，LongCat-Flash-Thinking 达到了全球开源模型的最先进水平 (SOTA)。
 ]]></summary>
     </entry>
     
