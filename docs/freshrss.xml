@@ -2,41 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 24 Sep 2025 16:24:05 GMT</updated>
+    <updated>Wed, 24 Sep 2025 18:25:07 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[最新AI视频神器！Wan2.2-Animate 免费开源 · 本地部署，角色一致性惊艳，动画替换效果拉满！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/20701.html" />
-        <id>https://www.freedidi.com/20701.html</id>
-        <updated>Wed, 24 Sep 2025 21:46:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI加速, 芯片, 数据中心, 能效, 专用计算
+        <title><![CDATA[开源 | InfiniteTalk：无限长虚拟人视频生成的新范式]]></title>
+        <link href="https://tech.meituan.com/2025/09/21/infinitetalk.html" />
+        <id>https://tech.meituan.com/2025/09/21/infinitetalk.html</id>
+        <updated>Sun, 21 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：虚拟人, 长视频, 生成, InfiniteTalk, 美团
 
 <br><br>总结:
-1. 数据中心面临日益增长的AI计算需求，通用CPU难以满足性能和能效要求。
-2. AI加速芯片，特别是专用计算芯片（如GPU、TPU、ASIC），成为提高AI计算性能和能效的关键。
-3. 这些加速芯片针对特定AI任务（如深度学习）进行优化，可显著提升计算速度并降低功耗。
-4. 不同类型的AI加速芯片适用于不同的应用场景，选择合适的芯片对于优化数据中心性能至关重要。
-5. AI加速芯片的发展是提升数据中心AI计算能力和降低能耗的重要趋势。
+1. 美团视觉智能团队推出 InfiniteTalk 技术，旨在解决虚拟人长视频生成中出现的质量退化问题。
+2. InfiniteTalk 技术支持无限时长的视频生成。
+3. 该项目已在 GitHub 开源，收获了大量关注和下载量。
+4. 该技术可应用于电商直播、教育、影视等多个领域。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Wan2.2-Animate 图片转视频！完美角色一致性，动画替换模型，本地部署教程！]]></title>
-        <link href="https://www.freedidi.com/20685.html" />
-        <id>https://www.freedidi.com/20685.html</id>
-        <updated>Tue, 23 Sep 2025 22:29:11 +0800</updated>
-        <summary type="html"><![CDATA[Qwen, Wan2.2-Animate-14B, 角色动画, 模型部署, Dashscope API
+        <title><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
+        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html" />
+        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
+        <updated>Mon, 22 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美团，LongCat，Flash-Thinking，推理模型，SOTA
 
 <br><br>总结:
-1.  Qwen发布了Wan2.2-Animate-14B，一个统一的角色动画和替换模型，能完整复制动作和表情，并开源了模型权重和推理代码。
-2.  可以通过多种方式试用，包括wan.video、ModelScope Studio、HuggingFace Space和本地部署。
-3.  本地部署需要Python 3.10、Git，并克隆仓库、创建Python环境、安装依赖项后运行app.py。
-4.  使用Dashscope API key需要免费注册账号并填写在app.py中。
-5.  提供了Wan2.2-Animate开源项目、Wan2.2-Animate-14B模型下载链接，以及免费在线试用地址。
+1. 美团 LongCat 团队发布了全新的高效推理模型 LongCat-Flash-Thinking。
+2. 该模型在逻辑、数学、代码、智能体等多个推理任务中表现出色。
+3. 综合评估表明，LongCat-Flash-Thinking 达到了全球开源模型的最先进水平 (SOTA)。
 ]]></summary>
     </entry>
     
