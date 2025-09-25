@@ -2,163 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-09-25T18:28:39Z</updated>
+    <updated>2025-09-25T20:21:00Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[赶紧下载！5款 “限时免费” 软件！下到就是赚到，轻松白嫖数百刀！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/20741.html" />
-        <id>https://www.freedidi.com/20741.html</id>
-        <updated>Thu, 25 Sep 2025 20:46:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词：量子计算, 药物发现, 生成模型, 靶点识别, 临床试验
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS、docker、UUID<br>
+总结: 本文介绍了如何使用爪云（Claw Cloud Run）和内网穿透技术，包括注册爪云、免费域名注册、VPS部署所需命令或网址等。通过安装docker并使用临时或固定隧道模式来搭建科学上网节点。固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名等变量，并运行相应命令。同时提供了相关docker命令和视频教程链接。整体内容涵盖了爪云的注册、使用和VPS部署过程，帮助用户快速搭建科学上网节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg免费域名、挂了、新情况、已注册的域名、Cloudflare托管、dpdns.org、FreeDNS、临时托管、现在注册、域名区别
 
-<br><br>总结:
-1. 量子计算作为一种新兴技术，在药物发现领域展现出巨大潜力。
-2. 量子计算加速了生成模型的训练，能够设计具有特定性质的新分子，从而拓展药物候选范围。
-3. 量子算法可以更高效地进行靶点识别，加速理解疾病机理，为药物开发提供更精准的方向。
-4. 量子模拟有望改进临床试验设计，预测药物疗效和毒性，降低研发风险。
-5. 然而，量子计算应用于药物发现仍处于早期阶段，面临硬件和算法的挑战，需要持续投入和发展才能最终实现其价值。
-]]></summary>
+总结:
+us.kg免费域名目前处于挂起状态，已注册的域名仍然存在，新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。目前仍可以注册新的us.kg域名，但需要注意新旧域名之间的区别。dpdns.org域名也可以托管到Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Aiarty Image Matting（带 AI）免费密钥 – 从图像中去除背景]]></title>
-        <link href="https://www.freedidi.com/20731.html" />
-        <id>https://www.freedidi.com/20731.html</id>
-        <updated>Thu, 25 Sep 2025 11:57:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI抠图, 背景去除, 图像处理, 批量处理, 免费激活
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活<br>
+总结: 本文介绍了使用Sing-box-yg项目和Cloudflare来搭建科学上网节点的方法。用户可以通过Serv00的多功能主页进行启动、重启等操作，并通过Cloudflare固定隧道和CDN回源来实现网站的保活和加速。同时，通过Cloudflare远程保活Worker来实现定时保活任务。整个过程需要登录Serv00，搭建节点，设置隧道和回源规则，以及远程保活。详细操作请参考视频教程。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、免费
 
-<br><br>总结:
-1. Aiarty Image Matting 是一款利用AI技术进行背景去除的工具，能够精准处理头发、皮毛等复杂细节。
-2. 该工具采用先进的卷积层技术，保留图像纹理、半透明度和边缘精度，适用于复杂和低光场景。
-3. 具备智能物体检测和批量处理功能，可批量替换背景，支持处理高达3000张图片。
-4. 提供直观的界面和橡皮擦、画笔等工具，可精确控制透明度调整和混合，并支持4K UHD图像输入输出。
-5. 目前该软件提供免费激活，通过访问赠品页面或使用提供的许可证密钥即可激活。
-]]></summary>
+US.KG的域名现在处于受限状态，大家可以先用https://dash.domain.digitalplat.org/完成注册和KYC验证。注册时需输入虚假信息，验证邮箱后上传KYC文件，然后注册域名并托管到Cloudflare。免费域名的缺点是需要定期续订。详细操作可参考Youtube视频教程。<br><br>总结: US.KG域名因受限，可先在https://dash.domain.digitalplat.org/注册并进行KYC验证后，将域名托管到Cloudflare使用，但注意免费域名需定期续订。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】XenArmor 电子邮件密码恢复专业版【免费密钥】！]]></title>
-        <link href="https://www.freedidi.com/20724.html" />
-        <id>https://www.freedidi.com/20724.html</id>
-        <updated>Thu, 25 Sep 2025 11:52:07 +0800</updated>
-        <summary type="html"><![CDATA[密码恢复, 电子邮件, XenArmor, 许可证, 赠品
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
 
-<br><br>总结:
-1. XenArmor Email Password Recovery Pro 是一款Windows平台的软件，用于恢复各种电子邮件客户端和浏览器中存储的邮件密码。
-2. 它支持超过110个常用程序，可恢复包括Gmail、Yahoo、Outlook和AOL等40多个邮件服务商的密码。
-3. 可以从常用浏览器/电子邮件客户端/外部驱动器恢复密码。
-4. 恢复的密码可以保存为HTML、CSV、XML、JSON或SQLite等格式。
-5. 目前有赠品活动，可以免费获取1年的个人版许可证密钥，包含6个月的免费更新，截止日期是2025年10月10日，但不提供技术支持。
-]]></summary>
+Deepseek是一个提供沉浸式翻译、Chatbox以及其他应用的平台。用户可以通过官方网站、手机客户端或者API来使用Deepseek服务。第三方应用也可以集成Deepseek API来实现多种功能。除了在线使用外，用户还可以选择本地部署Deepseek，以便更灵活地使用。本地部署需要下载安装Ollama并使用命令行来运行。整体而言，Deepseek为用户提供了方便快捷的翻译工具，并具有较好的灵活性和扩展性。<br><br>总结: Deepseek是一个提供翻译和其他应用功能的平台，用户可以在线使用网页端、APP或API，也可以选择本地部署来更灵活地使用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】Aiseesoft Burnova 终身免费密钥！将任何视频刻录到 DVD/蓝光光盘]]></title>
-        <link href="https://www.freedidi.com/20716.html" />
-        <id>https://www.freedidi.com/20716.html</id>
-        <updated>Thu, 25 Sep 2025 11:45:57 +0800</updated>
-        <summary type="html"><![CDATA[DVD刻录, 蓝光刻录, 视频转换, 免费赠品, Aiseesoft Burnova
-
-<br><br>总结:
-1. Aiseesoft Burnova是一款DVD/蓝光刻录软件，能将本地/网络视频转换为DVD/蓝光光盘/文件夹/ISO文件。
-2. 支持刻录Blu-ray-25和Blu-ray-50，并提供多种菜单模板。
-3. 内置编辑器可在刻录前编辑视频。
-4. 支持Windows 11/10/8/7。
-5. 用户可通过在赠品页面输入姓名和邮箱获取免费年度许可证。
-]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】SoftOrbits PDF Logo Remover 【终身免费密钥】 – 去除 PDF 中的水印]]></title>
-        <link href="https://www.freedidi.com/20709.html" />
-        <id>https://www.freedidi.com/20709.html</id>
-        <updated>Thu, 25 Sep 2025 11:21:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：PDF水印去除, SoftOrbits, Logo Remover, 免费, 批量处理
-
-<br><br>总结:
-1. SoftOrbits PDF Logo Remover 是一款用于去除 PDF 文件中水印的软件，它可以去除图片、logo、印章等多种类型的水印。
-2. 该软件支持批量处理，可以同时处理多个具有相同水印的 PDF 文件。
-3. 现在提供限时免费活动，用户可以在 2025年10月15日之前通过官方页面注册获取终身许可证，仅限非商业用途，且不提供免费更新和技术支持。
-4. 获取方式是访问赠送页面，输入邮箱获取许可证密钥，下载安装软件后，输入密钥和邮箱进行注册即可。
-]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[【限免】AnyViewer Professional 免费激活密钥 – 安全快速的远程桌面软件]]></title>
-        <link href="https://www.freedidi.com/20704.html" />
-        <id>https://www.freedidi.com/20704.html</id>
-        <updated>Thu, 25 Sep 2025 11:13:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：远程访问, 远程支持, 文件传输, 安全加密, 许可证激活
-
-<br><br>总结:
-1. AnyViewer Professional 是一款远程访问和支持工具，允许用户随时随地通过互联网远程工作，方便中小型企业和个人用户远程监控、管理和修复电脑，并进行高质量的文件传输。
-2. AnyViewer 采用先进的安全技术，如 ECC 256 位加密、GDPR 合规性、双因素身份验证等，全面保护用户数据和隐私。
-3. 该软件无需复杂设置即可远程访问工作电脑，可以进行本地和远程文件夹之间的文件传输，并能远程控制电脑解决技术问题，甚至可以远程玩 PC 游戏。
-4. AnyViewer Professional 支持 Windows 11/10/8/8.1/7 操作系统。
-5. 用户可以通过登录 AnyViewer 帐户，并在“帐户/输入许可证代码”中输入提供的免费许可证代码（AC7B-254D-CE64-33EC）来激活软件，活动截止日期为 2025 年 10 月 8 日。
-]]></summary>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github、注册时间、5美元赠金  
-总结: Claw Cloud Run是一款免费容器，只要Github注册时间大于180天，即可每月获得5美元赠金，从而实现长期免费使用。通过查看Github注册时间的方法，可以确定是否符合领取赠金的条件。推荐使用Claw Cloud Run部署两款应用：1. Memos（轻笔记应用）、2. AList（网盘挂载工具）。详情请观看Youtube视频。]]></summary>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云、VPS、免费、SSH、科学上网
-<br>
-谷歌云提供免费VPS服务，注册账号需要添加付款资料并选择外币信用卡或借记卡。创建VM实例时选择免费配置，注意调整数据保护设置以避免费用。配置完后开放防火墙，选择SSH登录方式进行操作。科学上网建议使用Hysteria 2节点，注意出站流量免费额度。搭建科学上网节点时可选择命令行搭建或使用甬哥一键脚本。视频中详细介绍了各个步骤和注意事项。总结: 谷歌云提供免费VPS，注册账号需添加付款资料，创建VM实例配置要注意，SSH登录方式及科学上网注意事项需谨慎设置。]]></summary>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址、美国地址生成器、Github仓库、Cloudflare官网、Cloudflare Pages<br>
-<br>
-注册地址可以选择dpdns.org或者us.kg域名，us.kg为收费域名；新用户和老用户分别有免费域名额度；us.kg域名不占用免费额度，续期永久免费；详细教程可查看Youtube视频。<br>
-<br>
-总结: 用户可以选择注册地址并生成美国地址，获取域名后可通过Github仓库进行管理，同时使用Cloudflare官网和Cloudflare Pages进行自定义域名和SSL证书配置。us.kg域名不占用免费额度且续期永久免费。详细操作步骤和教程可在Youtube视频中查看。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、速度、稳定性、ChatGPT、价值<br>
-<br>
-在该视频中作者对HostUNO进行了综合评测。主要关注点包括稳定性和速度，是否需要保活，以及ChatGPT是否会降智。作者介绍了HostUNO的官方态度、价格和购买过程，分享了自己的总体体验和搭建代理节点的情况。同时，作者还测试了节点的测速情况并提到了ChatGPT降智问题。最后，作者分享了如何续费，并总结了是否值得购买。视频中包含了相关链接以及详细的内容讨论。整体来看，该视频为观众提供了全面的HostUNO使用体验和评价。<br><br>总结: HostUNO在稳定性和速度方面表现良好，购买和使用流程简单顺畅。需要注意ChatGPT问题和续费事项，整体性价比较高，值得购买。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
-<br>
-US.KG注册无法进行，建议使用另一个免费域名注册，可以托管到Cloudflare并享受一年免费服务。具体步骤包括注册账号，使用身份信息生成器辅助填写，购买域名时输入优惠码(newuser)，填入Cloudflare的两个名称服务器实现域名托管。详细操作可参考Youtube视频指导。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
