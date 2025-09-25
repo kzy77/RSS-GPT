@@ -2,41 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Thu, 25 Sep 2025 01:22:45 GMT</updated>
+    <updated>Thu, 25 Sep 2025 03:01:07 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[最新AI视频神器！Wan2.2-Animate 免费开源 · 本地部署，角色一致性惊艳，动画替换效果拉满！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/20701.html" />
-        <id>https://www.freedidi.com/20701.html</id>
-        <updated>Wed, 24 Sep 2025 21:46:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大模型, 提示工程, 幻觉, 安全, 对齐
+        <title><![CDATA[开源 | InfiniteTalk：无限长虚拟人视频生成的新范式]]></title>
+        <link href="https://tech.meituan.com/2025/09/21/infinitetalk.html" />
+        <id>https://tech.meituan.com/2025/09/21/infinitetalk.html</id>
+        <updated>Sun, 21 Sep 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：虚拟人, 长视频, 生成, InfiniteTalk, 美团
 
 <br><br>总结:
-1. 大模型（LLM）虽然强大，但也存在“幻觉”问题，即生成不真实或无意义的内容，需要通过提示工程等手段来缓解。
-2. 提示工程是提升LLM性能的关键技术，通过精心设计的提示词来引导模型生成更准确、更相关的结果。
-3. LLM的安全问题日益重要，包括有害内容生成、隐私泄露等，需要采取措施来防范。
-4. 大模型对齐是指使模型的行为和价值观与人类意愿保持一致，是确保LLM负责任使用的重要方向。
-5. 解决幻觉、安全和对齐问题是当前大模型发展面临的重要挑战，需要持续研究和探索。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Wan2.2-Animate 图片转视频！完美角色一致性，动画替换模型，本地部署教程！]]></title>
-        <link href="https://www.freedidi.com/20685.html" />
-        <id>https://www.freedidi.com/20685.html</id>
-        <updated>Tue, 23 Sep 2025 22:29:11 +0800</updated>
-        <summary type="html"><![CDATA[Qwen, Wan2.2-Animate-14B, 角色动画, 模型部署, Dashscope API
-
-<br><br>总结:
-1. Qwen推出了Wan2.2-Animate-14B，这是一个统一的角色动画和替换模型，能够完整复制动作和表情。
-2. 模型权重和推理代码已经发布，可以在wan.video、ModelScope Studio或HuggingFace Space上试用。
-3. 可以在本地部署使用，需要Python 3.10和Git环境，克隆仓库、创建并激活Python环境，安装依赖项并运行。
-4. 还需要Dashscope API key，免费注册账号即可在线创建。
-5. 模型和在线试用链接已提供。
+1.  美团团队推出了 InfiniteTalk 技术，旨在解决虚拟人长视频生成过程中出现的质量退化问题。
+2.  该技术实现了无限时长的视频生成能力，为虚拟人应用带来突破。
+3.  InfiniteTalk 已在 GitHub 开源，并获得了广泛关注和好评。
+4.  该技术具有广阔的应用前景，例如电商直播、教育和影视制作等领域。
 ]]></summary>
     </entry>
     
