@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 26 Sep 2025 04:21:46 GMT</updated>
+    <updated>Fri, 26 Sep 2025 06:27:27 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html</id>
+        <updated>Fri, 26 Sep 2025 08:08:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Gemini, AI, 图像处理, 工具, 程序员
+
+<br><br>总结:
+1. 谷歌的Gemini 2.5 Flash Image模型在图像处理方面表现出色，可以进行人像处理（生成证件照、改变表情姿势）、建筑处理（生成3D模型）、包装处理和地图处理等。
+2. 一些科技动态包括：超音速厨师刀、粘土电路板制作、AI对IT行业就业的影响（AI岗位增长带动）。
+3. 分享了一些科技工具，包括GPU信息显示工具、网络流量监控工具、端口仪表盘、网络节点信息显示工具等，以及AI相关的语音伴侣、浏览器自动化插件等。
+4. 高级程序员使用AI加速项目并审查AI生成代码，而初级程序员更倾向于全盘接受AI输出。AI对高级程序员的帮助更大。
+5. 文中提到对AI的未来发展趋势的展望，以及AI泡沫的可能性，公司应该更激进地对待AI发展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[赶紧下载！5款 “限时免费” 软件！下到就是赚到，轻松白嫖数百刀！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20741.html" />
+        <id>https://www.freedidi.com/20741.html</id>
+        <updated>Thu, 25 Sep 2025 20:46:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 量子计算, 神经形态计算, 机器学习, 人工智能, 混合计算
+
+<br><br>总结:
+* 这篇文章探讨了量子计算与神经形态计算相结合的新兴领域。
+* 量子计算利用量子力学原理，有望解决经典计算机难以处理的复杂问题，特别是在优化和模拟方面。
+* 神经形态计算模仿人脑结构和功能，在模式识别和实时处理方面具有优势。
+* 将两者结合，形成量子神经形态混合计算，旨在利用各自的优势，提升机器学习和人工智能的能力。
+* 这种混合计算架构有望在药物发现、材料科学和金融建模等领域带来突破。
+]]></summary>
+    </entry>
     
 </feed>
