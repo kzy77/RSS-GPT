@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 26 Sep 2025 12:38:46 GMT</updated>
+    <updated>Fri, 26 Sep 2025 14:16:43 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html</id>
+        <updated>Fri, 26 Sep 2025 08:08:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Gemini, AI, 图像模型, 电路板, 程序员
+
+<br><br>总结:
+1.  谷歌的Gemini 2.5 Flash Image图像模型强大且免费，可用于人像、建筑、包装和地图处理。
+2.  超音速厨师刀通过超声波振动实现更锋利的切割。粘土电路板展示了电子产品的基础原理。AI领域的就业增长显著，但AI编程现阶段仍需高级程序员的监督和经验。
+3.  文章分享了SafeContentFrame、离线应用、Elasticsearch、Python脚本、TypeScript标注以及Safari浏览器的CSS属性等技术细节。
+4.  工具部分推荐了GPU信息显示、网络流量监控、端口仪表盘、Docker网络扫描、终端文件管理器、内网穿透脚本、任务管理软件、数据库备份工具以及CLI工具集等实用工具。
+5.  AI相关部分介绍了个人语音伴侣、浏览器自动化插件、Bing壁纸脚本、语音合成模型、智能编码助手和字幕编辑工具。文中还包括了荷兰中学物理实验、npm安全措施以及电动车原理和几何题的图片等资源。
+]]></summary>
+    </entry>
     
 </feed>
