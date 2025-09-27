@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 27 Sep 2025 04:21:02 GMT</updated>
+    <updated>Sat, 27 Sep 2025 06:24:30 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[Google （Nano banana）对比 Qwen-Image-Edit 模型效果如何？附本地部署教程！]]></title>
+        <link href="https://www.freedidi.com/20746.html" />
+        <id>https://www.freedidi.com/20746.html</id>
+        <updated>Sat, 27 Sep 2025 12:10:39 +0800</updated>
+        <summary type="html"><![CDATA[Google Gemini, Qwen-Image-Edit, 图片编辑, 免费使用, ComfyUI
+
+<br><br>总结:
+1. Google Gemini和Qwen-Image-Edit是目前效果最好的免费图片编辑模型，注册账号即可在线使用。
+2. Qwen-Image-Edit可进行人物换装等复杂编辑，效果惊艳且人物一致性好。
+3.  Google Gemini和Qwen在线使用有额度限制。
+4. 通过ComfyUI本地部署Qwen-Image-Edit模型可实现完全免费无限使用，最低支持8G显存。
+5. 提供了Qwen-Image-Edit的ComfyUI最新版、更小模型以及低显存量化版下载链接。
+]]></summary>
+    </entry>
     
 </feed>
