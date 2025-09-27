@@ -2,25 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 27 Sep 2025 16:20:31 GMT</updated>
+    <updated>Sat, 27 Sep 2025 18:23:10 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[你真的会配置Reality？科学上网翻车频发，其实节点搭建这些坑90%的人都踩过！Reality部署全流程拆解！]]></title>
-        <link href="https://v2rayssr.com/reality-2.html" />
-        <id>https://v2rayssr.com/reality-2.html</id>
-        <updated>Sat, 27 Sep 2025 15:58:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Reality, 协议, VPS, 部署, 测速
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大模型, 法律, 监管, 风险, 责任
 
 <br><br>总结:
-1.  Reality协议因其免域名、免证书、部署简单、成本低等优点而受到欢迎。
-2.  尽管具有优势，用户经常遇到测速为零、秒断、握手失败等问题。
-3.  本文章将探讨导致这些问题的原因。
-4.  演示中使用Debian12系统和搬瓦工 CN2 GIA ECOMMERCE的VPS。
-5.  需要RealiTLScanner目标网站扫描工具进行后续操作。
+1. 大模型在法律领域引发新的挑战，现有法律框架可能无法完全覆盖其带来的新型风险。
+2. 监管机构需要积极探索针对大模型的有效监管策略，平衡创新与风险控制。
+3. 明确大模型开发、部署和应用各环节的责任主体至关重要，以便在出现问题时追溯责任。
+4. 需要重视大模型可能造成的歧视、隐私泄露等风险，并采取措施加以防范。
+5. 建立健全的大模型伦理准则和安全标准，引导其健康发展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google （Nano banana）对比 Qwen-Image-Edit 模型效果如何？附本地部署教程！]]></title>
+        <link href="https://www.freedidi.com/20746.html" />
+        <id>https://www.freedidi.com/20746.html</id>
+        <updated>Sat, 27 Sep 2025 12:10:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Gemini, Qwen-Image-Edit, 图片编辑, 免费使用, ComfyUI
+
+<br><br>总结:
+1.  Google Gemini和Qwen-Image-Edit是目前效果最好的免费图片编辑模型，注册账号即可在线体验。
+2.  Qwen-Image-Edit可以实现人物服装替换等惊艳效果，人物一致性良好。
+3.  若想完全免费无限使用，可使用ComfyUI本地部署Qwen-Image-Edit，最低支持8G显存。
+4.  教程提供了Qwen-Image-Edit模型、低显存量化版和ComfyUI工作流的下载链接，方便用户本地部署使用。
 ]]></summary>
     </entry>
     
