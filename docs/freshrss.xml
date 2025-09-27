@@ -2,25 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 27 Sep 2025 12:34:01 GMT</updated>
+    <updated>Sat, 27 Sep 2025 14:14:34 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[你真的会配置Reality？科学上网翻车频发，其实节点搭建这些坑90%的人都踩过！Reality部署全流程拆解！]]></title>
-        <link href="https://v2rayssr.com/reality-2.html" />
-        <id>https://v2rayssr.com/reality-2.html</id>
-        <updated>Sat, 27 Sep 2025 15:58:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Reality, 协议, VPS, 部署, 问题
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大型语言模型, 医疗保健, 应用, 挑战, 未来
 
 <br><br>总结:
-1. Reality协议因其免域名、免证书、部署简单和成本低等特点而受到欢迎。
-2. 然而，用户经常遇到测速为零、连接中断或握手失败等问题。
-3. 视频演示将解释这些问题的真正原因。
-4. 准备工作包括一台重置好主流操作系统的VPS，推荐Debian12。
-5. 需要RealiTLScanner目标网站扫描工具。
+1. 大型语言模型(LLMs)在医疗保健领域展现出巨大潜力，可应用于诊断、治疗、药物研发等方面。
+2. LLMs可以通过分析医学文本、辅助临床决策、提供个性化医疗建议等方式改善医疗服务质量。
+3. 医疗保健领域应用LLMs面临数据隐私、模型可靠性、伦理道德等挑战。
+4. 未来LLMs需要更强的专业知识、更可靠的解释能力和更严格的安全保障才能在医疗保健领域发挥更大作用。
+5. 持续的研究和监管是确保LLMs在医疗保健领域安全有效应用的关键。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google （Nano banana）对比 Qwen-Image-Edit 模型效果如何？附本地部署教程！]]></title>
+        <link href="https://www.freedidi.com/20746.html" />
+        <id>https://www.freedidi.com/20746.html</id>
+        <updated>Sat, 27 Sep 2025 12:10:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Gemini, Qwen-Image-Edit, 图片编辑, 免费, 本地部署
+
+<br><br>总结:
+1. Google Gemini 和 Qwen-Image-Edit 模型在图片编辑方面表现出色，用户注册账号即可免费在线体验，例如让人物合影或者修改衣服颜色。
+2. 在线使用 Gemini 和 Qwen-Image-Edit 有免费额度和内容限制。
+3. 可以通过 ComfyUI 本地部署 Qwen-Image-Edit 模型，实现完全免费无限使用，最低支持 8G 显存。需要下载最新版 ComfyUI、Qwen-Image-Edit 模型以及工作流文件。
 ]]></summary>
     </entry>
     
