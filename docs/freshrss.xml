@@ -2,25 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 27 Sep 2025 20:18:17 GMT</updated>
+    <updated>Sat, 27 Sep 2025 22:15:36 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[你真的会配置Reality？科学上网翻车频发，其实节点搭建这些坑90%的人都踩过！Reality部署全流程拆解！]]></title>
-        <link href="https://v2rayssr.com/reality-2.html" />
-        <id>https://v2rayssr.com/reality-2.html</id>
-        <updated>Sat, 27 Sep 2025 15:58:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Reality, 协议, VPS, 部署, 测速
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI模型，安全漏洞，攻击，防御，供应链
 
 <br><br>总结:
-1. Reality协议因其免域名、免证书、部署简单、成本低等特性，被认为“低调、安全、难识别”。
-2. 然而，用户经常遇到测速为零、秒断或握手失败等问题。
-3. 视频演示将探讨Reality协议出现上述问题的原因。
-4. 准备工作包括一台重置好主流操作系统的VPS（推荐Debian12）和一个RealiTLScanner目标网站扫描工具。
-5. 文章旨在帮助用户理解并解决Reality协议使用中的常见问题。
+1. AI模型日益普及，但存在严重的安全漏洞，可能被恶意利用。
+2. 攻击者可以通过各种手段，例如数据中毒、对抗样本等，攻击AI模型，导致模型性能下降或产生错误输出。
+3. AI模型的供应链也存在安全风险，模型组件可能被篡改或植入恶意代码。
+4. 为了应对这些威胁，需要采取多种防御措施，包括加强数据安全、开发更安全的模型架构、以及对模型供应链进行严格的安全审计。
+5. 未来需要加强AI安全研究，制定更完善的安全标准和规范，以确保AI技术的健康发展。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google （Nano banana）对比 Qwen-Image-Edit 模型效果如何？附本地部署教程！]]></title>
+        <link href="https://www.freedidi.com/20746.html" />
+        <id>https://www.freedidi.com/20746.html</id>
+        <updated>Sat, 27 Sep 2025 12:10:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词： Gemini, Qwen-Image-Edit, 图片编辑, 免费, 本地部署
+
+<br><br>总结:
+1. Google Gemini和Qwen-Image-Edit是目前效果最佳的免费图片编辑AI模型，用户注册账号即可在线体验。
+2. Qwen-Image-Edit可以实现快速且高质量的图像编辑，例如更换人物服装颜色等，并保持人物角色一致性。
+3. 为了完全免费无限使用Qwen-Image-Edit，可以通过ComfyUI本地部署该模型，并提供不同大小的模型下载链接，最低支持8G显存。
+4. 同时提供ComfyUI的最新版本，以及Qwen-Image-Edit更小模型和低显存量化版下载链接。
+5. 提供工作流下载，方便用户直接拖入ComfyUI使用。
 ]]></summary>
     </entry>
     
