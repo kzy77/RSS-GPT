@@ -2,25 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 28 Sep 2025 04:21:18 GMT</updated>
+    <updated>Sun, 28 Sep 2025 06:25:37 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[你真的会配置Reality？科学上网翻车频发，其实节点搭建这些坑90%的人都踩过！Reality部署全流程拆解！]]></title>
-        <link href="https://v2rayssr.com/reality-2.html" />
-        <id>https://v2rayssr.com/reality-2.html</id>
-        <updated>Sat, 27 Sep 2025 15:58:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Reality, 协议, 部署, 安全, 问题
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大语言模型，可信度，幻觉，评估，基准
 
 <br><br>总结:
-1. Reality协议因其免域名、免证书、部署简单、成本低等优点，被认为“低调、安全、难识别”。
-2. 但用户经常遇到测速为零、秒断、握手失败等问题。
-3. 本文旨在解释这些问题的真正原因，并提供解决方案。
-4. 演示使用Debian12系统的VPS（如搬瓦工CN2 GIA ECOMMERCE），以及RealiTLScanner工具。
-5. 提供了RealiTLScanner工具的下载链接。
+1. 大语言模型（LLM）在各领域应用广泛，但其可信度面临挑战，主要问题是“幻觉”，即生成不真实或无意义的内容。
+2. 幻觉现象严重影响LLM在现实场景中的应用，例如医疗诊断、金融分析等，降低了用户信任度。
+3. 目前对于LLM幻觉的评估方法尚不完善，缺乏统一的评估标准和全面的基准。
+4. 需要构建更加完善的评估体系，包括开发新的评估指标、构建更全面的数据集，以更准确地评估和降低LLM的幻觉，提升其可靠性和应用价值。
 ]]></summary>
     </entry>
     
