@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 28 Sep 2025 08:20:47 GMT</updated>
+    <updated>Sun, 28 Sep 2025 10:16:59 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 量子计算, 容错, 量子纠错, 拓扑量子比特, 表面码
+
+<br><br>总结:
+1. 量子计算相较于经典计算具有巨大潜力，但量子比特对环境干扰非常敏感，导致计算错误。
+2. 容错量子计算是实现可靠量子计算的关键，需要使用量子纠错码来保护量子比特。
+3. 拓扑量子比特，特别是表面码，被认为是实现容错量子计算的有希望的候选者。表面码通过将量子信息编码在拓扑结构中，从而提高其抗干扰能力。
+4. 文章探讨了表面码在容错量子计算中的应用，并强调了其在高错误率环境下的优势。
+5. 进一步研究和开发表面码及其相关技术对于推动实用量子计算机的实现至关重要。
+]]></summary>
+    </entry>
     
 </feed>
