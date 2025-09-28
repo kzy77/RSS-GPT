@@ -2,25 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 28 Sep 2025 01:37:10 GMT</updated>
+    <updated>Sun, 28 Sep 2025 03:07:37 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[你真的会配置Reality？科学上网翻车频发，其实节点搭建这些坑90%的人都踩过！Reality部署全流程拆解！]]></title>
-        <link href="https://v2rayssr.com/reality-2.html" />
-        <id>https://v2rayssr.com/reality-2.html</id>
-        <updated>Sat, 27 Sep 2025 15:58:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词： Reality, 协议, 安全, 测速, 部署
+        <title><![CDATA[AI 图片神器！谷歌 Nano Banana 对比 Qwen-Image-Edit 模型如何？ 附本地部署教程！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/20762.html" />
+        <id>https://www.freedidi.com/20762.html</id>
+        <updated>Sat, 27 Sep 2025 20:43:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大型语言模型, 可靠性, 对齐, 偏见, 危害
 
 <br><br>总结:
-1. Reality协议因其免域名、免证书、部署简单和低成本的特性而备受关注，被认为“低调、安全、难识别”。
-2. 尽管如此，用户经常遇到测速为零、连接秒断或握手失败的问题。
-3. 导致这些问题的原因需要进一步分析和了解。
-4. 视频演示提供了一个使用Reality协议的教程。
-5. 教程准备工作包括一台主流操作系统（推荐Debian12）的VPS以及RealiTLScanner目标网站扫描工具。
+1. 大型语言模型（LLMs）的可靠性是一个重要问题，因为它们可能会产生不准确、不一致或误导性的信息。
+2. LLMs的对齐（Alignment）是指确保模型的行为符合人类的价值观和目标，这是防止模型产生有害输出的关键。
+3. LLMs中可能存在偏见，这些偏见会影响模型的输出，导致歧视或其他负面后果。
+4. LLMs可能带来的危害包括传播虚假信息、操纵舆论、以及被用于恶意目的。
+5. 为了解决上述问题，需要开发更可靠、对齐、无偏见，并且安全的大型语言模型。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google （Nano banana）对比 Qwen-Image-Edit 模型效果如何？附本地部署教程！]]></title>
+        <link href="https://www.freedidi.com/20746.html" />
+        <id>https://www.freedidi.com/20746.html</id>
+        <updated>Sat, 27 Sep 2025 12:10:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Google Gemini, Qwen-Image-Edit, 图片编辑, 免费使用, 本地部署
+
+<br><br>总结:
+1. Google Gemini 和 Qwen-Image-Edit 是目前最佳的免费图片编辑模型，注册账号即可在线体验，效果媲美真人拍摄。
+2. Qwen-Image-Edit 能够快速修改图片内容，例如改变人物服装颜色，且人物一致性表现出色。
+3. 可以通过 ComfyUI 在本地部署 Qwen-Image-Edit 模型，实现完全免费且无限次使用，最低支持 8G 显存。
+4. 文中提供了 Qwen-Image-Edit 更小模型和低显存量化版下载链接，以及 ComfyUI 工作流下载链接，方便用户快速部署使用。
 ]]></summary>
     </entry>
     
