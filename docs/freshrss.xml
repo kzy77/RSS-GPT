@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Mon, 29 Sep 2025 04:23:30 GMT</updated>
+    <updated>Mon, 29 Sep 2025 06:29:46 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[Cloudflare Snippets 搭建永久免费VPN节点！无限流量、速度极快！]]></title>
+        <link href="https://www.freedidi.com/20770.html" />
+        <id>https://www.freedidi.com/20770.html</id>
+        <updated>Mon, 29 Sep 2025 12:04:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词： Cloudflare, Snippets, 免费节点, 无限流量, V2ray
+
+<br><br>总结:
+1.  可以通过Cloudflare Snippets搭建永久免费的节点，实现无限流量，速度快，可秒开4K/8K视频。
+2.  首先需要注册免费的Cloudflare账号并申请一个免费域名，注意某些免费域名可能无法免费开通Snippets。
+3.  然后在Cloudflare域名设置中找到 "规则 - Snippets" 开通，创建代码并自定义UUID。
+4.  最后将配置信息导入V2ray客户端即可使用。
+]]></summary>
+    </entry>
     
 </feed>
