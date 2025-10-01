@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 01 Oct 2025 08:25:13 GMT</updated>
+    <updated>Wed, 01 Oct 2025 10:19:40 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[DeepSeek V4 曝光：下月发布，支持 100M 超长上下文，由国产芯片训练]]></title>
+        <link href="https://www.freedidi.com/20792.html" />
+        <id>https://www.freedidi.com/20792.html</id>
+        <updated>Tue, 30 Sep 2025 09:39:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: DeepSeek, v3.2-Exp, DSA, v4, 昇腾
+
+<br><br>总结:
+1. DeepSeek发布v3.2-Exp模型，主要用于验证DeepSeek Sparse Attention (DSA) 等新技术，提升长文本训练和推理效率。
+2. 传闻DeepSeek V4预计10月发布，将拥有100M上下文处理能力，增强数学编程能力，并采用GRPO驱动推理和NSA/SPCT等新技术。
+3. DeepSeek V4的发布可能与国产算力芯片的全面适配有关，下一代模型将支持FP8算法，并深度适配国产芯片，特别是华为昇腾系列。
+4. 华为昇腾950PR芯片将于明年Q1上市，支持FP4/FP8算法，为DeepSeek V4提供了最佳的登场时机。
+5. DeepSeek v3.2已兼容CUDA和华为CANN，预示着v4也将支持国产AI芯片，并可能推出更多中国产芯片适配版本。
+]]></summary>
+    </entry>
     
 </feed>
