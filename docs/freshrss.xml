@@ -2,27 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Thu, 02 Oct 2025 16:22:29 GMT</updated>
+    <updated>Thu, 02 Oct 2025 18:26:24 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[🚀 CF Snippets 节点部署手册：零门槛快速上手、付费域名全功能、💸 免费 Cloudns域名 双向解析详解]]></title>
-        <link href="https://blog.cmliussss.com/p/BPSUB/" />
-        <id>https://blog.cmliussss.com/p/BPSUB/</id>
-        <updated>Mon, 22 Sep 2025 17:13:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Cloudflare Snippets, 部署方法, 免费域名, 付费域名, 订阅生成
-
-<br><br>总结:
-1.  文章介绍了三种部署 Cloudflare Snippets 节点的方法：CF Pages、付费域名 CF Snippets 和 Cloudns 域名 CF Snippets。
-2.  CF Pages 部署零门槛，使用免费域名，但有每日请求限额，适合新手快速体验。
-3.  付费域名 CF Snippets 功能最全，支持自定义域名，但需使用已开启 Snippets 功能的付费域名。
-4.  Cloudns 域名 CF Snippets 免费获取域名，同样支持完整功能和自定义域名，但配置双向解析步骤繁琐。
-5.  文章还提供了 Snippets 功能的检测方法，包括自动检测脚本和手动检测。
-6.  三种部署方法都需通过订阅生成器获取节点订阅链接。
-]]></summary>
-    </entry>
     
 </feed>
