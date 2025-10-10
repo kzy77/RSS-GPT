@@ -2,29 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 10 Oct 2025 01:22:48 GMT</updated>
+    <updated>Fri, 10 Oct 2025 02:59:52 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[赶紧下载！5款强力杀毒软件，限时免费！附详细安装与激活教程 （2025） | 零度解说]]></title>
-        <link href="https://www.freedidi.com/20932.html" />
-        <id>https://www.freedidi.com/20932.html</id>
-        <updated>Thu, 09 Oct 2025 20:27:57 +0800</updated>
-        <summary type="html"><![CDATA[卡巴斯基, 小红伞, 比特梵德, 安全卫士, 火绒
+        <title><![CDATA[科技爱好者周刊（第 368 期）：不要这样管理软件团队]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html</id>
+        <updated>Fri, 10 Oct 2025 08:08:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 领导力, 太阳能, 云盘, ChatGPT, 意大利面
 
 <br><br>总结:
-1、卡巴斯基：一款功能强大且全面的杀毒软件，提供多层安全防护，但资源占用较高，价格也相对较贵。
+1.  **管理团队关键在于领导力而非头衔**，领导者应视员工为人，建立信任，创造高效环境，并抓住每次互动机会引领团队。低级管理包括追责惩罚、囤积信息、政策武器化、快速解雇、回避对话、奖励服从。
+2.  **垂直太阳能板的优势**，发电时间长，安装简单，不必经常清扫，但发电功率低于斜放太阳能板。
+3.  **韩国政府云盘数据中心被烧毁事件**，暴露了政府云盘未异地备份的问题，证明政府维护系统成本高昂且问题多，不如外包。
+4.  **ChatGPT 推出 Checkout 功能**，接入商户和 Stripe，用户可在聊天界面完成商品浏览和下单付款，标志AI进军电商。
+5.  **程序员研究意大利面口感**，通过精确测量和品尝，得出水煮10-12分钟口味最佳的结论，并用碘酒染色观察淀粉转化。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[火绒安全软件（HuoRong）个人版，广告弹窗拦截、病毒查杀、主动防御！]]></title>
+        <link href="https://www.freedidi.com/20921.html" />
+        <id>https://www.freedidi.com/20921.html</id>
+        <updated>Thu, 09 Oct 2025 12:45:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词：火绒安全、轻量级、病毒查杀、弹窗拦截、无广告
 
-2、小红伞：以其高效的病毒检测率和轻量级著称，免费版本足以提供基本的安全保护，但高级功能需要付费。
+<br><br>总结:
+1. 火绒安全是一款国内轻量级安全防护工具，以干净、安静、高效著称，系统占用低。
+2. 专注于核心防护，包括病毒查杀、主动防御和行为拦截，并提供弹窗拦截、启动项管理等实用工具。
+3. 对国内流氓软件和广告插件防御效果好，界面简洁无广告。
+4. 国际知名度较低，缺乏权威评测数据，应对海外复杂威胁可能稍逊。
+5. 功能偏专业，缺少家长控制等功能，适合追求轻量、干净体验的中高级国内用户。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Microsoft Defender（微软安全卫士）永久免费且好用！]]></title>
+        <link href="https://www.freedidi.com/20918.html" />
+        <id>https://www.freedidi.com/20918.html</id>
+        <updated>Thu, 09 Oct 2025 12:40:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词： Microsoft Defender， Windows， 防病毒， 免费， 基础防护
 
-3、比特梵德：拥有先进的机器学习算法和威胁情报网络，能有效防御新型病毒，但界面可能对新手不太友好。
+<br><br>总结:
+1. Microsoft Defender 是 Windows 10/11 自带的免费防病毒软件，无需安装配置，开机即提供实时保护。
+2. 经过 Microsoft 不断强化，Defender 能有效抵御常见恶意软件和网络攻击，且资源占用低。
+3. 然而，其综合防护能力略逊于 Kaspersky 或 Bitdefender，尤其在应对零日攻击和高级威胁时。
+4. 功能相对基础，缺乏浏览器扩展、安全沙盒等进阶功能。
+5. 适合不想安装第三方杀毒软件、对基础防护需求较低的 Windows 用户。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Bitdefender Antivirus Free（比特梵德）杀毒软件！免费使用]]></title>
+        <link href="https://www.freedidi.com/20916.html" />
+        <id>https://www.freedidi.com/20916.html</id>
+        <updated>Thu, 09 Oct 2025 12:36:31 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Bitdefender, 免费杀毒, 恶意软件检测, 零日威胁, 系统资源
 
-4、安全卫士：作为一款国产安全软件，提供全面的系统优化和安全功能，免费使用，但在专业杀毒能力方面可能不如国外品牌。
+<br><br>总结:
+1. Bitdefender Antivirus Free 以卓越的恶意软件检测和零日威胁防护著称，在独立评测中表现出色。
+2. 软件运行安静，占用系统资源极少，适合配置较低的设备。
+3. 界面简洁，操作简单，适合“装好即用”的用户。
+4. 免费版仅提供核心的实时防护与扫描功能，缺少高级特性。
+5. 自定义选项较少，不适合喜欢手动配置的用户。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Avira Free Antivirus（小红伞）杀毒软件、激活入口]]></title>
+        <link href="https://www.freedidi.com/20912.html" />
+        <id>https://www.freedidi.com/20912.html</id>
+        <updated>Thu, 09 Oct 2025 12:29:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小红伞, 免费, 轻量, 云技术, 基础防护
 
-5、火绒：以其简洁的界面和强大的自定义功能受到用户欢迎，能有效拦截恶意软件和广告，资源占用较低。
+<br><br>总结:
+小红伞(Avira Free Antivirus)是一款轻量级的免费杀毒软件，以低资源占用和流畅体验为特点。它使用云技术扫描引擎快速识别新型威胁，并提供基础的浏览器安全扩展，防御钓鱼网站和恶意下载。
+
+免费版功能基础，缺少防火墙等高级功能，界面存在广告。虽然防护稳健，但在应对复杂威胁方面相对较弱。
+
+适合电脑配置较低、注重流畅性和基础防护的用户，免费版对大部分用户已经足够使用。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Kaspersky Free Antivirus（卡巴斯基）免费激活密钥！官方提供]]></title>
+        <link href="https://www.freedidi.com/20906.html" />
+        <id>https://www.freedidi.com/20906.html</id>
+        <updated>Thu, 09 Oct 2025 12:21:32 +0800</updated>
+        <summary type="html"><![CDATA[关键词：卡巴斯基, 免费版, 恶意软件, 防护, 性能
+
+<br><br>总结:
+1. 卡巴斯基以强大的恶意软件检测能力和全面的防护体系著称，免费版也继承了核心防护引擎，有效抵御各种威胁，并在独立测试中表现出色，误报率低。
+2. 免费版界面简洁易用，适合日常用户，提供基础的实时防护功能。
+3. 卡巴斯基方案采用人工智能技术检测和阻止各类在线威胁，并提供隐私保护和安全支付等功能。
+4. 卡巴斯基注重性能优化，资源占用相对合理，用户可自定义安装组件，并安排扫描时间。
+5. 适用人群为注重安全但预算有限的用户，并提供了官方下载地址，通用激活序列号和卡巴斯基专业卸载工具。
 ]]></summary>
     </entry>
     
