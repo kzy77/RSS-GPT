@@ -2,90 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 10 Oct 2025 16:22:54 GMT</updated>
+    <updated>Fri, 10 Oct 2025 18:26:30 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[男生必备的10款下载工具！IDM 极速多线程，免费、开源、无广告， 支持 HTTP FTP B/T等主流协议！| 零度解说]]></title>
-        <link href="https://www.freedidi.com/20976.html" />
-        <id>https://www.freedidi.com/20976.html</id>
-        <updated>Fri, 10 Oct 2025 19:47:43 +0800</updated>
-        <summary type="html"><![CDATA[IDM, NDM, FDM, Xdown, qBittorrent
+        <title><![CDATA[Free Download Manager（FDM）：功能强大的免费多线程下载神器]]></title>
+        <link href="https://www.freedidi.com/20991.html" />
+        <id>https://www.freedidi.com/20991.html</id>
+        <updated>Fri, 10 Oct 2025 20:40:07 +0800</updated>
+        <summary type="html"><![CDATA[免费下载管理器, FDM, 多线程, 跨平台, BT下载
 
 <br><br>总结:
-1. 推荐了几款下载工具，包括老牌的IDM，以及声称媲美IDM的NDM。
-2. 提到了Free Download Manager (FDM)，这是一个免费的下载管理器。
-3. 轻量级下载器Xdown也被列入推荐。
-4. qBittorrent主要用于BT下载。
-5. 还有Motrix、uGet和Transmission等下载器。
-6. 最后提到了Persepolis，一个基于Aria2的开源多线程下载工具。这些工具各有特点，用户可以根据自身需求选择。
+- Free Download Manager (FDM) 是一款免费开源、跨平台的下载管理器。
+- FDM支持多线程加速下载，支持BT种子和磁力链接，以及视频下载。
+- FDM支持HTTP/HTTPS/FTP/BT等协议，并且与主流浏览器兼容。
+- FDM具有流量控制、下载管理、断点续传等功能，可显著提升下载速度。
+- FDM可在Windows、macOS、Linux和Android上运行，实现全平台同步体验，并支持多种语言。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[uGet 下载器：轻量高效的开源多线程下载神器]]></title>
-        <link href="https://www.freedidi.com/20971.html" />
-        <id>https://www.freedidi.com/20971.html</id>
-        <updated>Fri, 10 Oct 2025 19:39:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词: uGet, 下载管理器, 开源, Aria2, 跨平台
+        <title><![CDATA[Xdown 下载器：轻量、高性能的国产全能下载工具]]></title>
+        <link href="https://www.freedidi.com/20988.html" />
+        <id>https://www.freedidi.com/20988.html</id>
+        <updated>Fri, 10 Oct 2025 20:35:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Xdown, 下载管理器, 多线程, BT, 无广告
 
 <br><br>总结:
-* uGet 是一款开源、跨平台的下载管理器，支持 Windows、Linux、BSD 和 Android 系统。
-* uGet 以轻量、高速和功能丰富为特点，采用 GTK+ 图形界面，用户体验良好。
-* 核心功能包括多线程分段下载、批量任务管理、浏览器集成、剪贴板监控以及支持多种协议。
-* uGet 可以与 Aria2 集成，从而实现更强大的 BT、磁力、HTTP/FTP 下载能力。
-* 作为一款无广告、完全免费的下载工具，uGet 尤其适合 Linux 用户，并且具有高度可扩展性，值得尝试。
+Xdown 是一款国产免费下载管理器，<br><br>
+它支持多线程高速下载，充分利用带宽，提升下载速度；<br><br>
+兼容 HTTP、HTTPS、FTP、BT、Magnet、Aria2 等多种协议，内置 BT 引擎，可下载种子与磁力资源；<br><br>
+它无广告，界面简洁，提供纯净的下载体验；<br><br>
+相比 IDM，Xdown 免费且支持 BT 下载，是值得推荐的全能下载器。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Transmission 下载器：轻量高效的开源 BT 种子下载工具！]]></title>
-        <link href="https://www.freedidi.com/20965.html" />
-        <id>https://www.freedidi.com/20965.html</id>
-        <updated>Fri, 10 Oct 2025 19:31:50 +0800</updated>
-        <summary type="html"><![CDATA[关键词：开源, 轻量, 跨平台, 无广告, BT下载
+        <title><![CDATA[qBittorrent：开源、无广告的专业级 BT 下载神器]]></title>
+        <link href="https://www.freedidi.com/20984.html" />
+        <id>https://www.freedidi.com/20984.html</id>
+        <updated>Fri, 10 Oct 2025 20:31:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词: qBittorrent, BT下载, 开源, 磁力链接, Web UI
 
 <br><br>总结:
-1. Transmission 是一款开源免费的 BT 种子下载器，以轻量、稳定和无广告著称。
-2. 它支持 Windows、macOS、Linux 等多种平台，甚至可用于 NAS 和路由器系统。
-3. Transmission 界面极简，资源占用低，专注于稳定快速的下载与分享文件。
-4. 它支持磁力链接、远程 Web 控制等功能，适用于个人电脑和服务器等多种场景。
-5. 相比 qBittorrent，Transmission 更轻量简洁，适合追求低资源占用的用户。
+1. qBittorrent是一款免费开源的BT下载器，支持Windows、macOS、Linux等多平台。
+2. 它支持BT和磁力链接下载，拥有多线程高速下载能力，并内置搜索引擎。
+3. qBittorrent提供RSS自动下载、任务管理、Web UI控制台等功能，满足高级用户需求。
+4. 相比Transmission和Motrix，qBittorrent功能最全面，适合追求下载效率的人群。
+5. 该软件无广告、无捆绑，注重用户隐私保护，提供IP过滤和加密传输等功能。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Persepolis 下载管理器：基于 Aria2 的开源多线程下载神器]]></title>
-        <link href="https://www.freedidi.com/20964.html" />
-        <id>https://www.freedidi.com/20964.html</id>
-        <updated>Fri, 10 Oct 2025 19:28:09 +0800</updated>
-        <summary type="html"><![CDATA[Persepolis, 下载管理器, Aria2, 图形界面, 开源
+        <title><![CDATA[Motrix 下载器：优雅强大的全能型开源下载工具]]></title>
+        <link href="https://www.freedidi.com/20980.html" />
+        <id>https://www.freedidi.com/20980.html</id>
+        <updated>Fri, 10 Oct 2025 20:25:24 +0800</updated>
+        <summary type="html"><![CDATA[Motrix, 下载管理器, Aria2, 跨平台, 开源
 
 <br><br>总结:
-- Persepolis (PDM) 是一款基于 Aria2 的开源下载管理器，提供图形界面。
-- 它解决了 Aria2 命令行操作复杂的问题，让普通用户也能享受高速下载。
-- 主要功能包括多线程分段下载，任务调度与队列管理，视频下载（YouTube等），支持BT/磁力链接，以及浏览器集成（Chrome/Firefox）。
-- PDM 轻量、高效、跨平台，适合不同用户群体使用。
-- 用户可以根据自己的操作系统选择合适的版本进行下载。
+* Motrix 是一款开源、跨平台的下载管理器，支持 HTTP、FTP、BT、磁力链等多种协议。
+* 它基于 Aria2 内核，采用多线程加速下载，提升下载速度。
+* Motrix 拥有简洁现代的用户界面，操作直观，并支持任务分类与管理。
+* 它还具备 Web 控制功能和浏览器集成，方便远程管理和一键捕获下载链接。
+* Motrix 免费、开源、无广告，适合需要高速下载、跨平台使用、追求简洁界面的用户。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[可验证过程奖励在提升大模型推理效率中的探索与实践]]></title>
-        <link href="https://tech.meituan.com/2025/10/10/vsrm.html" />
-        <id>https://tech.meituan.com/2025/10/10/vsrm.html</id>
-        <updated>Fri, 10 Oct 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：VSRM, 大模型，推理，奖励机制，效率
+        <title><![CDATA[IDM 下载神器！6.42 免安装版，去除烦人的升级弹窗、提醒！]]></title>
+        <link href="https://www.freedidi.com/20938.html" />
+        <id>https://www.freedidi.com/20938.html</id>
+        <updated>Fri, 10 Oct 2025 13:50:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词：IDM, 下载加速, 浏览器插件, 多线程, 视频嗅探
 
 <br><br>总结:
-1. 美团算法团队提出了可验证过程奖励机制(VSRM)，用于解决大模型推理中的冗余回复和过度思考问题。
-2. VSRM通过奖励有效推理步骤，缩短输出长度并提升推理效率。
-3. VSRM基于步骤级正确率增益评估，抑制无效步骤。
-4. VSRM兼容主流强化学习算法。
-5. VSRM旨在帮助大模型更高效、可靠地完成复杂推理任务。
+1. IDM 是一款强大的多线程下载工具，能显著提升下载速度，优于浏览器自带下载器。
+2. 安装 IDM 后需安装官方浏览器插件，解决插件版本不一致问题需手动安装。部分 Chrome 浏览器版本安装 IDM 插件可能存在兼容性问题，可以考虑使用 Edge 浏览器。
+3. Chrome 浏览器可能需要通过修改快捷方式参数或开启特定 flag 来兼容旧版本的 IDM 插件。
+4. IDM 可自动接管主流浏览器下载任务，提供视频嗅探功能，一键下载视频资源。
+5. IDM 支持断点续传、定时下载、下载分类管理和批量下载，提供稳定高效的下载体验。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[科技爱好者周刊（第 368 期）：不要这样管理软件团队]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html</id>
+        <updated>Fri, 10 Oct 2025 08:08:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 领导力, AI, 太阳能, 云盘, 邮件列表
+
+<br><br>总结:
+1.  **管理与领导力:** 文章强调软件团队管理应注重领导力而非单纯的管理，真正的领导者应关注员工发展、建立信任、积极沟通并鼓励挑战，创造最佳工作环境。
+2.  **太阳能板:** 提出垂直放置太阳能板的优点，包括发电时间更长、安装简便以及易于维护。
+3.  **云盘安全:** 韩国政府云盘数据中心被烧毁事件，凸显了政府数据异地备份的重要性，建议考虑外包或外部采购方案。
+4.  **AI 应用:** ChatGPT 推出支付功能，表明 AI 网站开始进军电商领域。此外，还介绍了Copilot 命令行版本等AI 相关工具和应用。
+5.  **邮件列表:** 邮件列表作为一种古老的讨论工具，因其便捷、安全、异步等特性，至今仍具有生命力。
 ]]></summary>
     </entry>
     
