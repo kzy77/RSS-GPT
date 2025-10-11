@@ -2,74 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 11 Oct 2025 06:24:42 GMT</updated>
+    <updated>Sat, 11 Oct 2025 08:21:23 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Free Download Manager（FDM）：功能强大的免费多线程下载神器]]></title>
-        <link href="https://www.freedidi.com/20991.html" />
-        <id>https://www.freedidi.com/20991.html</id>
-        <updated>Fri, 10 Oct 2025 20:40:07 +0800</updated>
-        <summary type="html"><![CDATA[下载管理器, 免费开源, 跨平台, 多线程加速, BT支持
+        <title><![CDATA[男生必备的10款下载工具！IDM 极速多线程，免费、开源、无广告， 支持 HTTP FTP B/T等主流协议！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/20976.html" />
+        <id>https://www.freedidi.com/20976.html</id>
+        <updated>Fri, 10 Oct 2025 19:47:43 +0800</updated>
+        <summary type="html"><![CDATA[IDM, NDM, FDM, Xdown, qBittorrent
 
 <br><br>总结:
-1. Free Download Manager (FDM) 是一款免费开源的跨平台下载管理器，被认为是IDM的优秀替代品。
-2. FDM支持多线程加速，BT种子，磁力链接和视频下载，可提升下载速度高达10倍。
-3. FDM支持HTTP/HTTPS/FTP/BT协议，允许调整流量使用、组织下载、控制文件优先级、恢复损坏的下载。
-4. FDM与Chrome、Firefox、Edge和IE等主流浏览器兼容。
-5. FDM提供Windows、macOS、Linux和Android版本，实现了全平台同步体验和远程管理。
+1. IDM是知名下载神器。
+2. NDM是媲美IDM的超线程下载器。
+3. Free Download Manager (FDM) 也是一个选择。
+4. Xdown是一个轻量级下载器。
+5. qBittorrent 主要用于BT下载。
+6. Motrix, uGet, Transmission和Persepolis 都是下载器选择，其中Persepolis 基于 Aria2，是一个开源多线程下载工具。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Xdown 下载器：轻量、高性能的国产全能下载工具]]></title>
-        <link href="https://www.freedidi.com/20988.html" />
-        <id>https://www.freedidi.com/20988.html</id>
-        <updated>Fri, 10 Oct 2025 20:35:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Xdown, 下载管理器, 多线程, BT种子, 无广告
+        <title><![CDATA[uGet 下载器：轻量高效的开源多线程下载神器]]></title>
+        <link href="https://www.freedidi.com/20971.html" />
+        <id>https://www.freedidi.com/20971.html</id>
+        <updated>Fri, 10 Oct 2025 19:39:58 +0800</updated>
+        <summary type="html"><![CDATA[关键词：uGet, 下载管理器, 开源, Aria2, 跨平台
 
 <br><br>总结:
-1. Xdown 是一款国产免费下载管理器，界面简洁，无广告。
-2. 它支持多线程加速，显著提升下载速度，并兼容 HTTP, HTTPS, FTP, BT, Magnet, Aria2 等多种协议。
-3. 内置 BT 引擎，支持种子和磁力链接下载。
-4. 具备智能任务管理功能，如任务分类、限速、断点续传和自动重试。
-5. 支持批量下载，并提供浏览器插件方便捕获下载链接。
-6. 性能接近 IDM，但无付费限制，支持 Windows, macOS, Linux 平台。
+1. uGet是一款跨平台的开源下载管理器，支持Windows、Linux、BSD和Android等操作系统，界面使用GTK+。
+2. uGet以轻量、高速和功能丰富为特点，提供了多线程分段下载、批量任务管理、浏览器集成、剪贴板监控等功能。
+3. uGet能够与Aria2集成，从而支持BT、磁力链接、HTTP/FTP等多种协议的下载。
+4. uGet具有高度的自定义性，允许用户调整主题和外观，并且对Linux用户特别友好。
+5. uGet是一款无广告、完全免费的下载工具，兼顾了轻量、高速和可扩展性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[qBittorrent：开源、无广告的专业级 BT 下载神器]]></title>
-        <link href="https://www.freedidi.com/20984.html" />
-        <id>https://www.freedidi.com/20984.html</id>
-        <updated>Fri, 10 Oct 2025 20:31:59 +0800</updated>
-        <summary type="html"><![CDATA[qBittorrent, 开源, BT下载, 磁力链接, Web UI
+        <title><![CDATA[Transmission 下载器：轻量高效的开源 BT 种子下载工具！]]></title>
+        <link href="https://www.freedidi.com/20965.html" />
+        <id>https://www.freedidi.com/20965.html</id>
+        <updated>Fri, 10 Oct 2025 19:31:50 +0800</updated>
+        <summary type="html"><![CDATA[开源, 轻量, 跨平台, 稳定, BT下载
 
 <br><br>总结:
-1. qBittorrent是一款免费开源的BT下载器，支持Windows、macOS、Linux等平台，是uTorrent的优秀替代品。
-2.  它支持BT和磁力链接下载，拥有多线程高速下载能力，并内置搜索引擎用于搜索种子文件。
-3.  qBittorrent具备RSS自动下载功能，以及完善的任务管理功能，包括限速、队列管理和标签分类等。
-4.  它提供Web UI控制台，可以远程访问和控制下载任务，并且支持IP过滤和加密传输以保护用户隐私。
-5.  相较于Transmission和Motrix，qBittorrent功能最全面，适合高级用户或追求下载效率的人群，是免费、安全且功能强大的BT下载器的理想选择。
+1. Transmission 是一款开源免费、轻量级的 BT 种子下载器，无广告、无追踪。
+2. 它跨平台支持 Windows、macOS、Linux 等多种系统，适合各种设备，包括 NAS 和路由器。
+3. 主要特点包括极低的资源占用、纯净的界面和稳定的下载性能，支持磁力链接和 Web 远程控制。
+4. Transmission 非常适合个人电脑和服务器使用，可以作为 24 小时自动下载中心。
+5. 与 qBittorrent 相比，Transmission 更简洁，适合追求稳定和低资源占用的用户。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Motrix 下载器：优雅强大的全能型开源下载工具]]></title>
-        <link href="https://www.freedidi.com/20980.html" />
-        <id>https://www.freedidi.com/20980.html</id>
-        <updated>Fri, 10 Oct 2025 20:25:24 +0800</updated>
-        <summary type="html"><![CDATA[Motrix, 下载管理器, Aria2, 开源, 跨平台
+        <title><![CDATA[Persepolis 下载管理器：基于 Aria2 的开源多线程下载神器]]></title>
+        <link href="https://www.freedidi.com/20964.html" />
+        <id>https://www.freedidi.com/20964.html</id>
+        <updated>Fri, 10 Oct 2025 19:28:09 +0800</updated>
+        <summary type="html"><![CDATA[Persepolis, Aria2, 下载管理器, 图形界面, 开源
 
 <br><br>总结:
-* Motrix是一款开源、跨平台的下载管理器，基于Electron + Vue.js开发。
-* 它支持HTTP、FTP、BT、磁力链等多种协议，并采用Aria2内核实现多线程加速下载。
-* Motrix拥有简洁现代的用户界面，支持任务分类管理、断点续传和下载限速。
-* 它内置Web控制功能，并可集成浏览器插件，方便远程管理和一键捕获下载链接。
-* Motrix免费、无广告，适合需要高速下载、BT/磁力链下载、跨平台使用以及追求简洁体验的用户。
+1. Persepolis Download Manager (PDM) 是一款基于 Aria2 的免费开源图形界面下载管理器。
+2. 它旨在解决 Aria2 命令行操作复杂的问题，提供简易高速的下载体验。
+3. PDM 支持多线程分段下载，任务调度与下载队列，并能下载 YouTube 等网站的视频。
+4. 它还支持 BT 与磁力链接，并可与 Chrome 和 Firefox 等浏览器集成。
+5. PDM 具有轻量高效和跨平台的特点，适用于 GNU/Linux、BSD、macOS 等系统。
 ]]></summary>
     </entry>
     
