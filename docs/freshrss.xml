@@ -2,74 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 11 Oct 2025 10:16:57 GMT</updated>
+    <updated>Sat, 11 Oct 2025 12:33:49 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[Free Download Manager（FDM）：功能强大的免费多线程下载神器]]></title>
-        <link href="https://www.freedidi.com/20991.html" />
-        <id>https://www.freedidi.com/20991.html</id>
-        <updated>Fri, 10 Oct 2025 20:40:07 +0800</updated>
-        <summary type="html"><![CDATA[FDM, 下载管理器, 跨平台, 免费, 多线程
-
-<br><br>总结:
-1. Free Download Manager (FDM) 是一款跨平台的免费开源下载管理器，支持Windows、macOS、Linux和Android。
-2. FDM 拥有多线程加速功能，可提升下载速度达10倍，并支持HTTP/HTTPS/FTP/BT下载，包括BT种子和磁力链接。
-3. FDM 与主流浏览器兼容，允许流量控制、下载管理、文件优先级设置，并能恢复损坏的下载。
-4. FDM 提供桌面端和移动端的任务同步与远程管理功能，打造全平台同步体验。
-5. FDM 具有高性能、多线程、BT支持和跨平台兼容等特点，是IDM的优秀免费替代品，支持多种语言，包括中文。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Xdown 下载器：轻量、高性能的国产全能下载工具]]></title>
-        <link href="https://www.freedidi.com/20988.html" />
-        <id>https://www.freedidi.com/20988.html</id>
-        <updated>Fri, 10 Oct 2025 20:35:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Xdown, 下载管理器, 多线程, BT/磁力, 无广告
-
-<br><br>总结:
-*   Xdown是一款国产下载管理器，以多线程加速为特点，提升下载速度。
-*   它支持多种协议，包括HTTP/HTTPS/FTP/BT/Magnet/Aria2，能下载种子和磁力链接。
-*   Xdown提供智能任务管理，支持任务分类、限速、断点续传和自动重试。
-*   它具有批量下载功能，并能通过浏览器插件一键捕获下载链接。
-*   Xdown无广告无会员限制，界面简洁，性能接近IDM，是免费的全能下载工具。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[qBittorrent：开源、无广告的专业级 BT 下载神器]]></title>
-        <link href="https://www.freedidi.com/20984.html" />
-        <id>https://www.freedidi.com/20984.html</id>
-        <updated>Fri, 10 Oct 2025 20:31:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: qBittorrent, 开源, BT下载, 磁力链接, Web UI
-
-<br><br>总结:
-1. qBittorrent 是一款免费开源的BT下载器，无广告、无捆绑，安全可靠。
-2. 支持BT和磁力链接下载，具有多线程高速下载的优化。
-3. 内置搜索引擎，可直接搜索种子文件，并支持RSS自动下载。
-4. 拥有完善的任务管理功能，如限速、队列管理等，可通过Web UI远程控制。
-5. 相较于其他软件，qBittorrent功能最全面，适合高级用户，并支持多种平台，如Windows、macOS、Linux等。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Motrix 下载器：优雅强大的全能型开源下载工具]]></title>
-        <link href="https://www.freedidi.com/20980.html" />
-        <id>https://www.freedidi.com/20980.html</id>
-        <updated>Fri, 10 Oct 2025 20:25:24 +0800</updated>
-        <summary type="html"><![CDATA[Motrix, 下载管理器, Aria2, 跨平台, 开源
-
-<br><br>总结:
-- Motrix 是一款开源、跨平台的下载管理器，基于 Electron + Vue.js 开发，支持 Windows、macOS 和 Linux。
-- 它利用 Aria2 内核，提供多线程加速下载，支持 HTTP、FTP、BT、磁力链等多种协议。
-- Motrix 具有简洁现代的用户界面，支持任务分类与管理、断点续传和下载限速，并内置 Web 控制功能。
-- 相比传统下载器，Motrix 免费开源、无广告，在视觉和交互设计上更现代，兼具功能性与易用性，适合需要高速下载和BT/磁力链下载的用户。
-- 用户可以通过官方网站和 GitHub 项目页获取最新版本。
-]]></summary>
-    </entry>
     
 </feed>
