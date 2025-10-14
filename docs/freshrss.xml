@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Tue, 14 Oct 2025 06:28:42 GMT</updated>
+    <updated>Tue, 14 Oct 2025 08:23:25 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[Sora 2 视频去水印！免费在线平台+本地离线部署！完全免费开源]]></title>
-        <link href="https://www.freedidi.com/21099.html" />
-        <id>https://www.freedidi.com/21099.html</id>
-        <updated>Tue, 14 Oct 2025 11:37:32 +0800</updated>
-        <summary type="html"><![CDATA[Sora, 视频生成, 水印, 去除, 本地部署
-
-<br><br>总结:
-1.  Sora 2生成的视频带有水印，影响美观。
-2.  可以通过在线去水印平台去除水印，文章列举了多个提供免费额度的在线平台。
-3.  若想无限使用，建议在本地部署开源项目SoraWatermarkCleaner，需要Git和Python 3.10环境。
-4.  本地部署步骤包括：安装FFmpeg和uv，克隆项目，安装依赖，激活虚拟环境。
-5.  最后通过streamlit run app.py启动Web界面，第一次启动需等待模型加载。
-]]></summary>
-    </entry>
     
 </feed>
