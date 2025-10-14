@@ -2,29 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Tue, 14 Oct 2025 18:27:48 GMT</updated>
+    <updated>Tue, 14 Oct 2025 20:20:23 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Sora 2 视频去水印！免费在线平台+本地离线部署！完全免费开源]]></title>
-        <link href="https://www.freedidi.com/21099.html" />
-        <id>https://www.freedidi.com/21099.html</id>
-        <updated>Tue, 14 Oct 2025 11:37:32 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Sora, 水印, 去除, 本地部署, 开源项目
+        <title><![CDATA[SoraWatermarkCleaner 安装教程！本地离线去Sora 2视频水印、免费开源！]]></title>
+        <link href="https://www.freedidi.com/21128.html" />
+        <id>https://www.freedidi.com/21128.html</id>
+        <updated>Tue, 14 Oct 2025 20:20:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Sora水印去除, 开源项目, 本地部署, Python, Streamlit
 
 <br><br>总结:
-1.  Sora 2 生成的视频通常带有水印，可以通过在线去水印平台或本地部署开源项目去除。文章列举了一些提供免费额度的在线去水印网站。
-
-2.  推荐使用GitHub上的开源项目进行本地部署，避免额度限制。需要先安装 Git、Python 3.10 和 FFmpeg。
-
-3.  本地部署步骤包括：安装 FFmpeg、uv 包管理器，克隆项目并安装依赖，激活虚拟环境，然后启动 Streamlit Web 交互界面。
-
-4.  启动后会自动弹出页面，第一次启动需要等待模型加载。如果自动下载模型失败，可以手动下载YOLO权重和Lama模型。
-
-5.  还提到了另一款免费开源、无限部署的去水印工具，解压即可使用（文未信息）。
+1.  该文章介绍了如何使用GitHub上的开源项目SoraWatermarkCleaner，在本地电脑上离线去除Sora生成的视频水印。
+2.  首先需要安装必要的环境，包括Git、Python 3.10和FFmpeg。
+3.  接着使用uv安装Python包管理器，然后克隆项目并安装依赖。
+4.  激活虚拟环境后，通过运行`streamlit run app.py`启动Streamlit Web交互界面。
+5.  第一次启动需要等待模型加载，启动后就可以在浏览器中使用该工具去除Sora视频水印。
 ]]></summary>
     </entry>
     
