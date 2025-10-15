@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 15 Oct 2025 04:22:12 GMT</updated>
+    <updated>Wed, 15 Oct 2025 06:28:44 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[SoraWatermarkCleaner 安装教程！本地离线去Sora 2视频水印、免费开源！]]></title>
-        <link href="https://www.freedidi.com/21128.html" />
-        <id>https://www.freedidi.com/21128.html</id>
-        <updated>Tue, 14 Oct 2025 20:20:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Sora水印清除, FFmpeg, uv, Python, Streamlit
-
-总结:
-1. 推荐使用 GitHub 开源项目 SoraWatermarkCleaner 离线去除 Sora 2 生成视频的水印。
-2. 需要先安装必备环境：Git, Python 3.10。
-3. 安装步骤包括：安装 FFmpeg (使用 `winget install Gyan.FFmpeg`)，安装 uv (使用 `irm https://astral.sh/uv/install.ps1 | iex`)，克隆项目 (从 GitHub 链接克隆)，使用 uv 安装依赖 (`uv sync`)。
-4. 激活虚拟环境 (`.venv\Scripts\Activate.ps1`)，可能需要修改执行策略 (`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`)。
-5. 启动 Streamlit Web 交互界面，运行 `streamlit run app.py`，访问 `http://localhost:8501`，首次启动需等待模型加载。
-
-<br><br>总结:
-]]></summary>
-    </entry>
     
 </feed>
