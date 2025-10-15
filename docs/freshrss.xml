@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 15 Oct 2025 08:26:41 GMT</updated>
+    <updated>Wed, 15 Oct 2025 10:20:58 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
-    
-    <entry>
-        <title><![CDATA[SoraWatermarkCleaner 安装教程！本地离线去Sora 2视频水印、免费开源！]]></title>
-        <link href="https://www.freedidi.com/21128.html" />
-        <id>https://www.freedidi.com/21128.html</id>
-        <updated>Tue, 14 Oct 2025 20:20:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Sora水印, 去除, 开源项目, 本地部署, Streamlit
-
-<br><br>总结:
-1.  该文章介绍了一个GitHub上的开源项目SoraWatermarkCleaner，用于本地离线去除Sora生成的视频水印。
-2.  需要先安装Git、Python 3.10和FFmpeg。使用winget命令安装FFmpeg，并验证安装。
-3.  使用PowerShell安装uv包管理器，并验证安装。
-4.  克隆项目到本地，使用uv安装项目依赖。如果报错需要设置执行策略。
-5.  激活虚拟环境后，运行streamlit run app.py启动Streamlit Web界面，第一次启动需要等待模型加载。
-]]></summary>
-    </entry>
     
 </feed>
