@@ -1,8 +1,9 @@
 ------------------------------------------------------
-Started: 2025-10-15 12:40:40.514144
+Started: 2025-10-15 14:20:00.850695
 Existing_entries: 0
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe837479100>: Failed to resolve 'freshrss.chunkj.qzz.io' ([Errno -3] Temporary failure in name resolution)"))
-Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-error when rendering xml, skip docs/freshrss
+Token length: 167
+Summarized using gemini model: gemini-2.0-flash
+Append: [雨中的国庆与难以沟通的亲情](https://uuzi.net/yu-zhong-de-qinqing/)
+append_entries: 1
+Finish: 2025-10-15 14:20:03.123465
