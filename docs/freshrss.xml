@@ -2,25 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Thu, 16 Oct 2025 14:19:41 GMT</updated>
+    <updated>Thu, 16 Oct 2025 16:24:56 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Veo 3.1 正式发布！Google 最强AI视频生成模型，更逼真、更清晰自然！ 附免费使用入口及提示词！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21146.html" />
-        <id>https://www.freedidi.com/21146.html</id>
-        <updated>Thu, 16 Oct 2025 21:05:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 安全风险, 对抗性攻击, 模型防御, 安全评估
+        <title><![CDATA[【全网最细】无公网IP实现异地远程访问家里内网设备，通过stun打洞穿透运营商NAT，实现P2P直连满速下载，无需花钱搭建内网穿透，打洞通信流程分析，stun、fullcone、nat1、CGNAT]]></title>
+        <link href="https://www.youtube.com/watch?v=T5S5O2D1hqg" />
+        <id>https://www.youtube.com/watch?v=T5S5O2D1hqg</id>
+        <updated>Thu, 16 Oct 2025 19:28:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大语言模型, 数据隐私, 隐私泄露, 差分隐私, 隐私保护
 
 <br><br>总结:
-1. 大语言模型（LLM）虽然能力强大，但也存在严重的安全风险，容易受到对抗性攻击，例如提示注入和后门攻击。
-2. 对抗性攻击可以操纵模型的输出，导致模型产生不准确、有害或偏见的结果。
-3. 针对这些安全风险，研究人员正在开发各种模型防御机制，旨在提高模型的鲁棒性和安全性。
-4. 然而，现有的防御方法往往难以有效应对所有类型的攻击，并且评估LLM的安全仍然是一个挑战。
-5. 因此，未来的研究需要更全面和可靠的安全评估方法，以及更有效的防御机制，以确保LLM的安全可靠部署。
+1. 大语言模型（LLM）在各个领域展现出强大能力的同时，也面临着严重的数据隐私问题。
+2. LLM可能通过多种途径泄露训练数据中的敏感信息，例如成员推断攻击。
+3. 差分隐私（DP）是一种有效的隐私保护技术，但直接应用于LLM训练会显著降低模型性能。
+4. 目前的研究致力于在LLM训练中应用DP，并在隐私保护和模型效用之间寻求平衡。
+5. 未来的研究方向包括开发更高效的DP训练方法，以及探索其他隐私保护技术，以确保LLM的安全可靠应用。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google 推出全新 Veo 3.1 模型，影片生成更聪明、更清晰、更自然！ 附上提示词及免费使用入口]]></title>
+        <link href="https://www.freedidi.com/21138.html" />
+        <id>https://www.freedidi.com/21138.html</id>
+        <updated>Thu, 16 Oct 2025 11:12:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Google Veo 3.1, AI 视频生成, 提示词, 免费使用, 音效
+
+<br><br>总结:
+1. Google Veo 3.1 发布，在 Google Flow 和 Gemini 上提供免费使用入口，用户可以通过美国代理 IP 在 Gemini 上体验。
+2. Veo 3.1 在提示词理解、音效丰富度、叙事自然度及画面真实度方面进行了显著提升。
+3. 文中提供了多组视频生成提示词示例，包括都市浪漫、赛博朋克、美食制作、水下探索、复古滑板和魔法觉醒等场景，旨在展示 Veo 3.1 的效果。
+4. 文中预告了后续将 Veo 3.1 与 Sora 2 进行对比，以评估其性能优劣。
 ]]></summary>
     </entry>
     
