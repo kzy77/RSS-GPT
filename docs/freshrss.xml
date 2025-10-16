@@ -2,25 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Thu, 16 Oct 2025 10:21:19 GMT</updated>
+    <updated>Thu, 16 Oct 2025 12:40:47 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[雨中的国庆与难以沟通的亲情]]></title>
-        <link href="https://uuzi.net/yu-zhong-de-qinqing/" />
-        <id>https://uuzi.net/yu-zhong-de-qinqing/</id>
-        <updated>Wed, 15 Oct 2025 21:27:43 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 国庆中秋, 秋雨, 家庭沟通, 误解, 隔阂
+        <title><![CDATA[【全网最细】无公网IP实现异地远程访问家里内网设备，通过stun打洞穿透运营商NAT，实现P2P直连满速下载，无需花钱搭建内网穿透，打洞通信流程分析，stun、fullcone、nat1、CGNAT]]></title>
+        <link href="https://www.youtube.com/watch?v=T5S5O2D1hqg" />
+        <id>https://www.youtube.com/watch?v=T5S5O2D1hqg</id>
+        <updated>Thu, 16 Oct 2025 19:28:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: **大型语言模型, 隐私, 保护, 攻击, 防御**
 
 <br><br>总结:
-1. 今年的国庆中秋假期被秋雨笼罩。
-2. 秋雨期间，家庭成员间产生了误解和隔阂。
-3. 母女间因院子棚等琐事发生争论。
-4. 家人之间也存在误解，导致沉默和冷漠。
-5. 亲情在日常生活中渐渐疏远，希望未来能改善。
+*  大型语言模型 (LLM) 面临严重的隐私威胁，因为它们可能泄露训练数据中的敏感信息。
+*  针对 LLM 的隐私攻击主要分为提取攻击 (恢复原始数据) 和成员推断攻击 (判断特定数据是否在训练集中)。
+*  这些攻击利用 LLM 的输出概率分布、梯度信息等来推断隐私信息。
+*  现有的隐私保护方法，如差分隐私和对抗训练，可以降低 LLM 的隐私泄露风险，但往往会牺牲模型性能。
+*  未来的研究需要探索更有效、更实用的隐私保护技术，以平衡隐私保护和模型性能。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Google 推出全新 Veo 3.1 模型，影片生成更聪明、更清晰、更自然！ 附上提示词及免费使用入口]]></title>
+        <link href="https://www.freedidi.com/21138.html" />
+        <id>https://www.freedidi.com/21138.html</id>
+        <updated>Thu, 16 Oct 2025 11:12:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Veo 3.1, Google Flow, Gemini, AI视频生成, 提示词
+
+<br><br>总结:
+1. Google Veo 3.1发布，重点提升提示词理解、音效、叙事和画面真实度。
+2. 用户可在Google Flow和Gemini上免费使用Veo 3.1，但Gemini可能需要美国代理IP。
+3. Google Flow已升级Veo 3.1，提供Fast和Quality两种选项免费试用。
+4. 文中提供了多个视频生成提示词案例，例如都市浪漫、赛博朋克、美食制作等，展示Veo 3.1的生成效果。
+5. 后续或将Veo 3.1与Sora 2进行对比。
 ]]></summary>
     </entry>
     
