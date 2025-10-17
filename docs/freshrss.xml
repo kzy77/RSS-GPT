@@ -2,41 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 17 Oct 2025 12:38:53 GMT</updated>
+    <updated>Fri, 17 Oct 2025 14:18:31 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[50RMB购买九年xyz域名]]></title>
-        <link href="https://www.v2ray-agent.com/archives/50f58e1f-fda8-4554-95e0-15c870e8906b" />
-        <id>https://www.v2ray-agent.com/archives/50f58e1f-fda8-4554-95e0-15c870e8906b</id>
-        <updated>Fri, 17 Oct 2025 18:09:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Dynadot, 邀请码, 注册, 返现, 域名
+        <title><![CDATA[从0到1建设美团数据库容量评估系统]]></title>
+        <link href="https://tech.meituan.com/2025/10/17/database-capacity-evaluation-system.html" />
+        <id>https://tech.meituan.com/2025/10/17/database-capacity-evaluation-system.html</id>
+        <updated>Fri, 17 Oct 2025 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 容量评估, 数据库, 美团, 风险防控, 稳定性
 
 <br><br>总结:
-1. Dynadot提供新用户注册福利。
-2. 注册时填写邀请码可享受优惠。
-3. 首次消费满9.9美元可获得5美元返现。
-4. 未填写邀请码则无法获得返现。
-5. 返现可用于域名续费或购买新域名。
+1. 美团数据库团队推出容量评估系统，解决数据库容量评估与变更风险防控难题。
+2. 系统利用线上流量在沙盒环境回放验证变更安全性，确保数据操作安全。
+3. 系统采用倍速回放技术探测集群性能瓶颈，结果真实可靠。
+4. 系统构建容量运营体系，实现集群容量观测与治理的闭环。
+5. 该系统具备灵活高效赋能的特点，能有效提升数据库的稳定性和资源利用率。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[国行 Apple Watch 开通高血压与呼吸暂停检测功能完整教程]]></title>
-        <link href="https://uuzi.net/apple-watch-hypertension/" />
-        <id>https://uuzi.net/apple-watch-hypertension/</id>
-        <updated>Fri, 17 Oct 2025 11:02:29 +0800</updated>
-        <summary type="html"><![CDATA[Apple Watch S10, 健康功能, 地域限制, Anygo, 香港地区
+        <title><![CDATA[科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html</id>
+        <updated>Fri, 17 Oct 2025 08:10:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 短视频, AI, 自媒体, 电商, 互联网
 
 <br><br>总结:
-1. 用户在闲鱼购买国行Apple Watch S10，希望体验高血压检测和睡眠呼吸暂停功能。
-2. 发现这两项健康功能在中国大陆地区被限制。
-3. 通过Mac上的Anygo工具修改Apple Watch的定位。
-4. 将设备定位修改为香港地区。
-5. 成功解锁Apple Watch S10的全部健康功能。
+1.  **短视频流行与极端化表达：** 短视频因其高传播性而盛行，但也导致表达极端化，博眼球现象严重，标题党盛行，音量电平竞争激烈，HDR广告刺激眼睛，摇一摇跳转广告逆天。
+2.  **互联网平民化与碎片化：** 互联网内容从精英式表达转向接地气平视化，碎片化内容泛滥，用户追求即时兴奋，短视频成瘾现象普遍，精英阶层也受影响。
+3.  **自媒体商单困境：** 自媒体面临商单难题，评测需保持中立但可能影响收入，部分自媒体通过拍样片获取收入，但难以兼顾客观评测。
+4.  **自媒体赚钱模式：** 内容付费难，SaaS模式受阻，自媒体尝试电商模式实现规模效应，如服装品牌，或借鉴野兽先生的巧克力模式，但硬件产品品控和利润难保证。
+5.  **AI的冲击：** AI打破努力与回报的联系，学习速度超越人类，可能替代调研、制图、剪辑等岗位，自媒体核心竞争力在于真实性记录和讲故事能力，人生经历更安全。
+6.  **科技动态和其他内容：**
+    * 北极航线缩短亚欧运输时间。
+    * 诺贝尔文学奖得主小说提及加密货币。
+    * 汽车软件更新导致车辆“变砖”，反映汽车软件开发问题。
+    * 破解飞机wifi登录页的DNS限制。
+    * 区块链公司面试恶意代码窃取数字钱包。
+    * Bun1.3比Node.js好用。
+    * Nginx申请HTTPS证书教程。
+    * Go防止CSRF攻击功能。
+    * 老电脑安装Proxmox系统。
+    * 还有各种实用工具、AI相关应用、学习资源和图片分享。
 ]]></summary>
     </entry>
     
