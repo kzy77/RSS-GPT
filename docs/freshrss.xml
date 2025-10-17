@@ -2,41 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 17 Oct 2025 03:00:41 GMT</updated>
+    <updated>Fri, 17 Oct 2025 04:22:52 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html</id>
-        <updated>Fri, 17 Oct 2025 08:10:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 短视频, AI, 自媒体, 商单, 互联网
+        <title><![CDATA[国行 Apple Watch 开通高血压与呼吸暂停检测功能完整教程]]></title>
+        <link href="https://uuzi.net/apple-watch-hypertension/" />
+        <id>https://uuzi.net/apple-watch-hypertension/</id>
+        <updated>Fri, 17 Oct 2025 11:02:29 +0800</updated>
+        <summary type="html"><![CDATA[Apple Watch S10, 闲鱼, 高血压, 健康功能, 国行
 
 <br><br>总结:
-1. **短视频与表达极端化：** 短视频因其传播优势导致表达极端化，标题党现象严重，音量竞争激烈，甚至出现利用HDR和摇一摇等技术手段进行广告推送，过度刺激用户感官。
-2. **互联网平民化与碎片化：** 互联网内容呈现平民化和碎片化趋势，用户偏好短时刺激，精英式表达逐渐被拒绝，社会各阶层都沉迷于短视频带来的即时快感。
-3. **商单的困境与选择：** 自媒体难以完全摆脱商单影响，测评中立性受到挑战，厂商更倾向于只宣传优点，自媒体需要在商业利益和内容质量之间寻找平衡。
-4. **自媒体的盈利模式：** 内容付费困难，SaaS模式在中国难以推行，自媒体通过电商（如服装）实现规模效应，降低获客成本，硬件品控和利润难以保证。
-5. **AI 的冲击与应对：** AI 的发展使得过去努力的价值降低，调研、制图和剪辑等岗位可能被替代，真实性记录和讲故事能力成为核心竞争力，需要拥抱 AI 技术并保持独立性。
+1. 作者在闲鱼购买了一块国行Apple Watch S10，目的是体验其健康功能。
+2. 体验后发现，Apple Watch S10并没有配备高血压检测功能。
+3. 作者因此感到失望，因为他原本期望该手表具备此项功能。
+4. 作者表达了对Apple Watch S10健康功能的实际表现与预期不符的失望之情。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Veo 3.1 正式发布！Google 最强AI视频生成模型，更逼真、更清晰自然！ 附免费使用入口及提示词！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21146.html" />
-        <id>https://www.freedidi.com/21146.html</id>
-        <updated>Thu, 16 Oct 2025 21:05:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大型语言模型，AI安全，能力评估，红队测试，风险缓解
+        <title><![CDATA[【全网最细】无公网IP实现异地远程访问家里内网设备，通过stun打洞穿透运营商NAT，实现P2P直连满速下载，无需花钱搭建内网穿透，打洞通信流程分析，stun、fullcone、nat1、CGNAT]]></title>
+        <link href="https://www.youtube.com/watch?v=T5S5O2D1hqg" />
+        <id>https://www.youtube.com/watch?v=T5S5O2D1hqg</id>
+        <updated>Thu, 16 Oct 2025 19:28:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大型语言模型, 对齐, 安全性, 奖励模型, 人工反馈
 
 <br><br>总结:
-1. 大型语言模型（LLMs）的能力不断增强，但也带来了新的AI安全风险，需要进行全面的评估。
-2. 文章强调了对LLMs进行红队测试的重要性，通过模拟攻击场景来识别潜在的漏洞和弱点。
-3. 能力评估包括了解LLMs在不同任务中的表现，以便更好地理解其局限性和潜在风险。
-4. 识别出的风险需要采取有效的缓解措施，以确保LLMs的安全可靠使用，例如使用安全提示词、过滤恶意内容等。
-5. 持续的安全研究和开发对于确保AI技术安全发展至关重要。
+
+1.  大型语言模型的训练涉及对齐，即让模型的输出与人类的价值观和意图保持一致。
+2.  实现对齐的一个关键技术是使用人工反馈来训练奖励模型，该模型评估模型输出的质量。
+3.  通过强化学习优化大型语言模型，使其能够最大化奖励模型预测的奖励，从而提高模型对齐程度。
+4.  确保大型语言模型的安全性是至关重要的，需要解决诸如生成有害内容、传播错误信息等问题。
+5.  未来的研究方向包括提高奖励模型的准确性和鲁棒性，以及开发更有效的安全保障措施，以实现更安全可靠的大型语言模型。
 ]]></summary>
     </entry>
     
