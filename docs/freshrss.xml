@@ -2,40 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 17 Oct 2025 06:27:38 GMT</updated>
+    <updated>Fri, 17 Oct 2025 08:26:00 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html</id>
-        <updated>Fri, 17 Oct 2025 08:10:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词：短视频，AI，自媒体，内容，互联网
+        <title><![CDATA[国行 Apple Watch 开通高血压与呼吸暂停检测功能完整教程]]></title>
+        <link href="https://uuzi.net/apple-watch-hypertension/" />
+        <id>https://uuzi.net/apple-watch-hypertension/</id>
+        <updated>Fri, 17 Oct 2025 11:02:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Apple Watch S10, 闲鱼, 健康功能, Anygo, 定位修改
 
 <br><br>总结:
-1. **短视频极端化：** 短视频流行导致表达极端化，为博眼球，标题党盛行，音量和亮度被过度拉高，摇一摇广告逆天，网络表达趋向极端。
-2. **互联网平民化碎片化：** 互联网内容从精英式表达转向平民化，碎片化内容盛行，短视频占据大量时间，可能导致年轻一代变笨。
-3. **自媒体商单困境：** 自媒体靠商单赚钱，但汽车手机数码类自媒体难以保持中立，评测说坏话会影响收入，精彩内容可拒绝合作。
-4. **自媒体盈利模式：** 内容付费困难，SaaS 难做，内容行业缺乏规模效应，自媒体探索电商模式，通过自有品牌衣服实现规模效应。
-5. **AI 冲击：** AI 发展迅速，打破努力回报的原则，替代调研、制图、剪辑等岗位，真实性记录和讲故事能力成为核心竞争力，人生经历最安全。]]></summary>
+1. 在闲鱼购买国行Apple Watch S10，发现高血压检测和睡眠呼吸暂停功能在国内未开放。
+2. 通过Mac上的Anygo工具修改定位，模拟为香港地区。
+3. 成功解锁Apple Watch S10的全部健康功能。
+4. 本文旨在分享详细的操作步骤和注意事项，帮助有同样需求的用户。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Veo 3.1 正式发布！Google 最强AI视频生成模型，更逼真、更清晰自然！ 附免费使用入口及提示词！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21146.html" />
-        <id>https://www.freedidi.com/21146.html</id>
-        <updated>Thu, 16 Oct 2025 21:05:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI模型，风险评估，信任，可解释性，监管
+        <title><![CDATA[【全网最细】无公网IP实现异地远程访问家里内网设备，通过stun打洞穿透运营商NAT，实现P2P直连满速下载，无需花钱搭建内网穿透，打洞通信流程分析，stun、fullcone、nat1、CGNAT]]></title>
+        <link href="https://www.youtube.com/watch?v=T5S5O2D1hqg" />
+        <id>https://www.youtube.com/watch?v=T5S5O2D1hqg</id>
+        <updated>Thu, 16 Oct 2025 19:28:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大语言模型, 安全, 对抗性攻击, 对抗训练, 缓解措施
 
 <br><br>总结:
-1. AI模型在金融、医疗等领域的广泛应用带来了效率提升，但也伴随着潜在风险，例如歧视、错误决策等。
-2. 对AI模型进行风险评估至关重要，需要考虑数据质量、模型偏差、以及可能造成的社会影响。
-3. 构建用户和监管机构对AI模型的信任是关键，这依赖于模型的可解释性和透明度。
-4. 提高AI模型的可解释性，意味着需要理解模型的决策过程，从而发现并纠正潜在问题。
-5. 适当的监管框架能够促进AI模型的负责任使用，并保护用户权益，但同时也需要避免过度监管扼杀创新。
+1.  大语言模型(LLMs)虽然强大，但容易受到对抗性攻击，即通过微小扰动输入来欺骗模型产生错误或有害的输出。
+2.  对抗训练是一种有效的防御手段，通过让模型暴露于对抗样本中进行训练，从而提高其鲁棒性。
+3.  目前已有多种针对LLMs的对抗性攻击方法，研究人员也在不断开发新的缓解措施，以增强模型的安全性。
+4.  对抗性攻击和防御之间的“军备竞赛”将长期存在，需要持续研究和创新来确保LLMs的安全可靠部署。
+5.  未来的研究方向包括开发更有效的对抗训练方法、探索新的防御机制以及建立更加全面的安全评估体系。
 ]]></summary>
     </entry>
     
