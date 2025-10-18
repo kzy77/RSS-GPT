@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sat, 18 Oct 2025 18:23:47 GMT</updated>
+    <updated>Sat, 18 Oct 2025 20:18:47 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[绕过微软联网账号的限制！用本地用户安装Windows 11 系统，最新3种方法！]]></title>
-        <link href="https://www.freedidi.com/21151.html" />
-        <id>https://www.freedidi.com/21151.html</id>
-        <updated>Sat, 18 Oct 2025 16:19:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Windows 11，微软账户，本地账户，安装限制，绕过方法
+        <title><![CDATA[Windows 11 彻底封杀本地账户！强制联网登录，这3 种最新绕过方法，赶紧收藏！ | 零度解说]]></title>
+        <link href="https://www.freedidi.com/21162.html" />
+        <id>https://www.freedidi.com/21162.html</id>
+        <updated>Sat, 18 Oct 2025 19:39:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Windows 11, 绕过联网, 强制联网, Rufus, 25H2
 
 <br><br>总结:
-1. 微软在最新的Windows 11版本中加强了安装限制，试图阻止用户在没有微软账户或联网的情况下安装系统。
-2. 针对Windows 11 专业版/企业版，建议选择“为工作或学校设置”并“改为域加入”来跳过微软账户要求。
-3. 若无法联网或必须安装家庭版，可在OOBE屏幕按Shift+F10打开命令提示符，输入指定命令并重启以绕过网络账户限制。
-4. 可以通过命令提示符创建本地用户，加快安装过程。具体是在安装界面按Shift+F10打开命令提示符，输入相关命令创建本地用户，然后重启系统。
+该文章主要围绕如何在安装Windows 11时绕过强制联网的要求展开。
+首先，提供了Windows 11 (25H2)正式版的下载信息。
+其次，提到了使用Rufus工具可以帮助用户创建一个可启动的安装媒介。
+最后，文章的重点是介绍一种命令或方法，可以在安装过程中跳过必须连接互联网的步骤，从而更方便地安装Windows 11。
 ]]></summary>
     </entry>
     
