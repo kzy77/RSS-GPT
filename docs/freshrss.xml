@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Mon, 20 Oct 2025 12:40:52 GMT</updated>
+    <updated>Mon, 20 Oct 2025 14:18:25 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[Windows 10 没有死！免费续命教程来了，只需这3个步骤，就可以让电脑再战几年！| 零度解说]]></title>
+        <link href="https://www.freedidi.com/21188.html" />
+        <id>https://www.freedidi.com/21188.html</id>
+        <updated>Mon, 20 Oct 2025 19:38:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Windows 10, 下载, U盘, 制作, 工具
+
+<br><br>总结:
+
+1、文章提供了下载最新版Windows 10的途径，方便用户获取最新的操作系统。
+2、文章还介绍了制作Windows 10启动U盘的工具，帮助用户通过U盘安装或重装系统。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Ventoy 使用教程, 当下最好用的U盘启动盘制作神器！]]></title>
+        <link href="https://www.freedidi.com/21182.html" />
+        <id>https://www.freedidi.com/21182.html</id>
+        <updated>Mon, 20 Oct 2025 13:42:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Ventoy, U盘, 系统安装, 启动盘, ISO
+
+<br><br>总结:
+1. Ventoy是一款用于创建系统启动U盘的工具。
+2. 下载Ventoy的.zip压缩包并解压。
+3. 运行"ventoy2disk.exe"程序，选择需要制作成系统盘的U盘。
+4. 点击“安装”按钮，即可完成启动盘制作。
+5. 将系统镜像ISO文件复制到Ventoy驱动器，即可进行系统安装或重装。
+]]></summary>
+    </entry>
     
 </feed>
