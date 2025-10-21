@@ -2,25 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Tue, 21 Oct 2025 18:27:14 GMT</updated>
+    <updated>Tue, 21 Oct 2025 20:21:38 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[错误处理：异常好于状态码]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/10/exception.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/10/exception.html</id>
-        <updated>Wed, 22 Oct 2025 00:28:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 异常，状态码，错误处理，代码简洁，错误信息
+        <title><![CDATA[iPhone Air 使用体验：薄得让人惊艳，但是否值得购买？]]></title>
+        <link href="https://uuzi.net/iphone-air-review-2025/" />
+        <id>https://uuzi.net/iphone-air-review-2025/</id>
+        <updated>Tue, 21 Oct 2025 19:07:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: iPhone Air, 轻薄, 震撼, Apple Store, iPhone 17 Pro
 
 <br><br>总结:
-1.  文章主要对比了异常和状态码两种错误处理方式，认为异常优于状态码。
-2.  异常能够保持代码的简洁易读，避免过多的错误判断代码，使代码更专注于核心逻辑。
-3.  状态码会占用返回值，导致返回值信息不足，而异常可以携带更丰富的错误信息，便于错误追踪和调试。
-4.  在某些无法返回状态码的情况下（如构造函数），异常是唯一的选择。
-5.  未处理的异常会暴露错误，而未检查的状态码可能会隐藏问题，使系统更容易出错。
+*   作者在Apple Store体验iPhone Air时感到非常惊讶。
+*   iPhone Air的轻薄手感给作者留下了深刻的印象，让他感觉与以往的iPhone截然不同。
+*   作者当时正在购买iPhone 17 Pro，顺便体验了iPhone Air。
+*   iPhone Air的轻盈程度甚至让作者觉得像一个展示用的假机模型。
+*   这种感觉让他回想起了第一次拿到iPhone 5时的体验。
 ]]></summary>
     </entry>
     
