@@ -2,26 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Tue, 21 Oct 2025 22:16:04 GMT</updated>
+    <updated>Wed, 22 Oct 2025 01:27:33 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[错误处理：异常好于状态码]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2025/10/exception.html" />
-        <id>http://www.ruanyifeng.com/blog/2025/10/exception.html</id>
-        <updated>Wed, 22 Oct 2025 00:28:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 异常, 状态码, 错误处理, 代码简洁, 可见性
+        <title><![CDATA[iPhone Air 使用体验：薄得让人惊艳，但是否值得购买？]]></title>
+        <link href="https://uuzi.net/iphone-air-review-2025/" />
+        <id>https://uuzi.net/iphone-air-review-2025/</id>
+        <updated>Tue, 21 Oct 2025 19:07:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词：iPhone Air, 轻薄, 手感, 震撼, iPhone 17 Pro
 
 <br><br>总结:
-1.  **代码简洁性:** 异常处理可以减少代码中的错误处理步骤，使代码更简洁易读，而状态码需要额外的判断逻辑。
-2.  **返回值意义:** 状态码会占用返回值，导致函数返回值复杂化，而异常处理可以保证函数只在成功时返回。
-3.  **错误信息丰富性:** 异常可以携带更多信息，形成丰富的错误消息体系，而状态码传递的信息有限。
-4.  **适用性:** 某些函数无法返回状态码（如构造函数），异常处理能更好地处理这些情况。
-5.  **错误可见性:** 忽略状态码会导致错误隐藏，而未捕获的异常会暴露错误位置，提高错误可见性。
-6.  **反驳观点:** 针对 Joel Spolsky 认为异常是糟糕的 goto 的观点，文章指出状态码虽然显式，但容易导致程序员忽略或隐藏错误处理。
+- 体验者在Apple Store购买iPhone 17 Pro时，意外体验了iPhone Air。
+- iPhone Air的轻薄手感给体验者带来了极大的震撼，认为它与以往的iPhone不同。
+- 这种轻薄感让体验者回忆起第一次拿到iPhone 5时的感受。
 ]]></summary>
     </entry>
     
