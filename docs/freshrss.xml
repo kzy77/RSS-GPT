@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 24 Oct 2025 04:22:39 GMT</updated>
+    <updated>Fri, 24 Oct 2025 06:27:52 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[科技爱好者周刊（第 370 期）：正确的代码高亮]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html</id>
+        <updated>Fri, 24 Oct 2025 08:18:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 代码高亮, 大模型API, 开源项目, 太空垃圾, AI浏览器
+
+<br><br>总结:
+1.  **代码高亮:** 强调了代码高亮的重要性，并提出了五个原则：颜色数量限制、突出变量/函数/类定义、重视注释、高亮常量/括号，以及不强调常用关键字。
+2.  **大模型API:** 推荐了一个"AI 网关"，可以通过统一接口调用多家公司的大模型API， 解决了同时使用多家大模型API的付费和接入问题，并介绍了七牛云的该产品的优势和新用户推广活动。
+3.  **科技动态:** 报道了波音飞机可能被太空垃圾击中，中国制造了巨型轮胎，冰岛首次发现蚊子，日本夏季变长，以及X平台出售用户名的事件。
+4.  **开源项目:** 强调开源项目可持续发展不应过度依赖捐款，而应该鼓励公司投入人力参与项目开发，并以Linux内核和Ruby语言为例。
+5.  **AI相关:** 介绍了越来越多的公司推出了AI浏览器，通过截图阅读屏幕，可能会造成安全风险。
+]]></summary>
+    </entry>
     
 </feed>
