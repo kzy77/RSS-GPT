@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 24 Oct 2025 12:40:58 GMT</updated>
+    <updated>Fri, 24 Oct 2025 14:19:13 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
+    
+    <entry>
+        <title><![CDATA[科技爱好者周刊（第 370 期）：正确的代码高亮]]></title>
+        <link href="http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html" />
+        <id>http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html</id>
+        <updated>Fri, 24 Oct 2025 08:18:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 代码高亮, 大模型API, 太空垃圾, 开源项目, 气候变化
+
+<br><br>总结:
+1.  **代码高亮:** 强调代码高亮应最多使用4种颜色，突出变量、函数、注释、常量和函数嵌套等关键信息，避免过度色彩分散注意力。
+2.  **大模型API:** 推荐使用"AI网关"，通过统一接口调用多家公司的大模型API，如OpenAI、Gemini、DeepSeek等，具有接入简单、低延迟、高吞吐、费用统一等优点。新用户注册可获赠免费Token。
+3.  **科技动态:**
+    *   美国波音737客机可能被太空垃圾击中（后更新为可能撞上气象气球）。
+    *   中国制造出超大轮胎。
+    *   冰岛首次发现蚊子，全球变暖是主因。
+    *   日本夏季比42年前长三周，气候变化显著。
+    *   X平台开始出售回收的用户名。
+4.  **开源项目:**  支持开源项目更好的方式是投入开发，贡献人力而非仅捐款，避免项目受赞助商影响。
+5.  **图片:** 介绍了广东江门的地下中微子观测站（JUNO）和洪都拉斯的乔卢特卡桥的现状，乔卢特卡桥因台风导致河流改道而成为孤桥。
+]]></summary>
+    </entry>
     
 </feed>
