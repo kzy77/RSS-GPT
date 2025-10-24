@@ -1,9 +1,10 @@
 ------------------------------------------------------
-Started: 2025-10-24 18:29:00.179999
-Existing_entries: 2
+Started: 2025-10-24 20:20:51.964488
+Existing_entries: 1
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 5293
-Summarized using gemini model: gemini-2.0-flash
-Append: [科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)
-append_entries: 1
-Finish: 2025-10-24 18:29:05.559585
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [Cloudflare 高速免费VPN！速度极快、自动优选IP、无限流量！海量节点随便用，秒开4K、8K视频！| 零度解说](https://www.freedidi.com/21265.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [Cloudflare 搭建无尽的免费代理节点！高速、不限量，海量优选IP可供自由切换！](https://www.freedidi.com/21262.html)
+append_entries: 2
+Finish: 2025-10-24 20:20:53.641095
