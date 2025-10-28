@@ -2,439 +2,349 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-10-28T20:24:37Z</updated>
+    <updated>2025-10-28T22:20:10Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[外滩峰会叙事体感：牌桌翻转]]></title>
-        <link href="https://www.huxiu.com/article/4797944.html" />
-        <id>https://www.huxiu.com/article/4797944.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI, 自动化, 工作岗位, 生产力, 技能重塑
+        <title><![CDATA[《HelloGitHub》第 110 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/110" />
+        <id>https://hellogithub.com/periodical/volume/110</id>
+        <updated>Wed, 28 May 2025 08:05:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源工具, 游戏开发, AI, 学习资源, 系统工具
 
 <br><br>总结:
-1.  文章探讨了人工智能（AI）和自动化技术对未来工作岗位的影响。
-2.  AI和自动化在提高生产力的同时，也可能导致某些岗位的消失，特别是重复性、低技能的工作。
-3.  然而，新的岗位也会随之产生，尤其是在需要创造力、解决复杂问题和人际交往的领域。
-4.  强调了未来劳动力需要进行技能重塑，学习如何与AI协同工作，掌握新的技术技能。
-5.  总而言之，AI和自动化带来挑战与机遇并存，需要积极应对，提升适应能力。
+*   **游戏开发:** 育碧开源色盲检测工具，可在游戏画面叠加滤镜，提升游戏可访问性。<br>
+*   **系统工具:** 虚拟打印机导出多种格式文档；Windows窗口菜单增强工具扩展窗口功能；键盘控制鼠标工具；Dockerfile检查工具提升代码质量；命令行笔记/书签管理工具；macOS输入法切换工具。<br>
+*   **AI:** 静态照片视频生成；多端AI推理部署框架；LLM应用评估框架；本地AI数字分身定制；AI代码编辑器。<br>
+*   **学习资源:** Unity多人游戏示例；高级Python编程教程；CTF入门教程；免费开源教材资源。<br>
+*   **其他:** Go流媒体框架；Go通知推送平台/字符串命令行工具/终端UI库；Android卡券管理/纯净计算器/设备管理工具；古文风文本加密；B站直播录制工具；绕过CF保护的代理；Python内存分析/限流库；Rust df命令替代/终端文本编辑器；个人主页模板；YouTube Music桌面应用；React动效组件库；软著申请教程；极简时钟；计算机论文检查清单；低功耗复古电脑。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[下一只黑天鹅，关税退款“大赌局”]]></title>
-        <link href="https://www.huxiu.com/article/4797835.html" />
-        <id>https://www.huxiu.com/article/4797835.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 知识编辑, 事实性, 可靠性, 知识幻觉
+        <title><![CDATA[习近平：关于《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》的说明]]></title>
+        <link href="https://wallstreetcn.com/articles/3758063" />
+        <id>https://wallstreetcn.com/articles/3758063</id>
+        <updated>Tue, 28 Oct 2025 16:41:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词：十五五规划，高质量发展，共同富裕，科技创新，安全发展
 
 <br><br>总结:
-
-1.  大语言模型虽然强大，但存在事实性问题，会产生知识幻觉，即生成不准确或虚假的信息。
-2.  知识编辑旨在通过修改模型内部参数，使其能够记住或更新特定事实，从而提高模型的可靠性。
-3.  现有的知识编辑方法各有优缺点，例如有的方法修改范围过大，影响模型整体性能，有的方法则不够精确，无法有效解决所有知识错误。
-4.  研究人员正在积极探索新的知识编辑技术，以提高事实性，减少知识幻觉，并确保编辑后的模型在其他任务中仍能保持良好性能。
-5.  未来的发展方向包括提升编辑的精确性、效率以及泛化能力，从而使大语言模型能够更可靠地服务于各种应用场景。
+1.  **规划意义：** “十五五”规划对推动经济社会持续健康发展，为如期基本实现社会主义现代化奠定坚实基础至关重要。
+2.  **起草过程：** 强调发扬民主，集思广益，广泛征求意见，包括党内外、老同志、各民主党派、网上征求等多种渠道，并根据意见修改完善。
+3.  **总体考虑：** 立足于夯实基础，全面发力，以实现社会主义现代化为着眼点，应对国内外新形势和突出问题，统筹“五位一体”总体布局。
+4.  **主要内容：** 《建议》稿包含总论、分论和结尾三部分，围绕产业发展、科技创新、国内市场、经济体制、对外开放、乡村振兴、区域发展、文化建设、民生保障、绿色发展、安全发展、国防建设等重点领域部署战略任务和重大举措。
+5.  **重点问题：** 阐述了“十五五”时期的重要地位、经济社会发展目标、高质量发展主题、国内国际双循环、共同富裕、统筹发展和安全、以及党的全面领导等重点问题，为未来五年发展指明方向。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[从芝麻菜到拉链，从细节看德国贫富差距]]></title>
-        <link href="https://www.huxiu.com/article/4796396.html" />
-        <id>https://www.huxiu.com/article/4796396.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 芯片短缺, 汽车行业, 生产中断, 供应瓶颈, 长期影响
+        <title><![CDATA[王传福培养16年的比亚迪营销「少帅」，离职了]]></title>
+        <link href="https://www.36kr.com/p/3528098699779207" />
+        <id>https://www.36kr.com/p/3528098699779207</id>
+        <updated>Tue, 28 Oct 2025 09:42:33 +0800</updated>
+        <summary type="html"><![CDATA[**关键词:** 赵长江, 腾势, 比亚迪, 离职, 营销
 
 <br><br>总结:
-*   全球芯片短缺严重影响汽车行业，导致汽车制造商被迫削减或暂停生产。
-*   芯片供应瓶颈源于疫情期间的需求转移和供应链中断。
-*   汽车行业高度依赖专业芯片，替代供应来源困难，加剧了危机。
-*   短缺预计将持续一段时间，对汽车产量和行业利润产生长期影响。
-*   汽车制造商正在积极寻找解决方案，包括与芯片制造商直接合作以及探索替代芯片技术。
-]]></summary>
+1. 赵长江从比亚迪离职，结束了其16年的职业生涯。此前他曾负责腾势品牌，并成功推出了腾势D9，使其成为MPV市场的销量冠军。<br>
+2. 尽管腾势D9取得了成功，但后续车型未能延续辉煌，销量不及预期。这与比亚迪的技术导向和产品定义有关，一定程度上限制了产品差异化优势的发挥。<br>
+3. 王传福认为腾势的问题在于营销不足，未能将技术优势转化为用户的情绪价值。因此，赵长江被调离腾势品牌负责人岗位。<br>
+4. 传闻赵长江的下一站是智界，同样面临着技术强但营销弱的挑战。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[蒙古国的“茶杯风暴”，会影响西伯利亚力量2号管道吗？]]></title>
-        <link href="https://www.huxiu.com/article/4797713.html" />
-        <id>https://www.huxiu.com/article/4797713.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：量子计算, 商业化, 技术挑战, 竞争格局, 应用前景
+        <title><![CDATA[《HelloGitHub》第 115 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/115" />
+        <id>https://hellogithub.com/periodical/volume/115</id>
+        <updated>Tue, 28 Oct 2025 08:04:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源项目, 工具, 框架, 应用, AI
 
 <br><br>总结:
-1.  量子计算目前正处于商业化的早期阶段，吸引了大量投资和关注。
-2.  尽管潜力巨大，量子计算仍面临诸多技术挑战，包括量子比特的稳定性和可扩展性。
-3.  量子计算领域竞争激烈，各大公司和研究机构都在积极开发不同的量子计算技术。
-4.  量子计算在药物发现、材料科学、金融建模等领域具有广阔的应用前景。
-5.  克服技术障碍并建立完善的生态系统是实现量子计算商业价值的关键。
+1.  **各类工具与库:** 介绍了包括IO资源监控、加密库、Steam游戏下载、PPT编辑插件、Chrome增强工具、异步C++日志库、测试报告生成工具等多种工具和库，涵盖C、C++、C#、Java等多种编程语言。
+2.  **模拟器与平台:** 包括PSV模拟器、内容分享平台、股票市场平台、个人云相册平台以及云存储平台，提供游戏、内容分享与管理等功能。
+3.  **AI相关项目:** 涉及Stable Diffusion Android应用、IaC静态代码分析、文档AI格式转换、GPU监控、AI浏览器、DiT模型缓存加速、知识图谱构建、向量数据库、AI笔记应用等多个AI领域的应用。
+4.  **特定应用:** 如宝可梦存档编辑、GitHub Release安装、K8s Kafka部署、React状态管理库、夸克网盘自动转存工具、蓝牙即时通信应用、时间线macOS应用等。
+5.  **其他项目:** 包括人形机器人、Office文件在线编辑、GPU编程实战练习、新概念英语在线学习、标记语言转换工具和Agentic Design Patterns书籍翻译。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[寻求百亿美元贷款，中东油王日子不好过了]]></title>
-        <link href="https://www.huxiu.com/article/4797347.html" />
-        <id>https://www.huxiu.com/article/4797347.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI绘画, 文本提示, 风格迁移, 内容生成, 艺术创作
+        <title><![CDATA[《HelloGitHub》第 113 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/113" />
+        <id>https://hellogithub.com/periodical/volume/113</id>
+        <updated>Thu, 28 Aug 2025 08:09:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词：开源项目, 多语言, 工具, AI, 平台
 
 <br><br>总结:
-1. AI绘画技术通过文本提示生成图像，用户只需输入文字描述，AI模型即可根据提示创作图像。
-2. 风格迁移是AI绘画的重要应用，可以将一张图像的风格应用到另一张图像上，创造出独特艺术风格的作品。
-3. AI绘画可以用于内容生成，例如生成游戏素材、广告图像等，提高内容创作效率。
-4. AI绘画为艺术创作提供了新的可能性，艺术家可以利用AI探索新的艺术表达方式。
-5. 虽然AI绘画技术迅速发展，但其法律、伦理和社会影响也需要进一步探讨，例如版权问题和艺术定义的挑战。
+1.  众多领域的开源项目涌现，涵盖C、C#、C++、Go、Java、JavaScript、Kotlin、Python、Rust、Swift等多种编程语言。
+2.  各类工具丰富，包括构建系统、缓存服务、USB库、图形编辑器、任务调度器、批注工具、XML解析库、扩展框架、记账应用、仪表盘、K8s部署、反向代理、取证工具、社区系统、文件转换、数据可视化、头像生成器、手绘线条库、后台框架、音乐识别、用量监控、协作文档、UI框架、仓库渲染、直播录制、Word阅读器、流量分析、菜单栏日历、rsync工具、压缩解压工具、云端棋局和渲染教程等。
+3.  AI相关项目多样，包括虚拟伴侣、AI助手、工作流平台、对话AI框架和编程助手看板。
+4.  侧重于提升效率和便捷性，例如一键部署、快速构建、实时监控和简化操作等。
+5.  跨平台和多语言支持广泛，适应不同操作系统和开发需求。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国政府“停摆”，影响几何？]]></title>
-        <link href="https://www.huxiu.com/article/4797159.html" />
-        <id>https://www.huxiu.com/article/4797159.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 气候变化, 极端天气, 粮食安全, 农业生产, 可持续发展
+        <title><![CDATA[《HelloGitHub》第 114 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/114" />
+        <id>https://hellogithub.com/periodical/volume/114</id>
+        <updated>Sun, 28 Sep 2025 07:49:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源项目, 工具, 框架, 教程, 跨平台
 
 <br><br>总结:
-1. 气候变化加剧，导致极端天气事件（如干旱、洪水）频率和强度增加。
-2. 极端天气严重威胁全球粮食安全，破坏农业生产，降低作物产量。
-3. 气候变化对农业的影响是不均衡的，一些地区受影响更严重，加剧了贫困和不平等。
-4. 为了应对挑战，需要发展适应气候变化的农业技术，提高农业生产的韧性。
-5. 最终目标是实现农业可持续发展，在保障粮食安全的同时，减少农业对环境的影响。
+1.  **系统工具类**: 包含更快的系统信息查看工具（C）、硬盘性能测试工具（C#）、Windows桌面特效工具（C++）、代码屎山等级检测工具（Go）、日志分析工具（Go）、桌面美化工具（Rust）、HTTP客户端（Rust）、容器桌面管理工具、Windows应用运行工具。
+2.  **开发框架/库**: 包括极简音频库（C）、C++ Web框架、Word转HTML库（JavaScript）、服务器管理平台、WebSocket调试工具、Python事件循环库、智能体开发框架（AI）、图表生成服务（Java）、平滑手写库（JavaScript）。
+3.  **应用程序**: 涵盖课表工具（C#）、桌面启动器（C++）、跨设备推送服务（Go）、城市建设模拟游戏（JavaScript）、番茄时钟（Kotlin）、游戏平台（Python）、电量监控工具（Swift）、菜单栏管理工具（Swift）、扑克移植版（GBA）、电子名片。
+4.  **AI相关**: 包括AI编程助手教程和模型训练平台。
+5.  **教程/书籍**: Rust入门教程和机器学习面试指南。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[下一个希腊？IMF警告：美国债务率将飙破143%]]></title>
-        <link href="https://www.huxiu.com/article/4797309.html" />
-        <id>https://www.huxiu.com/article/4797309.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 量子计算, 容错, 量子纠错, 架构, 超导量子比特
+        <title><![CDATA[《HelloGitHub》第 112 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/112" />
+        <id>https://hellogithub.com/periodical/volume/112</id>
+        <updated>Mon, 28 Jul 2025 08:05:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源项目, C++, Python, AI, JavaScript
 
 <br><br>总结:
-1.  文章探讨了实现实用化量子计算的关键挑战：容错量子计算。由于量子比特对环境干扰非常敏感，容易出错，因此需要有效的量子纠错方案。
-2.  量子纠错需要在硬件层面和软件层面进行协同设计，这需要一种既能实现高保真度量子操作，又能方便进行量子纠错的量子计算架构。
-3.  超导量子比特是一种很有前景的量子计算平台，但要实现容错量子计算，还需要在超导量子比特的性能和连接性方面进行改进，并设计专门的容错量子计算架构。
-4.  文章重点关注了如何设计超导量子比特的架构来实现高效的量子纠错，包括 qubit 的排布方式，qubit 间的连接方式等。
-5.  最终目标是构建一个能够执行复杂算法且具有容错能力的实用量子计算机。
+*   文章总结了多个领域的开源项目，涵盖 C, C++, C#, Go, Java, JavaScript, Kotlin, Python, Rust, Swift 等编程语言。
+*   C 项目包括Windows全局Alt键窗口管理器和全球地址格式的解析库。
+*   C# 项目介绍了一款免更新切换游戏DLSS版本的工具以及VRM桌面虚拟伴侣。
+*   C++ 项目包含视觉小说翻译工具、C++ 语言特性互动教程和旧桌面应用注入新活力的SDK。
+*   Go 项目包括电车充电智能管理平台、数据库 MCP 工具、大模型 API 管理平台以及快速恢复专注的命令行工具。
+*   Java 项目包含全能计算机视觉库、JSON 读写工具和可视化拖拽的数据流管理平台。
+*   JavaScript 项目包括无样式 React 组件库、轻量级 CAPTCHA 替代方案、在线白板工具、伪 3D 图绘制工具以及网页内容截图库。
+*   Kotlin 项目介绍了深度定制 Android 系统界面的工具。
+*   Python 项目包括浏览器中运行的 JupyterLab、在线视频平台、异步 HTTP 请求库、无人机通信网络仿真平台和《绝区零》战斗模拟器。
+*   Rust 项目介绍了高性能分布式存储系统和命令行数据文件可视化浏览工具。
+*   Swift 项目包括 macOS 快捷键重塑工具和 MacBook 触控板电子秤应用。
+*   人工智能部分包括代码库 AI 友好格式转换工具、神经网络动态演示库、LLM 微调工具库、MacBook 专属的 AI 推理引擎和智能字幕助手。
+*   其他项目包括 LLM 应用设计指南、每日资讯 API 集合、2048 位运算游戏、HTML/CSS 版 Minecraft、电子墨水屏番茄时钟和用户脚本浏览器插件。
+*   开源书籍推荐了《Crypto 101》和《Think Stats》。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[聊聊俄乌冲突期间中国的应对策略]]></title>
-        <link href="https://www.huxiu.com/article/4797190.html" />
-        <id>https://www.huxiu.com/article/4797190.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大型语言模型, 偏见, 对齐, 安全, 伦理
+        <title><![CDATA[《HelloGitHub》第 109 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/109" />
+        <id>https://hellogithub.com/periodical/volume/109</id>
+        <updated>Mon, 28 Apr 2025 08:00:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源项目, 工具, AI, 教程, 数据库
 
 <br><br>总结:
-1. 大型语言模型(LLM)在各个领域展现出巨大潜力，但也存在固有的偏见，可能导致不公平或歧视性结果。
-2.  “对齐”是指确保LLM的目标与人类价值观和意图相符，是一个关键挑战。
-3.  LLM的安全性问题日益突出，包括生成有害内容、被用于恶意目的等。
-4.  解决这些问题需要开发更有效的技术和方法，以减少偏见、提高对齐性和安全性。
-5.  伦理考量至关重要，我们需要审慎地思考LLM的部署，确保其符合社会价值观，并最大程度地发挥其积极作用。
+1.  **UI 布局与音视频**: 介绍了C语言UI布局库Clay，以及开源AirPlay音频接入方案，可以将普通音响升级为无线音响。
+2.  **安全与备份**: C#跨平台云备份工具，可以加密、增量备份数据到云端。同时有Go项目保护网站免受AI爬虫攻击，以及抵御暴力破解攻击的防护工具(Python)。
+3.  **性能分析与优化**: 谷歌开源C++性能分析工具，Meta开源Android字节码优化工具，能够缩小APK体积。
+4.  **AI相关**:  Ghidra 逆向工具 AI 自动化，AI 生成长视频的神经网络，AI 自动生成代码库教程，以及自动选择经济型 GPU 的 AI 训练平台和用微信聊天记录微调大语言模型。
+5.  **数据库管理与灾备**: 单文件PHP数据库管理工具，零侵入SQLite数据库灾备工具。
+6.  **实用工具与框架**:  Rust的HTTP请求工具，Go的在线视频流媒体应用，Python简化并发编程的框架，Python自动整理import语句的工具，Linux换源脚本，在线工具箱，本地优先图片压缩工具, GitHub Actions 执行远程 SSH 命令。
+
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[《水浒传》中，武松为什么让人感到陌生？]]></title>
-        <link href="https://www.huxiu.com/article/4797007.html" />
-        <id>https://www.huxiu.com/article/4797007.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI模型, 版权, 训练数据, 侵权风险, 法律框架
+        <title><![CDATA[《HelloGitHub》第 106 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/106" />
+        <id>https://hellogithub.com/periodical/volume/106</id>
+        <updated>Mon, 27 Jan 2025 08:07:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源工具, 多语言, 跨平台, 人工智能, 实用资源
 
 <br><br>总结:
-1. 文章讨论了AI模型训练过程中涉及的版权问题，核心在于训练数据的使用是否构成侵权。
-2. 训练数据可能包含受版权保护的内容，未经授权的使用会引发版权诉讼风险。
-3. 现有的法律框架，如合理使用原则，在AI模型的应用中面临挑战，其适用性尚不明确。
-4. 文章强调需要进一步明确AI训练数据的版权归属和使用规则，以促进AI技术的健康发展，同时保护版权所有者的权益。
-5. 目前亟需建立更加完善的法律法规来规范AI模型的训练过程，平衡创新与版权保护之间的关系。
+1.  **SSHFS:** C语言项目，通过SSH挂载远程文件系统，支持Linux、BSD和macOS。
+2.  **远程连接工具:** C#项目，集成多协议(RDP, VNC, SSH)的远程连接管理工具，支持Windows系统。
+3.  **Windows 样式编辑器:** C#项目，开箱即用的Windows视觉样式编辑器，兼容Windows 7-11。
+4. **语言学习视频播放器:** C++项目，专为日语学习设计的mpv开源视频播放器，支持词典、字幕、生词卡功能。
+5.  **DJ 混音软件:** C++项目，免费开源的专业级 DJ 软件，支持多种平台。
+6.  **高性能 HashMap 库:** C++项目，高性能的 HashMap 库，内存友好、线程安全。
+7.  **可执行文件压缩工具:** 项目，压缩可执行文件，支持多种格式，压缩率高。
+8.  **Shell 脚本编译工具:** Go项目，将 Shell 脚本转为 Go 代码编译为二进制文件。
+9.  **简化开发环境工具:** 项目，一条命令创建配置好的开发环境。
+10. **Lua 嵌入 Go 程序:** Go项目，Lua 虚拟机和编译器，兼容 Lua5.1。
+11. **轻量级 Web 应用防火墙:** 项目，开源的轻量级 Web 应用防火墙，支持私有化部署。
+12. **Spring Boot 操作日志组件:** Java项目，开箱即用的 Spring Boot 操作日志组件。
+13. **Word 模板引擎:** Java项目，基于 Apache POI 的 Word 模板引擎，动态生成 Word 文档。
+14. **Android 文件传输工具:** JavaScript项目，Mac 上的 Android 文件传输工具。
+15. **电子书阅读器:** JavaScript项目，沉浸式的跨平台电子书阅读器。
+16. **Node.js 图像处理库:** JavaScript项目，高性能的 Node.js 图像处理库。
+17. **休息提醒助手:** JavaScript项目，跨平台的休息提醒助手。
+18. **Logo 资源库:** JavaScript项目，精美的 Logo 资源库。
+19. **Android 系统彩蛋:** Kotlin项目，Android 系统彩蛋大全。
+20. **移动端 UI 自动化测试框架:** Kotlin项目，移动端和 Web 应用 UI 自动化测试工具。
+21. **文本分块 Python 库:** Python项目，轻量级的文本分块 Python 库。
+22. **字体文件 Python 库:** Python项目，操作字体文件的 Python 库。
+23. **HTTP(S) 请求捕获工具:** Python项目，捕获 Python 程序中 HTTP(S) 请求的工具。
+24. **逆向工程 GDB/LLDB 插件:** Python项目，逆向工程设计的 GDB/LLDB 插件。
+25. **电力系统分析 Python 库:** Python项目，电力系统分析 Python 库。
+26. **Rust 代码可视化工具:** Rust项目，可视化 Rust 代码执行过程的工具。
+27. **代码库转 LLM 提示工具:** Rust项目，代码库转换为 LLM 提示的工具。
+28. **文件系统地牢游戏:** Rust项目，文件系统变成地牢游戏。
+29. **MacBook 刘海音乐控制中心:** Swift项目，MacBook 的刘海变成音乐控制中心。
+30. **SwiftUI 闪烁效果:** Swift项目，SwiftUI 闪烁效果动效库。
+31. **旧设备接入数字世界:** 人工智能项目，基于 ESP32 和 TensorFlow Lite，将旧设备接入数字世界。
+32. **LLM 结构化数据输出:** 人工智能项目，LLM 输出结构化数据的 Python 库。
+33. **C++ AI 工具包:** 人工智能项目，轻量级的 C++ AI 工具包。
+34. **小型语言模型训练:** 人工智能项目，从零开始训练小型语言模型。
+35. **Flutter 滑动操作组件:** 其他项目，Flutter 的滑动操作组件。
+36. **电子墨水屏待办/日历工具:** 其他项目，电子墨水屏的待办事项和日历管理工具。
+37. **Docker 自动反向代理:** 其他项目，为 Docker 容器自动配置 Nginx 反向代理。
+38. **开发者速查表:** 其他项目，为开发者准备的速查表。
+39. **地形渲染算法:** 其他项目，不到 20 行的地形渲染算法。
+40. **中文技术文档写作规范:** 其他项目，中文技术文档写作风格指南。
+41. **大模型基础书籍:** 开源书籍，大模型基础。
+42. **PyTorch 深度学习书籍:** 开源书籍，《学习 PyTorch 进行深度学习：从零到精通》。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国釜底抽薪，世卫砍预算大裁员]]></title>
-        <link href="https://www.huxiu.com/article/4796801.html" />
-        <id>https://www.huxiu.com/article/4796801.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：大语言模型, 安全对齐, 提示工程, 红队测试, 安全评估
+        <title><![CDATA[《HelloGitHub》第 108 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/108" />
+        <id>https://hellogithub.com/periodical/volume/108</id>
+        <updated>Fri, 28 Mar 2025 07:52:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 开源项目, 工具, 框架, 教程, 书籍
 
 <br><br>总结:
-1. 大语言模型 (LLM) 的快速发展带来了巨大的潜力，但也伴随着安全风险，包括生成有害内容、泄露敏感信息等。
-2. 安全对齐旨在确保 LLM 的行为符合人类价值观和安全规范，是解决安全问题的关键。
-3. 提示工程是控制 LLM 输出的重要方法，但恶意提示也可能绕过安全机制，引发安全问题。
-4. 红队测试通过模拟攻击者的行为，发现 LLM 的安全漏洞，是评估安全性的有效手段。
-5. 安全评估需要综合考虑多个方面，包括内容安全、隐私保护和系统健壮性，以确保 LLM 的安全可靠。
+- 介绍了C语言编写的Windows计时器，具有简洁、透明界面和自定义功能。
+- 介绍了命令行任务队列工具，可在后台按顺序执行任务，支持多种操作系统。
+- 介绍了开源游戏引擎，重温经典游戏，支持修改和扩展。
+- 介绍了歌声合成工具、ASCII 图表生成器、声音传输数据工具、游戏地图插件、主题配色方案、GraphQL 服务器生成库、缓存文件查找工具、微信聊天记录备份工具、Java 反序列化漏洞攻击工具、网盘资源转存平台、GitHub 通知管理工具、Markdown 协作平台、基准测试工具、React 动画库、手机行车记录仪、电子书转有声书工具、习惯追踪工具、Python 对象比较库、NGINX 配置安全工具、Python 桌面应用框架、B站直播切片助手、Rust 交互式编程工具、应用内购买解决方案等工具、库、框架及应用。
+- 介绍了微软开源的 AI Agent 初学者教程和机器学习代码跨框架转换工具。
+- 介绍了提升 JupyterLab 视觉体验的主题、网络质量测试脚本、海外网站开发经验和开源手写笔记应用。
+- 介绍了 Rust 数据结构与算法和关于程序员如何管理自己的情绪和职业心态的开源书籍。
+- 介绍了《软件工程中的问题解决艺术：如何让 MySQL 更好》书籍。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[立法确立同工同酬，欧盟各国为何进展缓慢？]]></title>
-        <link href="https://www.huxiu.com/article/4796721.html" />
-        <id>https://www.huxiu.com/article/4796721.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Transformer, 稀疏注意力, 长序列, 效率, 线性化
+        <title><![CDATA[《HelloGitHub》第 107 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/107" />
+        <id>https://hellogithub.com/periodical/volume/107</id>
+        <updated>Fri, 28 Feb 2025 08:00:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词: OOM守护进程, SQLite向量搜索, Windows升级助手, 图像查看器, AI算法
 
 <br><br>总结:
-1.  Transformer模型在处理长序列时面临计算复杂度高的挑战，尤其是在注意力机制上。
-2.  稀疏注意力机制被提出以降低计算复杂度，但现有的稀疏注意力方法通常需要手动设计或使用复杂的启发式算法。
-3.  本文提出了一种自动学习稀疏模式的方法，通过线性化的方式学习注意力矩阵的稀疏结构。
-4.  这种线性化的稀疏注意力方法能够有效降低计算复杂度，同时保持或提升模型性能，尤其是在处理长序列时。
-5.  实验结果表明，该方法在多个长序列任务上表现优异，证明了其效率和有效性。
+1.  **OOM守护进程:** 一个Linux守护进程，旨在预防因内存耗尽导致的系统卡死，通过提前终止占用内存最多的进程来实现。
+2.  **SQLite向量搜索扩展:** 一个轻量级的SQLite扩展，为SQLite数据库添加了插入和查询向量的能力，支持多种平台。
+3.  **Windows 11升级助手:** 一个开源工具，用于绕过硬件限制，将Windows 11安装到不支持的旧设备上。
+4.  **图像查看器:** 一款功能丰富的Windows图像查看工具，支持多种格式，界面简洁，并提供图像编辑功能。
+5. **AI算法**:一个利用Excel实现的AI算法教程，方便初学者理解AI的运行原理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[印度人，正在大量涌入加拿大]]></title>
-        <link href="https://www.huxiu.com/article/4796594.html" />
-        <id>https://www.huxiu.com/article/4796594.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 量子计算, 药物发现, 机器学习, 蛋白质折叠, 分子动力学
+        <title><![CDATA[《HelloGitHub》第 111 期]]></title>
+        <link href="https://hellogithub.com/periodical/volume/111" />
+        <id>https://hellogithub.com/periodical/volume/111</id>
+        <updated>Fri, 27 Jun 2025 07:56:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Windows, 自动化, 游戏, 引擎, AI
 
 <br><br>总结:
-1.  量子计算有望彻底改变药物发现过程，因为它能解决传统计算机难以处理的复杂问题。
-2.  机器学习与量子计算的结合，可以加速药物筛选和优化过程，例如通过更准确地预测药物与靶标蛋白的结合亲和力。
-3.  量子计算能够更精确地模拟蛋白质折叠，从而帮助理解疾病机制并设计更有效的药物。
-4.  利用量子计算进行分子动力学模拟，可以深入了解药物分子与生物系统之间的相互作用。
-5.  尽管仍处于早期阶段，但量子计算在药物发现领域展现出巨大的潜力，有望缩短研发周期并降低成本。
+1.  **安全工具:** C 项目提供 Windows 安全机制研究工具，提取密码、哈希等敏感信息，支持高级操作。
+2.  **自动化工具:** C# 项目是WPF桌面应用自动升级组件；另有Go项目提供跨平台批量重命名工具。
+3.  **游戏工具:** C++ 项目提供一键关闭 Windows Defender 工具；另有开箱即用的 Windows 游戏变速器。
+4.  **引擎:** C++ 项目提供向量检索与聚类引擎。
+5.  **文件管理:** Windows 文件管理多标签扩展工具可增强Windows 11 资源管理器。
+6.  **日志查看:** Go 项目是自带 Web 界面的实时日志查看工具。
+7.  **文件列表:** Go 项目是支持多种存储的文件列表程序。
+8.  **域名查询:** Go 项目是一键查找可用域名的工具。
+9.  **数字图书馆:** Java 项目是 Java 开发的个人数字图书馆。
+10. **卡牌游戏:** Java 项目是开源的策略类卡牌游戏引擎和模拟器。
+11. **代码质量:** JavaScript 项目提供 ESLint 插件提升代码质量。
+12. **记事本:** JavaScript 项目提供专为程序员打造的记事本。
+13. **动态视频:** JavaScript 项目提供用 React 制作动态视频的工具。
+14. **背单词:** JavaScript 项目提供极简的打字背单词网站。
+15. **健身指导:** JavaScript 项目提供开源的健身指导平台。
+16. **手电筒:** Kotlin 项目提供专业级 Android 手电筒应用。
+17. **野外生存:** Kotlin 项目是野外生存必备 Android 应用。
+18. **鼠标增强:** Objective-C 项目是 macOS 鼠标增强工具。
+19. **数据去重:** Python 项目是高效的数据去重备份工具。
+20. **Web 防火墙:** Python 项目是开源的 Web 应用防火墙。
+21. **有声书:** Python 项目是电子书转有声书的工具。
+22. **Systemd 管理:** Python 项目提供终端交互式 systemd 管理工具。
+23. **ROM 管理器:** Python 项目提供模拟器游戏玩家必备的 ROM 管理器。
+24. **文件分享:** Rust 项目提供极简的文件分享和短链接平台。
+25. **开发环境管理:** Rust 项目提供一站式多语言开发环境管理工具。
+26. **端口查看:** Rust 项目提供更友好的端口查看工具。
+27. **虚拟机:** Swift 项目是苹果开源的轻量级虚拟机。
+28. **工作区切换:** Swift 项目让 macOS 的工作区切换变得瞬间完成。
+29. **AI 编码助手:** AI 项目是终端里的 Claude 编码助手。
+30. **Gemini 工具:** AI 项目是谷歌 Gemini 命令行工具。
+31. **LLM 教程:** AI 项目是从零开始的 LLM 原理与实践教程。
+32. **vLLM:** AI 项目是从零开始构建的轻量级 vLLM。
+33. **提示词优化:** AI 项目提供优化 AI 提示词的工具。
+34. **论文摘要:** 其它项目提供每日自动生成 arXiv 论文摘要的工具。
+35. **信号干扰器:** 其它项目提供自制无线信号干扰器。
+36. **图片放大:** 其它项目提供悬停放大图片的浏览器插件。
+37. **Kubernetes:** 其它项目提供笨方法搭建 Kubernetes 集群的教程。
+38. **CUDA 教程:** 其它项目提供面向高性能计算初学者的 CUDA 教程。
+39. **背景移除:** 其它项目提供 OBS 背景移除插件。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[赵长鹏被特赦前的180天]]></title>
-        <link href="https://www.huxiu.com/article/4796371.html" />
-        <id>https://www.huxiu.com/article/4796371.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大模型, 评估, 人工智能, 基准测试, 任务
-
-<br><br>总结:
-1. 文章探讨了对大型语言模型（大模型）进行有效评估的重要性。
-2. 强调了通过基准测试，系统地评估大模型在不同任务上的性能。
-3. 讨论了现有的评估方法和基准测试的局限性。
-4. 提出了改进评估策略的建议，以更全面地了解大模型的能力和局限。
-5. 最终旨在推动人工智能领域的进步，促进更可靠、更有用的大模型的开发。
-]]></summary>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 应用商店部署, Memos, AList
+<br>Claw Cloud Run是一款免费容器，通过Github注册时间大于180天获得5美元赠金长期免费使用。用户可搭建各种Docker应用，在应用商店一键自动部署或手动部署。要查看Github注册时间，访问"https://api.github.com/users/XXX"并查找到"created at"后的日期。推荐部署的应用包括轻笔记应用Memos和网盘挂载工具AList。详情请参考相关Youtube视频。 
+总结: Claw Cloud Run是一款免费容器，用户通过Github注册时间获取免费赠金，可以在应用商店部署各种Docker应用，推荐部署Memos和AList。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[明火执仗]]></title>
-        <link href="https://www.huxiu.com/article/4795899.html" />
-        <id>https://www.huxiu.com/article/4795899.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：生成式人工智能, 知识产权, 版权, 法律, 风险
-
-<br><br>总结:
-1. 生成式人工智能的发展带来了新的知识产权挑战，尤其是在版权方面。
-2. 生成式AI模型训练所使用的数据可能涉及侵犯现有版权作品的问题，需要明确训练数据的合法来源。
-3. 生成式AI生成的内容，其版权归属尚不明确，可能涉及用户、开发者或所有者，需要法律界定。
-4. 使用生成式AI存在法律风险，包括侵权、虚假信息传播等，企业和个人需谨慎使用并承担责任。
-5. 亟需制定相关法律法规，以规范生成式人工智能的知识产权保护和使用，平衡创新与版权保护。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[日本第一位女首相上任，“二手周边”卖疯了？]]></title>
-        <link href="https://www.huxiu.com/article/4795853.html" />
-        <id>https://www.huxiu.com/article/4795853.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI生成内容, 搜索引擎, SEO, 算法, 排名
-
-<br><br>总结:
-1. AI生成内容（AIGC）的快速发展对搜索引擎优化（SEO）构成了新的挑战。
-2. 搜索引擎正在调整其算法，以识别和评估AIGC的质量和原创性，打击低质量的垃圾内容。
-3. 如何有效利用AIGC进行SEO，同时避免被算法惩罚，成为关键问题。
-4. 需要关注AIGC的质量、相关性和用户体验，优化AIGC的内容策略。
-5. SEO从业者需要适应新的变化，学习如何利用AI工具提升效率，同时遵守搜索引擎的规则。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[网红打卡潮，为何成香港景区灾难？]]></title>
-        <link href="https://www.huxiu.com/article/4795803.html" />
-        <id>https://www.huxiu.com/article/4795803.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词:  大型语言模型, 威胁建模, 安全风险, 对抗性提示, 开源
-
-<br><br>总结:
-1.  大型语言模型（LLM）的快速发展带来了新的安全风险，需要对其进行威胁建模。
-2.  LLM面临的主要安全威胁包括对抗性提示，攻击者可以通过精心设计的输入来绕过安全防护，导致模型输出有害或不准确的内容。
-3.  研究人员提出了针对LLM的威胁建模框架，用于识别和评估潜在的安全风险。
-4.  开源LLM的广泛使用进一步加剧了安全问题，因为攻击者可以更容易地访问和操纵模型。
-5.  需要开发更有效的安全措施，以应对LLM带来的安全挑战，并确保其安全可靠的应用。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[日本右转]]></title>
-        <link href="https://www.huxiu.com/article/4795800.html" />
-        <id>https://www.huxiu.com/article/4795800.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 人工智能, 医疗保健, 可访问性, 公平性, 部署
-
-<br><br>总结:
-1.  人工智能在医疗保健领域具有巨大潜力，尤其是在提高医疗服务可访问性方面。
-2.  为了确保人工智能在医疗保健领域的应用能够公平惠及所有人，需要解决潜在的偏见和不平等问题。
-3.  人工智能的部署应该谨慎且负责任，充分考虑伦理和社会影响。
-4.  文章强调了在人工智能医疗保健解决方案的设计、开发和部署过程中，必须优先考虑公平性和可访问性。
-5.  通过负责任的策略和措施，人工智能可以显著改善医疗保健服务，使其更普及、更高效。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[日本首任女首相，可能只是个过渡人物]]></title>
-        <link href="https://www.huxiu.com/article/4795361.html" />
-        <id>https://www.huxiu.com/article/4795361.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLM, 提示工程, 知识检索, 检索增强生成, 改进
-
-<br><br>
-总结:
-1.  文章探讨了大型语言模型(LLM)在知识密集型任务中的应用，指出其自身知识的局限性。
-2.  提出了通过提示工程和外部知识检索来增强LLM能力的检索增强生成 (RAG) 方法。
-3.  详细介绍了RAG的工作流程，包括检索相关知识并将其融入LLM的输入提示中。
-4.  讨论了不同检索策略、LLM架构和知识库构建方法对RAG性能的影响。
-5.  强调了RAG在提高LLM生成答案的准确性和可靠性方面的作用，并展望了未来的改进方向。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对话“苹果税”举报人：美国都免佣了，为何还收中国30%？]]></title>
-        <link href="https://www.huxiu.com/article/4795409.html" />
-        <id>https://www.huxiu.com/article/4795409.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大模型, 视频生成, 文本提示, 扩散模型, 时间一致性
-
-<br><br>总结:
-1. 文章主要探讨了利用大型语言模型(LLM)增强视频生成的方法。核心思想是使用文本提示来指导视频生成过程。
-2. 提出的方法基于扩散模型，通过对文本提示进行深入理解，生成高质量的视频内容。
-3. 研究重点关注如何提高生成视频的时间一致性，避免视频中出现不连贯或不自然的变化。
-4. 通过实验证明，该方法在生成具有流畅性和视觉吸引力的视频方面表现出色，优于其他同类方法。
-5. 这种基于大模型和文本提示的视频生成技术，为创作高质量视频内容提供了一种新途径。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[美国人能听懂“玩火者必自焚”吗？]]></title>
-        <link href="https://www.huxiu.com/article/4795210.html" />
-        <id>https://www.huxiu.com/article/4795210.html</id>
-        <updated>Wed, 29 Oct 2025 03:03:39 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大模型, 提示工程, 对齐, 价值观, 安全
-
-<br><br>总结:
-
-*   文章探讨了大模型在提升通用人工智能方面的潜力，强调了对齐问题的重要性，即确保模型的目标与人类价值观相符。
-
-*   提示工程被认为是引导大模型行为的关键技术，通过巧妙设计的提示，可以影响模型的输出和决策。
-
-*   文章指出，大模型不仅需要学习知识，还需要学习如何安全、负责任地应用这些知识。
-
-*   对齐过程需要考虑伦理、安全和法律等多个维度，以避免模型产生有害或不公正的输出。
-
-*   最终目标是构建与人类价值观对齐，既强大又安全可靠的大模型，从而促进人工智能的积极发展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token<br>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM实例、科学上网<br>
 <br>
-爪云是一个提供免费域名注册和内网穿透服务的平台。用户可以通过VPS部署，设置UUID和Cloudflare隧道Token来建立固定隧道模式。在使用前需要获取root权限并安装docker。临时隧道模式可以通过简单命令实现，而固定隧道模式需要用户提前准备UUID、Cloudflare隧道Token和隧道域名，然后通过相关docker命令来运行。相关视频教程提供了详细的操作指导，帮助用户快速部署和使用爪云服务。<br><br>总结: 爪云平台提供内网穿透服务，用户可通过VPS部署和UUID、Cloudflare隧道Token建立固定隧道模式。容器管理需用相关docker命令。视频教程提供操作指导。]]></summary>
+总结：文章介绍了如何在谷歌云平台上免费获取VPS，包括注册验证账号、创建免费VM实例、配置防火墙、SSH登录方式以及科学上网注意事项。注册账号需添加付款资料和方式，创建VM实例需选择免费配置和修改数据保护设置，配置防火墙并通过SSH登录方式连接VPS。在科学上网方面，建议使用Hysteria 2节点，注意免费政策和避免产生额外费用。搭建科学上网节点可选择命令行或面板方式，也可使用甬哥一键脚本简便操作。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Cloudflare、地址生成器、Github、域名、SSL证书<br>
+<br>
+美国地址生成器和Cloudflare提供了免费的注册地址，DigitalPlat的Github仓库上有相关资源。通过Github的star可以增加免费域名的额度，us.kg域名需要支付费用，但不占用免费域名额度。域名续期永久免费，每年续期一次，需要注意到期前180天内续期。Youtube视频中有详细的教程，提供更多帮助。总的来说，可以通过这些资源获取免费域名并管理SSL证书，非常便利。 <br><br>总结: Cloudflare和Github提供免费域名服务，Github的star可以增加额度，us.kg域名需支付费用，续期免费且需要在180天内续期。Youtube视频提供详细教程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg注册地址 Cloudflare FreeDNS 公共前缀列表 <br>
-us.kg免费域名已经挂了，但已注册的域名仍在使用。新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。目前域名的使用方式已发生变化，而且现在仍可以注册新的us.kg域名。需要注意的是，已注册的域名和新注册的域名有一定区别。 <br><br>总结: us.kg免费域名已挂，但已注册的域名仍可使用新注册的域名可托管到Cloudflare或FreeDNS现可注册新us.kg域名已注册与新注册域名有区别。]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、价格
+<br>
+稳定性和速度表现良好，无需保活，购买过程简单，价格适中。HostUNO提供的服务值得购买，用户体验良好。在搭建代理节点时速度表现良好，但ChatGPT降智检测插件可能存在问题。续费流程简单，总体而言，HostUNO是一个性价比较高的选择，推荐购买。 <br><br>总结: HostUNO提供稳定快速的服务，价格适中，购买流程简单，但ChatGPT检测插件可能存在问题，仍然值得购买。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN、保活<br>
-Serv00是一个科学上网工具，通过Cloudflare固定隧道和CDN回源，可以实现网页保活和远程保活。首先注册Serv00并登录，搭建科学上网节点，然后设置Cloudflare固定隧道和CDN回源，确保网页稳定运行。最后利用Cloudflare远程保活功能，设置Worker并调整保活频率，实现长时间的网页保持活跃状态。通过这些步骤，可以利用Serv00和Cloudflare实现稳定的科学上网和网页保活。总结: Serv00工具结合Cloudflare平台，可搭建稳定的科学上网节点，通过固定隧道和CDN回源，实现网页保活和远程保活，确保网页长时间运行。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名，受限，注册，KYC验证，Cloudflare
-US.KG域名正在受限，想注册的人可以先使用 https://dash.domain.digitalplat.org/ 进行注册和KYC验证，待域名状态恢复后托管到Cloudflare。注册需填写信息并验证邮箱，上传KYC文件，注册域名并托管到Cloudflare即可使用。使用免费域名的优点是免费续订，但需要注意缺点。详细步骤和教程可以参考Youtube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, Perplexity
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 域名, Cloudflare, 免费, 注册
 
-Deepseek是一个强大的搜索工具，可以通过网页端、APP和API进行使用。用户可以通过Deepseek进行沉浸式翻译、Chatbox和欧路词典等软件操作。同时，用户还可以将Deepseek进行本地部署，通过下载Ollama并在命令提示符输入相应指令即可使用。整个操作步骤可在视频中找到详细指导。总之，Deepseek为用户提供了多种使用方式，让用户能够更便捷地进行搜索和应用操作。 <br><br>总结: Deepseek提供了网页端、APP、API等多种使用方式，用户可以进行沉浸式翻译、Chatbox、欧路词典等操作，并且还可进行本地部署。]]></summary>
+免费域名注册地址提供了一种解决US.KG注册问题的替代方案，可以免费注册并托管域名到Cloudflare，享受一年免费服务。用户可以使用身份信息生成器注册账号，购买域名时输入优惠码(newuser)即可获得免费一年服务。接着，将域名托管到Cloudflare，将分配的两个名称服务器填入域名管理界面即可。详细步骤请参考Youtube视频教程。这一方案使用户能够解决注册问题并免费获得域名托管服务，是一个简单有效的解决方案。 
+
+<br><br>总结: 
+1. 提供免费域名注册解决方案
+2. 使用身份信息生成器注册账号
+3. 输入优惠码(newuser)购买域名
+4. 将域名托管到Cloudflare，填入名称服务器
+5. 详细步骤可参考Youtube视频教程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
