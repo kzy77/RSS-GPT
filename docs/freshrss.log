@@ -1,60 +1,66 @@
 ------------------------------------------------------
-Started: 2025-10-28 18:29:44.112737
-Existing_entries: 0
+Started: 2025-10-28 20:22:23.551878
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 154
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [《HelloGitHub》第 115 期](https://www.cnblogs.com/xueweihan/p/19169421)
-Token length: 154
+Append: [外滩峰会叙事体感：牌桌翻转](https://www.huxiu.com/article/4797944.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [昨天线下赛的复盘](https://www.cnblogs.com/huiduthinker/p/19170206)
-Token length: 154
+Append: [下一只黑天鹅，关税退款“大赌局”](https://www.huxiu.com/article/4797835.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [《手搓》TaskFactory带你安全的起飞](https://www.cnblogs.com/xiangji/p/19168188)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [我是如何通过开发微信小游戏赚得人生第一桶金的](https://www.cnblogs.com/zws-blogs/p/19167556)
-Token length: 56
+Append: [从芝麻菜到拉链，从细节看德国贫富差距](https://www.huxiu.com/article/4796396.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [我的一个oier朋友](https://www.cnblogs.com/KnightJerry/p/19167247)
-Token length: 154
+Append: [蒙古国的“茶杯风暴”，会影响西伯利亚力量2号管道吗？](https://www.huxiu.com/article/4797713.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [致敬1024,《手搓》轻量级EventBus](https://www.cnblogs.com/xiangji/p/19162095)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [一个基于 .NET 开源、功能强大的分布式微服务开发框架](https://www.cnblogs.com/Can-daydayup/p/19161812)
-Token length: 154
+Append: [寻求百亿美元贷款，中东油王日子不好过了](https://www.huxiu.com/article/4797347.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [从零开始: C#轻松预览PDF文件-支持跨平台AOT友好](https://www.cnblogs.com/luojin765/p/19160879)
-Token length: 154
+Append: [美国政府“停摆”，影响几何？](https://www.huxiu.com/article/4797159.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [扫描线学习笔记](https://www.cnblogs.com/TTC84/p/19158665)
-Token length: 149
+Append: [下一个希腊？IMF警告：美国债务率将飙破143%](https://www.huxiu.com/article/4797309.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [Berry.Live：开箱即用的.NET直播流媒体服务器](https://www.cnblogs.com/donpangpang/p/19157482)
-Token length: 157
+Append: [聊聊俄乌冲突期间中国的应对策略](https://www.huxiu.com/article/4797190.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [从一个普通程序员的角度，聊聊当前环境下，是否还适合做编程](https://www.cnblogs.com/skysailstar/p/19156943)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [做了一个概率小游戏，没想到服务器被打爆被攻击了！原因竟然是他？真没想到...](https://www.cnblogs.com/wenbochang/p/19156433)
-Token length: 154
+Append: [《水浒传》中，武松为什么让人感到陌生？](https://www.huxiu.com/article/4797007.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [刚刚，DeepSeek又一重大突破，小身材大智慧玩出新高度](https://www.cnblogs.com/freedom-w/p/19154169)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [官宣！博客园&小马算力达成战略合作——为开发者注入强劲“算力引擎”](https://www.cnblogs.com/cmt/p/19154039)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [从18w到1600w播放量，我的一点思考。](https://www.cnblogs.com/thisiswhy/p/19153798)
-Token length: 154
+Append: [美国釜底抽薪，世卫砍预算大裁员](https://www.huxiu.com/article/4796801.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [.NET驾驭Word之力：基于规则自动生成及排版Word文档](https://www.cnblogs.com/mudtools/p/19152884)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
-Append: [ASP.NET Core Blazor简介和快速入门二（组件基础）](https://www.cnblogs.com/shenchuanchao/p/19151711)
-Token length: 154
+Append: [立法确立同工同酬，欧盟各国为何进展缓慢？](https://www.huxiu.com/article/4796721.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://www.cnblogs.com/Can-daydayup/p/19151579)
-Token length: 73
+Append: [印度人，正在大量涌入加拿大](https://www.huxiu.com/article/4796594.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [央企程序员AI创业一个月感受 ✨](https://www.cnblogs.com/yubaolee/p/19150334/gantt)
-Token length: 154
+Append: [赵长鹏被特赦前的180天](https://www.huxiu.com/article/4796371.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [.NET运行时核心仓库的治理架构解析：责任分配与协作机制](https://www.cnblogs.com/shanyou/p/19150635)
+Append: [明火执仗](https://www.huxiu.com/article/4795899.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [日本第一位女首相上任，“二手周边”卖疯了？](https://www.huxiu.com/article/4795853.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [网红打卡潮，为何成香港景区灾难？](https://www.huxiu.com/article/4795803.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [日本右转](https://www.huxiu.com/article/4795800.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [日本首任女首相，可能只是个过渡人物](https://www.huxiu.com/article/4795361.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [对话“苹果税”举报人：美国都免佣了，为何还收中国30%？](https://www.huxiu.com/article/4795409.html)
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [美国人能听懂“玩火者必自焚”吗？](https://www.huxiu.com/article/4795210.html)
 append_entries: 20
-Finish: 2025-10-28 18:31:13.971857
+Finish: 2025-10-28 20:23:42.217976
