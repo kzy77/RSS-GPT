@@ -1,6 +1,60 @@
 ------------------------------------------------------
-Started: 2025-10-28 16:26:34.027051
-Existing_entries: 2
+Started: 2025-10-28 18:29:44.112737
+Existing_entries: 0
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-append_entries: 0
-Finish: 2025-10-28 16:26:40.795410
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [《HelloGitHub》第 115 期](https://www.cnblogs.com/xueweihan/p/19169421)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [昨天线下赛的复盘](https://www.cnblogs.com/huiduthinker/p/19170206)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [《手搓》TaskFactory带你安全的起飞](https://www.cnblogs.com/xiangji/p/19168188)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [我是如何通过开发微信小游戏赚得人生第一桶金的](https://www.cnblogs.com/zws-blogs/p/19167556)
+Token length: 56
+Summarized using gemini model: gemini-2.0-flash
+Append: [我的一个oier朋友](https://www.cnblogs.com/KnightJerry/p/19167247)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [致敬1024,《手搓》轻量级EventBus](https://www.cnblogs.com/xiangji/p/19162095)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [一个基于 .NET 开源、功能强大的分布式微服务开发框架](https://www.cnblogs.com/Can-daydayup/p/19161812)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [从零开始: C#轻松预览PDF文件-支持跨平台AOT友好](https://www.cnblogs.com/luojin765/p/19160879)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [扫描线学习笔记](https://www.cnblogs.com/TTC84/p/19158665)
+Token length: 149
+Summarized using gemini model: gemini-2.0-flash
+Append: [Berry.Live：开箱即用的.NET直播流媒体服务器](https://www.cnblogs.com/donpangpang/p/19157482)
+Token length: 157
+Summarized using gemini model: gemini-2.0-flash
+Append: [从一个普通程序员的角度，聊聊当前环境下，是否还适合做编程](https://www.cnblogs.com/skysailstar/p/19156943)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [做了一个概率小游戏，没想到服务器被打爆被攻击了！原因竟然是他？真没想到...](https://www.cnblogs.com/wenbochang/p/19156433)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [刚刚，DeepSeek又一重大突破，小身材大智慧玩出新高度](https://www.cnblogs.com/freedom-w/p/19154169)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [官宣！博客园&小马算力达成战略合作——为开发者注入强劲“算力引擎”](https://www.cnblogs.com/cmt/p/19154039)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [从18w到1600w播放量，我的一点思考。](https://www.cnblogs.com/thisiswhy/p/19153798)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [.NET驾驭Word之力：基于规则自动生成及排版Word文档](https://www.cnblogs.com/mudtools/p/19152884)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}
+Append: [ASP.NET Core Blazor简介和快速入门二（组件基础）](https://www.cnblogs.com/shenchuanchao/p/19151711)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx](https://www.cnblogs.com/Can-daydayup/p/19151579)
+Token length: 73
+Summarized using gemini model: gemini-2.0-flash
+Append: [央企程序员AI创业一个月感受 ✨](https://www.cnblogs.com/yubaolee/p/19150334/gantt)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [.NET运行时核心仓库的治理架构解析：责任分配与协作机制](https://www.cnblogs.com/shanyou/p/19150635)
+append_entries: 20
+Finish: 2025-10-28 18:31:13.971857

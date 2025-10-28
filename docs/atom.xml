@@ -2,115 +2,331 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-10-28T16:26:59Z</updated>
+    <updated>2025-10-28T18:32:03Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、命令、视频教程
-<br><br>
-总结: 本文介绍了使用爪云注册和免费域名注册进行内网穿透的方法，并提供了VPS部署所需的命令和网址。通过安装docker来实现临时或固定隧道模式，还给出了相关docker命令来管理容器。文章还附带了视频教程，详细介绍了爪云的注册、免费域名注册和部署科学上网节点的步骤。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名、挂了、Cloudflare、注册
-<br>
-us.kg免费域名被挂了，已注册的域名仍然存在。新的域名可以托管到Cloudflare上，也可以暂时托管到FreeDNS。目前仍可使用现有域名，但是否可以注册新的us.kg域名仍有待确认。要注意us.kg和dpdns.org域名的区别，选择合适的域名托管服务。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活
-<br>
-Serv00注册登录后，搭建科学上网节点，设置Cloudflare固定隧道和CDN回源，配置网页保活功能以保持节点在线状态。具体操作包括使用s*.serv00.com等域名登录，初始化系统并安装脚本，创建Cloudflare隧道和回源规则，通过多功能主页进行节点操作，设置Cloudflare远程保活Worker来定时保持节点在线。详细操作可参考提供的Github项目和Cloudflare主页，使用Windterm软件管理服务。整个过程可以帮助用户有效地搭建和维护科学上网节点。 
-<br><br>总结: 根据Serv00注册登录科学上网节点、Cloudflare隧道和回源配置，通过多功能主页和远程保活实现节点的稳定运行。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、托管、Cloudflare<br>
-总结: 通过使用 https://dash.domain.digitalplat.org/ 网址完成US.KG域名的注册和KYC验证，待域名状态恢复后可托管到Cloudflare使用。视频内容包括US.KG域名优点、注册账号、邮箱验证、KYC验证、注册域名并托管到Cloudflare等步骤。可以通过身份信息生成器注册账号并验证邮箱，上传KYC文件进行验证，注册域名并托管到Cloudflare，免费续订域名等。详细教程可查看Youtube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 官方网站, 客户端, API, 本地部署
+        <title><![CDATA[扫描线学习笔记]]></title>
+        <link href="https://www.cnblogs.com/TTC84/p/19158665" />
+        <id>https://www.cnblogs.com/TTC84/p/19158665</id>
+        <updated>Wed, 22 Oct 2025 18:10:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：扫描线, 矩形面积, 面积并, 矩形周长, 并集
 
-Deepseek是一个强大的搜索引擎工具，用户可以通过官方网站、客户端或API来使用。Deepseek还支持本地部署，用户可以通过下载Ollama并安装来实现。用户可以在Deepseek上进行沉浸式翻译、Chatbox等操作，同时支持第三方应用如欧路词典等。对于模型选择，用户可以参考硬件参考指南。通过Deepseek，用户可以体验到高效便捷的搜索和翻译功能。<br><br>总结: Deepseek提供了多种使用方式，包括官方网站、客户端、API和本地部署，用户可以根据自身需求选择合适的方式来使用这一强大的搜索引擎工具。]]></summary>
+<br><br>总结:
+1. 扫描线是一种用于解决几何问题的算法。
+2. 它可以用于计算多个矩形面积的并集。
+3. 扫描线还可以用于计算多个矩形周长的并集。
+4. 算法的核心思想是利用一条垂直扫描线，从左到右扫描整个区域，动态维护扫描线与矩形的交点信息。
+5. 通过计算扫描线移动过程中，覆盖的面积或周长增量，最终得到结果。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <title><![CDATA[Berry.Live：开箱即用的.NET直播流媒体服务器]]></title>
+        <link href="https://www.cnblogs.com/donpangpang/p/19157482" />
+        <id>https://www.cnblogs.com/donpangpang/p/19157482</id>
+        <updated>Wed, 22 Oct 2025 11:03:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：.NET, 直播流媒体, 服务器, 开源, Berry.Live
+
+<br><br>总结:
+要点1: Berry.Live 是一个基于 .NET 9 构建的开源直播流媒体服务器。
+要点2: 它的目标是提供一个简单、强大且易于使用的直播平台搭建方案。
+要点3: Berry.Live 旨在简化复杂的流媒体服务器配置过程。
+要点4: 适合想要快速搭建自己的直播平台的用户。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[从一个普通程序员的角度，聊聊当前环境下，是否还适合做编程]]></title>
+        <link href="https://www.cnblogs.com/skysailstar/p/19156943" />
+        <id>https://www.cnblogs.com/skysailstar/p/19156943</id>
+        <updated>Wed, 22 Oct 2025 08:59:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：三本，Java开发，重庆，行业经验，普通程序员
+
+<br><br>总结:
+1. 作者是一名三本通信工程专业的毕业生，通过培训班转行成为Java开发工程师。
+2. 他自2016年起在重庆从事Java开发工作，期间参与过前端开发，自学过C和Go语言。
+3. 他在5家公司任职过，拥有医疗、税务、农业、房地产、人工智能等多个行业的开发经验。
+4. 作者认为自己的履历虽然普通，但代表了大多数普通程序员的经历。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《HelloGitHub》第 115 期]]></title>
+        <link href="https://www.cnblogs.com/xueweihan/p/19169421" />
+        <id>https://www.cnblogs.com/xueweihan/p/19169421</id>
+        <updated>Tue, 28 Oct 2025 08:16:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：HelloGitHub, 开源项目, GitHub, 兴趣, 入门级
+
+<br><br>总结:
+1. HelloGitHub 是一个分享 GitHub 上有趣、入门级开源项目的平台。
+2. 该平台致力于激发用户对开源的兴趣。
+3. HelloGitHub 提供的项目涵盖实战项目、入门教程、黑科技、开源书籍、大厂开源项目等多种类型。
+4. 涉及多种编程语言，如 Python 等。
+5. 项目地址位于 github.com/521xueweihan/HelloGitHub。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[做了一个概率小游戏，没想到服务器被打爆被攻击了！原因竟然是他？真没想到...]]></title>
+        <link href="https://www.cnblogs.com/wenbochang/p/19156433" />
+        <id>https://www.cnblogs.com/wenbochang/p/19156433</id>
+        <updated>Tue, 21 Oct 2025 21:19:00 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <title><![CDATA[刚刚，DeepSeek又一重大突破，小身材大智慧玩出新高度]]></title>
+        <link href="https://www.cnblogs.com/freedom-w/p/19154169" />
+        <id>https://www.cnblogs.com/freedom-w/p/19154169</id>
+        <updated>Tue, 21 Oct 2025 09:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：DeepSeek-OCR, 视觉语言模型, 光学2D映射, 长上下文, DeepEncoder
+
+<br><br>总结:
+1. DeepSeek-OCR是由DeepSeek-AI提出的视觉语言模型（VLM），旨在探索通过光学2D映射压缩长上下文的可行性。
+2. 其核心组件包括DeepEncoder等模块。
+3. 具体的技术细节和性能表现需要查阅原文才能了解。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[官宣！博客园&小马算力达成战略合作——为开发者注入强劲“算力引擎”]]></title>
+        <link href="https://www.cnblogs.com/cmt/p/19154039" />
+        <id>https://www.cnblogs.com/cmt/p/19154039</id>
+        <updated>Tue, 21 Oct 2025 09:00:00 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <title><![CDATA[一个基于 .NET 开源、功能强大的分布式微服务开发框架]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/19161812" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/19161812</id>
+        <updated>Thu, 23 Oct 2025 22:41:00 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <title><![CDATA[从零开始: C#轻松预览PDF文件-支持跨平台AOT友好]]></title>
+        <link href="https://www.cnblogs.com/luojin765/p/19160879" />
+        <id>https://www.cnblogs.com/luojin765/p/19160879</id>
+        <updated>Thu, 23 Oct 2025 15:50:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：PdfiumViewer, 改写, 解析, 渲染, 开源
+
+<br><br>总结:
+1.  该项目对PdfiumViewer库进行了改写，旨在分离和精简其PDF解析核心功能。
+2.  改写后的库支持任意程序调用，生成渲染后的图片。
+3.  项目的全部代码已经开源，链接为 https://github.com/LdotJdot/LumPdfiumViewerSlim。
+4.  项目还提供了一个使用Avalonia实现的简单渲染示例。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[我是如何通过开发微信小游戏赚得人生第一桶金的]]></title>
+        <link href="https://www.cnblogs.com/zws-blogs/p/19167556" />
+        <id>https://www.cnblogs.com/zws-blogs/p/19167556</id>
+        <updated>Sun, 26 Oct 2025 22:49:00 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <title><![CDATA[我的一个oier朋友]]></title>
+        <link href="https://www.cnblogs.com/KnightJerry/p/19167247" />
+        <id>https://www.cnblogs.com/KnightJerry/p/19167247</id>
+        <updated>Sun, 26 Oct 2025 19:32:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：友谊，初中三年，纯粹，距离，回忆
+
+<br><br>总结:
+这段文字主要回忆了初中三年一段意外且纯粹的友谊。
+1. 这段友谊充满了温暖的回忆，例如暖阳，巧克力蛋糕，代码，书和甜汽水。
+2. 文中强调了“淡淡的模糊”，这暗示友谊维持在一种美好的距离感。
+3. 总之，这段文字表达了对初中时期纯真友谊的怀念，并认为当时的距离感是友谊得以美好的关键。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[将 EasySQLite 解决方案文件格式从 .sln 升级为更简洁的 .slnx]]></title>
+        <link href="https://www.cnblogs.com/Can-daydayup/p/19151579" />
+        <id>https://www.cnblogs.com/Can-daydayup/p/19151579</id>
+        <updated>Sun, 19 Oct 2025 23:02:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：EasySQLite, .NET 9, SQLite, .sln, .slnx
+
+<br><br>总结:
+1. EasySQLite是一个基于.NET 9的SQLite操作教程项目，用于学校班级学生信息管理。
+2. 主要内容是将EasySQLite项目解决方案文件格式从传统的.sln格式升级为更简洁的.slnx格式。
+3. EasySQLite项目已在GitHub上开源。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[央企程序员AI创业一个月感受 ✨]]></title>
+        <link href="https://www.cnblogs.com/yubaolee/p/19150334/gantt" />
+        <id>https://www.cnblogs.com/yubaolee/p/19150334/gantt</id>
+        <updated>Sun, 19 Oct 2025 20:05:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：央企程序员，摸鱼，创业，AI，推广
+
+<br><br>总结:
+央企程序员利用业余时间进行创业。<br>
+他迅速开发出产品，6天完成第一版，7天实现商业化。<br>
+随后，他积极进行全网推广，14天尝试全面推广。<br>
+创业过程中，他体验了喜悦和迷茫。<br>
+这次经历引发了他对AI时代的深刻思考。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[.NET运行时核心仓库的治理架构解析：责任分配与协作机制]]></title>
+        <link href="https://www.cnblogs.com/shanyou/p/19150635" />
+        <id>https://www.cnblogs.com/shanyou/p/19150635</id>
+        <updated>Sun, 19 Oct 2025 11:06:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：区域负责人，代码所有权，评审，问题处理，贡献者
+
+<br><br>总结:
+
+1. 文档定义了 dotnet/runtime 仓库的**区域负责人**制度，将代码库划分为不同的区域，并指定相应的负责人。
+2. **代码所有权**由区域负责人负责，他们负责审核和维护其区域内的代码质量。
+3. 文档明确了代码**评审**流程，确保所有代码变更都经过适当的审查，以保证代码质量和一致性。
+4. 定义了**问题处理**流程，包括问题的识别、分配、解决和验证，确保及时解决社区反馈和问题。
+5. 强调了社区**贡献者**的重要性，鼓励他们参与代码贡献和问题解决，并说明了如何参与。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[昨天线下赛的复盘]]></title>
+        <link href="https://www.cnblogs.com/huiduthinker/p/19170206" />
+        <id>https://www.cnblogs.com/huiduthinker/p/19170206</id>
+        <updated>Mon, 27 Oct 2025 21:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Re，逆向，Pyinstxtractor，Python，分析
+
+<br><br>总结:
+1. 做逆向题目时，不要在没有充分分析的情况下就开始写代码，要先进行分析，即使是猜测也好。
+2. 测试数据避免使用0，因为0可能与本身为空的数据混淆。
+3. 一道Re题分数最低，附件很大且F12显示大量Py开头的元素，初步判断为Python逆向。
+4. 使用Pyinstxtractor工具拆解exe文件，为后续分析做准备。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《手搓》TaskFactory带你安全的起飞]]></title>
+        <link href="https://www.cnblogs.com/xiangji/p/19168188" />
+        <id>https://www.cnblogs.com/xiangji/p/19168188</id>
+        <updated>Mon, 27 Oct 2025 10:42:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：TaskFactory, 性能优化, 批量获取, 产品详情, 多线程
+
+<br><br>总结:
+一、TaskFactory可以手动创建，效果显著。
+二、产品经理提出批量获取产品详情的需求，工程师实现但存在性能问题：每个商品获取需要0.1秒。
+三、工程师尝试使用TaskFactory进行优化，利用多线程并行处理产品详情获取，从而提升整体性能。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[从18w到1600w播放量，我的一点思考。]]></title>
+        <link href="https://www.cnblogs.com/thisiswhy/p/19153798" />
+        <id>https://www.cnblogs.com/thisiswhy/p/19153798</id>
+        <updated>Mon, 20 Oct 2025 22:09:00 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[.NET驾驭Word之力：基于规则自动生成及排版Word文档]]></title>
+        <link href="https://www.cnblogs.com/mudtools/p/19152884" />
+        <id>https://www.cnblogs.com/mudtools/p/19152884</id>
+        <updated>Mon, 20 Oct 2025 16:00:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：.NET, Word, 自动化, 文档生成, 排版
+
+<br><br>总结:
+1. MudTools.OfficeInterop.Word是一个.NET库，它封装了Microsoft Word的COM组件。
+2. 该库旨在帮助开发者实现Word文档的自动化生成和排版。
+3. 通过该库，开发者能够以面向对象的方式操作Word文档。
+4. 自动化文档生成和排版能有效提高办公效率。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ASP.NET Core Blazor简介和快速入门二（组件基础）]]></title>
+        <link href="https://www.cnblogs.com/shenchuanchao/p/19151711" />
+        <id>https://www.cnblogs.com/shenchuanchao/p/19151711</id>
+        <updated>Mon, 20 Oct 2025 08:31:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[致敬1024,《手搓》轻量级EventBus]]></title>
+        <link href="https://www.cnblogs.com/xiangji/p/19162095" />
+        <id>https://www.cnblogs.com/xiangji/p/19162095</id>
+        <updated>Fri, 24 Oct 2025 08:53:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: MediatR, 事件总线, 事件处理, 发布器, 处理器
+
+<br><br>总结:
+一、文章对比了MediatR和手搓事件总线，说明了.NET事件总线通常使用MediatR或其封装。
+二、文章阐述了事件处理的基本概念，包括：事件（已发生需通知的事件）、事件发布器（负责发布事件）以及事件处理器（接收通知并处理事件）。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github 注册时间, 注册链接, 应用部署, 推荐两款应用<br>
+总结:<br>
+Claw Cloud Run是一款提供免费容器服务的平台，用户只需在Github注册满180天即可获得5美元赠金，实现长期免费使用。通过查看Github注册时间的方法，用户可以获得注册时间的信息。推荐在Claw Cloud Run平台上部署两款应用：Memos（轻笔记应用）和AList（网盘挂载工具），可以通过一键自动部署或手动部署实现。详情可以观看Youtube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、科学上网
+
+谷歌云提供免费VPS服务，注册账号需添加付款方式，创建VM实例选择免费配置，开放防火墙设置入站规则等。科学上网需注意使用Hysteria 2节点，免费政策包括入站全免费和出站前200GB免费。详细操作可观看相关视频。总结: 谷歌云提供免费VPS服务，注册账号时需添加付款方式，并选择免费配置创建VM实例。在进行科学上网时，需要注意节点选择和免费政策限制。详细操作内容请参考相关视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址生成器 美国 Github Cloudflare<br>
+免费域名、续期、us.kg<br>
+
+1. 本文介绍了注册地址生成器和美国地址生成器的相关信息，并提供了DigitalPlat的Github仓库和Cloudflare官网链接。
+2. Cloudflare Pages提供了自定义域名及SSL证书解决方案。
+3. 提供了两种域名选择：dpdns.org免费、us.kg收费，us.kg不占用免费域名额度。
+4. 新用户可获得1个免费域名（通过Github加Star后增至2个），老用户可获得3个免费域名（通过Github加Star后增至4个）。
+5. 域名续期永久免费，每年续期一次，us.kg域名也需要每年续期。详细教程在Youtube视频中有介绍。<br><br>总结: 本文介绍了注册地址生成器、美国地址生成器、Github仓库、Cloudflare官网，以及提供的免费和收费域名选择、新老用户免费域名额度、域名续期信息。详细教程可在Youtube视频中查看。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
+<br>
+稳定性和速度表现良好，不需要保活。购买HostUNO服务，体验总体良好，下载Windterm并搭建代理节点，节点测速情况良好。需注意ChatGPT可能降智问题，续费方式简单。总体来说，HostUNO值得购买。感兴趣可查看相关链接。 
+<br><br>总结: HostUNO提供稳定性和速度良好的服务，购买简单，使用体验良好，需注意ChatGPT可能降智问题。值得购买。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 注册, 托管
+
+US.KG注册不了，推荐另一个免费域名，可托管到Cloudflare，免费一年。注册 Cloudflare 账号并使用身份信息生成器辅助填写信息，购买域名时输入优惠码享受一年免费服务。登录Cloudflare后添加域名，将分配的两个名称服务器填入域名管理界面。详细教程请查看Youtube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
