@@ -1,65 +1,66 @@
 ------------------------------------------------------
-Started: 2025-10-29 14:20:09.197425
-Existing_entries: 12
+Started: 2025-10-29 16:26:30.176268
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1475
+Token length: 6118
 Summarized using gemini model: gemini-2.0-flash
-Append: [第三季度增长停滞，“能源尖兵”陈华能否完成茅台年度增长目标](https://www.yicai.com/news/102886586.html)
-Token length: 2807
+Append: [影子调查｜宾馆里的刑讯逼供：1名“指居”者死亡，11名办案人员被判刑](https://m.thepaper.cn/detail/31851854)
+Token length: 2556
 Summarized using gemini model: gemini-2.0-flash
-Append: [集采转向：药企报价策略分化，不再追求最低价入选](https://www.yicai.com/news/102886596.html)
-Token length: 1836
+Append: [那些“染上网瘾”的老年人，要怎么和AI相处？](https://m.thepaper.cn/detail/31533770)
+Token length: 2205
 Summarized using gemini model: gemini-2.0-flash
-Append: [西南区域三季报公布，川渝领跑](https://www.yicai.com/news/102886610.html)
-Token length: 1382
+Append: [快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”](https://m.thepaper.cn/detail/31848128)
+Token length: 1703
 Summarized using gemini model: gemini-2.0-flash
-Append: [老龄化催生新需求，医疗器械厂家竞争门槛提高](https://www.yicai.com/news/102886405.html)
-Token length: 1098
+Append: [OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街](https://juejin.cn/post/7565337828420403215)
+Token length: 4438
 Summarized using gemini model: gemini-2.0-flash
-Append: [上交所受理两单科创可转债，还有多家企业在评估可行性](https://www.yicai.com/news/102886557.html)
-Token length: 2676
+Append: [微软冲上4万亿，苹果还差一步，AI狂欢下的泡沫隐忧](https://www.yicai.com/news/102886090.html)
+Token length: 2091
 Summarized using gemini model: gemini-2.0-flash
-Append: [今晚将迎年内最后一次降息？专访惠誉首席经济学家：政府关门加剧两难困境，美联储恐难连续“盲飞”](https://www.yicai.com/news/102886543.html)
-Token length: 963
+Append: [告别跨境“难贵慢”，临港打造出海金融超级生态](https://www.yicai.com/news/102886772.html)
+Token length: 237
 Summarized using gemini model: gemini-2.0-flash
-Append: [给京东拉来1.5亿新用户，京喜自营双11重在“盘货”](https://www.yicai.com/news/102886488.html)
-Token length: 1353
+Append: [车企兜底跨年购置税“锁单”消费者 同步推大额购车补贴促销量 业内：四季度冲量可能不会“凶猛”](https://www.yicai.com/video/102886779.html)
+Token length: 2515
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI如何驱动研发？诺奖得主们这样说](https://www.yicai.com/news/102886263.html)
-Token length: 3574
+Append: [“汽车产量第一城”桂冠旁落，深圳该担心吗](https://www.yicai.com/news/102886753.html)
+Token length: 1038
 Summarized using gemini model: gemini-2.0-flash
-Append: [公募单季盈利首破2万亿，4000点关口有何调仓伏笔？](https://www.yicai.com/news/102886564.html)
-Token length: 5247
+Append: [美的集团第三季度净利润增速放缓，柏林辞任副总裁](https://www.yicai.com/news/102886760.html)
+Token length: 901
 Summarized using gemini model: gemini-2.0-flash
-Append: [林伯强：区块链可以赋能中国绿色金融发展︱能源思考](https://www.yicai.com/news/102886556.html)
-Token length: 2356
+Append: [三季报汇总｜这家公司第三季度净利同比增23211.89%](https://www.yicai.com/news/102886717.html)
+Token length: 316
 Summarized using gemini model: gemini-2.0-flash
-Append: [下降的恩格尔系数、上升的餐饮消费](https://www.yicai.com/news/102886558.html)
-Token length: 453
+Append: [“十五五”规划建议解读：如何理解“投资于人”？](https://www.yicai.com/video/102886728.html)
+Token length: 1634
 Summarized using gemini model: gemini-2.0-flash
-Append: [宗馥莉公开露面！](https://www.yicai.com/news/102886482.html)
-Token length: 3774
+Append: [一财社论：用有温度的治理驱动经济发展](https://www.yicai.com/news/102886755.html)
+Token length: 4888
 Summarized using gemini model: gemini-2.0-flash
-Append: [原告举证、审理长达三年多，华信债五中介赔偿计算方法首度披露](https://www.yicai.com/news/102886446.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [发小红书、上兴趣班，中老年也能“潮”起来](https://www.yicai.com/news/102886412.html)
-Token length: 1468
+Append: [郑永年：中国还有较大的技术创新和产业空间 未来10年仍需要5%左右的经济增速](https://www.yicai.com/video/102885257.html)
+Token length: 1305
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国与日本等多国签署关键矿产协议，律师：难有实质性影响](https://www.yicai.com/news/102886318.html)
-Token length: 2860
+Append: [史上首家！英伟达市值破5万亿美元](https://www.yicai.com/news/102886716.html)
+Token length: 2250
 Summarized using gemini model: gemini-2.0-flash
-Append: [全球首个家务机器人开卖，月租3600，拿瓶水要1分钟，还得真人遥控](https://www.36kr.com/p/3530151056628871)
-Token length: 1419
+Append: [央行重启公开市场国债买卖操作，市场热议会否替代降准](https://www.yicai.com/news/102884352.html)
+Token length: 2690
 Summarized using gemini model: gemini-2.0-flash
-Append: [澎湃回声｜“清华林博士”直播卖“助儿童长高产品”被指虚假宣传，紧急下播并删视频](https://m.thepaper.cn/detail/31851677)
-Token length: 3160
+Append: [专访友邦人寿首席投资官：“固收+”策略让险资走出低利率困境](https://www.yicai.com/news/102886699.html)
+Token length: 2176
 Summarized using gemini model: gemini-2.0-flash
-Append: [第十一批集采开标现场直击：少有令人哗然的极端报价，倒逼行业升级效果显现](https://m.thepaper.cn/detail/31851519)
-Token length: 1000
+Append: [时隔十年，第四套生命表来了，对你的保费有什么影响？](https://www.yicai.com/news/102886685.html)
+Token length: 138
 Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜留学生猥亵被拘：法律面前没有“超国民待遇”](https://m.thepaper.cn/detail/31851393)
-Token length: 2646
+Append: [Shadowrocket 自建单节点转换教程：如何在安卓的 v2rayNG 或 Nekobox 中使用](https://uuzi.net/shadowrocket-to-v2rayng-nekobox/)
+Token length: 245
 Summarized using gemini model: gemini-2.0-flash
-Append: [今夜，美联储祭出“降息+停止缩表”组合拳？](https://wallstreetcn.com/articles/3758161)
+Append: [宇树科技将发布四足新品](https://www.yicai.com/news/102886621.html)
+Token length: 1703
+Summarized using gemini model: gemini-2.0-flash
+Append: [基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”](https://wallstreetcn.com/articles/3758110)
 append_entries: 20
-Finish: 2025-10-29 14:21:45.373858
+Finish: 2025-10-29 16:28:10.554779
