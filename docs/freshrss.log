@@ -1,33 +1,65 @@
 ------------------------------------------------------
-Started: 2025-10-30 08:25:43.225660
-Existing_entries: 14
+Started: 2025-10-30 10:20:57.468801
+Existing_entries: 9
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 2001
 Summarized using gemini model: gemini-2.0-flash
-Append: [亚马逊裁员3万人：AI时代的结构性裁员](https://www.huxiu.com/article/4798693.html)
-Token length: 1205
+Append: [8个月后，特朗普政府悄悄补缴WTO会费](https://www.yicai.com/news/102888277.html)
+Token length: 843
 Summarized using gemini model: gemini-2.0-flash
-Append: [“进博直通车”发车，加速激发黄浦千亿级产业集群活力](https://www.yicai.com/news/102887769.html)
-Token length: 933
+Append: [Cloudflare-workers-blog 搭建一个免费的动态博客！](https://www.freedidi.com/21364.html)
+Token length: 1033
 Summarized using gemini model: gemini-2.0-flash
-Append: [市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌](https://wallstreetcn.com/articles/3758264)
-Token length: 275
+Append: [耒阳童车产业园虚报产值被中央曝光：不具备产业条件](https://www.yicai.com/news/102888262.html)
+Token length: 1089
 Summarized using gemini model: gemini-2.0-flash
-Append: [1-9月港交所融资额全球第一 香港交易所主席唐家成：出海企业成新股市场主力军](https://www.yicai.com/video/102887640.html)
-Token length: 1209
+Append: [隆基绿能前三季度亏损34.03亿元，连续两个季度减亏](https://www.yicai.com/news/102888239.html)
+Token length: 816
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国联邦政府停摆经济代价多少？CBO：恐致美国经济损失140亿美元](https://www.yicai.com/news/102887564.html)
-Token length: 2637
+Append: [星巴克中国2025财年收入增长5%，高管再度回应出售中国业务股权](https://www.yicai.com/news/102888244.html)
+Token length: 1070
 Summarized using gemini model: gemini-2.0-flash
-Append: [海洋经济何以成为广西高质量发展“蓝色引擎”｜一线调研](https://www.yicai.com/news/102887603.html)
-Token length: 1947
+Append: [信息泛滥下国际传播如何促进全球健康与发展？专家学者这么说](https://www.yicai.com/news/102888249.html)
+Token length: 207
 Summarized using gemini model: gemini-2.0-flash
-Append: [“马克龙夫人被造谣为男性”案开审，女性为何总成假新闻攻击对象](https://m.thepaper.cn/detail/31851942)
-Token length: 2069
+Append: [输变电+硅料+煤炭+黄金+新材料多线龙头，估值仅16倍](https://www.yicai.com/vip/news/102887678.html)
+Token length: 1518
 Summarized using gemini model: gemini-2.0-flash
-Append: [湛江一村民称自家30年树龄的20棵果树疑因防蚊被清理，村委会未予赔偿](https://m.thepaper.cn/detail/31850210)
-Token length: 11513
+Append: [全球炽热行情下的财富之道，科技浪潮还能走多远？](https://www.yicai.com/news/102887313.html)
+Token length: 1777
 Summarized using gemini model: gemini-2.0-flash
-Append: [学习 Dify 的代码沙箱](https://juejin.cn/post/7565798770320097295)
-append_entries: 9
-Finish: 2025-10-30 08:26:04.081057
+Append: [年轻人可以从游戏虚拟资产的崩盘中学到啥？](https://www.yicai.com/news/102887781.html)
+Token length: 3424
+Summarized using gemini model: gemini-2.0-flash
+Append: [四中全会擘画“十五五”规划蓝图：以高质量发展筑牢中国式现代化根基](https://www.yicai.com/news/102887312.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [AI Agent正重塑万亿级商业逻辑，4大赛道标的值得布局](https://www.yicai.com/vip/news/102887666.html)
+Token length: 1018
+Summarized using gemini model: gemini-2.0-flash
+Append: [全球黄金需求三季度创新高，投资激增47%、ETF流入260亿美元](https://www.yicai.com/news/102888136.html)
+Token length: 2351
+Summarized using gemini model: gemini-2.0-flash
+Append: [虚增利润过亿、重大合同延迟披露，东尼电子财务造假手法败露](https://www.yicai.com/news/102888114.html)
+Token length: 348
+Summarized using gemini model: gemini-2.0-flash
+Append: [一财记者探访阿布扎比金融区 “喝咖啡都能遇见决策层” 宽松环境吸引全球资本集聚](https://www.yicai.com/video/102888053.html)
+Token length: 1651
+Summarized using gemini model: gemini-2.0-flash
+Append: [长江中游城市群新定位：做区域联动发展的表率｜解读“十五五”](https://www.yicai.com/news/102888090.html)
+Token length: 1558
+Summarized using gemini model: gemini-2.0-flash
+Append: [三季度营收环比“零增长”，天孚通信大跌11.56%](https://www.yicai.com/news/102888103.html)
+Token length: 1653
+Summarized using gemini model: gemini-2.0-flash
+Append: [核电势头稳健，4年核准41台机组投资超8000亿｜解读“十五五”](https://www.yicai.com/news/102888039.html)
+Token length: 2579
+Summarized using gemini model: gemini-2.0-flash
+Append: [赏金最高达2000余万元！多地法院高价悬赏“地产老赖”财产线索](https://www.yicai.com/news/102888064.html)
+Token length: 1216
+Summarized using gemini model: gemini-2.0-flash
+Append: [谁该为理想MEGA起火事故负责？律师详解➡](https://www.yicai.com/news/102887637.html)
+Token length: 1216
+Summarized using gemini model: gemini-2.0-flash
+Append: [预计拉动项目总投资超7万亿元！5000亿元新型政策性金融工具完成投放](https://www.yicai.com/news/102888069.html)
+append_entries: 20
+Finish: 2025-10-30 10:22:27.116975

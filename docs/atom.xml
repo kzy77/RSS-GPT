@@ -2,253 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-10-30T08:26:56Z</updated>
+    <updated>2025-10-30T10:23:14Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[湛江一村民称自家30年树龄的20棵果树疑因防蚊被清理，村委会未予赔偿]]></title>
-        <link href="https://m.thepaper.cn/detail/31850210" />
-        <id>https://m.thepaper.cn/detail/31850210</id>
-        <updated>Wed, 29 Oct 2025 16:10:05 +0800</updated>
-        <summary type="html"><![CDATA[菠萝蜜树，防蚊，补偿，村委会，协商
-
-今年8月，雷州沈塘村陈女士家的20棵菠萝蜜树被村委会以防蚊为由砍伐。<br>
-- 村委会事先与陈女士父亲沟通，表示可补偿果树损失，但需归还土地使用权。<br>
-- 陈女士一方因赔偿问题报警，导致村委会认为事情复杂化。<br>
-- 村委会表示愿意协商补偿，但因陈女士一方提出的10万元赔偿金额过高，未能达成一致。<br>
-- 陈女士认为村委会态度消极，不予理会，导致无法协商。<br><br>总结:
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[学习 Dify 的代码沙箱]]></title>
-        <link href="https://juejin.cn/post/7565798770320097295" />
-        <id>https://juejin.cn/post/7565798770320097295</id>
-        <updated>Tue, 28 Oct 2025 08:55:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 代码沙箱, Dify, Seccomp, 进程隔离, 安全机制
+        <title><![CDATA[8个月后，特朗普政府悄悄补缴WTO会费]]></title>
+        <link href="https://www.yicai.com/news/102888277.html" />
+        <id>https://www.yicai.com/news/102888277.html</id>
+        <updated>Thu, 30 Oct 2025 18:02:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 美国，WTO，会费，上诉机构，贸易规则
 
 <br><br>总结:
-1. Dify代码沙箱用于安全执行用户和AI生成的代码，场景包括工作流代码节点、代码执行工具和模板转换。
-2. 沙箱需满足进程、文件系统、网络、系统调用、权限和资源隔离，以及代码隐私保护等安全需求。
-3. 代码执行流程涉及加密编码、进程隔离、文件系统隔离（chroot）、用户权限隔离（setuid/setgid）、系统调用隔离（Seccomp）和网络隔离等多层防御。
-4. Seccomp通过白名单机制限制系统调用，结合CGO编译的共享库(python.so)实现安全隔离。
-5. Dify代码沙箱集成了多种Linux安全机制，提供安全可靠的代码执行环境，保护系统免受恶意代码侵害。
+1. 美国已向WTO支付了超过2500万美元的拖欠会费，避免了因拖欠会费而受到的“行政措施”。
+2. 尽管缴纳了会费，美国仍拒绝恢复WTO已经陷入瘫痪的上诉机构，持续阻挠上诉机构成员遴选。
+3. 美国在WTO争端解决中选择性执行裁决，是被列入DSB例会监督议程案件最多的成员，且执行裁决情况受到成员关注也最多。
+4. 美国缴纳会费并非出于对WTO的信任，而是为了维持其运转并继续参与技术工作，以有利于自身的方式参与WTO。
+5. 美国一方面削弱WTO执行全球贸易规则的能力，另一方面在与其他国家的贸易协议中包含要求这些国家支持WTO协议的条款，表明其对WTO的态度复杂且微妙。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[亚马逊裁员3万人：AI时代的结构性裁员]]></title>
-        <link href="https://www.huxiu.com/article/4798693.html" />
-        <id>https://www.huxiu.com/article/4798693.html</id>
-        <updated>Thu, 30 Oct 2025 15:03:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人工智能, 伦理, 治理, 风险, 可持续发展
+        <title><![CDATA[Cloudflare-workers-blog 搭建一个免费的动态博客！]]></title>
+        <link href="https://www.freedidi.com/21364.html" />
+        <id>https://www.freedidi.com/21364.html</id>
+        <updated>Thu, 30 Oct 2025 17:56:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Cloudflare Workers, KV数据库, 静态博客, 动态博客, Markdown
 
 <br><br>总结:
-要点1: 人工智能的快速发展带来了巨大的机遇，但也伴随着伦理和安全风险，需要认真对待。
-要点2: 人工智能伦理治理旨在规范人工智能的开发和应用，确保其符合人类价值观和道德标准。
-要点3:  人工智能治理需要多方参与，包括政府、企业、研究机构和社会组织，共同制定规则和标准。
-要点4:  识别和管理人工智能的潜在风险，例如偏见、歧视和隐私侵犯，至关重要。
-要点5: 人工智能的可持续发展需要平衡创新与安全，确保其长期对社会产生积极影响。
+1.  该博客程序运行在 Cloudflare Workers 上，使用 Cloudflare KV 作为数据库，无需其他依赖。
+2.  它结合了静态博客的速度和动态博客的灵活性，方便搭建和使用。
+3.  通过 Cloudflare 缓存 HTML 页面来降低 KV 的读写操作，所有页面均为缓存，实现静态博客的速度。
+4.  后台使用 Markdown 语法，方便快捷地编写文章，并提供一键发布功能，进行页面重构和缓存清理。
+5.  KV 基本不存在瓶颈，主要瓶颈在于 Workers 的日访问量限制（10 万），大约能承受 2 万 IP / 日。文章数方面，1G 存储空间可以容纳几万篇文章。
+6.  部署步骤包括创建 Workers 和 KV，并将 KV 绑定到 Workers，设置域名 DNS 并绑定到 Workers，获取缓存 API Token，粘贴源码并修改参数，最后进入 /admin 进行设置和发布文章。
+7.  评论系统推荐使用 Valine 等第三方服务。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“进博直通车”发车，加速激发黄浦千亿级产业集群活力]]></title>
-        <link href="https://www.yicai.com/news/102887769.html" />
-        <id>https://www.yicai.com/news/102887769.html</id>
-        <updated>Thu, 30 Oct 2025 14:59:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 进博直通车, 上海海关, 黄浦区, 保税展示交易, 营商环境
+        <title><![CDATA[耒阳童车产业园虚报产值被中央曝光：不具备产业条件]]></title>
+        <link href="https://www.yicai.com/news/102888262.html" />
+        <id>https://www.yicai.com/news/102888262.html</id>
+        <updated>Thu, 30 Oct 2025 17:54:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词：耒阳, 童车产业园, 招商引资, 虚报产值, 产业基础
 
 <br><br>总结:
-1.  上海海关在黄浦区启动“进博直通车”业务模式，允许保税监管场所货物直接运至进博会参展，无需“绕道”中转，提升效率，降低成本。
-2.  “进博直通车”简化了参展流程，优化了监管流程，手续简化50%以上,并确保进博会展品在“展前预演”“展后返库”更加顺畅。
-3.  该政策助力国际知名珠宝品牌维缇珐增加参展商品数量和货值，简化参展流程，节约成本，提升市场开拓效率。
-4.  “进博直通车”为上海国际珠宝时尚功能区注入动力，实现精准降本增效，提升运营灵活性，优化营商环境。
-5.  黄浦区依托“进博直通车”，放大进博会溢出效应，推动展品变商品，通过打造“展示—体验—交易”一体化平台，有效激发区域消费潜力。
+1. 耒阳市在不具备产业集聚发展条件的情况下，盲目规划建设“百亿级”童车产业园。
+2. 由于支撑条件不足、缺乏龙头企业带动，童车产业发展远不及预期。
+3. 官方多次夸大宣传企业入驻数量和产业园产值，实际入驻企业少，产值低，数据虚假。
+4. 当地政府在招商引资方面存在脱离当地实际情况的问题，未能充分研究论证，导致产业发展与预期不符。
+5. 《耒阳市2025年政府工作报告》也承认当地产业结构不够优，产业链条较短，产品附加值较低，财政收支难以平衡，政府债务化解压力仍然很大。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌]]></title>
-        <link href="https://wallstreetcn.com/articles/3758264" />
-        <id>https://wallstreetcn.com/articles/3758264</id>
-        <updated>Thu, 30 Oct 2025 14:48:31 +0800</updated>
-        <summary type="html"><![CDATA[中美元首会晤，市场反应，指数期货，国债收益率，货币汇率
-
-中美元首会晤后，市场出现反应：
-<br>1. 美国股指期货，如标普500和纳斯达克指数期货，从下跌转为持平。
-<br>2. 欧洲股指期货，如欧洲斯托克50和德国DAX指数期货，小幅走高。
-<br>3. 美国国债价格回升，10年期国债收益率下降。
-<br>4. 美元下跌，日元兑美元跌至数月低点，人民币变动不大。
-<br>5. 黄金先涨后跌，原油下跌，比特币下跌。
-<br><br>总结:
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[1-9月港交所融资额全球第一 香港交易所主席唐家成：出海企业成新股市场主力军]]></title>
-        <link href="https://www.yicai.com/video/102887640.html" />
-        <id>https://www.yicai.com/video/102887640.html</id>
-        <updated>Thu, 30 Oct 2025 14:05:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词：港交所，新股上市，融资额，科技企业，出海企业
+        <title><![CDATA[隆基绿能前三季度亏损34.03亿元，连续两个季度减亏]]></title>
+        <link href="https://www.yicai.com/news/102888239.html" />
+        <id>https://www.yicai.com/news/102888239.html</id>
+        <updated>Thu, 30 Oct 2025 17:53:47 +0800</updated>
+        <summary type="html"><![CDATA[隆基绿能, 净利润, 营收, BC产品, 光伏市场
 
 <br><br>总结:
-1. 1-9月港交所迎来66只新股上市，融资总额达1829亿港元，同比增长超过2倍，全球排名第一。
-2. 香港资本市场表现强劲，沪深港通成交额创新高。
-3. 新股市场呈现两大趋势：科技企业融资活跃，出海企业成为主力军。
+1. 隆基绿能2025年前三季度营收和净利润同比下降，但净利润亏损额逐季度减少，累计归母净利润同比减亏约48%。
+2. 业绩下滑主要受光伏行业低价竞争影响，公司通过降本增效和管理创新应对。
+3. 预计第四季度实现盈亏平衡，提升BC产品和场景化产品收入占比是关键策略，BC产品在欧洲市场具有溢价优势。
+4. BC产品产能持续增加，预计2025年末HPBC2.0电池产能占比将超过60%。
+5. 预计2026年光伏市场需求与今年接近，显著增长压力大，主要增长点在缺电和电力欠发达地区。今年前三季度硅片外销量38.15GW，组件外销量63.43GW，其中BC组件累计销量为14.48GW。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国联邦政府停摆经济代价多少？CBO：恐致美国经济损失140亿美元]]></title>
-        <link href="https://www.yicai.com/news/102887564.html" />
-        <id>https://www.yicai.com/news/102887564.html</id>
-        <updated>Thu, 30 Oct 2025 13:48:12 +0800</updated>
-        <summary type="html"><![CDATA[停摆, 经济损失, 食品券, 两党分歧, 解决方案
+        <title><![CDATA[星巴克中国2025财年收入增长5%，高管再度回应出售中国业务股权]]></title>
+        <link href="https://www.yicai.com/news/102888244.html" />
+        <id>https://www.yicai.com/news/102888244.html</id>
+        <updated>Thu, 30 Oct 2025 17:53:28 +0800</updated>
+        <summary type="html"><![CDATA[星巴克, 中国业务, 营收增长, 门店扩张, 潜在出售
 
 <br><br>总结:
-*   美国联邦政府停摆进入第四周，给经济造成每月约70亿美元的损失。
-*   参议员对达成两党协议重启政府持悲观态度，两党在医保补贴等问题上存在严重分歧。
-*   副总统万斯向民主党人施压，阻止其就食品券福利等法案进行投票。
-*   众议院议长认为为特殊项目拨款的投票是浪费时间，指责民主党缺乏诚意。
-*   多州联盟就政府暂停发放食品券提起诉讼，要求动用应急基金保障民众食品供应。
+*   星巴克第四季度全球营收同比增长5%，中国营收同比增长6%，连续四个季度保持增长，全年营收增长5%。
+*   星巴克持续在中国市场扩张，第四季度新开183家门店，进入47个县级市场，全年净新增门店415家，覆盖1091个县级城市。
+*   星巴克董事长表示，对出售中国业务股权一事，收到了多个高质量合作伙伴的兴趣，预计将保留重要股权。
+*   星巴克正寻找合适的合作伙伴，释放中国未来增长潜力，潜在交易价值包括前期投资、保留股权和未来特许权使用费。
+*   星巴克出售中国业务的传言已久，估值在50至60亿美元之间，预计交易将持续到2026年。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[海洋经济何以成为广西高质量发展“蓝色引擎”｜一线调研]]></title>
-        <link href="https://www.yicai.com/news/102887603.html" />
-        <id>https://www.yicai.com/news/102887603.html</id>
-        <updated>Thu, 30 Oct 2025 13:47:41 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 海洋经济, 生态保护, 红树林, 陆海统筹, 广西
+        <title><![CDATA[信息泛滥下国际传播如何促进全球健康与发展？专家学者这么说]]></title>
+        <link href="https://www.yicai.com/news/102888249.html" />
+        <id>https://www.yicai.com/news/102888249.html</id>
+        <updated>Thu, 30 Oct 2025 17:52:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词：信任，传播，全球健康，合作，共识
 
 <br><br>总结:
-1. 广西调整优化海洋生态保护红线，拓展海洋经济发展空间，海洋生产总值显著增长，高于全区GDP增速。<br>
-2. 广西聚焦西部陆海新通道等重大战略，高效服务保障重大项目，实现"项目跟着规划走、要素跟着项目走"。 <br>
-3. 广西大力推进海洋生态保护修复，包括整治岸线、修复滨海湿地和红树林等。<br>
-4. 广西通过平陆运河等重大工程建设，自然资源部门统筹解决耕地保护、临时用地等问题。<br>
-5. 广西加强海洋灾害预警监测能力建设，为保护沿海人民生命财产安全提供有力支撑。
+1. 当前全球面临信任危机，错误信息是严重威胁，传播应成为重建共识和团结的力量。
+2. 高质量信息是重要的公共资源，缺失会导致决策困难、成果难以落地、公众信任缺失。
+3. 本地化叙事和真诚沟通能有效提升信息可信度，使健康行动成为社区自发选择。
+4. 重建信任的关键在于真诚倾听和具象共情，而非单向说教。
+5. 以真诚和共情为路径的传播，才能跨越认知沟壑，唤起行动力量。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“马克龙夫人被造谣为男性”案开审，女性为何总成假新闻攻击对象]]></title>
-        <link href="https://m.thepaper.cn/detail/31851942" />
-        <id>https://m.thepaper.cn/detail/31851942</id>
-        <updated>Thu, 30 Oct 2025 07:21:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：布丽吉特·马克龙, 阴谋论, 变性人, 诽谤, 诉讼
+        <title><![CDATA[输变电+硅料+煤炭+黄金+新材料多线龙头，估值仅16倍]]></title>
+        <link href="https://www.yicai.com/vip/news/102887678.html" />
+        <id>https://www.yicai.com/vip/news/102887678.html</id>
+        <updated>Thu, 30 Oct 2025 17:32:26 +0800</updated>
+        <summary type="html"><![CDATA[光模块, 低温存储, 输变电, 硅料, 黄金
 
 <br><br>总结:
-1. 法国第一夫人布丽吉特·马克龙正遭受网络诽谤，被指控为“变性人”、“恋童癖”，10名被告已开庭审理，面临最高两年刑期。
-2. 阴谋论在法国和美国传播，马克龙夫妇已分别提起诉讼。
-3. 布丽吉特委托女儿出庭作证，表示阴谋论对其家人造成了“毁灭性影响”，并被迫关注自身形象。
-4. 美国评论员欧文斯公开宣称布丽吉特是男人，马克龙夫妇已在美国对其提起诉讼，将提供科学证据证明布丽吉特出生时是女性。
-5. 分析认为诉讼可能引起更多关注，甚至巩固虚假叙事，但也有助于向公众和肇事者发出信号，表明诽谤不是言论自由。
+1.  联特科技因AI发展带来的光模块投资机会，涨幅显著。
+2.  一家北交所公司卡位215亿低温存储赛道，实现全链条布局，并与国资委、协和、清华合作，有望受益于基层医疗设备更新。
+3.  A股一家公司集输变电、硅料、煤炭、黄金、新材料于一身，机构看好其下半年“反内卷”和黄金扩产，预计2025年净利润大幅增长。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、注册、VPS、命令<br>
-总结: 该文章介绍了爪云注册和内网穿透的方法。首先提到了爪云的注册链接和免费域名注册链接。然后介绍了在VPS部署所需的命令或网址，包括获取root权限、安装docker、临时隧道模式和固定隧道模式的步骤。最后提到了相关docker命令和视频教程的内容。整体内容涵盖了爪云的注册、内网穿透和VPS部署的方法。]]></summary>
+        <title><![CDATA[全球炽热行情下的财富之道，科技浪潮还能走多远？]]></title>
+        <link href="https://www.yicai.com/news/102887313.html" />
+        <id>https://www.yicai.com/news/102887313.html</id>
+        <updated>Thu, 30 Oct 2025 17:29:26 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI热潮, 资本支出, 市场续涨, 中国科技股, 长期投资
+
+<br><br>总结:
+1. 作者认为当前AI热潮与互联网泡沫时期虽有相似之处，但市场仍有上涨空间。
+2. AI领域的资本支出未见放缓，需求有望消化产能扩张，且早期应用已开始显现经济效益。
+3. 投资者需警惕AI热潮中的潜在风险，如产能过剩和能源供应瓶颈。
+4. 除AI外，美国宏观经济表现超预期，美联储降息及宽松财政政策也将利好市场。
+5. 看好中国科技股、日本股市、新兴市场和欧洲市场的部分行业，以及AI、电力资源、长寿经济三大长期投资主题。
+6. 建议投资者聚焦长期财务目标，保持投资组合多元化，持续看好优质债券和黄金。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <title><![CDATA[年轻人可以从游戏虚拟资产的崩盘中学到啥？]]></title>
+        <link href="https://www.yicai.com/news/102887781.html" />
+        <id>https://www.yicai.com/news/102887781.html</id>
+        <updated>Thu, 30 Oct 2025 17:29:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: CS2饰品, 投资, 规则, 价值, 年轻人
+
+<br><br>总结:
+1. 年轻人热衷于游戏饰品等“带收益的娱乐”，但容易忽略背后的逻辑导致亏损。
+2. 常见的三个坑是：将喜欢当价值（忽略产品价值支撑），搞不懂规则制定者（规则随意性大），跟风赚快钱（幸存者偏差）。
+3. 此次CS2崩盘是个学习机会，投资前要思考产品价值、规则制定者及风险承受能力。
+4. 将“玩”的热情转化为“学”的动力，通过研究交易数据等方式了解市场规律。
+5. 现在的小坑是未来经验，无论饰品还是基金，底层逻辑都是懂价值、控风险、不跟风。这次崩盘提醒年轻人要搞懂背后的逻辑，玩得开心，玩有所得。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[四中全会擘画“十五五”规划蓝图：以高质量发展筑牢中国式现代化根基]]></title>
+        <link href="https://www.yicai.com/news/102887312.html" />
+        <id>https://www.yicai.com/news/102887312.html</id>
+        <updated>Thu, 30 Oct 2025 17:28:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 十五五规划, 高质量发展, 科技创新, 内需战略, 制度型开放
+
+<br><br>总结:
+1. 二十届四中全会审议通过了“十五五”规划建议，为2026-2030年中国经济社会发展锚定方向，该时期被定位为“为基本实现社会主义现代化夯实基础、推进全面发展的攻坚阶段”。
+2. 面对复杂国际环境，强调以历史主动精神集中力量办好自己的事，重申“坚持以经济建设为中心”，推动“质与量协同提升”的高质量发展。
+3. 将“建设现代化产业体系”置于首位，强调科技创新服务于实体经济，构建以先进制造业为骨干的产业体系，发展航天强国，一体化拓展基础设施。
+4. 科技创新从“有无”转向“高水平”，重心向原始创新倾斜，以“新质生产力”为核心使命，推动前沿技术突破和规模化产能。
+5. 内需战略从投资驱动转向人与物并重，通过完善社会保障、优化收入分配、提升公共服务来增强居民消费能力和意愿。
+6. 扩大高水平对外开放，稳步扩大制度型开放，以规则、规制、管理、标准的国际对接为核心，提升在全球经济治理中的参与度与影响力。
+7. 加大保障和改善民生力度，扎实推进共同富裕，推动房地产高质量发展，促进人口高质量发展，重视产业链供应链安全、科技安全等关键领域的安全能力建设。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[AI Agent正重塑万亿级商业逻辑，4大赛道标的值得布局]]></title>
+        <link href="https://www.yicai.com/vip/news/102887666.html" />
+        <id>https://www.yicai.com/vip/news/102887666.html</id>
+        <updated>Thu, 30 Oct 2025 17:27:54 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg，免费域名，挂了，注册，Cloudflare
-<br>已注册的us.kg域名仍然存在，新的域名也可以托管到Cloudflare，现在可以临时托管到FreeDNS。关于注册新域名，目前仍然可以注册us.kg域名。需要注意的是，us.kg域名和dpdns.org域名有区别。通过这篇文章可以了解到关于us.kg域名的最新情况及如何注册和托管域名。<br><br>总结: us.kg域名目前仍然存在，新的域名可以托管到Cloudflare，已注册的域名可以临时托管到FreeDNS，现在可以注册新的us.kg域名，us.kg和dpdns.org域名有区别。]]></summary>
+        <title><![CDATA[全球黄金需求三季度创新高，投资激增47%、ETF流入260亿美元]]></title>
+        <link href="https://www.yicai.com/news/102888136.html" />
+        <id>https://www.yicai.com/news/102888136.html</id>
+        <updated>Thu, 30 Oct 2025 17:13:53 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 黄金需求, 投资需求, ETF, 央行购金, 中国市场
+
+<br><br>总结:
+*   全球黄金需求在2025年第三季度创下单季新高，主要由投资需求驱动，同比增长47%，其中黄金ETF表现亮眼。
+*   美联储降息并结束量化紧缩政策，未来美元走弱、降息预期等因素或将进一步提振黄金投资需求。
+*   尽管中国市场零售黄金投资与消费需求有所下降，但前三季度黄金ETF流入量仍创历史新高。
+*   全球央行持续购金，三季度净购金量同比增长10%，表明黄金作为避险资产的战略配置价值依然存在。
+*   地缘冲突、通胀压力及贸易政策不确定性等因素仍然支撑黄金需求。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活<br>
-Serv00是一个免费的科学上网工具，通过Cloudflare固定隧道和CDN回源来确保网络稳定和速度优化。用户可以通过Serv00搭建自己的科学上网节点，并使用Cloudflare的固定隧道功能以及CDN回源功能来对网页进行加速和保护。此外，用户还可以通过网页保活功能来保持网站的运行状态。通过Cloudflare远程保活功能，用户可以远程控制并保持网站的正常运行。整个教程详细介绍了如何使用Serv00和Cloudflare来搭建稳定、快速的网络环境，保证用户可以顺畅地访问互联网内容。<br><br>总结: Serv00工具可以帮助用户科学上网，通过Cloudflare的固定隧道和CDN回源功能来优化网络速度和稳定性，同时还可以使用网页保活和Cloudflare远程保活功能来保持网站的运行状态。]]></summary>
+        <title><![CDATA[虚增利润过亿、重大合同延迟披露，东尼电子财务造假手法败露]]></title>
+        <link href="https://www.yicai.com/news/102888114.html" />
+        <id>https://www.yicai.com/news/102888114.html</id>
+        <updated>Thu, 30 Oct 2025 17:07:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 东尼电子, 财务造假, 虚增利润, 广东天域, 股权质押
+
+<br><br>总结:
+1. 东尼电子因重大合同履行不达预期未及时披露，涉及与广东天域6.75亿元碳化硅衬底采购合同，实际交付量远低于预期。
+2. 公司在2022年年报和2023年半年报中虚增利润总额高达1.11亿元，通过少计研发费用、营业成本及资产减值损失等手段实现。
+3. 关联方东尼实业代垫资金采购原材料但未入账是造假手段之一。
+4. 东尼电子实控人沈新芳、沈晓宇存在高比例股权质押，面临平仓风险，与股价下跌时间重合。
+5. 广东天域正处于上市关键期，与东尼电子无股权关联。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、Cloudflare、视频教程
-US.KG域名现在受限，可以通过 https://dash.domain.digitalplat.org/ 进行注册和KYC验证。注册账号并验证邮箱，进行KYC验证，注册域名并托管到Cloudflare。视频教程详细介绍注册流程。US.KG免费域名注册地址：https://dash.domain.digitalplat.org/，利用Cloudflare网站进行域名托管。总结：US.KG域名受限，需通过指定网址注册，完成KYC验证后托管到Cloudflare，视频提供详细教程。]]></summary>
+        <title><![CDATA[一财记者探访阿布扎比金融区 “喝咖啡都能遇见决策层” 宽松环境吸引全球资本集聚]]></title>
+        <link href="https://www.yicai.com/video/102888053.html" />
+        <id>https://www.yicai.com/video/102888053.html</id>
+        <updated>Thu, 30 Oct 2025 17:05:30 +0800</updated>
+        <summary type="html"><![CDATA[阿布扎比, 金融自由区, ADGM, 留人攻略, 制度设计
+
+<br><br>总结:
+1. 阿布扎比正在摆脱对石油的依赖，努力建设金融新地标。
+2. 阿布扎比金融自由区（ADGM）并非依靠硬性推销吸引全球资本。
+3. ADGM的核心策略是环环相扣的“留人攻略”。
+4. “留人攻略”包括极具吸引力的入门政策、令人安心的制度设计。
+5. 提供让人不想离开的优质生活体验，以此吸引并留住全球资本和人才。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署  
-总结:  
-Deepseek是一个搜索引擎工具，可以通过网页端、APP和API进行使用。用户可以在Deepseek网站注册并使用其服务，也可以通过手机应用商店下载官方客户端。Deepseek还提供API，注册用户将获得10元体验金，可以用于沉浸式翻译、Chatbox、欧路词典等第三方应用，甚至进行本地部署。用户可通过下载Ollama并安装，在命令提示符中输入下载和运行指令，使用Chatbox进行模型选择。详细操作和模型选择可参考视频内容。]]></summary>
+        <title><![CDATA[长江中游城市群新定位：做区域联动发展的表率｜解读“十五五”]]></title>
+        <link href="https://www.yicai.com/news/102888090.html" />
+        <id>https://www.yicai.com/news/102888090.html</id>
+        <updated>Thu, 30 Oct 2025 17:05:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 长江中游城市群, 区域联动发展, 全国一盘棋, 区域协调, 空间重塑
+
+<br><br>总结:
+1.  《建议》提升了长江中游城市群在国家规划中的地位，要求其在区域联动发展中做出表率。
+2.  长江中游城市群将迎来区位通道价值凸显、产业承接与创新协作并重、中心城市能级与辐射力提升等战略机遇。
+3.  “十五五”时期，区域联动发展应从区域竞争转向区域协同，通过互联互通构建全国一体化的经济循环体系。
+4.  要从“行政区经济”向“功能区经济”转型，通过跨行政区规划统筹、产业协作和利益共享机制，强化城市群和都市圈协同发展。
+5.  要构建多中心、多层级、互支撑的空间格局，强化区域中心城市与关键节点地区的辐射带动作用，推动由单极带动向联动发展转变。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[三季度营收环比“零增长”，天孚通信大跌11.56%]]></title>
+        <link href="https://www.yicai.com/news/102888103.html" />
+        <id>https://www.yicai.com/news/102888103.html</id>
+        <updated>Thu, 30 Oct 2025 17:04:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 天孚通信, 光模块, 环比负增长, 数据中心, 算力需求
+
+<br><br>总结:
+1. 天孚通信三季度营业收入环比负增长，净利润环比增速接近零，与之前的高增长和股价大涨形成对比。
+2. 业绩下滑原因可能包括产品结构变化、下游需求不及预期、国际贸易不确定性等。
+3. 市场对光模块投资前景存在争议，有观点认为高估值难以维持，存在供过于求的风险，也有观点认为需求依然强劲，可以逢低关注。
+4. 部分券商分析师依然看好天孚通信，认为受益于AI和算力需求，数据中心建设带动光器件需求增长，1.6T产品有望贡献新业绩。
+5. 行业下游英伟达股价创新高，可以作为观察光模块需求的参考指标。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[核电势头稳健，4年核准41台机组投资超8000亿｜解读“十五五”]]></title>
+        <link href="https://www.yicai.com/news/102888039.html" />
+        <id>https://www.yicai.com/news/102888039.html</id>
+        <updated>Thu, 30 Oct 2025 16:58:47 +0800</updated>
+        <summary type="html"><![CDATA[关键词：核电，发展，安全，成本，能源
+
+<br><br>总结:
+1. 未来五年核电发展势头保持稳定，预计每年核准8台左右机组，整体规模稳定连续增长。
+2. 中国核电总装机规模已突破1.25亿千瓦，连续保持世界第一，全球核电发电量创近十年新高，多家机构上调核能发展预期。
+3. 发展核电有助于优化能源结构，减少碳排放，保障能源供应稳定，并拉动国民经济发展。
+4. 目前面临的问题是核电电价较高，需要降低工程造价，优化工程建设和运维，控制工期，提升竞争力。
+5. 核能发展必须建立在高水平核安全的基础上，保障上百台机组近百年安全运行，确保核电建设规模化高峰期建造质量。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[赏金最高达2000余万元！多地法院高价悬赏“地产老赖”财产线索]]></title>
+        <link href="https://www.yicai.com/news/102888064.html" />
+        <id>https://www.yicai.com/news/102888064.html</id>
+        <updated>Thu, 30 Oct 2025 16:58:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 执行难, 悬赏公告, 房地产, 南通三建, 资产线索
+
+<br><br>总结:
+1.  面对“执行难”，法院尝试利用社会力量寻找可执行资产，如青岛中院对南通三建高管发布最高2535万元悬赏公告。
+2.  深圳福田区法院此前也对南通三建发布过悬赏公告，最高赏金65万元。
+3.  近期多地法院对房企及关联企业发布悬赏公告，金额从74万元到9261万元不等，反映房地产行业资金链断裂、债务链条复杂的执行困境。
+4.  南通三建曾是建筑业巨头，受恒大债务危机影响严重，公开账面缺乏可执行资金。
+5.  “悬赏执行”机制旨在破解被执行人藏匿财产、拒不配合导致的执行难题，暴露出法院在查找可供执行资产方面的困难。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[谁该为理想MEGA起火事故负责？律师详解➡]]></title>
+        <link href="https://www.yicai.com/news/102887637.html" />
+        <id>https://www.yicai.com/news/102887637.html</id>
+        <updated>Thu, 30 Oct 2025 16:56:23 +0800</updated>
+        <summary type="html"><![CDATA[理想MEGA, 电池安全, 宁德时代, 责任认定, 消费者维权
+
+<br><br>总结:
+1. 理想MEGA起火事件引发对三元锂离子动力电池安全的关注，该电池由宁德时代提供。
+2. 新能源汽车起火事故责任认定复杂，需跨学科专业鉴定确定起火原因，包括电芯缺陷、BMS故障、外部碰撞等。
+3. 责任主体可能是电池生产商、整车厂（电池包集成、热管理设计等），也可能与车主用车习惯有关。
+4. 法律层面，生产者可能承担产品侵权责任，销售者可能面临侵权与违约责任，极端情况可能触发惩罚性赔偿。
+5. 消费者维权需构建完整证据链，包括火灾事故认定书、现场视频、损失票据等，并可选择诉讼、保险索赔、向监管部门投诉等多种维权途径。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[预计拉动项目总投资超7万亿元！5000亿元新型政策性金融工具完成投放]]></title>
+        <link href="https://www.yicai.com/news/102888069.html" />
+        <id>https://www.yicai.com/news/102888069.html</id>
+        <updated>Thu, 30 Oct 2025 16:55:40 +0800</updated>
+        <summary type="html"><![CDATA[科技创新, 扩大消费, 稳定外贸, 金融工具, 民间投资
+
+<br><br>总结:
+1. 为了支持科技创新、扩大消费、稳定外贸等方向，中国设立了5000亿元新型政策性金融工具，已全部完成投放。
+2. 该工具特点是快速高效，从提出到投放仅用时数月。
+3.  该工具重点支持经济大省和民间投资项目，能有效解决项目资本金不足的问题，撬动银行贷款和社会资本，形成倍增效应。
+4. 该工具由国开行、进出口银行、农发行分别投放，预计可拉动项目总投资超7万亿元。
+5. 借鉴2022年政策性开发性金融工具的经验，预计该工具支持的项目将在四季度密集落地，转化为实物工作量，促进经济发展。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run、免费容器、Github注册时间、部署、两款应用<br>
+<br>
+关于Claw Cloud Run，只要Github注册时间大于180天，即可每月获得5美元赠金，从而长期免费使用。通过查看Github注册时间的方法，可以获取注册日期。推荐部署两款应用：1. Memos是轻笔记应用；2. AList是网盘挂载工具。详细内容可以查看Youtube视频。总的来说，Claw Cloud Run是一款允许搭建各种Docker应用的免费容器，注册时间大于180天的用户可以获得5美元赠金，用于长期免费使用。同时可以通过查看Github注册时间来确认注册日期，并推荐使用Memos和AList两款应用。<br><br>总结: Claw Cloud Run是一款免费容器，注册时间大于180天的用户可获得5美元赠金，可部署各种Docker应用，推荐使用Memos和AList两款应用。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录
+
+谷歌云提供免费VPS，注册账号需要添加付款方式，可选择不立即激活完整账号。创建VM实例时要选择特定配置，并注意修改数据保护设置以避免费用。开放防火墙需设置入站和出站规则。可通过官方后台或第三方SSH工具登录。搭建科学上网节点时建议使用Hysteria 2节点，注意出站流量免费限额，避免使用Cloudflare CDN加速以避免费用产生。详细操作请观看相关视频。 
+
+<br><br>总结: 
+谷歌云提供免费VPS，注册账号需添加付款方式并选择不立即激活完整账号，创建VM实例时选择特定配置并修改数据保护设置，设置开放防火墙规则，可使用官方后台或第三方SSH工具登录，搭建科学上网节点时注意流量限额和避免产生费用。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、dpdns.org、us.kg<br>
+<br>
+注册DigitalPlat提供的地址生成器获取美国地址，并通过Github仓库获取相关信息，使用Cloudflare官网提供的服务获取Pages自定义域及SSL证书。域名可选择免费的dpdns.org或收费的us.kg，新用户可获得1个免费域名（Github加Star后可增加至2个），老用户可获得3个免费域名（Github加Star后可增加至4个），us.kg域名不计入免费域名额度，续期永久免费，需每年续期一次。详细教程可查看Youtube视频。<br><br>总结: 注册DigitalPlat，获取美国地址并查询Github仓库，使用Cloudflare提供的Pages服务和SSL证书，选择免费域名dpdns.org或收费us.kg，新用户最多可获得2个免费域名，老用户最多可获得4个免费域名，us.kg需每年续期。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、价格
+<br>
+稳定性和速度表现良好，无需保活，但存在ChatGPT降智问题。HostUNO在价格上具有竞争力，购买过程简便，续费也方便。用户体验整体良好，节点测速情况出色。考虑以上因素，HostUNO值得购买。详细评测和操作指南可在相关链接查看。总体评价：稳定性和速度良好，价格适中，整体体验好，推荐购买。需注意ChatGPT降智问题，选择适用ChatGPT降智检测插件进行解决。购买HostUNO后，可参考相关链接进行具体操作。续费流程简单，用户体验良好。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
+US.KG注册不了，可以选择另一个免费域名注册并托管到Cloudflare，免费一年。具体步骤为注册账号、注册域名（使用优惠码"newuser"可享受免费一年），然后将域名托管到Cloudflare上，填入分配的两个名称服务器即可。通过身份信息生成器辅助填写注册信息，详细操作步骤在Youtube视频中有展示。整个流程包括注册、购买域名、托管到Cloudflare等，让用户能够更便捷地获得免费域名和服务。<br><br>总结: 注册免费域名并托管到Cloudflare，使用优惠码可享受一年免费服务，操作简单便捷。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
