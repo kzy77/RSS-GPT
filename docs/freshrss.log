@@ -1,64 +1,15 @@
 ------------------------------------------------------
-Started: 2025-10-30 16:24:52.098372
+Started: 2025-10-30 18:27:58.197547
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
+Token length: 902
+Summarized using gemini model: gemini-2.0-flash
+Append: [全球第二盈利车企，遭遇五年来首次季度亏损](https://www.yicai.com/news/102888842.html)
+Token length: 71
+Summarized using gemini model: gemini-2.0-flash
+Append: [董明珠：好多电器为了降成本用替代产品，有没有国补都不能偷工减料](https://m.thepaper.cn/detail/31855396)
 Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [一步步教你免费体验 ChatGPT Plus 一个月 + 注意事项](https://uuzi.net/chatgpt-plus-free-trial-1-month/)
-Token length: 938
-Summarized using gemini model: gemini-2.0-flash
-Append: [601777，三季度扣非净利下跌超650%，利润全靠政府补贴？](https://www.yicai.com/news/102888832.html)
-Token length: 1323
-Summarized using gemini model: gemini-2.0-flash
-Append: [三家游戏厂商交成绩单，市场承压但利润集体翻倍](https://www.yicai.com/news/102888820.html)
-Token length: 7598
-Summarized using gemini model: gemini-2.0-flash
-Append: [对话哲学教授王小伟：当AI过于强大，人会失去什么？](https://m.thepaper.cn/detail/31846731)
-Token length: 1927
-Summarized using gemini model: gemini-2.0-flash
-Append: [旁白｜“毒营养土”调查背后的暗访记者们](https://m.thepaper.cn/detail/31855654)
-Token length: 3430
-Summarized using gemini model: gemini-2.0-flash
-Append: [抢鼓掌、掉手机、咳嗽，音乐家们能忍受这些吗？](https://m.thepaper.cn/detail/31852773)
-Token length: 866
-Summarized using gemini model: gemini-2.0-flash
-Append: [云南规定禁止制售封建迷信丧葬用品，每次收取公墓管理费年限最长不超20年](https://m.thepaper.cn/detail/31855213)
-Token length: 2006
-Summarized using gemini model: gemini-2.0-flash
-Append: [用 OpenAI SDK 快速搭建你的第一个 AIGC 应用：从零开始生成文本](https://juejin.cn/post/7564230484127105063)
-Token length: 432
-Summarized using gemini model: gemini-2.0-flash
-Append: [如何通过“科技+资本”双轮驱动 铸就持久发展动能？](https://www.yicai.com/video/102888784.html)
-Token length: 2528
-Summarized using gemini model: gemini-2.0-flash
-Append: [成渝双城经济圈GDP已近9万亿，未来五年重点任务在哪？](https://www.yicai.com/news/102888655.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [连滚带爬逃生，汽车安全底线检验营销成色](https://www.yicai.com/news/102888656.html)
-Token length: 951
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国太保前三季总投资收益率5.2%，管理层：抓住了成长股机会](https://www.yicai.com/news/102888780.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [万科三季度亏损，经营仍面临阶段性压力](https://www.yicai.com/news/102888713.html)
-Token length: 252
-Summarized using gemini model: gemini-2.0-flash
-Append: [OpenAI计划2026年提交IPO申请](https://www.yicai.com/news/102888689.html)
-Token length: 1623
-Summarized using gemini model: gemini-2.0-flash
-Append: [三季报汇总｜这家公司第三季度净利同比增超5200%](https://www.yicai.com/news/102888749.html)
-Token length: 406
-Summarized using gemini model: gemini-2.0-flash
-Append: [“十五五”规划建议解读：如何通过“科技+资本”双轮驱动 构成长期发展动力？](https://www.yicai.com/video/102888763.html)
-Token length: 1418
-Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：持续整治形式主义，确保“十五五”良好开局](https://www.yicai.com/news/102888736.html)
-Token length: 1831
-Summarized using gemini model: gemini-2.0-flash
-Append: [生物医药“出海”路在何方？补短板、铸长板，走多元化之路](https://www.yicai.com/news/102888716.html)
-Token length: 2536
-Summarized using gemini model: gemini-2.0-flash
-Append: [净赎回额环比翻倍，主动权益基金遭遇“落袋为安”](https://www.yicai.com/news/102888675.html)
-Token length: 2223
-Summarized using gemini model: gemini-2.0-flash
-Append: [A股两融余额创历史新高，这次与10年前有啥不同？](https://www.yicai.com/news/102888672.html)
-append_entries: 20
-Finish: 2025-10-30 16:26:37.010515
+Append: [iOS 有线投屏开源了：Windows 直连采集 iPhone 屏幕与音频的完整方案](https://www.cnblogs.com/a923169932/p/19176437)
+append_entries: 3
+Finish: 2025-10-30 18:28:09.124953
