@@ -1,64 +1,65 @@
 ------------------------------------------------------
-Started: 2025-10-30 12:40:09.811849
+Started: 2025-10-30 14:19:43.020747
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1457
+Token length: 1804
 Summarized using gemini model: gemini-2.0-flash
-Append: [2万元让机器人跳一支舞，机器人租赁还是门好生意吗？](https://www.yicai.com/news/102888409.html)
-Token length: 1088
+Append: [个人征信修复新政将落地，符合条件的逾期记录不予展示](https://www.yicai.com/news/102888613.html)
+Token length: 1636
 Summarized using gemini model: gemini-2.0-flash
-Append: [低油价拖累前三季度净利润，中国海油管理层这样看明年油价和市场](https://www.yicai.com/news/102888420.html)
-Token length: 1273
+Append: [深圳三季报：工业增速加快，投资还在降](https://www.yicai.com/news/102888628.html)
+Token length: 2920
 Summarized using gemini model: gemini-2.0-flash
-Append: [白酒上市公司交出十年来“最惨”三季报](https://www.yicai.com/news/102888442.html)
-Token length: 1263
+Append: [降息！美联储下调利率25个基点，年度收官决议待定](https://www.yicai.com/news/102886869.html)
+Token length: 3149
 Summarized using gemini model: gemini-2.0-flash
-Append: [放宽审批权限，中国完善免税店政策](https://www.yicai.com/news/102888451.html)
-Token length: 1181
+Append: [独家专访冰岛总统托马斯多蒂尔：冰岛创新与中国规模是完美组合](https://www.yicai.com/news/102887544.html)
+Token length: 2302
 Summarized using gemini model: gemini-2.0-flash
-Append: [全国已有20个省份进入中度老龄化](https://www.yicai.com/news/102886720.html)
-Token length: 197
+Append: [三季报透视跨境支付热潮：外资深潜、本土“出海”](https://www.yicai.com/news/102888589.html)
+Token length: 2809
 Summarized using gemini model: gemini-2.0-flash
-Append: [机构今日买入这18股，抛售国盾量子3.88亿元](https://www.yicai.com/news/102888423.html)
-Token length: 1252
+Append: [“十五五”规划建议为何强调“投资于人” ？这将如何影响我们的生活？](https://www.yicai.com/video/102888565.html)
+Token length: 2348
 Summarized using gemini model: gemini-2.0-flash
-Append: [中美经贸关系的未来依然是互利共赢｜专家热评](https://www.yicai.com/news/102888370.html)
+Append: [工业利润高增：低基数是主因，高技术制造业发力多重支撑](https://www.yicai.com/news/102888535.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [透视汾酒Q3财报：“高质量、稳增长”成关键词](https://www.yicai.com/news/102888395.html)
-Token length: 1745
+Append: [央行调查：三季度倾向“更多投资”占比提升，为近两年新高](https://www.yicai.com/news/102888536.html)
+Token length: 3512
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国股市闯关4000点，QFII投资机构怎么看？](https://www.yicai.com/news/102888312.html)
-Token length: 1915
+Append: [国产替代对冲内卷、下行压力，科技型民企如何穿越周期](https://www.yicai.com/news/102888561.html)
+Token length: 1101
 Summarized using gemini model: gemini-2.0-flash
-Append: [今年中国医药对外授权合作破千亿美元，但基础研究薄弱问题还未扭转｜“十五五”产业前瞻](https://www.yicai.com/news/102888334.html)
-Token length: 1734
+Append: [安世半导体纷争冲击全球供应链，本田墨西哥工厂已经停产](https://www.yicai.com/news/102888520.html)
+Token length: 936
 Summarized using gemini model: gemini-2.0-flash
-Append: [世行：原油供应过剩加剧，预计金价今年将上涨42%](https://www.yicai.com/news/102888332.html)
-Token length: 614
+Append: [工信部发布最新光伏规范企业名单，超三成企业“落榜”意味着什么](https://www.yicai.com/news/102888522.html)
+Token length: 2752
 Summarized using gemini model: gemini-2.0-flash
-Append: [2025中国国际商用车展将在武汉开幕](https://www.yicai.com/news/102888289.html)
-Token length: 5583
+Append: [光模块“易中天”三季度业绩参差，两家营收环比下降](https://www.yicai.com/news/102888512.html)
+Token length: 97
 Summarized using gemini model: gemini-2.0-flash
-Append: [10月30日这些公告有看头](https://www.yicai.com/news/102888339.html)
-Token length: 4546
+Append: [Cloudflare 免费部署开源项目！Workers/Pages 真的太香了，搭建无限图床、个人导航站、博客等….爽歪歪! | 零度解说](https://www.freedidi.com/21387.html)
+Token length: 718
 Summarized using gemini model: gemini-2.0-flash
-Append: [11月起HPV疫苗纳入免疫规划：为何满13周岁女孩接种？免疫欠账怎么补？](https://www.yicai.com/news/102888323.html)
-Token length: 1596
+Append: [Sink 一款简单/快速/安全的链接缩短服务，带有分析功能，100% 基于 Cloudflare 运行!](https://www.freedidi.com/21381.html)
+Token length: 1061
 Summarized using gemini model: gemini-2.0-flash
-Append: [预定利率研究值降幅逐季收窄，业内预计人身险定价上限中短期难现调整窗口](https://www.yicai.com/news/102888274.html)
-Token length: 1810
+Append: [UptimeFlare 在Cloudflare Workers 上搭建一个网站监控服务！免费开源](https://www.freedidi.com/21374.html)
+Token length: 840
 Summarized using gemini model: gemini-2.0-flash
-Append: [可持续金融进入关键阶段，业内建议加强跨界“翻译”](https://www.yicai.com/news/102888299.html)
-Token length: 229
+Append: [11月10日起，年满13周岁女孩可免费接种HPV疫苗](https://m.thepaper.cn/detail/31855876)
+Token length: 1246
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务](https://m.thepaper.cn/detail/31855444)
-Token length: 163
+Append: [视频丨习近平同美国总统特朗普在釜山举行会晤](https://m.thepaper.cn/detail/31855712)
+Token length: 247
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普：相信我们将建立长期良好的关系](https://m.thepaper.cn/detail/31854436)
-Token length: 2599
+Append: [媒体：有用户称工商银行App异常、资产被清零，客服回应](https://m.thepaper.cn/detail/31855314)
+Token length: 8316
 Summarized using gemini model: gemini-2.0-flash
-Append: [全球首个「不带脑子」的住家机器人开卖，售价14万](https://www.36kr.com/p/3530832191150980)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [奥特曼放弃股权，OpenAI 5000亿美元股改背后，都改了些什么？](https://www.36kr.com/p/3531019314568324)
+Append: [李公明︱一周书记：博物馆学研究中的……“文化政治学”](https://m.thepaper.cn/detail/31852693)
+Token length: 4798
+Summarized using gemini model: gemini-2.0-flash
+Append: [手机市场进入整活时代](https://www.36kr.com/p/3530249251691399)
 append_entries: 20
-Finish: 2025-10-30 12:41:53.940094
+Finish: 2025-10-30 14:21:21.701027
