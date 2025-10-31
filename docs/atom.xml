@@ -2,420 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-10-31T20:23:37Z</updated>
+    <updated>2025-10-31T22:18:10Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[1分钟对接500个大模型？这才叫 AI 开发！]]></title>
-        <link href="https://juejin.cn/post/7566167231128420362" />
-        <id>https://juejin.cn/post/7566167231128420362</id>
-        <updated>Wed, 29 Oct 2025 11:13:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI网关, 大模型, Vercel, 鉴权, 限流
+        <title><![CDATA[“大空头”Burry隐晦警告：有时我们会看到泡沫，唯一获胜的招式就是不玩]]></title>
+        <link href="https://wallstreetcn.com/articles/3758441" />
+        <id>https://wallstreetcn.com/articles/3758441</id>
+        <updated>Fri, 31 Oct 2025 19:50:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Michael Burry，泡沫，英伟达，看跌期权，Scion Asset Management
 
 <br><br>总结:
-1.  背景：为解决智能客服系统接入多种AI模型带来的复杂性问题，引入AI网关。
-2.  定义：AI网关位于应用和AI模型之间，处理鉴权、限流、安全、故障转移、负载均衡、监控等复杂操作，并将请求转发给AI大模型。
-3.  选型：文章介绍了几种AI网关产品，包括 OpenRouter（聚合平台）、Vercel AI Gateway（易上手，零加价）、Cloudflare（全球节点）、Kong（企业级）、Higress（阿里云开源）。
-4.  实战：以Vercel AI Gateway为例，演示了如何通过官方Demo和AI代码生成工具Cursor，快速搭建一个《减压小能手》网站项目。
-5.  建议：根据项目规模和需求选择合适的AI网关，个人项目可选用Vercel AI Gateway，企业级应用选用Higress或Kong。
+1. "大空头"Michael Burry警告散户投资者“有时我们会看到泡沫”，但未明确指出对象。
+2. Burry旗下的Scion Asset Management在一季度清仓了几乎所有股票，仅保留雅诗兰黛，同时建立了英伟达的看跌头寸。
+3. 英伟达股价飙升引发市场关注，市值已突破5万亿美元。
+4. 监管文件披露，针对英伟达的看跌期权可能用于对冲多头头寸。
+5. Burry以对市场和经济发出警示性评论而闻名。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare 免费部署开源项目！Workers/Pages 真的太香了，搭建无限图床、个人导航站、博客等….爽歪歪! | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21383.html" />
-        <id>https://www.freedidi.com/21383.html</id>
-        <updated>Fri, 31 Oct 2025 23:20:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：导航站, 图床, 博客, 监控, 短链接
+        <title><![CDATA[苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资]]></title>
+        <link href="https://wallstreetcn.com/articles/3758382" />
+        <id>https://wallstreetcn.com/articles/3758382</id>
+        <updated>Fri, 31 Oct 2025 09:39:52 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 营收, iPhone, 服务, AI, 中国市场
 
 <br><br>总结:
-1.  搭建个人导航站，方便集中管理和访问常用网站。
-2.  利用 Cloudflare Workers 创建免费无限图床，用于存储和分享图片。
-3.  搭建动态博客，可以发布文章、分享知识和想法。
-4.  使用 UptimeFlare 搭建网站监控服务，实时监控网站的可用性。
-5.  搭建短链接平台，将长链接缩短，便于分享和传播。
+1.  苹果第四季度营收达1025亿美元，同比增长8%，服务业务增长15%至288亿美元，创历史新高，服务营收全年超过1000亿美元，同比增长14%。
+2.  iPhone营收为490亿美元，同比增长6%，受益于新款iPhone，但略低于预期，同时面临供应限制。公司预计第一财季iPhone收入将实现两位数同比增长。
+3.  苹果看好中国市场，预计12月季度将恢复增长，客流量显著增长，iPhone17系列反响良好。
+4.  公司毛利率为47.2%，高于预期，但预计12月季度毛利率为47%至48%，包含14亿美元的关税相关成本。
+5.  苹果持续投资AI，推出Apple Intelligence功能，并在休斯顿建厂生产AI服务器。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Sink 一款简单/快速/安全的链接缩短服务，带有分析功能，100% 基于 Cloudflare 运行!]]></title>
-        <link href="https://www.freedidi.com/21378.html" />
-        <id>https://www.freedidi.com/21378.html</id>
-        <updated>Fri, 31 Oct 2025 23:17:08 +0800</updated>
-        <summary type="html"><![CDATA[关键词：URL缩短, Cloudflare, 分析, 无服务器, 自定义别名
+        <title><![CDATA[直播丨点火，出征！神舟二十一号载人飞船发射任务取得圆满成功]]></title>
+        <link href="https://m.thepaper.cn/detail/31855407" />
+        <id>https://m.thepaper.cn/detail/31855407</id>
+        <updated>Fri, 31 Oct 2025 08:50:58 +0800</updated>
+        <summary type="html"><![CDATA[神舟二十一号，载人飞船，长征二号F，酒泉，登月
 
 <br><br>总结:
-1.  Sink是一个基于Cloudflare的链接缩短服务，提供URL缩短、分析等功能。
-2.  Sink是无服务器的，支持自定义别名、AI生成slug和链接过期设置。
-3.  要部署Sink，需要在Cloudflare Workers中创建项目，并关联KV命名空间。
-4.  配置环境变量NUXT_SITE_TOKEN、NUXT_CF_ACCOUNT_ID和NUXT_CF_API_TOKEN。
-5.  启用Cloudflare的分析引擎，并重新部署项目。
+*   10月31日23时44分，长征二号F遥二十一运载火箭在酒泉卫星发射中心成功发射神舟二十一号载人飞船。
+*   神舟二十一号乘组由张陆（指令长）、武飞、张洪章组成，涵盖70后、80后、90后三个年龄段。
+*   目前，神舟二十一号任务各项准备工作正在稳步推进。
+*   中国计划在2030年前实现登月目标。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[韩国开启“APEC”时间 市场聚焦全球经贸格局]]></title>
-        <link href="https://www.yicai.com/video/102890769.html" />
-        <id>https://www.yicai.com/video/102890769.html</id>
-        <updated>Fri, 31 Oct 2025 23:16:46 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 亚太经合组织, 习近平, 改革开放, 政策性金融工具, 项目投资
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器、Github注册时间、5美元赠金、Docker应用、应用商店、Mem
 
-<br><br>总结:
-1. 习近平主席在亚太经合组织领导人非正式会议上发表讲话，强调共建普惠包容的开放型亚太经济。
-2. 李强总理主持国务院常务会议，研究深化重点领域改革扩大制度型开放，部署加快新场景大规模应用。
-3. 国家发展改革委表示，5000亿元新型政策性金融工具资金已全部投放，支持2300多个项目，项目总投资约7万亿元。
-]]></summary>
+Memos和AList是推荐部署的两款应用，Claw Cloud Run是一款免费容器，只要Github注册时间大于180天，即可每月获得5美元赠金，从而实现长期免费使用。用户可以搭建各种Docker应用，可以在应用商店一键自动部署，也可以手动部署。要查看Github注册时间，只需访问https://api.github.com/users/XXX（将XXX替换为你的Github用户名），最后一行中的“created at”后面显示的日期即为注册时间。推荐部署的两款应用分别是Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可在Youtube视频中了解。<br><br>总结: Claw Cloud Run是一款免费容器平台，用户可以享受每月5美元的赠金，只需Github注册时间大于180天即可。用户可以搭建各种Docker应用，包括推荐的Memos和AList应用。要查看注册时间，访问特定链接，可以自动或手动部署应用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[UptimeFlare 在Cloudflare Workers 上搭建一个网站监控服务！免费开源]]></title>
-        <link href="https://www.freedidi.com/21369.html" />
-        <id>https://www.freedidi.com/21369.html</id>
-        <updated>Fri, 31 Oct 2025 23:13:49 +0800</updated>
-        <summary type="html"><![CDATA[正常运行时间监控, 状态页面, Cloudflare Workers, 开源, 免费
-
-<br><br>总结:
-1. UptimeFlare 是一个开源、免费的正常运行时间监控和状态页面解决方案，基于 Cloudflare Workers。
-2. 监控功能包括：每分钟最多50次检查，地理位置特定检查，支持HTTP/HTTPS/TCP端口监控，最多90天历史记录，自定义请求方法、标头和正文，自定义状态码和关键字检查，以及Webhook支持。
-3. 状态页面功能包括：交互式ping图表，计划维护提醒和事件历史，响应式UI，可自定义页面，CNAME记录自定义域名，可选密码验证，以及JSON API。
-4. 部署需要一个 Cloudflare 帐户和一个 GitHub 帐户。
-5. 部署步骤包括：创建 API 令牌，使用模板创建仓库副本，在 GitHub 设置 Cloudflare API Token，编辑 `uptime.config.ts` 文件定义监视器和自定义页面，然后通过 GitHub Actions 部署。配置更改后，再次编辑 `uptime.config.ts` 文件即可更新部署。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[三七互娱收《行政处罚事先告知书》，公司及责任人被罚逾3200万元]]></title>
-        <link href="https://www.yicai.com/news/102890801.html" />
-        <id>https://www.yicai.com/news/102890801.html</id>
-        <updated>Fri, 31 Oct 2025 23:11:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词：三七互娱，信息披露，违法违规，行政处罚，关联交易
-
-<br><br>总结:
-1. 三七互娱因信息披露违法违规收到证监会《行政处罚事先告知书》，源于2023年6月的立案调查。
-2. 违法事实包括：2014-2020年年报股东持股虚假记载；2018年未披露收购江苏极光股权关联交易；2020年间接收购广州三七股权的关联交易披露虚假/存在遗漏；2018-2021年未披露与海南力源等公司的关联交易。
-3. 证监会拟对三七互娱责令改正，给予警告并罚款900万元，对李卫伟、曾开天等相关责任人给予警告并处以相应罚款，总计罚款约3255万元。
-4. 公司判断不触及重大违法类强制退市情形，无需退市风险警示。
-5. 公司前三季度实现营收124.6亿元，同比下降6.6%；归股净利润23.5亿元，同比增长23.6%。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare-workers-blog 搭建一个免费的动态博客！有前端和后台]]></title>
-        <link href="https://www.freedidi.com/21363.html" />
-        <id>https://www.freedidi.com/21363.html</id>
-        <updated>Fri, 31 Oct 2025 23:09:22 +0800</updated>
-        <summary type="html"><![CDATA[Cloudflare Workers, KV数据库, 静态博客, 动态博客, 缓存
-
-<br><br>总结:
-1.  这是一个运行在 Cloudflare Workers 上的博客程序，使用 Cloudflare KV 作为数据库，无需其他依赖，兼具静态博客的速度和动态博客的灵活性。
-2.  该程序主要特点包括：使用 Workers 提供的 KV 作为数据库；利用 Cloudflare 缓存 HTML 以降低 KV 的读写；所有 HTML 页面均缓存，达到静态博客的速度；使用 KV 作为数据库，实现 WordPress 的灵活性；后台使用 Markdown 语法，方便快捷；支持一键发布。
-3.  该程序的承载能力主要受限于 Workers 的日访问量（10w），大约能承受 2 万 IP/日；文章数方面，1G 存储空间可支持几万篇。
-4.  部署步骤包括：创建 Workers 和 KV，并将 KV 绑定到 Workers；添加域名 DNS，并绑定到 Workers；获取缓存 API token；粘贴源码到 Workers，并修改参数；进入 /admin 进行设置和发布文章。
-5.  该程序主题具有扩展性，可以参照任意主题快速开发新主题。评论系统依赖于第三方，推荐 Valine。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[利用 CF 的 Workers 创建无限的免费图床！爽歪歪]]></title>
-        <link href="https://www.freedidi.com/21354.html" />
-        <id>https://www.freedidi.com/21354.html</id>
-        <updated>Fri, 31 Oct 2025 23:05:49 +0800</updated>
-        <summary type="html"><![CDATA[Cloudflare Workers, 图床, 免费, D1数据库, 环境变量
-
-<br><br>总结:
-1.  **优点：** 利用 Cloudflare Workers 可以创建无限储存数量的免费图床，无需服务器和域名购买，支持图片审查API，并提供后台图片管理功能。
-2.  **部署：** 通过 Cloudflare Pages 连接 Git 仓库进行部署，框架选择 Next.js。
-3.  **数据库：** 创建 D1 数据库，并执行 SQL 命令创建 `tgimglog` 和 `imginfo` 两张表。
-4.  **兼容性标志：** 设置兼容性标志为 `nodejs_compat`。
-5.  **环境变量：** 配置必要的环境变量，如后台登录用户名密码、是否开启访客验证、图片审查API key、自定义域名以及Telegram Bot相关信息，注意TG_CHAT_ID的格式。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare Workers 免费搭建精美的个人导航站！]]></title>
-        <link href="https://www.freedidi.com/21347.html" />
-        <id>https://www.freedidi.com/21347.html</id>
-        <updated>Fri, 31 Oct 2025 22:57:23 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Cloudflare Workers, 网址导航, 免费, 开源, 搭建
-
-<br><br>总结:
-*   利用Cloudflare Workers免费搭建在线网址导航。
-*   该导航基于HTML开发，完全免费开源，精美小巧。
-*   Cloudflare Workers每日提供10万次免费请求，足够个人使用。
-*   部署方法：下载开源项目源码，在Cloudflare Workers建立项目，上传全部文件（压缩包）。
-*   二次开发：修改index.html修改网址，修改about/index页面修改关于页面。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[外资大幅撤离印度]]></title>
-        <link href="https://www.huxiu.com/article/4799416.html" />
-        <id>https://www.huxiu.com/article/4799416.html</id>
-        <updated>Fri, 31 Oct 2025 22:33:43 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 幻觉, 可靠性, 对齐, 缓解策略
-
-<br><br>总结:
-1.  大语言模型(LLM)的幻觉问题，即生成不真实或无意义的内容，是其可靠性面临的主要挑战。
-2.  造成幻觉的原因包括训练数据的偏差、模型本身的局限性以及对指令的错误解读。
-3.  解决幻觉问题需要从数据层面、模型层面和推理层面入手，例如清洗训练数据、改进模型架构、引入知识库等。
-4.  对齐技术旨在使LLM的输出与人类价值观和期望一致，是提升LLM可靠性的重要方向，可以减少幻觉的产生。
-5.  目前已经存在一些缓解幻觉的策略，但LLM的幻觉仍然是一个活跃的研究领域，需要持续探索和改进。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[房企“银十”成绩单：48家企业销售额环比上涨]]></title>
-        <link href="https://www.yicai.com/news/102890784.html" />
-        <id>https://www.yicai.com/news/102890784.html</id>
-        <updated>Fri, 31 Oct 2025 22:29:24 +0800</updated>
-        <summary type="html"><![CDATA[房地产，销售额，同比下降，业绩回升，政策放松
-
-<br><br>总结:
-1. 2025年前十月百强房企销售总额同比下降16.3%，降幅扩大。
-2. 千亿房企数量与去年持平，但500-1000亿和300-500亿阵营房企数量减少。
-3. 十月单月房企销售业绩环比微幅回升，部分房企业绩增长。
-4. 一线城市成交面积同比大幅下降，二三线城市成交面积同比也下降。
-5. "十五五"规划建议提出清理住房消费限制，或将降低一线城市购房门槛，需中央多措并举推动行业回稳。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[全球纯电市场需求降温，兰博基尼CEO称正重新评估新车型规划]]></title>
-        <link href="https://www.yicai.com/news/102890771.html" />
-        <id>https://www.yicai.com/news/102890771.html</id>
-        <updated>Fri, 31 Oct 2025 22:28:55 +0800</updated>
-        <summary type="html"><![CDATA[兰博基尼, Urus, 插电混动, 电动化, 超豪华品牌
-
-<br><br>总结:
-* 兰博基尼计划2029年推出的Urus换代车型将继续采用插电式混合动力。
-* 第四款车型的规划（纯电或插电混动）将在今年内确定。
-* 兰博基尼已实现全系产品混动化。
-* 超豪华品牌普遍推迟纯电动车型的推出，延长内燃机和混合动力汽车的生产寿命。
-* 兰博基尼认为纯电车型需确保基础设施完善和极致性能，当前市场对超豪华纯电动车的需求尚未形成。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[沪市三季度业绩同比环比双增，改革举措加速落地]]></title>
-        <link href="https://www.yicai.com/news/102890766.html" />
-        <id>https://www.yicai.com/news/102890766.html</id>
-        <updated>Fri, 31 Oct 2025 22:23:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 沪市公司, 业绩增长, 现金分红, 科创板, 并购重组
-
-<br><br>总结:
-1.  沪市上市公司前三季度营收微增，净利润同比增长4.5%，第三季度业绩同比、环比均实现增长。高技术行业、新技术消费需求以及“反内卷”是业绩增长的重要动力。
-2.  沪市公司一年多次分红成常态，累计501家次公司推出中报、三季报分红方案，现金分红总额超6000亿元。
-3.  科创板公司营收同比增长，实体企业造血能力增强，民营企业增速逐季走高，外贸展现韧性，“新三样”出口持续向好，创新药出海模式转变，东盟国家产业合作深入。
-4.  新质生产力推动沪市高技术行业快速增长，AI驱动半导体产业发展，智能家居、智能穿戴、智能出行等激发消费新需求，“反内卷”促进钢铁、水泥等行业产业格局优化。
-5.  “科创板1+6”“科创板八条”加速落地，“并购六条”发布以来重组活跃度提升，资产重组单数和交易金额均显著增长。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[港股IPO热持续，业内：架构合规成企业闯关核心]]></title>
-        <link href="https://www.yicai.com/news/102890768.html" />
-        <id>https://www.yicai.com/news/102890768.html</id>
-        <updated>Fri, 31 Oct 2025 22:21:32 +0800</updated>
-        <summary type="html"><![CDATA[港股 IPO 募资 融资 政策 流动性
-
-<br><br>总结:
-1. 港股已成为全球IPO募资首选地，2025年以来已有80家企业完成IPO，融资规模达2160亿港元，二次融资超2290亿港元。
-2. 港股表现优异得益于美元降息周期、港股估值吸引力、新兴概念驱动及南向资金支持，日均成交额显著改善。
-3. 港交所制度透明，政策可预见性强，再融资条件便捷，审批流程优化。
-4. 港股市场表现、政策支持及流动性优势使其成为企业上市首选。
-5. 企业赴港上市需提前规划控制权和管理层的连续性，灵活处理税务和资金流动问题，律师需定制最优上市路径。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[“蓝色药库”不断丰富，厦门国际海洋周将共商建设路径]]></title>
-        <link href="https://www.yicai.com/news/102890702.html" />
-        <id>https://www.yicai.com/news/102890702.html</id>
-        <updated>Fri, 31 Oct 2025 21:51:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 蓝色药库, 海洋药物, 厦门国际海洋周, 海洋科技, 成果转化
-
-<br><br>总结:
-1. 中国建设“蓝色药库”具备资源、科研、成果转化等多方面优势，国家将组织各界共同探讨建设路径，助力海洋药物和生物制品产业发展。
-2. 2025厦门国际海洋周将以“打造蓝色发展新动能，共筑海洋命运共同体”为主题，聚焦海洋药物、深海装备等领域，贯通“学术研讨—技术展示—项目落地”全链条。
-3. 专家指出，中国海洋生物资源丰富，科研机构实力雄厚，部分机构已建立有效的成果转化模式。国家政策支持为“蓝色药库”建设提供保障。
-4. 厦门国际海洋周还将展示水下智能装备等，搭建供需对接平台，并举办海洋经济招商签约等活动。
-5. “十五五”期间，在政策支持和市场需求的推动下，我国海洋药物和生物制品产业规模将不断扩大，为海洋经济高质量发展作出更大贡献。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨]]></title>
-        <link href="https://wallstreetcn.com/articles/3758419" />
-        <id>https://wallstreetcn.com/articles/3758419</id>
-        <updated>Fri, 31 Oct 2025 21:43:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词：亚马逊, 苹果, 人工智能, 美股, 市场情绪
-
-<br><br>总结:
-*   亚马逊和苹果的盈利报告强劲，提振了市场情绪，推动全球股市上涨，美股高开，纳指领涨。
-*   人工智能热潮持续，投资者关注其在全球股市的影响，但对巨额投资能否带来回报存在疑虑。
-*   美元指数和美债收益率基本持平，现货黄金和加密货币价格上涨。
-*   美国股指有望创下自2021年以来最长的月度连涨纪录，纳斯达克100指数有望创下自2017年以来最长的连涨纪录。
-*   分析师认为，虽然人工智能泡沫破裂的可能性不大，但短期回调的风险增加。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[二至三年爆发期、跨境支付互联 记者ADGM亲历：开放环境助推中阿深化合作]]></title>
-        <link href="https://www.yicai.com/video/102890669.html" />
-        <id>https://www.yicai.com/video/102890669.html</id>
-        <updated>Fri, 31 Oct 2025 21:32:08 +0800</updated>
-        <summary type="html"><![CDATA[阿布扎比，金融合作，中国市场，科技创新，双向扩展
-
-<br><br>总结:
-*   阿布扎比金融自由区(ADGM)为中东与中国的深度对话与合作提供环境。
-*   中东金融与商业领袖表达了与中国市场加深合作的意愿。
-*   Mbank透露中国金融机构正与当地银行探索服务整合，预计未来几年双边金融合作将爆发。
-*   海湾资本已通过收购布局中国市场，推动双向业务扩展。
-*   Numou与中国科技公司合作开发借贷平台、跨境支付与数据聚合系统，助力两地生态互联。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[英伟达与韩国企业达成重大人工智能合作计划]]></title>
-        <link href="https://www.yicai.com/news/102890666.html" />
-        <id>https://www.yicai.com/news/102890666.html</id>
-        <updated>Fri, 31 Oct 2025 21:25:30 +0800</updated>
-        <summary type="html"><![CDATA[AI, 英伟达, 英特尔, 小马智行, 投资
-
-<br><br>总结:
-① 英伟达加强与韩国在人工智能领域的合作，计划部署大量GPU构建AI基础设施。
-② 英特尔考虑收购AI芯片公司SambaNova，但估值可能低于之前的融资。
-③ CoreWeave收购AI开发平台Marimo，旨在统一生成式AI开发者的工作流程。
-④ 苹果表示正在大幅增加对人工智能的投资。
-⑤ 亚马逊预计AI购物助手Rufus每年或将带来百亿美元的增量销售额。
-⑥ 开源具身智能机器人项目发布，包括硬件、软件和课程，预计2026年一季度上线。
-⑦ 小马智行在深圳启动首批Robotaxi创新应用试点，与西湖集团合作，扩展运营范围。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足]]></title>
-        <link href="https://m.thepaper.cn/detail/31862301" />
-        <id>https://m.thepaper.cn/detail/31862301</id>
-        <updated>Fri, 31 Oct 2025 17:18:12 +0800</updated>
-        <summary type="html"><![CDATA[理想MEGA, 起火事故, 召回计划, 冷却液腐蚀, 云端预警
-
-<br><br>总结:
-1. 理想MEGA在上海发生起火事故，理想汽车向车主致歉并理解用户担忧。
-2. 事故原因初步判断为同批次车辆冷却液防腐性能不足，导致冷却回路铝板腐蚀渗漏，极端情况可能造成动力电池热失控。
-3. 理想汽车已主动向国家市场监督管理总局备案召回计划，对同批次车辆进行安全检测与更换维修。
-4. 理想汽车云端预警系统在起火前已收到告警，但未及时采取紧急措施。
-5. 理想汽车将加强一线团队培训，优化云端预警处置策略，提升风险识别与决策能力，并保证车辆在极端情况下仍可解锁开门。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、命令、docker、注册链接
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM、科学上网<br>
 <br>
-爪云是一个内网穿透工具，在VPS上进行部署需要安装docker，并通过命令来实现临时和固定隧道模式。用户需要准备UUID、Cloudflare隧道Token、隧道域名等变量。可以通过相关docker命令来管理已部署的容器。另外，可以参考视频教程来了解爪云的注册、免费域名注册以及一分钟部署科学上网节点的步骤。<br><br>总结: 爪云内网穿透工具通过docker部署，需要准备UUID等变量，可通过相关命令管理容器，视频教程提供详细注册、部署指导。]]></summary>
+谷歌云账号免费VPS政策免费配置和流量，注册验证账号，创建完全免费的VM实例时需选择地区、配置，设置防火墙，SSH登录方式，科学上网时建议使用Hysteria 2节点，并注意免费政策和搭建节点的方法。总结: 谷歌云账户提供免费VPS政策，第一步是注册验证账号，在创建VM实例时选择合适配置和地区，并设置防火墙。科学上网时，建议使用Hysteria 2节点并注意免费政策和节点搭建方法。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名、挂了、dpdns.org、托管<br>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期<br>
 <br>
-us.kg免费域名有可能挂了，但已注册的域名仍在使用。新域名可以托管到Cloudflare，目前可以临时托管到FreeDNS。即使us.kg有问题，还能注册新域名。新域名和已注册域名有区别，需要注意使用方式。]]></summary>
+总结: DigitalPlat提供免费域名服务，新用户可获得1个免费域名（可通过Github加Star获得额外1个），老用户可获得3个免费域名（可通过Github加Star获得额外1个），us.kg域名则需付费。所有域名需要每年续期，续期时限为180天内。用户可以在Github仓库找到详细教程，包括注册地址生成器等内容。Cloudflare提供Pages自定义域和SSL证书服务。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活<br>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、Windterm、Sing-box、ChatGPT、稳定性、速度、保活、降智、购买、体验、代理节点、测速、续费、价格、密码、总结
+
+总结:本视频主要介绍了通过购买HostUNO服务搭建代理节点并使用Windterm客户端进行连接的过程。在使用过程中，稳定性和速度表现良好，不需要额外保活操作。购买流程简单，价格适中，同时提供修改密码和续费的功能。然而，在使用ChatGPT时可能出现降智问题。整体而言，HostUNO是一个值得购买的服务。详细内容请查看上述相关链接。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[域名注册、Cloudflare、免费、身份信息生成器、优惠码
 <br>
-Serv00是一个科学上网工具，在Cloudflare上搭建固定隧道和CDN回源可以加强加速和安全性。同时，网页保活功能可以保持节点的稳定性，远程保活则通过Cloudflare的Worker来保持网页的活跃状态。整个教程详细介绍了如何注册、登录Serv00，搭建科学上网节点，设置Cloudflare固定隧道和CDN回源，以及实现网页保活和远程保活功能。通过以上步骤，用户可以快速搭建一个稳定、高效的科学上网节点，并保持节点的活跃。整个过程在Youtube视频中也有详细演示，方便用户理解和操作。这些功能的结合可以为用户提供更便捷、稳定的科学上网体验。<br><br>总结:Serv00工具可以帮助用户搭建科学上网节点，通过Cloudflare固定隧道和CDN回源增强性能和安全性，网页保活和远程保活功能可以保持节点稳定和活跃。]]></summary>
+US.KG注册不了，推荐免费域名注册服务，可托管到Cloudflare免费一年。注册账号时可以使用身份信息生成器，输入优惠码（newuser）可享受免费服务。注册域名后，可登录Cloudflare添加域名并将分配的名称服务器填入域名管理界面实现托管。详情可观看Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、域名、注册、KYC验证、Cloudflare
-<br>
-US.KG域名现在处于受限状态，建议先在https://dash.domain.digitalplat.org/完成注册和KYC验证，等待恢复后托管到Cloudflare使用。视频教程详细介绍了注册流程，包括账号注册、邮箱验证、KYC验证、域名注册和托管到Cloudflare等步骤。使用身份信息生成器注册账号，验证邮箱后上传KYC文件，注册域名并将域名托管到Cloudflare。免费注册域名的优点和注意事项也在视频中介绍。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
-<br>
-Deepseek是一个翻译工具，可以在网页端、手机APP和API中使用。用户可以通过Deepseek进行沉浸式翻译、Chatbox对话和欧路词典等功能。此外，用户还可以选择将Deepseek本地部署，通过Ollama软件来实现。通过Ollama API，用户可以在第三方应用中使用Deepseek的功能。用户可以在Deepseek官方网站和手机客户端下载使用。总的来说，Deepseek提供了多种使用方式，方便用户进行各种翻译和语言学习工作。
-<br><br>总结: Deepseek是一个多功能翻译工具，可以通过网页端、APP、API和本地部署来使用，提供沉浸式翻译、Chatbox对话和欧路词典等功能。通过Ollama软件和第三方应用，用户可以灵活选择使用方式。Deepseek方便用户进行各种翻译和语言学习工作。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
