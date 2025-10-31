@@ -2,24 +2,313 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 31 Oct 2025 18:28:27 GMT</updated>
+    <updated>Fri, 31 Oct 2025 20:21:26 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[直播丨点火，出征！神舟二十一号载人飞船发射任务取得圆满成功]]></title>
-        <link href="https://m.thepaper.cn/detail/31855407" />
-        <id>https://m.thepaper.cn/detail/31855407</id>
-        <updated>Fri, 31 Oct 2025 08:50:58 +0800</updated>
-        <summary type="html"><![CDATA[神舟二十一号, 长征二号F, 载人飞船, 酒泉卫星发射中心, 登月
+        <title><![CDATA[苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨]]></title>
+        <link href="https://wallstreetcn.com/articles/3758419" />
+        <id>https://wallstreetcn.com/articles/3758419</id>
+        <updated>Fri, 31 Oct 2025 21:43:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词：亚马逊, 苹果, 人工智能, 美股, 市场情绪
 
 <br><br>总结:
-* 10月31日23时44分，长征二号F遥二十一运载火箭在酒泉卫星发射中心成功发射神舟二十一号载人飞船。
-* 此次飞船乘组由张陆（指令长）、武飞、张洪章组成，涵盖70后、80后、90后三个年龄段。
-* 神舟二十一号任务各项准备工作正稳步推进。
-* 我国目标是在2030年前实现登月。
+*   亚马逊和苹果的盈利报告强劲，提振了市场情绪，推动全球股市上涨，美股高开，纳指领涨。
+*   人工智能热潮持续，投资者关注其在全球股市的影响，但对巨额投资能否带来回报存在疑虑。
+*   美元指数和美债收益率基本持平，现货黄金和加密货币价格上涨。
+*   美国股指有望创下自2021年以来最长的月度连涨纪录，纳斯达克100指数有望创下自2017年以来最长的连涨纪录。
+*   分析师认为，虽然人工智能泡沫破裂的可能性不大，但短期回调的风险增加。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare 免费部署开源项目！Workers/Pages 真的太香了，搭建无限图床、个人导航站、博客等….爽歪歪! | 零度解说]]></title>
+        <link href="https://www.freedidi.com/21383.html" />
+        <id>https://www.freedidi.com/21383.html</id>
+        <updated>Fri, 31 Oct 2025 23:20:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：导航站, 图床, 博客, 监控, 短链接
+
+<br><br>总结:
+1.  搭建个人导航站，方便集中管理和访问常用网站。
+2.  利用 Cloudflare Workers 创建免费无限图床，用于存储和分享图片。
+3.  搭建动态博客，可以发布文章、分享知识和想法。
+4.  使用 UptimeFlare 搭建网站监控服务，实时监控网站的可用性。
+5.  搭建短链接平台，将长链接缩短，便于分享和传播。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Sink 一款简单/快速/安全的链接缩短服务，带有分析功能，100% 基于 Cloudflare 运行!]]></title>
+        <link href="https://www.freedidi.com/21378.html" />
+        <id>https://www.freedidi.com/21378.html</id>
+        <updated>Fri, 31 Oct 2025 23:17:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：URL缩短, Cloudflare, 分析, 无服务器, 自定义别名
+
+<br><br>总结:
+1.  Sink是一个基于Cloudflare的链接缩短服务，提供URL缩短、分析等功能。
+2.  Sink是无服务器的，支持自定义别名、AI生成slug和链接过期设置。
+3.  要部署Sink，需要在Cloudflare Workers中创建项目，并关联KV命名空间。
+4.  配置环境变量NUXT_SITE_TOKEN、NUXT_CF_ACCOUNT_ID和NUXT_CF_API_TOKEN。
+5.  启用Cloudflare的分析引擎，并重新部署项目。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[韩国开启“APEC”时间 市场聚焦全球经贸格局]]></title>
+        <link href="https://www.yicai.com/video/102890769.html" />
+        <id>https://www.yicai.com/video/102890769.html</id>
+        <updated>Fri, 31 Oct 2025 23:16:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 亚太经合组织, 习近平, 改革开放, 政策性金融工具, 项目投资
+
+<br><br>总结:
+1. 习近平主席在亚太经合组织领导人非正式会议上发表讲话，强调共建普惠包容的开放型亚太经济。
+2. 李强总理主持国务院常务会议，研究深化重点领域改革扩大制度型开放，部署加快新场景大规模应用。
+3. 国家发展改革委表示，5000亿元新型政策性金融工具资金已全部投放，支持2300多个项目，项目总投资约7万亿元。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[UptimeFlare 在Cloudflare Workers 上搭建一个网站监控服务！免费开源]]></title>
+        <link href="https://www.freedidi.com/21369.html" />
+        <id>https://www.freedidi.com/21369.html</id>
+        <updated>Fri, 31 Oct 2025 23:13:49 +0800</updated>
+        <summary type="html"><![CDATA[正常运行时间监控, 状态页面, Cloudflare Workers, 开源, 免费
+
+<br><br>总结:
+1. UptimeFlare 是一个开源、免费的正常运行时间监控和状态页面解决方案，基于 Cloudflare Workers。
+2. 监控功能包括：每分钟最多50次检查，地理位置特定检查，支持HTTP/HTTPS/TCP端口监控，最多90天历史记录，自定义请求方法、标头和正文，自定义状态码和关键字检查，以及Webhook支持。
+3. 状态页面功能包括：交互式ping图表，计划维护提醒和事件历史，响应式UI，可自定义页面，CNAME记录自定义域名，可选密码验证，以及JSON API。
+4. 部署需要一个 Cloudflare 帐户和一个 GitHub 帐户。
+5. 部署步骤包括：创建 API 令牌，使用模板创建仓库副本，在 GitHub 设置 Cloudflare API Token，编辑 `uptime.config.ts` 文件定义监视器和自定义页面，然后通过 GitHub Actions 部署。配置更改后，再次编辑 `uptime.config.ts` 文件即可更新部署。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[三七互娱收《行政处罚事先告知书》，公司及责任人被罚逾3200万元]]></title>
+        <link href="https://www.yicai.com/news/102890801.html" />
+        <id>https://www.yicai.com/news/102890801.html</id>
+        <updated>Fri, 31 Oct 2025 23:11:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词：三七互娱，信息披露，违法违规，行政处罚，关联交易
+
+<br><br>总结:
+1. 三七互娱因信息披露违法违规收到证监会《行政处罚事先告知书》，源于2023年6月的立案调查。
+2. 违法事实包括：2014-2020年年报股东持股虚假记载；2018年未披露收购江苏极光股权关联交易；2020年间接收购广州三七股权的关联交易披露虚假/存在遗漏；2018-2021年未披露与海南力源等公司的关联交易。
+3. 证监会拟对三七互娱责令改正，给予警告并罚款900万元，对李卫伟、曾开天等相关责任人给予警告并处以相应罚款，总计罚款约3255万元。
+4. 公司判断不触及重大违法类强制退市情形，无需退市风险警示。
+5. 公司前三季度实现营收124.6亿元，同比下降6.6%；归股净利润23.5亿元，同比增长23.6%。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare-workers-blog 搭建一个免费的动态博客！有前端和后台]]></title>
+        <link href="https://www.freedidi.com/21363.html" />
+        <id>https://www.freedidi.com/21363.html</id>
+        <updated>Fri, 31 Oct 2025 23:09:22 +0800</updated>
+        <summary type="html"><![CDATA[Cloudflare Workers, KV数据库, 静态博客, 动态博客, 缓存
+
+<br><br>总结:
+1.  这是一个运行在 Cloudflare Workers 上的博客程序，使用 Cloudflare KV 作为数据库，无需其他依赖，兼具静态博客的速度和动态博客的灵活性。
+2.  该程序主要特点包括：使用 Workers 提供的 KV 作为数据库；利用 Cloudflare 缓存 HTML 以降低 KV 的读写；所有 HTML 页面均缓存，达到静态博客的速度；使用 KV 作为数据库，实现 WordPress 的灵活性；后台使用 Markdown 语法，方便快捷；支持一键发布。
+3.  该程序的承载能力主要受限于 Workers 的日访问量（10w），大约能承受 2 万 IP/日；文章数方面，1G 存储空间可支持几万篇。
+4.  部署步骤包括：创建 Workers 和 KV，并将 KV 绑定到 Workers；添加域名 DNS，并绑定到 Workers；获取缓存 API token；粘贴源码到 Workers，并修改参数；进入 /admin 进行设置和发布文章。
+5.  该程序主题具有扩展性，可以参照任意主题快速开发新主题。评论系统依赖于第三方，推荐 Valine。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[利用 CF 的 Workers 创建无限的免费图床！爽歪歪]]></title>
+        <link href="https://www.freedidi.com/21354.html" />
+        <id>https://www.freedidi.com/21354.html</id>
+        <updated>Fri, 31 Oct 2025 23:05:49 +0800</updated>
+        <summary type="html"><![CDATA[Cloudflare Workers, 图床, 免费, D1数据库, 环境变量
+
+<br><br>总结:
+1.  **优点：** 利用 Cloudflare Workers 可以创建无限储存数量的免费图床，无需服务器和域名购买，支持图片审查API，并提供后台图片管理功能。
+2.  **部署：** 通过 Cloudflare Pages 连接 Git 仓库进行部署，框架选择 Next.js。
+3.  **数据库：** 创建 D1 数据库，并执行 SQL 命令创建 `tgimglog` 和 `imginfo` 两张表。
+4.  **兼容性标志：** 设置兼容性标志为 `nodejs_compat`。
+5.  **环境变量：** 配置必要的环境变量，如后台登录用户名密码、是否开启访客验证、图片审查API key、自定义域名以及Telegram Bot相关信息，注意TG_CHAT_ID的格式。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare Workers 免费搭建精美的个人导航站！]]></title>
+        <link href="https://www.freedidi.com/21347.html" />
+        <id>https://www.freedidi.com/21347.html</id>
+        <updated>Fri, 31 Oct 2025 22:57:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Cloudflare Workers, 网址导航, 免费, 开源, 搭建
+
+<br><br>总结:
+*   利用Cloudflare Workers免费搭建在线网址导航。
+*   该导航基于HTML开发，完全免费开源，精美小巧。
+*   Cloudflare Workers每日提供10万次免费请求，足够个人使用。
+*   部署方法：下载开源项目源码，在Cloudflare Workers建立项目，上传全部文件（压缩包）。
+*   二次开发：修改index.html修改网址，修改about/index页面修改关于页面。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足]]></title>
+        <link href="https://m.thepaper.cn/detail/31862301" />
+        <id>https://m.thepaper.cn/detail/31862301</id>
+        <updated>Fri, 31 Oct 2025 17:18:12 +0800</updated>
+        <summary type="html"><![CDATA[理想MEGA, 起火事故, 召回计划, 冷却液腐蚀, 云端预警
+
+<br><br>总结:
+1. 理想MEGA在上海发生起火事故，理想汽车向车主致歉并理解用户担忧。
+2. 事故原因初步判断为同批次车辆冷却液防腐性能不足，导致冷却回路铝板腐蚀渗漏，极端情况可能造成动力电池热失控。
+3. 理想汽车已主动向国家市场监督管理总局备案召回计划，对同批次车辆进行安全检测与更换维修。
+4. 理想汽车云端预警系统在起火前已收到告警，但未及时采取紧急措施。
+5. 理想汽车将加强一线团队培训，优化云端预警处置策略，提升风险识别与决策能力，并保证车辆在极端情况下仍可解锁开门。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[1分钟对接500个大模型？这才叫 AI 开发！]]></title>
+        <link href="https://juejin.cn/post/7566167231128420362" />
+        <id>https://juejin.cn/post/7566167231128420362</id>
+        <updated>Wed, 29 Oct 2025 11:13:31 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI网关, 大模型, Vercel, 鉴权, 限流
+
+<br><br>总结:
+1.  背景：为解决智能客服系统接入多种AI模型带来的复杂性问题，引入AI网关。
+2.  定义：AI网关位于应用和AI模型之间，处理鉴权、限流、安全、故障转移、负载均衡、监控等复杂操作，并将请求转发给AI大模型。
+3.  选型：文章介绍了几种AI网关产品，包括 OpenRouter（聚合平台）、Vercel AI Gateway（易上手，零加价）、Cloudflare（全球节点）、Kong（企业级）、Higress（阿里云开源）。
+4.  实战：以Vercel AI Gateway为例，演示了如何通过官方Demo和AI代码生成工具Cursor，快速搭建一个《减压小能手》网站项目。
+5.  建议：根据项目规模和需求选择合适的AI网关，个人项目可选用Vercel AI Gateway，企业级应用选用Higress或Kong。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[外资大幅撤离印度]]></title>
+        <link href="https://www.huxiu.com/article/4799416.html" />
+        <id>https://www.huxiu.com/article/4799416.html</id>
+        <updated>Fri, 31 Oct 2025 22:33:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大语言模型, 幻觉, 可靠性, 对齐, 缓解策略
+
+<br><br>总结:
+1.  大语言模型(LLM)的幻觉问题，即生成不真实或无意义的内容，是其可靠性面临的主要挑战。
+2.  造成幻觉的原因包括训练数据的偏差、模型本身的局限性以及对指令的错误解读。
+3.  解决幻觉问题需要从数据层面、模型层面和推理层面入手，例如清洗训练数据、改进模型架构、引入知识库等。
+4.  对齐技术旨在使LLM的输出与人类价值观和期望一致，是提升LLM可靠性的重要方向，可以减少幻觉的产生。
+5.  目前已经存在一些缓解幻觉的策略，但LLM的幻觉仍然是一个活跃的研究领域，需要持续探索和改进。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[房企“银十”成绩单：48家企业销售额环比上涨]]></title>
+        <link href="https://www.yicai.com/news/102890784.html" />
+        <id>https://www.yicai.com/news/102890784.html</id>
+        <updated>Fri, 31 Oct 2025 22:29:24 +0800</updated>
+        <summary type="html"><![CDATA[房地产，销售额，同比下降，业绩回升，政策放松
+
+<br><br>总结:
+1. 2025年前十月百强房企销售总额同比下降16.3%，降幅扩大。
+2. 千亿房企数量与去年持平，但500-1000亿和300-500亿阵营房企数量减少。
+3. 十月单月房企销售业绩环比微幅回升，部分房企业绩增长。
+4. 一线城市成交面积同比大幅下降，二三线城市成交面积同比也下降。
+5. "十五五"规划建议提出清理住房消费限制，或将降低一线城市购房门槛，需中央多措并举推动行业回稳。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[全球纯电市场需求降温，兰博基尼CEO称正重新评估新车型规划]]></title>
+        <link href="https://www.yicai.com/news/102890771.html" />
+        <id>https://www.yicai.com/news/102890771.html</id>
+        <updated>Fri, 31 Oct 2025 22:28:55 +0800</updated>
+        <summary type="html"><![CDATA[兰博基尼, Urus, 插电混动, 电动化, 超豪华品牌
+
+<br><br>总结:
+* 兰博基尼计划2029年推出的Urus换代车型将继续采用插电式混合动力。
+* 第四款车型的规划（纯电或插电混动）将在今年内确定。
+* 兰博基尼已实现全系产品混动化。
+* 超豪华品牌普遍推迟纯电动车型的推出，延长内燃机和混合动力汽车的生产寿命。
+* 兰博基尼认为纯电车型需确保基础设施完善和极致性能，当前市场对超豪华纯电动车的需求尚未形成。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[沪市三季度业绩同比环比双增，改革举措加速落地]]></title>
+        <link href="https://www.yicai.com/news/102890766.html" />
+        <id>https://www.yicai.com/news/102890766.html</id>
+        <updated>Fri, 31 Oct 2025 22:23:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 沪市公司, 业绩增长, 现金分红, 科创板, 并购重组
+
+<br><br>总结:
+1.  沪市上市公司前三季度营收微增，净利润同比增长4.5%，第三季度业绩同比、环比均实现增长。高技术行业、新技术消费需求以及“反内卷”是业绩增长的重要动力。
+2.  沪市公司一年多次分红成常态，累计501家次公司推出中报、三季报分红方案，现金分红总额超6000亿元。
+3.  科创板公司营收同比增长，实体企业造血能力增强，民营企业增速逐季走高，外贸展现韧性，“新三样”出口持续向好，创新药出海模式转变，东盟国家产业合作深入。
+4.  新质生产力推动沪市高技术行业快速增长，AI驱动半导体产业发展，智能家居、智能穿戴、智能出行等激发消费新需求，“反内卷”促进钢铁、水泥等行业产业格局优化。
+5.  “科创板1+6”“科创板八条”加速落地，“并购六条”发布以来重组活跃度提升，资产重组单数和交易金额均显著增长。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[港股IPO热持续，业内：架构合规成企业闯关核心]]></title>
+        <link href="https://www.yicai.com/news/102890768.html" />
+        <id>https://www.yicai.com/news/102890768.html</id>
+        <updated>Fri, 31 Oct 2025 22:21:32 +0800</updated>
+        <summary type="html"><![CDATA[港股 IPO 募资 融资 政策 流动性
+
+<br><br>总结:
+1. 港股已成为全球IPO募资首选地，2025年以来已有80家企业完成IPO，融资规模达2160亿港元，二次融资超2290亿港元。
+2. 港股表现优异得益于美元降息周期、港股估值吸引力、新兴概念驱动及南向资金支持，日均成交额显著改善。
+3. 港交所制度透明，政策可预见性强，再融资条件便捷，审批流程优化。
+4. 港股市场表现、政策支持及流动性优势使其成为企业上市首选。
+5. 企业赴港上市需提前规划控制权和管理层的连续性，灵活处理税务和资金流动问题，律师需定制最优上市路径。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“蓝色药库”不断丰富，厦门国际海洋周将共商建设路径]]></title>
+        <link href="https://www.yicai.com/news/102890702.html" />
+        <id>https://www.yicai.com/news/102890702.html</id>
+        <updated>Fri, 31 Oct 2025 21:51:48 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 蓝色药库, 海洋药物, 厦门国际海洋周, 海洋科技, 成果转化
+
+<br><br>总结:
+1. 中国建设“蓝色药库”具备资源、科研、成果转化等多方面优势，国家将组织各界共同探讨建设路径，助力海洋药物和生物制品产业发展。
+2. 2025厦门国际海洋周将以“打造蓝色发展新动能，共筑海洋命运共同体”为主题，聚焦海洋药物、深海装备等领域，贯通“学术研讨—技术展示—项目落地”全链条。
+3. 专家指出，中国海洋生物资源丰富，科研机构实力雄厚，部分机构已建立有效的成果转化模式。国家政策支持为“蓝色药库”建设提供保障。
+4. 厦门国际海洋周还将展示水下智能装备等，搭建供需对接平台，并举办海洋经济招商签约等活动。
+5. “十五五”期间，在政策支持和市场需求的推动下，我国海洋药物和生物制品产业规模将不断扩大，为海洋经济高质量发展作出更大贡献。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[二至三年爆发期、跨境支付互联 记者ADGM亲历：开放环境助推中阿深化合作]]></title>
+        <link href="https://www.yicai.com/video/102890669.html" />
+        <id>https://www.yicai.com/video/102890669.html</id>
+        <updated>Fri, 31 Oct 2025 21:32:08 +0800</updated>
+        <summary type="html"><![CDATA[阿布扎比，金融合作，中国市场，科技创新，双向扩展
+
+<br><br>总结:
+*   阿布扎比金融自由区(ADGM)为中东与中国的深度对话与合作提供环境。
+*   中东金融与商业领袖表达了与中国市场加深合作的意愿。
+*   Mbank透露中国金融机构正与当地银行探索服务整合，预计未来几年双边金融合作将爆发。
+*   海湾资本已通过收购布局中国市场，推动双向业务扩展。
+*   Numou与中国科技公司合作开发借贷平台、跨境支付与数据聚合系统，助力两地生态互联。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[英伟达与韩国企业达成重大人工智能合作计划]]></title>
+        <link href="https://www.yicai.com/news/102890666.html" />
+        <id>https://www.yicai.com/news/102890666.html</id>
+        <updated>Fri, 31 Oct 2025 21:25:30 +0800</updated>
+        <summary type="html"><![CDATA[AI, 英伟达, 英特尔, 小马智行, 投资
+
+<br><br>总结:
+① 英伟达加强与韩国在人工智能领域的合作，计划部署大量GPU构建AI基础设施。
+② 英特尔考虑收购AI芯片公司SambaNova，但估值可能低于之前的融资。
+③ CoreWeave收购AI开发平台Marimo，旨在统一生成式AI开发者的工作流程。
+④ 苹果表示正在大幅增加对人工智能的投资。
+⑤ 亚马逊预计AI购物助手Rufus每年或将带来百亿美元的增量销售额。
+⑥ 开源具身智能机器人项目发布，包括硬件、软件和课程，预计2026年一季度上线。
+⑦ 小马智行在深圳启动首批Robotaxi创新应用试点，与西湖集团合作，扩展运营范围。
 ]]></summary>
     </entry>
     
