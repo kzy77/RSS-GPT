@@ -1,15 +1,54 @@
 ------------------------------------------------------
-Started: 2025-10-31 22:17:43.548461
-Existing_entries: 19
+Started: 2025-11-01 01:38:32.532222
+Existing_entries: 3
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 19085
+Token length: 4842
 Summarized using gemini model: gemini-2.0-flash
-Append: [苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资](https://wallstreetcn.com/articles/3758382)
-Token length: 672
+Append: [京东失去自信力了吗？](https://www.36kr.com/p/3533023048128902)
+Token length: 2984
 Summarized using gemini model: gemini-2.0-flash
-Append: [“大空头”Burry隐晦警告：有时我们会看到泡沫，唯一获胜的招式就是不玩](https://wallstreetcn.com/articles/3758441)
-Token length: 159
+Append: [刚陷“起火门”，理想便紧急召回11411辆MEGA](https://www.36kr.com/p/3532933860629638)
+Token length: 946
 Summarized using gemini model: gemini-2.0-flash
-Append: [直播丨点火，出征！神舟二十一号载人飞船发射任务取得圆满成功](https://m.thepaper.cn/detail/31855407)
-append_entries: 3
-Finish: 2025-10-31 22:17:56.549918
+Append: [OpenAI，3个月亏了818亿](https://www.36kr.com/p/3533002083327110)
+Token length: 74
+Summarized using gemini model: gemini-2.0-flash
+Append: [妇产医院460余人遭无差别枪杀，制造这起杀戮事件的苏丹“快速支援部队”是何来头？](https://m.thepaper.cn/detail/31863541)
+Token length: 4262
+Summarized using gemini model: gemini-2.0-flash
+Append: [字节再出海，换了个打法](https://www.36kr.com/p/3532630510312576)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [黄仁勋约韩国财阀吃炸鸡，调侃李在镕：我用三星产品时你还小](https://m.thepaper.cn/detail/31858886)
+Token length: 3456
+Summarized using gemini model: gemini-2.0-flash
+Append: [港股递表：享道出行的Robotaxi攻坚路](https://www.36kr.com/p/3532311854078854)
+Token length: 78
+Summarized using gemini model: gemini-2.0-flash
+Append: [博闻丨女子自述被强行痔疮术后盆底肌断裂，卫健委正调查医师涉嫌伪造资质问题](https://m.thepaper.cn/detail/31857351)
+Token length: 2867
+Summarized using gemini model: gemini-2.0-flash
+Append: [美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳](https://wallstreetcn.com/articles/3758448)
+Token length: 454
+Summarized using gemini model: gemini-2.0-flash
+Append: [神舟二十一号载人飞船发射取得圆满成功](https://m.thepaper.cn/detail/31867309)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [澎湃回声｜被指忽悠老人的“湖里优品汇”账号已清空，厦门市监局启动撤销登记](https://m.thepaper.cn/detail/31865400)
+Token length: 1179
+Summarized using gemini model: gemini-2.0-flash
+Append: [美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具](https://wallstreetcn.com/articles/3758449)
+Token length: 2089
+Summarized using gemini model: gemini-2.0-flash
+Append: [铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转](https://wallstreetcn.com/articles/3758423)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具，持续整治金融业“内卷式”竞争、资金空转](https://wallstreetcn.com/articles/3758407)
+Token length: 6076
+Summarized using gemini model: gemini-2.0-flash
+Append: [他们曾嘲笑我们，如今沉默得震耳欲聋](https://www.36kr.com/p/3532372162059396)
+Token length: 4099
+Summarized using gemini model: gemini-2.0-flash
+Append: [亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹](https://wallstreetcn.com/articles/3758419)
+Token length: 97
+Summarized using gemini model: gemini-2.0-flash
+Append: [Cloudflare 免费部署开源项目！Workers/Pages 真的太香了，搭建无限图床、个人导航站、博客等….爽歪歪! | 零度解说](https://www.freedidi.com/21383.html)
+append_entries: 17
+Finish: 2025-11-01 01:40:05.288565
