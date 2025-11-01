@@ -1,38 +1,32 @@
 ------------------------------------------------------
-Started: 2025-11-01 04:20:13.732512
-Existing_entries: 20
+Started: 2025-11-01 06:26:08.360493
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 80
+Token length: 1729
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国将在明年11月在深圳举办亚太经合组织第三十三次领导人非正式会议](https://www.yicai.com/news/102891099.html)
+Append: [一网站重庆频道主编被控受贿：为国企讨8.97亿元项目回购款，收210万元“居间费”](https://m.thepaper.cn/detail/31859246)
+Token length: 2192
+Summarized using gemini model: gemini-2.0-flash
+Append: [分析｜10月制造业PMI为49%，政策有望加力](https://m.thepaper.cn/detail/31864270)
+Token length: 19
+Summarized using gemini model: gemini-2.0-flash
+Append: [习近平会见加拿大总理卡尼](https://m.thepaper.cn/detail/31860917)
+Token length: 1137
+Summarized using gemini model: gemini-2.0-flash
+Append: [看完 Cursor 2.0，我感觉国产 AI 编程又有希望了](https://juejin.cn/post/7566825225260138539)
+Token length: 8
+Summarized using gemini model: gemini-2.0-flash
+Append: [晓数点｜11月财经日历请查收！](https://www.yicai.com/news/102890976.html)
+Token length: 253
+Summarized using gemini model: gemini-2.0-flash
+Append: [商务部新闻发言人就安世半导体相关问题应询答记者问](https://www.yicai.com/news/102890975.html)
+Token length: 79
+Summarized using gemini model: gemini-2.0-flash
+Append: [第三届上海奖入围城市公布](https://www.yicai.com/news/102890957.html)
+Token length: 2402
+Summarized using gemini model: gemini-2.0-flash
+Append: [第三届全球可持续发展城市奖（上海奖）颁发，这5个城市为何获奖？](https://www.yicai.com/news/102890956.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [芯和发布新软件集，国产EDA向全栈迈进](https://www.yicai.com/news/102891081.html)
-Token length: 2341
-Summarized using gemini model: gemini-2.0-flash
-Append: [全球最封闭的汽车市场，被撕开了一道裂缝](https://www.yicai.com/news/102891021.html)
-Token length: 1598
-Summarized using gemini model: gemini-2.0-flash
-Append: [前三季度钢企利润大增1.9倍，后续走势如何](https://www.yicai.com/news/102891014.html)
-Token length: 1258
-Summarized using gemini model: gemini-2.0-flash
-Append: [习近平在亚太经合组织第三十二次领导人非正式会议第二阶段会议上的讲话（全文）](https://www.yicai.com/news/102891023.html)
-Token length: 490
-Summarized using gemini model: gemini-2.0-flash
-Append: [晓数点丨10月262股获券商首次关注！这只股距目标价还有35%上涨空间](https://www.yicai.com/news/102891007.html)
-Token length: 4214
-Summarized using gemini model: gemini-2.0-flash
-Append: [“十五五”规划建议指明未来五年方向，中美经贸磋商取得积极进展｜一周热点回顾](https://www.yicai.com/news/102891006.html)
-Token length: 3286
-Summarized using gemini model: gemini-2.0-flash
-Append: [苹果在中国营收依旧下滑，好消息是iPhone 17卖爆了](https://www.36kr.com/p/3533033491602564)
-Token length: 770
-Summarized using gemini model: gemini-2.0-flash
-Append: [习近平会见加拿大总理卡尼](https://wallstreetcn.com/articles/3758433)
-Token length: 91
-Summarized using gemini model: gemini-2.0-flash
-Append: [和你聊会儿丨《没出息》创作者王搏：我的音乐之路也曾“连滚带爬”](https://m.thepaper.cn/detail/31855410)
-Token length: 7252
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI编程新王Codex详细攻略，一期视频精通，附免费使用方法](https://juejin.cn/post/7564688848602300457)
-append_entries: 11
-Finish: 2025-11-01 04:21:22.736159
+Append: [德国邵宾纳剧院回归，两部力作上海首演](https://www.yicai.com/news/102890960.html)
+append_entries: 9
+Finish: 2025-11-01 06:26:33.598256
