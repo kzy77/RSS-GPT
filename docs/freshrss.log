@@ -1,54 +1,64 @@
 ------------------------------------------------------
-Started: 2025-11-01 01:38:32.532222
-Existing_entries: 3
+Started: 2025-11-01 03:11:15.397513
+Existing_entries: 17
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 4842
-Summarized using gemini model: gemini-2.0-flash
-Append: [京东失去自信力了吗？](https://www.36kr.com/p/3533023048128902)
-Token length: 2984
-Summarized using gemini model: gemini-2.0-flash
-Append: [刚陷“起火门”，理想便紧急召回11411辆MEGA](https://www.36kr.com/p/3532933860629638)
-Token length: 946
-Summarized using gemini model: gemini-2.0-flash
-Append: [OpenAI，3个月亏了818亿](https://www.36kr.com/p/3533002083327110)
-Token length: 74
-Summarized using gemini model: gemini-2.0-flash
-Append: [妇产医院460余人遭无差别枪杀，制造这起杀戮事件的苏丹“快速支援部队”是何来头？](https://m.thepaper.cn/detail/31863541)
-Token length: 4262
-Summarized using gemini model: gemini-2.0-flash
-Append: [字节再出海，换了个打法](https://www.36kr.com/p/3532630510312576)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [黄仁勋约韩国财阀吃炸鸡，调侃李在镕：我用三星产品时你还小](https://m.thepaper.cn/detail/31858886)
-Token length: 3456
+Append: [晓数点｜11月财经日历请查收！](https://www.yicai.com/news/102890976.html)
+Token length: 253
 Summarized using gemini model: gemini-2.0-flash
-Append: [港股递表：享道出行的Robotaxi攻坚路](https://www.36kr.com/p/3532311854078854)
-Token length: 78
+Append: [商务部新闻发言人就安世半导体相关问题应询答记者问](https://www.yicai.com/news/102890975.html)
+Token length: 79
 Summarized using gemini model: gemini-2.0-flash
-Append: [博闻丨女子自述被强行痔疮术后盆底肌断裂，卫健委正调查医师涉嫌伪造资质问题](https://m.thepaper.cn/detail/31857351)
-Token length: 2867
+Append: [第三届上海奖入围城市公布](https://www.yicai.com/news/102890957.html)
+Token length: 2402
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳](https://wallstreetcn.com/articles/3758448)
-Token length: 454
+Append: [第三届全球可持续发展城市奖（上海奖）颁发，这5个城市为何获奖？](https://www.yicai.com/news/102890956.html)
+Token length: 804
 Summarized using gemini model: gemini-2.0-flash
-Append: [神舟二十一号载人飞船发射取得圆满成功](https://m.thepaper.cn/detail/31867309)
+Append: [德国邵宾纳剧院回归，两部力作上海首演](https://www.yicai.com/news/102890960.html)
+Token length: 599
+Summarized using gemini model: gemini-2.0-flash
+Append: [“扶青计划”视觉艺术展亮相百年外滩老市府](https://www.yicai.com/news/102890955.html)
+Token length: 731
+Summarized using gemini model: gemini-2.0-flash
+Append: [事关黄金税收政策，财政部、税务总局发布公告](https://www.yicai.com/news/102890953.html)
+Token length: 723
+Summarized using gemini model: gemini-2.0-flash
+Append: [担忧供应过剩，OPEC+本周或继续小幅增产](https://www.yicai.com/news/102890919.html)
+Token length: 2351
+Summarized using gemini model: gemini-2.0-flash
+Append: [地区联储“倒戈”！分歧或进一步显现，美联储12月如何抉择](https://www.yicai.com/news/102890916.html)
+Token length: 1481
+Summarized using gemini model: gemini-2.0-flash
+Append: [亚马逊历史新高！道指标普月线六连阳，中概股探底回升](https://www.yicai.com/news/102890913.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [澎湃回声｜被指忽悠老人的“湖里优品汇”账号已清空，厦门市监局启动撤销登记](https://m.thepaper.cn/detail/31865400)
-Token length: 1179
+Append: [9点1氪丨理想就车辆起火道歉；全国已有29个省份延长婚假；海底捞回应家长就餐区给孩子接尿：涉事区域已专项消毒](https://www.36kr.com/p/3533817528474503)
+Token length: 1014
 Summarized using gemini model: gemini-2.0-flash
-Append: [美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具](https://wallstreetcn.com/articles/3758449)
-Token length: 2089
+Append: [中国核能迎来“换道超车”：燃料从“铀”到“钍”，核电无需再“傍海而居”](https://m.thepaper.cn/detail/31870158)
+Token length: 5740
 Summarized using gemini model: gemini-2.0-flash
-Append: [铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转](https://wallstreetcn.com/articles/3758423)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [潘功胜：研究和储备应对宏观经济、金融市场波动等领域的政策工具，持续整治金融业“内卷式”竞争、资金空转](https://wallstreetcn.com/articles/3758407)
-Token length: 6076
+Append: [华尔街见闻早餐FM-Radio | 2025年11月1日](https://wallstreetcn.com/articles/3758462)
+Token length: 80
 Summarized using gemini model: gemini-2.0-flash
-Append: [他们曾嘲笑我们，如今沉默得震耳欲聋](https://www.36kr.com/p/3532372162059396)
-Token length: 4099
+Append: [释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？](https://m.thepaper.cn/detail/31864882)
+Token length: 271
 Summarized using gemini model: gemini-2.0-flash
-Append: [亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹](https://wallstreetcn.com/articles/3758419)
-Token length: 97
+Append: [神舟二十一号航天员乘组顺利进驻“天宫”，中国航天员完成第7次“太空会师”](https://m.thepaper.cn/detail/31870078)
+Token length: 933
 Summarized using gemini model: gemini-2.0-flash
-Append: [Cloudflare 免费部署开源项目！Workers/Pages 真的太香了，搭建无限图床、个人导航站、博客等….爽歪歪! | 零度解说](https://www.freedidi.com/21383.html)
-append_entries: 17
-Finish: 2025-11-01 01:40:05.288565
+Append: [习近平会见日本首相高市早苗](https://wallstreetcn.com/articles/3758450)
+Token length: 3966
+Summarized using gemini model: gemini-2.0-flash
+Append: [一家店年耗约500万元，汽车新势力“撤退”商超调查：想要换个活法](https://www.36kr.com/p/3533035159919752)
+Token length: 2370
+Summarized using gemini model: gemini-2.0-flash
+Append: [比亚迪变速：季度营收三年首降，日均研发投入1.6亿](https://www.36kr.com/p/3532894947548038)
+Token length: 1352
+Summarized using gemini model: gemini-2.0-flash
+Append: [网红糖葫芦也有“新烦恼”？商家暂停线下销售、改推线上取号](https://m.thepaper.cn/detail/31861906)
+Token length: 154
+Summarized using gemini model: gemini-2.0-flash
+Append: [给旧版 .NET 也开一扇“私有之门”——ILAccess.Fody 实现原理与设计](https://www.cnblogs.com/huoshan12345/p/19179723)
+append_entries: 20
+Finish: 2025-11-01 03:12:37.448509
