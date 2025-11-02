@@ -2,228 +2,270 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-02T03:16:18Z</updated>
+    <updated>2025-11-02T04:24:02Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[从“打标签”到“算行为”：抖音推荐系统的进化逻辑（附打分算法深度解析）]]></title>
-        <link href="https://juejin.cn/post/7566176050281627682" />
-        <id>https://juejin.cn/post/7566176050281627682</id>
-        <updated>Wed, 29 Oct 2025 11:26:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：推荐系统, 行为建模, 神经网络, 期望价值, 探索利用
+        <title><![CDATA[Ollama、LM Studio只是模型工具，这款工具比他俩更全面]]></title>
+        <link href="https://juejin.cn/post/7565778347039457289" />
+        <id>https://juejin.cn/post/7565778347039457289</id>
+        <updated>Tue, 28 Oct 2025 10:01:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 离线AI, Ollama, LM Studio, Flowy AIPC, 本地化
 
 <br><br>总结:
-1.  **标签逻辑的局限性：** 早期推荐系统依赖标签匹配，但因规模失控、兴趣变化快、短视频表达复杂等原因，标签体系已无法满足需求。
-2.  **行为信号与神经网络：** 抖音转向“行为信号+神经网络建模”，通过捕捉用户行为轨迹（停留时长、点赞等）和内容向量化（视觉、音频、语义），让算法预测用户行为。
-3.  **推荐排序机制：** 抖音使用期望价值模型（Score = ∑(概率 × 价值)），预测用户观看、点赞等行为的概率和价值，综合计算内容得分。
-4.  **行为链建模：** 通过条件概率链建模用户行为路径（先看完→再点赞），避免重复计算，更贴近用户心理。
-5.  **优化目标与探索：** 抖音的排序分为召回、粗排、精排和重排四个阶段。引入了不确定性项，平衡算法的探索性和稳定性。 最终目标是在保证用户体验的前提下最大化平台价值。
+1. Ollama和LM Studio是本地部署AI的早期尝试，但Ollama依赖外网，LM Studio离线功能受限。
+2. 真正的离线AI应具备完整的本地输入、理解、处理到输出的全链路体验。
+3. Flowy AIPC实现了完全离线的AI体验，无需联网认证，数据保存在本地。
+4. Flowy AIPC不仅是模型运行环境，更是一个个人AI工作台，具备会议纪要、知识库、思维导图等多种功能。
+5. 离线AI的意义在于对本地数据的绝对掌控感，使AI真正属于用户自己。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[进博会等多个重要活动将举办, 这些投资机会最靠谱]]></title>
-        <link href="https://www.yicai.com/news/102891465.html" />
-        <id>https://www.yicai.com/news/102891465.html</id>
-        <updated>Sun, 02 Nov 2025 09:29:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 进博会, 峰会, 乌镇峰会, 消费电子, 限售股
+        <title><![CDATA[三大股指高位波动加剧，美股11月将如何演绎]]></title>
+        <link href="https://www.yicai.com/news/102891512.html" />
+        <id>https://www.yicai.com/news/102891512.html</id>
+        <updated>Sun, 02 Nov 2025 11:35:47 +0800</updated>
+        <summary type="html"><![CDATA[美联储，降息，财报，就业，波动率
 
-<br><br>总结:
-1. 第八届进博会将于11月5日至10日举行，规模和参展企业数创新高，并将举办虹桥国际经济论坛。
-2. 国际金融领袖投资峰会将于2025年11月3日至5日在香港举行，主题是“驾驭变局 砥砺前行”，将有约300位国际金融领袖参加。
-3. 2025年世界互联网大会乌镇峰会将于11月6日至9日举行，主题是“共筑开放合作、安全普惠的数智未来——携手构建网络空间命运共同体”。
-4. CEIC 2025消费电子创新大会将于11月6日至8日在深圳举办，聚焦智能终端、智能汽车等五大创新领域，展示众多智能产品。
-5. 下周限售股解禁市值超203亿元，华厦眼科解禁市值最大，为99.93亿元。
-6. 下周将有北矿检测、恒坤新材、南网数字3只新股发行。
+总结:<br><br>1. 美联储对12月降息态度谨慎，内部存在分歧，多位官员对降息持保留意见，导致市场对2025年降息预期降低。<br><br>2. 美国经济数据受政府停摆影响发布受限，部分数据显示经济和劳动力市场前景趋于悲观，但就业市场呈现企稳迹象，为美联储决策带来不确定性。<br><br>3. 美股主要股指10月表现强劲，科技股财报喜忧参半，AI领域的资本支出成为关注焦点，未来一周AMD、高通等公司财报将陆续公布。<br><br>4. 市场波动率指数VIX连涨，机构投资者通过期权对冲风险的需求增加，预示市场存在不确定性。<br><br>5. 未来一周将公布ADP就业报告，非农就业报告可能因政府停摆再次无法发布，市场或面临“催化剂真空”的风险，因此对下周市场走势持更为谨慎的态度。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[财晓得｜南通队，依然是“体育之乡”的城市英雄]]></title>
-        <link href="https://m.thepaper.cn/detail/31784206" />
-        <id>https://m.thepaper.cn/detail/31784206</id>
-        <updated>Sun, 02 Nov 2025 07:55:12 +0800</updated>
-        <summary type="html"><![CDATA[全民健身, 体育产业, 苏超联赛, 南通队, 城市样本
+        <title><![CDATA[本周外盘看点丨美联储官员密集发声，美最高法院举行关税案听证]]></title>
+        <link href="https://www.yicai.com/news/102891510.html" />
+        <id>https://www.yicai.com/news/102891510.html</id>
+        <updated>Sun, 02 Nov 2025 11:34:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 央行议息，美联储降息，就业数据，黄金价格，原油供应
 
 <br><br>总结:
-1. 首届“苏超”联赛落幕，南通队获得亚军，成为本届联赛的赢家之一。
-2. 南通队的成功体现了全民健身和体育产业的协同发展。
-3. 这次联赛是全民体育时代在中国的一个缩影，展现了体育在城市发展中的作用。
+*   **央行议息：** 多国央行将召开议息会议，英国央行可能维持利率不变，市场关注未来货币政策走向。
+*   **美联储降息：** 美联储虽已降息，但未来降息路径不明朗，就业数据将影响决策，官员讲话至关重要。
+*   **就业数据：** 美国政府停摆影响官方数据发布，民间就业数据受关注，数据疲软可能重燃12月降息预期。
+*   **黄金价格：** 受风险偏好和美元走强影响，金价下跌，但摩根士丹利仍看好长期上行空间，预计2026年上半年均价将达到每盎司4300美元。
+*   **原油供应：** 全球供应增加担忧盖过制裁影响，油价回落，OPEC+可能小幅上调产量，加剧未来供应过剩局面。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中超赛场做出侮辱性动作，两名球迷被行政拘留+一年禁止观赛]]></title>
-        <link href="https://m.thepaper.cn/detail/31876091" />
-        <id>https://m.thepaper.cn/detail/31876091</id>
-        <updated>Sat, 01 Nov 2025 20:55:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：成都蓉城，球迷，侮辱，扰乱秩序，行政拘留
+        <title><![CDATA[券商11月金股出炉：这些股获力挺，看好有色、医药等方向]]></title>
+        <link href="https://www.yicai.com/news/102891518.html" />
+        <id>https://www.yicai.com/news/102891518.html</id>
+        <updated>Sun, 02 Nov 2025 11:33:21 +0800</updated>
+        <summary type="html"><![CDATA[A股, 券商, 金股, 行业, 配置
 
 <br><br>总结:
-*   11月1日，成都金牛区分局公告处罚了两名在成都蓉城主场比赛期间有侮辱性行为的球迷申某和黄某。
-*   两人在比赛中展示侮辱性物品、做出侮辱性动作、辱骂等，扰乱赛事秩序，造成不良社会影响。
-*   他们的行为违反了《治安管理处罚法》第二十四条，构成扰乱大型活动秩序。
-*   公安机关对申某、黄某分别处以行政拘留，并禁止其十二个月内进入体育场馆观看同类比赛。
-*   警方提示球迷文明观赛，对任何扰乱公共秩序的行为将依法从严查处。
+1. 10月A股市场分化，沪指涨而深证成指和创业板指跌。
+2. 多家券商发布11月投资组合，覆盖材料、信息技术、消费等领域。
+3. 沪电股份、工业富联、云铝股份等11股获多家券商推荐，中际旭创10月涨幅最大，拓普集团跌幅最大。
+4. 券商普遍建议关注有色、券商、医药等方向，以均衡配置应对市场波动。
+5. 可关注科技主线（人工智能）、“十五五”规划相关产业、稳投资预期下的投资机会。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万]]></title>
-        <link href="https://wallstreetcn.com/articles/3758477" />
-        <id>https://wallstreetcn.com/articles/3758477</id>
-        <updated>Sat, 01 Nov 2025 17:44:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 新能源汽车, 交付量, 创新高, 市场竞争, 结构性转型
+        <title><![CDATA[英伟达成全球首家市值破5万亿美元公司；OpenAI IPO完成重组]]></title>
+        <link href="https://www.yicai.com/news/102891461.html" />
+        <id>https://www.yicai.com/news/102891461.html</id>
+        <updated>Sun, 02 Nov 2025 11:13:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 英伟达, OpenAI, 谷歌, MiniMax, 亚马逊
 
 <br><br>总结:
-*   **10月新能源汽车交付量创新高:** 零跑领跑，小鹏、蔚来均创单月交付纪录，小米汽车稳定在4万台以上。
-*   **新车型订单火爆:** 理想i6上市后订单远超预期，但面临产能挑战。
-*   **多家车企表现强劲:** 阿维塔科技连续8个月销量破万，岚图汽车同比增长显著，智己汽车推出全新旗舰车型。
-*   **传统车企新能源品牌崛起:** 深蓝汽车、奕派科技和北汽新能源销量均突破3万台。
-*   **市场结构性转型加速:** 新能源汽车市场火爆，但整体车市承压，表明资金和消费者正向新能源领域转移。
+1. **英伟达市值**: 英伟达一度成为首家市值突破5万亿美元的公司，但随后回落。其市值增长受益于AI浪潮的推动，以及芯片架构迭代、投资AI生态和拓展产品线等举措。
+2. **OpenAI IPO**: OpenAI完成重组后，计划最早在2026年下半年进行IPO，估值可能高达1万亿美元。
+3. **谷歌财报**: 谷歌发布超预期财报，营收首次突破1000亿美元，增长主要得益于云计算、AI、广告和订阅业务的强劲表现。
+4. **MiniMax模型**: MiniMax密集发布多款AI模型，其M2大模型在性能和价格方面具有竞争力。
+5. **亚马逊裁员**: 亚马逊宣布裁员1.4万人，旨在精简运营，加大对人工智能的投入。
+6. **AI基础设施**: OpenAI、甲骨文等计划在美国建造算力超1吉瓦的数据中心园区，作为“星际之门”计划的一部分。
+7. **GEO赛道**: AI生成式引擎优化（GEO）成为热门赛道，多家公司获得融资。
+8. **英伟达投资**: 英伟达投资诺基亚，加速AI-RAN创新，推动5G向6G过渡。
+9. **光模块公司**: “易中天”公布第三季度业绩，同比增长受益于AI拉动的算力基础设施建设。
+10. **工业富联业绩**: 工业富联第三季度营收和净利润创单季度历史新高，受益于AI机柜产品的规模交付及AI算力需求旺盛。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[私厨被曝宰杀活猫做“龙虎凤”？市监局：转交职能部门调查]]></title>
-        <link href="https://m.thepaper.cn/detail/31863682" />
-        <id>https://m.thepaper.cn/detail/31863682</id>
-        <updated>Sat, 01 Nov 2025 16:46:30 +0800</updated>
-        <summary type="html"><![CDATA[关键词：佛山，南海，九江，私房菜，活猫
+        <title><![CDATA[美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！]]></title>
+        <link href="https://wallstreetcn.com/articles/3758488" />
+        <id>https://wallstreetcn.com/articles/3758488</id>
+        <updated>Sun, 02 Nov 2025 10:23:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 政府停摆, SNAP, 民主党, 特朗普, 预算谈判
 
 <br><br>总结:
-1. 佛山南海九江镇某私房菜馆被网友爆料宰杀活猫。
-2. 餐厅涉嫌烹制名为“龙虎凤”的菜品。
-3. 现场环境被描述为恶劣。
-4. 南海区市监局已回应并将情况转交相关职能部门处理。
-5. 当局承诺会尽快回复此事。
+*   美国政府停摆持续，SNAP资金已于11月1日中断，威胁数百万低收入人口的食品供应，可能引发民生危机。
+*   僵局核心在于特朗普政府误判民主党立场，未能预料到民主党在预算谈判中的强硬态度。
+*   特朗普要求废除参议院阻挠议事规则，但遭到党内高层拒绝。
+*   民众更多将停摆归咎于特朗普和共和党。
+*   停摆还导致航空系统面临压力，政府雇员错过薪水，军方薪资面临断供风险，以及《平价医疗法案》补贴到期导致保费上涨。参议院计划于11月3日投票表决。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[价投大佬的信号？杨东、陈光明先后“封盘”]]></title>
-        <link href="https://wallstreetcn.com/articles/3758474" />
-        <id>https://wallstreetcn.com/articles/3758474</id>
-        <updated>Sat, 01 Nov 2025 14:53:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词：封盘, 陈光明, 睿远, 宁泉, 限购
+        <title><![CDATA[三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金]]></title>
+        <link href="https://wallstreetcn.com/articles/3758486" />
+        <id>https://wallstreetcn.com/articles/3758486</id>
+        <updated>Sun, 02 Nov 2025 09:38:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 巴菲特, 伯克希尔, 现金储备, 抛售股票, Abel
 
 <br><br>总结:
-1.  **睿远基金陈光明“封盘”：**睿远洞见价值系列专户产品自11月起暂停新老客户申购，此前已严控规模。
-2.  **宁泉资产暂停申购：**知名基金经理杨东执掌的宁泉资产也宣布暂停接受新投资者申购。
-3.  **限购潮涌现：**近期多家公私募基金发布限购令，旨在控制规模、保护持有人利益。
-4.  **私募发行市场活跃：**私募发行市场持续回暖，增量资金加速入场，百亿级私募数量增加。
-5.  **4000点之上调整策略：**在市场震荡上行之际，私募也在逐步调整优化组合结构，关注估值安全，均衡布局。
+1. 伯克希尔·哈撒韦现金储备创历史新高，达3820亿美元，源于持续抛售股票。
+2. 伯克希尔连续季度卖出股票数量超过买入，减持苹果、美国运通等，并暂停股票回购。
+3. 巴菲特即将卸任，Greg Abel接任CEO，面临如何有效利用巨额现金的挑战。
+4. 伯克希尔第三季度运营利润增长，得益于保险业务，但股价表现落后于大盘。
+5. 投资者对“后巴菲特时代”的伯克希尔发展前景看法不一，有人乐观，有人急切。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[存储芯片，开启“黄金时代”]]></title>
-        <link href="https://www.36kr.com/p/3534071386233992" />
-        <id>https://www.36kr.com/p/3534071386233992</id>
-        <updated>Sat, 01 Nov 2025 14:30:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 存储芯片, AI, HBM, DRAM, High NA EUV
+        <title><![CDATA[安世中国：已建立充足成品与在制品库存，能够满足客户订单需求]]></title>
+        <link href="https://m.thepaper.cn/detail/31878314" />
+        <id>https://m.thepaper.cn/detail/31878314</id>
+        <updated>Sun, 02 Nov 2025 09:08:11 +0800</updated>
+        <summary type="html"><![CDATA[安世半导体，晶圆供应，东莞工厂，货款纠纷，供应链保障
 
 <br><br>总结:
-1. 摩根士丹利预测AI驱动存储行业进入“超级周期”，2027年市场规模达3000亿美元。
-2. 本轮周期由AI算力基建和HBM技术驱动，企业级AI资本支出成重要支撑。
-3. 三星和SK海力士业绩大幅增长，HBM业务成核心引擎，并上调DRAM和NAND价格，锁定中长期供货协议。
-4. SK海力士连续三季度蝉联DRAM市场榜首，HBM市场占主导地位，已完成HBM4供应谈判。
-5. 三星和SK海力士加速引入High NA EUV光刻机，并与OpenAI合作参与Stargate项目，扩大HBM产能。
+1. 荷兰安世半导体单方面决定于2025年10月停止向东莞封装测试工厂（ATGD）供应晶圆，理由是“当地管理层未能遵守合同付款条件”。
+2. 安世中国强烈反对，称荷兰安世半导体“未遵守合同付款条件”的说法是无中生有，并表示安世中国不存在违约行为，反而是荷兰安世半导体欠ATGD货款10亿元人民币。
+3. 安世中国目前有充足的库存，可以满足客户到年底甚至更长时间的需求，供应链安全可靠。
+4. 安世中国已经启动多套预案，加紧验证新的晶圆产能，有信心在短期内完成验证，自明年起无缝衔接满足所有客户需求。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[昭通一葬礼上围墙倒塌砸死6人、政府提出每户赔14.6万，家属：需要个说法]]></title>
-        <link href="https://m.thepaper.cn/detail/31873381" />
-        <id>https://m.thepaper.cn/detail/31873381</id>
-        <updated>Sat, 01 Nov 2025 14:13:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词：丧宴, 围墙倒塌, 事故, 赔偿, 调查
+        <title><![CDATA[Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕]]></title>
+        <link href="https://wallstreetcn.com/articles/3758487" />
+        <id>https://wallstreetcn.com/articles/3758487</id>
+        <updated>Sun, 02 Nov 2025 09:01:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: OpenAI, Ilya Sutskever, Sam Altman, Anthropic, 合并
 
 <br><br>总结:
-1. 云南昭通一丧宴上，一堵围墙突然倒塌，造成6人死亡，多人受伤，包括两名幼童。
-2. 遇难者家属被告知事故为“天灾”，政府和丧事主家共赔偿14.6万元，要求尽快火化遗体。
-3. 一位遇难者家属陈丽华拒绝签字，要求查清真相，质疑墙体倒塌原因和宴席违规举办。
-4. 目击者推测围墙倒塌是因篷布积水过重，墙体本身也存在设计缺陷，存在“人祸”因素。
-5. 陈丽华希望获得书面调查报告，公布事件原因，但相关部门回复含糊，调查进展缓慢。
+1.  Ilya Sutskever的证词揭露了OpenAI“宫斗”的内幕，马斯克通过诉讼试图迫使OpenAI回归非营利初心，Ilya的证词成为关键“法律弹药”。
+2.  Ilya指控Altman持续撒谎、削弱高管权力、挑拨离间，认为他应被解雇，并揭露Altman曾试图绕过安全委员会批准GPT-4 Turbo的发布。
+3.  董事会曾探讨与竞争对手Anthropic合并的“B计划”，希望通过Anthropic的“安全第一”文化取代Altman的“速度第一”文化，甚至考虑让Anthropic的CEO Dario Amodei担任OpenAI的CEO。
+4.  由于Anthropic提出实际操作障碍，“B计划”流产，加上员工威胁集体辞职，Altman最终回归，Ilya也转变立场支持Altman。
+5.  马斯克起诉OpenAI的官司进展不顺，法院拒绝立即禁止OpenAI转型，预计2026年春季才会正式开庭审理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中国光刻胶，如何突围？]]></title>
-        <link href="https://www.36kr.com/p/3533994546092935" />
-        <id>https://www.36kr.com/p/3533994546092935</id>
-        <updated>Sat, 01 Nov 2025 12:56:53 +0800</updated>
-        <summary type="html"><![CDATA[光刻胶，国产化，差距，日本，生态
+        <title><![CDATA[大外交｜扣好“第一粒纽扣”，中日领导人连续四年实现APEC峰会期间会面]]></title>
+        <link href="https://m.thepaper.cn/detail/31876106" />
+        <id>https://m.thepaper.cn/detail/31876106</id>
+        <updated>Sun, 02 Nov 2025 07:39:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 中日关系，APEC，高市早苗，台湾问题，战略互惠关系
 
 <br><br>总结:
-1.  **光刻胶是芯片制造关键材料，中国光刻胶国产化取得进步，但与日本仍有很大差距。**
-2.  **国内光刻胶企业通过技术攻关，在ArF光刻胶等领域取得突破，国产化率有所提高，但高端EUV光刻胶国产化率仍低。**
-3.  **日本光刻胶企业在全球市场占据主导地位，尤其在ArF和EUV领域，拥有技术、行业和产业壁垒。**
-4.  **中国企业要打破垄断，需加大研发攻关，推动技术产业化，并与下游企业深度合作，建立自己的产业生态体系。**
-5.  **光刻机是光刻胶产业生态的关键，中国光刻机国产化率低，需加大投入，实现产业链整体突破。**
+1.  中日领导人在APEC期间举行会晤，习近平主席强调中日关系机遇与挑战并存，希望日方树立正确对华认知，坚持和平友好合作大方向；高市早苗表示日中对地区和平繁荣负有责任，愿推进战略互惠关系，构建建设性稳定日中关系，并在台湾问题上坚持1972年联合声明立场。
+2.  尽管高市早苗以往对华态度强硬，但此次会谈被认为比预期好，双方坦诚沟通，各自表明立场。
+3.  中方对日政策保持连续性，但高市早苗对华政策弹性仍待观察，她在APEC期间会见台湾当局人员并高调炒作，中方对此坚决反对，提出严正交涉。
+4.  高市早苗近期言行有所变化，避免刺激中方言论，中方注意到日方积极信号，希望日方迈好对华交往第一步。
+5.  专家认为，会谈明确了双方底线，互访条件尚不具备，期待2026年深圳APEC再次会面，中美关系缓和可能促使日本调整对华政策。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Github、Claw Cloud Run、免费、容器、注册时间<br>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS、UUID、Cloudflare<br>
+爪云是一个提供域名注册和内网穿透服务的平台，通过VPS部署，可以实现临时或固定隧道模式。用户需准备UUID、Cloudflare隧道Token和隧道域名，通过相关命令和网址进行配置和部署。用户可以通过docker命令管理容器，包括查看已运行容器、停止容器和删除容器等操作。视频教程提供了详细的使用指导，帮助用户快速搭建科学上网节点。<br><br>总结: 爪云提供域名注册和内网穿透服务，通过VPS部署实现隧道模式，用户需要准备UUID和Cloudflare信息，通过docker命令管理容器，视频教程提供详细指导。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg免费域名、挂了、已注册的域名、dpdns.org域名、Cloudflare<br>
 <br>
-Github注册时间大于180天即可获得免费容器Claw Cloud Run，每月赠送5美元赠金。通过查询Github注册时间的方法，可以确定自己的账户注册时间。推荐部署Memos和AList两款应用，可以在Claw Cloud Run上实现轻笔记和网盘挂载功能。详情内容可观看Youtube视频。Claw Cloud Run提供了一键自动部署和手动部署的功能，适合搭建各种Docker应用。]]></summary>
+us.kg免费域名确实挂了，已注册的域名仍存在，现在可以使用FreeDNS临时托管。dpdns.org域名可以托管到Cloudflare。现有的域名可以继续使用，但不能注册新的us.kg域名。要注意两种域名的区别。总的来说，现在无法注册新的us.kg域名，已有的域名可以在Cloudflare或FreeDNS上托管。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM实例、SSH登录方式
-
-谷歌云提供免费VPS政策，注册验证需添加支付信息，创建VM实例选择俄勒冈地区和E2-micro配置，警惕数据保护设置避免产生费用。开放防火墙设置入站和出站规则，建议放行。SSH登录方式可选择官方后台或第三方工具配对密钥登录。搭建科学上网节点使用Hysteria 2节点，免费政策注意标准层级规则，避免CDN流量产生费用。具体操作可查看视频教程。 
-
-总结：谷歌云提供免费VPS，注册验证后创建VM实例，设置SSH登录方式和开放防火墙规则，搭建科学上网节点需注意免费政策，避免产生费用。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
+Serv00是一个免费的科学上网工具，教程中介绍了如何注册登录Serv00并搭建科学上网节点。使用Cloudflare固定隧道和CDN回源能够加速网页访问并保护隐私。另外，网页保活功能可以保持节点的稳定运行。通过Cloudflare远程保活可以定期触发保活事件，确保节点在线。整个教程详细介绍了如何通过这些步骤搭建一个稳定、高效的科学上网环境。<br><br>总结: Serv00工具能够帮助用户搭建科学上网节点，利用Cloudflare固定隧道、CDN回源和网页保活保持节点稳定。通过Cloudflare远程保活实现定期的保持节点在线。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[Github、Cloudflare、域名、免费、续期
-<br>
-培训内容包括如何注册地址、美国地址生成器、DigitalPlat的Github仓库、Cloudflare官网和Cloudflare Pages自定义域及SSL证书问题。提供两种域名选择，dpdns.org免费、us.kg收费。免费域名额度为新用户1个、老用户3个，但通过Github加Star后可增加至2个或4个。us.kg域名不占用免费额度，续期永久免费，每年续期一次。详细教程可在Youtube视频中找到。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、域名、免费注册、Cloudflare、KYC验证
+US.KG域名现在处于受限状态，建议先在https://dash.domain.digitalplat.org/完成注册和KYC验证。注册账号时可使用身份信息生成器生成虚拟信息，验证邮箱后进行KYC验证。注册成功后可将域名托管到Cloudflare使用，并注意定时免费续订域名。注意免费域名虽然有优点，但也有缺点，需谨慎选择。<br><br>总结: US.KG域名受限，建议先在指定网址注册并完成KYC验证，然后托管至Cloudflare。免费注册需注意定期续订。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、续费
-<br>
-HostUNO是一个提供代理服务的网站，服务稳定性和速度表现良好，购买过程简单。用户可在该网站购买代理节点，并利用Windterm进行测速。然而，部分用户对ChatGPT降智问题表示担忧，建议使用降智检测插件。在续费方面，用户可以通过修改登录密码来操作。综合评价，HostUNO值得购买。]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
+Deepseek是一个搜索工具，可以在网页端和APP上使用，也提供API供其他应用使用，用户还可以选择在本地部署。具体使用方法包括访问官方网站或手机客户端，注册并使用API，以及使用第三方应用或本地部署Ollama进行沉浸式翻译等功能。Deepseek的应用范围广泛，可用于Chatbox、欧路词典等软件。用户可根据需求选择合适的模型和硬件参考。总的来说，Deepseek的使用方法简单明了，功能丰富，为用户提供了多种搜索和翻译的便利途径。<br><br>总结: Deepseek提供了网页端、APP和API等多种应用方式，用户可以根据需求选择合适的方式使用，还可以通过本地部署进行沉浸式翻译等功能。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG, 免费域名, Cloudflare, 身份信息生成器, 注册
-
-美国KG域名注册有困难？可以尝试另一个免费域名注册网站，新用户使用优惠码（newuser）可享受一年免费服务。注册账号时，可以使用身份信息生成器协助填写信息。购买域名后，将其托管到Cloudflare，登录后添加域名并填入分配的两个名称服务器。详细操作步骤可以参考YouTube视频教程。操作简单，免费一年服务，推荐尝试。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
