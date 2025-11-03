@@ -1,15 +1,55 @@
 ------------------------------------------------------
-Started: 2025-11-03 18:27:49.810078
-Existing_entries: 20
+Started: 2025-11-03 20:21:52.462930
+Existing_entries: 3
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 337
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [与OpenAI签署380亿美元算力供应协议，亚马逊开盘涨超4%](https://www.yicai.com/news/102893849.html)
+Token length: 2424
 Summarized using gemini model: gemini-2.0-flash
-Append: [中方决定延长对多国免签政策，名单公布](https://m.thepaper.cn/detail/31882633)
-Token length: 3067
+Append: [盘点半导体三季报：盈利修复进行时，结构性分化加剧](https://www.yicai.com/news/102893362.html)
+Token length: 1137
 Summarized using gemini model: gemini-2.0-flash
-Append: [离开大疆、云鲸后，他用AI改造传统硬件产品，众筹破千万｜硬氪专访](https://www.36kr.com/p/3535998221032321)
-Token length: 154
+Append: [机器人“干中学”，人类不用再给工厂中的机器人当保姆](https://www.yicai.com/news/102893588.html)
+Token length: 356
 Summarized using gemini model: gemini-2.0-flash
-Append: [LVGLSharp：LVGL的C#绑定库介绍](https://www.cnblogs.com/shanyou/p/19185046)
-append_entries: 3
-Finish: 2025-11-03 18:28:03.386275
+Append: [9万多的金条现在要10多万 多个门店和品牌全面上调售价 专家：新规将使得交易更规范化](https://www.yicai.com/video/102893791.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [助听眼镜、人工心脏，这些医疗“黑科技”将首次亮相进博会](https://www.yicai.com/news/102893649.html)
+Token length: 1840
+Summarized using gemini model: gemini-2.0-flash
+Append: [中加团队游开闸，但中加航线恢复与中美航线一样慢](https://www.yicai.com/news/102893573.html)
+Token length: 75
+Summarized using gemini model: gemini-2.0-flash
+Append: [“中美处得挺好”，特朗普：与其一味打压不如与中方合作](https://m.thepaper.cn/detail/31882601)
+Token length: 9257
+Summarized using gemini model: gemini-2.0-flash
+Append: [LangChain1.0速通指南（一）——LangChain1.0核心升级](https://juejin.cn/post/7567301894648004648)
+Token length: 476
+Summarized using gemini model: gemini-2.0-flash
+Append: [税收优惠结束 金价还会继续下跌吗？](https://www.yicai.com/video/102893788.html)
+Token length: 3459
+Summarized using gemini model: gemini-2.0-flash
+Append: [进博会扩大开放新图景：让中国大市场成为世界大机遇](https://www.yicai.com/news/102893756.html)
+Token length: 2234
+Summarized using gemini model: gemini-2.0-flash
+Append: [三花智控还能不能涨？高盛发看空研报，机构观点分歧加剧](https://www.yicai.com/news/102893658.html)
+Token length: 197
+Summarized using gemini model: gemini-2.0-flash
+Append: [机构买入这13股，卖出三生国健2.11亿元](https://www.yicai.com/news/102893704.html)
+Token length: 2822
+Summarized using gemini model: gemini-2.0-flash
+Append: [控制权酝酿变更！多年亏损下，维信诺寻找“接盘者”](https://www.yicai.com/news/102893594.html)
+Token length: 2551
+Summarized using gemini model: gemini-2.0-flash
+Append: [马上测｜离大谱！多地办电话卡需工作证明、无犯罪证明、银行流水](https://m.thepaper.cn/detail/31882346)
+Token length: 71
+Summarized using gemini model: gemini-2.0-flash
+Append: [保卫处招聘“保卫工作岗”要求硕士及以上学历，南理工紫金学院：正式工，非保安](https://m.thepaper.cn/detail/31881713)
+Token length: 858
+Summarized using gemini model: gemini-2.0-flash
+Append: [港媒：中国香港奥运冠军江旻憓确认将参加香港立法会选举](https://m.thepaper.cn/detail/31882243)
+Token length: 79
+Summarized using gemini model: gemini-2.0-flash
+Append: [独立开发4个月，0到1之后怎么办？](https://www.cnblogs.com/cicada-smile/p/19187506)
+append_entries: 17
+Finish: 2025-11-03 20:23:25.308886
