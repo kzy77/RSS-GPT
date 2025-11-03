@@ -2,367 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-03T20:24:09Z</updated>
+    <updated>2025-11-03T22:19:09Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[LangChain1.0速通指南（一）——LangChain1.0核心升级]]></title>
-        <link href="https://juejin.cn/post/7567301894648004648" />
-        <id>https://juejin.cn/post/7567301894648004648</id>
-        <updated>Sun, 02 Nov 2025 11:42:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：LangChain 1.0, create_agent, 内容块, 中间件, 包结构
+        <title><![CDATA[LVGLSharp：LVGL的C#绑定库介绍]]></title>
+        <link href="https://www.cnblogs.com/shanyou/p/19185046" />
+        <id>https://www.cnblogs.com/shanyou/p/19185046</id>
+        <updated>Sun, 02 Nov 2025 15:59:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: LVGL, LVGLSharp, C#, .NET, 嵌入式GUI
 
 <br><br>总结:
-1.  LangChain 1.0 是一个专注于智能体构建的框架，旨在提升开发体验。
-2.  `create_agent` 是新一代智能体构建标准，取代旧方法，通过中间件机制实现高度定制，并简化了结构化输出。
-3.  标准化内容块统一了不同厂商的接口，使开发者能够跨提供商访问各种功能，无需关注底层差异。
-4.  包结构进行了精简，聚焦智能体开发的核心模块，旧版功能迁移至 `langchain-classic`，使功能体系更清晰。
-5.  LangChain 1.0 标志着智能体开发从原型走向生产级框架，未来智能体开发标准会更统一，开发更简单。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[与OpenAI签署380亿美元算力供应协议，亚马逊开盘涨超4%]]></title>
-        <link href="https://www.yicai.com/news/102893849.html" />
-        <id>https://www.yicai.com/news/102893849.html</id>
-        <updated>Mon, 03 Nov 2025 23:48:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[盘点半导体三季报：盈利修复进行时，结构性分化加剧]]></title>
-        <link href="https://www.yicai.com/news/102893362.html" />
-        <id>https://www.yicai.com/news/102893362.html</id>
-        <updated>Mon, 03 Nov 2025 23:44:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 结构性繁荣，半导体，AI算力，存储芯片，国产替代
-
-<br><br>总结:
-- A股半导体板块呈现结构性繁荣，AI算力、存储器、新能源需求爆发带动相关品类增长，部分公司盈利能力显著回暖。
-- 沪深股通对半导体龙头持续青睐，反映市场对行业长期发展和业绩复苏的认可。
-- 166家A股半导体上市公司前三季度归母净利润同比增速的中位数为19.9%，近四年半导体板块的整体盈利能力复苏显著。
-- 细分赛道业绩分化明显，AI算力与高端芯片设计表现亮眼，存储芯片板块普遍营收高增，半导体设备板块维持高景气度，消费电子品类仍在“等风来”。
-- 整体营收增速放缓，反映半导体景气度的结构分化。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[机器人“干中学”，人类不用再给工厂中的机器人当保姆]]></title>
-        <link href="https://www.yicai.com/news/102893588.html" />
-        <id>https://www.yicai.com/news/102893588.html</id>
-        <updated>Mon, 03 Nov 2025 23:28:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 机器人, 强化学习, 真机, 产线, 部署
-
-<br><br>总结:
-要点1: 智元机器人将真机强化学习技术应用于龙旗科技产线，实现机器人自主优化动作策略。
-要点2: 传统仿真到真实环境转换存在困难，导致机器人部署耗时耗力。
-要点3: 真机强化学习通过产线原生信号训练机器人，优化训练目标，缩短部署时间。
-要点4: 真机强化学习存在物料损耗和安全风险，需通过预训练和底层控制降低风险。
-要点5: 智元正通过本地私有云和OTA机制共享经验，实现模型批量更新和复现，但仍需与工厂系统深度对接才能形成数据流和反馈闭环。
+1. LVGL是一个流行的开源嵌入式GUI图形库，提供丰富的UI组件和高效渲染。
+2. LVGLSharp是LVGL的C#绑定库，方便.NET开发者使用LVGL。
+3. 通过LVGLSharp，.NET开发者可以为资源受限的嵌入式设备开发图形界面应用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[9万多的金条现在要10多万 多个门店和品牌全面上调售价 专家：新规将使得交易更规范化]]></title>
-        <link href="https://www.yicai.com/video/102893791.html" />
-        <id>https://www.yicai.com/video/102893791.html</id>
-        <updated>Mon, 03 Nov 2025 22:44:32 +0800</updated>
-        <summary type="html"><![CDATA[黄金，税收政策，金价上涨，投资金条，交易规范
+        <title><![CDATA[亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片]]></title>
+        <link href="https://wallstreetcn.com/articles/3758580" />
+        <id>https://wallstreetcn.com/articles/3758580</id>
+        <updated>Mon, 03 Nov 2025 23:05:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AWS, OpenAI, 云服务, 算力, 英伟达
 
 <br><br>总结:
-* 财政部和国家税务总局发布了新的黄金税收政策公告。
-* 水贝多家黄金门店已全面上调投资金条和黄金饰品售价。
-* 黄金价格大幅上涨，例如从932元/克涨至1030元/克。
-* 100克黄金投资金条的价格也相应上涨，从9万多元涨至10万多。
-* 专家认为新规将有助于黄金交易的规范化。
+1. AWS与OpenAI签订为期七年的380亿美元算力协议，AWS将提供包括英伟达GPU在内的算力支持OpenAI的AI模型训练和运行。
+2. 这项协议表明OpenAI正逐渐摆脱对微软云服务的独家依赖，并与包括AWS、Google、Oracle和CoreWeave在内的多家云服务商合作，构建多元化的算力生态系统。
+3. 亚马逊AWS通过此次合作弥补了在支持OpenAI方面的空白，巩固了其作为全球最大算力租赁服务提供商的地位。
+4. 这项合作有助于OpenAI实现独立运营，并可能推动其最终上市的进程。
+5. 虽然AWS也为Anthropic提供算力支持，但与OpenAI的合作显示了AWS在AI领域的战略布局和算力优势。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[助听眼镜、人工心脏，这些医疗“黑科技”将首次亮相进博会]]></title>
-        <link href="https://www.yicai.com/news/102893649.html" />
-        <id>https://www.yicai.com/news/102893649.html</id>
-        <updated>Mon, 03 Nov 2025 22:36:13 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中加团队游开闸，但中加航线恢复与中美航线一样慢]]></title>
-        <link href="https://www.yicai.com/news/102893573.html" />
-        <id>https://www.yicai.com/news/102893573.html</id>
-        <updated>Mon, 03 Nov 2025 22:34:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 中加航线, 航班恢复, 航权限制, 航司运营, 国际格局
+        <title><![CDATA[从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元]]></title>
+        <link href="https://wallstreetcn.com/articles/3758569" />
+        <id>https://wallstreetcn.com/articles/3758569</id>
+        <updated>Mon, 03 Nov 2025 20:13:39 +0800</updated>
+        <summary type="html"><![CDATA[电力, AI, 数据中心, 基础设施, 投资
 
 <br><br>总结:
-1.  中加航线恢复速度缓慢，仅恢复至2019年同期的35.6%，原因之一是加拿大对中方航司的增班数量有限制。
-2.  虽然已逐步放宽限制，但目前中加航班量仍远低于疫情前水平，且航线运营受到绕飞俄罗斯领空的影响。
-3.  执飞航司中国内航司占据较大份额，表明加拿大航空尚未完全用满已获批的航权，部分原因在于其更倾向于执飞收益更高的航线。
-4.  中美航线也面临类似问题，包括航权对等和绕飞限制，美国甚至提议全面禁止中方航司使用俄罗斯领空。
-5.  由于中方航司在飞欧洲航线时无需绕飞俄罗斯，因此中欧航线成为国内航司重点市场，导致国际航线格局发生变化，国内航司市场份额提升，而国外航司份额下降。
+1.  美银认为，AI的算力竞赛本质是电力竞赛，中国AI总投资到2030年将达2-2.5万亿元，其中非IT基础设施投资（如电力、散热、金属材料等）将占据三分之一，达8000亿元。
+2.  数据中心的电力消耗将快速增长，预计到2030年将达到277太瓦时，AIDC普及、高性能芯片部署和服务器机柜功率密度飙升是主要驱动力。
+3.  中国在AI电力基础设施方面拥有优势，包括充足的发电能力、较低的电价、可再生能源供应链主导地位和完善的电网，这催生了核电、电力设备、储能系统、柴油发电机和AI电源五大投资机遇。
+4.  高效散热和基础原材料（如铜和铝）也是AI基础设施的关键，液冷技术市场规模预计在2025-2030年将高速发展，中国AI数据中心对铜和铝的需求也将大幅增长。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[税收优惠结束 金价还会继续下跌吗？]]></title>
-        <link href="https://www.yicai.com/video/102893788.html" />
-        <id>https://www.yicai.com/video/102893788.html</id>
-        <updated>Mon, 03 Nov 2025 22:08:05 +0800</updated>
-        <summary type="html"><![CDATA[黄金税收、增值税抵扣、积存金、黄金消费、金价走势
+        <title><![CDATA[中方决定延长对多国免签政策，名单公布]]></title>
+        <link href="https://m.thepaper.cn/detail/31882633" />
+        <id>https://m.thepaper.cn/detail/31882633</id>
+        <updated>Mon, 03 Nov 2025 19:29:38 +0800</updated>
+        <summary type="html"><![CDATA[免签政策, 中国, 外国公民, 旅游, 延期
 
 <br><br>总结:
-1. 中国发布黄金税收新规，取消普通零售商黄金增值税抵扣优惠，仅保留交易所会员税收待遇，政策持续至2027年底。
-2. 新规发布后，黄金现货市场出现波动，多家国有大行一度暂停积存金业务，后恢复。
-3. 作为全球最大黄金消费国，中国的新政策引发市场关注，关注点包括政策信号、监管降温意图以及对黄金消费格局和金价的影响。
+1. 中国将对法国等多个国家（共45个）的单方面免签政策延期至2026年12月31日。
+2. 从2025年11月10日至2026年12月31日，中国将对瑞典实施免签政策。
+3. 上述国家的公民持普通护照来华进行商务、旅游、探亲访友、交流访问或过境，停留时间不超过30天，可免办签证入境。
+4. 不符合免签条件的人员仍需提前办理中国签证。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[进博会扩大开放新图景：让中国大市场成为世界大机遇]]></title>
-        <link href="https://www.yicai.com/news/102893756.html" />
-        <id>https://www.yicai.com/news/102893756.html</id>
-        <updated>Mon, 03 Nov 2025 21:42:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词：进博会，开放，创新，全球化，本土化
+        <title><![CDATA[离开大疆、云鲸后，他用AI改造传统硬件产品，众筹破千万｜硬氪专访]]></title>
+        <link href="https://www.36kr.com/p/3535998221032321" />
+        <id>https://www.36kr.com/p/3535998221032321</id>
+        <updated>Mon, 03 Nov 2025 09:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Zettlab, AI NAS, 数据中枢, 创业, 隐私保护
 
 <br><br>总结:
-1.  第八届进博会将于11月5-10日在上海举办，展览面积和企业总数创历史新高，美国企业参展面积连续7年第一，体现了国际社会对进博会及中国经济的信心。
-2.  进博会持续扩大“朋友圈”，吸引众多企业成为“回头客”和“常驻客”，各企业将进博会视为首发首展创新产品、拓展合作关系的重要平台。
-3.  进博会不仅是全球新品首发地和前沿技术首秀场，也实实在在助力全球生意，前七届累计展示新产品、新技术、新服务约3000项，意向成交额超5000亿美元。
-4.  外资企业持续加码本土化创新，加大研发投入，将越来越多且越来越高端的研发制造搬到中国，并借助中国市场拓展海外市场。
-5.  进博会惠及全球，助力“一带一路”共建国家和最不发达国家企业参展，扩大对最不发达国家的单边开放，不断释放惠全球的能量。
+1.  Zettlab在融资困难时期，创始人郭亚楠辞职创业，看准AI NAS市场机会。
+2.  NAS作为小型数据中枢，天然适合聚合AI能力，实现从分散智能到协同智能的演进。
+3.  用户调研显示，传统NAS用户对AI需求认知不足，但Zettlab坚信AI能帮助用户更好地使用和管理数据。
+4.  Zettlab的AI NAS产品，如视频搜索功能，能极大提升视频创作者的后期效率。
+5.  Zettlab选择端侧AI架构，所有核心功能在本地独立运行，不依赖云端，从而平衡AI能力和用户隐私保护。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[三花智控还能不能涨？高盛发看空研报，机构观点分歧加剧]]></title>
-        <link href="https://www.yicai.com/news/102893658.html" />
-        <id>https://www.yicai.com/news/102893658.html</id>
-        <updated>Mon, 03 Nov 2025 21:41:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 三花智控, 人形机器人, 股价, 高盛, 游资/外资
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, Github, 注册时间, 免费容器, 应用商店
 
-<br><br>总结:
-1.  三花智控因“人形机器人”概念股价大幅上涨，A股累计涨幅达78.27%。
-
-2.  高盛发布报告，因“人形机器人预期过高”下调评级，引发国内外机构目标价分歧。国内券商普遍看多，外资机构相对保守。
-
-3.  股价上涨期间，游资、外资大量买入，股价加速上涨期由外资主导。
-
-4.  公司控股股东在高位减持1347.6万股，套现超7亿元。
-
-5.  市场传闻与公司澄清后，游资仍然获利，整体而言，外资、游资和控股股东在股价上涨中获利丰厚。
-]]></summary>
+注册Claw Cloud Run免费容器，条件为Github注册时间大于180天，可每月获得5美元赠金。可搭建各种Docker应用，可一键自动部署或手动部署。通过访问"https://api.github.com/users/XXX"（将XXX替换为Github用户名）可查看注册时间，找到"created at"后面的日期即为注册时间。推荐部署Memos（轻笔记应用）和AList（网盘挂载工具）。详细内容可观看Youtube视频。总结: Claw Cloud Run是一款免费容器，注册时间大于180天可获得5美元赠金，可搭建Docker应用，手动或自动部署，推荐两款应用，详情见视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[机构买入这13股，卖出三生国健2.11亿元]]></title>
-        <link href="https://www.yicai.com/news/102893704.html" />
-        <id>https://www.yicai.com/news/102893704.html</id>
-        <updated>Mon, 03 Nov 2025 21:28:49 +0800</updated>
-        <summary type="html"><![CDATA[龙虎榜，机构，净买入，净卖出，股票
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云、免费VPS、注册验证、创建VM实例、科学上网
+注册验证谷歌云账号需添加付款资料和方式，选择配置创建免费VM实例，注意设置防火墙并使用SSH登录，搭建Hysteria 2节点科学上网，需注意流量政策和CDN费用。详细步骤可参考视频。 
 
-<br><br>总结:
-1.  11月3日龙虎榜中，共有42只股票出现机构交易。
-2.  其中，13只股票为机构净买入，29只股票为机构净卖出。
-3.  机构净买入金额前三的股票是亚太药业（1.06亿元）、鼎胜新材（8279万元）、航天智装（6942万元）。
-4.  机构净卖出金额前三的股票是三生国健（2.11亿元）、思维列控（1.25亿元）、凯美特气（1.08亿元）。
-]]></summary>
+总结: 注册验证谷歌云账号，创建免费VM实例，设置防火墙，SSH登录，搭建科学上网节点。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“中美处得挺好”，特朗普：与其一味打压不如与中方合作]]></title>
-        <link href="https://m.thepaper.cn/detail/31882601" />
-        <id>https://m.thepaper.cn/detail/31882601</id>
-        <updated>Mon, 03 Nov 2025 21:21:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普, 中美, 竞争, 合作, 强大
-
-<br><br>总结:
-特朗普在采访中就中美关系发表看法。
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github、地址生成器、Cloudflare、域名、续期<br>
 <br>
-他认为中美关系虽然竞争激烈，但“相处得很好”。
+注册地址生成器和美国地址生成器可以获取地址信息，DigitalPlat在Github上有仓库，Cloudflare提供Pages服务和SSL证书。域名分为dpdns.org和us.kg两种，新用户可免费获得1个域名，老用户可获得3个域名，通过Github加Star可增加域名额度。续期永久免费，每年续期一次，us.kg域名也需要定期续期。Youtube视频提供详细教程。总结: 文章介绍了注册地址生成器、Cloudflare服务、免费和收费域名以及续期方法，以及相关Github仓库和Youtube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT降智<br>
 <br>
-他认为美国可以通过与中国合作变得更好、更强大。
-<br>
-他反对一味地打压中国。
-]]></summary>
+在本文中，主要介绍了HostUNO这家服务商的稳定性和速度情况，讨论了是否需要保活以及对ChatGPT降智问题的讨论。作者分享了自己的总体体验和购买过程，包括搭建代理节点和节点测速情况。另外还提到了如何修改登录密码、续费服务等相关内容。最后，作者对HostUNO的价格、服务态度以及值得购买的综合评价。总的来说，文章对HostUNO的各个方面做了详细的评测和分析，对读者购买此服务提供了参考建议。<br><br>总结: HostUNO的服务在稳定性和速度方面表现良好，使用体验整体较为满意。在购买和续费过程中比较简便，并提供了相关操作指导。对于使用ChatGPT等智能服务时可能出现的降智问题，也提供了解决思路。综合来看，HostUNO服务商值得一试，尤其对于需要稳定性和速度的用户。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[控制权酝酿变更！多年亏损下，维信诺寻找“接盘者”]]></title>
-        <link href="https://www.yicai.com/news/102893594.html" />
-        <id>https://www.yicai.com/news/102893594.html</id>
-        <updated>Mon, 03 Nov 2025 21:17:45 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 维信诺, OLED, 定向增发, 8.6代线, 竞争
-
-<br><br>总结:
-1. 维信诺因OLED行业竞争加剧和自身经营困境，计划通过定向增发A股股票引入新的融资，可能导致控制权变更。
-2. 公司此前终止了对合肥维信诺的重大资产重组计划，该计划旨在扩大营收规模，但因行业变化而未能实现。
-3. 维信诺面临着盈利压力，业绩表现不及京东方、TCL华星等竞争对手，同时资产负债率较高。
-4. 全球OLED面板行业竞争激烈，各大厂商纷纷投资高世代OLED生产线，维信诺的市场份额也受到一定挑战，但也在积极争取订单，例如小米。
-5. 业内人士认为，维信诺的优势在于OLED产能规模和技术，但资金是其最大的挑战，地方国资或是潜在的定增对象。
-]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、注册、托管
+总结：
+1. 免费域名注册地址：使用身份信息生成器注册账号，购买域名输入优惠码（newuser）可免费一年。
+2. 域名注册后可托管到Cloudflare，登录Cloudflare添加域名，填入分配的两个名称服务器。
+3. 可通过Youtube视频了解详细教程，步骤包括注册账号、注册域名、域名托管到Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马上测｜离大谱！多地办电话卡需工作证明、无犯罪证明、银行流水]]></title>
-        <link href="https://m.thepaper.cn/detail/31882346" />
-        <id>https://m.thepaper.cn/detail/31882346</id>
-        <updated>Mon, 03 Nov 2025 20:08:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 电话卡, 异地办卡, 反诈, 运营商, 额外证明
-
-<br><br>总结:
-1. 消费者反映在南昌等地线下办理电话卡时，被要求提供无犯罪记录证明、工作证明、银行流水、房产证等额外材料，甚至被要求预存高额话费，各地标准不一。
-2. 运营商解释此举是为“反诈”，但无法提供明确的政策依据，且客服与营业厅要求可能不一致。
-3. 工信部专家指出，实名制等有明确规范，但要求无犯罪证明等额外材料缺乏全国统一法规授权，其合法性存疑。
-4. 异地办卡存在门槛高、成本高、待遇不公等问题，监管部门应出台“异地办卡基本标准”，运营商应简化普通用户流程，禁止不合理收费和设置门槛。
-5. 建议建立风险识别机制，区分低风险和高风险用户，实行差异化审核，提高用户知情权，明确申诉渠道。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[保卫处招聘“保卫工作岗”要求硕士及以上学历，南理工紫金学院：正式工，非保安]]></title>
-        <link href="https://m.thepaper.cn/detail/31881713" />
-        <id>https://m.thepaper.cn/detail/31881713</id>
-        <updated>Mon, 03 Nov 2025 18:29:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词：南京理工大学紫金学院，保卫处，招聘，硕士，科员
-
-<br><br>总结:
-1. 南京理工大学紫金学院保卫处正在招聘一名科员。
-2. 该岗位要求应聘者具备硕士研究生及以上学历。
-3. 该岗位是保卫科的正式工作人员，并非保安。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[港媒：中国香港奥运冠军江旻憓确认将参加香港立法会选举]]></title>
-        <link href="https://m.thepaper.cn/detail/31882243" />
-        <id>https://m.thepaper.cn/detail/31882243</id>
-        <updated>Mon, 03 Nov 2025 18:05:33 +0800</updated>
-        <summary type="html"><![CDATA[江旻憓, 奥运金牌, 立法会选举, 功能组别, 放弃加拿大护照
-
-<br><br>总结:
-1. 巴黎奥运女子个人重剑金牌得主江旻憓确认参选香港立法会换届选举，竞逐功能组别旅游界议席。
-2. 江旻憓已申请放弃加拿大护照，表明参选初心是服务香港、反馈社会。
-3. 江旻憓此前加入香港赛马会担任对外事务助理经理，已暂停马会职务。
-4. 江旻憓自小接触击剑，曾登上女子重剑世界第一，并获得香港历史上第三枚奥运金牌。
-5. 江旻憓的父母支持她成为全职击剑运动员，并为她的成就感到自豪。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[独立开发4个月，0到1之后怎么办？]]></title>
-        <link href="https://www.cnblogs.com/cicada-smile/p/19187506" />
-        <id>https://www.cnblogs.com/cicada-smile/p/19187506</id>
-        <updated>Mon, 03 Nov 2025 16:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 0到1，1到2，完整过程，计划，预期
-
-<br><br>总结:
-1. 10月31日的结果未达到预期水平。
-2. 但与7月1日设定的目标相比，已经完整地完成了从0到1的阶段。
-3. 下一步的关键问题是：如何实现从1到2的突破。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、命令、网址
-<br>
-爪云（Claw Cloud Run）提供内网穿透服务，通过VPS部署，使用命令或网址进行操作。用户可以选择临时隧道模式或固定隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token、隧道域名三个变量，并按照指定格式生成UUID和Cloudflare隧道，然后运行相应命令启动服务。相关docker命令可用于管理容器，包括查看日志、停止、删除容器等操作。用户可参考视频教程了解详细操作步骤。总的来说，爪云提供了方便快捷地搭建科学上网节点的方式。 
-<br><br>总结: 爪云提供内网穿透服务，用户可以通过VPS部署，使用命令或网址操作。固定隧道模式需要准备UUID、Cloudflare隧道Token、隧道域名三个变量。相关docker命令可用于管理容器。视频教程提供详细操作步骤。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg、域名、Cloudflare、托管、注册
-<br>
-us.kg免费域名挂了吗？文章介绍了目前情况。已注册的域名仍可使用，新的域名也可以托管到Cloudflare。目前临时托管到FreeDNS，注册新域名的方式也在进行中。需要注意的是注册的域名会有区别，因此需要了解具体情况后进行选择。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN回源、网页保活<br>
-<br>
-Serv00提供了科学上网节点搭建的服务，用户可以通过Serv00注册登录并设置科学上网节点。使用Cloudflare可以搭建固定隧道和CDN回源，通过设置DNS记录和回源规则实现网站访问加速。网页保活功能可以保持网页的持续运行，通过多功能主页的不同命令进行操作。另外，还可以利用Cloudflare的远程保活功能，通过设置Worker和特定代码来实现定时保持网页访问。整体教程详细介绍了Serv00的使用、科学上网节点搭建、Cloudflare的应用以及网页保活和远程保活功能的设置。<br><br>总结: Serv00提供科学上网节点搭建服务，Cloudflare用于搭建固定隧道和CDN回源，网页保活功能可保持网页运行，远程保活利用Cloudflare Worker实现定时保持访问。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名、注册、KYC验证、Cloudflare、教程
-US.KG域名目前受限，建议使用 https://dash.domain.digitalplat.org/ 进行注册和KYC验证，待域名状态恢复后托管至Cloudflare。视频详细介绍了注册流程：注册账号，验证邮箱，KYC验证，注册域名并托管至Cloudflare，以及如何免费续订域名。通过该视频，可以轻松完成US.KG域名的注册和操作。总结: 推荐使用 https://dash.domain.digitalplat.org/ 注册US.KG域名，完成KYC验证后托管至Cloudflare，并可通过视频了解详细操作步骤。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
-Deepseek是一个能力强大的搜索引擎，可以通过网页端、APP和API来使用。用户可以通过Deepseek进行沉浸式翻译、Chatbox、欧路词典等软件应用。此外，用户还可以通过本地部署的方式使用Deepseek，只需安装Ollama并在终端输入相关指令即可。Deepseek提供了丰富的功能和应用选择，为用户提供便利和高效的搜索体验。深入了解Deepseek的使用方法，可以从官方网站、官方客户端、Deepseek API以及第三方应用获取更多信息。<br><br>总结:Deepseek提供多种使用方式，包括网页端、APP、API和本地部署，用户可通过不同渠道使用其强大的搜索功能和应用选择。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     

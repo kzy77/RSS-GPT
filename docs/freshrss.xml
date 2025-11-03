@@ -2,262 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Mon, 03 Nov 2025 20:21:59 GMT</updated>
+    <updated>Mon, 03 Nov 2025 22:18:48 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[与OpenAI签署380亿美元算力供应协议，亚马逊开盘涨超4%]]></title>
-        <link href="https://www.yicai.com/news/102893849.html" />
-        <id>https://www.yicai.com/news/102893849.html</id>
-        <updated>Mon, 03 Nov 2025 23:48:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[盘点半导体三季报：盈利修复进行时，结构性分化加剧]]></title>
-        <link href="https://www.yicai.com/news/102893362.html" />
-        <id>https://www.yicai.com/news/102893362.html</id>
-        <updated>Mon, 03 Nov 2025 23:44:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 结构性繁荣，半导体，AI算力，存储芯片，国产替代
+        <title><![CDATA[亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片]]></title>
+        <link href="https://wallstreetcn.com/articles/3758580" />
+        <id>https://wallstreetcn.com/articles/3758580</id>
+        <updated>Mon, 03 Nov 2025 23:05:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AWS, OpenAI, 云服务, 算力, 英伟达
 
 <br><br>总结:
-- A股半导体板块呈现结构性繁荣，AI算力、存储器、新能源需求爆发带动相关品类增长，部分公司盈利能力显著回暖。
-- 沪深股通对半导体龙头持续青睐，反映市场对行业长期发展和业绩复苏的认可。
-- 166家A股半导体上市公司前三季度归母净利润同比增速的中位数为19.9%，近四年半导体板块的整体盈利能力复苏显著。
-- 细分赛道业绩分化明显，AI算力与高端芯片设计表现亮眼，存储芯片板块普遍营收高增，半导体设备板块维持高景气度，消费电子品类仍在“等风来”。
-- 整体营收增速放缓，反映半导体景气度的结构分化。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[机器人“干中学”，人类不用再给工厂中的机器人当保姆]]></title>
-        <link href="https://www.yicai.com/news/102893588.html" />
-        <id>https://www.yicai.com/news/102893588.html</id>
-        <updated>Mon, 03 Nov 2025 23:28:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 机器人, 强化学习, 真机, 产线, 部署
-
-<br><br>总结:
-要点1: 智元机器人将真机强化学习技术应用于龙旗科技产线，实现机器人自主优化动作策略。
-要点2: 传统仿真到真实环境转换存在困难，导致机器人部署耗时耗力。
-要点3: 真机强化学习通过产线原生信号训练机器人，优化训练目标，缩短部署时间。
-要点4: 真机强化学习存在物料损耗和安全风险，需通过预训练和底层控制降低风险。
-要点5: 智元正通过本地私有云和OTA机制共享经验，实现模型批量更新和复现，但仍需与工厂系统深度对接才能形成数据流和反馈闭环。
+1. AWS与OpenAI签订为期七年的380亿美元算力协议，AWS将提供包括英伟达GPU在内的算力支持OpenAI的AI模型训练和运行。
+2. 这项协议表明OpenAI正逐渐摆脱对微软云服务的独家依赖，并与包括AWS、Google、Oracle和CoreWeave在内的多家云服务商合作，构建多元化的算力生态系统。
+3. 亚马逊AWS通过此次合作弥补了在支持OpenAI方面的空白，巩固了其作为全球最大算力租赁服务提供商的地位。
+4. 这项合作有助于OpenAI实现独立运营，并可能推动其最终上市的进程。
+5. 虽然AWS也为Anthropic提供算力支持，但与OpenAI的合作显示了AWS在AI领域的战略布局和算力优势。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[9万多的金条现在要10多万 多个门店和品牌全面上调售价 专家：新规将使得交易更规范化]]></title>
-        <link href="https://www.yicai.com/video/102893791.html" />
-        <id>https://www.yicai.com/video/102893791.html</id>
-        <updated>Mon, 03 Nov 2025 22:44:32 +0800</updated>
-        <summary type="html"><![CDATA[黄金，税收政策，金价上涨，投资金条，交易规范
+        <title><![CDATA[从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元]]></title>
+        <link href="https://wallstreetcn.com/articles/3758569" />
+        <id>https://wallstreetcn.com/articles/3758569</id>
+        <updated>Mon, 03 Nov 2025 20:13:39 +0800</updated>
+        <summary type="html"><![CDATA[电力, AI, 数据中心, 基础设施, 投资
 
 <br><br>总结:
-* 财政部和国家税务总局发布了新的黄金税收政策公告。
-* 水贝多家黄金门店已全面上调投资金条和黄金饰品售价。
-* 黄金价格大幅上涨，例如从932元/克涨至1030元/克。
-* 100克黄金投资金条的价格也相应上涨，从9万多元涨至10万多。
-* 专家认为新规将有助于黄金交易的规范化。
+1.  美银认为，AI的算力竞赛本质是电力竞赛，中国AI总投资到2030年将达2-2.5万亿元，其中非IT基础设施投资（如电力、散热、金属材料等）将占据三分之一，达8000亿元。
+2.  数据中心的电力消耗将快速增长，预计到2030年将达到277太瓦时，AIDC普及、高性能芯片部署和服务器机柜功率密度飙升是主要驱动力。
+3.  中国在AI电力基础设施方面拥有优势，包括充足的发电能力、较低的电价、可再生能源供应链主导地位和完善的电网，这催生了核电、电力设备、储能系统、柴油发电机和AI电源五大投资机遇。
+4.  高效散热和基础原材料（如铜和铝）也是AI基础设施的关键，液冷技术市场规模预计在2025-2030年将高速发展，中国AI数据中心对铜和铝的需求也将大幅增长。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[助听眼镜、人工心脏，这些医疗“黑科技”将首次亮相进博会]]></title>
-        <link href="https://www.yicai.com/news/102893649.html" />
-        <id>https://www.yicai.com/news/102893649.html</id>
-        <updated>Mon, 03 Nov 2025 22:36:13 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中加团队游开闸，但中加航线恢复与中美航线一样慢]]></title>
-        <link href="https://www.yicai.com/news/102893573.html" />
-        <id>https://www.yicai.com/news/102893573.html</id>
-        <updated>Mon, 03 Nov 2025 22:34:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 中加航线, 航班恢复, 航权限制, 航司运营, 国际格局
+        <title><![CDATA[中方决定延长对多国免签政策，名单公布]]></title>
+        <link href="https://m.thepaper.cn/detail/31882633" />
+        <id>https://m.thepaper.cn/detail/31882633</id>
+        <updated>Mon, 03 Nov 2025 19:29:38 +0800</updated>
+        <summary type="html"><![CDATA[免签政策, 中国, 外国公民, 旅游, 延期
 
 <br><br>总结:
-1.  中加航线恢复速度缓慢，仅恢复至2019年同期的35.6%，原因之一是加拿大对中方航司的增班数量有限制。
-2.  虽然已逐步放宽限制，但目前中加航班量仍远低于疫情前水平，且航线运营受到绕飞俄罗斯领空的影响。
-3.  执飞航司中国内航司占据较大份额，表明加拿大航空尚未完全用满已获批的航权，部分原因在于其更倾向于执飞收益更高的航线。
-4.  中美航线也面临类似问题，包括航权对等和绕飞限制，美国甚至提议全面禁止中方航司使用俄罗斯领空。
-5.  由于中方航司在飞欧洲航线时无需绕飞俄罗斯，因此中欧航线成为国内航司重点市场，导致国际航线格局发生变化，国内航司市场份额提升，而国外航司份额下降。
+1. 中国将对法国等多个国家（共45个）的单方面免签政策延期至2026年12月31日。
+2. 从2025年11月10日至2026年12月31日，中国将对瑞典实施免签政策。
+3. 上述国家的公民持普通护照来华进行商务、旅游、探亲访友、交流访问或过境，停留时间不超过30天，可免办签证入境。
+4. 不符合免签条件的人员仍需提前办理中国签证。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“中美处得挺好”，特朗普：与其一味打压不如与中方合作]]></title>
-        <link href="https://m.thepaper.cn/detail/31882601" />
-        <id>https://m.thepaper.cn/detail/31882601</id>
-        <updated>Mon, 03 Nov 2025 21:21:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：特朗普, 中美, 竞争, 合作, 强大
+        <title><![CDATA[离开大疆、云鲸后，他用AI改造传统硬件产品，众筹破千万｜硬氪专访]]></title>
+        <link href="https://www.36kr.com/p/3535998221032321" />
+        <id>https://www.36kr.com/p/3535998221032321</id>
+        <updated>Mon, 03 Nov 2025 09:30:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Zettlab, AI NAS, 数据中枢, 创业, 隐私保护
 
 <br><br>总结:
-特朗普在采访中就中美关系发表看法。
-<br>
-他认为中美关系虽然竞争激烈，但“相处得很好”。
-<br>
-他认为美国可以通过与中国合作变得更好、更强大。
-<br>
-他反对一味地打压中国。
+1.  Zettlab在融资困难时期，创始人郭亚楠辞职创业，看准AI NAS市场机会。
+2.  NAS作为小型数据中枢，天然适合聚合AI能力，实现从分散智能到协同智能的演进。
+3.  用户调研显示，传统NAS用户对AI需求认知不足，但Zettlab坚信AI能帮助用户更好地使用和管理数据。
+4.  Zettlab的AI NAS产品，如视频搜索功能，能极大提升视频创作者的后期效率。
+5.  Zettlab选择端侧AI架构，所有核心功能在本地独立运行，不依赖云端，从而平衡AI能力和用户隐私保护。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[LangChain1.0速通指南（一）——LangChain1.0核心升级]]></title>
-        <link href="https://juejin.cn/post/7567301894648004648" />
-        <id>https://juejin.cn/post/7567301894648004648</id>
-        <updated>Sun, 02 Nov 2025 11:42:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：LangChain 1.0, create_agent, 内容块, 中间件, 包结构
+        <title><![CDATA[LVGLSharp：LVGL的C#绑定库介绍]]></title>
+        <link href="https://www.cnblogs.com/shanyou/p/19185046" />
+        <id>https://www.cnblogs.com/shanyou/p/19185046</id>
+        <updated>Sun, 02 Nov 2025 15:59:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: LVGL, LVGLSharp, C#, .NET, 嵌入式GUI
 
 <br><br>总结:
-1.  LangChain 1.0 是一个专注于智能体构建的框架，旨在提升开发体验。
-2.  `create_agent` 是新一代智能体构建标准，取代旧方法，通过中间件机制实现高度定制，并简化了结构化输出。
-3.  标准化内容块统一了不同厂商的接口，使开发者能够跨提供商访问各种功能，无需关注底层差异。
-4.  包结构进行了精简，聚焦智能体开发的核心模块，旧版功能迁移至 `langchain-classic`，使功能体系更清晰。
-5.  LangChain 1.0 标志着智能体开发从原型走向生产级框架，未来智能体开发标准会更统一，开发更简单。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[税收优惠结束 金价还会继续下跌吗？]]></title>
-        <link href="https://www.yicai.com/video/102893788.html" />
-        <id>https://www.yicai.com/video/102893788.html</id>
-        <updated>Mon, 03 Nov 2025 22:08:05 +0800</updated>
-        <summary type="html"><![CDATA[黄金税收、增值税抵扣、积存金、黄金消费、金价走势
-
-<br><br>总结:
-1. 中国发布黄金税收新规，取消普通零售商黄金增值税抵扣优惠，仅保留交易所会员税收待遇，政策持续至2027年底。
-2. 新规发布后，黄金现货市场出现波动，多家国有大行一度暂停积存金业务，后恢复。
-3. 作为全球最大黄金消费国，中国的新政策引发市场关注，关注点包括政策信号、监管降温意图以及对黄金消费格局和金价的影响。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[进博会扩大开放新图景：让中国大市场成为世界大机遇]]></title>
-        <link href="https://www.yicai.com/news/102893756.html" />
-        <id>https://www.yicai.com/news/102893756.html</id>
-        <updated>Mon, 03 Nov 2025 21:42:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词：进博会，开放，创新，全球化，本土化
-
-<br><br>总结:
-1.  第八届进博会将于11月5-10日在上海举办，展览面积和企业总数创历史新高，美国企业参展面积连续7年第一，体现了国际社会对进博会及中国经济的信心。
-2.  进博会持续扩大“朋友圈”，吸引众多企业成为“回头客”和“常驻客”，各企业将进博会视为首发首展创新产品、拓展合作关系的重要平台。
-3.  进博会不仅是全球新品首发地和前沿技术首秀场，也实实在在助力全球生意，前七届累计展示新产品、新技术、新服务约3000项，意向成交额超5000亿美元。
-4.  外资企业持续加码本土化创新，加大研发投入，将越来越多且越来越高端的研发制造搬到中国，并借助中国市场拓展海外市场。
-5.  进博会惠及全球，助力“一带一路”共建国家和最不发达国家企业参展，扩大对最不发达国家的单边开放，不断释放惠全球的能量。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[三花智控还能不能涨？高盛发看空研报，机构观点分歧加剧]]></title>
-        <link href="https://www.yicai.com/news/102893658.html" />
-        <id>https://www.yicai.com/news/102893658.html</id>
-        <updated>Mon, 03 Nov 2025 21:41:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 三花智控, 人形机器人, 股价, 高盛, 游资/外资
-
-<br><br>总结:
-1.  三花智控因“人形机器人”概念股价大幅上涨，A股累计涨幅达78.27%。
-
-2.  高盛发布报告，因“人形机器人预期过高”下调评级，引发国内外机构目标价分歧。国内券商普遍看多，外资机构相对保守。
-
-3.  股价上涨期间，游资、外资大量买入，股价加速上涨期由外资主导。
-
-4.  公司控股股东在高位减持1347.6万股，套现超7亿元。
-
-5.  市场传闻与公司澄清后，游资仍然获利，整体而言，外资、游资和控股股东在股价上涨中获利丰厚。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[机构买入这13股，卖出三生国健2.11亿元]]></title>
-        <link href="https://www.yicai.com/news/102893704.html" />
-        <id>https://www.yicai.com/news/102893704.html</id>
-        <updated>Mon, 03 Nov 2025 21:28:49 +0800</updated>
-        <summary type="html"><![CDATA[龙虎榜，机构，净买入，净卖出，股票
-
-<br><br>总结:
-1.  11月3日龙虎榜中，共有42只股票出现机构交易。
-2.  其中，13只股票为机构净买入，29只股票为机构净卖出。
-3.  机构净买入金额前三的股票是亚太药业（1.06亿元）、鼎胜新材（8279万元）、航天智装（6942万元）。
-4.  机构净卖出金额前三的股票是三生国健（2.11亿元）、思维列控（1.25亿元）、凯美特气（1.08亿元）。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[控制权酝酿变更！多年亏损下，维信诺寻找“接盘者”]]></title>
-        <link href="https://www.yicai.com/news/102893594.html" />
-        <id>https://www.yicai.com/news/102893594.html</id>
-        <updated>Mon, 03 Nov 2025 21:17:45 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 维信诺, OLED, 定向增发, 8.6代线, 竞争
-
-<br><br>总结:
-1. 维信诺因OLED行业竞争加剧和自身经营困境，计划通过定向增发A股股票引入新的融资，可能导致控制权变更。
-2. 公司此前终止了对合肥维信诺的重大资产重组计划，该计划旨在扩大营收规模，但因行业变化而未能实现。
-3. 维信诺面临着盈利压力，业绩表现不及京东方、TCL华星等竞争对手，同时资产负债率较高。
-4. 全球OLED面板行业竞争激烈，各大厂商纷纷投资高世代OLED生产线，维信诺的市场份额也受到一定挑战，但也在积极争取订单，例如小米。
-5. 业内人士认为，维信诺的优势在于OLED产能规模和技术，但资金是其最大的挑战，地方国资或是潜在的定增对象。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[马上测｜离大谱！多地办电话卡需工作证明、无犯罪证明、银行流水]]></title>
-        <link href="https://m.thepaper.cn/detail/31882346" />
-        <id>https://m.thepaper.cn/detail/31882346</id>
-        <updated>Mon, 03 Nov 2025 20:08:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 电话卡, 异地办卡, 反诈, 运营商, 额外证明
-
-<br><br>总结:
-1. 消费者反映在南昌等地线下办理电话卡时，被要求提供无犯罪记录证明、工作证明、银行流水、房产证等额外材料，甚至被要求预存高额话费，各地标准不一。
-2. 运营商解释此举是为“反诈”，但无法提供明确的政策依据，且客服与营业厅要求可能不一致。
-3. 工信部专家指出，实名制等有明确规范，但要求无犯罪证明等额外材料缺乏全国统一法规授权，其合法性存疑。
-4. 异地办卡存在门槛高、成本高、待遇不公等问题，监管部门应出台“异地办卡基本标准”，运营商应简化普通用户流程，禁止不合理收费和设置门槛。
-5. 建议建立风险识别机制，区分低风险和高风险用户，实行差异化审核，提高用户知情权，明确申诉渠道。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[保卫处招聘“保卫工作岗”要求硕士及以上学历，南理工紫金学院：正式工，非保安]]></title>
-        <link href="https://m.thepaper.cn/detail/31881713" />
-        <id>https://m.thepaper.cn/detail/31881713</id>
-        <updated>Mon, 03 Nov 2025 18:29:17 +0800</updated>
-        <summary type="html"><![CDATA[关键词：南京理工大学紫金学院，保卫处，招聘，硕士，科员
-
-<br><br>总结:
-1. 南京理工大学紫金学院保卫处正在招聘一名科员。
-2. 该岗位要求应聘者具备硕士研究生及以上学历。
-3. 该岗位是保卫科的正式工作人员，并非保安。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[港媒：中国香港奥运冠军江旻憓确认将参加香港立法会选举]]></title>
-        <link href="https://m.thepaper.cn/detail/31882243" />
-        <id>https://m.thepaper.cn/detail/31882243</id>
-        <updated>Mon, 03 Nov 2025 18:05:33 +0800</updated>
-        <summary type="html"><![CDATA[江旻憓, 奥运金牌, 立法会选举, 功能组别, 放弃加拿大护照
-
-<br><br>总结:
-1. 巴黎奥运女子个人重剑金牌得主江旻憓确认参选香港立法会换届选举，竞逐功能组别旅游界议席。
-2. 江旻憓已申请放弃加拿大护照，表明参选初心是服务香港、反馈社会。
-3. 江旻憓此前加入香港赛马会担任对外事务助理经理，已暂停马会职务。
-4. 江旻憓自小接触击剑，曾登上女子重剑世界第一，并获得香港历史上第三枚奥运金牌。
-5. 江旻憓的父母支持她成为全职击剑运动员，并为她的成就感到自豪。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[独立开发4个月，0到1之后怎么办？]]></title>
-        <link href="https://www.cnblogs.com/cicada-smile/p/19187506" />
-        <id>https://www.cnblogs.com/cicada-smile/p/19187506</id>
-        <updated>Mon, 03 Nov 2025 16:41:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 0到1，1到2，完整过程，计划，预期
-
-<br><br>总结:
-1. 10月31日的结果未达到预期水平。
-2. 但与7月1日设定的目标相比，已经完整地完成了从0到1的阶段。
-3. 下一步的关键问题是：如何实现从1到2的突破。
+1. LVGL是一个流行的开源嵌入式GUI图形库，提供丰富的UI组件和高效渲染。
+2. LVGLSharp是LVGL的C#绑定库，方便.NET开发者使用LVGL。
+3. 通过LVGLSharp，.NET开发者可以为资源受限的嵌入式设备开发图形界面应用。
 ]]></summary>
     </entry>
     
