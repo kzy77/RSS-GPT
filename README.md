@@ -54,5 +54,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24 -> https://kzy77.github.io/RSS-GPT/首页 | FreshRSS.xml
 - https://7techlife.blogspot.com/atom.xml -> https://kzy77.github.io/RSS-GPT/Seven科技生活.xml
