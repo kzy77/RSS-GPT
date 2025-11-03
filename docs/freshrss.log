@@ -1,57 +1,54 @@
 ------------------------------------------------------
-Started: 2025-11-03 10:22:54.600211
-Existing_entries: 14
+Started: 2025-11-03 12:41:05.566765
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 2876
 Summarized using gemini model: gemini-2.0-flash
-Append: [掐指一算，F-35也二十岁了](https://www.huxiu.com/article/4800143.html)
-Token length: 1578
+Append: [三季报揭晓券商重仓股：43家重仓了329只](https://www.yicai.com/news/102893462.html)
+Token length: 243
 Summarized using gemini model: gemini-2.0-flash
-Append: [20亿元投产新能源基地，江苏华辰探索配电变压器行业内卷突围](https://www.yicai.com/news/102893116.html)
-Token length: 204
+Append: [金价震荡叠加税负调整，工行积存金业务一日内暂停又恢复](https://www.yicai.com/news/102893394.html)
+Token length: 429
 Summarized using gemini model: gemini-2.0-flash
-Append: [这家稀土回收龙头市占率持续提升 产能剑指2.5万吨](https://www.yicai.com/vip/news/102893022.html)
-Token length: 2036
+Append: [记者实探安世半导体东莞工厂 工厂内部人员：国内还在正常出货 有10亿元订单客户上门“催货”](https://www.yicai.com/video/102893454.html)
+Token length: 2053
 Summarized using gemini model: gemini-2.0-flash
-Append: [中韩续签4000亿本币互换协议，央行报告部署人民币国际化新局](https://www.yicai.com/news/102893068.html)
-Token length: 223
+Append: [全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%](https://wallstreetcn.com/articles/3758543)
+Token length: 1106
 Summarized using gemini model: gemini-2.0-flash
-Append: [这种材料复合增速超25%，5家全链龙头成布局焦点](https://www.yicai.com/vip/news/102893006.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [欧佩克+明年一季度暂停增产提振石油市场，中国石油股价创年内新高](https://www.yicai.com/news/102893113.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [晓数点丨A股三季报风云](https://www.yicai.com/news/102893058.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [四年参保破1500万！2026年北京普惠健康保上线，特药清单升至159种](https://www.yicai.com/news/102893052.html)
-Token length: 1610
+Append: [新型显示产业十强城市出炉，合肥位居榜首](https://www.yicai.com/news/102893355.html)
+Token length: 1053
 Summarized using gemini model: gemini-2.0-flash
-Append: [“高市早苗经济学”面临哪些挑战？ 中日学者这么说](https://www.yicai.com/news/102892918.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [前三季度海洋生产总值同比增5.6%，海洋新兴产业发展加速](https://www.yicai.com/news/102892964.html)
-Token length: 219
+Append: [一核能科技有了新进展，但距商用还有较长时间](https://www.yicai.com/news/102893338.html)
+Token length: 905
 Summarized using gemini model: gemini-2.0-flash
-Append: [河南许昌胖东来发生故意伤害案：男子因纠纷伤害一对夫妻，已被抓](https://m.thepaper.cn/detail/31880634)
-Token length: 4245
+Append: [财政部设立债务管理司，强化政府债务管理](https://www.yicai.com/news/102893229.html)
+Token length: 3160
 Summarized using gemini model: gemini-2.0-flash
-Append: [体验了一周 ChatGPT 浏览器，我还是把 Chrome 装了回来](https://www.36kr.com/p/3536812030614657)
-Token length: 1242
+Append: [驶向新蓝海：“十五五”期间A股市场展望](https://www.yicai.com/news/102885243.html)
+Token length: 1034
 Summarized using gemini model: gemini-2.0-flash
-Append: [16岁少年在未管所遭3名服刑人员殴打身亡，指使者一审被判死缓](https://m.thepaper.cn/detail/31879695)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [No·103 艺点前线｜罗马文化盛宴：全景解读古罗马文明](https://m.thepaper.cn/detail/31855857)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”](https://wallstreetcn.com/articles/3758514)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [想赚钱，先背债？央视起底兼职骗局黑色产业链](https://m.thepaper.cn/detail/31879220)
-Token length: 0
+Append: [对标Optimus，前特斯拉中国高管成立了一家机器人公司](https://www.yicai.com/news/102893175.html)
+Token length: 3617
 Summarized using gemini model: gemini-2.0-flash
-Append: [502个中产家庭晒账单：不想卷的人变多了](https://www.huxiu.com/article/4800121.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [泉果基金王国斌离世，旗下基金前三季度均创成立后新高](https://www.yicai.com/news/102892947.html)
-Token length: 2347
+Append: [11月3日这些公告有看头](https://www.yicai.com/news/102893231.html)
+Token length: 774
 Summarized using gemini model: gemini-2.0-flash
-Append: [韩国股市10月屡创盘中新高，“韩国折价”消失了？](https://www.yicai.com/news/102892906.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [A股共91只个股涨停 合富中国5连板](https://www.yicai.com/news/102892936.html)
-append_entries: 20
-Finish: 2025-11-03 10:24:20.698845
+Append: [中方决定恢复中国公民赴加拿大团队游业务，利好北美出境游市场](https://www.yicai.com/news/102893174.html)
+Token length: 1360
+Summarized using gemini model: gemini-2.0-flash
+Append: [“苏超”第一季落幕，江苏多地党政主官部署备战来年](https://m.thepaper.cn/detail/31881558)
+Token length: 674
+Summarized using gemini model: gemini-2.0-flash
+Append: [黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税](https://m.thepaper.cn/detail/31881405)
+Token length: 1506
+Summarized using gemini model: gemini-2.0-flash
+Append: [黄金税收优惠没了，老铺黄金等珠宝商为何重挫？](https://wallstreetcn.com/articles/3758541)
+Token length: 254
+Summarized using gemini model: gemini-2.0-flash
+Append: [财政部债务管理司亮相财政部网站，司长为李大伟](https://m.thepaper.cn/detail/31881119)
+Token length: 1645
+Summarized using gemini model: gemini-2.0-flash
+Append: [维基百科公开回击马斯克：我们属于人类，不属于亿万富翁！](https://juejin.cn/post/7566820121458835462)
+append_entries: 16
+Finish: 2025-11-03 12:42:38.141764
