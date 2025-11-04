@@ -1,51 +1,20 @@
 ------------------------------------------------------
-Started: 2025-11-04 16:24:04.427648
-Existing_entries: 20
+Started: 2025-11-04 18:28:38.443759
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1780
+Token length: 1787
 Summarized using gemini model: gemini-2.0-flash
-Append: [广交会采购商数量再创新高，中企提速布局东南亚市场](https://www.yicai.com/news/102895752.html)
-Token length: 2343
+Append: [美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值](https://wallstreetcn.com/articles/3758656)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [新华社调查：烂梗“侵”校园，互联网时代如何让孩子们好好说话？](https://m.thepaper.cn/detail/31894088)
-Token length: 1148
+Append: [TOON 格式终于赢了！AI 大模型基准测试揭示惊人真相](https://www.cnblogs.com/token-ai/p/19191184)
+Token length: 78
 Summarized using gemini model: gemini-2.0-flash
-Append: [“多地办电话卡需工作证明、无犯罪证明”续：江西相关运营商已调整口径](https://m.thepaper.cn/detail/31892379)
-Token length: 177
+Append: [大同四中再通报“学生买淀粉肠被拿钥匙”：当值副校长与学生均有不当行为，达成谅解](https://m.thepaper.cn/detail/31887880)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [金永南逝世，外交部：他生前多次率团访华，为推动中朝友好作出重要贡献](https://m.thepaper.cn/detail/31890082)
-Token length: 343
-Summarized using gemini model: gemini-2.0-flash
-Append: [被控受贿数额特别巨大，国家烟草专卖局原副局长张天峰被公诉](https://m.thepaper.cn/detail/31887302)
-Token length: 61
-Summarized using gemini model: gemini-2.0-flash
-Append: [公告臻选丨风电+核电+机器人！公司上月新增订单超10亿](https://www.yicai.com/vip/news/102895817.html)
-Token length: 2613
-Summarized using gemini model: gemini-2.0-flash
-Append: [税收新政鼓励场内交易，黄金ETF又要“火”了？](https://www.yicai.com/news/102895847.html)
-Token length: 3954
-Summarized using gemini model: gemini-2.0-flash
-Append: [关税波动与合规双重挑战下，中国外贸企业降风险保增长](https://www.yicai.com/news/102895832.html)
-Token length: 1313
-Summarized using gemini model: gemini-2.0-flash
-Append: [碰撞后车门无法开启，五人不幸遇难，特斯拉在美被起诉](https://www.yicai.com/news/102895830.html)
-Token length: 3321
-Summarized using gemini model: gemini-2.0-flash
-Append: [美联邦政府“长假”追平纪录：美联储无奈“雾中开车”](https://www.yicai.com/news/102895770.html)
-Token length: 983
-Summarized using gemini model: gemini-2.0-flash
-Append: [黄金税新政落地：水贝商家停摆观望，周大福等品牌紧急调价](https://www.yicai.com/news/102895531.html)
-Token length: 119
-Summarized using gemini model: gemini-2.0-flash
-Append: [第八届进博会会场整装待发 未来出行展区抢“鲜”看](https://www.yicai.com/image/102895663.html)
-Token length: 214
-Summarized using gemini model: gemini-2.0-flash
-Append: [微信支付为中小商家推出AI菜单识别功能](https://www.yicai.com/news/102895702.html)
-Token length: 2782
-Summarized using gemini model: gemini-2.0-flash
-Append: [美媒：中国从未拥有过这般程度的海运铁矿石定价权，将开始掌控局面](https://wallstreetcn.com/articles/3758600)
-Token length: 3138
-Summarized using gemini model: gemini-2.0-flash
-Append: [从 Coze 到 n8n：我用 n8n 实现了10w+小林漫画的爆款流水线生产](https://juejin.cn/post/7568314115413835814)
-append_entries: 15
-Finish: 2025-11-04 16:25:31.738489
+Append: [韩国，超级大逆袭](https://www.huxiu.com/article/4800703.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [一年投入近千万，硬件还没赚钱，机器人厂商又开始砸钱投生态了](https://www.yicai.com/news/102895671.html)
+append_entries: 5
+Finish: 2025-11-04 18:29:08.435575
