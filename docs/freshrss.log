@@ -1,48 +1,64 @@
 ------------------------------------------------------
-Started: 2025-11-04 12:42:43.155623
-Existing_entries: 20
+Started: 2025-11-04 14:20:00.443128
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2009
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [国际金价下跌，老铺黄金们却越来越贵？｜2025消费趋势跟踪](https://www.yicai.com/news/102893131.html)
-Token length: 567
+Append: [韩国，超级大逆袭](https://www.huxiu.com/article/4800703.html)
+Token length: 2180
 Summarized using gemini model: gemini-2.0-flash
-Append: [一“马字辈”车企涨停，但净利润跌了99%，经营性现金流为0](https://www.yicai.com/news/102895156.html)
-Token length: 1337
+Append: [一年投入近千万，硬件还没赚钱，机器人厂商又开始砸钱投生态了](https://www.yicai.com/news/102895671.html)
+Token length: 1330
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海版证券期货仲裁规则即将出台，纠纷化解能级有望持续提升](https://www.yicai.com/news/102895328.html)
-Token length: 1611
+Append: [税务曝光六起案例释放电商征税严监管信号](https://www.yicai.com/news/102895701.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [债市波动拖累银行非息收入，央行重启国债买卖能否修复行情？](https://www.yicai.com/news/102895436.html)
+Token length: 3401
 Summarized using gemini model: gemini-2.0-flash
-Append: [宁德时代首席制造官倪军：生成式AI在工业领域需更深层知识与更多数据训练](https://www.yicai.com/news/102895304.html)
-Token length: 2560
+Append: [踏空科技后，这些知名基金经理反思出什么布局计划？](https://www.yicai.com/news/102895678.html)
+Token length: 1575
 Summarized using gemini model: gemini-2.0-flash
-Append: [均胜电子累计调整25%，三季度遭中国人寿减持｜IPO观察](https://www.yicai.com/news/102895276.html)
-Token length: 197
+Append: [200亿长期流动性落地！央行恢复暂停近10个月的国债买卖操作](https://www.yicai.com/news/102895654.html)
+Token length: 4067
 Summarized using gemini model: gemini-2.0-flash
-Append: [机构今日买入这19股，卖出荣信文化6281万元](https://www.yicai.com/news/102895333.html)
-Token length: 3873
+Append: [“一本正经胡说八道”，AI幻觉如何化解](https://www.yicai.com/news/102895474.html)
+Token length: 3209
 Summarized using gemini model: gemini-2.0-flash
-Append: [11月4日这些公告有看头](https://www.yicai.com/news/102895363.html)
-Token length: 2063
+Append: [透视长三角县级经济版图](https://www.yicai.com/news/102895476.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [一财社论：防范“远洋捕捞”需要制度建设先行](https://www.yicai.com/news/102895672.html)
+Token length: 2947
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI服装绘图、3D打印鞋广交会吸睛，创新设计成中国出口新力量](https://www.yicai.com/news/102895253.html)
-Token length: 2080
+Append: [深圳该怎样拥抱APEC？中外专家给出这些干货建言](https://www.yicai.com/news/102895513.html)
+Token length: 2450
 Summarized using gemini model: gemini-2.0-flash
-Append: [关键裁决前，美国商界、政客敦促最高法院推翻特朗普政府多项关税](https://www.yicai.com/news/102895246.html)
-Token length: 531
+Append: [光伏三季报全景：亏损收窄现曙光，“反内卷”远未到终局](https://www.yicai.com/news/102895408.html)
+Token length: 129
 Summarized using gemini model: gemini-2.0-flash
-Append: [国办发布2026年部分节假日安排：春节假期共9天](https://m.thepaper.cn/detail/31891899)
-Token length: 2087
+Append: [探营上海馆：以“AI赋能，种草新消费”，100多件新品将集中亮相](https://www.yicai.com/image/102895466.html)
+Token length: 1513
 Summarized using gemini model: gemini-2.0-flash
-Append: [税务部门曝光6起网红和网店偷税案件](https://m.thepaper.cn/detail/31890870)
-Token length: 4504
+Append: [机构数据“打架”，与大疆交锋升级！影石回应市场份额下降](https://www.yicai.com/news/102895428.html)
+Token length: 2507
 Summarized using gemini model: gemini-2.0-flash
-Append: [全球最大鱼子酱，要IPO了](https://www.36kr.com/p/3538234557815942)
-Token length: 2347
+Append: [股份行前三季度盈利承压，4家营收净利双降](https://www.yicai.com/news/102895439.html)
+Token length: 1126
 Summarized using gemini model: gemini-2.0-flash
-Append: [微软机房大量英伟达GPU开始吃灰……](https://www.36kr.com/p/3538214720167048)
-Token length: 1317
+Append: [冰雪概念股集体上涨，冰雪旅游季南北互跨已解锁](https://www.yicai.com/news/102895350.html)
+Token length: 73
 Summarized using gemini model: gemini-2.0-flash
-Append: [停摆了一个月后，美国政府终现“重开迹象”](https://wallstreetcn.com/articles/3758617)
-append_entries: 14
-Finish: 2025-11-04 12:44:04.105167
+Append: [澎湃探访南京大学食堂：999元帝王蟹已撤下，学生说“没当回事”](https://m.thepaper.cn/detail/31891044)
+Token length: 3231
+Summarized using gemini model: gemini-2.0-flash
+Append: [中年男人最爱的豪车，利润暴跌99%](https://www.36kr.com/p/3538233159506818)
+Token length: 4186
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI女歌手攻占美榜，格莱美天后崩溃：人类嗓音不值钱了](https://www.36kr.com/p/3538125628709769)
+Token length: 72
+Summarized using gemini model: gemini-2.0-flash
+Append: [内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身](https://m.thepaper.cn/detail/31886729)
+Token length: 661
+Summarized using gemini model: gemini-2.0-flash
+Append: [《唐诡3》对打《新闻女王2》，两部爆款续作谁能胜出](https://m.thepaper.cn/detail/31879571)
+append_entries: 20
+Finish: 2025-11-04 14:21:38.669571
