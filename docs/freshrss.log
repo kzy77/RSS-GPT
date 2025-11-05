@@ -1,66 +1,41 @@
 ------------------------------------------------------
-Started: 2025-11-05 10:21:47.052144
-Existing_entries: 8
+Started: 2025-11-05 12:40:41.374639
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 1433
 Summarized using gemini model: gemini-2.0-flash
-Append: [柳承敏“无罪”，只是韩国体坛黑历史的“一盘小菜”](https://www.huxiu.com/article/4801140.html)
-Token length: 0
+Append: [多款“全球首秀”药械亮相进博会，聚焦老龄化、减重庞大需求](https://www.yicai.com/news/102897422.html)
+Token length: 1952
 Summarized using gemini model: gemini-2.0-flash
-Append: [中美算力，都等电来](https://www.huxiu.com/article/4801127.html)
-Token length: 1390
+Append: [民主党横扫多州选举，共和党失利背后的政治极化趋势](https://www.yicai.com/news/102897415.html)
+Token length: 1236
 Summarized using gemini model: gemini-2.0-flash
-Append: [多款游戏下架OPPO渠道，厂商与渠道的博弈进入深水区](https://www.yicai.com/news/102897285.html)
-Token length: 2040
+Append: [“十四五”茶油产量增长53%，未来重在提质、扩面、增效](https://www.yicai.com/news/102897429.html)
+Token length: 2140
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI时代文科危机如何破局——数智人文探寻发展新路径](https://www.yicai.com/news/102897280.html)
-Token length: 241
+Append: [赛力斯港股首日一度重挫10%，百倍认购为何难挡破发？](https://www.yicai.com/news/102897375.html)
+Token length: 4166
 Summarized using gemini model: gemini-2.0-flash
-Append: [全栈自研+主流车企全覆盖 订单放量在即 净利5倍增长](https://www.yicai.com/vip/news/102897303.html)
-Token length: 122
+Append: [11月5日这些公告有看头](https://www.yicai.com/news/102897386.html)
+Token length: 2203
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI电力稀缺资源 25年涨价两波 这些公司卡位核心环节](https://www.yicai.com/vip/news/102897301.html)
-Token length: 196
+Append: [数字货币迎来“iPhone时刻”？从概念到规模应用还要迈过多道坎](https://www.yicai.com/news/102897357.html)
+Token length: 1332
 Summarized using gemini model: gemini-2.0-flash
-Append: [机构买入这22股，卖出振华股份1.97亿元](https://www.yicai.com/news/102897296.html)
-Token length: 1064
+Append: [淘宝闪购新工服被指像“行走的广告牌”？需骑手自购？平台回应](https://m.thepaper.cn/detail/31898363)
+Token length: 662
 Summarized using gemini model: gemini-2.0-flash
-Append: [“史上最长春节假期”来了，这些旅游股今天集体上涨](https://www.yicai.com/news/102897215.html)
-Token length: 1120
+Append: [全运会乒乓团体赛分组出炉，樊振东王楚钦马龙有望小组赛交手](https://m.thepaper.cn/detail/31899992)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [年轻人不买账，中年人喝不起，茅台跌破 1600 元，终于承认自己只是瓶酒？](https://www.36kr.com/p/3539661312897156)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [北京楼市“银十”低调收尾，前十月共成交17.3万套住房](https://www.yicai.com/news/102897126.html)
-Token length: 1247
+Append: [【拾遗补漏】.NET 常见术语集](https://www.cnblogs.com/Can-daydayup/p/19193323)
+Token length: 1142
 Summarized using gemini model: gemini-2.0-flash
-Append: [导演张纪中被曝职务侵占，美猴王影业有限公司已报案](https://www.yicai.com/news/102897045.html)
-Token length: 218
+Append: [最前线 | 大疆发布首款长测程高精度航测激光雷达，全面布局高端航测市场](https://www.36kr.com/p/3539604143304580)
+Token length: 3594
 Summarized using gemini model: gemini-2.0-flash
-Append: [美财长称中国是“不可靠的伙伴”，外交部：中国对美政策保持稳定性](https://m.thepaper.cn/detail/31899384)
-Token length: 150
-Summarized using gemini model: gemini-2.0-flash
-Append: [一起“淘”进博丨机器人对决、空中专车、减肥手环，进博首日看神仙打架！](https://m.thepaper.cn/detail/31883532)
-Token length: 1509
-Summarized using gemini model: gemini-2.0-flash
-Append: [“资本主义之都”选出了“最反资本主义”的市长](https://wallstreetcn.com/articles/3758704)
-Token length: 3119
-Summarized using gemini model: gemini-2.0-flash
-Append: [弯刀裤，优衣库的新镰刀](https://www.36kr.com/p/3539552153776259)
-Token length: 537
-Summarized using gemini model: gemini-2.0-flash
-Append: [内置 Claude 下线，TRAE 用户又得换搭档了](https://juejin.cn/post/7568765712446439478)
-Token length: 720
-Summarized using gemini model: gemini-2.0-flash
-Append: [拨款法案再次“闯关”失败，美政府即将刷新“停摆”纪录](https://m.thepaper.cn/detail/31896186)
-Token length: 4918
-Summarized using gemini model: gemini-2.0-flash
-Append: [LangChain的学习之路( 一 )](https://juejin.cn/post/7568315756074647602)
-Token length: 450
-Summarized using gemini model: gemini-2.0-flash
-Append: [京东首辆“国民好车”埃安UT super下线](https://www.yicai.com/news/102897058.html)
-Token length: 1206
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国纽约市选出史上最年轻市长，他如何成为美国政坛黑马？](https://www.yicai.com/news/102897023.html)
-Token length: 518
-Summarized using gemini model: gemini-2.0-flash
-Append: [A股三大指数全线收涨，电网设备板块掀涨停潮](https://www.yicai.com/news/102897048.html)
-append_entries: 20
-Finish: 2025-11-05 10:23:17.844832
+Append: [中国科技大厂，抓住AI时代出海风口](https://www.36kr.com/p/3538664091119751)
+append_entries: 12
+Finish: 2025-11-05 12:41:48.304752
