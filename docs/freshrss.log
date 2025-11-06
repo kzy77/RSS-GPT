@@ -1,66 +1,11 @@
 ------------------------------------------------------
-Started: 2025-11-06 16:26:24.453589
-Existing_entries: 17
+Started: 2025-11-06 18:29:32.065603
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1145
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [女子引产被拒诞下女婴遭当班医生违规抱养，香格里拉民生医院被罚](https://m.thepaper.cn/detail/31908260)
+Token length: 1521
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高](https://wallstreetcn.com/articles/3758806)
-Token length: 386
-Summarized using gemini model: gemini-2.0-flash
-Append: [美国高端牛肉今年“进不来” 阿根廷“马哥”抓住机会 5年来出口中国占比从0到60%](https://www.yicai.com/video/102900077.html)
-Token length: 2097
-Summarized using gemini model: gemini-2.0-flash
-Append: [86万家社会组织贷款可及性仅8%，普惠金融支持待破局](https://www.yicai.com/news/102899833.html)
-Token length: 1400
-Summarized using gemini model: gemini-2.0-flash
-Append: [“三桶油”进博会累计签约超五千亿元，中国海油签约额创历史新高](https://www.yicai.com/news/102900026.html)
-Token length: 1275
-Summarized using gemini model: gemini-2.0-flash
-Append: [日韩企业加码布局中国汽车产业链，AI技术助力](https://www.yicai.com/news/102900050.html)
-Token length: 964
-Summarized using gemini model: gemini-2.0-flash
-Append: [保时捷海外首个研发中心在华启用](https://www.yicai.com/news/102900049.html)
-Token length: 1127
-Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦进博会｜诺和诺德口服减重药显示心血管益处，看好中国慢病市场潜力](https://www.yicai.com/news/102899973.html)
-Token length: 2220
-Summarized using gemini model: gemini-2.0-flash
-Append: [过去三年，投资创新药“真的非常爽” | 海斌访谈](https://www.yicai.com/news/102899984.html)
-Token length: 66
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国军工：别急，先看看这个！福建舰海试高清视频来了](https://m.thepaper.cn/detail/31910109)
-Token length: 1756
-Summarized using gemini model: gemini-2.0-flash
-Append: [达利欧：美联储结束QT=在泡沫中刺激经济，美国“大债务周期”已进入最危险阶段！](https://wallstreetcn.com/articles/3758834)
-Token length: 81
-Summarized using gemini model: gemini-2.0-flash
-Append: [副院长和眼科副主任被指存在不当关系，湖南省卫健委：均已停职](https://m.thepaper.cn/detail/31854228)
-Token length: 1074
-Summarized using gemini model: gemini-2.0-flash
-Append: [MSCI指数最新调整：26只中国股票获纳入，涉资源、半导体等多领域](https://m.thepaper.cn/detail/31905990)
-Token length: 579
-Summarized using gemini model: gemini-2.0-flash
-Append: [区划调整后，罗蔺已任重庆市委常委、两江新区区委书记](https://m.thepaper.cn/detail/31905978)
-Token length: 395
-Summarized using gemini model: gemini-2.0-flash
-Append: [小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑](https://m.thepaper.cn/detail/31905754)
-Token length: 1819
-Summarized using gemini model: gemini-2.0-flash
-Append: [未来怎么“打飞的”？进博会“低空出行起降点”提供了沉浸体验](https://m.thepaper.cn/detail/31905447)
-Token length: 1952
-Summarized using gemini model: gemini-2.0-flash
-Append: [多款创新药及医疗器械进博会首发首展，这些成果何时进入市场？](https://m.thepaper.cn/detail/31904985)
-Token length: 3356
-Summarized using gemini model: gemini-2.0-flash
-Append: [进博会成畅通双循环重要桥梁，外资持续加码在华研发投入](https://www.yicai.com/news/102900007.html)
-Token length: 88
-Summarized using gemini model: gemini-2.0-flash
-Append: [公告臻选丨微纳+光刻+晶圆！公司补位半导体量测设备领域](https://www.yicai.com/vip/news/102899993.html)
-Token length: 1686
-Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：私权保护是最有效的信心助燃剂](https://www.yicai.com/news/102899990.html)
-Token length: 2684
-Summarized using gemini model: gemini-2.0-flash
-Append: [提振消费的“虹桥声音”：让中国消费成为全球增长的稳定器和加速器](https://www.yicai.com/news/102899943.html)
-append_entries: 20
-Finish: 2025-11-06 16:27:56.816586
+Append: [马上评｜康熙是孝庄和洪承畴生的？“硅幕”下的狂欢](https://m.thepaper.cn/detail/31908612)
+append_entries: 2
+Finish: 2025-11-06 18:29:47.012618
