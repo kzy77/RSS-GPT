@@ -1,66 +1,38 @@
 ------------------------------------------------------
-Started: 2025-11-07 01:27:42.926018
-Existing_entries: 5
+Started: 2025-11-07 03:10:20.055079
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1418
+Token length: 2380
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国10月裁员环比飙升183%！AI渗透与消费疲软叠加，劳动力市场正被改写](https://www.yicai.com/news/102900153.html)
-Token length: 5019
+Append: [美国农产品“全阵容”亮相进博会，上海美商会主席：美企需要中国市场](https://www.yicai.com/news/102900293.html)
+Token length: 2003
 Summarized using gemini model: gemini-2.0-flash
-Append: [科技爱好者周刊（第 372 期）：软件界面如何设计](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html)
-Token length: 3397
+Append: [生态环境监测条例明年1月1日起施行，多方解读](https://www.yicai.com/news/102900258.html)
+Token length: 720
 Summarized using gemini model: gemini-2.0-flash
-Append: [马斯克近万亿美元薪酬分12批发放，每解锁一批约获1%股权；英国国王签署诏书，正式剥夺安德鲁王子头衔](https://www.yicai.com/news/102900198.html)
-Token length: 7771
+Append: [A股三大指数集体低开，海南自贸概念大幅高开](https://www.yicai.com/news/102900380.html)
+Token length: 359
 Summarized using gemini model: gemini-2.0-flash
-Append: [8点1氪｜山姆客服回应APP支付跳转色情页面；俞敏洪确认孙东旭离职，称“没有任何龃龉和隔阂”；小红书拿下支付牌照](https://www.36kr.com/p/3542253619179655)
-Token length: 929
+Append: [马斯克称机器人将成史上最大产品 人形机器人热度继续？](https://www.yicai.com/vip/news/102900233.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [奥尔特曼否认寻求政府贷款担保，回应AI泡沫质疑：OpenAI“感觉很好”](https://www.yicai.com/news/102900169.html)
-Token length: 1334
+Append: [龙虎榜解密：机构青睐电解液概念股 游资博弈德明利](https://www.yicai.com/vip/news/102900203.html)
+Token length: 1157
 Summarized using gemini model: gemini-2.0-flash
-Append: [道指跌近400点！裁员报告引发经济忧虑，美股三大股指全线下滑](https://www.yicai.com/news/102900135.html)
-Token length: 1661
+Append: [中国汽车在英国销量暴增235%](https://www.yicai.com/news/102900239.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [历史第一人，马斯克锁定万亿薪酬包，但得先完成这些「不可能任务」](https://www.36kr.com/p/3542296438206339)
+Token length: 1802
 Summarized using gemini model: gemini-2.0-flash
-Append: [美股全线下滑 纳指跌近2%；智元恒岳完成对上纬新材收购交割](https://www.yicai.com/news/102900150.html)
-Token length: 2006
+Append: [今年至少四地宣布将推行现房销售：“所见即所得，从根本上防范交付风险”](https://m.thepaper.cn/detail/31907651)
+Token length: 1838
 Summarized using gemini model: gemini-2.0-flash
-Append: [特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%](https://wallstreetcn.com/articles/3758856)
-Token length: 8411
+Append: [OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救](https://wallstreetcn.com/articles/3758853)
+Token length: 2032
 Summarized using gemini model: gemini-2.0-flash
-Append: [华尔街见闻早餐FM-Radio | 2025年11月7日](https://wallstreetcn.com/articles/3758858)
-Token length: 497
+Append: [没开玩笑，全框架支持的 dialog 组件，支持响应式| 掘金一周 11.6](https://juejin.cn/post/7569377216913752102)
+Token length: 9404
 Summarized using gemini model: gemini-2.0-flash
-Append: [台湾各界人士座谈，呼吁在坚持“九二共识”基础上恢复两岸协商](https://m.thepaper.cn/detail/31909930)
-Token length: 100
-Summarized using gemini model: gemini-2.0-flash
-Append: [持续宣扬炒作炫富拜金等行为，网红郭美美被封号](https://m.thepaper.cn/detail/31907878)
-Token length: 4091
-Summarized using gemini model: gemini-2.0-flash
-Append: [价格屠夫AMD，刺伤Intel却打不过英伟达](https://www.36kr.com/p/3541331537719433)
-Token length: 345
-Summarized using gemini model: gemini-2.0-flash
-Append: [外交部质问日方：给鼓吹“台独”论调的人颁发勋章意欲何为？](https://m.thepaper.cn/detail/31906730)
-Token length: 6701
-Summarized using gemini model: gemini-2.0-flash
-Append: [逆袭的中国铁锂：从“过剩产能”，到反制西方的“战略核弹”](https://www.36kr.com/p/3541008306974852)
-Token length: 3414
-Summarized using gemini model: gemini-2.0-flash
-Append: [接盘上汽通用旧厂仅是开始，吉利谋划500万年产能？](https://www.36kr.com/p/3540867771903878)
-Token length: 71
-Summarized using gemini model: gemini-2.0-flash
-Append: [小鹏新一代人形机器人亮相：女性形态，计划明年4月量产](https://m.thepaper.cn/detail/31905451)
-Token length: 1817
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI提效这么多，为什么不试试自己开发N个产品呢？](https://juejin.cn/post/7569108298952769545)
-Token length: 2414
-Summarized using gemini model: gemini-2.0-flash
-Append: [又一全球奢侈品巨头CEO到访上海，“进博之机”如何在场馆内外流动？](https://m.thepaper.cn/detail/31909213)
-Token length: 278
-Summarized using gemini model: gemini-2.0-flash
-Append: [丁国文已任中央改革办专职副主任](https://m.thepaper.cn/detail/31908971)
-Token length: 3134
-Summarized using gemini model: gemini-2.0-flash
-Append: [经销商打款意愿降低？年度目标如何完成？电商低价促销如何应对？贵州茅台回应多个热点](https://m.thepaper.cn/detail/31908213)
-append_entries: 20
-Finish: 2025-11-07 01:29:11.290938
+Append: [如何构建 AI 智能体（2025 完全指南）](https://juejin.cn/post/7568802040387649582)
+append_entries: 11
+Finish: 2025-11-07 03:11:32.283825
