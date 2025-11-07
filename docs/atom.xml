@@ -2,376 +2,284 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-07T10:23:25Z</updated>
+    <updated>2025-11-07T12:40:43Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[ASP.NET Core Blazor 核心功能三：Blazor与JavaScript互操作——让Web开发更灵活]]></title>
-        <link href="https://www.cnblogs.com/shenchuanchao/p/19194651" />
-        <id>https://www.cnblogs.com/shenchuanchao/p/19194651</id>
-        <updated>Wed, 05 Nov 2025 21:34:00 +0800</updated>
-        <summary type="html"><![CDATA[Blazor, C#, JavaScript, 互操作, 码农刚子
+        <title><![CDATA[告别“切图仔”？我用一个神器，让Figma设计稿自动生成前端代码！]]></title>
+        <link href="https://juejin.cn/post/7568786340621434931" />
+        <id>https://juejin.cn/post/7568786340621434931</id>
+        <updated>Wed, 05 Nov 2025 11:53:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Figma-Context-MCP, AI, 上下文, 代码生成, 设计稿
 
 <br><br>总结:
-1.  Blazor开发中，C#与JavaScript互操作是常见需求，无需恐慌。
-2.  码农刚子将用简单方式讲解该技能，帮助开发者掌握。
-3.  学习互操作解决Blazor无法直接处理的需求，如调用特定浏览器API。
-4.  文章后续预计会讲解如何实现C#与JavaScript之间的互相调用，解决实际开发问题。
-5.  最终目的是帮助开发者在Blazor项目中使用JavaScript生态，扩展Blazor功能。
+1. Figma-Context-MCP 是一个开源项目，通过模型上下文协议 (MCP) 连接 Figma 和 AI 应用，解决了 AI 助手在设计稿转代码过程中缺乏上下文的问题。
+2. 该工具通过 Figma API 解析设计稿结构，将节点树和样式数据作为上下文提供给 AI 助手，使其能够更准确地理解设计细节。
+3. 使用前需要获取 Figma Personal Access Token 和文件 URL，然后在 AI 编程助手（如 Cursor）中配置 MCP Server。
+4. Figma-Context-MCP 能够读取 Figma 文件/节点，返回精简后的布局和样式结构，并导出位图/SVG 资源到本地。
+5. 通过语义化“降维”和映射，将设计信息转换为更贴近 HTML/CSS 的形式，便于 AI 助手生成代码，从而提高设计稿的还原效率和准确性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[有色起舞，铝业领涨，天风称“电解铝是弹性与红利的完美融合”]]></title>
-        <link href="https://wallstreetcn.com/articles/3758837" />
-        <id>https://wallstreetcn.com/articles/3758837</id>
-        <updated>Thu, 06 Nov 2025 21:21:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词：电解铝, 红利资产, 供给侧改革, 股息率, 资本结构
+        <title><![CDATA[免费白嫖1年！ChatGPT Go高级会员 + Perplexity Pro 官方限免狂送中，立省$300+，不领就亏爆了！｜零度解说]]></title>
+        <link href="https://www.freedidi.com/21485.html" />
+        <id>https://www.freedidi.com/21485.html</id>
+        <updated>Fri, 07 Nov 2025 19:19:37 +0800</updated>
+        <summary type="html"><![CDATA[请提供需要总结的文章。我需要文章的内容才能提取关键词并进行总结。
 
-<br><br>总结:
-1.  电解铝行业正从强周期品转型为“上有价格弹性，下有分红支撑”的优质稀缺红利资产，股息率超越传统高股息板块，部分龙头企业股息率超过10%。
-2.  供给侧改革是转型的关键，国内电解铝产能接近政策红线，产能利用率高，产量增速放缓，海外新增产能受限，供需格局偏紧。
-3.  需求端结构优化，交通运输和电力成为主要下游，新能源汽车用铝量提升，电解铝的应用场景持续拓展。
-4.  行业资本开支高峰已过，自由现金流显著改善，企业去杠杆，资产质量优化，为持续高分红奠定基础。
-5.  电解铝板块ROE稳定性提升，与煤炭板块红利行情相比，电解铝在供给刚性支撑下，行业格局更优，价格中枢有望稳步上移，高利润有望维持长周期，具备长期红利价值。
+例如，如果你提供文章内容如下：
+
+"人工智能（AI）正在迅速发展，并在各个领域得到应用。AI的应用包括但不限于：医疗诊断、金融风险管理、自动驾驶、自然语言处理等等。然而，AI的发展也带来了一些挑战，例如：数据隐私问题、算法偏见、以及就业岗位的改变。为了解决这些问题，需要制定相应的法律法规，并加强对AI伦理的研究。同时，也需要重视对公众的教育，提高公众对AI的理解和认知。"
+
+我会按照你的要求输出：
+
+人工智能, 应用, 挑战, 伦理, 教育
+
+总结:
+<br><br>
+1. 人工智能正在快速发展，应用广泛，涵盖医疗、金融、自动驾驶等领域。
+<br><br>
+2. AI发展带来数据隐私、算法偏见和就业岗位变化等挑战。
+<br><br>
+3. 需要制定法律法规解决这些问题。
+<br><br>
+4. 必须加强对AI伦理的研究。
+<br><br>
+5. 提升公众对AI的理解和认知至关重要。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[充了20刀 Cursor Pro 的朋友看到我的方案沉默了...]]></title>
-        <link href="https://juejin.cn/post/7569420535126409226" />
-        <id>https://juejin.cn/post/7569420535126409226</id>
-        <updated>Thu, 06 Nov 2025 16:05:18 +0800</updated>
-        <summary type="html"><![CDATA[Cursor, 额度, 账号, 闲鱼, FlyCursor
+        <title><![CDATA[新能源金属“新贵”来了，证监会同意广期所铂、钯期货和期权注册]]></title>
+        <link href="https://www.yicai.com/news/102901603.html" />
+        <id>https://www.yicai.com/news/102901603.html</id>
+        <updated>Fri, 07 Nov 2025 18:45:18 +0800</updated>
+        <summary type="html"><![CDATA[铂、钯，期货，期权，广期所，定价影响力
 
 <br><br>总结:
-1.  文章主要介绍了Augment限制严格后，作者寻找Cursor作为替代方案的策略，因其价格低廉且Tab Completion好用。
-2.  作者通过在闲鱼上购买低价的Cursor试用账号（10美元额度，有效期5-6天），成本极低。
-3.  详细描述了购买流程，包括在闲鱼搜索关键词、获取账号信息（邮箱、密码、验证码接收网址）以及登录Cursor官网。
-4.  推荐使用开源工具FlyCursor实现无损换号和重置机器码，方便切换账号，避免额度用尽的问题。具体步骤包括获取并添加SessionToken。
-5.  FlyCursor可以自动获取accessToken和邮箱，并能更新账号信息，例如额度使用情况和订阅状态，方便用户管理多个账号。
+1. 广期所铂、钯期货和期权获批注册，将有助于提升我国在全球铂、钯市场上的定价影响力。
+2. 铂、钯作为新能源金属，在汽车尾气治理、风电、氢能等领域有重要应用，同时铂金在消费和投资市场也备受欢迎。
+3. 今年以来铂金期货价格大幅上涨，中国市场铂金投资需求尤其旺盛。
+4. 铂、钯价格波动较大，上市期货和期权可以帮助企业管理风险，促进绿色发展。
+5. 全球铂金市场预计将出现短缺，但中国市场对铂金条币的需求逆势大增，铂金也可能成为央行储备资产多元化的选择。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[11月7日这些公告有看头]]></title>
-        <link href="https://www.yicai.com/news/102901573.html" />
-        <id>https://www.yicai.com/news/102901573.html</id>
-        <updated>Fri, 07 Nov 2025 17:56:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词：ST华通，八一钢铁，安记食品，中芯国际，华电科工
+        <title><![CDATA[聚焦进博会｜从“颜值经济”到“银发科技”，中老年人成为消费新生力]]></title>
+        <link href="https://www.yicai.com/news/102901568.html" />
+        <id>https://www.yicai.com/news/102901568.html</id>
+        <updated>Fri, 07 Nov 2025 18:37:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 颜值经济, 医美, 老龄化, 适老化科技, 康养
 
 <br><br>总结:
-1.  **风险警示及立案调查：** ST华通申请撤销风险警示，八一钢铁、上海洗霸因信息披露违规和短线交易被立案调查。
-2.  **监管处罚：** 安记食品因会计和募资问题被福建证监局采取监管措施，公司及三位负责人被警示。
-3.  **股权收购及合作：** 中芯国际拟收购中芯北方股权，雷科防务拟收购尧云科技股权，新朋股份与格兰富水泵签署合作备忘录。
-4.  **产品获批及集采中标：** 陇神戎发获得血液透析干粉医疗器械注册证，花园生物子公司产品中选国家药品集采。
-5.  **经营数据：** 天康生物、广汽集团、正邦科技、江淮汽车、新天绿能、保利发展、招商蛇口、克明食品、安凯客车、陕西煤业等公司公布了产销数据，其中多数公司产量或销量同比下降。
-6.  **增减持：** 祥生医疗股东减持股份，恒力石化实控人拟增持，长白山股东拟减持。
-7.  **重大合同：** 华电科工签订海上风电项目大单，平高电气中标国家电网项目，棕榈股份、长高电新中标项目。
+1. 中国“颜值经济”已达万亿元规模，中老年消费群体崛起，对抗衰和皮肤修复需求显著。
+2. 欧莱雅与华山医院联合成立实验室，推动皮肤科学创新，并发布PDRN护肤白皮书，同时联合发起“新龄美中国行动”。
+3. 医美行业趋势包括个性化服务、AI皮肤分析以及国家简化审批流程和规范管理条例。
+4. 适老化科技产品需针对老年人痛点设计，如依视路陆逊梯卡推出智能助听眼镜，银发科技集中在精准医疗、慢病管理、认知障碍干预、数字养老等领域。
+5. 上海康养集团与瑞金医院合作，探索“医康养护膳”融合，提供全面养老服务，康养企业未来可期。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[A股共64只个股涨停 这只医疗股9连板]]></title>
-        <link href="https://www.yicai.com/news/102901177.html" />
-        <id>https://www.yicai.com/news/102901177.html</id>
-        <updated>Fri, 07 Nov 2025 17:50:53 +0800</updated>
+        <title><![CDATA[跨越8000多公里，挪威面包蟹将爬上中国消费者的餐桌]]></title>
+        <link href="https://www.yicai.com/news/102901511.html" />
+        <id>https://www.yicai.com/news/102901511.html</id>
+        <updated>Fri, 07 Nov 2025 18:14:51 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 挪威海产，中国市场，进博会，面包蟹，三文鱼
+
+<br><br>总结:
+1. 中国已成为挪威海产全球第三大出口市场，增长速度最快。
+2. 挪威鲜活面包蟹获准进入中国市场，继活雪蟹后又一新品登陆。
+3. 2025年前三季度，挪威对华三文鱼出口量大增，中国成为挪威三文鱼第六大出口市场。
+4. 2025年前三季度，挪威对华北极甜虾出口额暴涨，中国成为挪威北极甜虾全球最大出口市场。
+5. 中国与北欧国家的贸易额持续增长，进博会是深化中挪贸易合作的重要平台。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[连续第12个月增持！中国央行10月增持3万盎司黄金]]></title>
+        <link href="https://wallstreetcn.com/articles/3758912" />
+        <id>https://wallstreetcn.com/articles/3758912</id>
+        <updated>Fri, 07 Nov 2025 16:41:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 外汇储备, 黄金储备, 美元指数, 金融资产, 经济政策
+
+<br><br>总结:
+1. 截至2025年10月末，中国外汇储备规模为33433.4亿美元，较9月末上升46.8亿美元，升幅为0.14%。
+2. 中国央行连续第12个月增持黄金，10月末黄金储备报7409万盎司，环比增加3万盎司。
+3. 外汇储备上升受到美元指数上涨和全球金融资产价格上涨等因素的影响，但中国经济的基本面支撑了外汇储备规模的稳定。
+4. 金价虽有回调，但今年以来仍上涨超过50%，受益于美联储降息、央行购金需求和黄金ETF流入等因素。
+5. 美银研报指出，支撑金价的宏观基石在于“非常规的经济政策”，除非美国回归更正统的经济政策或美联储转向鹰派立场，否则金价仍有支撑。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[日本扇贝已出口至中国，外交部：将继续加强对日本水产品输华监管]]></title>
+        <link href="https://m.thepaper.cn/detail/31880787" />
+        <id>https://m.thepaper.cn/detail/31880787</id>
+        <updated>Fri, 07 Nov 2025 15:17:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词：日本扇贝, 水产品, 进口禁令, 核污染水, 食品安全
+
+<br><br>总结:
+1. 日本政府宣布已有日本扇贝出口至中国，这是中国对日本水产品实施进口禁令两年来，首次有日本水产品出口至中国。
+2. 中国外交部表示中方已就日本水产品输华发布公告。
+3. 中方将持续对日本福岛核污染水进行国际监测和独立取样监测，并希望日方也持续开展相关监测。
+4. 中方将继续严格依法依规加强对日本水产品输华的监管，保障中国人民的食品安全。
+5. 一旦发现任何风险，中方将立即依法采取必要的进口限制措施。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...]]></title>
+        <link href="https://m.thepaper.cn/detail/31914607" />
+        <id>https://m.thepaper.cn/detail/31914607</id>
+        <updated>Fri, 07 Nov 2025 11:34:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词：佩洛西，众议院，退休，民主党，特朗普
+
+<br><br>总结:
+*   85岁民主党众议员南希·佩洛西宣布不参加2026年国会连任竞选。
+*   佩洛西曾任国会众议院议长。
+*   她曾与特朗普多次交锋。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[17万白领岗消失，Scale AI最新研究：AI仅动用了3%实力]]></title>
+        <link href="https://www.36kr.com/p/3542150781825160" />
+        <id>https://www.36kr.com/p/3542150781825160</id>
+        <updated>Fri, 07 Nov 2025 08:51:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI, 自动化率, 远程劳动, RLI, 大模型
+
+<br><br>总结:
+1. 大量大学毕业生面临就业困境，部分原因被认为是AI取代了部分岗位，尤其是白领岗位。<br>
+2. 行业巨头纷纷裁员，AI被认为是“失业海啸”的幕后推手。<br>
+3. 最新研究表明，尽管AI技术不断发展，但目前的自动化率仍然很低，实际应用价值有限（不到3%）。<br>
+4. 研究引入了远程劳动指数（RLI），用于评估AI在真实世界中的端到端性能，发现AI在跨领域、长周期、高标准的工作任务中表现不佳。<br>
+5. AI在技术与文件完整性、交付成果完整性、质量和一致性方面存在问题，导致自动化率低，但在创意领域（如音频、图像、写作、数据检索）表现较好。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[奔驰向下，国产车企向上]]></title>
+        <link href="https://www.36kr.com/p/3541484687945861" />
+        <id>https://www.36kr.com/p/3541484687945861</id>
+        <updated>Fri, 07 Nov 2025 07:53:21 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 新能源汽车, 激光雷达, 智能驾驶, 国产旗舰, L3
+
+<br><br>总结:
+1.  奔驰等传统豪华品牌开始向下探，推出更具性价比的车型，如纯电CLA。
+2.  国产新能源汽车品牌则向上发展，推出智己LS9、极氪9X等高端车型，定价超过40万元。
+3.  国产旗舰车型将超500线激光雷达作为核心卖点，技术成为关键的竞争点。
+4.  激光雷达线数成为衡量智能驾驶能力的标准，分为青铜（64-128线）、钻石（192线）、王者（超500线）三个段位。
+5.  L3级别智能驾驶需要超500线激光雷达才能满足安全要求，推动了激光雷达技术的升级，国产汽车品牌试图以"科技安全"建立差异化优势。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、docker命令、视频教程<br>
+总结:<br>
+本文介绍了爪云（Claw Cloud Run）及内网穿透部分的操作步骤。通过注册爪云账号和免费域名注册，可以进行VPS部署。在前置工作中需获取root权限和安装docker，然后可以选择临时隧道模式或固定隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名，然后运行相应命令。相关docker命令包括查看已运行的docker容器、查看日志、停止容器和删除容器。此外，文章还提供了视频教程，包括爪云使用、免费域名注册和部署科学上网节点。整体而言，文章详细介绍了爪云注册及VPS部署的步骤，并提供了相关视频教程供参考。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[机构今日买入这25股，卖出京泉华1.36亿元]]></title>
-        <link href="https://www.yicai.com/news/102901516.html" />
-        <id>https://www.yicai.com/news/102901516.html</id>
-        <updated>Fri, 07 Nov 2025 17:31:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 机构, 龙虎榜, 净买入, 净卖出, 个股
-
-<br><br>总结:
-* 11月7日龙虎榜数据显示，共有44只个股出现机构交易。
-* 其中，25只股票呈现机构净买入，19只股票呈现机构净卖出。
-* 机构净买入金额前三的股票为多氟多(4.38亿元)、华盛锂电(2.46亿元)、盛新锂能(2.19亿元)。
-* 机构净卖出金额前三的股票为京泉华(1.36亿元)、云南锗业(1.22亿元)、万润新能(1.01亿元)。
-]]></summary>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、已注册域名、dpdns.org、Cloudflare、FreeDNS  
+注册在us.kg的域名目前仍然存在，但无法进行新的注册。已注册的域名可以选择托管到Cloudflare，也可以临时托管到FreeDNS。对于新的域名，不能在us.kg上注册，可以考虑使用其他平台注册。要注意dpdns.org域名能否成功托管到Cloudflare。总的来说，us.kg免费域名已经无法继续注册，已有域名可以继续使用或选择其他托管服务。 <br><br>总结: us.kg免费域名已无法注册，已有域名可继续使用或切换至其他服务，新域名需考虑其他注册平台。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普回应美最高法院大法官关税质疑，还有“B计划”？]]></title>
-        <link href="https://www.yicai.com/news/102901230.html" />
-        <id>https://www.yicai.com/news/102901230.html</id>
-        <updated>Fri, 07 Nov 2025 17:30:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词：IEEPA，关税，最高法院，特朗普，紧急权力
-
-<br><br>总结:
-1. 美国最高法院正在审理特朗普政府依据《国际紧急经济经济权力法》(IEEPA)征收关税的合法性，多数法官对此表示质疑。
-2. 特朗普政府声称若败诉将对国家造成灾难，并准备了“第二步计划”。
-3. 法院可能不会完全否定总统的紧急权力，但可能会限制总统的自由裁量权，例如限制其单方面实施大范围关税的权力。
-4. 若紧急关税被判无效，企业或可获得退款，但可能面临繁琐的程序。
-5. 特朗普政府还有其他征收关税的法律依据，如《斯姆特-霍利关税法》第338条款，但效率和威力可能不如IEEPA。
-]]></summary>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网、Cloudflare、CDN、网页保活<br>
+<br>
+Serv00提供了科学上网和CDN服务，并且可以通过Cloudflare实现固定隧道和远程保活。用户可以使用Serv00提供的多功能主页来启动、重启节点以及查看订阅信息。在使用Cloudflare固定隧道时，用户需要设置隧道域名和隧道令牌，同时设置CDN回源规则以保证网站正常访问。最后，用户可以通过Cloudflare远程保活功能来保持网页的活跃状态，提升用户体验。整个过程需要使用Windterm工具进行操作，具体步骤详细说明在Github项目和Cloudflare主页中。 <br><br>总结:Serv00提供科学上网和CDN服务，通过Cloudflare实现固定隧道和远程保活。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[养老理财即将全国范围“上新”，这些年的试点产品怎么样了？]]></title>
-        <link href="https://www.yicai.com/news/102901442.html" />
-        <id>https://www.yicai.com/news/102901442.html</id>
-        <updated>Fri, 07 Nov 2025 17:19:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 养老理财, 试点扩容, 收益率, 长期投资, 个人养老金
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、注册、KYC验证、Cloudflare、域名
 
-<br><br>总结:
-1.  养老理财产品试点范围扩大至全国，试点机构和额度也随之增加，全国投资者均可参与。
-2.  存续的养老理财产品收益率中位数在3.6%左右，但与业绩比较基准仍有差距，且产品表现分化。
-3.  新规鼓励发行10年期以上长期限产品，并优化资金退出条件，提高产品流动性。
-4.  支持理财公司投资养老领域多元化资产，并提供养老理财顾问咨询服务。
-5.  养老理财产品主要为R2级固收类或混合类产品，分红是其一大吸引力。
-]]></summary>
+US.KG域名目前处于受限状态，使用https://dash.domain.digitalplat.org/进行注册和KYC验证，并等待恢复后托管到Cloudflare。注册账号、验证邮箱、KYC验证、注册域名并托管到Cloudflare是整个过程的关键步骤。免费续订域名和免费域名的缺点也在视频中提到。详细步骤和注意事项都在视频中有详细展示，希望大家能够顺利注册并使用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[9分钟的演讲，刘强东为什么将重点放在无人化物流？]]></title>
-        <link href="https://www.yicai.com/news/102901419.html" />
-        <id>https://www.yicai.com/news/102901419.html</id>
-        <updated>Fri, 07 Nov 2025 17:14:14 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 京东物流, 无人配送, 无人车, 物流成本, 规模化
-
-<br><br>总结:
-1.  京东物流计划明年4月建成全球首个无人配送站，整合无人机、无人车和机械臂。
-2.  刘强东预测未来五年中国社会化物流成本占GDP比重将显著降低。
-3.  无人车加速规模化落地，极兔速递等快递企业已大量部署，深圳无人车单月送单量突破百万。
-4.  无人配送能有效降本增效，单车时均配送量提升，单票成本降低。
-5.  行业资本热度上升，头部厂商融资额巨大，无人配送正进入全球规模化商业运营阶段，京东物流宣布未来五年要采购300万台机器人、100万台无人车和10万架无人机。
-]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 官方网站, 客户端, API, 本地部署  
+Deepseek是一款强大的搜索引擎工具，可以通过官方网站、客户端或API使用。用户还可以通过本地部署来使用Deepseek。官方网站和客户端提供便捷的使用方式，API则可以被很多第三方应用如Perplexity利用。本地部署则需要下载Ollama并在终端输入指令来运行。总之，Deepseek提供了多种使用方式满足用户需求。<br><br>总结:Deepseek是一款强大的搜索引擎工具，可以通过官方网站、客户端或API使用。用户还可以通过本地部署来使用Deepseek。官方网站和客户端提供便捷的使用方式，API则可以被很多第三方应用如Perplexity利用。本地部署则需要下载Ollama并在终端输入指令来运行。总之，Deepseek提供了多种使用方式满足用户需求。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[AI如何赋能睡眠与大健康？麻省理工与中方伙伴这样探索]]></title>
-        <link href="https://www.yicai.com/news/102901407.html" />
-        <id>https://www.yicai.com/news/102901407.html</id>
-        <updated>Fri, 07 Nov 2025 17:10:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词： FiberCircuits, 智能纤维, 睡眠健康, 人工智能, 中美合作
-
-<br><br>总结:
-1.  MIT教授帕拉迪索与慕思集团合作，启动“FiberCircuits智能纤维”联合研发计划，旨在将人工智能应用于睡眠健康研究。
-2.  FiberCircuits技术核心在于使柔性材料实现“感知—计算—反馈”的闭环功能，通过集成电路嵌入纤维中，实时捕捉生理信号，并通过tinyML算法进行本地推理。
-3.  中美团队合作，慕思集团负责工程化实现和实际应用验证，共同构建寝具行业垂直大模型，进行数据交叉验证。
-4.  该技术有望应用于健康科技、纺织智能化及人机融合领域，实现对用户心跳、心率的无感监测，并与睡眠、大健康相关产业连接，构建生态系统。
-5.  帕拉迪索认为，FiberCircuits将把可穿戴计算提升到新水平，带来颠覆性技术和新的可能性。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[跨国药企中国两条腿走路：加速全球引进，与本土创新药一起出海]]></title>
-        <link href="https://www.yicai.com/news/102901314.html" />
-        <id>https://www.yicai.com/news/102901314.html</id>
-        <updated>Fri, 07 Nov 2025 17:05:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词：跨国药企, 中国创新, 全球创新体系, BD合作, 进博会
-
-<br><br>总结:
-1. 跨国药企调整中国策略，既加速引入全球创新产品，也通过BD交易等方式与中国创新合作拓展全球市场，中国已成为全球创新策源地。
-2. 跨国药企与中国药企合作加速，中国成为全球BD出海增长最快的国家，引进中国创新药资产总额占比显著提升。
-3. 跨国药企通过与中国企业合作，将中国创新成果带给全球患者，同时借助自身优势助力创新药物全球落地。
-4. 跨国药企加大在中国研发投入和布局，加速创新药物在中国的上市，并让中国参与全球临床试验的早期阶段。
-5. 进博会成为跨国药企展示创新产品、深化合作共赢的重要平台，加速创新成果在中国的落地，推动中国医药创新生态优化。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[“丝路电商”公布2周年成绩单，进博会提供加速契机]]></title>
-        <link href="https://www.yicai.com/news/102901300.html" />
-        <id>https://www.yicai.com/news/102901300.html</id>
-        <updated>Fri, 07 Nov 2025 17:04:55 +0800</updated>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[从进博会看跨国企业新动向：七成外企看好中国经济，在华并购显著增加]]></title>
-        <link href="https://www.yicai.com/news/102901296.html" />
-        <id>https://www.yicai.com/news/102901296.html</id>
-        <updated>Fri, 07 Nov 2025 16:52:49 +0800</updated>
-        <summary type="html"><![CDATA[进博会, 跨国企业, 中国经济, 数字化转型, 合规
-
-<br><br>总结:
-1.  第八届进博会在上海举办，吸引众多跨国企业参展，跨国企业希望将自身优势与中国高质量发展目标对接。
-2.  多数跨国公司对中国经济增长的信心高于对全球经济的预期，在华并购活动显著增加，投资领域集中在电动汽车、医疗科技等高科技领域，投资方式多样。
-3.  跨国企业面临本土竞争加剧、合规要求升级、技术迭代加速等多重挑战，供应链管理成本增加，需适应中国高度整合的数字生态。
-4.  多数企业积极调整以符合监管环境，加大数字化投入，应用AI工具提升效能。
-5.  进口替代背景下，部分领域竞争加剧，跨国企业需重新评估自身技术优势与市场定位。
-]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普政府将白银和铜列入“关键矿产”清单，加征关税可能性增大？]]></title>
-        <link href="https://www.yicai.com/news/102901299.html" />
-        <id>https://www.yicai.com/news/102901299.html</id>
-        <updated>Fri, 07 Nov 2025 16:52:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 关键矿产, USGS, 清单更新, 白银, 232调查
-
-<br><br>总结:
-1. 美国地质勘探局(USGS)更新关键矿产清单，新增铜、银、冶金煤等10种矿产，总数达到60种，包含15种稀土元素。
-2.  清单决定哪些矿产纳入232调查范围，可能影响关税政策，并决定哪些美国国内项目可获联邦支持。
-3.  白银被列入清单引发市场担忧，或可能面临关税，对金属市场造成冲击。
-4.  美国对白银依赖进口，将其列入清单是为了应对墨西哥供应中断的潜在风险。
-5.  清单的更新是特朗普政府保障美国关键矿产供应链安全的延续，被指定为“关键”的矿产更容易获得政府支持。
-]]></summary>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[流动性趋紧信号闪现！华尔街发出最新预警，美联储会出手吗？]]></title>
-        <link href="https://www.yicai.com/news/102901266.html" />
-        <id>https://www.yicai.com/news/102901266.html</id>
-        <updated>Fri, 07 Nov 2025 16:29:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 流动性压力, 美联储, QT, 回购利率, 货币市场
-
-<br><br>总结:
-1.  美国货币市场流动性压力加剧，回购利率飙升，利差扩大至2020年来最高水平，引发市场对美联储可能需要干预的担忧。
-2.  分析认为，流动性压力并非一次性事件，未来几周可能再次出现，美联储停止缩表未能完全缓解。
-3.  持续的QT，叠加美国国债的大量发行，加剧了流动性压力，可能导致银行储备金水平陷入危险境地。
-4.  全球货币市场也出现类似流动性趋紧迹象，欧洲和英国的回购利率也出现波动。
-5.  分析师认为，关键问题在于央行提供的流动性工具是否能真正流向最需要的地方，市场需要学会在缺少过量准备金的环境中运转。
-]]></summary>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国医保谈判“大砍价”，减重药进入“百美元”时代]]></title>
-        <link href="https://www.yicai.com/news/102901242.html" />
-        <id>https://www.yicai.com/news/102901242.html</id>
-        <updated>Fri, 07 Nov 2025 16:17:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词：医保谈判, 减重药, 礼来, 诺和诺德, 价格下降
-
-<br><br>总结:
-1. 美国医保谈判后，礼来和诺和诺德的减重药价格将大幅降低，进入“百美元”时代。
-2. 现金支付患者购买礼来替尔泊肽，最低剂量每月299美元，其他剂量449美元。
-3. 美国减重药价格目前全球最高，是其他国家的三倍，此次谈判旨在降低价格。
-4. 对于医保覆盖患者，减重药注射剂和口服药平均价格将从每月350美元或更低起始，预计两年内降至245美元。
-5. 若诺和诺德的口服司美格鲁肽和礼来的orforglipron获批，起始剂量将以每月149美元的价格提供给政府医疗保险和医疗补助计划参保者及自费患者。
-]]></summary>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[苏超夺冠后，没高铁的泰州如何接住流量：赴沪拜访国铁上海局]]></title>
-        <link href="https://m.thepaper.cn/detail/31915023" />
-        <id>https://m.thepaper.cn/detail/31915023</id>
-        <updated>Fri, 07 Nov 2025 14:56:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 泰州, 苏超, 高铁, 旅游, 合作
-
-<br><br>总结:
-1. 泰州队意外夺得“苏超”冠军，吸引了大量关注，泰州多家景区顺势推出免门票等文旅优惠。
-2. 泰州目前是江苏唯一没有高铁的城市，交通是接住“泼天流量”的一大挑战。
-3. 泰州市委书记拜访中国铁路上海局集团有限公司，商讨合作，推动枢纽泰州建设。
-4. 双方希望在铁路规划建设、物流产业发展、“铁路+旅游”产品等方面加强合作。
-5. 中国铁路上海局集团有限公司考虑开通泰州主题旅游专列，将流量转化为文旅消费。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一起“淘”进博丨耳朵“开挂”？体内放个“球”就能瘦？医疗展区藏宝图上线]]></title>
-        <link href="https://m.thepaper.cn/detail/31883618" />
-        <id>https://m.thepaper.cn/detail/31883618</id>
-        <updated>Fri, 07 Nov 2025 13:51:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 进博会, 医疗器械, 医药保健, 科技, 健康
-
-<br><br>总结:
-*   第八届进博会医疗器械及医药保健展区将展示颠覆传统健康认知的科技。
-*   展品包括可能成为“瘦身开关”的“胃内球囊”。
-*   AI助听器能够识别人声，提升听力体验。
-*   还有被《时代》杂志评为2024年最具突破性的创新技术亮相。
-*   澎湃新闻将于11月7日直播报道，带你了解未来健康装备。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[DoorDash活成了美团羡慕的样子]]></title>
-        <link href="https://www.36kr.com/p/3541653968826249" />
-        <id>https://www.36kr.com/p/3541653968826249</id>
-        <updated>Fri, 07 Nov 2025 08:30:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词: DoorDash, 美团, 外卖, 市场, 配送
-
-<br><br>总结:
-1.  DoorDash和美团虽然商业模式相似，但因所处市场环境差异，发展路径迥异。DoorDash通过差异化竞争策略，主攻郊区市场，利用兼职配送员降低成本，成功在美国外卖市场占据优势。
-
-2.  美团则因国内市场竞争激烈，用户对外卖时效性和价格敏感，以及餐饮结构等因素，必须自建配送体系，难以复制DoorDash的成功模式。
-
-3.  美国宽松的劳动法规和消费者习惯，使DoorDash能采用众包模式降低用工成本，而国内市场则需要更强的平台控制力才能保证配送质量。
-
-4.  中美两国消费者对外卖配送费的接受程度不同，导致平台盈利模式也不同。美国用户习惯支付较高配送费和小费，而国内平台则需要平衡商家和用户的利益。
-
-5.  中美企业在社会责任承担方面存在差异。DoorDash在美国市场可以更自由地追求利润最大化，而美团在国内市场则面临更多的社会责任要求，需要承担更多成本。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[AI正凶猛“加杠杆”]]></title>
-        <link href="https://wallstreetcn.com/articles/3758866" />
-        <id>https://wallstreetcn.com/articles/3758866</id>
-        <updated>Fri, 07 Nov 2025 08:27:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 人工智能, 数据中心, 债务融资, 风险, 结构化产品
-
-<br><br>总结:
-1.  AI热潮推动数据中心建设，科技巨头通过发行巨额债券进行融资，2024年9、10月仅投资级债券发行就达750亿美元，远超往年平均水平。
-2.  融资渠道从投资级债券扩展到高收益债和私募信贷，甚至包括结构化金融产品，部分观察人士已对非流动性资产潜在风险提出警告。
-3.  虽然AI相关公司盈利能力强，但甲骨文等公司股价和信用违约掉期走势背离，暗示市场对其杠杆水平的担忧。
-4.  私募信贷为数据中心建设提供资金，预计到2028年将超过一半。
-5.  结构化产品如资产支持证券（ABS）被用于将数据中心租金等未来现金流证券化，但其在金融危机中的角色使人们对其保持警惕。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 获取赠金, 应用部署, 推荐两款应用<br>
-<br>
-关于Claw Cloud Run的介绍，用户可以通过Github注册时间来获取每月5美元的赠金，从而长期免费使用。用户可以搭建各种Docker应用，并可以在应用商店一键自动部署或手动部署。要查看Github注册时间只需打开指定链接，找到"created at"后面显示的日期即可。推荐部署的两款应用分别是Memos（轻笔记应用）和AList（网盘挂载工具）。在Claw Cloud Run上可以轻松部署这些应用来满足个人或工作需求。总之，通过这个免费容器，用户可以实现方便快捷地部署各种应用，并且享受额外的赠金福利。<br><br>总结: Claw Cloud Run提供免费容器服务，通过查看Github注册时间可获得赠金，在平台上实现免费长期使用，用户可以搭建各种Docker应用并推荐了Memos和AList两款应用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证账号、创建VM实例、开放防火墙、SSH登录方式<br>
-<br>
-总结：本文介绍了如何免费使用谷歌云VPS，包括注册和验证账号、创建免费VM实例、设置防火墙、以及SSH登录方式。此外，还介绍了科学上网注意事项和搭建Hysteria 2节点的方法。建议关注文章中提到的细节，以确保成功搭建并使用免费VPS。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[域名、注册地址、美国地址生成器、Github仓库、Cloudflare Pages<br>
-<br>
-域名注册现已变得更加简便，用户可以选择免费的dpdns.org或付费的us.kg域名。新用户可获得1个免费域名，老用户可获得3个，通过在Github上加Star可增加额度。域名续期永久免费，每年续期一次。us.kg域名也需要续期。详细操作教程可在Youtube视频中找到。特别提醒：us.kg域名不占用免费额度。<br><br>总结: 通过DigitalPlat提供的服务，用户可以免费注册dpdns.org域名或选择付费us.kg域名。每位用户初始免费额度有所不同，续期操作简便且永久免费，同时us.kg域名也需要每年续费。详细操作内容可以在Youtube视频中查阅。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、ChatGPT、购买过程
-<br>
-稳定性和速度方面，HostUNO表现良好，不需要保活，但存在ChatGPT降智问题。在购买过程中，价格适中，总体体验较为良好。购买后可自行搭建代理节点，节点测速情况也可靠。续费流程简单，但需注意修改登录密码。总体来说，HostUNO值得购买，尤其适合寻找稳定性和速度的用户。提供相关链接：HostUNO网站、Windterm下载地址、甬哥Sing-box Github仓库、ChatGPT降智检测插件。<br><br>总结: HostUNO提供稳定性和速度，需注意ChatGPT降智问题，购买流程简单且价格适中，值得购买。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码newuser
-
-总结：首先使用身份信息生成器注册账号，然后在免费域名注册地址购买域名时使用优惠码newuser享受一年免费。最后将域名托管到Cloudflare并添加域名，填入分配的两个名称服务器即可。详细教程可观看Youtube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
