@@ -1,36 +1,38 @@
 ------------------------------------------------------
-Started: 2025-11-07 12:39:17.172027
-Existing_entries: 20
+Started: 2025-11-07 14:19:10.953500
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 6
+Token length: 4188
 Summarized using gemini model: gemini-2.0-flash
-Append: [免费白嫖1年！ChatGPT Go高级会员 + Perplexity Pro 官方限免狂送中，立省$300+，不领就亏爆了！｜零度解说](https://www.freedidi.com/21485.html)
-Token length: 1133
+Append: [八位全勤生，八年进博会：跨国药械企业经历的巨变](https://www.yicai.com/news/102901939.html)
+Token length: 881
 Summarized using gemini model: gemini-2.0-flash
-Append: [新能源金属“新贵”来了，证监会同意广期所铂、钯期货和期权注册](https://www.yicai.com/news/102901603.html)
-Token length: 1498
+Append: [武汉大学原校长刘道玉逝世，享年92岁](https://www.yicai.com/news/102901966.html)
+Token length: 201
 Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦进博会｜从“颜值经济”到“银发科技”，中老年人成为消费新生力](https://www.yicai.com/news/102901568.html)
-Token length: 1555
+Append: [特斯拉股东大会投票支持特斯拉投资xAI](https://www.yicai.com/news/102901945.html)
+Token length: 1948
 Summarized using gemini model: gemini-2.0-flash
-Append: [跨越8000多公里，挪威面包蟹将爬上中国消费者的餐桌](https://www.yicai.com/news/102901511.html)
-Token length: 686
+Append: [“六小龙”乌镇对话:从英伟达“冷板凳”到《黑神话》破圈](https://www.yicai.com/news/102901954.html)
+Token length: 347
 Summarized using gemini model: gemini-2.0-flash
-Append: [连续第12个月增持！中国央行10月增持3万盎司黄金](https://wallstreetcn.com/articles/3758912)
-Token length: 293
+Append: [记者被机械臂彻底KO，进博会直击AI从“思考”到“行动”｜一览·进博会](https://www.yicai.com/video/102901872.html)
+Token length: 406
 Summarized using gemini model: gemini-2.0-flash
-Append: [日本扇贝已出口至中国，外交部：将继续加强对日本水产品输华监管](https://m.thepaper.cn/detail/31880787)
-Token length: 80
+Append: [美国大豆出口协会CEO：美国豆农对恢复贸易感到兴奋 能从中国发展中受益｜一览·进博会](https://www.yicai.com/video/102901745.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [超15亿元加码在华产能，科莱恩CEO：未来全球化工市场近半增长来自中国](https://www.yicai.com/news/102901814.html)
+Token length: 1633
 Summarized using gemini model: gemini-2.0-flash
-Append: [85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...](https://m.thepaper.cn/detail/31914607)
-Token length: 2483
+Append: [聚焦进博会｜中外乳企角逐健康赛道，主攻“一老一小”市场](https://www.yicai.com/news/102901818.html)
+Token length: 1128
 Summarized using gemini model: gemini-2.0-flash
-Append: [17万白领岗消失，Scale AI最新研究：AI仅动用了3%实力](https://www.36kr.com/p/3542150781825160)
-Token length: 5075
+Append: [今年上海国资进博会意向采购超27亿美元，8年累计222亿美元](https://www.yicai.com/news/102901731.html)
+Token length: 1689
 Summarized using gemini model: gemini-2.0-flash
-Append: [奔驰向下，国产车企向上](https://www.36kr.com/p/3541484687945861)
-Token length: 3784
+Append: [90后天才少年“稚晖君”，将入职20倍“大牛股”公司](https://www.36kr.com/p/3542179316854914)
+Token length: 1656
 Summarized using gemini model: gemini-2.0-flash
-Append: [告别“切图仔”？我用一个神器，让Figma设计稿自动生成前端代码！](https://juejin.cn/post/7568786340621434931)
-append_entries: 10
-Finish: 2025-11-07 12:39:51.441208
+Append: [“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性](https://wallstreetcn.com/articles/3758865)
+append_entries: 11
+Finish: 2025-11-07 14:20:19.758767
