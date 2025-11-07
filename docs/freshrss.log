@@ -1,36 +1,64 @@
 ------------------------------------------------------
-Started: 2025-11-07 08:26:58.346963
-Existing_entries: 12
+Started: 2025-11-07 10:21:02.780896
+Existing_entries: 10
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 4471
 Summarized using gemini model: gemini-2.0-flash
-Append: [懂王破防，“印度极左穆斯林”拿下纽约](https://www.huxiu.com/article/4802064.html)
-Token length: 0
+Append: [11月7日这些公告有看头](https://www.yicai.com/news/102901573.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [A股共64只个股涨停 这只医疗股9连板](https://www.yicai.com/news/102901177.html)
+Token length: 195
 Summarized using gemini model: gemini-2.0-flash
-Append: [神舟二十号延迟返回：太空碎片正在改变人类的航天方式](https://www.huxiu.com/article/4802055.html)
-Token length: 46
+Append: [机构今日买入这25股，卖出京泉华1.36亿元](https://www.yicai.com/news/102901516.html)
+Token length: 2374
 Summarized using gemini model: gemini-2.0-flash
-Append: [视频丨福建舰入列！中国海军正式进入三航母时代](https://m.thepaper.cn/detail/31915317)
+Append: [特朗普回应美最高法院大法官关税质疑，还有“B计划”？](https://www.yicai.com/news/102901230.html)
+Token length: 3484
+Summarized using gemini model: gemini-2.0-flash
+Append: [养老理财即将全国范围“上新”，这些年的试点产品怎么样了？](https://www.yicai.com/news/102901442.html)
+Token length: 1257
+Summarized using gemini model: gemini-2.0-flash
+Append: [9分钟的演讲，刘强东为什么将重点放在无人化物流？](https://www.yicai.com/news/102901419.html)
+Token length: 1078
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI如何赋能睡眠与大健康？麻省理工与中方伙伴这样探索](https://www.yicai.com/news/102901407.html)
+Token length: 3240
+Summarized using gemini model: gemini-2.0-flash
+Append: [跨国药企中国两条腿走路：加速全球引进，与本土创新药一起出海](https://www.yicai.com/news/102901314.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [“丝路电商”公布2周年成绩单，进博会提供加速契机](https://www.yicai.com/news/102901300.html)
+Token length: 1082
+Summarized using gemini model: gemini-2.0-flash
+Append: [从进博会看跨国企业新动向：七成外企看好中国经济，在华并购显著增加](https://www.yicai.com/news/102901296.html)
+Token length: 1677
+Summarized using gemini model: gemini-2.0-flash
+Append: [特朗普政府将白银和铜列入“关键矿产”清单，加征关税可能性增大？](https://www.yicai.com/news/102901299.html)
+Token length: 1340
+Summarized using gemini model: gemini-2.0-flash
+Append: [苏超夺冠后，没高铁的泰州如何接住流量：赴沪拜访国铁上海局](https://m.thepaper.cn/detail/31915023)
+Token length: 124
+Summarized using gemini model: gemini-2.0-flash
+Append: [一起“淘”进博丨耳朵“开挂”？体内放个“球”就能瘦？医疗展区藏宝图上线](https://m.thepaper.cn/detail/31883618)
+Token length: 4473
+Summarized using gemini model: gemini-2.0-flash
+Append: [DoorDash活成了美团羡慕的样子](https://www.36kr.com/p/3541653968826249)
 Token length: 2003
 Summarized using gemini model: gemini-2.0-flash
-Append: [14家美国农产品协会齐聚进博会，“农业人”怎么看中美农业合作](https://www.yicai.com/news/102900904.html)
-Token length: 1198
+Append: [AI正凶猛“加杠杆”](https://wallstreetcn.com/articles/3758866)
+Token length: 2576
 Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦进博会｜国内首款核药上市后，厂商探索新疗法收费路径](https://www.yicai.com/news/102900852.html)
-Token length: 1055
+Append: [有色起舞，铝业领涨，天风称“电解铝是弹性与红利的完美融合”](https://wallstreetcn.com/articles/3758837)
+Token length: 1600
 Summarized using gemini model: gemini-2.0-flash
-Append: [马斯克：FSD将支持边开车边发短信](https://www.yicai.com/news/102900922.html)
-Token length: 1217
+Append: [充了20刀 Cursor Pro 的朋友看到我的方案沉默了...](https://juejin.cn/post/7569420535126409226)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [我国第一艘电磁弹射型航空母舰入列，习近平出席入列授旗仪式并登舰视察](https://m.thepaper.cn/detail/31915288)
-Token length: 1332
+Append: [ASP.NET Core Blazor 核心功能三：Blazor与JavaScript互操作——让Web开发更灵活](https://www.cnblogs.com/shenchuanchao/p/19194651)
+Token length: 1872
 Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜庆大霉素上餐桌：用大数据斩断“毒利益链”](https://m.thepaper.cn/detail/31914593)
-Token length: 198
+Append: [流动性趋紧信号闪现！华尔街发出最新预警，美联储会出手吗？](https://www.yicai.com/news/102901266.html)
+Token length: 565
 Summarized using gemini model: gemini-2.0-flash
-Append: [泡泡玛特回应直播事故：正在调查中，不会开除涉事员工](https://m.thepaper.cn/detail/31914486)
-Token length: 4188
-Summarized using gemini model: gemini-2.0-flash
-Append: [大疆、影石还没争出第一，大批友商已经赶在路上｜知料](https://www.36kr.com/p/3541795428200327)
-append_entries: 10
-Finish: 2025-11-07 08:27:25.552623
+Append: [美国医保谈判“大砍价”，减重药进入“百美元”时代](https://www.yicai.com/news/102901242.html)
+append_entries: 20
+Finish: 2025-11-07 10:22:38.759514
