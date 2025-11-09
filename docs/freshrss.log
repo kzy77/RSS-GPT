@@ -1,48 +1,49 @@
 ------------------------------------------------------
-Started: 2025-11-09 08:21:46.247920
-Existing_entries: 6
+Started: 2025-11-09 10:17:52.521728
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1106
+Token length: 1324
 Summarized using gemini model: gemini-2.0-flash
-Append: [父亲的中东往事与无处安放的城市，通过影像回归日常生活](https://www.yicai.com/news/102902871.html)
-Token length: 1586
+Append: [懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差](https://wallstreetcn.com/articles/3758989)
+Token length: 1650
 Summarized using gemini model: gemini-2.0-flash
-Append: [进博会上的通信产业：中企秀 6G，外企拓市场](https://www.yicai.com/news/102902864.html)
-Token length: 2172
+Append: [医药医疗专家热议国际化新策略：创新生态至关重要](https://www.yicai.com/news/102902962.html)
+Token length: 990
 Summarized using gemini model: gemini-2.0-flash
-Append: [最激进的华尔街投行：鲍威尔任内“不会”再降息](https://wallstreetcn.com/articles/3758984)
-Token length: 798
+Append: [DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听](https://wallstreetcn.com/articles/3758988)
+Token length: 362
 Summarized using gemini model: gemini-2.0-flash
-Append: [拟就“开门杀”等问题作出规定，最高法就交通事故责任纠纷司法解释征求意见](https://m.thepaper.cn/detail/31927341)
-Token length: 1885
+Append: [央视新闻频道迎来“90后”新主播王晨](https://m.thepaper.cn/detail/31927536)
+Token length: 685
 Summarized using gemini model: gemini-2.0-flash
-Append: [不焦虑的人，都有1个顶级心态](https://www.36kr.com/p/3545151247702145)
-Token length: 1863
+Append: [安徽省委常委王东伟已明确为安徽省常务副省长](https://m.thepaper.cn/detail/31927520)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [德国“隐形冠军”在进博会上“搬家”，瞄准人形机器人等新赛道|欧洲企业在上海](https://www.yicai.com/news/102902906.html)
+Token length: 2156
 Summarized using gemini model: gemini-2.0-flash
-Append: [国家统计局解读：10月份CPI由降转涨，PPI降幅收窄](https://m.thepaper.cn/detail/31927223)
-Token length: 1649
+Append: [20%的航班可能取消！美国假日旅行季恐陷入混乱，或成政府停摆转折点？](https://www.yicai.com/news/102902903.html)
+Token length: 1772
 Summarized using gemini model: gemini-2.0-flash
-Append: [10月CPI同比转正，“反内卷”行业价格积极改善](https://www.yicai.com/news/102902818.html)
-Token length: 129
+Append: [消费旺季助推市场升温，消费REITs年内平均涨幅达24%](https://www.yicai.com/news/102902881.html)
+Token length: 1240
 Summarized using gemini model: gemini-2.0-flash
-Append: [商务部：《关于加强相关两用物项对美国出口管制的公告》第二款暂停实施](https://www.yicai.com/news/102902804.html)
-Token length: 1289
+Append: [楼市去库存利器来了！上海市中心动迁也开启“房票机制”](https://www.yicai.com/news/102902885.html)
+Token length: 1124
 Summarized using gemini model: gemini-2.0-flash
-Append: [IPO周报：海创光电终止IPO，首轮问询后停滞超两年](https://www.yicai.com/news/102902812.html)
-Token length: 1800
+Append: [从面对面签约到全链路护航，进博会贸易服务展区遍地出海“小课堂”](https://www.yicai.com/news/102902884.html)
+Token length: 1884
 Summarized using gemini model: gemini-2.0-flash
-Append: [聚焦进博会｜“两油一酪”国产替代提速，中外乳企竞逐B端新战场](https://www.yicai.com/news/102902811.html)
-Token length: 286
+Append: [黄金、钻石产业转型升级进行时，实探进博会的“闪亮生意”](https://www.yicai.com/news/102902809.html)
+Token length: 3072
 Summarized using gemini model: gemini-2.0-flash
-Append: [从技术首秀到中国智造 进博会如何链接产业链与创新生态？](https://www.yicai.com/video/102902813.html)
-Token length: 596
+Append: [下周重磅日程：腾讯阿里美团京东财报，中国10月经济数据](https://wallstreetcn.com/articles/3758913)
+Token length: 1105
 Summarized using gemini model: gemini-2.0-flash
-Append: [进博观察：一次“提醒”让企业少走半年弯路，全球变局下的中企出海，哪些专业能力亟待建立？](https://www.yicai.com/video/102902808.html)
-Token length: 3243
+Append: [马上评︱别让“场外戏”大过场内戏](https://m.thepaper.cn/detail/31927273)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [商务部：《关于加强相关两用物项对美国出口管制的公告》第二款暂停实施](https://m.thepaper.cn/detail/31927276)
+Token length: 73
 Summarized using gemini model: gemini-2.0-flash
-Append: [悦己、银发还是毛孩子？去进博会寻找下一个消费爆款](https://www.yicai.com/news/102902800.html)
-Token length: 2860
-Summarized using gemini model: gemini-2.0-flash
-Append: [小红书拿下支付牌照；影石回应大疆“价格战”](https://www.yicai.com/news/102902799.html)
-append_entries: 14
-Finish: 2025-11-09 08:22:57.362835
+Append: [小浪花逛进博｜当进博会遇到记者节，记录世界，也为自己过节](https://m.thepaper.cn/detail/31923700)
+append_entries: 15
+Finish: 2025-11-09 10:19:13.590094
