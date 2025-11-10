@@ -1,35 +1,41 @@
 ------------------------------------------------------
-Started: 2025-11-10 18:28:11.233242
+Started: 2025-11-10 20:22:58.136821
 Existing_entries: 10
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3901
+Token length: 313
 Summarized using gemini model: gemini-2.0-flash
-Append: [股东会激烈冲突后，吴世春人马上位董事长，ST路通控制权之争走向何方？](https://www.yicai.com/news/102905211.html)
-Token length: 1791
+Append: [商务部就美方暂停实施对华造船等行业301调查措施答记者问](https://m.thepaper.cn/detail/31934545)
+Token length: 665
 Summarized using gemini model: gemini-2.0-flash
-Append: [电解铝行业Cobre Panama时刻已近](https://wallstreetcn.com/articles/3759053)
-Token length: 0
+Append: [致7死27伤，河北燕郊较大燃气爆燃事故调查报告公布](https://m.thepaper.cn/detail/31933172)
+Token length: 13000
 Summarized using gemini model: gemini-2.0-flash
-Append: [巴西刚刚换首都了，12天之后还要换](https://www.huxiu.com/article/4803232.html)
-Token length: 1023
+Append: [LangChain1.0速通指南（三）——LangChain1.0 create_agent api 高阶功能](https://juejin.cn/post/7569858467469705267)
+Token length: 9773
 Summarized using gemini model: gemini-2.0-flash
-Append: [GLP-1之后，巨头卷向下一代减重药](https://www.yicai.com/news/102904886.html)
-Token length: 676
+Append: [独家揭秘 6 位工程师的 AI 工作流：流程比工具更重要](https://juejin.cn/post/7568498994801852416)
+Token length: 1522
 Summarized using gemini model: gemini-2.0-flash
-Append: [汉堡王中国也被卖了！投过蜜雪冰城的CPE源峰将持股约83%](https://www.yicai.com/news/102905010.html)
+Append: [国务院双碳白皮书详解中国减碳路径，这些行业未来市场规模或扩容](https://www.yicai.com/news/102905116.html)
+Token length: 465
+Summarized using gemini model: gemini-2.0-flash
+Append: [时隔8年再战全运会，孙杨400米自由泳决赛位居第6](https://m.thepaper.cn/detail/31932693)
+Token length: 305
+Summarized using gemini model: gemini-2.0-flash
+Append: [中国船舶邀请26年前捐140元造航母的“小朋友”参观，附赠福建舰入列纪念手表](https://m.thepaper.cn/detail/31933535)
+Token length: 2357
+Summarized using gemini model: gemini-2.0-flash
+Append: [促进民间投资，国办最新发声！](https://wallstreetcn.com/articles/3759050)
+Token length: 2446
+Summarized using gemini model: gemini-2.0-flash
+Append: [复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”](https://wallstreetcn.com/articles/3759030)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [理财产品收益率“注水”，实际到手缩水超1个百分点](https://www.yicai.com/news/102905028.html)
-Token length: 2613
+Append: [严管借调借用、精简数据填报，教育部进一步为中小学教师减负](https://m.thepaper.cn/detail/31930929)
+Token length: 3048
 Summarized using gemini model: gemini-2.0-flash
-Append: [长护险迎“十五五”新机遇，AI赋能破解照护难题](https://www.yicai.com/news/102905027.html)
-Token length: 2409
+Append: [何为进博｜近悦远来，流量何以变“留量”](https://m.thepaper.cn/detail/31927399)
+Token length: 381
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国30年来首次缺席国际气候谈判，COP30如何研判“交卷年”？](https://www.yicai.com/news/102905002.html)
-Token length: 1901
-Summarized using gemini model: gemini-2.0-flash
-Append: [鼓励支持民资参与铁路、核电等项目，13条新举措扩大民资准入](https://www.yicai.com/news/102905000.html)
-Token length: 3787
-Summarized using gemini model: gemini-2.0-flash
-Append: [首版创新药目录将发布：药企“让利”保司，患者获益几何丨“病有所保”大调研](https://www.yicai.com/news/102904995.html)
-append_entries: 10
-Finish: 2025-11-10 18:29:03.320434
+Append: [因剪辑拼接特朗普视频，BBC高管辞职](https://m.thepaper.cn/detail/31929721)
+append_entries: 12
+Finish: 2025-11-10 20:24:05.088196
