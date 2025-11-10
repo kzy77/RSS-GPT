@@ -2,287 +2,386 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-10T08:29:55Z</updated>
+    <updated>2025-11-10T10:25:30Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[30分钟内搞定！在本地电脑上部署属于你自己的大模型]]></title>
-        <link href="https://juejin.cn/post/7569276224708165686" />
-        <id>https://juejin.cn/post/7569276224708165686</id>
-        <updated>Thu, 06 Nov 2025 17:06:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Ollama，本地部署，大模型，API，DeepSeek
+        <title><![CDATA[我如何使用 Claude Code 的每一个功能]]></title>
+        <link href="https://juejin.cn/post/7568385433983221786" />
+        <id>https://juejin.cn/post/7568385433983221786</id>
+        <updated>Tue, 04 Nov 2025 08:38:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Claude Code, CLAUDE.md, Subagents, Hooks, GitHub Actions
 
 <br><br>总结:
-1. Ollama是一个开源工具，用于在本地运行各种大型语言模型，简化了环境配置和依赖安装。
-2. 安装Ollama，可以通过官网下载对应操作系统的安装包，按照步骤安装即可。
-3. 根据电脑硬件配置选择合适的模型参数，参数越大，模型越智能，但对硬件要求也越高。
-4. 通过命令行输入`ollama run 模型名`即可下载并运行模型，第一次运行会自动下载模型文件。
-5. Ollama支持API调用，可以通过代码发送请求到本地服务地址，将大模型集成到自己的应用中。
+1.  Claude Code 是作者常用的 CLI 助手，用于个人项目和团队的 AI 工具构建，工具选择取决于功能和个人偏好。
+2.  CLAUDE.md 是核心配置文件，应包含工具和 API 的精简描述，用于指导助手工作，并同步 AGENTS.md 文件，避免使用否定限制，关注简化代码库。
+3.  应使用/clear 进行简单重启，使用“记录并清空”方法为复杂任务创建持久“记忆”，避免使用/compact 自动精简上下文。自定义斜杠命令应简单快捷，避免过度复杂。
+4.  不推荐自定义 Subagents，提倡将上下文放在 CLAUDE.md 中，让主助手管理任务分配，使用 claude --resume 和 claude --continue 重启会话。
+5.  Hooks 对于企业级仓库至关重要，使用提交时阻断 Hook 强制验证，避免写入时阻断。复杂变更使用规划模式，确保计划一致。
+6.  Skills 比 MCP 更重要，将 CLI 和脚本暴露给助手，构建基于“脚本化”的助手模型。MCP 作为数据网关，提供高层次的工具，管理安全边界。
+7.  Claude Code SDK 可用于大规模并行脚本处理、构建内部聊天工具和快速助手原型设计，Claude Code GHA 是将 Claude Code 投入运营的终极方式，审查 GHA 日志可以改进助手。
+8.  settings.json 提供高级定制功能，HTTPS_PROXY/HTTP_PROXY 用于调试，提高超时时间，ANTHROPIC_API_KEY 使用企业 API 密钥，并审计自动运行的命令列表。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[直播丨多部门介绍加快场景培育和开放推动新场景大规模应用有关情况]]></title>
-        <link href="https://www.yicai.com/live/102904150.html" />
-        <id>https://www.yicai.com/live/102904150.html</id>
-        <updated>Mon, 10 Nov 2025 14:58:03 +0800</updated>
-        <summary type="html"><![CDATA[关键词： 场景培育, 新场景应用, 大规模应用, 政策支持, 部委协同
+        <title><![CDATA[从重型卡车到空气净化，外企看好中国市场 ｜进博深一度]]></title>
+        <link href="https://www.yicai.com/news/102904564.html" />
+        <id>https://www.yicai.com/news/102904564.html</id>
+        <updated>Mon, 10 Nov 2025 18:03:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词：开放指数，高水平开放，进博会，中国智造，外资机遇
 
 <br><br>总结:
-*  国务院新闻办公室举行政策例行吹风会，介绍关于加快场景培育和开放，推动新场景大规模应用的相关情况。
-*  国家发展改革委副主任李春临以及科技部、工信部、国资委、安徽省、广东省的负责人出席并介绍情况。
-*  会议重点围绕如何通过政策支持和部委协同，促进新技术的应用场景开发和推广。
-*  会议旨在推动新场景的大规模应用，从而促进经济发展和产业升级。
-*  会议还就记者提出的相关问题进行了答疑。
+1. **中国开放指数提升：** 1990年至2024年，中国开放指数显著提升，表明中国对外开放取得显著成效。
+2. **外资企业受益于开放政策：** 外资企业如斯堪尼亚受益于中国取消商用车外资股比限制的政策，得以在华独资建厂，更快地响应市场需求。
+3. **消费市场与技术创新并重：** 外资企业不仅看重中国巨大的消费市场，也关注中国的技术创新能力，希望通过合作，将中国的技术优势推广到全球。
+4. **中国设计反哺全球：** 外资企业将中国的先进设计理念融入全球产品设计中，中国的创新正在赋能企业在全球市场的持续增长。
+5. **抓住中国开放机遇：** 更多企业不断抓住中国市场的开放性，积极拓展商机。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[今晚过后油价重回“7元时代”，加满一箱油将多花5元]]></title>
+        <link href="https://www.yicai.com/news/102904644.html" />
+        <id>https://www.yicai.com/news/102904644.html</id>
+        <updated>Mon, 10 Nov 2025 18:02:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 成品油价，上调，OPEC+，原油库存，经济疲软
+
+<br><br>总结:
+1. 今晚国内成品油价迎来年内第七次上调，汽、柴油每吨分别上调125元、120元，打破此前两连跌局面。
+2. 本次调价后，92号汽油零售价将升至6.9元-7元/升，结束“全面6元时代”，车主和物流企业出行成本将上升。
+3. 国际油价承压下跌，主要受OPEC+上调产量目标、美联储政策分歧导致美元走强、美国原油库存超预期增加等因素影响。
+4. 尽管有OPEC+可能暂停增产的消息，但原油价格整体走跌趋势未变。
+5. 预计下一轮成品油调价下调概率较大，主要因OPEC+增产、全球经济和需求疲软等基本面利空因素持续存在。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[进博会央企“购物车”提质向新，促全球产供链更深度链接]]></title>
-        <link href="https://www.yicai.com/news/102904113.html" />
-        <id>https://www.yicai.com/news/102904113.html</id>
-        <updated>Mon, 10 Nov 2025 14:25:17 +0800</updated>
-        <summary type="html"><![CDATA[央企采购, 进博会, 产业链, 合作, 创新
+        <title><![CDATA[“新三样”股价涨幅不俗，三季报业绩表现突出]]></title>
+        <link href="https://www.yicai.com/news/102904616.html" />
+        <id>https://www.yicai.com/news/102904616.html</id>
+        <updated>Mon, 10 Nov 2025 18:00:24 +0800</updated>
+        <summary type="html"><![CDATA[电力设备, 通信, 新能源, 业绩, 股价
 
 <br><br>总结:
-1. 近百家央企参加进博会，采购规模创新高，体现了更广的朋友圈、更强的创新性、更深的产供链链接。
-2. 国务院国资委强调加强全球产业链供应链合作，央企将在180多个国家和地区深化国际合作，提升开放能力。
-3. 本届进博会首次设立“采购商长廊”，展示央企采购成果和需求，促进全球产供链深度链接。
-4. 中国海油、中国石化等央企签约额创新高，采购结构持续优化升级，技术合作项目增多，体现AI赋能与绿色低碳转型趋势。
-5. 央企将与全球伙伴共建数智创新生态，推动产业链现代化，并加快发展新能源、新材料、低空经济等新兴产业。
+1.  深市“新三样”（电力设备、通信、新能源）行业营收和利润均实现双位数增长，反映中国经济转型。
+2.  二级市场表现良好，“新三样”年内股价普遍上涨，电力设备板块涨幅领先。
+3.  “双碳”目标和技术创新驱动电力设备行业发展，AI热潮带动通信板块增长，新能源领域各细分行业均实现盈利增长。
+4.  思源电气、天赐材料、横店东磁、新易盛、光迅科技、星网锐捷、宁德时代、先导智能、国轩高科、新强联等龙头企业在各自领域表现突出，业绩增长显著。
+5.  电力设备、通信、新能源相关上市公司年内股价涨幅可观，龙头企业引领行业快速发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[聚焦进博会｜密集签约！跨国医疗企业推动创新药加速落地，助力本土研发走向海外]]></title>
-        <link href="https://www.yicai.com/news/102904054.html" />
-        <id>https://www.yicai.com/news/102904054.html</id>
-        <updated>Mon, 10 Nov 2025 14:23:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：跨国药企, 创新药, 慢病, 进博会, 合作
+        <title><![CDATA[龙虎榜丨机构今日买入这17股，卖出新泉股份3.33亿元]]></title>
+        <link href="https://www.yicai.com/news/102904621.html" />
+        <id>https://www.yicai.com/news/102904621.html</id>
+        <updated>Mon, 10 Nov 2025 17:42:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词：龙虎榜, 机构, 净买入, 净卖出, 个股
 
 <br><br>总结:
-1. 跨国药企借助进博会平台，与中国合作伙伴在创新药发展、应对慢病挑战、扩大药品供应等方面达成多项协议，加速药品药械从“展品到商品”的转化。
-2. 跨国药企关注中国高发慢病，如呼吸系统疾病、脂肪肝、脑卒中、心衰等，扩大生态合作，寻求新疗法，如阿斯利康扩建青岛生产基地，勃林格殷格翰与北京友谊医院合作研究脂肪肝，启动上海脑卒中防治计划。
-3. 医疗器械方面，蔡司加入上海创新网络，强生医疗科技引进介入式人工心脏Impella。
-4. 跨国药企关注本土创新药出海，与国内药企探讨中国生物医药全球化路径，提升中国创新药在全球市场的竞争力。
-5. 进博会加速了创新疗法获批上市，得益于中国对科技创新和生物医药产业的全链条政策支持。
+1. 11月10日龙虎榜数据显示，共有38只个股出现机构交易。
+2. 其中17只股票呈现机构净买入，21只股票呈现机构净卖出。
+3. 机构净买入金额前三的股票为华盛锂电、永太科技、天际股份，对应金额分别为2.52亿元、2.04亿元、1.98亿元。
+4. 机构净卖出金额前三的股票为新泉股份、浙江荣泰、香农芯创，对应金额分别为3.33亿元、2.82亿元、2.24亿元。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[英伟达、DeepSeek集体跟进，18个月前被忽视，如今统治AI推理]]></title>
-        <link href="https://www.36kr.com/p/3546706369704069" />
-        <id>https://www.36kr.com/p/3546706369704069</id>
-        <updated>Mon, 10 Nov 2025 12:11:01 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 解耦推理, 大模型推理, DistServe, 模块化智能, 预填充-解码
+        <title><![CDATA[机构看好这家公司利润弹性，毛利率有望修复至19%]]></title>
+        <link href="https://www.yicai.com/vip/news/102904363.html" />
+        <id>https://www.yicai.com/vip/news/102904363.html</id>
+        <updated>Mon, 10 Nov 2025 17:31:00 +0800</updated>
+        <summary type="html"><![CDATA[隐形冠军, 满产复苏, 产品涨价, 储能运营, 抽水蓄能
 
 <br><br>总结:
-1. 北京大学和加州大学圣地亚哥分校团队提出的DistServe解耦推理理念，将大模型推理分为“预填充”和“解码”两个阶段，并在独立的计算资源池中进行伸缩与调度，已被NVIDIA、vLLM等主流框架采用。
-2. 解耦推理打破了同址部署的干扰和耦合伸缩的限制，提高了资源利用率，并降低延迟，满足企业级应用对TTFT和TPOT的需求。
-3. 解耦推理已成为大模型推理的主要设计原则，应用于编排层（NVIDIA Dynamo, llm-d, Ray Serve），存储层（LMCache, MoonCake），核心引擎层（SGLang, vLLM）。
-4. 未来的解耦推理将向“通用分解式推理”发展，包括Attention-FFN解耦、流水线解耦、跨模态与多模型的解耦，以及内存与缓存体系的解耦。
-5. 解耦理念不仅限于推理，还将扩展到训练和持续学习，推动AI系统走向模块化智能，实现不同功能模块的独立演化和优化。
+1. 全球市占率40%的隐形冠军企业已经满产复苏，部分产品价格上涨30%。
+2. 机构看好该公司利润弹性，预计毛利率将从6%修复至19%。
+3. 发现一家稀缺的储能运营公司，拥有在建抽水蓄能1080万千瓦。
+4. 该储能公司净利润复合年增长率（CAGR）为20%。
+5. 分析师强调，该储能公司作为长周期资产，投资价值凸显。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[每人2000美元？特朗普扬言要撒“关税红利”]]></title>
-        <link href="https://www.huxiu.com/article/4802933.html" />
-        <id>https://www.huxiu.com/article/4802933.html</id>
-        <updated>Mon, 10 Nov 2025 12:03:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人工智能，教育，个性化学习，教师角色，未来趋势
+        <title><![CDATA[锂电材料已结构性紧缺！这些产业链公司望核心受益]]></title>
+        <link href="https://www.yicai.com/vip/news/102904292.html" />
+        <id>https://www.yicai.com/vip/news/102904292.html</id>
+        <updated>Mon, 10 Nov 2025 17:26:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 储能, 锂电, 材料, 电子烟, 尼古丁袋
 
 <br><br>总结:
-1. 人工智能正在深刻改变教育领域，提供个性化学习体验的可能性。
-2. 个性化学习的核心是根据学生的独特需求和学习风格定制教育内容和方法。
-3. 人工智能辅助工具可以分析学生数据，从而更好地了解他们的优势和劣势。
-4. 教师的角色也在转变，从知识传递者变为学习引导者和支持者。
-5. 未来教育的趋势是人工智能与人类教师协同合作，实现更高效和个性化的教育。
+*   储能有望带动新一轮锂电周期，相关材料已结构性紧缺，价格上涨。
+*   2025年储能出货量预计超580GWh，头部企业产能利用率高，国内锂电材料产业链公司受益。
+*   欧美禁售一次性电子烟推动尼古丁袋市场发展。
+*   2025年电子烟行业洗牌加速，合规代工龙头订单迎来拐点。
+*   机构看好尼古丁袋产业链的投资机会，包括原料和辅材。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[亚洲AI泡沫“初裂”？韩股给出了第一个危险信号]]></title>
-        <link href="https://www.huxiu.com/article/4802868.html" />
-        <id>https://www.huxiu.com/article/4802868.html</id>
-        <updated>Mon, 10 Nov 2025 12:03:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 信任, 幻觉, 对齐, 可解释性
+        <title><![CDATA[昆明对云南经济增长贡献率5年翻番，“逐步摆脱了房地产依赖”]]></title>
+        <link href="https://www.yicai.com/news/102904599.html" />
+        <id>https://www.yicai.com/news/102904599.html</id>
+        <updated>Mon, 10 Nov 2025 17:20:04 +0800</updated>
+        <summary type="html"><![CDATA[强省会, 昆明, 工业, 南向战略, 数字经济
 
 <br><br>总结:
-1. 大语言模型（LLM）面临着信任危机，主要是因为它们会产生幻觉，即生成不真实或不准确的信息。
-2. 解决信任问题需要确保LLM与人类价值观对齐，避免产生有害或误导性的内容。
-3. 提高LLM的可解释性至关重要，理解其决策过程有助于识别和纠正幻觉的根源。
-4. 构建用户对LLM的信任需要多方面的努力，包括改进训练数据、开发更有效的对齐技术和提高模型的可解释性。
-5. 最终目标是开发出既强大又可靠的LLM，能够安全地应用到各个领域，并为人类社会带来积极的影响。
+1.  云南实施“强省会”战略，昆明对全省经济贡献率显著提升，从2020年的13.3%跃升至2024年的31.9%，发挥了“火车头”作用。
+2.  昆明坚持“大抓产业、主攻工业”，化工、冶金、烟草、数字经济、生物医药五大产业链达到千亿级，产业投资占比大幅提升。
+3.  昆明逐步摆脱房地产依赖，工业和服务业形成“双轮驱动”新格局，工业增加值占GDP比重提升。
+4.  昆明被定位为面向南亚东南亚的区域性中心城市和国际性综合交通枢纽，通过托管磨憨镇，成为全国唯一同时拥有“边境口岸”和“数据口岸”的省会城市，口岸经济快速增长。
+5.  昆明数字经济蓬勃发展，吸引众多龙头企业落地，并积极发展跨境算力服务、国际数据服务、跨境电商等产业，打造跨境数字产业高地。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[马来西亚华语作家黎紫书：我适合在俗世里和俗人打交道]]></title>
-        <link href="https://www.yicai.com/news/102903809.html" />
-        <id>https://www.yicai.com/news/102903809.html</id>
-        <updated>Mon, 10 Nov 2025 11:58:58 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 黎紫书, 《流俗地》, 马华文学, 写作, 俗世
+        <title><![CDATA[多地密集宣布推行中小学春秋假]]></title>
+        <link href="https://www.yicai.com/news/102904591.html" />
+        <id>https://www.yicai.com/news/102904591.html</id>
+        <updated>Mon, 10 Nov 2025 17:12:52 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 春秋假, 中小学, 消费, 托管, 旅游
 
 <br><br>总结:
-1. 黎紫书凭借《流俗地》在中国走红，该书影视化备受期待，但她认为作品完成作者已死，信任导演的改编。
-2. 黎紫书曾为获奖研究“得奖体”，后更注重个人标准，鼓励年轻作家突破创新，不应局限于固定模式。
-3. 黎紫书认为自己不是天才，拥有丰富的人生经历和广阔的接触面，从和“俗人”打交道中获取写作资源。
-4.  她认为对她而言只有写作时，她才是黎紫书，像是过着另一个人的人生，能帮她梳理内在自我和对世界的看法，这是在凡俗生活中很难做到的。
-5.  她认为写作者是为了成就一部好的作品而存在，而不是抱着“用作品成就自己”的心态。
+1.  多地推行中小学春秋假制度，如陕西汉中、四川全省、浙江各地市等，时间多安排在4-5月和10-11月，每次3天左右，可与节假日、双休日衔接。
+2.  江苏等地鼓励有条件的地方探索设置春秋假，与“五一”、“国庆”假期相连，旨在提振消费，商务部等部门也发文鼓励优化学生假期安排。
+3.  设置春秋假有利于学生身心健康，可能带动旅游消费，各地时间可错开以错峰出行，同时要考虑各地气候和实际情况，因地制宜。
+4.  针对家长无暇照顾的问题，多地学校提供托管服务，如佛山等地，免费托管，提供文体活动、校外实践等，解决家长的后顾之忧。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[十四届全国政协教科卫体委员会原副主任杨小伟被双开]]></title>
-        <link href="https://m.thepaper.cn/detail/31930914" />
-        <id>https://m.thepaper.cn/detail/31930914</id>
-        <updated>Mon, 10 Nov 2025 11:04:55 +0800</updated>
-        <summary type="html"><![CDATA[违纪违法、权力寻租、受贿、开除党籍公职、移送起诉
+        <title><![CDATA[从可持续发展到创新引领，德企期待与中国市场高质量发展同频|欧洲企业在上海]]></title>
+        <link href="https://www.yicai.com/news/102904440.html" />
+        <id>https://www.yicai.com/news/102904440.html</id>
+        <updated>Mon, 10 Nov 2025 16:39:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词：德国企业，上海投资，进博会，创新，可持续发展
 
 <br><br>总结:
-1. 杨小伟被查出丧失理想信念，背弃初心使命，违反中央八项规定精神，违规收受礼品，接受宴请；
-2. 他利用职务便利在职工录用等方面为他人谋利并收受财物，纵容亲属利用其影响力谋私利；
-3. 他将公权力异化为谋取私利的工具，大肆收钱敛财，在企业经营、项目竞标、工程承揽等方面为他人谋利，并非法收受巨额财物；
-4. 杨小伟的行为严重违反党的纪律和法律，涉嫌受贿犯罪，且在党的十八大后仍不收敛；
-5. 最终，杨小伟被开除党籍和公职，其违纪违法所得被收缴，涉嫌犯罪问题被移送检察机关审查起诉。
+1. 德国企业加码在上海的投资布局，深度参与中国经济发展，并在进博会上展示创新产品和可持续解决方案，加速全球创新在本土落地。
+2. 汉高在上海张江高科技园区落成启用粘合剂技术创新体验中心，作为其全球第二大创新中心，汇聚大量科研人才，致力于粘合剂等技术的开发与应用。
+3. 汉高消费品亚洲研发中心也在上海落成启用，增强汉高在美发和洗涤剂及家用护理两大业务品类的本土研发能力，并促进灵活的产品创新。
+4. 德企积极推动本地化战略，深化本土合作与研发，持续加大在中国的研发投入，推动技术创新和产品升级，以实现“在中国，为全球”的战略目标。
+5. 中国消费升级潜力、完备的产业链和供应链体系，以及市场的稳定性吸引外资企业持续投资，多数德国企业计划继续在中国运营。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[俞敏洪，再失“中国合伙人”]]></title>
-        <link href="https://www.36kr.com/p/3545507671797638" />
-        <id>https://www.36kr.com/p/3545507671797638</id>
-        <updated>Mon, 10 Nov 2025 07:36:48 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 孙东旭, 东方甄选, 董宇辉, 俞敏洪, 直播电商
+        <title><![CDATA[特朗普搞砸了？美国民主党对华态度大逆转]]></title>
+        <link href="https://www.huxiu.com/article/4803040.html" />
+        <id>https://www.huxiu.com/article/4803040.html</id>
+        <updated>Mon, 10 Nov 2025 16:33:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: LLM, 推理能力, 知识编辑, 神经元, 突触
 
 <br><br>总结:
-1.  东方甄选创始人之一孙东旭正式离职，此前其因“小作文事件”引发争议被免去CEO职务，公司股价受影响，市值大幅蒸发。
-<br><br>2.  孙东旭曾是东方甄选的重要人物，负责搭建直播电商体系，但董宇辉的爆红打破了原本的规划，导致后续矛盾爆发。
-<br><br>3.  “小作文事件”直接导致孙东旭被免职，俞敏洪试图挽留董宇辉，但最终董宇辉选择出走，成立“与辉同行”。
-<br><br>4.  董宇辉离开后，东方甄选面临粉丝流失和业绩下滑的困境，试图摆脱对超级主播的依赖，但效果不佳，直播间“文人气质”消失。
-<br><br>5.  东方甄选开始发展自营产品，想转型“线上山姆”，但增速放缓。俞敏洪暗示公司做得乱七八糟，当前模式依赖抖音平台，并非理想状态。
+1. 大型语言模型(LLM)虽然展现出强大的能力，但在复杂的推理任务中仍存在不足。
+2. 知识编辑旨在修正或更新LLM中存储的错误或过时信息，以提升其准确性和可靠性。
+3. 研究发现可以通过直接操控神经元和突触连接来影响LLM的行为和知识表达。
+4. 通过选择性地修改特定神经元或突触，可以在不影响模型整体性能的前提下，实现对特定知识的精准编辑。
+5. 这种基于神经元和突触的操作为提升LLM的推理能力和实现更精细化的知识编辑提供了新的途径。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[安徽首富，赚翻了]]></title>
-        <link href="https://www.36kr.com/p/3545540042846085" />
-        <id>https://www.36kr.com/p/3545540042846085</id>
-        <updated>Mon, 10 Nov 2025 07:30:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 阳光电源, 曹仁贤, 新能源, 合肥, 光伏
+        <title><![CDATA[不仅仅是AI驱动！“电网心脏”变压器成抢手货，进博会上的能源巨头怎么看]]></title>
+        <link href="https://www.yicai.com/news/102904405.html" />
+        <id>https://www.yicai.com/news/102904405.html</id>
+        <updated>Mon, 10 Nov 2025 16:21:34 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 变压器，电力设备，能源转型，数据中心，第三方市场
 
 <br><br>总结:
-1. 阳光电源股价飙升，市值突破4000亿，成为安徽省内唯一。创始人曹仁贤从合肥工业大学辞职创业，创立阳光电源，旗下还有阳光新能源、阳光氢能两家独角兽。
-2. 阳光电源前三季度营收和净利润大幅增长，主要得益于光伏逆变器和储能业务。海外储能发货占比提升，盈利能力更强。
-3. 阳光电源存在应收账款和存货偏高的问题，并计划赴港IPO，加速全球化战略布局。
-4. 合肥正崛起为新能源重镇，集聚多家整车企业，光伏和储能产业规模突破1800亿元。
-5. 阳光电源的成功是合肥新能源产业发展的一个缩影，全国多座城市正加入新能源产业竞赛。
+1.  全球电力设备需求激增，变压器需求尤其突出，主要原因是能源转型、用电量增加（工业电气化、AI数据中心）以及部分地区电网改造升级。
+2.  中国是主要的变压器出口国，出口额大幅增长，同时也在积极推动环保型电力设备的研发。
+3.  日立等企业在进博会上展示了绿色能源、智慧城市等领域的解决方案，同时也在与中国企业合作开发第三方市场。
+4.  中国“十五五”规划对能源转型至关重要，需要创新技术来构建新能源体系。
+5.  日立等企业与中国合作伙伴在全球范围内开展了多个项目合作，并积极与中国企业合作研发机器人等新技术。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云、内网穿透、VPS部署、UUID、Cloudflare隧道Token<br><br>爪云提供了内网穿透服务，需要在VPS上进行部署。首先需要获取root权限并安装docker。可以选择临时隧道模式或固定隧道模式。固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名。相关docker命令可用于管理容器。视频教程也可帮助学习如何使用爪云和免费域名注册。总之，通过这篇文章可以了解如何使用爪云进行内网穿透，并在VPS上进行部署。<br><br>总结: 爪云提供内网穿透服务，需在VPS上部署，可选择临时或固定隧道模式，需要UUID和Cloudflare隧道Token，docker命令可用于管理容器，视频教程可帮助学习。]]></summary>
+        <title><![CDATA[刘嘉玲为梁朝伟出头，淘宝商家撤下宣传图片]]></title>
+        <link href="https://www.yicai.com/news/102904448.html" />
+        <id>https://www.yicai.com/news/102904448.html</id>
+        <updated>Mon, 10 Nov 2025 16:17:34 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 刘嘉玲 梁朝伟 淘宝 天猫 侵权
+
+<br><br>总结:
+1. 演员刘嘉玲在微博公开指责淘宝、天猫，称其平台上的商家侵权，欺骗消费者。
+2. 名为“ENCARE海外旗舰店”的店铺在天猫双11期间售卖保健品时，未经授权使用了演员梁朝伟和主持人鲁豫的照片。
+3. 该店铺客服回应称，因赞助节目而拥有使用权，并正在与节目组沟通。
+4. 目前，该店铺已下架涉及梁朝伟、鲁豫的相关商品链接，并将此事移交给品牌方处理。
+5. 淘宝方面对此事暂未回应，相关词条已从微博热搜前十消失。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[币圈再动荡！又一美元稳定币脱锚，比特币跌破10万美元，有何启示？]]></title>
+        <link href="https://www.yicai.com/news/102904383.html" />
+        <id>https://www.yicai.com/news/102904383.html</id>
+        <updated>Mon, 10 Nov 2025 16:13:18 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 稳定币, 脱锚, 比特币, 风险, 流动性
+
+<br><br>总结:
+1.  合成稳定币USDX严重脱锚，引发DeFi协议连锁反应和借款利率飙升，同时比特币跌破10万美元，加剧市场动荡。
+2.  USDX脱锚是市场波动中的次生危机，受Elixir项目 deUSD暴跌影响，这类收益型稳定币面临信任危机。
+3.  比特币下跌受宏观因素影响，包括全球资本市场回调、美联储降息预期降温以及比特币ETF资金流出。
+4.  稳定币未来将分化，法币储备型稳定币风险相对可控，但算法型和收益型稳定币面临信任考验，机构背书和合规发行架构的项目可能受益。
+5.  抗风险机制是稳定币的核心议题，稳定币脱锚可能引发流动性危机和市场波动，交易者应关注市场联动性和风险集中度，保持仓位管理与风险控制。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg, 域名, Cloudflare, FreeDNS, 注册<br>
+        <title><![CDATA[中国消费者置顶“财富”和“健康”，国内外品牌怎么应对？]]></title>
+        <link href="https://www.yicai.com/news/102904368.html" />
+        <id>https://www.yicai.com/news/102904368.html</id>
+        <updated>Mon, 10 Nov 2025 16:03:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：国货崛起，性价比，消费理性，AI应用，健康财富
+
+<br><br>总结:
+1.  国货在美妆、3C等领域全面崛起，消费者购买国货的主要动力是性价比高、产品有特色和文化自信。
+2.  消费者消费观念趋于理性，追求“可被验证”的性价比，对营销内容敏感度降低，更看重产品特色和服务。
+3.  疫情和就业压力使人们更加关注健康和财富，年轻人尤其明显，消费决策也随之改变。
+4.  近八成中国消费者高频使用AI工具，品牌应利用AI技术追踪需求变化、促进产品共创，构建与消费者的共生关系。
+5.  品牌应明确定位，提供“有理由的溢价”，在生活触点中提供高质量陪伴，通过AI、大数据构建智能用户画像，实现个性化互动，并建立负责任的AI治理框架。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[直击进博会｜从绿色工厂到智慧医院，人工智能全面融入中国基础设施]]></title>
+        <link href="https://www.yicai.com/news/102904284.html" />
+        <id>https://www.yicai.com/news/102904284.html</id>
+        <updated>Mon, 10 Nov 2025 15:40:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 人工智能, 工业, 医疗, 数据, 智能装备
+
+<br><br>总结:
+1. 跨国科技巨头如西门子、欧姆龙、蔡司等在进博会上展示了融入人工智能的创新解决方案，覆盖工业、医疗等领域。
+2. 西门子推出了生成式工业人工智能助手，并与中国企业合作开发AI智能体系统，致力于提升生产效率，关键在于搭建工业基础模型和推动数据共享。
+3. 奥的斯发布了巡检具身智能体，并聚焦基础设施现代化，与多家企业签约，加速人工智能研发。
+4. 欧姆龙展示了机器人高速多点检查解决方案和工件追溯系统等技术，为制造现场提供智能化解决方案。
+5. 蔡司发布了高端数字导航手术显微镜，提升光学分辨率，为复杂手术提供支持，智慧医院是发展趋势。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[高市早苗暗示武力介入台海可能性，外交部：性质和影响极其恶劣]]></title>
+        <link href="https://m.thepaper.cn/detail/31932249" />
+        <id>https://m.thepaper.cn/detail/31932249</id>
+        <updated>Mon, 10 Nov 2025 15:40:42 +0800</updated>
+        <summary type="html"><![CDATA[台湾问题, 集体自卫权, 中日关系, 中国内政, 严重交涉
+
+<br><br>总结:
+1. 日本首相高市早苗暗示武力介入台海可能性，中方认为此举粗暴干涉中国内政，违背一个中国原则。
+2. 中方对此表示强烈不满和坚决反对，已向日方提出严正交涉和强烈抗议。
+3. 中方强调台湾问题纯属中国内政，不容外部势力干涉。日方言论可能向“台独”势力发出错误信号。
+4. 今年是中国人民抗日战争胜利80周年，日方妄图介入台海事务是对国际正义的践踏。
+5. 中国终将统一，中国人民有能力粉碎一切阻挠中国统一的图谋，敦促日方停止干涉中国内政。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[幼儿园园长贪污千万案二审再开庭：一审被判11年，是否“租赁园”引争论]]></title>
+        <link href="https://m.thepaper.cn/detail/31931601" />
+        <id>https://m.thepaper.cn/detail/31931601</id>
+        <updated>Mon, 10 Nov 2025 14:44:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 贪污, 幼儿园, 租赁合同, 国企, 园长
+
+<br><br>总结:
+1. 孟希娟被指控贪污1079万元，一审被判刑11年，案件争议焦点在于她究竟是国企委派人员还是幼儿园的租赁承包人。
+2. 检方认为孟希娟作为国企委派负责人，通过骗签合同非法占有幼儿园收益；孟希娟方则坚称其是合法的租赁承包人，使用幼儿园收益款不构成犯罪，并提供了有效的承租合同。
+3. 庭审中补充证据显示，偏转幼儿园管理权已返还偏转电子公司，且幼教集团存在多家“租赁园”，证明孟希娟承包经营并非孤例，不存在主观犯罪故意。
+4. 孟希娟家属表示，在案发前，无论是出租方还是承租方都认为合同有效，幼教集团甚至曾通过律师函等方式追讨租赁费，说明双方租赁关系的客观存在。
+5. 二审尚未宣判。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[狗也被AI抢饭碗？好莱坞动物演员全下岗，观众直接翻脸了]]></title>
+        <link href="https://www.36kr.com/p/3546711051677826" />
+        <id>https://www.36kr.com/p/3546711051677826</id>
+        <updated>Mon, 10 Nov 2025 12:08:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI, 动物演员, 好莱坞, 替代, 数字替身
+
+<br><br>总结:
+1.  AI技术正在好莱坞取代动物演员，越来越多的制片厂选择使用AI和CGI生成动物表演，导致动物训练行业受到冲击。
+2.  AI动物无需训练、保险和监管，成本更低，效率更高，尤其在疫情后影视业降本增效的背景下，成为理想的替代品。
+3.  支持者认为AI可以减少动物在片场的痛苦，PETA等机构也表示支持。但另一方面，AI也让靠动物表演谋生的人失去工作，并引发了对AI替代人类演员的担忧。
+4.  虽然AI制作的动物表演更加完美，但却失去了真实动物的呼吸、眨眼、犯错等细节，从而减少了情感连接，使影像变得冰冷。
+5.  AI替代动物演员，反映了我们正在逐渐接受虚拟比真实更省事、更干净的趋势，这可能导致我们失去相信生命力重要的能力。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长]]></title>
+        <link href="https://wallstreetcn.com/articles/3759012" />
+        <id>https://wallstreetcn.com/articles/3759012</id>
+        <updated>Mon, 10 Nov 2025 08:24:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 美国投资者, 日本股市, 资金流入, 科技股, 估值
+
+<br><br>总结:
+1. 美国投资者正加速流入日本股市，速度达到“安倍经济学”以来最快。
+2. 日股以美元计价的回报率远超标普500，吸引了大量外国资金。
+3. 高盛认为市场驱动力或从价值股转向成长股，美国投资者的偏好是关键。
+4. 花旗警告日本科技股估值过热，盈利能力未能跟上股价上涨。
+5. 市场可能面临回调，日经指数或回落。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, Github注册时间, 免费容器, 5美元赠金, 应用商店<br>
+总结: Claw Cloud Run是一款免费容器，用户只需拥有Github注册时间大于180天即可每月获得5美元赠金，实现长期免费使用。通过查看Github注册时间，用户可以确认自己的注册日期。在Claw Cloud Run上可以搭建各种Docker应用，支持一键自动部署或手动部署。推荐部署的两款应用分别是轻笔记应用Memos和网盘挂载工具AList。详细内容可观看Youtube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录方式
+
+谷歌云提供免费VPS政策，注册并验证账号后，创建完全免费的VM实例，设置开放防火墙和SSH登录方式。建议选择合适的地区、机器配置和操作系统，注意存储空间配置要改为“无备份”以避免费用。对于科学上网需求，建议使用Hysteria 2节点，注意免费政策和节点搭建方法。整个过程详细内容可见视频。<br><br>总结: 谷歌云提供免费VPS政策，注册验证账号后创建VM实例设置防火墙和SSH登录方式，科学上网需使用合适节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[Github仓库、Cloudflare、域名、SSL证书、续期
 <br>
-总结: us.kg免费域名目前无法访问，已注册的域名仍然存在，新的域名可以托管到Cloudflare，临时托管可以使用FreeDNS，现在仍然可以注册us.kg域名，两种域名注册方式有所区别。]]></summary>
+美国公司DigitalPlat推出的服务，用户可获取免费或收费的域名，也可使用us.kg域名，续期免费。用户需到Github仓库注册并获取域名，Cloudflare提供Pages自定义域和SSL证书服务。新用户可获得1个免费域名，加Star后增至2个，老用户可获得3个免费域名，加Star后增至4个。us.kg域名不占用免费域名额度，每年都需续期。详细教程可在Youtube视频中了解。总结：DigitalPlat提供免费域名服务，用户需在Github仓库注册获取；Cloudflare提供Pages自定义域和SSL证书服务；用户可选用两种域名，免费域名有数量限制；us.kg域名需每年续期。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00、科学上网节点、Cloudflare固定隧道、CDN回源、网页保活<br>
-Serv00是一个免费的科学上网服务，通过搭建科学上网节点和使用Cloudflare固定隧道来实现网站的加速访问。通过CDN回源将服务器IP解析到Serv00的IP，实现加速访问。同时通过网页保活和Cloudflare远程保活方式，可以保持网站的稳定运行。详细操作步骤包括注册登录Serv00，搭建科学上网节点，设置Cloudflare固定隧道，配置CDN回源以及设置网页保活和Cloudflare远程保活功能。通过以上步骤，可以实现网站加速访问和稳定运行。 <br><br>总结:]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名，注册，KYC验证，Cloudflare，教程
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[HostUNO、稳定性、速度、保活、ChatGPT
 <br>
-US.KG域名现在处于受限状态，可以先在https://dash.domain.digitalplat.org/注册和完成KYC验证。注册步骤包括注册账号，验证邮箱，KYC验证，注册域名，并托管到Cloudflare。视频详细展示了整个流程，包括免费续订域名和免费域名的优缺点。待域名状态恢复后，可以使用托管在Cloudflare的US.KG域名。]]></summary>
+本视频对HostUNO进行了综合评价，涉及稳定性、速度、购买流程、节点测速等方面。主持人就价格、总体体验、购买流程、修改密码等方面进行了详细介绍。在使用过程中发现ChatGPT可能存在降智问题，需要谨慎使用。视频中还介绍了续费方法和总结观点。总的来说，HostUNO在稳定性和速度方面表现良好，且购买流程简单，用户体验较好。但在使用ChatGPT时需注意降智问题。如果需要此类服务，可以考虑购买HostUNO。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, 网页端, API, Perplexity, 本地部署 <br>
-Deepseek是一个强大的工具，可用于网页端和APP，提供API给开发者使用，也可以用于Perplexity等应用。用户可以选择进行本地部署，采用Ollama进行安装并运行。总体而言，Deepseek提供了丰富的功能和选择，满足用户不同的需求。 <br><br>总结: Deepseek可以用于网页端和APP，提供API给开发者使用，也可进行本地部署，是一个功能强大的工具。]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[US.KG、免费域名注册、身份信息生成器、Cloudflare、优惠码<br>
+<br>
+US.KG注册不了，推荐另一个免费域名注册方法。使用身份信息生成器辅助注册账号，购买域名时输入优惠码(newuser)可享受一年免费。然后将域名托管到Cloudflare，登录Cloudflare添加域名，并填入分配的两个名称服务器。详细教程可参考Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
