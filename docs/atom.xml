@@ -2,331 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-10T14:22:10Z</updated>
+    <updated>2025-11-10T16:28:57Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[巴西刚刚换首都了，12天之后还要换]]></title>
-        <link href="https://www.huxiu.com/article/4803232.html" />
-        <id>https://www.huxiu.com/article/4803232.html</id>
-        <updated>Mon, 10 Nov 2025 21:03:51 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大型语言模型, 法律行业, 效率, 成本, 风险
+        <title><![CDATA[独家揭秘 6 位工程师的 AI 工作流：流程比工具更重要]]></title>
+        <link href="https://juejin.cn/post/7568498994801852416" />
+        <id>https://juejin.cn/post/7568498994801852416</id>
+        <updated>Tue, 04 Nov 2025 15:55:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI编码工具，工作流，AI Agent，规划，执行
 
 <br><br>总结:
-1. 大型语言模型（LLM）在法律行业具有提高效率的潜力，例如协助进行法律研究和文件审查。
-2. LLM的使用可以降低法律服务的成本，从而使更多人能够获得法律服务。
-3. 然而，LLM也带来了风险，包括数据隐私问题、模型偏见和对专业法律判断的依赖。
-4. 法律行业需要仔细评估和管理这些风险，以确保LLM的使用符合道德和法律要求。
-5. 虽然LLM能够辅助法律工作，但不能完全替代律师的专业知识和判断力。
-]]></summary>
+1.  **工具选择与平衡：** 开发者不再依赖单一AI工具，而是根据任务性质（探索或执行）选择合适的工具，如Claude Code擅长解释和拆解问题，Codex擅长快速准确执行任务。
+2.  **流程规划与分层：** 强调“计划先行”，使用AI工具生成详细计划，并根据功能复杂度进行分层，以高效利用资源。例如，小型功能AI可一次性完成，大型功能需要大量人工参与。
+3.  **上下文管理与反馈：** 通过记录学习文档，为AI提供近期上下文，提高AI的上下文感知能力，使其建议更贴合项目状态和技术思考。
+4.  **人机协作与审查：** 强调人机协作，如在GitHub上进行代码审查，让AI读取评论并协同修复，形成人机协作的审查模式。
+5.  **专注与监控：** 有开发者推崇极致专注，在单台设备上工作，并像“鹰一样”监控AI工作，随时介入，减少AI幻觉，提升自身技能。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[GLP-1之后，巨头卷向下一代减重药]]></title>
-        <link href="https://www.yicai.com/news/102904886.html" />
-        <id>https://www.yicai.com/news/102904886.html</id>
-        <updated>Mon, 10 Nov 2025 20:53:28 +0800</updated>
+        <title><![CDATA[LangChain1.0速通指南（三）——LangChain1.0 create_agent api 高阶功能]]></title>
+        <link href="https://juejin.cn/post/7569858467469705267" />
+        <id>https://juejin.cn/post/7569858467469705267</id>
+        <updated>Sat, 08 Nov 2025 11:41:36 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[汉堡王中国也被卖了！投过蜜雪冰城的CPE源峰将持股约83%]]></title>
-        <link href="https://www.yicai.com/news/102905010.html" />
-        <id>https://www.yicai.com/news/102905010.html</id>
-        <updated>Mon, 10 Nov 2025 20:53:07 +0800</updated>
-        <summary type="html"><![CDATA[汉堡王，CPE源峰，中国市场，门店扩张，合资企业
+        <title><![CDATA[国务院双碳白皮书详解中国减碳路径，这些行业未来市场规模或扩容]]></title>
+        <link href="https://www.yicai.com/news/102905116.html" />
+        <id>https://www.yicai.com/news/102905116.html</id>
+        <updated>Mon, 10 Nov 2025 21:31:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 碳达峰、碳中和、碳市场、非化石能源、电力系统
 
 <br><br>总结:
-1. CPE源峰与汉堡王达成战略合作，成立合资企业“汉堡王中国”，CPE源峰持股83%，RBI持股17%。
-2. CPE源峰将向汉堡王中国注资3.5亿美元，用于门店扩张、市场营销、菜单创新和运营提升。
-3. 汉堡王中国计划在2035年将门店数量从目前的1250家拓展至4000家以上。
-4. CPE源峰在中国连锁消费服务领域投资经验丰富，已投资多家知名企业。
-5. 交易预计于2026年第一季度完成，中外合资助力国外品牌在中国市场发展或成趋势。
+1. 中国在碳减排政策、可再生能源发展、新能源产业链建设、新能源汽车推广应用等方面取得了显著成就。
+2. 碳市场建设不断夯实，覆盖范围扩大，预计到2035年可完成80%的减排目标，引入配额拍卖能降低成本并提高相关行业产品价格。
+3. 非化石能源消费比重显著提升，风电、光伏发电装机规模大幅增长。
+4. 电力系统综合调节能力增强，跨区跨省输电量增加，配电网改造升级加快，电力需求侧响应能力提升，新型储能建设规模扩大。
+5. 虚拟电厂、储能等新型主体将规模化发展，商业模式多元化，配电网将成为源网荷储融合的平台，助力电力系统综合调节。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[理财产品收益率“注水”，实际到手缩水超1个百分点]]></title>
-        <link href="https://www.yicai.com/news/102905028.html" />
-        <id>https://www.yicai.com/news/102905028.html</id>
-        <updated>Mon, 10 Nov 2025 20:35:41 +0800</updated>
+        <title><![CDATA[时隔8年再战全运会，孙杨400米自由泳决赛位居第6]]></title>
+        <link href="https://m.thepaper.cn/detail/31932693" />
+        <id>https://m.thepaper.cn/detail/31932693</id>
+        <updated>Mon, 10 Nov 2025 19:14:38 +0800</updated>
+        <summary type="html"><![CDATA[孙杨，全运会，400米自由泳，张展硕，复出
+
+<br><br>总结:
+1. 孙杨在粤港澳全运会男子400米自由泳决赛中获得第六名，成绩为3分49秒53。
+2. 山东队张展硕以3分42秒82夺冠，并打破世界青年纪录和全国青年纪录。
+3. 孙杨此前保持着该项目的亚洲纪录和全国纪录。
+4. 孙杨去年结束禁赛期复出，并在今年全国游泳冠军赛有所斩获。
+5. 孙杨以预赛第八名惊险晋级决赛，并且参加了接力预赛，短时间内的连续作战对体能是挑战。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[中国船舶邀请26年前捐140元造航母的“小朋友”参观，附赠福建舰入列纪念手表]]></title>
+        <link href="https://m.thepaper.cn/detail/31933535" />
+        <id>https://m.thepaper.cn/detail/31933535</id>
+        <updated>Mon, 10 Nov 2025 18:46:02 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[长护险迎“十五五”新机遇，AI赋能破解照护难题]]></title>
-        <link href="https://www.yicai.com/news/102905027.html" />
-        <id>https://www.yicai.com/news/102905027.html</id>
-        <updated>Mon, 10 Nov 2025 20:35:26 +0800</updated>
+        <title><![CDATA[促进民间投资，国办最新发声！]]></title>
+        <link href="https://wallstreetcn.com/articles/3759050" />
+        <id>https://wallstreetcn.com/articles/3759050</id>
+        <updated>Mon, 10 Nov 2025 17:29:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 民间投资, 政策支持, 中小企业, 科技创新, 基础设施
+
+<br><br>总结:
+1. 鼓励民间资本参与铁路、核电等重点领域项目，并明确持股比例，同时引导其参与低空经济、商业航天等新兴产业。
+2. 政府将加大政府采购对中小企业的支持力度，确保超过40%的工程采购预算面向中小企业，并鼓励提高合同预付款比例。
+3. 支持民营企业建设中试平台，推动数字化转型，同时鼓励国有企业、高校等提供市场化中试服务。
+4. 持续落实科技型企业上市融资“绿色通道”政策，支持民间投资项目发行基础设施REITs。
+5. 将加大中央预算内投资对符合条件的民间投资项目的支持力度，并发挥引导带动作用，用好新型政策性金融工具。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”]]></title>
+        <link href="https://wallstreetcn.com/articles/3759030" />
+        <id>https://wallstreetcn.com/articles/3759030</id>
+        <updated>Mon, 10 Nov 2025 15:07:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：AI热潮, 宏观泡沫, 投资规模, 企业盈利, 风险对冲
+
+<br><br>总结:
+1. 高盛认为当前AI驱动的美股涨势不像1999-2000年的宏观泡沫，更像1997-1998年的泡沫中期，原因是当时导致泡沫破裂的关键宏观失衡现象尚未出现。
+2.  与90年代末相比，当前AI相关投资占GDP比重较小，企业盈利能力稳固，企业财务状况相对健康，外部环境缺乏资本涌入催化剂，信贷利差与波动率保持低位。
+3.  虽然不像泡沫，但报告提示“1998年式”拐点信号，如AI投资加速、企业财务平衡临近拐点、债务融资抬头及可能出现的外部资金和宽松政策，风险正在积聚。
+4.  投资者应利用低波动率环境，使用期权策略捕捉上涨潜力并限制下行风险，提前布局信贷利差扩大或长期股权波动率上升的对冲仓位。
+5.  关注利率市场的双向风险，因为AI投资热潮可能推高长期利率，但如果AI热潮受挫，政策利率和长期收益率可能会大幅走低。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[严管借调借用、精简数据填报，教育部进一步为中小学教师减负]]></title>
+        <link href="https://m.thepaper.cn/detail/31930929" />
+        <id>https://m.thepaper.cn/detail/31930929</id>
+        <updated>Mon, 10 Nov 2025 11:11:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词：减负, 教师, 督查, 白名单, 课后服务
+
+<br><br>总结:
+1.  **发文审核：** 建立严格涉校涉师发文审核机制，避免超出教师职责范围的工作布置，实行发文与基层减负一致性评估机制。
+2.  **督查清单：** 规范督查检查评比考核，执行年度清单管理制度，未经备案不得开展，杜绝重复检查，不得以各种名义变相开展督查考核。
+3.  **社会事务进校园：** 实行社会事务进校园白名单制度，严格控制进校园活动次数和内容，严禁强制要求师生参与与教育教学无关的活动。
+4.  **教师借调管理：** 严格中小学教师借调借用管理，限制借调时间和程序，建立清理机制，规范社会考试和教师监考任务，减少非教育教学培训。
+5.  **精简数据填报：** 精简数据填报与应用程序使用，规范教育政务移动应用管理，集中清理，整合教育数据平台，统筹管理面向教师的填表、报数等活动。
+6.  **课后服务保障：** 健全教师课后服务保障机制，保障教师合理待遇，实行弹性上下班制，不得与职称评定等硬性挂钩。
+7.  **减负监测：** 完善教师减负监测核查机制，列入督导评估，畅通问题反映渠道，建立监测点，对问题频发地区进行约谈通报。
+8.  **协同治理：** 强化多部门协同治理机制，发挥党委教育工作领导小组作用，纳入干部考核评价，强化舆情管理，营造尊师重教氛围。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[何为进博｜近悦远来，流量何以变“留量”]]></title>
+        <link href="https://m.thepaper.cn/detail/31927399" />
+        <id>https://m.thepaper.cn/detail/31927399</id>
+        <updated>Mon, 10 Nov 2025 06:58:14 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 进博会, 文旅联动, 展商, 文化交流, 消费
+
+<br><br>总结:
+1.  第八届进博会专业观众达44.95万人，促进全球经贸合作和文旅融合。
+2.  外国展商通过进博会体验上海文旅，如游览外滩、豫园，品尝中国美食，学习中文，行程不再局限于工作。
+3.  进博会带动周边商圈消费增长，尤其是具有中国特色的瓷器、手工艺品等受到欢迎，客流和销售额均有提升。
+4.  进博会馆内，各省市文旅元素与经贸产品同台展示，国家展区也有异国风情表演，促进文化交流。
+5.  上海推出“进博专享·溢出联动”项目，包括政策包、精品旅游项目和活动，旨在将“进博流量”转化为“文旅留量”，促进人文交流和未来的“再相逢”。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[因剪辑拼接特朗普视频，BBC高管辞职]]></title>
+        <link href="https://m.thepaper.cn/detail/31929721" />
+        <id>https://m.thepaper.cn/detail/31929721</id>
+        <updated>Mon, 10 Nov 2025 03:33:17 +0800</updated>
+        <summary type="html"><![CDATA[BBC, 特朗普, 演讲视频, 剪辑, 辞职
+
+<br><br>总结:
+1. BBC总裁蒂姆·戴维与新闻部门首席执行官黛博拉·特内斯因《全景》栏目涉嫌误导观众而辞职。
+2. 导火索是BBC被指控通过剪辑拼接特朗普2021年1月6日的演讲视频，使其看起来像是在煽动国会山暴乱。
+3. BBC内部备忘录披露，该视频在去年美国大选前一周播出，被指“制造了一种假象”，使观众误以为特朗普说了实际上没说的话。
+4. 蒂姆·戴维表示，BBC虽然运转良好，但也出现了一些失误，作为总裁他必须承担最终责任。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[VPS部署、爪云、内网穿透、Docker、UUID<br>
+总结: 通过安装Docker获取root权限，可以使用临时或固定隧道模式进行内网穿透，准备UUID、Cloudflare隧道Token和隧道域名，然后在VPS上运行相应命令来部署。使用相关docker命令可以查看、停止或删除容器。该文章提供了爪云注册链接、免费域名注册链接以及视频教程，帮助用户轻松了解和使用爪云及内网穿透功能。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美国30年来首次缺席国际气候谈判，COP30如何研判“交卷年”？]]></title>
-        <link href="https://www.yicai.com/news/102905002.html" />
-        <id>https://www.yicai.com/news/102905002.html</id>
-        <updated>Mon, 10 Nov 2025 20:24:42 +0800</updated>
-        <summary type="html"><![CDATA[关键词：COP30, 《巴黎协定》，NDC，气候融资，美国缺席
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg、注册地址、Cloudflare、FreeDNS、域名托管
 
-<br><br>总结:
-1.  COP30在巴西贝伦召开，是《巴黎协定》达成10周年，各国提交新一轮NDC的年份，旨在评估减缓和适应行动的进展，并将1.5℃目标转化为实际行动。
-2.  美国自1995年来首次缺席COP会议，欧盟气候变化专员称之为“分水岭时刻”，并对特朗普政府反对欧洲气候目标表示震惊。
-3.  现有NDC无法实现1.5℃温控目标所需的减排量，COP30重点是提交新一轮NDC，提高减排目标和实施措施，加大对清洁能源的投资。
-4.  会议将审议各国气候计划，推进实现每年1.3万亿美元的气候融资目标，解决气候适应资金短缺问题，动员公共和私人资金。
-5.  《巴库至贝伦1.3万亿美元路线图报告》提出五项资源动员优先方向，包括充实多边气候基金、加强对污染活动征税的国际合作以及将主权债务转化为气候投资。但美国退出《巴黎协定》造成资金缺口。
-]]></summary>
+us.kg免费域名目前已经挂了，但已注册的域名仍然存在。新的域名可以托管到Cloudflare，也可以临时托管到FreeDNS。已注册的域名可以继续使用，同时也可以注册新的域名。区别在于使用Cloudflare可以享受更多功能和服务。总的来说，us.kg域名可以继续使用，也可以注册新的域名，并可以选择托管到Cloudflare获取更多服务。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[鼓励支持民资参与铁路、核电等项目，13条新举措扩大民资准入]]></title>
-        <link href="https://www.yicai.com/news/102905000.html" />
-        <id>https://www.yicai.com/news/102905000.html</id>
-        <updated>Mon, 10 Nov 2025 20:24:22 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 民间投资, 低空经济, 政策利好, 扩大准入, 要素保障
-
-<br><br>总结:
-1. 国务院发布《关于进一步促进民间投资发展的若干措施》，旨在激发民间投资活力。
-2. 《若干措施》从扩大准入方面，鼓励民间资本参与铁路、核电、低空经济等领域建设，并明确持股比例。
-3. 《若干措施》从打通堵点方面，保障民营企业在电力并网、油气管网使用等方面的合法权益，支持民营企业数字化升级。
-4. 《若干措施》从强化保障方面，加大中央预算内投资和新型政策性金融工具支持力度，支持民营企业上市融资和发行基础设施REITs。
-5. 国家发改委等部门已建立重点民间投资项目库，并积极向民间资本推介项目，总投资额达10.27万亿。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[首版创新药目录将发布：药企“让利”保司，患者获益几何丨“病有所保”大调研]]></title>
-        <link href="https://www.yicai.com/news/102904995.html" />
-        <id>https://www.yicai.com/news/102904995.html</id>
-        <updated>Mon, 10 Nov 2025 20:17:52 +0800</updated>
-        <summary type="html"><![CDATA[**关键词:** 商保创新药目录，价格协商，折扣返还，理赔责任，价格保密
-
-<br><br>总结:
-1.  首版商保创新药目录即将发布，旨在提高创新药可及性和多元支付能力，实现药企、保司、患者多方共赢。
-2.  目录落地面临两大挑战：理顺协商价格与理赔责任的关系，明确药企折扣让利的返还机制。
-3.  创新药企通过承诺折扣给保司，以换取药品在商保目录中的优先位置，并对谈判价格实施保密。
-4.  业界对折扣返还保司的路径存在疑问，担心影响参保人理赔金额，以及折扣是否为固定折扣。
-5.  保司需提升理赔系统能力，精准识别药品使用情况，打通折扣返还路径，确保价格保密，或有中间方参与。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一财社论：民企要把握场景开放新机遇]]></title>
-        <link href="https://www.yicai.com/news/102904963.html" />
-        <id>https://www.yicai.com/news/102904963.html</id>
-        <updated>Mon, 10 Nov 2025 20:09:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 场景培育, 民营企业, 政策支持, 创新发展, 开放共享
-
-<br><br>总结:
-1.  国家出台《实施意见》，加大场景开放力度，支持民营企业发掘市场需求，探索拓展新场景，并明确5个方面22类重点领域，涵盖数字经济、人工智能等新领域。
-2.  政策上要完善场景资源配置规则，促进各类主体公平参与，清除地域、业绩、规模、企业性质等方面的违规限制，消弭不同所有制企业的“待遇差别”。
-3.  鼓励国有企业主动开放主业领域场景，吸引民营企业参与，促进场景资源市场化配置。
-4.  民营企业需加大研发投入，在关键领域占领技术和服务制高点，并充分运用政策支持，维护自身权益。
-5.  民营企业要以自身创新发展不断丰富新场景的培育，与国家政策支持共同成就发展机遇。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[人工智能应用是“十五五”发展关键引擎]]></title>
-        <link href="https://www.yicai.com/news/102904956.html" />
-        <id>https://www.yicai.com/news/102904956.html</id>
-        <updated>Mon, 10 Nov 2025 20:08:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人工智能+，全要素生产率，应用赋能，数据要素，科技自立自强
-
-<br><br>总结:
-1. “十五五”规划建议高度重视人工智能，提出全面实施“人工智能+”行动，赋能千行百业。
-2. 国家战略导向从技术转向应用，明确科学技术、产业发展、消费提振、民生福祉、治理能力与全球合作六大主攻方向。
-3. 人工智能通过重塑生产要素价值，推动数据转化为新型生产要素，催生新质生产力，并以数智化手段构建现代化产业体系。
-4. 大力推进“人工智能+”战略，有助于构建自主可控的人工智能技术体系和产业生态，抢占全球科技竞争制高点。
-5.  AI应用普及仍面临挑战，包括数据孤岛、模型算法成熟度不足以及算力短缺等问题，需要通过机制创新、技术突破和集约化发展来解决。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[三季度产业景气观察：企业投资阵地往前推了半步]]></title>
-        <link href="https://www.yicai.com/news/102904953.html" />
-        <id>https://www.yicai.com/news/102904953.html</id>
-        <updated>Mon, 10 Nov 2025 20:08:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词：产业景气，备货修复，外需缓和，政策预期，结构性起跑
-
-<br><br>总结:
-1.  三季度产业景气指数持平，但企业生产和库存出现“备货式修复”，呈现“评价谨慎、行为修复”的特点。
-2.  企业预期略有上升，但市场需求不足、竞争激烈、政策不确定等因素依然存在，成本抬升，利润修复依赖结构与效率。
-3.  企业投资评价谨慎，但扩张型投资意愿有所抬头，贷款利率降低，企业推进轻量级投资。
-4.  四季度外部环境趋缓，中美贸易摩擦影响钝化， “十五五”规划建议为中长期产业与投资提供政策锚点。
-5.  四季度企业有望迎来“结构性起跑”，外部不确定性降低，资金面宽松，长期支出转向质量扩张，需关注成本价格剪刀差和库存周转。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[行业标准全国首发，全新视角解读中美贸易，2025进博会上海会议成为全球经贸“风向标” ｜一览·进博会]]></title>
-        <link href="https://www.yicai.com/video/102904976.html" />
-        <id>https://www.yicai.com/video/102904976.html</id>
-        <updated>Mon, 10 Nov 2025 20:07:44 +0800</updated>
-        <summary type="html"><![CDATA[进博会, 上海, 会议活动, 成果, 交流
-
-<br><br>总结:
-*   2025进博会上海会议活动在第八届进博会期间成功举办。
-*   本次会议活动包含100多场边会，汇聚200余位各界领军人物。
-*   发布了超过60项重要成果，包括报告、指数、联盟、平台和签约项目。
-*   实现了进博会与上海主场的紧密融合与互动。
-*   第一财经记者通过走访边会，从首发成果和报告解读等多维度呈现了“上海声音”。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[基金业绩年末冲刺战况激烈，“流量阀”调控暗藏玄机]]></title>
-        <link href="https://www.yicai.com/news/102904954.html" />
-        <id>https://www.yicai.com/news/102904954.html</id>
-        <updated>Mon, 10 Nov 2025 20:01:43 +0800</updated>
-        <summary type="html"><![CDATA[关键词：基金公司, 流量阀, 业绩冲刺, 申购限制, 市场震荡
-
-<br><br>总结:
-1. 临近年底，A股震荡，主动权益基金迎来业绩冲刺，首尾业绩差距巨大。
-2. 基金公司动态调整“流量阀”，部分绩优基金放开大额申购，部分基金收紧申购门槛。
-3. 放开申购或因看好后市，收紧申购为稳定规模和业绩。
-4. 业内人士对后续权益市场保持乐观，建议均衡风格应对市场轮动，短期调整或是布局良机。
-5. 招商基金预计四季度为震荡结构性慢牛行情，建议均衡配置，关注低位板块和科技主线。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[百度第二次做AI眼镜，售价超过2000元]]></title>
-        <link href="https://www.yicai.com/news/102904921.html" />
-        <id>https://www.yicai.com/news/102904921.html</id>
-        <updated>Mon, 10 Nov 2025 19:57:05 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[增程车销售占比连续5个月下跌]]></title>
-        <link href="https://www.yicai.com/news/102904652.html" />
-        <id>https://www.yicai.com/news/102904652.html</id>
-        <updated>Mon, 10 Nov 2025 19:48:17 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[百度萝卜快跑启动阿布扎比全无人商业化运营]]></title>
-        <link href="https://www.yicai.com/news/102904916.html" />
-        <id>https://www.yicai.com/news/102904916.html</id>
-        <updated>Mon, 10 Nov 2025 19:47:58 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[薛之谦创立的火锅店仅剩最后一家，明星开餐厅为何常常“红极一时”？]]></title>
-        <link href="https://www.yicai.com/news/102904852.html" />
-        <id>https://www.yicai.com/news/102904852.html</id>
-        <updated>Mon, 10 Nov 2025 19:45:25 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[加纳巧克力借零关税叩开中国市场 非洲商人首次来华点赞进博：这是全球最好的贸易展会｜一览·进博会]]></title>
-        <link href="https://www.yicai.com/video/102904909.html" />
-        <id>https://www.yicai.com/video/102904909.html</id>
-        <updated>Mon, 10 Nov 2025 19:44:51 +0800</updated>
-        <summary type="html"><![CDATA[进博会, 非洲, 加纳, 可可, 贸易
-
-<br><br>总结:
-1. 第八届进博会非洲最不发达国家参展商收获颇丰，加纳巧克力商首次参展即受中国消费者欢迎。
-2. 进博会被誉为中非贸易的“双赢桥梁”，解决了非洲出口商对接中国市场难的问题。
-3. 本届进博会最不发达国家参展企业数量增加，非洲产品专区扩大，并享受中国零关税政策。
-4. 2025年上半年中国自非洲进口可可产品金额可观，加纳占比近四成。
-5. 进博会推动加纳从可可原料出口向高附加值成品贸易转型。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[河南一公司将592吨强酸废液偷排至城市窨井等处，多人获刑]]></title>
-        <link href="https://m.thepaper.cn/detail/31932148" />
-        <id>https://m.thepaper.cn/detail/31932148</id>
-        <updated>Mon, 10 Nov 2025 16:31:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词：废酸倾倒, 环境污染, 刑事判决, 公益诉讼, 黄河流域
-
-<br><br>总结:
-1. 濮阳某公司因非法倾倒592.78吨废酸液污染环境，公司及实际控制人等四人被判刑。
-2. 该公司为节约成本，指使人员将生产葵子麝香产生的废酸液倾倒至工业园区窨井等地，被群众举报后案发。
-3. 此前，巨野锦晨和精众生物也曾因非法倾倒工业含酸废水污染环境被提起公益诉讼。
-4. 濮阳市检察院对上述两家公司提起公益诉讼，要求赔偿环境治理费用并公开道歉，最终达成调解协议。
-5. 检察机关在黄河流域生态环境司法保护方面发挥重要作用，多个案例入选省、最高检和最高法典型案例。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%]]></title>
-        <link href="https://wallstreetcn.com/articles/3759020" />
-        <id>https://wallstreetcn.com/articles/3759020</id>
-        <updated>Mon, 10 Nov 2025 16:30:40 +0800</updated>
-        <summary type="html"><![CDATA[关键词： A股, 港股, 大消费, 化工, 存储芯片
-
-<br><br>总结:
-1.  A股三大指数涨跌不一，沪指和深成指收涨，创业板指小幅下跌。成交量放大，个股涨多跌少。
-2.  大消费板块集体爆发，食品、白酒、免税店、旅游等方向领涨。化工股延续强势，存储芯片板块活跃。机器人概念股调整。
-3.  港股全线收涨，恒生指数和恒生科技指数均上涨。消费股领涨，石油化工、黄金行业涨幅居前。
-4.  债市多数上涨，商品期货市场多数上涨，碳酸锂涨幅居前，非金属建材下跌。
-5.  机构观点方面，看好消费复苏和基本面驱动，关注AI应用、创新药等成长板块，以及外需出海和周期反转行业。同时，需关注流动性及政策变化对市场的影响。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Github注册时间, Claw Cloud Run, 免费容器, 应用商店, 一键部署
-
-Github用户通过浏览器访问https://api.github.com/users/XXX（将XXX替换为自己的Github用户名）可以查看自己的Github注册时间。注册时间大于180天的用户可以每月获得5美元的赠金，使用Claw Cloud Run免费容器来搭建各种Docker应用。这款容器可以轻松在应用商店一键自动部署或手动部署应用。推荐的两款应用是Memos（轻笔记应用）和AList（网盘挂载工具）。详情可以观看相关Youtube视频。总之，Claw Cloud Run提供了方便快捷的容器服务，为用户提供免费使用的机会。<br><br>总结: Github用户可以通过查看注册时间，免费使用Claw Cloud Run提供的容器，体验一键部署各种Docker应用，推荐使用Memos和AList应用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费VPS、注册验证、创建VM实例、开放防火墙、SSH登录方式
-
-谷歌云提供免费VPS，注册需添加付款资料和方式，创建完全免费VM实例时选择配置和地区，开放防火墙需设定入站和出站规则，SSH登录方式可选择官方后台或第三方工具。在科学上网时，建议使用Hysteria 2节点，避免产生额外费用，搭建节点可使用命令行或面板，也可使用甬哥一键脚本。注意不要选择Cloudflare CDN流量和CDN加速。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[地址生成器，Github仓库，Cloudflare，域名，SSL证书
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[Serv00、科学上网节点搭建、Cloudflare固定隧道、CDN回源、网页保活
 <br>
-注册地址或使用美国地址生成器来注册DigitalPlat账户。查看Github仓库获取更多信息，也可访问Cloudflare官网了解相关内容。视频介绍了两种域名，dpdns.org为免费域名，us.kg需支付费用。新老用户均有免费域名额度，可通过Github加Star获取额外的免费域名。所有域名需每年续期一次，包括免费和收费的us.kg域名。详细操作教程请查看Youtube视频。总结:DigitalPlat提供了注册地址生成器和美国地址注册选项，用户可获得免费或收费域名，需要每年续期。Github仓库提供更多信息，Cloudflare提供Pages自定义域及SSL证书服务。]]></summary>
+Serv00是一个GitHub项目，可以帮助用户搭建科学上网节点。通过Cloudflare固定隧道和CDN回源设置，用户可以保持网站稳定性。同时，通过网页保活和Cloudflare远程保活功能，用户可以实现网页的持续运行和保护。整个教程涵盖了注册登录、节点搭建、隧道设置、CDN配置和保活功能的详细步骤，帮助用户快速搭建一个稳定的科学上网节点并保持网站的持续运行。<br><br>总结: Serv00项目提供了一套完整的科学上网解决方案，用户可以通过该项目搭建节点、设置隧道和CDN回源，实现网站的稳定运行和保活。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[HostUNO、稳定性、速度、价格、ChatGPT、续费
-<br>
-HostUNO网站提供稳定性和速度良好的服务，无需保活。购买价格合理，但存在降智问题。用户可修改登录密码，设置代理节点并查看节点测速情况。续费流程简单，总体体验令人满意。值得购买的产品，需注意ChatGPT降智问题。综上所述，HostUNO提供的服务性价比较高，用户体验良好，值得推荐购买。<br><br>总结: HostUNO网站提供了稳定性和速度良好的服务，购买价格合理且体验良好，续费流程简单。需注意ChatGPT存在降智问题，但整体值得购买。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名，限制状态，注册方法，KYC验证，托管Cloudflare
+
+US.KG域名现在受限，建议使用 https://dash.domain.digitalplat.org/ 完成注册和KYC验证。注册账号，验证邮箱，KYC验证，注册域名，托管到Cloudflare。建议等待US.KG域名状态恢复后再托管。<&br><br>总结: 建议先使用 https://dash.domain.digitalplat.org/完成US.KG域名注册和KYC验证，再托管到Cloudflare。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG、免费域名、Cloudflare、身份信息生成器、优惠码newuser
-<br>
-US.KG注册不了，推荐另一个免费域名服务。使用身份信息生成器注册账号，购买域名时输入优惠码newuser可享受一年免费。将域名托管到Cloudflare，登录添加域名并填入分配的名称服务器。详细操作请参考Youtube视频教程。]]></summary>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek, 网页端, APP, API, 本地部署
+Deepseek是一款翻译工具，用户可以通过官方网站、手机客户端或API进行使用。用户还可以在第三方应用如Perplexity中利用Deepseek，甚至可以进行本地部署。本地部署需要下载Ollama并输入指定指令进行运行。Deepseek的功能包括沉浸式翻译、Chatbox以及欧路词典等，用户可以根据需要选择模型和硬件参考。总之，Deepseek提供了丰富的使用方式和功能，方便用户进行翻译和查询工作。<br><br>总结: Deepseek提供多种使用方式，包括官方网站、手机客户端、API和本地部署，用户可根据需要灵活选择。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
