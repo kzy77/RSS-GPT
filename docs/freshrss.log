@@ -1,59 +1,65 @@
 ------------------------------------------------------
-Started: 2025-11-11 10:21:59.761191
-Existing_entries: 13
+Started: 2025-11-11 12:40:19.549259
+Existing_entries: 18
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1026
+Token length: 1048
 Summarized using gemini model: gemini-2.0-flash
-Append: [税务部门提醒：未依法申报境外所得的居民个人要及时申报缴税](https://www.yicai.com/news/102906572.html)
-Token length: 2225
+Append: [沙特交易所CEO：持续改革，增强沙特资本市场吸引力](https://www.yicai.com/news/102906929.html)
+Token length: 2850
 Summarized using gemini model: gemini-2.0-flash
-Append: [高盛调研发现A股机器人“订单荒”？产业链上市公司：静待订单落地](https://www.yicai.com/news/102906568.html)
-Token length: 1167
+Append: [券商研判2026年A股走势：慢牛行情延续，基本面重要性进一步上升](https://www.yicai.com/news/102906918.html)
+Token length: 767
 Summarized using gemini model: gemini-2.0-flash
-Append: [31省份人口抚养比数据公布，哪些地方抚养比高](https://www.yicai.com/news/102906540.html)
-Token length: 2215
-Summarized using gemini model: gemini-2.0-flash
-Append: [股价大涨近18%，小鹏是否在模仿特斯拉？](https://www.yicai.com/news/102906525.html)
-Token length: 3201
-Summarized using gemini model: gemini-2.0-flash
-Append: [百保君“高额返利”暴雷，曾由众安保险孵化](https://www.yicai.com/news/102906469.html)
-Token length: 2204
-Summarized using gemini model: gemini-2.0-flash
-Append: [Windows 10/11 电脑上安装原生的谷歌安卓应用！无需任何模拟器！](https://www.freedidi.com/21560.html)
-Token length: 113
-Summarized using gemini model: gemini-2.0-flash
-Append: [A股今日共82只个股涨停 这只电网设备股6连板](https://www.yicai.com/news/102906462.html)
-Token length: 2319
-Summarized using gemini model: gemini-2.0-flash
-Append: [金价升回约半个月高位，市场进一步看涨5000美元，是何底层逻辑？](https://www.yicai.com/news/102906430.html)
-Token length: 1446
-Summarized using gemini model: gemini-2.0-flash
-Append: [电商三巨头重燃双11晚会战火，打造品牌秀场还是流量分配中心？](https://www.yicai.com/news/102906334.html)
-Token length: 3355
-Summarized using gemini model: gemini-2.0-flash
-Append: [国产大模型接入 Claude Code 教程：以 Doubao-Seed-Code 为例](http://www.ruanyifeng.com/blog/2025/11/doubao-seed-code.html)
-Token length: 462
-Summarized using gemini model: gemini-2.0-flash
-Append: [莆田12岁女孩被虐死案二审宣判：维持对继母许金花死刑判决](https://m.thepaper.cn/detail/31940899)
-Token length: 488
-Summarized using gemini model: gemini-2.0-flash
-Append: [保持较高增长！10月我国新能源汽车销量首次超总销量50%](https://m.thepaper.cn/detail/31940420)
-Token length: 1573
-Summarized using gemini model: gemini-2.0-flash
-Append: [李飞飞发表长文：空间智能是AI下一个前沿](https://m.thepaper.cn/detail/31939684)
-Token length: 157
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI是风口还是泡沫？一个独立开发者的冷思考](https://www.cnblogs.com/cicada-smile/p/19209211)
-Token length: 4466
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI六巨头罕见同台，李飞飞激辩LeCun，黄仁勋：你们都错了](https://www.36kr.com/p/3547036618305664)
-Token length: 2603
-Summarized using gemini model: gemini-2.0-flash
-Append: [不再只是送快递，无人车加速进入各行各业](https://www.36kr.com/p/3547027261960323)
+Append: [破除“存款搬家”误区，央行货币政策报告详解资金流向](https://www.yicai.com/news/102906925.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [1.2MB超轻量模型实现草莓苗精准分级检测与定位，准确率超96%](https://juejin.cn/post/7570341520551149583)
-Token length: 2691
+Append: [Windows 安装原生安卓 App！无需模拟器，秒装谷歌商店！流畅又丝滑，最新 WSA 保姆级教程 | 零度解说](https://www.freedidi.com/21565.html)
+Token length: 1105
 Summarized using gemini model: gemini-2.0-flash
-Append: [（求虐）受不了前端天天改，自动化脚本天天崩！小弟肝了个工具，用“语义”干掉XPath，大佬们看这思路对吗？](https://juejin.cn/post/7569889957743345690)
-append_entries: 18
-Finish: 2025-11-11 10:23:39.968549
+Append: [两部门联合发文再分配新能源消纳责任，利好这些板块](https://www.yicai.com/news/102906629.html)
+Token length: 1064
+Summarized using gemini model: gemini-2.0-flash
+Append: [多城角逐长三角创投新势力排名，硬科技实力成为关键要素](https://www.yicai.com/news/102906816.html)
+Token length: 2819
+Summarized using gemini model: gemini-2.0-flash
+Append: [2.6亿人口租房！保租房REITs进入扩容新周期](https://www.yicai.com/news/102906818.html)
+Token length: 3723
+Summarized using gemini model: gemini-2.0-flash
+Append: [为什么国际金价与国内金饰存在“降价时差”？｜2025消费趋势跟踪](https://www.yicai.com/news/102905130.html)
+Token length: 2317
+Summarized using gemini model: gemini-2.0-flash
+Append: [又一部沪语电影火了，藏在一碗菜肉馄饨里的市井温情](https://www.yicai.com/news/102906768.html)
+Token length: 2400
+Summarized using gemini model: gemini-2.0-flash
+Append: [当“十五五”遇上老龄化提速，养老金融如何拆解“灰犀牛”难题？](https://www.yicai.com/news/102906777.html)
+Token length: 836
+Summarized using gemini model: gemini-2.0-flash
+Append: [Kimi杨植麟称“训练成本很难量化”，仍将坚持开源策略](https://www.yicai.com/news/102906619.html)
+Token length: 2339
+Summarized using gemini model: gemini-2.0-flash
+Append: [马上测｜实测十余家银行大额取款有多少“门槛”，有银行人员叹“诈骗太多”](https://m.thepaper.cn/detail/31941561)
+Token length: 1893
+Summarized using gemini model: gemini-2.0-flash
+Append: [莆田12岁女孩被虐死案二审宣判，生母：已提交材料要求严惩孩子生父](https://m.thepaper.cn/detail/31941251)
+Token length: 328
+Summarized using gemini model: gemini-2.0-flash
+Append: [欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己](https://m.thepaper.cn/detail/31940812)
+Token length: 6522
+Summarized using gemini model: gemini-2.0-flash
+Append: [巴菲特发布退休告别信：“时间之父”不会放过任何人](https://www.36kr.com/p/3548112744509575)
+Token length: 3169
+Summarized using gemini model: gemini-2.0-flash
+Append: [新能源车交付前夜，大众每天都在“算账”](https://www.36kr.com/p/3547966678675334)
+Token length: 4063
+Summarized using gemini model: gemini-2.0-flash
+Append: [短剧出海3年变天：80%亏损，玩家赔钱赚吆喝？](https://www.36kr.com/p/3547915143655305)
+Token length: 2634
+Summarized using gemini model: gemini-2.0-flash
+Append: [「紫荆智康」获近亿元天使轮融资，加速AI医院系统开发及落地 | 36氪首发](https://www.36kr.com/p/3542784904753282)
+Token length: 1761
+Summarized using gemini model: gemini-2.0-flash
+Append: [重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI](https://wallstreetcn.com/articles/3759120)
+Token length: 3229
+Summarized using gemini model: gemini-2.0-flash
+Append: [11月11日这些公告有看头](https://www.yicai.com/news/102906729.html)
+append_entries: 20
+Finish: 2025-11-11 12:41:56.184338
