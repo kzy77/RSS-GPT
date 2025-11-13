@@ -1,30 +1,40 @@
 ------------------------------------------------------
-Started: 2025-11-13 16:24:03.390903
-Existing_entries: 20
+Started: 2025-11-13 18:28:21.404427
+Existing_entries: 8
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 12535
+Token length: 2909
 Summarized using gemini model: gemini-2.0-flash
-Append: [腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体](https://wallstreetcn.com/articles/3759330)
-Token length: 1318
+Append: [前10个月销量增长0.6%，燃油车打响“智能化反击战” 业内：明年燃油车将以几何级速度普及中高阶智驾](https://www.36kr.com/p/3550827835619207)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [DotNetGuide 突破了 9.5K + Star，一份全面的C#/.NET/.NET Core学习、工作、面试指南知识库！](https://www.cnblogs.com/Can-daydayup/p/19211834)
+Token length: 151
 Summarized using gemini model: gemini-2.0-flash
-Append: [京东CEO许冉回应国补需求放缓：增长动力会更加多元化](https://www.yicai.com/news/102911099.html)
-Token length: 2911
+Append: [如何在 .NET 中使用 SIMD](https://www.cnblogs.com/eventhorizon/p/19214931)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [“星巴克们”集中抛售中国业务？真相是他们换了一种打法](https://www.yicai.com/news/102910957.html)
-Token length: 336
+Append: [局域网扫码枪/局域网二维码接收工具](https://www.cnblogs.com/jianzhan/p/19187340/ScanReceive)
+Token length: 2075
 Summarized using gemini model: gemini-2.0-flash
-Append: [“银行直供房”火热 是“捡漏”的好时机吗？丨夜话](https://www.yicai.com/video/102911081.html)
-Token length: 1356
+Append: [美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软](https://wallstreetcn.com/articles/3759298)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [腾讯三季报AI“唱主角”：资本开支减少了但GPU“够用”](https://www.yicai.com/news/102911124.html)
+Token length: 1039
 Summarized using gemini model: gemini-2.0-flash
-Append: [B站Q3赚了4.7亿，陈睿：《逃离鸭科夫》有望冲击国产单机第二](https://www.yicai.com/news/102911056.html)
-Token length: 1567
+Append: [双11狂揽5000万，Rokid也不敢小觑华强北99元AI眼镜](https://www.yicai.com/news/102911156.html)
+Token length: 267
 Summarized using gemini model: gemini-2.0-flash
-Append: [悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万](https://wallstreetcn.com/articles/3759326)
-Token length: 930
+Append: [澎湃漫评｜儿童手表玩社交是本末倒置](https://m.thepaper.cn/detail/31957262)
+Token length: 2161
 Summarized using gemini model: gemini-2.0-flash
-Append: [瑞安通报“门口摆3个油桶被罚5万”：尚未作出处罚，已对执法人员批评教育](https://m.thepaper.cn/detail/31956970)
-Token length: 1295
+Append: [不能拿消费者当小白鼠！智能电动汽车安全强监管时代到来](https://www.yicai.com/news/102910654.html)
+Token length: 3366
 Summarized using gemini model: gemini-2.0-flash
-Append: [人民日报刊文：莫让“表演式忙碌”绊住实干脚步](https://m.thepaper.cn/detail/31955325)
-append_entries: 8
-Finish: 2025-11-13 16:24:25.103861
+Append: [国家中小企业基金二期获批，“专精特新”迎多元化政策支持](https://www.yicai.com/news/102911037.html)
+Token length: 2716
+Summarized using gemini model: gemini-2.0-flash
+Append: [基础研究不基础：上海科技创新从“上天入海”到“意念控制”](https://www.yicai.com/news/102911024.html)
+Token length: 1226
+Summarized using gemini model: gemini-2.0-flash
+Append: [五矿地产董事长换人，公司刚完成私有化退市](https://www.yicai.com/news/102911021.html)
+append_entries: 12
+Finish: 2025-11-13 18:29:32.420110
