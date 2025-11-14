@@ -1,24 +1,63 @@
 ------------------------------------------------------
-Started: 2025-11-14 10:21:49.808802
-Existing_entries: 19
+Started: 2025-11-14 12:40:15.252809
+Existing_entries: 6
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 3002
+Token length: 70
 Summarized using gemini model: gemini-2.0-flash
-Append: [北交所开市四周年：上市公司增逾200家，下阶段改革任务明确](https://www.yicai.com/news/102912395.html)
-Token length: 1137
+Append: [“4年3次采购工作服花619万元”引关注，湖北蕲春县农商行：暂不作回应](https://m.thepaper.cn/detail/31966974)
+Token length: 3379
 Summarized using gemini model: gemini-2.0-flash
-Append: [李书福加仓新势力，5个月浮亏40%](https://www.yicai.com/news/102912361.html)
-Token length: 120
+Append: [阿里AI大转向](https://www.36kr.com/p/3551611264817282)
+Token length: 2352
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股今日共90只个股涨停 锂电股孚日股份7连板](https://www.yicai.com/news/102912321.html)
-Token length: 3682
+Append: [薅羊毛🐑🐑🐑Trae限时免费🎁🎁🎁...](https://juejin.cn/post/7572028313931366440)
+Token length: 652
 Summarized using gemini model: gemini-2.0-flash
-Append: [影子调查｜连云港一公司女职员陪酒之死：赴宴5名镇干部被处理，家属起诉追问死因](https://m.thepaper.cn/detail/31899580)
-Token length: 8480
+Append: [滥用职权致使国家利益遭受特别重大损失，中国大唐原总经理寇伟被公诉](https://m.thepaper.cn/detail/31965732)
+Token length: 3297
 Summarized using gemini model: gemini-2.0-flash
-Append: [第一批喜茶加盟商，迎来史上最艰难的一年｜深氪](https://www.36kr.com/p/3550155320932228)
-Token length: 3009
+Append: [冲上 5A 景区、硬扛 TNT 炸药，车圈营销是时候降温了](https://www.36kr.com/p/3552253729832070)
+Token length: 2859
 Summarized using gemini model: gemini-2.0-flash
-Append: [不止腾讯，苹果应用生态罕见开放，小程序终于「合法」存在](https://www.36kr.com/p/3552043713264521)
-append_entries: 6
-Finish: 2025-11-14 10:22:03.295898
+Append: [氪星晚报 ｜星巴克工会发起无限期罢工，波及至少40座城市；京东集团：第三季度营收2991亿元，同比增长14.9%；](https://www.36kr.com/p/3551442522978436)
+Token length: 7317
+Summarized using gemini model: gemini-2.0-flash
+Append: [解析科大讯飞：把AI做成懂你的那一个](https://www.yicai.com/news/102912573.html)
+Token length: 2323
+Summarized using gemini model: gemini-2.0-flash
+Append: [G20国家受关税影响贸易额创WTO观测史上最大增幅，后续会怎样？｜全球贸易观察](https://www.yicai.com/news/102912612.html)
+Token length: 2630
+Summarized using gemini model: gemini-2.0-flash
+Append: [信贷淡季叠加需求疲软：10月居民贷款收缩，对公贷款“扛压”](https://www.yicai.com/news/102912614.html)
+Token length: 1275
+Summarized using gemini model: gemini-2.0-flash
+Append: [微众银行携微众科技首次亮相香港金融科技周xStartmeupHK创业节2025](https://www.yicai.com/news/102912353.html)
+Token length: 3110
+Summarized using gemini model: gemini-2.0-flash
+Append: [晚间公告｜11月14日这些公告有看头](https://www.yicai.com/news/102912606.html)
+Token length: 2402
+Summarized using gemini model: gemini-2.0-flash
+Append: [对话纳斯达克副主席：中企仍有赴美上市意愿，期待迎接更多AI企业](https://www.yicai.com/news/102912589.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [全球瞭望｜最长停摆“解封”美国经济藏着哪些暗雷？](https://www.yicai.com/video/102912490.html)
+Token length: 198
+Summarized using gemini model: gemini-2.0-flash
+Append: [龙虎榜丨机构今日买入这20股，卖出众生药业2.37亿元](https://www.yicai.com/news/102912546.html)
+Token length: 2617
+Summarized using gemini model: gemini-2.0-flash
+Append: [详解10月经济数据：工业增速高位放缓，服务消费成为重要增长点](https://www.yicai.com/news/102912276.html)
+Token length: 1165
+Summarized using gemini model: gemini-2.0-flash
+Append: [原油三连跌、贵金属领涨，本周大宗商品为何冰火两重天？｜期市头条](https://www.yicai.com/video/102912444.html)
+Token length: 58
+Summarized using gemini model: gemini-2.0-flash
+Append: [飞船返回舱成功着陆，神二十乘组三名航天员到家了](https://m.thepaper.cn/detail/31967320)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [国防部回应高市早苗涉台错误言论：日方若胆敢铤而走险必将碰得头破血流](https://m.thepaper.cn/detail/31966912)
+Token length: 110
+Summarized using gemini model: gemini-2.0-flash
+Append: [直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家](https://m.thepaper.cn/detail/31887572)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [限制汽车“5秒破百”，我拍烂手掌叫好](https://www.36kr.com/p/3552175757163653)
+append_entries: 20
+Finish: 2025-11-14 12:41:47.330808
