@@ -2,349 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-16T16:22:51Z</updated>
+    <updated>2025-11-16T18:26:44Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[文旅部郑重提醒：中国游客近期避免前往日本旅游]]></title>
-        <link href="https://m.thepaper.cn/detail/31980218" />
-        <id>https://m.thepaper.cn/detail/31980218</id>
-        <updated>Sun, 16 Nov 2025 21:01:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词：日本，治安，中国公民，安全风险，旅游提醒
+        <title><![CDATA[BIOS/UEFI 与其分别使用的磁盘分区形式 MBR/GPT]]></title>
+        <link href="https://www.cnblogs.com/ayuan01/p/19213247" />
+        <id>https://www.cnblogs.com/ayuan01/p/19213247</id>
+        <updated>Wed, 12 Nov 2025 11:42:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：BIOS, UEFI, MBR, GPT, 启动流程
 
 <br><br>总结:
-1. 日本治安恶化，针对中国公民的违法犯罪案件增多，部分案件未破。
-2. 日本领导人涉台言论恶化中日交流氛围，增加中国公民在日安全风险。
-3. 文化和旅游部提醒中国游客近期避免前往日本旅游。
-4. 已在日本的中国游客需关注治安形势，提高安全防范意识，加强自我保护。
-5. 如遇紧急情况，及时报警并联系中国驻日使领馆寻求协助。
+1. 文章对比了传统的BIOS和现代的UEFI。BIOS在开机时进行自检，初始化硬件，并按照启动顺序读取硬盘。
+2. UEFI是BIOS的升级替代方案，拥有更强大的功能和更好的扩展性。
+3. BIOS通常使用MBR分区形式，而UEFI通常使用GPT分区形式。
+4. MBR和GPT是不同的磁盘分区结构，影响着硬盘容量和启动方式。 GPT支持更大的硬盘容量和更快速的启动。
+5. 文章介绍了BIOS/UEFI与MBR/GPT之间的关联性，强调了它们在电脑启动过程中的重要作用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[《哈利波特》背后的好莱坞巨头，要卖了]]></title>
-        <link href="https://www.huxiu.com/article/4805874.html" />
-        <id>https://www.huxiu.com/article/4805874.html</id>
-        <updated>Sun, 16 Nov 2025 20:03:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 大语言模型, 量化, 推理加速, 低比特, 性能优化
+        <title><![CDATA[美军派出最大航母后，马杜罗高歌列侬名曲呼吁和平]]></title>
+        <link href="https://m.thepaper.cn/detail/31978763" />
+        <id>https://m.thepaper.cn/detail/31978763</id>
+        <updated>Sun, 16 Nov 2025 16:25:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词：马杜罗，委内瑞拉，约翰•列侬，和平，美国
 
 <br><br>总结:
-1.  文章探讨了如何通过量化技术来加速大语言模型的推理过程。
-2.  目标是降低模型的计算复杂度和内存占用，从而提高推理速度。
-3.  关注低比特量化，例如将权重和激活值从float精度降低到int8甚至更低的比特数。
-4.  强调了在降低比特数的同时，如何尽可能地保持模型的性能，避免显著的精度损失。
-5.  提出了各种优化方法，以解决低比特量化可能带来的问题，提升整体推理效率。
+1. 委内瑞拉总统马杜罗在米兰达州集会上演唱了约翰•列侬的歌曲《想象》。
+2. 他以此呼吁美国停止军事行动。
+3. 马杜罗强调维护南美洲和加勒比地区的和平。
+4. 他要求美国船只离开委内瑞拉。
+5. 他呼吁美国尊重委内瑞拉。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[下周重磅日程：最重要的财报和数据，都来了]]></title>
-        <link href="https://wallstreetcn.com/articles/3759379" />
-        <id>https://wallstreetcn.com/articles/3759379</id>
-        <updated>Sun, 16 Nov 2025 19:50:49 +0800</updated>
-        <summary type="html"><![CDATA[英伟达，财报，美联储，经济数据，行业大会
+        <title><![CDATA[卫冕全运男单冠军后，樊振东感谢上海支持和理解帮他度过低谷]]></title>
+        <link href="https://m.thepaper.cn/detail/31978744" />
+        <id>https://m.thepaper.cn/detail/31978744</id>
+        <updated>Sun, 16 Nov 2025 16:00:58 +0800</updated>
+        <summary type="html"><![CDATA[樊振东, 林诗栋, 全运会, 男单冠军, 上海队
 
 <br><br>总结:
-1. **财报季来临：**英伟达财报被视为AI股风向标，百度、小米、拼多多等中概股也将发布财报。
-2. **经济数据重启：**美国政府结束停摆，9月非农就业报告、第三季度GDP修正值等重要经济数据将陆续公布，影响美联储12月利率决议。
-3. **美联储动向：**10月FOMC会议纪要将揭示美联储内部对降息的看法，多位联储官员将发表讲话。
-4. **行业大会云集：**微软Ignite 2025技术大会、迪拜航空展、中国光伏与储能产业大会等多个行业大会将举行，聚焦AI、航空航天、光伏储能等领域。
-5. **其他事件：**日本财务省将拍卖20年期国债，中国将公布11月LPR。
+* 樊振东在11月16日的全运会男单决赛中，以4比1的比分战胜了海南队的林诗栋。
+* 樊振东成功蝉联全运会男单冠军。
+* 樊振东感慨自己代表三支不同的队伍参加了四届全运会。
+* 樊振东对各方的理解和支持表示感谢。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象]]></title>
-        <link href="https://m.thepaper.cn/detail/31979142" />
-        <id>https://m.thepaper.cn/detail/31979142</id>
-        <updated>Sun, 16 Nov 2025 18:34:49 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI仿冒, 虚假营销, 专家形象, 隐私泄露, 监管新规
+        <title><![CDATA[现场｜当樊振东把全运会打成舒适区，我们要急着他回来吗？]]></title>
+        <link href="https://m.thepaper.cn/detail/31977814" />
+        <id>https://m.thepaper.cn/detail/31977814</id>
+        <updated>Sun, 16 Nov 2025 14:14:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 樊振东, 全运会, 卫冕, 状态调整, 心理消耗
 
 <br><br>总结:
-1.  AI技术被滥用，出现大量AI仿冒专家、名人进行虚假营销的现象，例如盗用专家形象推销减肥食谱，仿冒主持人直播带货，严重误导消费者。
-2.  这些AI仿冒视频制作简单，成本低廉，且难以鉴别，给被仿冒者和消费者都带来很大危害。
-3.  不法商家利用AI技术，发布虚假广告，宣传普通食品具有医疗功效，以此牟取暴利，侵害消费者权益。
-4.  个人在使用AI技术时，也面临个人信息泄露的风险，例如上传照片可能暴露身份信息，连接不明来源的Wi-Fi可能被窃取个人隐私。
-5.  《人工智能生成合成内容标识办法》要求AI生成内容必须加标识，但存在标识被隐藏的情况，需要多部门联合监管，平台加强内容审查，并加强对个人信息的保护，才能规范AI技术的使用。
+1. 樊振东在全运会乒乓球男单决赛中战胜林诗栋，成功卫冕冠军，成为继马龙后第二人。
+2. 过去一年，樊振东减少国际比赛，参加乒超和德甲，调整状态，应对高曝光带来的心理压力。
+3. 尽管减少国际比赛，樊振东在全运会中展现出依然强大的实力，连续击败多位选手夺冠。
+4. 樊振东在全运会期间更多关注比赛细节，较少提及个人变化，希望自己能打得更释放、更轻盈。
+5. 樊振东暂别国际赛场，参加其他比赛，给了自己更多个人空间，至于何时回归，目前还没有明确答案。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡]]></title>
-        <link href="https://wallstreetcn.com/articles/3759481" />
-        <id>https://wallstreetcn.com/articles/3759481</id>
-        <updated>Sun, 16 Nov 2025 17:50:29 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 牛市, 科技, 顺周期, 2026, Alpha
+        <title><![CDATA[破解70年未解之谜，“拉索”揭示宇宙线起源的关键机制]]></title>
+        <link href="https://m.thepaper.cn/detail/31978095" />
+        <id>https://m.thepaper.cn/detail/31978095</id>
+        <updated>Sun, 16 Nov 2025 14:03:02 +0800</updated>
+        <summary type="html"><![CDATA[关键词：宇宙线，LHAASO，微类星体，黑洞，膝结构
 
 <br><br>总结:
-1.  申万宏源认为当前A股处于"牛市1.0"高位，科技板块长期性价比不足，顺周期行情有逻辑断点，牛市2.0条件不成熟。
-2.  2026年春季可能面临科技板块低性价比、需求侧验证期以及牛市2.0接力条件不成熟三大挑战。
-3.  顺周期行情是2026年前的“抢跑”行情，后续验证期阻力增加，且短期临近分化阶段。
-4.  牛市2.0启动需等待“政策底”，关键窗口可能在2026年中之后，科技产业趋势也需等待新一轮发酵。
-5.  建议在高位震荡中基于短期性价比把握小波段，顺周期和科技都聚焦Alpha机会，为更长期的全面牛市做准备。
+1. LHAASO发现银河系内五个微类星体（黑洞+恒星）可以将粒子加速到极高能量。
+2. 这一发现破解了困扰科学界近70年的宇宙线质子能谱“膝”结构来源之谜。
+3. 黑洞通过吸积恒星并释放高能粒子喷流，成为高能量宇宙线粒子的“产生器”。
+4. LHAASO还发现了宇宙线质子能谱在“膝”附近存在超出预期的“高能组分”，与微类星体发现相互印证。
+5. 该研究为理解黑洞在宇宙线起源中的作用提供了重要观测证据，推动天体粒子物理研究。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[视频丨海军四川舰顺利完成首次航行试验]]></title>
-        <link href="https://m.thepaper.cn/detail/31979068" />
-        <id>https://m.thepaper.cn/detail/31979068</id>
-        <updated>Sun, 16 Nov 2025 17:30:53 +0800</updated>
-        <summary type="html"><![CDATA[四川舰, 两栖攻击舰, 航行试验, 电磁弹射, 沪东中华造船厂
+        <title><![CDATA[白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）]]></title>
+        <link href="https://wallstreetcn.com/articles/3759474" />
+        <id>https://wallstreetcn.com/articles/3759474</id>
+        <updated>Sun, 16 Nov 2025 13:56:44 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 阿里巴巴, 千问, 开源模型, 美国, QwenPanic
 
 <br><br>总结:
-1.  076型两栖攻击舰首舰四川舰完成为期3天的首次航行试验，返回上海沪东中华造船厂码头。
-2.  四川舰满载排水量4万余吨，采用双舰岛设计，并创新应用电磁弹射和阻拦技术，可搭载固定翼飞机、直升机、两栖装备等。
-3.  此次试航主要测试了四川舰动力、电力等系统设备的可靠性和稳定性，达到了预期效果。
-4.  四川舰自2024年12月下水以来，按计划稳步推进建造工作，完成系泊试验和装设备调试，具备出海试验条件。
-5.  后续试验项目将根据装备总体建造计划逐步展开。
+1. 美国白宫指责阿里巴巴为中国军方提供技术支持，但未提供具体细节，引发阿里巴巴美股下跌。阿里巴巴和中国大使馆均否认指控，认为是恶意公关行为。
+2. 阿里巴巴秘密启动“千问”项目，对标ChatGPT，并在HuggingFace全球模型榜单占据领先地位，引发硅谷的“千问恐慌”（QwenPanic）。
+3. 阿里巴巴开源的通义千问Qwen模型全球下载量和衍生模型数量超过美国Meta Llama系列，并获得众多AI领域知名人士的认可。
+4. 黄仁勋称阿里巴巴通义千问Qwen已占据开源模型的大部分市场份额。谷歌前CEO埃里克·施密特预测，全球大多数国家可能会转而使用中国AI技术。
+5. 美国人工智能公司发债规模巨大，负债问题日益突出，AI路线之争叠加市场因素，加剧了“千问恐慌”。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[韩国政府将东北亚三国称谓顺序统一为“韩中日”]]></title>
-        <link href="https://m.thepaper.cn/detail/31978560" />
-        <id>https://m.thepaper.cn/detail/31978560</id>
-        <updated>Sun, 16 Nov 2025 16:23:56 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 韩国 中日 韩中日 尹锡悦 李在明
+        <title><![CDATA[张伟丽挑战蝇量级冠军舍甫琴科失败，但她的未来依然不可限量]]></title>
+        <link href="https://m.thepaper.cn/detail/31977386" />
+        <id>https://m.thepaper.cn/detail/31977386</id>
+        <updated>Sun, 16 Nov 2025 13:02:10 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 张伟丽, 舍甫琴科, UFC322, 蝇量级, 双冠王
 
 <br><br>总结:
-1. 韩国政府将东北亚三国称谓顺序统一为“韩中日”，理由是符合韩语使用习惯。
-2. 前总统尹锡悦时期曾改为“韩日中”，意在强调韩日合作。
-3. 李在明政府此举被解读为改善对华关系的举措。
-4. 总统室官员表示，尹锡悦政府过度偏向日本，此举是拨乱反正。
+1. UFC322中，张伟丽升重挑战蝇量级冠军舍甫琴科，该比赛门票火爆，直播预约数高。
+2. 赛前，业内人士和粉丝对比赛结果看法不一，认为两人实力接近，但也有人根据状态和技术特点给出倾向性预测。
+3. 赛前张伟丽心态放松，强调主动进攻，而舍甫琴科则自信能击溃对手。
+4. 比赛中，张伟丽未能有效发挥地面技术，站立也受制于对手，最终被舍甫琴科一致判定击败。
+5. 尽管失利，张伟丽表示感谢努力，永不放弃，并已上映个人纪录片电影《永无止境》。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[雷军，怒了！刚刚连发多条微博]]></title>
-        <link href="https://wallstreetcn.com/articles/3759479" />
-        <id>https://wallstreetcn.com/articles/3759479</id>
-        <updated>Sun, 16 Nov 2025 16:09:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词：小米汽车，安全，雷军，SU7，断章取义
-
-<br><br>总结:
-1. 雷军重申小米汽车安全设计理念，强调“安全高于一切”。
-2. 他通过展示之前发布的微博截图，佐证SU7的研发以安全为首要标准。
-3. 雷军回应了网友对其“小米汽车好看比安全重要”的质疑，并指责网上存在断章取义和歪曲抹黑的现象。
-4. 文章末尾声明，本文不构成投资建议，投资者需自行承担风险。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[樊振东：全运会金牌是对自己的肯定，更是战胜困难的见证]]></title>
-        <link href="https://m.thepaper.cn/detail/31978446" />
-        <id>https://m.thepaper.cn/detail/31978446</id>
-        <updated>Sun, 16 Nov 2025 15:30:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 樊振东, 全运会, 卫冕, 心态, 团队
-
-<br><br>总结:
-1. 樊振东卫冕全运会乒乓球男单冠军，强调无论输赢，心态始终是冲击者，过程中的自我突破是美妙的。
-2. 他认为金牌是对他的肯定，更是战胜困难的见证，是一段美好的全运会记忆。
-3. 樊振东表示未来目标要靠每日训练和克服困难累积，当前重心是全运会团体赛。
-4. 他感谢上海队的理解与支持，让他能以更好的状态参赛，并为团队夺金感到开心。
-5. 海外赛事经历让他更注重内心调整，带着强烈的求胜欲望突破自己。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[华为，AI突破将发布]]></title>
-        <link href="https://wallstreetcn.com/articles/3759477" />
-        <id>https://wallstreetcn.com/articles/3759477</id>
-        <updated>Sun, 16 Nov 2025 14:42:17 +0800</updated>
-        <summary type="html"><![CDATA[华为, AI, 算力利用率, Run:ai, 调度
-
-<br><br>总结:
-1. 华为将于11月21日发布AI领域突破性技术，旨在提升算力资源利用率。
-2. 该技术可以将GPU、NPU等算力资源利用率从行业平均的30%-40%提升至70%，释放硬件潜能。
-3. 通过软件创新，该技术可统一管理和利用英伟达、昇腾及其他第三方算力，屏蔽硬件差异。
-4. 该技术与被英伟达收购的Run:ai的核心技术路线相似，后者专注于GPU调度技术。
-5. Run:ai的核心产品基于kubernetes，通过动态调度等技术优化GPU资源利用率，提高深度学习效率。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[王楚钦依旧在路上，道出全运单打的收获与遗憾]]></title>
-        <link href="https://m.thepaper.cn/detail/31978103" />
-        <id>https://m.thepaper.cn/detail/31978103</id>
-        <updated>Sun, 16 Nov 2025 14:22:52 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 王楚钦, 袁励岑, 全运会, 乒乓球, 男单
-
-<br><br>总结:
-1. 在全运会乒乓球男单铜牌赛中，王楚钦代表北京队出战。
-2. 他的对手是代表辽宁队的袁励岑。
-3. 王楚钦以4比1的比分赢得了比赛的胜利。
-4. 他获得了本次比赛的季军，即铜牌。
-5. 赛后，王楚钦对自己在本次赛事中的表现进行了总结。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[继马龙之后，樊振东成为第二名蝉联全运会乒乓球男单金牌球员]]></title>
-        <link href="https://m.thepaper.cn/detail/31973377" />
-        <id>https://m.thepaper.cn/detail/31973377</id>
-        <updated>Sun, 16 Nov 2025 14:12:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 樊振东, 林诗栋, 全运会, 男单, 蝉联
-
-<br><br>总结:
-1. 樊振东在第十五届全运会乒乓球男单决赛中，以4比1战胜林诗栋，成功蝉联该项目冠军。
-2. 樊振东此前已连续四次闯入全运会男单决赛，并成为继马龙之后，第二位蝉联该项目金牌的运动员。
-3. 樊振东在以往的全运会中表现出色，共获得6金2银2铜，是现役运动员中获得全运会乒乓球金牌最多的球员。
-4. 林诗栋作为年轻选手，在决赛中对阵经验丰富的樊振东，虽败犹荣，并表示这是一次宝贵的学习机会。
-5. 比赛过程跌宕起伏，首局林诗栋领先被逆转，随后扳回一局，但最终樊振东凭借实力和经验，连胜三局锁定胜局。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[北平锋：高市早苗为军国主义招魂让世人唾弃]]></title>
-        <link href="https://m.thepaper.cn/detail/31973144" />
-        <id>https://m.thepaper.cn/detail/31973144</id>
-        <updated>Sat, 15 Nov 2025 18:37:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词：高市早苗，台湾问题，中日关系，历史教训，干涉内政
-
-<br><br>总结:
-1. 日本首相高市早苗公然发表涉台挑衅言论，干涉中国内政，威胁台海和平，挑战国际秩序。
-2. 台湾地区有识之士强烈反对，批评其言论是右翼军国主义复辟，搅动台海情势。
-3. 日本国内政界、媒体和学界纷纷质疑与批评，认为其言论违背《中日联合声明》，可能引发外交紧张。
-4. 国际社会普遍认为，台海问题是中国内政，任何外部势力干涉都会加剧地区动荡。
-5. 中国政府和人民维护国家主权和领土完整的决心不可动摇，警告日本勿重蹈历史覆辙。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[关键词：爪云，内网穿透，Docker，UUID，Cloudflare隧道  
-
-总结:  
-1. 前置工作：获取root权限并安装Docker环境。  
-2. 临时隧道模式：通过一条Docker命令启动七号容器，实现临时内网穿透隧道。  
-3. 固定隧道模式：需准备三个变量——UUID、Cloudflare隧道Token、隧道域名，UUID可通过网站或代理工具生成。  
-4. 固定隧道创建与运行：在Cloudflare Zero Trust平台创建隧道后，使用Docker命令传入上述变量，启动容器实现固定隧道穿透。  
-5. Docker常用命令：包含查看、停止、删除容器及查看日志，方便管理爪云穿透服务。  
-
-相关视频教程提供详细操作指导和免费域名注册链接。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[免费域名，us.kg，Cloudflare，注册情况，托管服务
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 赠金, 应用部署
 
 <br><br>总结:  
-1. 已经注册的us.kg域名目前依然可用，没有被全部注销。  
-2. 新注册的us.kg域名目前存在不确定性，具体注册情况需关注官方动态。  
-3. dpdns.org的域名理论上可以托管到Cloudflare，但具体操作和限制需要进一步验证。  
-4. 临时托管可以通过FreeDNS实现，作为过渡方案使用较为方便。  
-5. us.kg免费域名目前的使用和注册环境正在变化，用户需根据最新情况选择合适的注册和托管方式。]]></summary>
+1. Claw Cloud Run是一款免费容器服务，满足Github注册时间大于180天的用户，每月赠送5美元余额，可实现长期免费使用。  
+2. 用户可以通过访问https://api.github.com/users/XXX（替换为Github用户名）查看注册时间，注意该接口对同IP请求有限制，建议关闭代理避免影响。  
+3. Claw Cloud Run支持多种Docker应用的部署，既可以通过应用商店一键自动部署，也支持手动部署。  
+4. 推荐两款应用：Memos（轻量笔记应用）和AList（网盘挂载工具），方便用户快速搭建常用服务。  
+5. 更多详细内容可参考相关的Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Serv00登录、科学上网节点、Cloudflare隧道、CDN回源、网页远程保活
-
-总结:  
-1. 登录Serv00平台，使用指定域名或通过系统代理解决IP被墙问题。  
-2. 搭建科学上网节点，包括系统初始化、端口重置及安装脚本操作。  
-3. 利用Cloudflare固定隧道功能，将本地端口映射到自定义域名，实现稳定访问。  
-4. 配置CDN回源，通过添加DNS A记录及回源规则，将域名指向Serv00服务器并重写端口。  
-5. 采用网页保活功能和Cloudflare Worker远程保活脚本，保持节点持久在线和自动重启维护。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG，注册，KYC验证，Cloudflare，免费域名  
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云，免费VPS，费用控制，SSH登录，科学上网  
 
 <br><br>总结:  
-1. US.KG域名目前处于受限状态，建议通过 https://dash.domain.digitalplat.org/ 平台完成注册和KYC验证。  
-2. 注册流程包括：账号注册（可借助身份信息生成器填写信息）、邮箱验证（需等待邮件）、上传KYC文件（第1步信息排版截图）。  
-3. 完成KYC后，可进行域名注册，输入域名前缀完成申请。  
-4. 注册成功后，将域名托管到Cloudflare，添加域名并设置名称服务器。  
-5. 视频详细说明了操作步骤、US.KG域名的优点、免费续订方式及免费域名的不足，建议根据视频教程完成操作。]]></summary>
+1. 本人使用谷歌云免费VPS超过8个月，仅被扣费0.03美元，产生费用主要源于快照备份功能，需将“数据保护”中的快照时间表改为“无备份”以避免收费。  
+2. 注册谷歌云账号需添加付款资料，必须使用外币信用卡或借记卡，且建议三个月试用期结束后再激活完整账号，旧账号仍有效。  
+3. 创建免费VM实例时，推荐选择俄勒冈地区，配置E2-micro机器，使用Linux（如Ubuntu），标准30GB永久磁盘，且关闭快照备份。  
+4. 开放防火墙时建议新手用户将入站和出站规则全部放行；SSH登录推荐使用官方后台直连，第三方工具需上传公钥并配对私钥。  
+5. 科学上网推荐使用Hysteria 2节点，标准层级入站流量永久免费，出站前200GB免费，避免使用Cloudflare CDN等会产生费用的服务；搭建方式可用命令行、面板，或一键脚本快速部署。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek, API, 本地部署, 第三方应用, 模型选择
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址 免费域名 us.kg 续期 Github Star
 
 <br><br>总结:  
-1. 视频介绍了Deepseek的各个使用方式及相关内容。  
-2. Deepseek既有网页端，也有手机APP，方便用户访问。  
-3. 提供官方Deepseek API，需使用+86手机号注册，赠送10元体验金，有效期一个月，可用于多款软件的沉浸式翻译和聊天功能。  
-4. 还介绍了部分第三方应用集成Deepseek服务。  
-5. 提供Deepseek本地部署方案，指导用户下载安装Ollama，通过终端命令下载和运行模型，并推荐根据硬件选择合适的模型。  
-详细操作和说明可参考视频。]]></summary>
+1. 提供了注册地址和美国地址生成器的相关资源链接。  
+2. 介绍了DigitalPlat的Github仓库以及Cloudflare官网及其Pages自定义域与SSL证书相关视频教程。  
+3. 提供两种域名选择：免费域名dpdns.org和收费域名us.kg（12元/个）。  
+4. 免费域名额度为：新用户1个，Github加Star后可增加至2个；老用户3个，Github加Star后可增加至4个，us.kg域名不计入免费额度。  
+5. 免费域名可永久免费续期，每年在到期前180天内续期，尤其强调us.kg域名也需每年续期，并提供了详细的Youtube视频教程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[稳定性，速度，保活，ChatGPT降智，购买体验  
+
+<br><br>总结:  
+1. 稳定性和速度方面，节点测速显示整体表现良好，能满足日常使用需求，但某些节点可能存在波动。  
+2. 是否需要保活取决于具体使用场景，长时间不操作可能断开连接，建议配置保活以保障持续访问。  
+3. 关于ChatGPT降智问题，视频中探讨了部分用户反馈的智能程度下降现象，分析认为与节点质量及代理设置有关。  
+4. 购买体验涉及价格合理性、修改登录密码、搭建代理节点等环节，整体流程顺畅，但需用户具备一定基础操作能力。  
+5. 总体来看，产品适合需要稳定代理服务的用户使用，性价比较高，是否购买可根据个人需求及使用环境决定。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[免费域名注册，Cloudflare托管，身份信息生成器，优惠码newuser，操作教程
+
+<br><br>总结:  
+1. 注册账号时，可以借助身份信息生成器辅助填写注册信息，方便快速完成。  
+2. 在域名注册页面输入优惠码“newuser”，即可获得一年免费的域名使用权。  
+3. 注册成功后，将域名托管到Cloudflare中，确保更稳定和安全的DNS解析服务。  
+4. 在Cloudflare添加域名后，会分配两个名称服务器，将其填写到域名管理后台完成绑定。  
+5. 文章附带了详细的Youtube操作视频，时间线清晰，方便用户按步骤操作完成全流程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
