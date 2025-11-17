@@ -2,270 +2,460 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-17T10:24:18Z</updated>
+    <updated>2025-11-17T12:44:03Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[TRAE SOLO 正式版上线，限时免费活动开启]]></title>
-        <link href="https://juejin.cn/post/7571379089992187958" />
-        <id>https://juejin.cn/post/7571379089992187958</id>
-        <updated>Wed, 12 Nov 2025 13:06:44 +0800</updated>
-        <summary type="html"><![CDATA[TRAE SOLO, 免费体验, SOLO Coder, SOLO Builder, 智能体
+        <title><![CDATA[一财社论：以富民扩消费]]></title>
+        <link href="https://www.yicai.com/news/102915541.html" />
+        <id>https://www.yicai.com/news/102915541.html</id>
+        <updated>Mon, 17 Nov 2025 20:02:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 消费，供需适配，投资于人，财政政策，经济活力
 
 <br><br>总结:
-1. TRAE SOLO 计划发布正式版，提前上线并限时免费，时间为11月12日12:00至11月15日23:59。
-2. 免费体验包括 SOLO Coder 和 SOLO Builder。SOLO Coder 擅长复杂编程，支持“规划”模式，可调用“自定义智能体”。
-3. SOLO Builder 可以将想法转换为产品，支持多任务并行，并增加了任务列表。对话任务自动折叠并汇总，提供代码差异视图工具。
-4. TRAE 更新优化了设置功能，支持全局搜索。
-5. TRAE 更新特性实用，建议抓住免费体验期。
+1.  当前中国经济发展面临供需适配性问题，国务院常务会议强调增强供需适配性，以实现更高水平的供需动态平衡。
+2.  决策系统频繁聚焦消费，出台刺激政策，致力于营造消费友好型的财政货币政策，降低供需匹配成本。
+3.  财政政策要着眼释放当期消费潜力，扩大商品和服务消费，培育新的增长点，打造新场景；同时着眼增强长期消费能力，加大“投资于人”力度，增加居民收入。
+4.  有效需求不足是重要卡点，需改进国民收入分配，让预防性储蓄转变成当期购买力。
+5.  要营造尊重消费和消费者的新制度矩阵，保护消费者权益，通过消费者偏好引领产业升级，构建低成本、高效率的供需对接秩序，最终筑牢中国经济的底气，增强国际竞争力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[LLM 交互的“省钱”新姿势：JSON 已死，TOON 当立]]></title>
-        <link href="https://juejin.cn/post/7572453554331009024" />
-        <id>https://juejin.cn/post/7572453554331009024</id>
-        <updated>Sat, 15 Nov 2025 11:38:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLM, Token, JSON, TOON, 数据格式
+        <title><![CDATA[银行理财高收益昙花一现，背后是信托T-1估值套利模式]]></title>
+        <link href="https://www.yicai.com/news/102915542.html" />
+        <id>https://www.yicai.com/news/102915542.html</id>
+        <updated>Mon, 17 Nov 2025 20:01:22 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 理财收益，收益幻术，T-1估值，养壳冲榜，规模焦虑
 
 <br><br>总结:
-1.  LLM应用中，Token消耗是重要的成本因素，而传统的JSON格式因其冗余性导致Token效率低下。
-2.  TOON(Token-Oriented Object Notation) 是一种专为LLM设计的紧凑型数据格式，旨在最小化Token的使用。
-3.  TOON在处理结构一致的对象数组时表现出色，既保持了CSV的紧凑性，又提供了清晰的结构信息，优于JSON和YAML。
-4.  TOON的集成方式简单，只需在LLM交互前后增加编码/解码层，无需重构现有系统。
-5.  基准测试表明，TOON的Token效率接近CSV，远高于JSON和YAML，可以有效降低LLM的使用成本。
+1. 部分理财公司通过信托T-1估值套利等手段，将老产品收益转移至新产品，制造“前高后低”的收益率曲线，业内俗称“养壳冲榜”。
+2. 这种“收益幻术”通过大量发行新产品，利用信托计划进行收益调剂，短期拉高业绩以吸引投资者。
+3. 屡禁不止的原因是资产端收益承压和负债端规模焦虑，以及监管收紧带来的套利空间转移。
+4. 此类操作影响深远，可能损害老产品投资者利益，引发客诉，阻碍行业高质量发展，并可能推高无风险利率预期。
+5. 监管应关注此类行为，引导理财公司深耕投研实力，促进行业健康发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Surfshark VPN 黑五优惠活动！最低$1.89 /月，免费赠送4个月，10Gbps 网络端口！]]></title>
-        <link href="https://www.freedidi.com/21656.html" />
-        <id>https://www.freedidi.com/21656.html</id>
-        <updated>Mon, 17 Nov 2025 16:24:31 +0800</updated>
-        <summary type="html"><![CDATA[黑五, Surfshark, VPN, 优惠, 加密
+        <title><![CDATA[详解28省份前三季度财政收支，紧平衡态势依旧]]></title>
+        <link href="https://www.yicai.com/news/102915526.html" />
+        <id>https://www.yicai.com/news/102915526.html</id>
+        <updated>Mon, 17 Nov 2025 20:00:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 地方财政, 收支平衡, 财政收入, 财政支出, 民生保障
 
 <br><br>总结:
-1. Surfshark VPN 推出黑五优惠活动，最低 $1.89/月，赠送4个月，活动至美国东部时间 12 月 2 日凌晨 2:00 结束，之后两年期订阅价格将上调，冬季优惠持续到 2026 年 1 月 5 日。
-2. Surfshark VPN提供快速连接速度，服务器配备10Gbps端口，在全球100个国家拥有4500多台服务器。
-3. 所有服务器采用纯内存设计，重启后自动清除数据，保护用户隐私。
-4. 支持 Wireguard、IKEv2 和 OpenVPN 等可靠的加密协议。
-5. 提供专用IP地址（需额外付费）和动态多跳功能，增加匿名性。
+1.  **地方财政收支现状:** 前三季度地方财政收入保持小幅增长，但支出普遍高于收入，财政收支紧平衡态势明显。
+2.  **收入增速分化:** 大部分省份收入实现增长，西藏、吉林增速领先，但山西、陕西等能源大省因大宗商品价格下滑收入下降。
+3.  **支出保障重点:** 财政支出总体保持增长，民生、卫生健康、社会保障和就业、教育等重点领域得到有效保障。
+4.  **主要影响因素:** 经济稳定增长是收入增长的基础，但房地产低迷、企业经营困难、PPI低迷、减税降费等也影响了收入。
+5.  **应对措施建议:** 地方政府应注重财政资源统筹，将资金用于民生和重大战略，提高财政绩效；依法依规征税，避免影响市场主体；盘活国有资产资源，争取中央财政支持。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“硅谷风投教父”清仓英伟达]]></title>
-        <link href="https://www.yicai.com/news/102915004.html" />
-        <id>https://www.yicai.com/news/102915004.html</id>
-        <updated>Mon, 17 Nov 2025 16:07:33 +0800</updated>
-        <summary type="html"><![CDATA[英伟达, 减持, AI泡沫, 机构, 市场风险
+        <title><![CDATA[AI会取代人类客服吗]]></title>
+        <link href="https://www.yicai.com/news/102915512.html" />
+        <id>https://www.yicai.com/news/102915512.html</id>
+        <updated>Mon, 17 Nov 2025 19:59:58 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大模型, 电商客服, Agent化, 知识库, 人工智能
 
 <br><br>总结:
-1. 多家机构，包括Thiel Macro Fund、桥水基金、软银集团等，减持甚至清仓英伟达股票，引发市场对AI泡沫的担忧。
-2. Thiel Macro Fund清仓英伟达，同时减持特斯拉，转投苹果和微软。桥水大幅减持英伟达，也减持了Alphabet、亚马逊和微软。软银清仓英伟达用于投资AI项目。
-3. 部分机构认为AI炒作过度，市场稳定性面临风险。DeepL和Picsart的CEO警告AI公司估值过高，可能存在泡沫。
-4. “大空头”Michael Burry指出AI基础设施提供商可能低估芯片折旧，导致利润虚高。
-5. AMD CEO苏姿丰仍看好AI数据中心市场前景，预测未来市场规模将扩大。英伟达即将发布三季报，市场对其持谨慎态度。
+1. 大模型大幅提升了AI客服对用户意图的理解和表达能力，能够进行复杂对话，提供个性化服务。
+2. 大模型赋能电商客服面临挑战，需要商家构建和维护知识库，进行跨系统集成，以及提升基础模型的推理和记忆能力。
+3. Agent化是智能客服的发展方向，它需要具备任务规划、跨系统操作等能力，实现从被动响应到主动服务的转变。
+4. Agent能力提升后，智能客服有望重塑客服角色，从成本中心转变为连接用户关系与交易机会的核心触点。
+5. 智能客服在金融、医疗、法律等高风险领域落地需谨慎，可能长期需要人机配合工作。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[A股今日共100只个股涨停 锂电股孚日股份8连板]]></title>
-        <link href="https://www.yicai.com/news/102914971.html" />
-        <id>https://www.yicai.com/news/102914971.html</id>
-        <updated>Mon, 17 Nov 2025 15:36:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 跨境电商, 三木集团, 连板, 涨停, 孚日股份
+        <title><![CDATA[AI“最后一公里” 落地的双重密码]]></title>
+        <link href="https://www.yicai.com/news/102915510.html" />
+        <id>https://www.yicai.com/news/102915510.html</id>
+        <updated>Mon, 17 Nov 2025 19:59:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI, 主动连接, 小切口, 商业应用, 用户价值
 
 <br><br>总结:
-1. A股市场11月17日共有100只股票涨停。
-2. 锂电股孚日股份实现8连板。
-3. 跨境电商板块的三木集团实现7连板。
+1.  AI发展面临技术领先但实际应用不足的悖论，AI的“下半场”是应用场景为王的时代，需要内外兼修。
+2.  AI应从被动响应转向主动连接，通过异步思考和个性化推送，将信息获取模式从“我找信息”转变为“信息找我”。
+3.  非AI企业需关注GEO（生成式引擎优化），确保产品能被AI模型优先推荐。
+4.  AI应用需嵌入实际业务流程，通过“始于小切口”的策略，在巨头模型基础上锁定高频痛点，快速迭代最小可行产品。
+5.  小切口的四个实践法则：抢占时间窗口实现差异化突破，先获取用户后优化产品，聚焦单点突破打造突出长板，秉持质量优先于速度的用户价值主张。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[化妆品新政出台，有这7大亮点]]></title>
-        <link href="https://www.yicai.com/news/102914952.html" />
-        <id>https://www.yicai.com/news/102914952.html</id>
-        <updated>Mon, 17 Nov 2025 15:36:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 化妆品, 监管改革, 产业高质量发展, 新品首发, 银发经济
+        <title><![CDATA[诺贝尔物理学奖得主：相信有外星人的存在]]></title>
+        <link href="https://www.yicai.com/news/102915525.html" />
+        <id>https://www.yicai.com/news/102915525.html</id>
+        <updated>Mon, 17 Nov 2025 19:58:33 +0800</updated>
+        <summary type="html"><![CDATA[外星生命，系外行星，火星，地球，人工智能
 
 <br><br>总结:
-1.  国家药监局发布《关于深化化妆品监管改革促进产业高质量发展的意见》，旨在推动中国从“制妆大国”向“制妆强国”跨越。
-2.  《意见》提出24项改革意见与48项具体举措，鼓励创新、提升质量、保障安全，破解行业痛点。
-3.  为“新功效化妆品”开辟专门审评通道，实行“即报即审”，优化注册备案资料，允许配方相似产品共用安全性技术资料。
-4.  鼓励化妆品新品在中国首发，免于提交在生产国已上市销售的证明，打造全球新品首发地。
-5.  鼓励企业加强“银发族”化妆品研发，探索化妆品个性化服务，满足公众个性化、精准化消费需求。
-6.  推行电子标签，简化包装内容，实现信息动态管理。
-7.  积极推进动物试验减免，优先从烫发、非氧化性染发等品类着手。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[沪指震荡调整跌0.46%，福建本地股掀涨停潮]]></title>
-        <link href="https://www.yicai.com/news/102914953.html" />
-        <id>https://www.yicai.com/news/102914953.html</id>
-        <updated>Mon, 17 Nov 2025 15:35:09 +0800</updated>
-        <summary type="html"><![CDATA[成交额, 锂矿, 资金流向, 震荡, 机构观点
-
-<br><br>总结:
-1. A股三大指数午后震荡收跌，沪深两市成交额1.91万亿，较前一交易日缩量473亿，超2700只个股下跌。
-2. 盘面上，锂矿、水产、AI应用概念股走强，福建本地股涨停，而有色金属、医药、电工电网、光伏、银行板块跌幅靠前。
-3. 资金流向上，主力资金流入计算机、能源金属、传媒等板块，流出光伏设备、证券、化学制药等板块。个股方面，三六零、华胜天成获净流入，宁德时代、阳光电源遭抛售。
-4. 机构观点：华泰证券认为短期市场震荡为主；银河证券预计年末行情震荡结构为主，关注“反内卷”、红利等主题机会；湘财证券认为11月份市场大概率继续宽幅震荡，逐级上升。
+1. 诺贝尔奖得主奎洛兹认为地球外存在生命，原因是宇宙行星数量庞大。
+2. 他强调探索系外行星不是为了寻找人类下一个居住地，而是为了更好地在地球上和平生活。
+3. 他认为可能在火星上发现已消失的生命痕迹，也许只是细菌的痕迹。
+4. 观测系外行星能带来宇宙中是否存在宜居带和生物的证据。
+5. 他认为人工智能技术在未来探测宇宙方面有重要作用，例如AI机器人可用于月球基地的日常管理和运转。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[惹祸的高市早苗别忘了村山生前警示：日本该道歉就道歉，否则将失信于邻]]></title>
-        <link href="https://m.thepaper.cn/detail/31982954" />
-        <id>https://m.thepaper.cn/detail/31982954</id>
-        <updated>Mon, 17 Nov 2025 13:32:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词：高市早苗, 日本首相, 领土问题, 历史认知, 村山富市
+        <title><![CDATA[耶伦警告：美国面临沦为“香蕉共和国”的危险]]></title>
+        <link href="https://www.yicai.com/news/102915435.html" />
+        <id>https://www.yicai.com/news/102915435.html</id>
+        <updated>Mon, 17 Nov 2025 19:33:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 耶伦，美联储，独立性，特朗普，AI投资
 
 <br><br>总结:
-1. 日本首相高市早苗近期在涉及邻国主权和地区稳定的问题上发表不当言论。
-2. 这位首相是2025年10月上任的。
-3. 日本前首相村山富市十年前曾警告日本要正视历史并坦率道歉，否则会失去邻国的信任。
-4. 文章旨在批评高市早苗，并用村山富市的言论做对比，警示日本政府在历史问题上的态度。
+1. 耶伦警告美国面临沦为“香蕉共和国”的风险，主要由于特朗普政府对美联储的干预，威胁其独立性，可能摧毁其信誉。
+2. 特朗普政府试图解雇美联储理事丽莎·库克，进一步威胁美联储的独立性，耶伦认为一旦成功，美联储的独立性将终结。
+3. 企业因害怕受到特朗普政府的报复而不敢表达负面看法，政策制定存在不确定性。
+4. AI投资热潮掩盖了真正的美国经济风险，可能重蹈2001-2002年科技泡沫破裂的覆辙，科技行业表现令人失望，对美国经济将变得脆弱
+5. 人才流失和美元汇率下跌是美国经济面临的紧张迹象，影响美国在新技术领域的领先地位和经济增长。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[赣锋锂业董事长惊天预言：2026年碳酸锂价格有望突破15甚至20万元一吨！]]></title>
-        <link href="https://wallstreetcn.com/articles/3759519" />
-        <id>https://wallstreetcn.com/articles/3759519</id>
-        <updated>Mon, 17 Nov 2025 13:22:21 +0800</updated>
-        <summary type="html"><![CDATA[关键词：锂价，供需，储能，新能源车，产业链
+        <title><![CDATA[现场直击：开业仅数月，“派特鲜生”将全部关店]]></title>
+        <link href="https://www.yicai.com/video/102915446.html" />
+        <id>https://www.yicai.com/video/102915446.html</id>
+        <updated>Mon, 17 Nov 2025 19:20:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 宠物生意, 派特鲜生, 门店停业, 侯毅, 线上业务
 
 <br><br>总结:
-1.  **市场现状：** 碳酸锂市场正从2025年的预计过剩转为短缺，库存下降，供需缺口显现，期货价格上涨。
-
-2.  **需求增长：** 储能产业爆发和新能源汽车持续增长是锂需求的关键驱动因素，政策变动也刺激了需求。
-
-3.  **供应受限：** 2026年碳酸锂供应预计增长有限，优质锂资源获取难度加大，地缘政治风险和环保要求制约了供应扩张。
-
-4.  **价格预测：** 赣锋锂业预测，2026年碳酸锂市场供需将基本平衡，价格有上涨空间，若需求增速超过30%，价格可能突破15万元/吨甚至20万元/吨。
-
-5.  **产业链影响：** 碳酸锂价格波动将影响整个产业链，企业通过一体化布局、调整定价机制、加速技术变革来应对风险。
+1. “派特鲜生”多家线下门店已经停业，大众点评显示多数门店暂停或歇业。
+2. 创始人侯毅透露，因线下经营压力大，计划12月中旬关闭所有线下门店。
+3.  “派特鲜生”将保留线上业务。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美团 LongCat 团队发布全模态一站式评测基准 UNO-Bench]]></title>
-        <link href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html" />
-        <id>https://tech.meituan.com/2025/11/17/longcat-uno-bench.html</id>
-        <updated>Mon, 17 Nov 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：全模态大模型，评测基准，UNO-Bench，组合定律，协同增益
+        <title><![CDATA[市场调整将延续到何时？分析称尚未看到牛市顶部信号]]></title>
+        <link href="https://www.yicai.com/news/102915432.html" />
+        <id>https://www.yicai.com/news/102915432.html</id>
+        <updated>Mon, 17 Nov 2025 19:14:10 +0800</updated>
+        <summary type="html"><![CDATA[A股, 震荡, 慢牛, 科技股, 资金流
 
 <br><br>总结:
-*   美团 LongCat 团队发布了全模态大模型评测基准 UNO-Bench。
-*   该基准能同时评估模型的单模态和全模态理解能力。
-*   UNO-Bench 首次验证了全模态大模型的“组合定律”。
-*   “组合定律”在弱模型中表现为短板效应，在强模型中体现为协同增益。
-*   该基准提供了一种跨越模型规模的全新分析方法。
+1. A股市场近期围绕4000点震荡，成交额萎缩，两融余额下降，表明多空动能同步回落。
+2. 市场主线缺位，科技股短期性价比不高，顺周期板块受制于中期逻辑不确定性，导致市场高位震荡。
+3. 业内普遍认为A股慢牛格局未变，机构认为尚未看到牛市顶部信号。
+4. 资金流向显示，前期涨幅较大的科技股出现回调，市场热点轮动加快。
+5. 分析师建议关注科技成长（AI）调整后的配置机会，以及顺周期板块的估值修复空间，关注科技创新、消费复苏、高股息防御三大主线，市场或出现风格再均衡。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美团开源LongCat-Audio-Codec，高效语音编解码器助力实时交互落地]]></title>
-        <link href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html" />
-        <id>https://tech.meituan.com/2025/11/14/longcat-audio-codec.html</id>
-        <updated>Fri, 14 Nov 2025 08:00:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词：Speech LLM，音频编解码，LongCat-Audio-Codec，Token，语音大模型
+        <title><![CDATA[腾讯京东B站业绩超预期，为何却连跌三天？｜市场观察]]></title>
+        <link href="https://www.yicai.com/news/102915396.html" />
+        <id>https://www.yicai.com/news/102915396.html</id>
+        <updated>Mon, 17 Nov 2025 19:06:05 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 港股, 业绩超预期, 成交量, 美联储降息, 恒生科技指数
 
 <br><br>总结:
-1. 美团 LongCat 团队开源了 LongCat-Audio-Codec 语音编解码方案，旨在解决 Speech LLM 落地中的音频处理难题。
-2. 该方案提供了一套 Token 生成器和 Token 还原器工具链，将原始音频信号映射为语义与声学并行的 Token 序列。
-3. 通过高效离散化处理，LongCat-Audio-Codec 能够帮助 Speech LLM 实现对音频信号的理解和高质量重构。
-4. 该方案为语音大模型提供了从信号输入到输出的全链路音频处理支持，使其既能理解语义，又能清晰地表达。
+1.  近期香港上市互联网龙头企业（如腾讯、京东、B站）业绩超预期，但股价却连续下跌，恒生科技指数也随之下跌。
+2.  股价下跌原因：一是前期股价已反映业绩利好，部分投资者获利了结；二是港股大盘突破27000点后回调，成交量萎缩，资金面观望情绪浓厚，12月美联储降息预期降低。
+3.  港股资金面：港股成交量明显回落，但南向资金仍在流入，外资流出放缓。成交量下降反映市场活跃度降低，但需结合其他指标综合分析。
+4.  美联储降息：市场关注12月美联储是否降息，可能影响全球风险偏好及港股走势。降息消息落地后，成交额及波动幅度有望重新放大。
+5.  未来展望：港股短期可能进入震荡整理阶段，需关注南向资金、外资流入及机构持仓情况，把握流动性与情绪的消化期。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run，免费容器，Github注册时间，赠金，Docker应用
+        <title><![CDATA[成品油主业连年下滑，和顺石油拟斥资5.4亿跨界半导体]]></title>
+        <link href="https://www.yicai.com/news/102915395.html" />
+        <id>https://www.yicai.com/news/102915395.html</id>
+        <updated>Mon, 17 Nov 2025 18:41:45 +0800</updated>
+        <summary type="html"><![CDATA[加油站, 半导体, 跨界并购, 盈利能力, 业绩承诺
+
+<br><br>总结:
+1. 和顺石油拟收购半导体IP企业奎芯科技控制权，引发股价上涨，但双方基本面均面临挑战。
+2. 奎芯科技近两年半亏损约8400万元，但交易设定了较高的业绩承诺，需在未来几年内实现收入翻倍和持续盈利。
+3. 和顺石油自身主营业务成品油批发零售盈利能力持续下滑，净利润大幅下降，因此寻求跨界并购以寻找新的增长点。
+4. 交易方案包括“反向入股”，奎芯科技实控人将持有和顺石油6%股份，根据业绩实现情况分期解锁。
+5. 跨界并购能否成功，以及和顺石油能否通过半导体业务实现业绩增长，仍需时间观察。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何理解“存款搬家”？存款非银化路径再明晰，理财“固收+”不只是做加法]]></title>
+        <link href="https://www.yicai.com/news/102915388.html" />
+        <id>https://www.yicai.com/news/102915388.html</id>
+        <updated>Mon, 17 Nov 2025 18:38:16 +0800</updated>
+        <summary type="html"><![CDATA[关键词：存款搬家, 固收+, 理财产品, 风险偏好, 资产配置
+
+<br><br>总结:
+1. **存款非银化趋势**: 10月居民和企业存款减少，非银存款增加，反映存款向理财等资管产品转移。
+2. **固收+产品**: 受益于市场需求和利率环境，"固收+"理财规模预计增长，成为理财公司发力重点。部分产品年化收益率可观。
+3. **权益类资产布局**: 理财公司加速布局“真”权益类资产，提升含权类资产配置比例，以应对投资者风险偏好变化。
+4. **风险控制**: 理财公司在发力“固收+”的同时，重视风险控制，通过多元化配置、合作机构、对冲工具等方式平衡收益和波动。
+5. **投资者变化**: 个人和机构投资者对“固收+”产品的接受度提高，风险偏好有所上升。理财公司需平衡收益与风险，透明化产品信息。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[锂电板块集体大涨！行业去库超预期，储能订单爆发成第二大增长引擎]]></title>
+        <link href="https://www.yicai.com/news/102915362.html" />
+        <id>https://www.yicai.com/news/102915362.html</id>
+        <updated>Mon, 17 Nov 2025 18:34:01 +0800</updated>
+        <summary type="html"><![CDATA[碳酸锂期货, 需求回暖, 去库加速, 储能市场, 价格风险
+
+<br><br>总结:
+1.  碳酸锂期货涨停，创16个月新高，受赣锋锂业董事长对未来需求的乐观预期提振。
+2.  本轮上涨主要由需求端集中释放驱动，新能源汽车和储能市场需求强劲增长，特别是储能成为锂需求的“第二增长引擎”。
+3.  行业去库加速，供给端受矿山停产和矿权转让重审影响，市场情绪偏强。
+4.  短期碳酸锂价格或维持偏强震荡，但需警惕现货成交疲软、需求季节性转弱以及市场情绪降温可能引发的回调风险。
+5.  长期来看，供应端高开工和海外盐湖新产能释放预期或限制价格上行空间，需关注下游采购意愿变化。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[近3亿执行标的惊现，西部利得基金回应：系专户产品商事纠纷]]></title>
+        <link href="https://www.yicai.com/news/102915358.html" />
+        <id>https://www.yicai.com/news/102915358.html</id>
+        <updated>Mon, 17 Nov 2025 18:25:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词：西部利得, 债务, 基金经理, 资管计划, 利得科技
+
+<br><br>总结:
+1. 西部利得基金被上海金融法院列为被执行人，执行标的2.91亿元，源于专户产品运作中的商事纠纷。公司称计划财产应承担债务，公司协助法院处分计划财产。
+
+2. 公司第二大股东利得科技多家子公司股权被冻结，其持有的西部利得基金股权也被冻结，但公司称与此次债务无关。
+
+3. 资产管理计划财产独立于管理人，正常情况下管理人无需对计划财产不足部分兜底，除非管理人存在过错并被判决承担赔偿责任。
+
+4. 近期，西部利得基金原基金经理解文增因赌博被免职，公司总经理贺燕萍因到龄退休卸任。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[10月税收同比增长8.6%，财政收入持续回暖]]></title>
+        <link href="https://www.yicai.com/news/102915255.html" />
+        <id>https://www.yicai.com/news/102915255.html</id>
+        <updated>Mon, 17 Nov 2025 18:11:01 +0800</updated>
+        <summary type="html"><![CDATA[税收增长, PPI, 资本市场, 非税收入, 财政支出
+
+<br><br>总结:
+1.  前10月全国一般公共预算收入同比增长0.8%，税收收入增长1.7%，主要受益于PPI降幅收窄和前期基数较低。
+2.  资本市场交易活跃带动相关行业税收增长，如证券交易印花税和个人所得税增长显著。
+3.  部分行业税收表现较好，如计算机通信设备制造业、电气机械器材制造业等。
+4.  非税收入下降，主要原因是国家强化对罚没收入监管。
+5.  政府性基金收入下降，主要受楼市低迷影响，土地出让收入降幅扩大。
+6.  财政支出保持一定强度，但10月份增速有所下滑，为保持财政支出强度，安排下达地方政府债务结存限额和投放新型政策性金融工具资金。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[多地旅行社日本团游客退订：有退团比例超过六成，日本旅游消费股暴跌]]></title>
+        <link href="https://m.thepaper.cn/detail/31983913" />
+        <id>https://m.thepaper.cn/detail/31983913</id>
+        <updated>Mon, 17 Nov 2025 16:54:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词：日本旅游，退订潮，安全风险，股票暴跌，中日关系
+
+<br><br>总结:
+1.  多家旅行社报告赴日团队游退订潮，退订率超过六成，机票退订也很多。
+2.  中国外交部和文旅部先后发布安全提醒，建议中国公民近期避免前往日本，理由包括日本社会治安恶化、针对中国公民的犯罪案件增多以及日本领导人发表涉台挑衅言论。
+3.  国内多家航空公司发布日本航线客票特殊处理通知，允许符合条件的客票免费退改。
+4.  旅行社承担团队游退订产生的酒店、地接等费用损失。
+5.  日本航空、旅游、消费、百货公司等旅游业相关股票暴跌。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[外交部谈G20会议：李强总理没有会见日方领导人的安排]]></title>
+        <link href="https://m.thepaper.cn/detail/31983522" />
+        <id>https://m.thepaper.cn/detail/31983522</id>
+        <updated>Mon, 17 Nov 2025 15:28:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词：G20, 李强, 日本首相, 会谈, 外交部
+
+<br><br>总结:
+* 11月17日，外交部例行记者会上彭博社记者提问李强总理是否会在G20期间与日本首相会谈。
+* 外交部发言人毛宁明确表示，李强总理没有会见日方领导人的安排。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[韩国海军暂停与日本海上自卫队举行联合搜救演习]]></title>
+        <link href="https://m.thepaper.cn/detail/31982958" />
+        <id>https://m.thepaper.cn/detail/31982958</id>
+        <updated>Mon, 17 Nov 2025 13:38:16 +0800</updated>
+        <summary type="html"><![CDATA[联合搜救演习, 中断, 重启, 加油支援, 防卫交流
+
+<br><br>总结:
+1. 韩国海军暂停与日本海上自卫队原定的联合搜救演习。
+2. 日本防卫省表示将重新调整演习时间。
+3. 此前，日方以韩国空军“黑鹰”曾在独岛附近飞行训练为由，拒绝提供加油支援，致其无法参加迪拜航展。
+4. 作为回应，韩国取消了军乐队参加日本自卫队音乐节的计划。
+5. 尽管防卫交流受阻，日方表示希望平息事态，维持良好韩日关系，并表示将继续合作和交流。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对冲基金CIO：每个人都在准备2026年，特朗普"不惜一切"赢中选，"人们觉得一季度暴涨，然后5月卖掉"]]></title>
+        <link href="https://wallstreetcn.com/articles/3759511" />
+        <id>https://wallstreetcn.com/articles/3759511</id>
+        <updated>Mon, 17 Nov 2025 11:42:25 +0800</updated>
+        <summary type="html"><![CDATA[政治周期, 美联储主席, 通胀预期, AI需求, 中期选举
+
+<br><br>总结:
+1. 投资者押注2026年政治周期主导市场，预期一季度强劲反弹，5月新任美联储主席上任后市场面临考验。
+2. 预计全球增长预期上调，美国名义GDP增速可能升至5%以上，财政刺激和退税将提振需求，迫使美联储加息。
+3. AI投资带来的供给侧提振需要数年，需求反应迅速，供给短期内受限，通胀预期不再稳定，明年可能回升。
+4. 市场关注2026年赚钱机会，交易员清理账簿为明年布局，无需年底冲刺。
+5. 11月3日中期选举是关键节点，特朗普将采取一切手段赢得选举，这一政治逻辑塑造投资者仓位布局。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[秋假带火淡季旅游市场，多地景区齐发门票约满公告，网友：以为又过了一遍五一十一]]></title>
+        <link href="https://m.thepaper.cn/detail/31980228" />
+        <id>https://m.thepaper.cn/detail/31980228</id>
+        <updated>Mon, 17 Nov 2025 08:17:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 秋假, 中小学生, 景区, 免票, 旅游
+
+<br><br>总结:
+1. 浙江、四川、广东等地中小学试行3天秋假，加上周末形成5天小长假，导致热门景区客流激增，堪比节假日。
+2. 多地景区推出中小学生免门票优惠，部分景区家长也可享受折扣，刺激了亲子游需求。
+3. 热门景区门票迅速约满，西安等地的景区出现大量四川口音游客，上海迪士尼则挤满了浙江游客。
+4. 秋假带动了浙江、四川周边短途游的增长，多个景区门票预订量周环比增长超过10倍。
+5. 部分家长选择长线游，北京、西安、成都等成为热门目的地，机票搜索量和价格快速攀升。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云，内网穿透，Docker，Cloudflare隧道，UUID
 
 <br><br>总结:  
-1. Claw Cloud Run是一款免费容器平台，用户只要Github注册时间超过180天即可获得每月5美元赠金，实现长期免费使用。  
-2. 该平台支持多种Docker应用，既可以通过应用商店一键自动部署，也支持手动部署。  
-3. 用户可通过访问 https://api.github.com/users/XXX（将XXX替换为Github用户名）查看自己的Github注册时间，注意该API对同一IP有请求限制。  
-4. 推荐部署的两个应用是轻笔记应用Memos和网盘挂载工具AList，均可方便使用。  
-5. 更多详细内容和操作演示可参考相关Youtube视频。]]></summary>
+1. 前置工作包括获取root权限和安装Docker。  
+2. 临时隧道模式只需运行指定docker命令启动容器。  
+3. 固定隧道模式需要准备UUID、Cloudflare隧道Token和隧道域名，UUID可通过网站生成或代理工具生成。  
+4. 使用Cloudflare Zero Trust控制面板创建固定隧道，运行对应docker命令启动容器并查看日志。  
+5. 常用docker命令用于管理容器，如查看、停止和删除。文章还附带相关视频教程链接，方便用户快速部署和配置爪云科学上网节点。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云，免费VPS，费用控制，SSH登录，科学上网
-
-总结:  
-1. 谷歌云免费VPS可用8个月零0.03美元的最低费用，注意关闭“数据保护”中的快照时间表以免产生费用。  
-2. 注册谷歌云账户需绑定外币信用卡或借记卡，三个月试用期后再激活完整账户。  
-3. 创建免费VM实例时推荐选择俄勒冈地区，配置为E2-micro，操作系统Linux（Ubuntu），30GB标准永久性磁盘。  
-4. 为节点开放入站和出站防火墙规则，初学者可选择全部放行以简化操作。  
-5. 科学上网建议使用Hysteria 2节点，标准层级入站和前200GB出站流量免费，避免使用Cloudflare CDN以免额外收费。  
-此外，SSH登录推荐使用谷歌云官方后台方式，第三方工具需上传密钥配对。详细搭建步骤及示范见相关YouTube视频。]]></summary>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址，免费域名，us.kg，续期，Github
-
-总结:  
-1. 提供了注册地址以及美国地址生成器的相关链接，便于用户使用。  
-2. 推荐两个可用域名，分别是免费域名dpdns.org和收费域名us.kg（价格12元/个）。  
-3. 免费域名额度方面，新用户默认1个，Github加Star后提升到2个；老用户默认3个，Github加Star后提升到4个。  
-4. us.kg域名不占用免费域名额度，且永久免费，但需每年续期，续期时间为到期前180天内。  
-5. 详细操作教程和Cloudflare Pages自定义域及SSL证书问题可参考相关Youtube视频，链接在文中提供。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg域名，域名托管，Cloudflare，FreeDNS，注册情况
 
 <br><br>总结:  
-1. 稳定性和速度方面，服务整体表现较好，但部分代理节点存在延迟，需要根据测速结果选择最佳节点。  
-2. 使用过程中是否需要保活取决于具体使用场景，建议定期维护连接以确保稳定访问。  
-3. 有用户反馈ChatGPT存在“降智”现象，表现为回复质量下降，但影响程度因人而异，具体原因仍在探讨。  
-4. 购买过程较为顺畅，官方支持修改登录密码和续费操作，用户体验良好。  
-5. 综合考虑价格、性能和支持，购买该服务对于需要稳定高速代理的用户来说还是值得的。]]></summary>
+1. 已注册的us.kg免费域名目前仍然有效，之前的所有权依旧保持。  
+2. 新注册的us.kg域名在直接托管到Cloudflare方面存在一定限制，不能完全支持。  
+3. 作为临时方案，可以选择将域名托管到FreeDNS，以保证解析的稳定性和灵活性。  
+4. 目前us.kg平台注册新域名的服务仍处于不确定状态，部分功能受到影响，建议谨慎操作。  
+5. 文章还区分了两种类型的域名及其使用方式，帮助用户更好地理解和选择适合自己的域名托管方案。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[免费域名，Cloudflare，注册账号，优惠码，域名托管  
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00登录，科学上网节点，Cloudflare隧道，CDN回源，网页及远程保活
 
 总结:  
-1. US.KG域名注册不了，推荐使用其他免费域名注册服务。  
-2. 使用身份信息生成器辅助填写注册所需信息，提升注册效率和成功率。  
-3. 注册账号时可使用优惠码“newuser”，享受免费一年域名的优惠。  
-4. 注册完成后，将域名托管到Cloudflare，登录Cloudflare添加域名。  
-5. 根据Cloudflare分配的两个名称服务器，将其填写到域名管理界面，实现域名解析。  
-更多具体操作可参考相关YouTube视频教程，时间节点清晰，便于学习。]]></summary>
+1. 登录阶段：可使用s*.serv00.com、cache*.serv00.com或web*.serv00.com任一域名登录，若IP被屏蔽，则通过系统代理辅助登录。  
+2. 科学上网节点搭建：包括系统初始化（若之前安装过服务可跳过）、端口重置及脚本安装。  
+3. Cloudflare固定隧道设置：需拥有托管在Cloudflare的域名，新建HTTP类型隧道，关联本地端口，并输入隧道域名和令牌。  
+4. CDN回源配置：添加DNS A记录指向Serv00 IP，再配置回源规则，确保域名请求正确转发到指定端口。  
+5. 网页及远程保活：本地通过/up、/re、/rp命令管理节点和端口；通过Cloudflare Worker运行保活脚本，定时请求主页实现远程保活。  
+此外，文末提供了详细的YouTube视频教程和时间线便于学习。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG，域名注册，KYC验证，Cloudflare，免费续订  
+
+总结:  
+1. 由于US.KG域名目前受限，建议先通过https://dash.domain.digitalplat.org/完成注册和KYC验证。  
+2. 注册流程包括账号注册（信息可借助身份信息生成器）、邮箱验证、KYC文件上传等步骤。  
+3. 完成KYC后，可进行域名注册，并待US.KG域名状态恢复后，将域名托管到Cloudflare，提高管理便利性。  
+4. 视频教程详细讲解了账号注册、邮箱验证、KYC文件准备、域名注册及Cloudflare托管等全过程。  
+5. 使用US.KG免费域名虽省钱，但存在续订问题和部分限制，用户需权衡利弊。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek，网页端，API，本地部署，第三方应用  
+
+<br><br>总结:  
+1. 介绍了Deepseek的基础信息及其功能特点。  
+2. 讲解了Deepseek的网页端和手机APP的使用方法。  
+3. 说明了Deepseek API的注册及使用，注册需+86手机号，赠送10元体验金，有效期一个月。  
+4. 介绍了Perplexity和其他第三方应用如何集成和使用Deepseek。  
+5. 详细介绍了Deepseek本地部署步骤，包括下载安装Ollama、使用命令提示符输入指令，以及使用Chatbox选择Ollama API模型和硬件参考。  
+视频中有详细操作指引，便于用户更好地理解和应用。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
