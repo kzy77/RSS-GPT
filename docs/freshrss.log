@@ -1,66 +1,50 @@
 ------------------------------------------------------
-Started: 2025-11-18 12:41:05.654491
-Existing_entries: 6
+Started: 2025-11-18 14:19:58.319712
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2220
+Token length: 1603
 Summarized using gemini model: gemini-2.0-flash
-Append: [闲置金条"生利息" ，金价高企、波动性加剧催旺黄金租赁](https://www.yicai.com/news/102917350.html)
-Token length: 987
+Append: [一财社论：大力提振消费离不开地方政绩考核体系优化](https://www.yicai.com/news/102917563.html)
+Token length: 3585
 Summarized using gemini model: gemini-2.0-flash
-Append: [减重药有望治疗“暴食症” ，厂商又找到新卖点](https://www.yicai.com/news/102917298.html)
-Token length: 1799
+Append: [央企巨头股权联姻，预示国资改革新范式](https://www.yicai.com/news/102917395.html)
+Token length: 3331
 Summarized using gemini model: gemini-2.0-flash
-Append: [化工板块大幅降温，是行情终结还是加仓机会？](https://www.yicai.com/news/102917323.html)
-Token length: 3250
+Append: [告别“内卷式”竞争，提升数字经济监管效能丨法经兵言](https://www.yicai.com/news/102917397.html)
+Token length: 2350
 Summarized using gemini model: gemini-2.0-flash
-Append: [高溢价警报频响难挡狂热，跨境ETF规模年增117%](https://www.yicai.com/news/102917332.html)
-Token length: 1193
+Append: [年末债市波动有限 银行配置需求支撑市场平稳运行](https://www.yicai.com/news/102917492.html)
+Token length: 128
 Summarized using gemini model: gemini-2.0-flash
-Append: [制氢设备电解槽价格“膝斩”，40家氢能企业发起行业“反内卷”倡议](https://www.yicai.com/news/102917291.html)
-Token length: 2451
+Append: [Cloudflare 故障导致大规模站点无法访问（2025-11-18 实时记录 + 背景分析）](https://uuzi.net/cloudflare-outage-2025/)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}
+Append: [逾2000亿元中期分红待发，银行股能否出现“抢权行情”](https://www.yicai.com/news/102917489.html)
+Token length: 801
 Summarized using gemini model: gemini-2.0-flash
-Append: [外资调研热情不减：月内涌入超百家A股公司，最青睐AI企业](https://www.yicai.com/news/102917275.html)
-Token length: 613
+Append: [倒计时10天！第三届全国人力资源服务业发展大会聚力引才聚才](https://www.yicai.com/news/102917474.html)
+Token length: 587
 Summarized using gemini model: gemini-2.0-flash
-Append: [娃哈哈2025年实现了5亿收入增长，但全年收入并未公开](https://www.yicai.com/news/102917285.html)
-Token length: 2061
+Append: [《疯狂动物城》第二部来了，全球票房有望冲击20亿美元](https://www.yicai.com/news/102917472.html)
+Token length: 769
 Summarized using gemini model: gemini-2.0-flash
-Append: [交通运输部：推动低空交通运输应用场景创新发展](https://www.yicai.com/news/102917268.html)
-Token length: 825
+Append: [Cloudflare CDN 出现全球性宕机！估计大量的网站要遭殃，全部显示500错误](https://www.freedidi.com/21683.html)
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国10月18日当周首申人数为23.2万人，政府停摆致官方报告持续缺席](https://wallstreetcn.com/articles/3759625)
-Token length: 2152
+Append: [多地推行中小学春秋假！ 教育减负与消费提振的双向奔赴 “孩子放假、家长不休”怎么办？ 专家：解决家亲子的“时间差”是关键](https://www.yicai.com/video/102917372.html)
+Token length: 1323
 Summarized using gemini model: gemini-2.0-flash
-Append: [刚刚，中美机器人爆发了一场论战](https://wallstreetcn.com/articles/3759621)
-Token length: 1027
+Append: [爱奇艺由盈转亏，腾讯视频会员数不涨了](https://www.yicai.com/news/102917431.html)
+Token length: 2383
 Summarized using gemini model: gemini-2.0-flash
-Append: [宗馥莉缺席娃哈哈经销商大会：总经理许思敏公开亮相，称“站稳了近10年业绩巅峰”](https://m.thepaper.cn/detail/31990504)
-Token length: 1457
+Append: [小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻](https://wallstreetcn.com/articles/3759633)
+Token length: 513
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国汽车出口量为日本1.6倍，大幅甩开昔日霸主](https://www.yicai.com/news/102917135.html)
-Token length: 2277
+Append: [视频丨福建舰开展入列后首次海上实兵训练](https://m.thepaper.cn/detail/31991433)
+Token length: 1042
 Summarized using gemini model: gemini-2.0-flash
-Append: [家用人形机器人将重塑消费电子市场格局](https://www.yicai.com/news/102915647.html)
-Token length: 173
+Append: [马上评｜企业家的“鸡汤”要走出南极，回归员工的日常](https://m.thepaper.cn/detail/31988537)
+Token length: 1769
 Summarized using gemini model: gemini-2.0-flash
-Append: [娃哈哈2025年实现了5亿的收入增长，宗馥莉奖励员工金牌](https://www.yicai.com/news/102917222.html)
-Token length: 2488
-Summarized using gemini model: gemini-2.0-flash
-Append: [晚间公告｜11月18日这些公告有看头](https://www.yicai.com/news/102917207.html)
-Token length: 195
-Summarized using gemini model: gemini-2.0-flash
-Append: [龙虎榜丨机构今日买入这20股，卖出天赐材料3.82亿元](https://www.yicai.com/news/102917163.html)
-Token length: 110
-Summarized using gemini model: gemini-2.0-flash
-Append: [Google Play 付款失败？2025 最新完整解决方案（亲测有效）](https://uuzi.net/google-play-payment-failed-fix/)
-Token length: 1663
-Summarized using gemini model: gemini-2.0-flash
-Append: [陈天桥详解“大脑之镜” 首发世界级开源长期记忆系统](https://www.yicai.com/news/102917100.html)
-Token length: 143
-Summarized using gemini model: gemini-2.0-flash
-Append: [硅烷龙头毛利率27.9%远超同业 零有息负债 PE仅15倍](https://www.yicai.com/vip/news/102917053.html)
-Token length: 165
-Summarized using gemini model: gemini-2.0-flash
-Append: [盈利明显修复！26年玻纤量价弹性可观、受益AI高景气](https://www.yicai.com/vip/news/102917041.html)
-append_entries: 20
-Finish: 2025-11-18 12:42:29.676456
+Append: [媒体：“杀人蜂”生意链，不该继续游走在监管盲区里](https://m.thepaper.cn/detail/31985263)
+append_entries: 15
+Finish: 2025-11-18 14:21:11.180913
