@@ -1,66 +1,35 @@
 ------------------------------------------------------
-Started: 2025-11-19 14:19:47.652237
+Started: 2025-11-19 16:26:58.578921
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元](https://wallstreetcn.com/articles/3759700)
+Token length: 1283
+Summarized using gemini model: gemini-2.0-flash
+Append: [两大游戏引擎巨头“世纪牵手”！会改变游戏生态吗？](https://www.yicai.com/news/102919706.html)
+Token length: 1042
+Summarized using gemini model: gemini-2.0-flash
+Append: [中金拟换股吸收东兴、信达两券商，总资产将超万亿](https://www.yicai.com/news/102919699.html)
+Token length: 988
+Summarized using gemini model: gemini-2.0-flash
+Append: [全球网络服务意外中断事件频发，自动化系统竟成风险源](https://www.yicai.com/news/102919432.html)
+Token length: 765
+Summarized using gemini model: gemini-2.0-flash
+Append: [荷兰政府暂停禁令，闻泰尚未完全重新掌控安世](https://www.yicai.com/news/102919692.html)
+Token length: 1432
+Summarized using gemini model: gemini-2.0-flash
+Append: [车企竞相押注的增程车，还是门好生意吗？](https://www.yicai.com/news/102919433.html)
+Token length: 1102
+Summarized using gemini model: gemini-2.0-flash
+Append: [可灵AI全年收入约1.4亿美元，快手继续加大算力投入](https://www.yicai.com/news/102919501.html)
+Token length: 75
+Summarized using gemini model: gemini-2.0-flash
+Append: [成都女子家门口遭持刀杀害案将开庭，其母望严惩凶手：精神病不是“免死金牌”！](https://m.thepaper.cn/detail/31999230)
+Token length: 1563
+Summarized using gemini model: gemini-2.0-flash
+Append: [全球首款可全天候佩戴的隐形显示AI眼镜，Gyges Labs完成新一轮融资|硬氪首发](https://www.36kr.com/p/3559315009092485)
 Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普巨额索赔BBC，新闻中立为何死亡？](https://www.huxiu.com/article/4807296.html)
-Token length: 2161
-Summarized using gemini model: gemini-2.0-flash
-Append: [打造算力超级大脑，2027年上海全域覆盖意味着什么](https://www.yicai.com/news/102919548.html)
-Token length: 3465
-Summarized using gemini model: gemini-2.0-flash
-Append: [5万亿后可能还有10万亿，南向资金点燃港股慢牛引擎](https://www.yicai.com/news/102919547.html)
-Token length: 1403
-Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：纠治违规异地执法、趋利性执法须久久为功](https://www.yicai.com/news/102919544.html)
-Token length: 1571
-Summarized using gemini model: gemini-2.0-flash
-Append: [碳市场配额方案落地，钢铁等三大行业低碳转型将迎哪些机遇与挑战](https://www.yicai.com/news/102919525.html)
-Token length: 1987
-Summarized using gemini model: gemini-2.0-flash
-Append: [“双速”困境下，需重塑ESG评价标准](https://www.yicai.com/news/102919521.html)
-Token length: 4605
-Summarized using gemini model: gemini-2.0-flash
-Append: [林伯强：能源清洁低碳转型是新质生产力︱能源思考](https://www.yicai.com/news/102919520.html)
-Token length: 181
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI进化速递丨张国清：加快制造业数智化转型升级](https://www.yicai.com/news/102919469.html)
-Token length: 2168
-Summarized using gemini model: gemini-2.0-flash
-Append: [消金不良处置节奏加快，“未诉即卖”成趋势](https://www.yicai.com/news/102919455.html)
-Token length: 2425
-Summarized using gemini model: gemini-2.0-flash
-Append: [权益基金“冰火两重天”：97%产品正收益与百只清盘并存](https://www.yicai.com/news/102919450.html)
-Token length: 2248
-Summarized using gemini model: gemini-2.0-flash
-Append: [签单与扩产进入活跃期，锂电产业新一轮周期重启？](https://www.yicai.com/news/102919435.html)
-Token length: 1410
-Summarized using gemini model: gemini-2.0-flash
-Append: [第十四届“沪上金融家”评选揭晓，21位金融人才获奖](https://www.yicai.com/news/102915709.html)
-Token length: 3399
-Summarized using gemini model: gemini-2.0-flash
-Append: [息差企稳与不良双升并存，三季度银行业盈利与风险博弈继续](https://www.yicai.com/news/102919402.html)
-Token length: 1029
-Summarized using gemini model: gemini-2.0-flash
-Append: [家电再生材料使用规范国家标准发布，要求构建追溯机制](https://www.yicai.com/news/102919385.html)
-Token length: 2988
-Summarized using gemini model: gemini-2.0-flash
-Append: [让教育的星火，在城乡教育人之间连接](https://www.yicai.com/news/102919400.html)
-Token length: 40
-Summarized using gemini model: gemini-2.0-flash
-Append: [荷兰政府宣布暂停对安世半导体的行政令](https://m.thepaper.cn/detail/31999398)
-Token length: 1096
-Summarized using gemini model: gemini-2.0-flash
-Append: [江苏科技大学造假者郭某商业版图曝光，经营多家材料企业](https://m.thepaper.cn/detail/31998987)
-Token length: 1053
-Summarized using gemini model: gemini-2.0-flash
-Append: [席绢封笔，一家出版社结束营业，一个言情时代落幕了吗？](https://m.thepaper.cn/detail/31999004)
-Token length: 726
-Summarized using gemini model: gemini-2.0-flash
-Append: [贪污超1.08亿、受贿超1.05亿，新华保险原董事长李全一审被判死缓](https://m.thepaper.cn/detail/31998989)
-Token length: 3479
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI杀死了AI，Cloudflare全球崩盘惨案，元凶已被原地解雇](https://www.36kr.com/p/3559666808241026)
-append_entries: 20
-Finish: 2025-11-19 14:21:18.537153
+Append: [江苏科技大学通报郭某学术造假事件：已解聘，案件正在侦办](https://m.thepaper.cn/detail/31993897)
+append_entries: 10
+Finish: 2025-11-19 16:27:28.585005
