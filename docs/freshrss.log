@@ -1,30 +1,65 @@
 ------------------------------------------------------
-Started: 2025-11-21 08:27:53.507997
-Existing_entries: 20
+Started: 2025-11-21 10:20:18.423716
+Existing_entries: 8
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 181
+Token length: 1164
 Summarized using gemini model: gemini-2.0-flash
-Append: [甲骨文云 (Oracle Cloud) 收到 DMCA 侵权通知，为了保号，我只能删机跑路](https://uuzi.net/oracle-cloud-dmca-notice-record/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-cloud-dmca-notice-record)
-Token length: 1287
+Append: [上海国际艺术书展举行：从文化盛会到贸易枢纽](https://www.yicai.com/news/102922955.html)
+Token length: 1013
 Summarized using gemini model: gemini-2.0-flash
-Append: [乌克兰危机现转机？特朗普支持的“28点和平计划”写了啥](https://www.yicai.com/news/102922746.html)
-Token length: 861
+Append: [欧洲企业在中国丨升级在华技术中心，中国生物医药创新“圈粉”这家法企](https://www.yicai.com/news/102922783.html)
+Token length: 1519
 Summarized using gemini model: gemini-2.0-flash
-Append: [潘建伟学生彭承志48岁当选中国科学院院士，曾任国盾量子董事长](https://www.yicai.com/news/102922692.html)
-Token length: 586
+Append: [COP30接近尾声，专访联合国副秘书长徐浩良：立即行动重回控温轨道](https://www.yicai.com/news/102922887.html)
+Token length: 1664
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股三大指数放量调整，市场近5100只个股下跌](https://www.yicai.com/news/102922735.html)
-Token length: 883
+Append: [全力打造“智造高地”，上海奉贤2024年规上工业产值突破2775亿元](https://www.yicai.com/news/102922889.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [美联储货币政策前景分歧 金银区间波动](https://www.yicai.com/news/102922611.html)
+Token length: 1583
 Summarized using gemini model: gemini-2.0-flash
-Append: [最高法：家庭暴力不是家庭纠纷，精神暴力也是家庭暴力](https://www.yicai.com/news/102922622.html)
-Token length: 1764
+Append: [打造链接全球的“超级接口”，2025汉交会在武汉启幕](https://www.yicai.com/news/102922856.html)
+Token length: 2583
 Summarized using gemini model: gemini-2.0-flash
-Append: [我TM被AI骗了!！损失惨痛~](https://juejin.cn/post/7574648745894281257)
-Token length: 1973
+Append: [《西游记》原著比改编更有趣，下个爆火IP可能还是美猴王](https://www.yicai.com/news/102922649.html)
+Token length: 2950
 Summarized using gemini model: gemini-2.0-flash
-Append: [【保姆级教程】免费使用Gemini3的5种方法！免翻墙/国内直连](https://juejin.cn/post/7574622940689039379)
-Token length: 154
+Append: [从船级社到ISO9004，这些标准如何走向全球化应用](https://www.yicai.com/news/102922651.html)
+Token length: 113
 Summarized using gemini model: gemini-2.0-flash
-Append: [个人问题总结：JavaBoy第一个正式参与的实际项目](https://www.cnblogs.com/kun1790051360/p/19145908)
-append_entries: 8
-Finish: 2025-11-21 08:28:15.914894
+Append: [A股今日共33只个股涨停 中水渔业6连板](https://www.yicai.com/news/102922760.html)
+Token length: 241
+Summarized using gemini model: gemini-2.0-flash
+Append: [高市早苗称台湾问题立场没有改变，外交部：日方应立即收回错误言论](https://m.thepaper.cn/detail/32014329)
+Token length: 965
+Summarized using gemini model: gemini-2.0-flash
+Append: [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864)
+Token length: 686
+Summarized using gemini model: gemini-2.0-flash
+Append: [易烊千玺主演《狂野时代》预售破亿，增速远超同类文艺片](https://m.thepaper.cn/detail/32013351)
+Token length: 4635
+Summarized using gemini model: gemini-2.0-flash
+Append: [51岁周志华、53岁刘云浩，当选中国科学院院士](https://www.36kr.com/p/3562296376818816)
+Token length: 2368
+Summarized using gemini model: gemini-2.0-flash
+Append: [外卖大战谁赢谁输？复旦研究了4万余家餐饮商户数据：普遍增量不增收](https://m.thepaper.cn/detail/32012843)
+Token length: 1259
+Summarized using gemini model: gemini-2.0-flash
+Append: [最高法典型案例：持续辱骂致婚前同居者自杀身亡构成虐待罪](https://m.thepaper.cn/detail/32012731)
+Token length: 4174
+Summarized using gemini model: gemini-2.0-flash
+Append: [英伟达的好业绩，是小米的坏消息](https://www.36kr.com/p/3562193927928969)
+Token length: 568
+Summarized using gemini model: gemini-2.0-flash
+Append: [“80后”刘若川当选中国科学院院士](https://m.thepaper.cn/detail/32012382)
+Token length: 8146
+Summarized using gemini model: gemini-2.0-flash
+Append: [是“小镇错题本”，也没关系](https://m.thepaper.cn/detail/32006616)
+Token length: 3258
+Summarized using gemini model: gemini-2.0-flash
+Append: [重庆知名幼儿园爆雷后：负责人已被批捕，接收方收餐费遭反对](https://m.thepaper.cn/detail/32006969)
+Token length: 1050
+Summarized using gemini model: gemini-2.0-flash
+Append: [马上评︱南“郭”先生，是怎么在高校里不露馅的？](https://m.thepaper.cn/detail/32006494)
+append_entries: 20
+Finish: 2025-11-21 10:21:50.208675
