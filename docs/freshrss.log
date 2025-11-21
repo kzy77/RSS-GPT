@@ -1,65 +1,66 @@
 ------------------------------------------------------
-Started: 2025-11-21 10:20:18.423716
-Existing_entries: 8
+Started: 2025-11-21 12:39:06.595893
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1164
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海国际艺术书展举行：从文化盛会到贸易枢纽](https://www.yicai.com/news/102922955.html)
-Token length: 1013
+Append: [BBC，一个伪装成英国道德主义的遗老](https://www.huxiu.com/article/4808138.html)
+Token length: 3962
 Summarized using gemini model: gemini-2.0-flash
-Append: [欧洲企业在中国丨升级在华技术中心，中国生物医药创新“圈粉”这家法企](https://www.yicai.com/news/102922783.html)
-Token length: 1519
+Append: [专访宝格丽首席执行官：中国一如既往是我们的优先重点](https://www.yicai.com/news/102923233.html)
+Token length: 174
 Summarized using gemini model: gemini-2.0-flash
-Append: [COP30接近尾声，专访联合国副秘书长徐浩良：立即行动重回控温轨道](https://www.yicai.com/news/102922887.html)
-Token length: 1664
+Append: [2025第一财经金融价值年会与会嘉宾金句集锦](http://m.yicai.com/image/102923212.html)
+Token length: 2742
 Summarized using gemini model: gemini-2.0-flash
-Append: [全力打造“智造高地”，上海奉贤2024年规上工业产值突破2775亿元](https://www.yicai.com/news/102922889.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [美联储货币政策前景分歧 金银区间波动](https://www.yicai.com/news/102922611.html)
-Token length: 1583
+Append: [深度｜一纸判决炸出背后50亿元巨额诈骗案，金龙鱼今日公开喊冤](https://www.yicai.com/news/102923117.html)
+Token length: 745
 Summarized using gemini model: gemini-2.0-flash
-Append: [打造链接全球的“超级接口”，2025汉交会在武汉启幕](https://www.yicai.com/news/102922856.html)
-Token length: 2583
+Append: [小区业主组建二手房“挂牌价同盟”？相关中介门店回应](https://www.yicai.com/news/102923153.html)
+Token length: 661
 Summarized using gemini model: gemini-2.0-flash
-Append: [《西游记》原著比改编更有趣，下个爆火IP可能还是美猴王](https://www.yicai.com/news/102922649.html)
-Token length: 2950
+Append: [黛安芬12月31日起停止中国大陆市场运营](https://www.yicai.com/news/102923167.html)
+Token length: 1364
 Summarized using gemini model: gemini-2.0-flash
-Append: [从船级社到ISO9004，这些标准如何走向全球化应用](https://www.yicai.com/news/102922651.html)
-Token length: 113
+Append: [多所高校租房作学生宿舍](https://www.yicai.com/news/102923135.html)
+Token length: 3106
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股今日共33只个股涨停 中水渔业6连板](https://www.yicai.com/news/102922760.html)
-Token length: 241
+Append: [三星瑕疵屏幕引爆手机业“绿线门”，大厂售后按闹分配被吐槽](https://www.yicai.com/news/102923039.html)
+Token length: 337
 Summarized using gemini model: gemini-2.0-flash
-Append: [高市早苗称台湾问题立场没有改变，外交部：日方应立即收回错误言论](https://m.thepaper.cn/detail/32014329)
-Token length: 965
+Append: [羽绒迎来“涨价狂潮” 400元以上才是真羽绒服？ 厂家：最近半年鸭绒涨了30%｜一探](https://www.yicai.com/video/102923102.html)
+Token length: 3070
 Summarized using gemini model: gemini-2.0-flash
-Append: [英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”](https://wallstreetcn.com/articles/3759864)
-Token length: 686
+Append: [商业秘密｜“大湾鸡”成新型“社交货币”，全运会纪念品卖了6.8亿元](https://www.yicai.com/news/102923120.html)
+Token length: 2539
 Summarized using gemini model: gemini-2.0-flash
-Append: [易烊千玺主演《狂野时代》预售破亿，增速远超同类文艺片](https://m.thepaper.cn/detail/32013351)
-Token length: 4635
+Append: [在F1技术心脏地带，看见中国科技驶入世界体系](https://www.yicai.com/news/102923089.html)
+Token length: 1795
 Summarized using gemini model: gemini-2.0-flash
-Append: [51岁周志华、53岁刘云浩，当选中国科学院院士](https://www.36kr.com/p/3562296376818816)
-Token length: 2368
+Append: [DeepSeek带来紧迫感，蚂蚁推“灵光”竞速AGI战场](https://www.yicai.com/news/102923055.html)
+Token length: 1240
 Summarized using gemini model: gemini-2.0-flash
-Append: [外卖大战谁赢谁输？复旦研究了4万余家餐饮商户数据：普遍增量不增收](https://m.thepaper.cn/detail/32012843)
-Token length: 1259
+Append: [马上评｜又见“疯狂渣土车”，必须追责到位、处罚到位](https://m.thepaper.cn/detail/32014540)
+Token length: 2326
 Summarized using gemini model: gemini-2.0-flash
-Append: [最高法典型案例：持续辱骂致婚前同居者自杀身亡构成虐待罪](https://m.thepaper.cn/detail/32012731)
-Token length: 4174
+Append: [旅游业全体给携程打工](https://www.36kr.com/p/3562515607518340)
+Token length: 509
 Summarized using gemini model: gemini-2.0-flash
-Append: [英伟达的好业绩，是小米的坏消息](https://www.36kr.com/p/3562193927928969)
-Token length: 568
+Append: [不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为](https://m.thepaper.cn/detail/32013425)
+Token length: 582
 Summarized using gemini model: gemini-2.0-flash
-Append: [“80后”刘若川当选中国科学院院士](https://m.thepaper.cn/detail/32012382)
-Token length: 8146
+Append: [现场｜依旧保持对乒乓的纯真热爱，马龙要和大家一起慢慢变老](https://m.thepaper.cn/detail/32008199)
+Token length: 154
 Summarized using gemini model: gemini-2.0-flash
-Append: [是“小镇错题本”，也没关系](https://m.thepaper.cn/detail/32006616)
-Token length: 3258
+Append: [快速构建一个基础、现代化的 WinForm 管理系统！](https://www.cnblogs.com/Can-daydayup/p/19244061)
+Token length: 1515
 Summarized using gemini model: gemini-2.0-flash
-Append: [重庆知名幼儿园爆雷后：负责人已被批捕，接收方收餐费遭反对](https://m.thepaper.cn/detail/32006969)
-Token length: 1050
+Append: [复旦团队研究了全国4万多商户，得出外卖补贴大战的影响数据](https://www.yicai.com/news/102923037.html)
+Token length: 461
 Summarized using gemini model: gemini-2.0-flash
-Append: [马上评︱南“郭”先生，是怎么在高校里不露馅的？](https://m.thepaper.cn/detail/32006494)
+Append: [记者实探深圳水产海鲜市场：日本水产早被替代 暂停不影响供应 商家：需求不高 也没有顾客咨询｜一探](https://www.yicai.com/video/102923063.html)
+Token length: 1338
+Summarized using gemini model: gemini-2.0-flash
+Append: [少了1万亿美元，美国会预算办公室大幅下调特朗普关税收入预期](https://www.yicai.com/news/102923017.html)
 append_entries: 20
-Finish: 2025-11-21 10:21:50.208675
+Finish: 2025-11-21 12:40:28.526632
