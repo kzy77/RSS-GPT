@@ -2,291 +2,300 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-11-24T22:19:58Z</updated>
+    <updated>2025-11-25T01:29:50Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[用 llm + SQLite 实现自然语言到 SQL 的智能转换：一个实战案例]]></title>
-        <link href="https://juejin.cn/post/7575102209605926938" />
-        <id>https://juejin.cn/post/7575102209605926938</id>
-        <updated>Sun, 23 Nov 2025 14:33:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词: DeepSeek, SQLite, 自然语言, SQL, schema
+        <title><![CDATA[美股强劲反弹谷歌大涨超6%；工业富联澄清未下调四季度利润目标]]></title>
+        <link href="https://www.yicai.com/news/102926289.html" />
+        <id>https://www.yicai.com/news/102926289.html</id>
+        <updated>Tue, 25 Nov 2025 07:20:21 +0800</updated>
+        <summary type="html"><![CDATA[科技股, 美股, 财报, 中国股市, 股权投资
 
 <br><br>总结:
-1.  项目目标：将自然语言问题转化为 SQL 查询，针对员工信息表，自动生成 SQL 语句。
-2.  环境准备：使用 SQLite 数据库，创建包含员工编号、姓名、部门、工资字段的 employees 表，并插入测试数据。
-3.  Schema获取：从数据库获取表结构信息（schema），作为上下文传给 DeepSeek 模型，用于理解字段含义。
-4.  SQL生成：调用 DeepSeek API，将自然语言问题和 schema 上下文作为提示，生成对应的 SQL 查询语句。
-5.  应用场景：可用于低代码平台、内部报表工具、教学辅助以及自动化脚本，提升效率。
+1. 美股三大股指延续反弹，科技股普涨，谷歌市值逼近4万亿美元，博通涨幅显著。
+2. 纳斯达克中国金龙指数上涨，百度、阿里巴巴等中概股表现强势。
+3. 国内方面，央行开展MLF操作保持流动性，神舟二十二号飞船计划发射，民营股权投资机构拟发行科创债。
+4. 国家能源局召开海南自贸港能源电力保障座谈会，强调电力基础设施建设和新能源利用。
+5. 多家公司发布公告，涉及高管变动、合同签署、诉讼仲裁等。机构普遍看好后市，认为科技行情未结束，A股调整为后续上涨蓄力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[使用 OpenAI SDK 调用 Tools 实现外部工具集成]]></title>
-        <link href="https://juejin.cn/post/7575065042158108722" />
-        <id>https://juejin.cn/post/7575065042158108722</id>
-        <updated>Sat, 22 Nov 2025 15:42:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLM, Tools, OpenAI SDK, 智能代理, 外部 API
+        <title><![CDATA[.NET项目中如何快速的集成飞书API]]></title>
+        <link href="https://www.cnblogs.com/mudtools/p/19245855" />
+        <id>https://www.cnblogs.com/mudtools/p/19245855</id>
+        <updated>Thu, 20 Nov 2025 10:35:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：飞书API, .NET项目, 组织管理, 集成, Mud.Feishu
 
 <br><br>总结:
-*   **定义工具:** 使用 JSON Schema 规范向 LLM 描述可用的外部工具，例如天气查询 API，需要定义工具名称、描述以及所需的参数。
-*   **实现工具函数:** 编写 Python 函数，实际调用第三方 API，例如通过 requests 库调用天气 API，并处理 API 返回的数据。
-*   **调用 LLM 并触发 Tool:**  将用户提问发送给 LLM，使用 `tool_choice="auto"` 让 LLM 决定是否调用工具。如果 LLM 建议调用工具，从返回的 `tool_calls` 中提取函数名和参数，并执行相应的工具函数。
-*   **多轮对话:** 将工具函数的执行结果作为新的消息添加到对话历史中，再次调用 LLM，让其基于工具返回的结果生成最终答案。
-*   **应用场景拓展:** 除了天气查询，Tools 机制还可以应用于数据库查询、邮件发送、数学计算和知识库检索等多种场景，将应用升级为智能代理。
+1. 飞书是集成化办公平台，组织管理是其构建高效团队协作体系的基础。
+2. 本文旨在解析如何在.NET项目中快速集成飞书API，进行组织管理。
+3. 组织管理核心要素包括部门、用户、用户角色、职级、职位等。
+4. 文章介绍了Mud.Feishu框架，方便.NET项目快速集成飞书API进行组织管理。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[广州车展众生相：“鸿蒙”“乾崑”高频出现，小米发10000个车模]]></title>
-        <link href="https://www.yicai.com/news/102925250.html" />
-        <id>https://www.yicai.com/news/102925250.html</id>
-        <updated>Mon, 24 Nov 2025 23:06:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 广州车展, 务实理性, 智能化, 市场竞争, 价格战
+        <title><![CDATA[详讯丨习近平同美国总统特朗普通电话]]></title>
+        <link href="https://m.thepaper.cn/detail/32033959" />
+        <id>https://m.thepaper.cn/detail/32033959</id>
+        <updated>Mon, 24 Nov 2025 22:43:19 +0800</updated>
+        <summary type="html"><![CDATA[关键词：习近平, 特朗普, 中美关系, 釜山会晤, 乌克兰危机
 
 <br><br>总结:
-1. 2025年广州车展较为冷清，车企从“流量为王”转向“理性务实”，高管不再热衷于站台和炒作。
-2. 华为智能化技术成为车企核心卖点，鸿蒙座舱和乾崑智驾是高频词，多家车企展示了相关车型。小米汽车强调安全，聚焦智能辅助驾驶技术升级。
-3. 行业回归造车本身，多家车企强调安全可靠性，避免过度营销。
-4. 合资品牌加速补齐电动化、智能化短板，自主品牌与合资品牌的竞争激烈。
-5. 经销商面临销量压力，价格战虽有所缓和，但促销抢份额仍是常态，未来的竞争将聚焦在“价值比”上。
+1. 习近平主席与特朗普通电话，肯定了釜山会晤的积极成果，为中美关系稳定发展注入动力。
+2. 双方认为中美“合则两利、斗则俱伤”，应坚持平等、尊重、互惠，扩大合作、减少问题，为两国人民和世界造福。
+3. 习近平阐明了中方在台湾问题上的原则立场，强调台湾回归中国是战后国际秩序的重要组成部分。
+4. 双方谈及乌克兰危机，习近平强调中方支持和平努力，希望各方缩小分歧，达成公平、持久、有约束力的和平协议。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[习近平同美国总统特朗普通电话]]></title>
-        <link href="https://wallstreetcn.com/articles/3760029" />
-        <id>https://wallstreetcn.com/articles/3760029</id>
-        <updated>Mon, 24 Nov 2025 22:39:19 +0800</updated>
-        <summary type="html"><![CDATA[习近平, 特朗普, 中美关系, 台湾问题, 乌克兰危机
+        <title><![CDATA[公告臻选丨磷酸铁锂+储能+固态电池！公司签署450亿元重大经营合同]]></title>
+        <link href="https://www.yicai.com/vip/news/102926119.html" />
+        <id>https://www.yicai.com/vip/news/102926119.html</id>
+        <updated>Mon, 24 Nov 2025 21:56:39 +0800</updated>
+        <summary type="html"><![CDATA[磷酸铁锂、正极材料、动力电池、储能电池、回收
 
 <br><br>总结:
-1. 习近平主席和特朗普总统通电话，双方都对上次在釜山的会晤表示满意，认为为中美关系发展注入动力。
-2. 习近平主席强调中美“合则两利、斗则俱伤”，要保持势头，坚持正确方向，扩大合作，缩小问题清单。
-3. 习近平主席阐明了中方在台湾问题上的原则立场，强调台湾回归中国是战后国际秩序重要组成部分。
-4. 特朗普总统表示赞同习近平主席对两国关系的看法，理解台湾问题对于中国的重要性。
-5. 两国元首还谈及乌克兰危机，习近平主席强调中方支持一切致力于和平的努力，希望各方达成公平、持久、有约束力的和平协议。
+1. 该公司主要生产磷酸铁锂正极材料，应用于动力电池和储能电池领域。
+2. S系列是主打产品，特点是高压实高容量、低温高容量和低成本长循环。
+3. T系列铁锂一号产品采用纳米球形压实技术，提升电池在低温环境下的性能。
+4. Z系列产品使用回收原材料制造，具有高性价比。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[内部信风波后俞敏洪再致歉，为何员工不能共情？]]></title>
-        <link href="https://www.yicai.com/news/102925082.html" />
-        <id>https://www.yicai.com/news/102925082.html</id>
-        <updated>Mon, 24 Nov 2025 21:22:43 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 俞敏洪, 东方甄选, 内部信, 业务独立性, 盈利持续性
+        <title><![CDATA[美国缺席COP30，气候资金如何增加两倍]]></title>
+        <link href="https://www.yicai.com/news/102926005.html" />
+        <id>https://www.yicai.com/news/102926005.html</id>
+        <updated>Mon, 24 Nov 2025 21:45:34 +0800</updated>
+        <summary type="html"><![CDATA[关键词：COP30，气候融资，适应资金，贸易议题，《巴黎协定》
 
 <br><br>总结:
-1. 俞敏洪南极内部信引发争议，被解读为“炫耀”，反映出员工对工作环境的不满。俞敏洪公开道歉，但未能消除市场担忧。
-2. 东方甄选核心人事“双支柱”（董宇辉、孙东旭）相继离职，导致“流量基本盘”动摇，GMV和毛利双双下降。
-3. 财报显示，东方甄选营收利润双降，转型面临困境，新增长引擎尚未验证。
-4. 投资者更关注管理层战略重心与公司现实困境的匹配度，以及人才梯队建设，而非南极旅游。
-5. 争议背后是市场对东方甄选业务独立性和盈利持续性的深层担忧。
+1. COP30 达成了重要文件，强调团结协作应对气候变化挑战，并首次将贸易议题纳入成果文件。
+2. 大会呼吁发达国家在2025年前将向发展中国家提供的适应资金较2019年水平增加一倍，2035年前增加两倍，并启动贸易加强国际合作的新对话。
+3. 美国联邦政府首次缺席本次大会，但各国重申了对《巴黎协定》的承诺，全球绿色转型不可逆转。
+4. 大会强调要关注发展中国家的可持续发展，避免单边贸易行动造成歧视或壁垒。
+5. 各国同意加快落实《巴黎协定》，继续推进转型脱离化石燃料和停止森林砍伐的路线图，为下一届气候大会做准备。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[阿里千问APP公测第一周下载破千万]]></title>
-        <link href="https://www.yicai.com/news/102925984.html" />
-        <id>https://www.yicai.com/news/102925984.html</id>
-        <updated>Mon, 24 Nov 2025 21:00:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：AI安全，灵心平台，千问APP，具身智能，数智化转型
+        <title><![CDATA[“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”]]></title>
+        <link href="https://wallstreetcn.com/articles/3760011" />
+        <id>https://wallstreetcn.com/articles/3760011</id>
+        <updated>Mon, 24 Nov 2025 18:51:11 +0800</updated>
+        <summary type="html"><![CDATA[摩根大通, MicroStrategy, 比特币, 阴谋论, 美国政府
 
 <br><br>总结:
-① 阿里千问APP公测首周下载量突破千万，市场反应热烈。
-② 曙光云即将发布一项在AI安全领域具有突破性的技术。
-③ 智元机器人推出了名为“灵心”的平台，或将赋能机器人智能化。
-④ Vionbotics全球首发了具身智能立面清洁机器人，体现了具身智能在实际应用中的进展。
-⑤ 施耐德电气正通过三维创新推动AI落地应用，旨在加速产业的数智化转型。
+1. 摩根大通发布研报，警告MicroStrategy可能因持有大量比特币而被MSCI指数剔除，引发币圈恐慌。
+2. 币圈指责摩根大通恶意做空MicroStrategy，发起抵制运动，甚至呼吁逼空华尔街。
+3. 阴谋论甚嚣尘上，有传言称美国政府策划市场暴跌，意图低价收购MicroStrategy和Coinbase，囤积比特币。
+4. 更宏大的叙事将事件升级为“旧金融秩序”与“新政治力量”的对抗，即摩根大通与特朗普政府的货币权力之争，比特币成为斗争的牺牲品和未来体系的基石。
+5. MicroStrategy创始人回应称公司是“比特币支持的结构性金融公司”，并非被动持有的基金或信托。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[连续4个月净投放6000亿，央行双工具护航年末经济收官]]></title>
-        <link href="https://www.yicai.com/news/102925922.html" />
-        <id>https://www.yicai.com/news/102925922.html</id>
-        <updated>Mon, 24 Nov 2025 20:59:28 +0800</updated>
-        <summary type="html"><![CDATA[关键词：流动性投放, MLF, 逆回购, 货币政策, 政策协同
+        <title><![CDATA[Gemini 3.0 发布！]]></title>
+        <link href="https://juejin.cn/post/7576052677051318298" />
+        <id>https://juejin.cn/post/7576052677051318298</id>
+        <updated>Mon, 24 Nov 2025 17:57:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Gemini 3, AI编程, 前端开发, 模型对比, 程序员角色
 
 <br><br>总结:
-1. 11月中期流动性净投放总额达6000亿元，与上月持平，连续四个月处于较高水平，主要应对地方债发行、政策性金融工具投放、同业存单到期带来的流动性需求。
-2. 央行通过MLF和买断式逆回购搭配操作，强化市场对流动性充裕的预期，投放方式基本固定。自5月降准后，近6个月中期流动性持续净投放。
-3. 未来货币政策预计淡化规模，优化结构，注重引导金融资源配置到重点领域和薄弱环节，增强精准性，并加强与财政政策的协同发力。
-4. 专家预测央行将继续运用逆回购和MLF工具注入中期流动性，但加量规模可能较前期有所回落。
-5. 年终前后或将出台新一轮稳增长政策，包括财政加力、货币宽松和房地产市场稳定，为完成经济增长目标和“十五五”开局做准备，不排除中期流动性净投放规模收敛的可能。
+1.  谷歌发布了Gemini 3大模型，前端编写网站能力显著提升，可免费使用，支持多种功能。
+
+2.  Gemini 3能通过简单指令快速生成原型图、复刻企业级网站、制作3D动画特效网站等。
+
+3.  尽管Gemini 3生成单个页面能力强大，但在开发完整的前后端项目时，相比Claude 4.5质量和速度略逊一筹。
+
+4.  AI编程能力增强，程序员角色从编写代码转变为指导AI工作，具备方案设计和架构能力，快速解决问题。
+
+5.  理性看待“前端已死论”，AI会对行业产生冲击，但技术变革也会创造新机会，程序员应学会使用AI工具，拓宽知识面，实现T型发展。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[央企新一轮重组启动：17家单位集中签约，涉及AI、新材料等多领域]]></title>
-        <link href="https://www.yicai.com/news/102925987.html" />
-        <id>https://www.yicai.com/news/102925987.html</id>
-        <updated>Mon, 24 Nov 2025 20:54:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词：央企整合，专业化整合，邮轮经济，科技创新，资源配置
+        <title><![CDATA[高市早苗谬论背后的日本干涉台湾问题黑历史：警惕日本借台遏华图谋]]></title>
+        <link href="https://m.thepaper.cn/detail/32030010" />
+        <id>https://m.thepaper.cn/detail/32030010</id>
+        <updated>Mon, 24 Nov 2025 17:45:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词：高市早苗, 台湾问题, 中日关系, 台湾地位未定论, 武力干涉
 
 <br><br>总结:
-1.  **央企专业化整合加速：** 国务院国资委组织推进会，8组17家单位签约重点项目，涉及新材料、人工智能、邮轮运营、检验检测、航空物流等领域，标志着新一轮央企整合启动。
-2.  **邮轮产业整合落地：** 中国旅游集团与中远海运集团签署邮轮整合协议，星旅远洋邮轮成为华夏国际邮轮全资子公司，央企邮轮运营资源整合主体任务全面落地。央企邮轮运营平台公司已成功整合多艘央企邮轮资源，船队规模位居亚洲第一。
-3.  **整合目标明确：** 提升整合的主动性、系统性、针对性，服务国家战略、补链强链、科技创新、提质增效，将专业化整合打造成培育核心优势企业、提升资源配置效率、推动高质量发展的重要手段。
-4.  **未来整合方向：** 在国家战略安全、核心技术、矿产资源、应急、社会公益事业等方面将加大重组整合步伐，有望在强化科技创新主体地位、人工智能等方面取得明显进步。优化行业资源配置，支持头部企业开展整合，优化布局结构，提升规模效应。
-5.  **邮轮经济迎来黄金周期：** 邮轮经济为扩大内需、提振消费提供有力支撑。中国邮轮经济正从低谷中强劲复苏，新一轮黄金增长周期蓄势待发，沿海各地正在加快挖掘“蓝色消费”新场景。
+1.  日本首相高市早苗的涉台言论并非失言，而是日本对台战略的体现，暴露了日本右翼势力试图维持“一中一台”，阻止中国统一的战略目的。
+2.  日本国内的“台湾地位未定论”是其干涉台湾事务的借口，无视历史事实和国际承诺，是对《中日联合声明》和《中日和平友好条约》的践踏。
+3.  日本亲台派政客不断强化与台湾的关系，甚至谋求提升日台“实务”关系级别，在政治关系上打擦边球，是中日关系的破坏者。
+4.  日本与美国合作，图谋武力干涉台湾问题，公开发表干涉台湾问题的言论，甚至进行应对“台湾有事”的演练。
+5.  日本妄图利用台湾遏制中国崛起，构建“海洋亚洲”联盟机制，敌视中国的发展，其行为将导致中日关系倒退，并破坏亚洲地区的和平与稳定。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美联储理事Waller：我担心的是劳动力市场，主张12月降息]]></title>
-        <link href="https://wallstreetcn.com/articles/3760026" />
-        <id>https://wallstreetcn.com/articles/3760026</id>
-        <updated>Mon, 24 Nov 2025 20:43:35 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美联储, 降息, 沃勒, 劳动力市场, 经济数据
+        <title><![CDATA[Claude杀疯了？三年爆赚700亿＋现金流170亿]]></title>
+        <link href="https://www.36kr.com/p/3566639203810436" />
+        <id>https://www.36kr.com/p/3566639203810436</id>
+        <updated>Mon, 24 Nov 2025 15:28:57 +0800</updated>
+        <summary type="html"><![CDATA[关键词：OpenAI, Anthropic, 流量, 利润, 企业级应用
 
 <br><br>总结:
-1. 美联储理事沃勒主张在12月降息，主要担忧劳动力市场。
-2. 他认为1月份将收到更多经济数据，届时美联储或采取“逐次会议”决定的方式。
-3. 投资者认为12月降息的概率约为70%。
-4. 沃勒提到12月会议后将发布大量经济报告，可能影响1月的决策。
-5. 他是美联储主席候选人之一，与财政部长进行了愉快的会面，讨论了经济相关话题。
+1. OpenAI和Anthropic在2025年走向分岔路，OpenAI侧重消费者市场和生态建设，追求用户规模和平台化，推出ChatGPT等产品。
+2. Anthropic则专注于企业级应用，通过Claude API等服务，致力于从企业合同中获取稳定收入和利润。
+3. OpenAI面临算力成本高昂的问题，盈利模式尚未清晰；Anthropic则预测到2028年将实现700亿美元营收和170亿美元自由现金流。
+4. 两者在技术理念上也存在差异，OpenAI追求多模态AI能力的最大化，Anthropic则侧重AI的安全、合规和可控性，更符合企业需求。
+5. 这种分化反映了AI行业从技术突破转向商业现实的趋势，未来AI公司的竞争将不仅是技术能力，更是商业模式和盈利能力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[RTX4090 跑了1小时，一张图就生成整首AI歌曲！成果惊艳【风吹过西梁的水】完整版 | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21814.html" />
-        <id>https://www.freedidi.com/21814.html</id>
-        <updated>Mon, 24 Nov 2025 20:39:17 +0800</updated>
-        <summary type="html"><![CDATA[请提供需要总结的文章。我需要阅读文章内容才能提取关键词并进行总结。请将文章内容粘贴给我。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[全网爆火的 AI 角色唱歌视频！零基础也能做，流程全公开 、 免费开源！保姆级教学及工具下载！ | 零度解说]]></title>
-        <link href="https://www.freedidi.com/21811.html" />
-        <id>https://www.freedidi.com/21811.html</id>
-        <updated>Mon, 24 Nov 2025 20:38:07 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 视频, 工具, 下载, VPN, 免费
+        <title><![CDATA[高市早苗在G20会场与西方领导人套近乎，马克龙表情亮了]]></title>
+        <link href="https://m.thepaper.cn/detail/32029035" />
+        <id>https://m.thepaper.cn/detail/32029035</id>
+        <updated>Mon, 24 Nov 2025 11:15:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词：高市早苗，G20，乌克兰，西方阵营，马克龙
 
 <br><br>总结:
-
-1.  提供本期视频涉及的工具下载链接。
-2.  推荐一个免费VPN。
+* 日本首相高市早苗在南非约翰内斯堡G20峰会期间，积极利用G7与欧洲领导人关于乌克兰问题的磋商机会。
+* 高市早苗试图通过频繁穿梭于各国代表团之间，拉近与西方阵营的关系。
+* 法国总统马克龙在旁观察到高市早苗的示好行为，并表现出微妙的反应，如微笑、皱眉、揉眼等。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[上市六年即离场，金融壹账通退市落定，股价低迷与业绩承压是“导火索”]]></title>
-        <link href="https://www.yicai.com/news/102925962.html" />
-        <id>https://www.yicai.com/news/102925962.html</id>
-        <updated>Mon, 24 Nov 2025 20:37:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词：金融壹账通，退市，私有化，中国平安，金融科技
-
-<br><br>总结:
-1.  金融壹账通在纽交所和港交所两地退市，纽交所退市程序将于12月1日完成。退市原因是私有化计划获得批准，要约方是其控股股东铂煜有限公司（中国平安附属公司）。
-2.  私有化价格为每股2.068港元/ADS 7.98美元，总代价最高约16.89亿港元。
-3.  金融壹账通于2019年和2022年分别在纽交所和港交所上市，但股价表现不佳，交易流通量低，且过度依赖平安集团的收入，第三方业务增长受限。
-4.  私有化后，中国平安计划注入额外财务资源，进一步整合金融壹账通与平安集团的生态系统。
-5.  金融壹账通表示，将继续实施第二阶段战略，深耕客户关系、优化产品，拓展生态系统和海外业务，推动第三方业务收入增长。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中国真的“消费不足”吗？主要还是太卷]]></title>
-        <link href="https://wallstreetcn.com/articles/3760015" />
-        <id>https://wallstreetcn.com/articles/3760015</id>
-        <updated>Mon, 24 Nov 2025 19:57:57 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 消费量, 价格, 结构性竞争, 消费升级, E2SG
-
-<br><br>总结:
-1. 中国的消费量在全球范围内并不低，在某些核心品类甚至超过发达国家，打破了“消费不足”的传统认知。
-2. 中国消费名义价值偏低，核心原因是价格低廉，这源于周期性因素（通胀下行、收入预期不振）和结构性因素（高效供应链、行业内卷、价格管制）。
-3. 中国的商品和服务定价普遍低于全球平均水平，尤其是在“世界工厂”地位和激烈的价格战下。
-4. 家庭消费占GDP比重的简单对比存在统计口径差异，中国的宏观消费差距被高估。
-5. 未来的潜力在于消费升级，企业应通过E2SG（效率、体验、服务、全球化）投资框架在竞争中脱颖而出。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run，GitHub注册时间，免费赠金，Docker应用，自动部署
-
-<br><br>总结:  
-1. Claw Cloud Run是一款免费容器服务，GitHub账户注册时间超过180天的用户每月可获得5美元赠金，实现长期免费使用。  
-2. 用户可以通过访问 https://api.github.com/users/你的用户名 来查询自己的GitHub注册时间，注意同一IP请求有限制，建议关闭代理避免请求受限。  
-3. Claw Cloud Run支持搭建各种Docker应用，既可以通过应用商店一键自动部署，也支持手动部署。  
-4. 推荐部署两款应用：轻笔记工具Memos和网盘挂载工具AList。  
-5. 更多部署和使用的详细教程可参考相关YouTube视频。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云，免费VPS，配置，免流量，科学上网
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[关键词：爪云，内网穿透，Docker，Cloudflare隧道，UUID
 
 总结:  
-1. 谷歌云提供免费VPS，配置建议选择俄勒冈地区E2-micro机器，Ubuntu系统，30GB标准永久性磁盘，并设置“快照时间表”为“无备份”以避免额外费用。  
-2. 注册谷歌云账号需添加付款资料，使用支持外币的信用卡或借记卡，试用期三个月结束后再激活完整版账号。  
-3. 防火墙应开放入站和出站规则，建议新手小白用户全部放行以简化设置。  
-4. SSH登录推荐官方后台直接登录，第三方工具需配置密钥对。  
-5. 科学上网建议使用Hysteria 2节点，标准层级入站流量免费，出站前200GB免费，避免使用Cloudflare CDN加速以免产生额外费用。最后提供多种搭建科学上网节点的方法，包括命令行、面板及一键脚本。]]></summary>
+1. 前置条件：确保拥有root权限，并安装Docker环境。  
+2. 临时隧道模式：通过命令运行爪云Docker容器，实现临时内网穿透。  
+3. 固定隧道模式：需准备UUID（唯一标识）、Cloudflare隧道Token和隧道域名，使用Cloudflare Zero Trust创建隧道后，启动Docker容器并传入相关参数实现固定隧道连接。  
+4. 常用Docker命令介绍：查看容器状态、日志、停止及删除容器等操作。  
+5. 提供了爪云及免费域名注册、科学上网节点部署相关视频教程链接，便于快速上手使用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址，免费域名，us.kg，续期，Github加Star
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg，免费域名，Cloudflare，FreeDNS，域名注册
 
 <br><br>总结:  
-1. 提供了注册地址和美国地址生成器，方便用户注册相关服务。  
-2. 介绍了两个域名选项：免费域名dpdns.org和收费域名us.kg（12元/个）。  
-3. 免费域名额度方面，新用户默认1个，Github加Star后增加至2个，老用户默认3个，Github加Star后增加至4个。  
-4. us.kg域名不占用免费域名额度，但需要每年续期，续期免费且需在到期前180天内续期。  
-5. 详细的续期和使用教程可参考提供的YouTube视频，相关资源包括DigitalPlat的Github仓库及Cloudflare的官网。]]></summary>
+1. 已注册的us.kg免费域名目前仍然有效，可以正常使用。  
+2. 新注册的us.kg域名是否还可以注册存在不确定性，部分地区已显示关闭注册通道。  
+3. dpdns.org域名可以成功托管到Cloudflare，实现更稳定的DNS解析服务。  
+4. 对于暂时不能使用Cloudflare托管的域名，可以选择使用FreeDNS作为临时DNS托管方案。  
+5. 文中区分了两种us.kg域名的不同特点和使用限制，帮助用户根据实际需求选择合适的域名解决方案。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
-
-<br><br>总结:  
-1. 稳定性和速度方面，使用体验较为流畅，但具体表现依赖于代理节点的选择和配置。  
-2. 是否需要保活视具体需求而定，一般长期使用建议保持连接以防断线影响体验。  
-3. ChatGPT存在一定程度的“降智”现象，可能因为官方接口限制或代理服务质量问题。  
-4. 购买过程相对顺畅，但需注意修改登录密码和合理搭建代理节点以保障安全和性能。  
-5. 续费过程简单，整体来看服务性价比较高，适合有稳定翻墙需求且能自行调试节点的用户购买使用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[US.KG注册不了，免费域名，Cloudflare托管，身份信息生成器，优惠码newuser
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00登录，节点搭建，Cloudflare隧道，CDN回源，网页保活
 
 总结:  
-1. US.KG域名无法注册，推荐使用另一个免费域名。  
-2. 使用身份信息生成器辅助填写注册信息，简化注册流程。  
-3. 注册时输入优惠码“newuser”，可享受免费一年域名使用。  
-4. 域名注册成功后，将域名托管到Cloudflare，提高解析和管理效率。  
-5. 在Cloudflare添加域名后，获取两个分配的名称服务器，并在域名管理界面填写完成，教程可参考指定的YouTube视频。]]></summary>
+1. 登录Serv00平台时可使用s*.serv00.com、cache*.serv00.com和web*.serv00.com域名，若IP被封，可通过系统代理登录。  
+2. 搭建科学上网节点包括系统初始化、端口重置和安装相关脚本。  
+3. 使用Cloudflare固定隧道需拥有已托管的域名，创建HTTP类型隧道指向本地端口，并输入隧道域名和令牌。  
+4. 配置CDN回源，添加DNS A记录指向Serv00 IP，再添加回源规则将流量重写到指定端口。  
+5. 网页保活功能支持启动、重启、重置端口和查看节点订阅，结合Cloudflare Worker远程保活实现定时唤醒，保证服务稳定运行。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名，注册流程，KYC验证，Cloudflare托管，免费续订  
+
+<br><br>总结:  
+1. 由于US.KG域名目前受限，建议先通过 https://dash.domain.digitalplat.org/ 完成注册和KYC验证。  
+2. 注册步骤包括账号注册、邮箱验证、KYC提交（上传KYC文件截图）、域名注册以及之后的Cloudflare托管。  
+3. 账号注册时除邮箱外，建议使用身份信息生成器提供的资料。  
+4. 域名注册完成后，可将域名托管到Cloudflare，设置名称服务器以实现管理。  
+5. 视频中还介绍了免费续订域名的方法及免费域名可能存在的缺点，具体操作示范见视频教程。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek，API，本地部署，第三方应用，模型选择
+
+<br><br>总结:  
+1. 视频介绍了Deepseek的基本功能及应用场景。  
+2. 说明了Deepseek网页端和手机App的使用方式。  
+3. 介绍了Deepseek的API，注册需要手机号，赠送体验金，可用于多种应用如沉浸式翻译。  
+4. 提及了使用Perplexity和其他第三方应用集成Deepseek技术。  
+5. 讲解了Deepseek本地部署流程，包括下载安装Ollama、命令行操作和模型选择，建议参考硬件规格。  
+详细内容建议观看视频了解完整操作步骤。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
