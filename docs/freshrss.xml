@@ -2,81 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 26 Nov 2025 14:20:47 GMT</updated>
+    <updated>Wed, 26 Nov 2025 16:26:21 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[四川省成都市委副书记、市长王凤朝被查]]></title>
-        <link href="https://m.thepaper.cn/detail/32048021" />
-        <id>https://m.thepaper.cn/detail/32048021</id>
-        <updated>Wed, 26 Nov 2025 18:01:51 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[马上评︱同居认定“家庭成员”？仅用于反家暴，别误读]]></title>
-        <link href="https://m.thepaper.cn/detail/32047698" />
-        <id>https://m.thepaper.cn/detail/32047698</id>
-        <updated>Wed, 26 Nov 2025 17:30:10 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 婚前同居, 家庭成员, 虐待罪, 反家暴, 法律保护
+        <title><![CDATA[美国消灭教育部]]></title>
+        <link href="https://www.huxiu.com/article/4810220.html" />
+        <id>https://www.huxiu.com/article/4810220.html</id>
+        <updated>Wed, 26 Nov 2025 23:03:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：大型语言模型, 提示工程, 隐私, 安全, 对抗性攻击
 
 <br><br>总结:
-1. 最高检明确婚前具有共同生活基础的同居关系，在虐待罪的认定上，属于刑法意义上的家庭成员关系，以此消除反家暴的灰色地带。
-2.  此举旨在将稳定的婚前同居关系纳入《反家庭暴力法》的保护范围，与9年前《反家庭暴力法》的规定相符，是司法机关长期坚守的司法政策。
-3.  这种认定只适用于反家暴范畴，不涉及夫妻共有财产和“事实婚姻”，避免了将法律术语在不同法律体系中的内涵混淆，防止机械执法。
-4.  该认定直指“家庭关系”的本质是稳定的、具有共同生活事实的关系，其内在的相互责任与权利保障，应当受到与婚姻同等的法律审视和保护。
-5.  此举能更好地保护家暴受害者，不让稳定的婚前同居关系成为家暴保护的“断档期”。
+1. 大型语言模型（LLM）在各个领域应用广泛，但面临隐私和安全挑战。
+2. 提示工程是一种重要技术，用于引导LLM生成所需结果，但也可能被利用进行对抗性攻击。
+3. 对抗性攻击旨在通过精心设计的提示，绕过LLM的安全机制，泄露敏感信息或生成有害内容。
+4. 现有研究表明，LLM容易受到各种对抗性攻击，例如提示注入、越狱提示等。
+5. 需要开发更有效的防御机制，以增强LLM的隐私和安全性，防止恶意利用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[科技部会同有关部门部署开展学术不端撤稿论文专项整治行动]]></title>
-        <link href="https://m.thepaper.cn/detail/32047701" />
-        <id>https://m.thepaper.cn/detail/32047701</id>
-        <updated>Wed, 26 Nov 2025 17:15:05 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 学术不端, 撤稿论文, 专项整治, 科研诚信, 长效机制
+        <title><![CDATA[我为什么放弃宝塔，转向 Cloudpane（附 WordPress 部署步骤）]]></title>
+        <link href="https://uuzi.net/cloudpane-wordpress-guide/?utm_source=rss&utm_medium=rss&utm_campaign=cloudpane-wordpress-guide" />
+        <id>https://uuzi.net/cloudpane-wordpress-guide/?utm_source=rss&utm_medium=rss&utm_campaign=cloudpane-wordpress-guide</id>
+        <updated>Wed, 26 Nov 2025 22:58:01 +0800</updated>
+        <summary type="html"><![CDATA[关键词：宝塔 Cloudpane WordPress 部署 避坑
 
 <br><br>总结:
-1.  科技部会同有关部门开展学术不端撤稿论文专项整治行动，重点是中国学者在自然科学领域国际期刊的撤稿论文，严查抄袭剽窃、数据造假、买卖论文、虚构同行评议等行为。
-2.  对严重科研失信行为将记入科研诚信数据库，并在项目申报、院士增选等方面进行惩戒。
-3.  建立健全学术不端撤稿论文长效治理机制，持续监测撤稿论文。
-4.  各部门和地方建立常态化工作机制，加强对问题频发单位的监督，压实科研单位主体责任，完善预防机制。
-5.  查处工作与科研诚信教育培训相结合，提高科研人员诚信意识，对包庇纵容失信行为的单位严肃处理。
+*   作者放弃宝塔等传统面板，转而使用 Cloudpane 搭建 WordPress。
+*   文章阐述了选择 Cloudpane 的原因。
+*   详细介绍了使用 Cloudpane 部署 WordPress 的完整步骤。
+*   分享了实际使用 Cloudpane 过程中总结的避坑建议，帮助读者少走弯路。
+*   文章旨在帮助读者理解 Cloudpane 的价值，并顺利完成 WordPress 部署。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车]]></title>
-        <link href="https://m.thepaper.cn/detail/32044682" />
-        <id>https://m.thepaper.cn/detail/32044682</id>
-        <updated>Wed, 26 Nov 2025 16:22:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 习近平，特朗普，高市早苗，台湾问题，美日同盟
+        <title><![CDATA[RAG被判死刑：Google用一行API架空工程师]]></title>
+        <link href="https://www.36kr.com/p/3569462947527810" />
+        <id>https://www.36kr.com/p/3569462947527810</id>
+        <updated>Wed, 26 Nov 2025 14:54:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词: RAG, Gemini, File Search, API, 自动化
 
 <br><br>总结:
-1. 习近平与特朗普通话，强调台湾回归中国是战后国际秩序的重要组成部分，特朗普回应理解台湾问题对中国的重要性。
-2. 特朗普“要求”与高市早苗通话，被视为美国对日本在台湾问题上“战略冒进”的及时刹车。
-3. 高市早苗近期在台湾问题上发表错误言论，计划在与台湾邻近的岛屿部署导弹，破坏中日关系。
-4. 高市早苗的言行是美国“刺激中国”战略的体现，将检验特朗普对美日同盟的管理能力，同时将检验特朗普的外交能力与“领导力”。
-5. 高市早苗的“台海冒险”已使美日同盟陷入“同盟困境”，她的未来言行将是对中美就台湾问题达成战略共识的检验。
+1. Google Gemini 的 File Search 功能将 RAG (检索增强生成)流程封装进 API，开发者只需上传文件，模型即可自动完成分块、索引、检索和引用，无需再自行搭建 RAG 系统。
+<br><br>2. File Search 支持多种文件格式，降低了搭建知识库的成本，并采用低成本定价策略，查询时的存储与embedding生成免费。
+<br><br>3. 工程师不再需要理解 RAG 的底层细节，而是直接调用 API，简化了开发流程，但这也意味着他们对系统的控制权和解释权被削弱，知识密度被平台吸收，可能会被自动化取代。
+<br><br>4. File Search 将权力从工程师转移到平台，平台决定检索策略、索引结构和引用规则，开发者只能看到结果，看不到过程，这是一种权力集中化的体现。
+<br><br>5. File Search 并非消灭了 RAG，而是将其变成了平台的内置功能，工程师需要在更高层次的封装中寻找新的入口。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[京东外卖员也要换新工服了？知情人士：系内测版其中一款]]></title>
-        <link href="https://m.thepaper.cn/detail/32046154" />
-        <id>https://m.thepaper.cn/detail/32046154</id>
-        <updated>Wed, 26 Nov 2025 14:48:12 +0800</updated>
-        <summary type="html"><![CDATA[关键词：京东外卖, 工服, 赛车服, 内测版, 淘宝闪购
+        <title><![CDATA[字节旗下番茄系2024年收入超300亿，今年有望翻倍｜36氪独家]]></title>
+        <link href="https://www.36kr.com/p/3569503374703747" />
+        <id>https://www.36kr.com/p/3569503374703747</id>
+        <updated>Wed, 26 Nov 2025 14:13:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词：番茄系，字节跳动，红果短剧，番茄小说，流量
 
 <br><br>总结:
-1.  京东推出独立外卖App，网上流传疑似京东外卖骑手“赛车服”工服照片，引发关注。
-2.  接近京东人士透露，该“赛车服”并非官方发布版本，仅为内测版之一。
-3.  目前京东外卖员实际穿着的仍是红色底色、金色条状装饰的工服，是2025年3月为骑手定制的。
-4.  京东内部正在围绕用户和骑手体验对工服进行持续升级，融合美感、科技和实用性能。
-5.  此前淘宝闪购也推出了类似“迈凯轮”赛车服风格的新工服，引发了网友对京东和淘宝闪购工服的对比和调侃。
+1. 字节跳动旗下番茄系业务2024年收入超300亿元，利润约为30-50亿元，其中番茄小说贡献了大部分收入。预计2025年总收入有望超600亿元，番茄小说收入超450亿，红果短剧收入超150亿。
+2. 红果短剧通过大力投流买用户，快速增长，MAU已达2.36亿。但目前尚未盈利，原因是内部仍在扶持红果短剧业务。
+3. 番茄系崛起是字节大力出奇迹的又一次验证，通过免费模式和大力投流抓住用户，再将触角伸向行业上下游，丰富业务本身以实现商业化。
+4. 番茄小说和红果短剧都在加强内容建设和IP化改编，番茄小说App已包含听书、短剧等板块，红果短剧也推出了演员分账激励政策，加速商业化。
+5. 红果免费漫剧App于10月悄然登场，这归功于AI加持下的漫剧的出现，与短剧的商业模式相似，但可以将成本降到数万元/部。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华为Mate80全系降价背后]]></title>
+        <link href="https://www.36kr.com/p/3569325125811335" />
+        <id>https://www.36kr.com/p/3569325125811335</id>
+        <updated>Wed, 26 Nov 2025 12:31:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Mate80, 降价, 鸿蒙系统, Pura80, iPhone
+
+<br><br>总结:
+1. 华为Mate80系列全线降价，标准版降800元，Pro和Pro Max版降500元，主要原因是Pura80定价失策导致销量不佳，以及应对iPhone降价竞争。
+
+2. Pura80销量不佳的原因除了定价外，还在于纯血鸿蒙系统的初期体验不佳，应用适配存在问题，导致用户退货率较高。
+
+3. 华为Mate80系列面临同样的鸿蒙系统适配问题，但可以通过授权店进行系统回退，且鸿蒙系统正在加速更新，流畅性和安全性得到认可。
+
+4. Mate80 Pro版保持部分型号价格不变，但提升了内存配置，Pro和Pro Max版仍然会限制供货，维持产品热度。
+
+5. 华为希望通过降低Mate80系列的价格，抢占更大的市场份额，与iPhone竞争，并推动鸿蒙系统的普及。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普宣布“特赦”，火鸡突然大叫]]></title>
+        <link href="https://m.thepaper.cn/detail/32045220" />
+        <id>https://m.thepaper.cn/detail/32045220</id>
+        <updated>Wed, 26 Nov 2025 11:27:28 +0800</updated>
+        <summary type="html"><![CDATA[感恩节, 特朗普, 赦免, 火鸡, 白宫
+
+<br><br>总结:
+*   美国总统特朗普在白宫按照感恩节传统赦免了两只火鸡。
+*   在赦免仪式上，火鸡突然发出叫声。
+*   特朗普模仿了火鸡的叫声，引发了现场的笑声。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[极越要复活了？得先问佟丽娅答不答应]]></title>
+        <link href="https://www.36kr.com/p/3569178856733572" />
+        <id>https://www.36kr.com/p/3569178856733572</id>
+        <updated>Wed, 26 Nov 2025 09:25:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 极越, 预重整, 债务, 车主, 复活
+
+<br><br>总结:
+1.  极越提交预重整申请，旨在引入新的战略投资人，盘活资产，维护用户权益，但实际是希望法院帮助引入“接盘侠”以解决债务问题。
+2.  极越此前已出现员工讨薪、拖欠供应商欠款等问题，导致公司停摆，大量车主面临售后无果等困境，权益受损，车机故障频发。
+3.  极越虽试图通过解决网络故障、董事会批准重组等方式进行自救，但面临高达70亿元的债务窟窿、技术落后以及品牌信任崩塌等多重挑战。
+4.  与其他破产新势力一样，极越的复活之路充满荆棘，面临债务、信誉、运营等多重问题，且在新能源汽车市场马太效应加剧的情况下，生存空间狭窄。
+5.  即使成功复活，若无法在短时间内实现销量突破，极越可能面临二次退场的风险。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[三场硬仗，阿里进击]]></title>
+        <link href="https://www.36kr.com/p/3569210008714117" />
+        <id>https://www.36kr.com/p/3569210008714117</id>
+        <updated>Wed, 26 Nov 2025 09:09:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 营收增长, AI战略, 云计算, 淘宝闪购, 长期投入
+
+<br><br>总结:
+1.  阿里Q3营收超预期增长，主要得益于云计算和中国电商业务的强劲表现，其中云计算受益于AI需求增长，同比增速显著。
+2.  阿里明确AI战略，双管齐下，一方面做世界领先的全栈AI服务商（AI to B），另一方面打造面向C端用户的AI超级原生应用（AI to C），通过千问App入局AI超级应用市场。
+3.  阿里持续坚定投入AI，包括云基建投入，大力发展千问App，并透露不排除进一步增投AI服务器的可能，阿里云的投资强度超市场预期。
+4.  淘宝闪购（即时零售）短期亏损，但单量和市场份额爆发式增长，亏损换来了业务加速增长，其UE也在显著改善。阿里将持续投入长期增长。
+5.  阿里押注AI和大消费平台，发起三大战役，并集中资源打仗，AI战略渗透到业务和组织的各个脉络中，充分说明阿里对未来发展方向的坚定投入。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[3天前通知停工，实探智驾独角兽毫末智行北京总部，员工：说是放假，实际回不来]]></title>
+        <link href="https://www.36kr.com/p/3568440642419586" />
+        <id>https://www.36kr.com/p/3568440642419586</id>
+        <updated>Wed, 26 Nov 2025 07:21:47 +0800</updated>
+        <summary type="html"><![CDATA[关键词：毫末智行, 停工, 自动驾驶, 长城汽车, 困境
+
+<br><br>总结:
+1. 毫末智行因经营问题，突然宣布停工放假，大量员工离职，规模大幅缩减。
+2. 公司高管流失，核心产品HPilot系统迭代受阻，承诺的城市NOA落地跳票，技术路线选择存在问题。
+3. 长城汽车战略转向，转而投资元戎启行，毫末智行失去主要客户支持。
+4. 作为车企孵化的科技公司，毫末智行面临对母公司的依赖与外部市场开拓的结构性难题，商业化进程未达预期。
+5. 智能驾驶行业竞争激烈，毫末智行等中小玩家面临被淘汰的风险，行业进入“淘汰赛”关键期。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了]]></title>
+        <link href="https://juejin.cn/post/7576197876716748838" />
+        <id>https://juejin.cn/post/7576197876716748838</id>
+        <updated>Tue, 25 Nov 2025 08:19:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: SQLite, AI Agent, OceanBase, seekdb, 混合搜索
+
+<br><br>总结:
+1.  SQLite虽轻量但需进化以满足AI需求，传统数据库在AI应用中部署复杂、资源占用多，且不适用于嵌入式场景。
+2.  OceanBase推出seekdb，一款开源免费、轻量易用的数据库，专注于为AI应用提供高效的混合搜索能力。
+3.  seekdb兼容MySQL，支持向量、全文及多模数据统一存储与检索，适用于RAG应用、AI辅助编程、AI Agent平台和语义搜索引擎等场景。
+4.  seekdb支持Client/Server和嵌入式两种部署模式，具有ACID事务语义的存储层，多模数据与索引层，支持混合负载的多模计算层，统一应用接口。
+5.  seekdb具备开箱即用、极速开发、易学易用等特性，支持小规格运行，提供高性能向量索引、全文索引和混合搜索功能，并通过Hybrid Index升级混搜场景，无缝对接各类模型，兼容MySQL，支撑HTAP混合负载。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[我把设计稿扔给 Doubao-Seed-Code，它写出的前端页面让我怀疑人生]]></title>
+        <link href="https://juejin.cn/post/7575910298283098147" />
+        <id>https://juejin.cn/post/7575910298283098147</id>
+        <updated>Mon, 24 Nov 2025 16:39:41 +0800</updated>
+        <summary type="html"><![CDATA[关键词：视觉理解, 代码生成, UI设计稿, 前端开发, Doubao-Seed-Code
+
+<br><br>总结:
+1. 传统代码模型无法理解UI设计稿的空间关系，Doubao-Seed-Code (DSC) 作为视觉理解编码模型，能够原生看图并理解设计稿的布局和结构。
+
+2. DSC能够自动识别UI结构，例如Header、导航、卡片网格等，并生成结构清晰、布局合理的Vue3 + TailwindCSS代码，甚至能体现出一定的"高级感"，优于一些初级前端工程师。
+
+3. DSC擅长修复UI bug，例如错位、字体粗细不一致等问题，能指出视觉问题并提供修复代码的diff，表现得像一个高级前端工程师。
+
+4. 通过Claude Code平台，用户可以上传UI设计稿给DSC，让其生成页面结构和代码，并修复UI问题，甚至扩展交互功能。
+
+5. DSC不是为了替代前端，而是为了让前端工程师能够专注于交互设计、动画体验、信息架构和业务逻辑，从而重塑前端开发流程。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[就业压力激增，英国实施“最严移民新规”]]></title>
+        <link href="https://www.huxiu.com/article/4810084.html" />
+        <id>https://www.huxiu.com/article/4810084.html</id>
+        <updated>Wed, 26 Nov 2025 18:33:25 +0800</updated>
+        <summary type="html"><![CDATA[关键词：生成式AI, 威胁情报, 网络安全, 自动化, 应用案例
+
+<br><br>总结:
+1. 生成式AI正在改变威胁情报领域，能够自动化威胁信息的收集、分析和共享，大幅提升效率。
+2. 生成式AI可用于分析大量数据，识别潜在威胁和恶意活动，从而改善网络安全防御。
+3. 文章展示了生成式AI在威胁情报中的具体应用案例，例如自动化威胁检测、威胁预测和漏洞分析。
+4. 自动化能力可以减轻网络安全分析师的负担，让他们专注于更复杂和战略性的任务。
+5. 然而，也需要关注生成式AI带来的安全风险，并采取相应的防御措施。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[马上评︱影视行业不该被平台牵着鼻子走]]></title>
+        <link href="https://m.thepaper.cn/detail/32046955" />
+        <id>https://m.thepaper.cn/detail/32046955</id>
+        <updated>Wed, 26 Nov 2025 16:12:27 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 退票率，文艺片，网络平台，口碑，舆论风波
+
+<br><br>总结:
+1. 电影《狂野时代》退票率高引发热议，原因并非影片本身，而是受网络平台舆论影响。
+2. 观众被“看睡着”“看不懂”等负面评价劝退，而非独立判断。
+3. 影视行业过度依赖豆瓣评分和微博热搜，导致作品迎合网络热点，缺乏创新和深度。
+4. 观众习惯参考网络评价，失去独立思考和判断能力，影片本身被舆论淹没。
+5. 呼吁创作者不要迎合网络风向，也不要过度焦虑，保持创作独立性。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[外交部：敦促日方采取切实行动保障在日中国公民和机构的安全]]></title>
+        <link href="https://m.thepaper.cn/detail/32046965" />
+        <id>https://m.thepaper.cn/detail/32046965</id>
+        <updated>Wed, 26 Nov 2025 15:23:03 +0800</updated>
+        <summary type="html"><![CDATA[关键词：中国公民，日本，犯罪，安全，外交部
+
+<br><br>总结:
+1. 日本广播协会记者就中国外交部提醒中国公民避免前往日本一事提问，因日方公布数据与中方指责不符。
+2. 外交部发言人毛宁回应称，当前日本社会针对中国公民的犯罪案件多发，包括上周逮捕的袭击中国公民嫌疑人，以及网络上针对中国的极端言论。
+3. 中国驻日本使领馆近期也多次遭到日本右翼分子滋扰。
+4. 外交部敦促日方重视中方关切，采取行动保障在日中国公民和机构的安全。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日]]></title>
+        <link href="https://m.thepaper.cn/detail/32045814" />
+        <id>https://m.thepaper.cn/detail/32045814</id>
+        <updated>Wed, 26 Nov 2025 12:27:08 +0800</updated>
+        <summary type="html"><![CDATA[赛德克·巴莱，雾社事件，抗日，莫那鲁道，台湾
+
+<br><br>总结:
+1. 中国台湾抗日史诗电影《赛德克·巴莱》上下部定档12月12日、13日在中国大陆上映，此前该片已在全球影坛获得认可。
+2. 影片以上下部形式展现1930年“雾社事件”，讲述日本侵略时期，莫那鲁道带领中国台湾民众反抗日军侵略，守护民族尊严的故事。
+3. 上部讲述莫那鲁道年轻时抵抗日军入侵，最后忍辱归顺，以及雾社公学校起义爆发。
+4. 下部展现莫那鲁道率领勇士与日军进行殊死搏斗，最终以悲壮结局捍卫灵魂与尊严。
+5. 影片制作规模宏大，力求真实还原中国台湾人民血性抗日的历史事件，并持续收获好评。
 ]]></summary>
     </entry>
     
