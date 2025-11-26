@@ -1,57 +1,20 @@
 ------------------------------------------------------
-Started: 2025-11-26 12:42:27.671918
-Existing_entries: 18
+Started: 2025-11-26 14:20:46.745779
+Existing_entries: 17
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2862
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [四川省成都市委副书记、市长王凤朝被查](https://m.thepaper.cn/detail/32048021)
+Token length: 1463
 Summarized using gemini model: gemini-2.0-flash
-Append: [RAG被判死刑：Google用一行API架空工程师](https://www.36kr.com/p/3569462947527810)
-Token length: 1560
+Append: [马上评︱同居认定“家庭成员”？仅用于反家暴，别误读](https://m.thepaper.cn/detail/32047698)
+Token length: 460
 Summarized using gemini model: gemini-2.0-flash
-Append: [字节旗下番茄系2024年收入超300亿，今年有望翻倍｜36氪独家](https://www.36kr.com/p/3569503374703747)
-Token length: 2500
+Append: [科技部会同有关部门部署开展学术不端撤稿论文专项整治行动](https://m.thepaper.cn/detail/32047701)
+Token length: 3365
 Summarized using gemini model: gemini-2.0-flash
-Append: [华为Mate80全系降价背后](https://www.36kr.com/p/3569325125811335)
-Token length: 67
+Append: [特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车](https://m.thepaper.cn/detail/32044682)
+Token length: 692
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普宣布“特赦”，火鸡突然大叫](https://m.thepaper.cn/detail/32045220)
-Token length: 2613
-Summarized using gemini model: gemini-2.0-flash
-Append: [极越要复活了？得先问佟丽娅答不答应](https://www.36kr.com/p/3569178856733572)
-Token length: 4788
-Summarized using gemini model: gemini-2.0-flash
-Append: [三场硬仗，阿里进击](https://www.36kr.com/p/3569210008714117)
-Token length: 2147
-Summarized using gemini model: gemini-2.0-flash
-Append: [3天前通知停工，实探智驾独角兽毫末智行北京总部，员工：说是放假，实际回不来](https://www.36kr.com/p/3568440642419586)
-Token length: 5110
-Summarized using gemini model: gemini-2.0-flash
-Append: [比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了](https://juejin.cn/post/7576197876716748838)
-Token length: 4302
-Summarized using gemini model: gemini-2.0-flash
-Append: [我把设计稿扔给 Doubao-Seed-Code，它写出的前端页面让我怀疑人生](https://juejin.cn/post/7575910298283098147)
-Token length: 0
-Summarized using gemini model: gemini-2.0-flash
-Append: [就业压力激增，英国实施“最严移民新规”](https://www.huxiu.com/article/4810084.html)
-Token length: 1332
-Summarized using gemini model: gemini-2.0-flash
-Append: [马上评︱影视行业不该被平台牵着鼻子走](https://m.thepaper.cn/detail/32046955)
-Token length: 287
-Summarized using gemini model: gemini-2.0-flash
-Append: [外交部：敦促日方采取切实行动保障在日中国公民和机构的安全](https://m.thepaper.cn/detail/32046965)
-Token length: 970
-Summarized using gemini model: gemini-2.0-flash
-Append: [《赛德克·巴莱》上下部官宣中国大陆上映，定档12月12、13日](https://m.thepaper.cn/detail/32045814)
-Token length: 1123
-Summarized using gemini model: gemini-2.0-flash
-Append: [不婚人群遗产管理引关注，民法学者：核心是提前订立遗嘱](https://m.thepaper.cn/detail/32041144)
-Token length: 1426
-Summarized using gemini model: gemini-2.0-flash
-Append: [降价800元！华为新机Mate 80起售价下调，鸿蒙5及鸿蒙6终端数已破2700万](https://m.thepaper.cn/detail/32040275)
-Token length: 1220
-Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜80后男子跪别老宅，为何戳中人们的泪点](https://m.thepaper.cn/detail/32045550)
-Token length: 324
-Summarized using gemini model: gemini-2.0-flash
-Append: [日本熊本发生5.7级地震，中领馆提醒注意防范地震灾害](https://m.thepaper.cn/detail/32039740)
-append_entries: 17
-Finish: 2025-11-26 12:43:48.962794
+Append: [京东外卖员也要换新工服了？知情人士：系内测版其中一款](https://m.thepaper.cn/detail/32046154)
+append_entries: 5
+Finish: 2025-11-26 14:21:06.254711
