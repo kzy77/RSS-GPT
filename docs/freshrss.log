@@ -1,36 +1,41 @@
 ------------------------------------------------------
-Started: 2025-11-29 10:19:26.395078
+Started: 2025-11-29 12:37:33.133907
 Existing_entries: 10
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 898
+Token length: 53
 Summarized using gemini model: gemini-2.0-flash
-Append: [【限免】AVS Video ReMaker 无需重新转换即可编辑视频文件 【原价$149刀 – $0】](https://www.freedidi.com/21882.html)
-Token length: 674
+Append: [香港特区政府：此前失踪名单中144人确认安全](https://m.thepaper.cn/detail/32067431)
+Token length: 616
 Summarized using gemini model: gemini-2.0-flash
-Append: [【限免】XenArmor Wi-Fi密码恢复专业版！2025免费密钥](https://www.freedidi.com/21873.html)
-Token length: 1631
+Append: [杭州灵隐寺免门票首日，入园名额已提前约满](https://m.thepaper.cn/detail/32067315)
+Token length: 2093
 Summarized using gemini model: gemini-2.0-flash
-Append: [云南澜沧县被指将大量垃圾直排天坑溶洞，官方：已展开清理](https://m.thepaper.cn/detail/32066872)
-Token length: 1106
+Append: [《疯狂动物城2》力挽狂澜，2025年500亿稳了](https://www.36kr.com/p/3572815402843264)
+Token length: 3931
 Summarized using gemini model: gemini-2.0-flash
-Append: [习近平在中共中央政治局第二十三次集体学习时强调，健全网络生态治理长效机制，持续营造风清气正的网络空间](https://m.thepaper.cn/detail/32066974)
-Token length: 3016
+Append: [9人团队做的开放世界，爆卖了1个亿？事情没那么简单](https://www.36kr.com/p/3572838543391621)
+Token length: 6454
 Summarized using gemini model: gemini-2.0-flash
-Append: [智驾洗牌，一家独角兽陷停摆](https://www.36kr.com/p/3572663959501957)
-Token length: 3191
+Append: [“文科生”微博，搞出一个数学学霸大模型](https://www.36kr.com/p/3572620005079941)
+Token length: 2475
 Summarized using gemini model: gemini-2.0-flash
-Append: [苹果AI论文太坑了，用GPT写的GT，导致北京程序员通宵加班](https://www.36kr.com/p/3572628833139843)
-Token length: 6400
+Append: [第一家法律AI公司，死于不够AI](https://www.36kr.com/p/3572651248696451)
+Token length: 208
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI让MAGA陷入严重分裂，考验特朗普“制衡术”](https://www.36kr.com/p/3572629467708289)
-Token length: 81
+Append: [新规来了！银行取款超5万不再需要登记](https://m.thepaper.cn/detail/32067219)
+Token length: 1010
 Summarized using gemini model: gemini-2.0-flash
-Append: [售货大姨与博主互动“影响铁路形象”被停职？牡丹江客运段：外包公司已恢复其工作](https://m.thepaper.cn/detail/32063346)
-Token length: 5612
+Append: [国务院安委会部署开展高层建筑重大火灾风险隐患排查整治行动](https://m.thepaper.cn/detail/32067117)
+Token length: 3686
 Summarized using gemini model: gemini-2.0-flash
-Append: [毕赣这次究竟狂野在哪里？听他自己说](https://m.thepaper.cn/detail/32064472)
-Token length: 629
+Append: [大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美](https://m.thepaper.cn/detail/32064050)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [TRAE SOLO中国版终于来了，完全免费！](https://juejin.cn/post/7576580177662132234)
+Token length: 572
 Summarized using gemini model: gemini-2.0-flash
-Append: [【限免】Adobe 大放送！Photoshop  免费授权1 年网页版！（免信用卡）领取教程](https://www.freedidi.com/21846.html)
-append_entries: 10
-Finish: 2025-11-29 10:19:46.545572
+Append: [【终身限免】原价US $99.99《MoneyTime》记帐APP 终生版限时免费！](https://www.freedidi.com/21864.html)
+Token length: 785
+Summarized using gemini model: gemini-2.0-flash
+Append: [【终身限免】专业级SSH/SFTP 远端管理 Termix 终生版限时免费！ 【原价US $9.99】](https://www.freedidi.com/21853.html)
+append_entries: 12
+Finish: 2025-11-29 12:38:40.653422
