@@ -1,49 +1,32 @@
 ------------------------------------------------------
-Started: 2025-12-01 14:22:01.041132
-Existing_entries: 20
+Started: 2025-12-01 16:28:59.671666
+Existing_entries: 15
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2542
+Token length: 8
 Summarized using gemini model: gemini-2.0-flash
-Append: [沙特将旅游炼成“新石油”，中东旅游格局由此生变](https://www.yicai.com/news/102936394.html)
+Append: [造车新势力11月成绩单：零跑再破7万辆，多家车企创新高](https://www.yicai.com/news/102936488.html)
+Token length: 2079
+Summarized using gemini model: gemini-2.0-flash
+Append: [陕西首次明确“双极”格局，这座城市要与西安平起平坐？](https://www.yicai.com/news/102936483.html)
+Token length: 229
+Summarized using gemini model: gemini-2.0-flash
+Append: [香港宏福苑棚网样本未达标 记者观察香港闹市区 多个施工现场回收棚网｜一探](https://www.yicai.com/video/102936468.html)
+Token length: 73
+Summarized using gemini model: gemini-2.0-flash
+Append: [公告臻选丨半导体+户外运动+商业航天！公司拟斥资近7亿元拿下两家芯片公司控股权](https://www.yicai.com/vip/news/102936447.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [9000套流拍，银行直供房为何少人问津？产权风险与腾退难题成拦路虎](https://www.yicai.com/news/102936332.html)
-Token length: 182
+Append: [从“一次性部署”到“动态进化”：“FDE+FDR”破解工业AI落地难痛点](https://www.yicai.com/news/102936386.html)
+Token length: 1764
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI进化速递 | DeepSeek发布新模型](https://www.yicai.com/news/102936352.html)
-Token length: 1805
+Append: [DeepSeek又上新！模型硬刚谷歌，承认开源与闭源差距拉大](https://www.yicai.com/news/102936382.html)
+Token length: 2668
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：应重视REITs的商业变革意义](https://www.yicai.com/news/102936331.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [“十五五”居民消费率明显提高大有可为](https://www.yicai.com/news/102936339.html)
-Token length: 3113
+Append: [13部门联手严打炒币，稳定币纳入虚拟币监管范畴](https://www.yicai.com/news/102936350.html)
+Token length: 3930
 Summarized using gemini model: gemini-2.0-flash
-Append: [中国增长进入人和物的乘法时代](https://www.yicai.com/news/102936307.html)
-Token length: 2244
+Append: [观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？](https://m.thepaper.cn/detail/32077222)
+Token length: 82
 Summarized using gemini model: gemini-2.0-flash
-Append: [“十五五”中国经济将保持中高速增长，面临哪些机遇和挑战](https://www.yicai.com/news/102936303.html)
-Token length: 2336
-Summarized using gemini model: gemini-2.0-flash
-Append: [临近退休大搞“老鼠仓”，券商前高管看底牌搭便车收过亿罚单](https://www.yicai.com/news/102936278.html)
-Token length: 1070
-Summarized using gemini model: gemini-2.0-flash
-Append: [11月新势力销量出现断层](https://www.yicai.com/news/102936257.html)
-Token length: 1481
-Summarized using gemini model: gemini-2.0-flash
-Append: [融资需求报告：72%沿沪宁初创科技企业未获银行贷款](https://www.yicai.com/news/102936276.html)
-Token length: 3860
-Summarized using gemini model: gemini-2.0-flash
-Append: [工人月薪两万的密码，藏在这座皖江古镇的汽车链条里 | 中国汽车地理](https://www.yicai.com/news/102936262.html)
-Token length: 3874
-Summarized using gemini model: gemini-2.0-flash
-Append: [DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5](https://wallstreetcn.com/articles/3760461)
-Token length: 3848
-Summarized using gemini model: gemini-2.0-flash
-Append: [豆包“输入”微信里](https://www.36kr.com/p/3576726372809608)
-Token length: 4691
-Summarized using gemini model: gemini-2.0-flash
-Append: [乌军即将崩溃？从战场局势看乌克兰在俄乌和谈中的底牌](https://m.thepaper.cn/detail/32075805)
-Token length: 5201
-Summarized using gemini model: gemini-2.0-flash
-Append: [人民日报头版：上海“拎马桶”改造任务总体完成，惠及群众的事再难也要想办法解决](https://m.thepaper.cn/detail/32075100)
-append_entries: 15
-Finish: 2025-12-01 14:23:28.420518
+Append: [Elasticsearch 避坑指南：我在项目中总结的 14 条实用经验](https://www.cnblogs.com/xzqcsj/p/19291439)
+append_entries: 9
+Finish: 2025-12-01 16:29:31.221594
