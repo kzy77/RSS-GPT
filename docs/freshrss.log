@@ -1,59 +1,18 @@
 ------------------------------------------------------
-Started: 2025-12-03 20:24:18.009656
-Existing_entries: 2
+Started: 2025-12-03 22:20:14.104961
+Existing_entries: 18
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1940
+Token length: 2679
 Summarized using gemini model: gemini-2.0-flash
-Append: [12月3日这些公告有看头](https://www.yicai.com/news/102940036.html)
-Token length: 1197
+Append: [A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压](https://wallstreetcn.com/articles/3760597)
+Token length: 1887
 Summarized using gemini model: gemini-2.0-flash
-Append: [理想汽车开始卖AI眼镜了，但高管预测产品爆发要两年后](https://www.yicai.com/news/102940018.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [实地探访上海首家社保主题银行](https://www.yicai.com/image/102939977.html)
-Token length: 3261
+Append: [车市消失的“翘尾”](https://www.36kr.com/p/3579122955959174)
+Token length: 1560
 Summarized using gemini model: gemini-2.0-flash
-Append: [吸毒记录封存热议：并非不留痕，细则宜审慎](https://www.yicai.com/news/102939968.html)
-Token length: 3022
+Append: [意外下滑！美国11月ADP就业人数减少3.2万人，创2023年3月以来最大降幅，小企业失业人数激增](https://wallstreetcn.com/articles/3760652)
+Token length: 5432
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海FT账户迎十年最强升级，实现全球资金“T+0”调拨](https://www.yicai.com/news/102939954.html)
-Token length: 1570
-Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：让信用修复新规为经营主体提供更多“重生”机会](https://www.yicai.com/news/102939951.html)
-Token length: 4763
-Summarized using gemini model: gemini-2.0-flash
-Append: [2027年，人类最后一次抉择](https://www.36kr.com/p/3579721070967684)
-Token length: 849
-Summarized using gemini model: gemini-2.0-flash
-Append: [“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元](https://wallstreetcn.com/articles/3760570)
-Token length: 5457
-Summarized using gemini model: gemini-2.0-flash
-Append: [【已开源】Cursor AI 开发实战：小文件在线互传工具](https://juejin.cn/post/7576968345875021851)
-Token length: 2110
-Summarized using gemini model: gemini-2.0-flash
-Append: [小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹](https://wallstreetcn.com/articles/3760624)
-Token length: 3186
-Summarized using gemini model: gemini-2.0-flash
-Append: [“黑五”市场需求一般，中企如何转危为机](https://www.yicai.com/news/102939920.html)
-Token length: 1119
-Summarized using gemini model: gemini-2.0-flash
-Append: [祖泉研究院揭牌、海外投资基金启动：复旦科创大会密集“上新”](https://www.yicai.com/news/102939889.html)
-Token length: 3116
-Summarized using gemini model: gemini-2.0-flash
-Append: [以系统立体法治建设护航我国机器人出海竞争︱法经兵言](https://www.yicai.com/news/102939914.html)
-Token length: 4233
-Summarized using gemini model: gemini-2.0-flash
-Append: [怎样养老才能让家庭的福祉最大化](https://www.yicai.com/news/102939916.html)
-Token length: 1208
-Summarized using gemini model: gemini-2.0-flash
-Append: [追讨土地款及赔偿，大悦城把武汉有关部门告上法庭](https://www.yicai.com/news/102939866.html)
-Token length: 2998
-Summarized using gemini model: gemini-2.0-flash
-Append: [医保影像“上云”一年：从0到近2亿条](https://www.yicai.com/news/102939863.html)
-Token length: 2889
-Summarized using gemini model: gemini-2.0-flash
-Append: [债基5天吞两年半收益追踪：华宸未来回应“个别债券调整”](https://www.yicai.com/news/102939846.html)
-Token length: 220
-Summarized using gemini model: gemini-2.0-flash
-Append: [特斯拉发布人形机器人“擎天柱”跑步视频](https://www.yicai.com/news/102939824.html)
-append_entries: 18
-Finish: 2025-12-03 20:25:38.757741
+Append: [圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？](https://m.thepaper.cn/detail/32092056)
+append_entries: 4
+Finish: 2025-12-03 22:20:23.757630
