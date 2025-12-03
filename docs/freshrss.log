@@ -1,45 +1,65 @@
 ------------------------------------------------------
-Started: 2025-12-03 10:24:35.875562
-Existing_entries: 8
+Started: 2025-12-03 12:43:21.951496
+Existing_entries: 13
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 121
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [【限时福利】免费领 1 年 Google Gemini AI Pro！无需实体信用卡、解决身份认证、学生套餐开通全流程｜零度解说](https://www.freedidi.com/21969.html)
+Token length: 3061
 Summarized using gemini model: gemini-2.0-flash
-Append: [A股今日共54只个股涨停 这只创新药股5连板](https://www.yicai.com/news/102939343.html)
-Token length: 274
+Append: [岁末揽储博弈升级：大行停售长期存单，中小行逆势加息](https://www.yicai.com/news/102939669.html)
+Token length: 4994
 Summarized using gemini model: gemini-2.0-flash
-Append: [高市早苗涉台最新表态：日本政府对台湾的立场没改变](https://www.yicai.com/news/102939333.html)
-Token length: 1343
+Append: [香港大火启示：全国100多万栋高层民居，更新改造隐患仍多](https://www.yicai.com/news/102937542.html)
+Token length: 3284
 Summarized using gemini model: gemini-2.0-flash
-Append: [万达回购了一座万达广场，王健林卖资产的步伐停下来了？](https://www.yicai.com/news/102939336.html)
-Token length: 1254
+Append: [ST股年末遭密集监管，A股“炒小炒差”风气逆转](https://www.yicai.com/news/102938124.html)
+Token length: 1490
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国共和党议员提案禁双重国籍，“最激进”公民身份改革能成吗](https://www.yicai.com/news/102939284.html)
-Token length: 501
+Append: [科创ETF密集申报，半导体、机器人等科技股再迎增量资金](https://www.yicai.com/news/102939629.html)
+Token length: 1683
 Summarized using gemini model: gemini-2.0-flash
-Append: [网信部门依法查处张雪峰等网络名人账号违法违规行为](https://m.thepaper.cn/detail/32094604)
-Token length: 841
+Append: [苏超式足球联赛越来越多，滇超、琼超开赛，东北超也在筹备](https://www.yicai.com/news/102939612.html)
+Token length: 1901
 Summarized using gemini model: gemini-2.0-flash
-Append: [澎湃回声｜多家电商平台处置下架“儿童形象情趣玩偶”](https://m.thepaper.cn/detail/32094109)
-Token length: 1092
+Append: [公立医院新增床位数近五年首降，多地调控分院区数量](https://www.yicai.com/news/102937780.html)
+Token length: 497
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI眼镜卷来卷去，终于有一副让我不想摘了（附测评）](https://www.36kr.com/p/3576666751400839)
-Token length: 1481
+Append: [飞天茅台电商低至1399元？ 实探：线下经销商1799元/瓶 有门店称一瓶几十块利润 难赚钱](https://www.yicai.com/video/102939605.html)
+Token length: 196
 Summarized using gemini model: gemini-2.0-flash
-Append: [白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”](https://wallstreetcn.com/articles/3760602)
-Token length: 464
+Append: [龙虎榜丨机构今日买入这10股，卖出南网数字1.88亿元](https://www.yicai.com/news/102939498.html)
+Token length: 194
 Summarized using gemini model: gemini-2.0-flash
-Append: [澎湃报道电商平台售卖“儿童款”情趣玩偶，中国妇女报：红线不可逾越！平台不可装睡！](https://m.thepaper.cn/detail/32093141)
-Token length: 4879
+Append: [澎湃回声｜广东惠阳通报企业违规生产销售“情趣娃娃”：暂停生产，接受调查](https://m.thepaper.cn/detail/32095044)
+Token length: 3646
 Summarized using gemini model: gemini-2.0-flash
-Append: [外卖大战收尾：烧光千亿，没有赢家](https://www.36kr.com/p/3579091175996294)
-Token length: 8151
+Append: [脉泽科技：指纹与人脸之后第三大生物识别技术，如何突围巨头垄断的海外市场？](https://www.36kr.com/p/3579313733663625)
+Token length: 3476
 Summarized using gemini model: gemini-2.0-flash
-Append: [亚马逊杀疯了，连甩十大重磅发布，揭Agent大招、自研芯进展](https://www.36kr.com/p/3578957015104385)
-Token length: 1281
+Append: [DeepSeek V3.2发布！实测效果惊艳，便宜是最大优势](https://www.36kr.com/p/3579144433899657)
+Token length: 1196
 Summarized using gemini model: gemini-2.0-flash
-Append: [经合组织：全球主要央行的降息将于明年结束，宽松空间已非常有限](https://wallstreetcn.com/articles/3760545)
-Token length: 3411
+Append: [马斯克要做 “ 升级版微信 ”，网友炸了...](https://www.36kr.com/p/3578501131795591)
+Token length: 3630
 Summarized using gemini model: gemini-2.0-flash
-Append: [增程车遭遇双面夹击：不仅纯电车卖得好，燃油车也“复苏”了](https://www.36kr.com/p/3578231413570441)
-append_entries: 13
-Finish: 2025-12-03 10:25:45.536282
+Append: [python元组和字典](https://juejin.cn/post/7578830345870589993)
+Token length: 2621
+Summarized using gemini model: gemini-2.0-flash
+Append: [30 年数学难题，AI 仅 6 小时告破！陶哲轩：ChatGPT 们都失败了](https://juejin.cn/post/7578332586062807091)
+Token length: 3758
+Summarized using gemini model: gemini-2.0-flash
+Append: [昨天分享了一套用 Nano Banana PRO做商业 PPT 定制的玩法，还推荐直接去咸鱼接单搞钱。](https://juejin.cn/post/7577713754564558900)
+Token length: 2126
+Summarized using gemini model: gemini-2.0-flash
+Append: [谷歌AI模型Gemini 3.0 Pro，已经杀疯了！](https://juejin.cn/post/7577718777481363494)
+Token length: 2734
+Summarized using gemini model: gemini-2.0-flash
+Append: [扫垃圾也得上高科技，机器人怎么算成本账](https://www.yicai.com/news/102939533.html)
+Token length: 1469
+Summarized using gemini model: gemini-2.0-flash
+Append: [华盛顿枪击案“后遗症”：特朗普政府多管齐下推动移民体系改革](https://www.yicai.com/news/102939547.html)
+Token length: 2412
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI智能体正在重写手机安全规则，该不该让“豆包助手”模拟你的手指？](https://www.yicai.com/news/102939392.html)
+append_entries: 20
+Finish: 2025-12-03 12:44:52.825475
