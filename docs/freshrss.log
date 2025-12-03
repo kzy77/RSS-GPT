@@ -1,12 +1,8 @@
 ------------------------------------------------------
-Started: 2025-12-03 16:29:38.801098
-Existing_entries: 20
+Started: 2025-12-03 18:32:33.183786
+Existing_entries: 2
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1560
-Summarized using gemini model: gemini-2.0-flash
-Append: [意外下滑！美国11月ADP就业人数减少3.2万人，创2023年3月以来最大降幅，小企业失业人数激增](https://wallstreetcn.com/articles/3760652)
-Token length: 5432
-Summarized using gemini model: gemini-2.0-flash
-Append: [圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？](https://m.thepaper.cn/detail/32092056)
-append_entries: 2
-Finish: 2025-12-03 16:29:44.876032
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcf71566d30>: Failed to resolve 'freshrss.chunkj.qzz.io' ([Errno -3] Temporary failure in name resolution)"))
+Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
