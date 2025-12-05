@@ -1,66 +1,46 @@
 ------------------------------------------------------
-Started: 2025-12-05 06:32:05.206367
-Existing_entries: 5
+Started: 2025-12-05 08:27:54.060585
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1722
+Token length: 628
 Summarized using gemini model: gemini-2.0-flash
-Append: [全球新造船成交量预计大跌，替代燃料船舶订单仍在增长](https://www.yicai.com/news/102942846.html)
-Token length: 441
+Append: [创业板指、深成指放量涨超1%，大金融板块午后爆发](https://www.yicai.com/news/102943159.html)
+Token length: 1111
 Summarized using gemini model: gemini-2.0-flash
-Append: [宏胜饮料集团新增劳动争议，六天后开庭](https://www.yicai.com/news/102942839.html)
-Token length: 477
+Append: [东旭光电财务造假案余波未了，中信证券子公司被诉](https://www.yicai.com/news/102943134.html)
+Token length: 777
 Summarized using gemini model: gemini-2.0-flash
-Append: [车评人陈震被查偷税118万元，税务处罚金247万元](https://www.yicai.com/news/102942777.html)
-Token length: 190
+Append: [壹快评丨网红偷税得不偿失，纳税“红线”不容触碰](https://www.yicai.com/news/102943136.html)
+Token length: 915
 Summarized using gemini model: gemini-2.0-flash
-Append: [掘金板块牛熊：金属铜还能不能买？ 算力硬件王者归来？](https://www.yicai.com/vip/news/102942743.html)
-Token length: 377
+Append: [一批原创“人工智能+应用”项目亮相“光谷青桐汇Ultra”](https://www.yicai.com/news/102942929.html)
+Token length: 2667
 Summarized using gemini model: gemini-2.0-flash
-Append: [知名车评人陈震偷税追缴并罚共计247.48万元](https://m.thepaper.cn/detail/32112126)
-Token length: 2825
+Append: [下一个五年，湘鄂赣“中三省”准备怎么干？](https://www.yicai.com/news/102942882.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [推动“双碳”目标落地，多方建议推进标准化体系建设](https://www.yicai.com/news/102942945.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [多地发布流感风险预警，防控分级为何不同？](https://www.yicai.com/news/102942910.html)
+Token length: 4852
 Summarized using gemini model: gemini-2.0-flash
-Append: [“国产GPU第一股”！摩尔线程大涨502%，中一签赚28万，早期投资者暴赚6200倍](https://wallstreetcn.com/articles/3760773)
-Token length: 986
+Append: [说人话，查数据：构建一个自然语言驱动的 SQLite 后台](https://juejin.cn/post/7579843977848569910)
+Token length: 168
 Summarized using gemini model: gemini-2.0-flash
-Append: [言短意长｜湖北竹溪住建局招投标公告还要出现多少百度人名大全](https://m.thepaper.cn/detail/32111566)
-Token length: 3257
+Append: [日本启动第17轮核污染水排海，本次排海量约7800吨](https://m.thepaper.cn/detail/32111585)
+Token length: 106
 Summarized using gemini model: gemini-2.0-flash
-Append: [为了三套新工服，外卖平台烧光1000亿](https://www.36kr.com/p/3581240626084744)
-Token length: 3029
+Append: [AI Coding与单元测试的协同进化：从验证到驱动](https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html)
+Token length: 3139
 Summarized using gemini model: gemini-2.0-flash
-Append: [一夜重构！我用 TRAE SOLO 手搓了一个 AI 视频面试官](https://juejin.cn/post/7579871631096184858)
-Token length: 5208
+Append: [当AI为你写SQL，连数据库都开始谈恋爱了](https://juejin.cn/post/7579872561674633225)
+Token length: 4045
 Summarized using gemini model: gemini-2.0-flash
-Append: [双非大学生，涌入大厂AI流水线](https://www.36kr.com/p/3581070113528196)
-Token length: 341
+Append: [从 Mobile First 到 AI First：用 Python 和大模型让数据库“开口说话”](https://juejin.cn/post/7579659550863065130)
+Token length: 87
 Summarized using gemini model: gemini-2.0-flash
-Append: [“小作文”突袭 寒武纪股价一顿巨震 公司紧急辟谣](https://www.yicai.com/video/102942719.html)
-Token length: 268
+Append: [江苏爸妈生出混血娃娃，原来因为太爷爷是俄罗斯人](https://m.thepaper.cn/detail/32105514)
+Token length: 1338
 Summarized using gemini model: gemini-2.0-flash
-Append: [摩尔线程科创板首秀：开盘大涨468.78% 中一签浮盈26.7万](https://www.yicai.com/video/102942680.html)
-Token length: 1412
-Summarized using gemini model: gemini-2.0-flash
-Append: [专家建言明年继续实施“国补”，额度可增至5000亿元](https://www.yicai.com/news/102942632.html)
-Token length: 2620
-Summarized using gemini model: gemini-2.0-flash
-Append: [以开放之心链接东西，以艺术之美串联古今|一财全球人文沙龙澳门站](https://www.yicai.com/news/102942598.html)
-Token length: 1523
-Summarized using gemini model: gemini-2.0-flash
-Append: [中国叙事：从黄河到湾区，从千年到未来|一财全球读者沙龙深圳站](https://www.yicai.com/news/102942640.html)
-Token length: 771
-Summarized using gemini model: gemini-2.0-flash
-Append: [媒体：知名车评人陈震被多平台禁言，曾因涉车企捐款言论引争议](https://m.thepaper.cn/detail/32110487)
-Token length: 4923
-Summarized using gemini model: gemini-2.0-flash
-Append: [专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告](https://m.thepaper.cn/detail/32104325)
-Token length: 1567
-Summarized using gemini model: gemini-2.0-flash
-Append: [反串网红“罗大美”遇害案三名被告人均上诉，二审今日开庭](https://m.thepaper.cn/detail/32106251)
-Token length: 1266
-Summarized using gemini model: gemini-2.0-flash
-Append: [昔日战略核心大幅收缩！扎克伯格拟削减Meta元宇宙预算最高30%](https://wallstreetcn.com/articles/3760742)
-Token length: 3716
-Summarized using gemini model: gemini-2.0-flash
-Append: [霸王茶姬：大单品不香了？](https://www.36kr.com/p/3581012124040073)
-append_entries: 20
-Finish: 2025-12-05 06:33:27.155533
+Append: [后台太多记不住？我做了一个统一门户把所有系统全串起来了| 掘金一周 12.4](https://juejin.cn/post/7579585393210441774)
+append_entries: 14
+Finish: 2025-12-05 08:29:07.361684
