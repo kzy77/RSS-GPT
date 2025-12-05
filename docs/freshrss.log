@@ -1,41 +1,66 @@
 ------------------------------------------------------
-Started: 2025-12-05 10:21:50.974032
-Existing_entries: 14
+Started: 2025-12-05 12:41:34.167349
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1399
+Token length: 2352
 Summarized using gemini model: gemini-2.0-flash
-Append: [DeepSeek V3.2 正式发布！强化 Agent 能力，融入思考推理，免费开源！实测+本地部署](https://www.freedidi.com/21979.html)
-Token length: 2395
+Append: [险资股票投资风险因子调降10%落地！业内测算或可释放千亿入市资金](https://www.yicai.com/news/102943716.html)
+Token length: 957
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普称美国生活成本危机是“骗局”，但数据显示民众正涌向一元店](https://www.yicai.com/news/102943354.html)
-Token length: 164
+Append: [放雪假多地滑雪场长满了学生](https://www.yicai.com/news/102943641.html)
+Token length: 1240
 Summarized using gemini model: gemini-2.0-flash
-Append: [实探：朱迪录音笔5分钟售罄，4D《疯狂动物城2》犹如坐“热力追踪”](https://www.yicai.com/video/102943322.html)
-Token length: 2527
+Append: [陈震偷税被查，税务部门公布案件细节](https://www.yicai.com/news/102943663.html)
+Token length: 1452
 Summarized using gemini model: gemini-2.0-flash
-Append: [深度｜国产疫苗企业闯荡“一带一路”市场：从卖产品到布全局](https://www.yicai.com/news/102943024.html)
-Token length: 1611
+Append: [多所高校调整重组外语学院，外语专业批量停招](https://www.yicai.com/news/102943618.html)
+Token length: 1194
 Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普给油车送大礼！“松绑”美国汽车燃油效率标准](https://www.yicai.com/news/102941123.html)
-Token length: 113
+Append: [线上白酒大促补贴价越来越低，酒水流通行业发出反内卷倡议](https://www.yicai.com/news/102943580.html)
+Token length: 1538
 Summarized using gemini model: gemini-2.0-flash
-Append: [大方之谈丨对话许子东：想不通的时候，多读读鲁迅](https://m.thepaper.cn/detail/31991114)
-Token length: 974
+Append: [反串网红“罗大美”遇害案二审维持原判](https://m.thepaper.cn/detail/32113767)
+Token length: 532
 Summarized using gemini model: gemini-2.0-flash
-Append: [中华人民共和国和法兰西共和国关于加强全球治理的联合声明](https://wallstreetcn.com/articles/3760782)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [豆包抢入口，捅了马蜂窝](https://wallstreetcn.com/articles/3760775)
-Token length: 1900
+Append: [交通运输部原党组成员，国家铁路局原党组书记、局长费东斌被双开](https://m.thepaper.cn/detail/32113485)
+Token length: 3209
 Summarized using gemini model: gemini-2.0-flash
-Append: [碧桂园开启“二次创业”](https://wallstreetcn.com/articles/3760780)
-Token length: 27827
+Append: [1.6 万买一台「AMG」？不用驾照，会推车就行](https://www.36kr.com/p/3582072462080903)
+Token length: 4254
 Summarized using gemini model: gemini-2.0-flash
-Append: [深入探究 React 史上最大安全漏洞](https://juejin.cn/post/7579892222609293347)
-Token length: 1087
+Append: [比亚迪赚走6成利润，6家新势力亏掉107亿，14大车企前三季度业绩锐评](https://www.36kr.com/p/3582041712753801)
+Token length: 1385
 Summarized using gemini model: gemini-2.0-flash
-Append: [豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用](https://m.thepaper.cn/detail/32111598)
-Token length: 1630
+Append: [连肝36小时不睡，00后天才工程师，瘫坐特斯拉靠FSD保命](https://www.36kr.com/p/3582009607142528)
+Token length: 5336
 Summarized using gemini model: gemini-2.0-flash
-Append: [2025年何以成为动画电影大年？](https://m.thepaper.cn/detail/32102676)
-append_entries: 12
-Finish: 2025-12-05 10:22:56.537209
+Append: [“毕业月薪三千上交一半”，这个南方特产让网友吵起来了](https://www.36kr.com/p/3581891870768263)
+Token length: 2741
+Summarized using gemini model: gemini-2.0-flash
+Append: [摩尔线程今日上市！创始人张建中：迭代全功能GPU为美好世界加速](https://wallstreetcn.com/articles/3760761)
+Token length: 2260
+Summarized using gemini model: gemini-2.0-flash
+Append: [连获融资，AI推理3D游戏《神探夏洛克：暗夜追踪者》将于明年上线 | 36氪首发](https://www.36kr.com/p/3581016777603968)
+Token length: 1783
+Summarized using gemini model: gemini-2.0-flash
+Append: [贝森特再兼要职？特朗普政府“一人多职”现象，是用人荒？](https://www.yicai.com/news/102943256.html)
+Token length: 2438
+Summarized using gemini model: gemini-2.0-flash
+Append: [从欧美“黑五”看电商出海：直播带货更进一步，小商家计划明年回流](https://www.yicai.com/news/102943537.html)
+Token length: 3115
+Summarized using gemini model: gemini-2.0-flash
+Append: [经济“提质”与A股“慢牛”——2026年中国经济与资本市场展望](https://www.yicai.com/news/102942390.html)
+Token length: 1571
+Summarized using gemini model: gemini-2.0-flash
+Append: [两部门出台文件：10条措施促进邮轮运输及旅游服务发展](https://www.yicai.com/news/102943541.html)
+Token length: 1327
+Summarized using gemini model: gemini-2.0-flash
+Append: [再次领涨A股！保险板块飙涨近6%，涨幅创一年新高](https://www.yicai.com/news/102943452.html)
+Token length: 2785
+Summarized using gemini model: gemini-2.0-flash
+Append: [12月5日这些公告有看头](https://www.yicai.com/news/102943490.html)
+Token length: 196
+Summarized using gemini model: gemini-2.0-flash
+Append: [龙虎榜丨机构今日买入这17股，卖出和而泰3.08亿元](https://www.yicai.com/news/102943478.html)
+append_entries: 20
+Finish: 2025-12-05 12:43:27.748950
