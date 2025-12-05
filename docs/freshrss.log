@@ -1,46 +1,41 @@
 ------------------------------------------------------
-Started: 2025-12-05 08:27:54.060585
-Existing_entries: 20
+Started: 2025-12-05 10:21:50.974032
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 628
+Token length: 1399
 Summarized using gemini model: gemini-2.0-flash
-Append: [创业板指、深成指放量涨超1%，大金融板块午后爆发](https://www.yicai.com/news/102943159.html)
-Token length: 1111
+Append: [DeepSeek V3.2 正式发布！强化 Agent 能力，融入思考推理，免费开源！实测+本地部署](https://www.freedidi.com/21979.html)
+Token length: 2395
 Summarized using gemini model: gemini-2.0-flash
-Append: [东旭光电财务造假案余波未了，中信证券子公司被诉](https://www.yicai.com/news/102943134.html)
-Token length: 777
+Append: [特朗普称美国生活成本危机是“骗局”，但数据显示民众正涌向一元店](https://www.yicai.com/news/102943354.html)
+Token length: 164
 Summarized using gemini model: gemini-2.0-flash
-Append: [壹快评丨网红偷税得不偿失，纳税“红线”不容触碰](https://www.yicai.com/news/102943136.html)
-Token length: 915
+Append: [实探：朱迪录音笔5分钟售罄，4D《疯狂动物城2》犹如坐“热力追踪”](https://www.yicai.com/video/102943322.html)
+Token length: 2527
 Summarized using gemini model: gemini-2.0-flash
-Append: [一批原创“人工智能+应用”项目亮相“光谷青桐汇Ultra”](https://www.yicai.com/news/102942929.html)
-Token length: 2667
+Append: [深度｜国产疫苗企业闯荡“一带一路”市场：从卖产品到布全局](https://www.yicai.com/news/102943024.html)
+Token length: 1611
 Summarized using gemini model: gemini-2.0-flash
-Append: [下一个五年，湘鄂赣“中三省”准备怎么干？](https://www.yicai.com/news/102942882.html)
+Append: [特朗普给油车送大礼！“松绑”美国汽车燃油效率标准](https://www.yicai.com/news/102941123.html)
+Token length: 113
+Summarized using gemini model: gemini-2.0-flash
+Append: [大方之谈丨对话许子东：想不通的时候，多读读鲁迅](https://m.thepaper.cn/detail/31991114)
+Token length: 974
+Summarized using gemini model: gemini-2.0-flash
+Append: [中华人民共和国和法兰西共和国关于加强全球治理的联合声明](https://wallstreetcn.com/articles/3760782)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [推动“双碳”目标落地，多方建议推进标准化体系建设](https://www.yicai.com/news/102942945.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [多地发布流感风险预警，防控分级为何不同？](https://www.yicai.com/news/102942910.html)
-Token length: 4852
+Append: [豆包抢入口，捅了马蜂窝](https://wallstreetcn.com/articles/3760775)
+Token length: 1900
 Summarized using gemini model: gemini-2.0-flash
-Append: [说人话，查数据：构建一个自然语言驱动的 SQLite 后台](https://juejin.cn/post/7579843977848569910)
-Token length: 168
+Append: [碧桂园开启“二次创业”](https://wallstreetcn.com/articles/3760780)
+Token length: 27827
 Summarized using gemini model: gemini-2.0-flash
-Append: [日本启动第17轮核污染水排海，本次排海量约7800吨](https://m.thepaper.cn/detail/32111585)
-Token length: 106
+Append: [深入探究 React 史上最大安全漏洞](https://juejin.cn/post/7579892222609293347)
+Token length: 1087
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI Coding与单元测试的协同进化：从验证到驱动](https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html)
-Token length: 3139
+Append: [豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用](https://m.thepaper.cn/detail/32111598)
+Token length: 1630
 Summarized using gemini model: gemini-2.0-flash
-Append: [当AI为你写SQL，连数据库都开始谈恋爱了](https://juejin.cn/post/7579872561674633225)
-Token length: 4045
-Summarized using gemini model: gemini-2.0-flash
-Append: [从 Mobile First 到 AI First：用 Python 和大模型让数据库“开口说话”](https://juejin.cn/post/7579659550863065130)
-Token length: 87
-Summarized using gemini model: gemini-2.0-flash
-Append: [江苏爸妈生出混血娃娃，原来因为太爷爷是俄罗斯人](https://m.thepaper.cn/detail/32105514)
-Token length: 1338
-Summarized using gemini model: gemini-2.0-flash
-Append: [后台太多记不住？我做了一个统一门户把所有系统全串起来了| 掘金一周 12.4](https://juejin.cn/post/7579585393210441774)
-append_entries: 14
-Finish: 2025-12-05 08:29:07.361684
+Append: [2025年何以成为动画电影大年？](https://m.thepaper.cn/detail/32102676)
+append_entries: 12
+Finish: 2025-12-05 10:22:56.537209
