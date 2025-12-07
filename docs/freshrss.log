@@ -1,65 +1,39 @@
 ------------------------------------------------------
-Started: 2025-12-07 06:28:20.014154
-Existing_entries: 0
+Started: 2025-12-07 08:24:13.776008
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 1250
+Token length: 1778
 Summarized using gemini model: gemini-2.0-flash
-Append: [一周个股动向：5股累计涨幅超50%，三大行业获主力抢筹](https://www.yicai.com/news/102944572.html)
-Token length: 1668
+Append: [多款心血管代谢创新药首次纳入医保，治疗费用有望大幅降低](https://www.yicai.com/news/102944577.html)
+Token length: 2002
 Summarized using gemini model: gemini-2.0-flash
-Append: [Z-Image Turbo 本地安装教程！最近非常火的文生图AI模型，到底怎么样？](https://www.freedidi.com/22006.html)
-Token length: 1762
+Append: [央行连续13个月增持黄金，外汇储备创近10年新高](https://www.yicai.com/news/102944581.html)
+Token length: 2399
 Summarized using gemini model: gemini-2.0-flash
-Append: [CAR-T药进入商保创新药目录，五款百万级别产品成大赢家](https://www.yicai.com/news/102944561.html)
-Token length: 419
+Append: [打造“青创第一城”，浦东全方位降低青年创新创业成本](https://www.yicai.com/news/102944580.html)
+Token length: 186
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海古籍出版社通报《西厢记》存多处错误：深感愧疚，下架整改](https://m.thepaper.cn/detail/32124566)
-Token length: 3172
+Append: [辽宁舰航母编队远海正常训练遭日机多次抵近滋扰，人民海军回应](https://m.thepaper.cn/detail/32124851)
+Token length: 784
 Summarized using gemini model: gemini-2.0-flash
-Append: [家常菜，才是满足中国胃的健康餐](https://www.36kr.com/p/3584166487341960)
-Token length: 1153
+Append: [荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”](https://m.thepaper.cn/detail/32124420)
+Token length: 1928
 Summarized using gemini model: gemini-2.0-flash
-Append: [美国家安全战略报告提出“西半球优先”，美防长称门罗主义“比以往任何时候都更加强大”](https://wallstreetcn.com/articles/3760856)
-Token length: 3197
+Append: [不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划](https://wallstreetcn.com/articles/3760864)
+Token length: 1270
 Summarized using gemini model: gemini-2.0-flash
-Append: [AI作图+仅退款，正在围猎电商卖家](https://www.36kr.com/p/3583943830313091)
-Token length: 4013
+Append: [多家央媒热议“全网最忙五人组”：挽回公信力不能只停留在“事后道歉、整改”](https://m.thepaper.cn/detail/32124577)
+Token length: 3122
 Summarized using gemini model: gemini-2.0-flash
-Append: [OpenAI的“治理大修”：一场资本重组修缺的大戏​](https://m.thepaper.cn/detail/32074253)
-Token length: 154
+Append: [全球屏息！年末最关键一周来了](https://wallstreetcn.com/articles/3760781)
+Token length: 3024
 Summarized using gemini model: gemini-2.0-flash
-Append: [Hadoop大数据这10年，刺破了哪些泡沫？](https://www.cnblogs.com/Robert.Yu/p/19312405)
-Token length: 1588
+Append: [清华系具身智能公司获数亿元Pre-A轮融资，拿下三菱等头部客户订单｜硬氪首发](https://www.36kr.com/p/3582338244230272)
+Token length: 2754
 Summarized using gemini model: gemini-2.0-flash
-Append: [七家协会联合颁布禁令，这一行业在境内彻底歇菜](https://www.yicai.com/news/102944532.html)
-Token length: 3638
+Append: [当你的存款突破30万，一定要警惕这件事](https://www.36kr.com/p/3584013987740547)
+Token length: 1075
 Summarized using gemini model: gemini-2.0-flash
-Append: [任正非最新发声；“支付宝崩了”登上热搜](https://www.yicai.com/news/102944538.html)
-Token length: 1719
-Summarized using gemini model: gemini-2.0-flash
-Append: [新版国家医保药品目录发布，19种药品纳入首版商保创新药目录](https://www.yicai.com/news/102944541.html)
-Token length: 2218
-Summarized using gemini model: gemini-2.0-flash
-Append: [权威解读：“新国标电动自行车不能带小孩”是误读](https://www.yicai.com/news/102944531.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [美股点金丨新高再次近在咫尺，除了美联储还需要看这个因素](https://www.yicai.com/news/102944522.html)
-Token length: 2582
-Summarized using gemini model: gemini-2.0-flash
-Append: [对话北大郭雳：上市公司监管条例有哪些亮点？有何影响？](https://www.yicai.com/news/102944519.html)
-Token length: 362
-Summarized using gemini model: gemini-2.0-flash
-Append: [连霍高速K3906公里附近因大雾、路面结冰发生追尾，9死7伤](https://m.thepaper.cn/detail/32124233)
-Token length: 4353
-Summarized using gemini model: gemini-2.0-flash
-Append: [苹果高管地震还在持续：芯片负责人考虑离职](https://www.36kr.com/p/3584760231459717)
-Token length: 2982
-Summarized using gemini model: gemini-2.0-flash
-Append: [重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅](https://wallstreetcn.com/articles/3760857)
-Token length: 889
-Summarized using gemini model: gemini-2.0-flash
-Append: [热点不能随意蹭！国安部：个别境外间谍情报机关设恶意Wi-Fi窃密](https://m.thepaper.cn/detail/32124110)
-Token length: 4424
-Summarized using gemini model: gemini-2.0-flash
-Append: [7天狂揽21亿！“最火CP”成断货王，有商家狂卖几十万件](https://www.36kr.com/p/3584072354167938)
-append_entries: 20
-Finish: 2025-12-07 06:29:43.300458
+Append: [足协杯决赛北京国安击败河南，队史第5次夺得冠军](https://m.thepaper.cn/detail/32122440)
+append_entries: 11
+Finish: 2025-12-07 08:25:20.367268
