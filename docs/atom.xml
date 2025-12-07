@@ -2,260 +2,284 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-12-07T20:21:36Z</updated>
+    <updated>2025-12-07T22:19:07Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Prompt 提示词技巧]]></title>
-        <link href="https://juejin.cn/post/7579154364960227347" />
-        <id>https://juejin.cn/post/7579154364960227347</id>
-        <updated>Wed, 03 Dec 2025 10:39:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: LLM, Prompt, 参数, 推理技巧, 提示词结构
+        <title><![CDATA[保护好中小投资者权益，提高上市公司质量和回报是重中之重]]></title>
+        <link href="https://www.yicai.com/news/102944729.html" />
+        <id>https://www.yicai.com/news/102944729.html</id>
+        <updated>Sun, 07 Dec 2025 20:57:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 中小投资者, 上市公司, 监管, 质量, 市值管理
 
 <br><br>总结:
-1.  LLM 基于 Prompt 预测后续 token，可通过调整温度、Top-K/P 等参数影响输出，温度越低结果越确定，Top-P 常用。输出长度设置不影响简洁性。
-2.  Prompt 技巧包括提供3-5个乱序的示例，并提供边界案例，清晰明确的指令，以及良好结构的提示词。
-3.  好的Prompt应该包含系统提示词（规则、格式）、角色提示词（人设、风格）和上下文提示词（背景信息）。
-4.  推理技巧包括后退一步提示（加载上下文）、思维链（CoT，加入中间步骤，低温度）、自我一致性（多次运行投票）、思维树（ToT，多条路径）和推理+行动（外挂，如 MCP、RAG、Agent）。
-5.  其他技巧包括自动化提示工程(APE)、提供示例、简洁设计、明确输出、使用指令（少用否定）、使用变量、文档化迭代过程。
+1.  《上市公司监督管理条例》以保护中小投资者合法权益为核心，旨在加强上市公司监管，提升上市公司质量。
+2.  提高上市公司质量是重要目标，包括完善公司治理结构，增强核心竞争力，以盈利水平和发展前景回报投资者，并支持上市公司转型升级，发展新质生产力。
+3.  对于经营不善的上市公司，应通过更严厉的监管手段加以规制。
+4.  上市公司应重视市值管理，用好市值管理工具，提高经营水平，并加强现金分红，依法保障股东的资产收益权。
+5.  通过完善治理、严厉处罚违法违规行为、提高上市公司质量和增强投资回报，切实保护中小投资者合法权益。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[施普林格·自然集团：为何不向第三方大模型授权内容]]></title>
-        <link href="https://www.yicai.com/news/102944723.html" />
-        <id>https://www.yicai.com/news/102944723.html</id>
-        <updated>Sun, 07 Dec 2025 23:03:37 +0800</updated>
-        <summary type="html"><![CDATA[AI, 学术出版, 施普林格·自然, 研究诚信, 可持续发展目标
+        <title><![CDATA[上海发布“人工智能+交通运输”十大核心成果]]></title>
+        <link href="https://www.yicai.com/news/102944716.html" />
+        <id>https://www.yicai.com/news/102944716.html</id>
+        <updated>Sun, 07 Dec 2025 20:43:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词：人工智能，机器人，租赁，芯片，电源
 
 <br><br>总结:
-1. 施普林格·自然密切关注AI发展，中国AI研究份额增长迅速，阿里巴巴在自然指数份额超过微软等公司。
-2. AI深度介入日常生活，学术界面临AI代笔问题。
-3. 施普林格·自然强调研究诚信，投入大量资金进行诚信检查，应对虚假研究。
-4. 《自然》正在开发AI研究助手，旨在辅助科研而非替代人类判断。
-5. 施普林格·自然未向第三方大语言模型授权内容，强调研究的可引用性和学术生态可持续性。
-6. 科学对政策影响加深，中国在可持续发展目标研究领域贡献巨大。
+① 上海发布人工智能+交通运输的十大核心成果。
+② 机器人租赁价格大幅下降，降至千元起。
+③ 芯朋微发布12款针对AI服务器和工业控制的电源芯片。
+④ 唯科科技提供机器人电机相关产品，已实现批量销售。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[吴雄昂离开Arm后，认定RISC-V是AI时代王者]]></title>
-        <link href="https://www.yicai.com/news/102944736.html" />
-        <id>https://www.yicai.com/news/102944736.html</id>
-        <updated>Sun, 07 Dec 2025 22:51:34 +0800</updated>
-        <summary type="html"><![CDATA[RISC-V, AI, 吴雄昂, Tenstorrent, 开放生态
+        <title><![CDATA[爆款频现、认购火热，公募FOF年内规模突破2300亿元]]></title>
+        <link href="https://www.yicai.com/news/102944717.html" />
+        <id>https://www.yicai.com/news/102944717.html</id>
+        <updated>Sun, 07 Dec 2025 20:42:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 公募FOF, 发行升温, 规模攀升, 偏债混合, 多元配置
 
 <br><br>总结:
-1.  Tenstorrent推出RISC-V处理器，吴雄昂加入RISC-V阵营，挑战Arm架构在AI时代的地位。
-2.  RISC-V作为开源架构，生态构建需要众多企业共同参与，专注于新兴市场，如机器人和低空经济，而非直接替代Arm。
-3.  AI大模型的发展为RISC-V带来机遇，其开放性降低了AI加速计算平台的成本，吸引了人才和企业的加入，例如Meta和Tenstorrent。
-4.  RISC-V目前仍存在工具链不完善和好用程度不足的问题，但其低成本和开放性鼓励创新，有望在新计算需求下取得突破。
-5.  吴雄昂认为AI时代是RISC-V的时代，如同PC时代的x86和移动时代的Arm，大模型即是操作系统，RISC-V将成为未来架构。
+1. 公募FOF发行市场显著升温，年内发行数量和市场规模均大幅增长，扭转了此前连续三年规模下滑的局面。
+2. 第四季度以来，市场涌现多只“爆款”FOF，短期内募集规模突破10亿元的产品数量增加。
+3. 以偏债策略为代表的FOF成为本轮发行的主力，受益于低利率环境和居民财富管理需求的升级。
+4. 今年A股整体走势积极，超九成FOF实现正收益，但短期业绩回撤也不容忽视。
+5. FOF基金主要聚焦高科技企业、医疗、消费和制造业龙头，多元资产配置趋势深化，投资者应关注长期年化收益和回撤控制能力，避免短期业绩导向。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[龙虎榜解密：福建板块+商业航天概念持续“吸金”！]]></title>
-        <link href="https://www.yicai.com/vip/news/102944742.html" />
-        <id>https://www.yicai.com/vip/news/102944742.html</id>
-        <updated>Sun, 07 Dec 2025 22:35:22 +0800</updated>
-        <summary type="html"><![CDATA[龙虎榜, 机构游资, 商业航天, 黄金, 机器人
+        <title><![CDATA[言短意长｜起底“全网最忙五人组”彰显建设性舆论监督力量]]></title>
+        <link href="https://m.thepaper.cn/detail/32126241" />
+        <id>https://m.thepaper.cn/detail/32126241</id>
+        <updated>Sun, 07 Dec 2025 20:27:06 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 建设性舆论监督, 主流媒体, 财政资金, 澎湃新闻, 弄虚作假
 
 <br><br>总结:
-1.  福建板块和商业航天概念持续受机构游资青睐，其中000***因央企背景和商业航天布局被机构游资联手抢购，000***则因朱雀3号配套和低轨卫星技术受一线游资追捧。
-2.  Comex黄金价格上涨，黄金赛道避险属性凸显，300***因前三季度净利暴涨且获机构扫货而表现强势。
-3.  机器人赛道潜力巨大，300***作为轴承钢球龙头，有望因对接特斯拉需求进入全球供应链核心圈，其氮化硅陶瓷球的量产时间值得关注。
+1.  主流媒体的建设性舆论监督对国家治理现代化至关重要。
+2.  澎湃新闻“全网最忙五人组”报道揭露湖北某县住建局虚假招标，涉及数千万财政资金，促使官方终止招标并调查。
+3.  澎湃新闻还揭露杭州师范大学助学项目造假，涉及45万元资助资金，校方已展开处理。
+4.  澎湃新闻持续追踪“百度人名大全”问题，扩展到多个领域，引发社会广泛关注，并呼吁从事后监督转向事前预防。
+5.  澎湃新闻此前还推出起底假院士等系列报道，彰显了主流媒体的责任担当和专业精神，以及对社会治理的积极作用。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一份高铁定向班面试名单，未通过名单与百度人名大全高度重合]]></title>
-        <link href="https://m.thepaper.cn/detail/32126455" />
-        <id>https://m.thepaper.cn/detail/32126455</id>
-        <updated>Sun, 07 Dec 2025 21:56:33 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 百度文库, 虚假人名, 京宏高铁, 定向班, 招聘
+        <title><![CDATA[一财首席经济学家调研：宏观政策维持宽松基调，为“十五五”开局奠定基础]]></title>
+        <link href="https://www.yicai.com/news/102944705.html" />
+        <id>https://www.yicai.com/news/102944705.html</id>
+        <updated>Sun, 07 Dec 2025 20:09:37 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 信心指数, 物价, 社会消费品零售, 工业增加值, 人民币汇率
 
 <br><br>总结:
-1. 百度文库虚假人名被复制用于京宏高铁“定向班”面试名单，与另一份文库文档《一万个名字》高度相似。
-2. “京宏面试通知”公众号发布面试名单，该公众号为2025年京宏高铁“定向班”面试结果通知专项服务中心，隶属于山东京宏航空服务有限公司，该公司招聘多种高铁相关岗位。
-3. 京宏航空通过“定向班”模式，面向毕业生提供理论学习与实践培训，并优先推荐就业，安置岗位。
-4. 该公众号最新消息停留在2025年6月4日，澎湃新闻记者拨打公众号所留电话，显示欠费或空号。
+1. **信心指数:** 12月“第一财经首席经济学家信心指数”为50，略低于上月，表明经济处于弱复苏通道，宏观政策将延续宽松基调。
+2. **物价:** 经济学家预计11月CPI同比增速为0.72%，PPI同比增速为-2.05%，物价同比降幅或收窄。
+3. **社会消费品零售总额:** 11月社会消费品零售总额同比增速预计为3.09%，略高于上月，受益于“双11”和餐饮回暖。
+4. **工业增加值:** 11月工业增加值同比增速预计为5.0%，高于上月，制造业景气度小幅回升。
+5. **人民币汇率:** 预计年底人民币对美元中间价将保持稳定在7.07左右，明年年中可能调整至6.98。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[全球商业航天版图将重构 A股公司准备好了吗？]]></title>
-        <link href="https://www.yicai.com/vip/news/102944732.html" />
-        <id>https://www.yicai.com/vip/news/102944732.html</id>
-        <updated>Sun, 07 Dec 2025 21:52:20 +0800</updated>
-        <summary type="html"><![CDATA[关键词: SpaceX, IPO, 马斯克, 商业航天, 估值
+        <title><![CDATA[管涛：今年我国国际收支口径跨境直接投资逆势向好]]></title>
+        <link href="https://www.yicai.com/news/102944706.html" />
+        <id>https://www.yicai.com/news/102944706.html</id>
+        <updated>Sun, 07 Dec 2025 20:09:30 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 直接投资, 跨境资本流动, 净流出, 外来投资, 股权投资
 
 <br><br>总结:
-1. SpaceX计划于明年下半年进行首次公开募股（IPO）。
-2. 马斯克否认了SpaceX以8000亿美元估值融资的传闻，但未回应明年推进IPO的说法。
-3. 国内商业航天赛道正迎来发展关键期，政策扶持力度加大，技术壁垒逐步突破。
-4. 本土企业在火箭发射、卫星组网、太空应用等领域取得进展。
-5. 商业航天板块被认为具有投资潜力。
+1.  **背景：** 受外部关税压力影响，中国跨境直接投资近年出现波动，引发对产业链外迁的担忧。
+2.  **趋势变化：** 2022年后，跨境直接投资由顺差转为逆差，主要原因是外来直接投资净流入减少，对外直接投资净流出增加。
+3.  **原因分析：** 外来直接投资减少是股权投资和关联企业债务往来双双逆转所致，对外直接投资减少是股权投资净流出下降。
+4.  **今年形势：** 今年前三季度，在政府积极应对下，跨境直接投资逆差同比下降，外来直接投资由净流出转为净流入，对外直接投资净流出同比减少。
+5.  **未来展望：** 企业对外投资需谨慎，国内企业经营状况仍需改善。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[超材料+航空航天+国防军工！公司产品已在我国新一代航空航天装备中批量应用]]></title>
-        <link href="https://www.yicai.com/vip/news/102944734.html" />
-        <id>https://www.yicai.com/vip/news/102944734.html</id>
-        <updated>Sun, 07 Dec 2025 21:44:02 +0800</updated>
-        <summary type="html"><![CDATA[超材料, 活性炭, 超级电容, 充电桩, 具身智能
+        <title><![CDATA[中药注射剂再评价：行业转型的“生死考题”与破局之道]]></title>
+        <link href="https://www.yicai.com/news/102944707.html" />
+        <id>https://www.yicai.com/news/102944707.html</id>
+        <updated>Sun, 07 Dec 2025 20:09:23 +0800</updated>
+        <summary type="html"><![CDATA[关键词：中药注射剂，再评价，监管，药企，转型
 
 <br><br>总结:
-
-① 公司超材料复杂功能结构件已批量应用于我国新一代航空航天装备，涉及航空航天、无人机、国防军工和人形机器人等领域。
-② 公司超级电容炭、多孔碳等新能源碳材料已实现批量生产和销售，产品应用于超级电容、储能、水处理和空气治理，具备出海潜力。
-③ 公司拟收购一家具身智能机器人技术研发应用企业，可能涉及充电桩、智慧城市、专精特新、人工智能和机器人等领域。
+1. 中药注射剂正经历系统性重塑，核心在于回归“安全、有效、质量可控”的本质，旨在推动行业高质量发展。
+2. 过去的粗放模式导致安全隐患，再评价政策通过市场化、法治化手段推动行业“刮骨疗毒”，将淘汰不合格产品。
+3. 再评价给药企带来生存、成本、管理和格局等多方面冲击，加速行业集中度，倒逼企业全链条升级。
+4. 政策也带来转型机遇，推动行业从经验驱动向证据驱动、粗放生产向精准制造、营销主导向研发驱动转变，鼓励国际化布局。
+5. 药企需从战略、执行、合规三个维度应对，积极进行产品评估、质量提升和创新研发，拥抱政策变革。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉]]></title>
-        <link href="https://m.thepaper.cn/detail/32126271" />
-        <id>https://m.thepaper.cn/detail/32126271</id>
-        <updated>Sun, 07 Dec 2025 20:22:13 +0800</updated>
-        <summary type="html"><![CDATA[关键词：吴江浩, 船越健裕, 滋扰, 航母编队, 抗议
+        <title><![CDATA[日方炒作辽宁舰航母编队舰载机雷达照射，国防部：纯属是贼喊捉贼]]></title>
+        <link href="https://m.thepaper.cn/detail/32126113" />
+        <id>https://m.thepaper.cn/detail/32126113</id>
+        <updated>Sun, 07 Dec 2025 18:51:46 +0800</updated>
+        <summary type="html"><![CDATA[辽宁舰，雷达照射，宫古海峡，恶意跟监，军国主义
 
 <br><br>总结:
-1. 吴江浩大使向日本外务事务次官船越健裕就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉和强烈抗议。
-2. 中方指出，日方不顾中方警告，多次派飞机抵近中方训练海空域，严重影响训练并危及飞行安全。
-3. 中方批评日方倒打一耙，发布不实信息，误导舆论，做法极其不负责任。
-4. 中方严正要求日方停止污蔑抹黑，严格约束行动，防止类似事件再次发生。
+1. 中国辽宁舰航母编队在宫古海峡以东海域进行远海训练，符合国际法。
+2. 日本对中国军演进行恶意跟监滋扰，并反诬中国雷达照射日方战机。
+3. 中国谴责日本的寻衅滋事行为，并对日方在军事安全领域变本加厉的冒进表示不满。
+4. 中国警告日本不要重走军国主义道路。
+5. 中国敦促日本反思纠错，放弃不轨图谋。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云，内网穿透，Docker，Cloudflare，UUID
+        <title><![CDATA[牛市产业主线，如何跨年、如何躁动？]]></title>
+        <link href="https://wallstreetcn.com/articles/3760871" />
+        <id>https://wallstreetcn.com/articles/3760871</id>
+        <updated>Sun, 07 Dec 2025 17:35:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：春季躁动, 产业主线, 跨年行情, 红利策略, 科技股
 
-<br><br>总结:  
-1. 前置工作：获取root权限（sudo -i）并安装Docker（curl -fsSL https://get.docker.com | sh）。  
-2. 临时隧道模式：通过命令docker run -d --name seven 7techlife/seven启动容器，查看日志确认运行。  
-3. 固定隧道模式：需要准备UUID（可自行生成或使用v2rayN等工具）、Cloudflare隧道Token及隧道域名，利用Cloudflare Zero Trust创建隧道。  
-4. 运行固定隧道命令，通过docker run并传入上述环境变量，设置容器自启（--restart unless-stopped），并查看日志。  
-5. 常用Docker命令提供查询、停止、删除容器操作，相关视频教程可辅助快速部署和免费域名注册。]]></summary>
+<br><br>总结:
+1.  岁末年初市场存在“日历效应”，11月主题活跃，12月大盘、红利、金融占优，1月小盘承压，春节前后风险偏好提升，小盘成长占优。
+2.  产业主线年末或调整，但回撤有限，随后在春季躁动中重拾涨势，且常领先市场，前提是业绩持续高增长。
+3.  2026年春季躁动预计不会缺席，12月-1月可关注红利、非银，科技主线在年报稳定和产业催化下有望回归。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[中共中央印发《中国共产党工作机关条例》]]></title>
+        <link href="https://m.thepaper.cn/detail/32125683" />
+        <id>https://m.thepaper.cn/detail/32125683</id>
+        <updated>Sun, 07 Dec 2025 17:01:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词：中共中央, 工作机关条例, 党的领导, 机构改革, 职责
+
+<br><br>总结:
+*   中共中央印发修订后的《中国共产党工作机关条例》，要求各地区各部门认真执行。
+*   《条例》以习近平思想为指导，贯彻党的二十大精神，巩固机构改革成果，强化政治要求，规范设立和运行，提升履职能力。
+*   明确党的工作机关包括办公厅（室）、职能部门、办事机构和派出机关，实行总量控制和限额管理。
+*   强调党的工作机关必须坚持民主集中制，领导班子实行集体领导和个人分工负责相结合的制度。
+*   党的工作机关接受党委全面监督，每年报告工作情况，接受巡视巡察，并抓好整改落实。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[免费域名，us.kg，Cloudflare，FreeDNS，注册状态<br><br>总结:  
-1. 已注册的us.kg域名目前仍然有效，用户已有的域名未被立即取消或失效。  
-2. 新注册的us.kg域名目前存在不确定性，部分用户反馈注册受限，且在部分情况下无法正常使用。  
-3. dpdns.org域名可以通过Cloudflare进行DNS托管，提升解析稳定性和安全性；同时支持临时托管到FreeDNS作为备选方案。  
-4. 目前用户使用us.kg域名时需要根据实际解析情况选择合适的DNS服务商，以保障域名正常运转。  
-5. 总体来看，虽然us.kg免费域名功能受限，但已有域名仍可使用，且通过Cloudflare等服务商依然可实现较好的域名管理和解析。]]></summary>
+        <title><![CDATA[“全网最忙五人组”背后：谁在造假、为何造假？]]></title>
+        <link href="https://m.thepaper.cn/detail/32125453" />
+        <id>https://m.thepaper.cn/detail/32125453</id>
+        <updated>Sun, 07 Dec 2025 16:57:44 +0800</updated>
+        <summary type="html"><![CDATA[关键词：人名造假，程序合规，招标投标，公益项目，公信力
+
+<br><br>总结:
+1.  **事件概述：** “全网最忙五人组”因频繁出现在多地公告文件中，涉及项目评审、行政处罚、公益资助和比赛活动，引发社会关注，暴露出人名造假问题。
+2.  **具体案例：** 湖北竹溪县采购项目评审名单出错，辽宁抚顺新抚区行政处罚公示人名虚假，杭州师范大学公益金项目受助名单造假，以及比赛活动获奖名单出现同样问题。
+3.  **问题根源：** 流程不合规，审核把关失守，纠错机制失灵，基层人员敷衍程序，法治观念淡薄，对规则缺乏敬畏，公益慈善领域存在“重募集轻使用”的问题。
+4.  **不良影响：** 损害社会信用资源，侵蚀社会的信任基石，对法治精神和政府公信力造成损害。
+5.  **解决措施：** 事前建立防范机制，审核流程透明化，关键环节记录可追溯，建立公众举报响应机制，严格规范招标投标行为，全流程监管，规范福彩公益项目资金监管，提升基层治理人员法治意识，实现实质合规。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[Serv00登录，科学上网，Cloudflare隧道，CDN回源，网页保活
+        <title><![CDATA[中信证券：超预期内需变化出现前，震荡轮动是常态]]></title>
+        <link href="https://wallstreetcn.com/articles/3760868" />
+        <id>https://wallstreetcn.com/articles/3760868</id>
+        <updated>Sun, 07 Dec 2025 14:19:46 +0800</updated>
+        <summary type="html"><![CDATA[关键词：融资余额, 市场震荡, 超预期变化, 资源/传统制造, 企业出海
+
+<br><br>总结:
+1. 市场现状：震荡和结构性机会轮动是常态，融资余额变化对市场影响大，两轮融资抬升推动指数上涨，主要宽基和景气行业涨幅显著。
+<br>
+2. 震荡期表现：微盘、银行、有色、创新药等板块在震荡期表现较好，受特定资金或边际变化驱动。
+<br>
+3. 当前挑战：债市调整影响股债平衡型策略，需控制持仓波动率。
+<br>
+4. 未来展望：人民币升值压力可能带来超预期货币宽松，或打破震荡格局。
+<br>
+5. 投资建议：配置资源/传统制造业定价权重估和企业出海方向，关注不拥挤品种，密切关注政策变化。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 赠金, Docker应用  
 
 总结:  
-1. 使用s*.serv00.com、cache*.serv00.com或web*.serv00.com域名登录Serv00，如被墙可用系统代理。  
-2. 搭建科学上网节点，包括系统初始化、端口重置和安装脚本。  
-3. 利用已托管Cloudflare的域名，新建HTTP类型隧道并配置域名及Token，实现固定隧道功能。  
-4. 配置CDN回源，添加A记录解析到Serv00 IP及回源规则，将请求重写到指定端口。  
-5. 网页保活功能通过特定接口管理节点，结合Cloudflare Worker远程执行保活，实现节点长期在线。]]></summary>
+1. Claw Cloud Run是一款免费容器平台，用户只要Github注册时间超过180天，即可每月获得5美元赠金，实现长期免费使用。  
+2. 平台支持各种Docker应用，用户可以通过应用商店一键自动部署或手动部署。  
+3. 查询Github注册时间的方法是访问 https://api.github.com/users/你的用户名 ，页面中“created at”显示的日期即为注册时间。  
+4. 该API对同一IP有请求限制，若节点IP使用人数多，建议关闭代理后再访问。  
+5. 推荐部署的应用有轻笔记应用Memos和网盘挂载工具AList，详细内容可参考相关Youtube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG，免费域名，注册，KYC验证，Cloudflare<br><br>总结:  
-1. 目前US.KG域名处于受限状态，无法直接注册，推荐先使用 https://dash.domain.digitalplat.org/ 完成注册和KYC验证。  
-2. 注册步骤包括账号注册（除邮箱外可用身份信息生成器填写）、邮箱验证、KYC文件上传。  
-3. 通过Domain Name Registration输入域名前缀进行免费域名注册。  
-4. 注册成功后，将域名托管到Cloudflare，输入分配的名称服务器完成解析。  
-5. 该流程支持免费续订，但免费域名存在一定缺点，视频中有详细说明并附有相关网址和教程。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek，网页端，API，本地部署，第三方应用  
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云，免费VPS，付费注意，SSH登录，科学上网
 
 <br><br>总结:  
-1. 介绍了Deepseek的基本功能和使用方式，包括网页版和手机客户端。  
-2. 讲解了Deepseek API的注册方法（需使用+86手机号）及其10元体验金，适用于多款软件，如沉浸式翻译、Chatbox和欧路词典。  
-3. 提到Perplexity及其他应用也集成了Deepseek技术。  
-4. 介绍了Deepseek的本地部署流程，包括下载安装Ollama软件，在终端运行命令完成模型下载和启动，并通过Chatbox连接Ollama API使用模型。  
-5. 说明了模型选择和硬件参考建议，并提示详细内容可观看视频了解。]]></summary>
+1. 作者使用谷歌云VPS 8个月共扣费0.03美元，主要因未关闭“数据保护”中的快照备份功能产生费用。  
+2. 谷歌云免费VPS配置包括选用俄勒冈等特定地区，E2-micro机器，Linux系统，30GB标准持久磁盘，并且快照备份需设置为“无备份”以避免收费。  
+3. 注册谷歌云账号需绑定外币信用卡或借记卡，激活完整账号建议在三个月试用期后进行。旧账号三个月试用仍有效。  
+4. 开放防火墙建议新手直接放行入站和出站规则，SSH登录可通过后台直接登录或上传密钥对使用第三方工具登录。  
+5. 科学上网建议使用Hysteria 2节点，标准层级入站免费，出站前200GB免费，避免使用Cloudflare CDN等产生额外费用，并推荐多种搭建方式包括面板和一键脚本。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址 免费域名续期 us.kg dpdns.org Cloudflare Pages  
+
+总结:  
+1. 提供了注册地址和美国地址生成器方便用户注册。  
+2. 推荐了相关GitHub仓库和Cloudflare官网以便部署和管理。  
+3. 介绍了两种域名：免费域名dpdns.org和收费域名us.kg。  
+4. 免费域名额度区别新老用户，新用户默认1个，GitHub加Star后可增至2个；老用户默认3个，GitHub加Star后增至4个。  
+5. us.kg域名需每年续期且永久免费续期，续期需在到期前180天内操作，有详细教程视频可参考。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
+
+<br><br>总结:  
+1. 稳定性和速度方面，整体表现较为流畅，节点测速显示连接较快，适合日常使用。  
+2. 需要保活，建议定时维护和刷新连接以确保代理节点稳定，避免断线影响体验。  
+3. 关于ChatGPT降智问题，部分用户反馈有轻微的智能下降现象，可能与代理质量或服务限制有关。  
+4. 购买流程顺畅，价格方面官方态度合理，续费方便，能满足长期使用需求。  
+5. 综合考虑，若对速度和稳定性有较高要求且能接受轻微降智风险，购买此服务还是值得的。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[免费域名 注册 Cloudflare 身份信息 绑定  
+
+<br><br>总结:  
+1. 由于US.KG注册困难，推荐使用另外一个支持一年免费且能托管到Cloudflare的免费域名。  
+2. 使用身份信息生成器辅助填写注册所需的个人信息，提高注册成功率。  
+3. 注册时输入优惠码“newuser”可享受域名一年免费。  
+4. 域名注册完成后，将其托管到Cloudflare，通过添加域名并填写Cloudflare提供的两个名称服务器，实现DNS解析和管理。  
+5. 详细的操作流程和示范可参考附带的YouTube教程视频，帮助用户一步步完成注册和托管。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
