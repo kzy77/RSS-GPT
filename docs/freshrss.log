@@ -1,36 +1,42 @@
 ------------------------------------------------------
-Started: 2025-12-08 14:22:34.521081
-Existing_entries: 20
+Started: 2025-12-08 16:28:01.670396
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 2327
-Summarized using gemini model: gemini-2.0-flash
-Append: [下线5000台机器人，智元迈过量产临界点](https://www.yicai.com/news/102946603.html)
-Token length: 2977
-Summarized using gemini model: gemini-2.0-flash
-Append: [严禁低值高估，4.6万亿金融租赁行业监管再升级](https://www.yicai.com/news/102946568.html)
-Token length: 138
-Summarized using gemini model: gemini-2.0-flash
-Append: [保姆级教程：零基础用VPS搭建私人AI大模型（Ollama+DeepSeek/Llama3）](https://uuzi.net/deploy-private-ai-on-vps-ollama-guide/)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [站在时代交锋处，华润万象生活书写城市品质生活新篇章](https://www.yicai.com/news/102946494.html)
-Token length: 2870
-Summarized using gemini model: gemini-2.0-flash
-Append: [近千名基金经理面临“降薪”，你的基金经理也在里面吗？](https://www.yicai.com/news/102944666.html)
+Append: [静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高](https://wallstreetcn.com/articles/3760903)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [经济第一大省定目标：用13年时间实现经济总量倍增](https://www.yicai.com/news/102946497.html)
-Token length: 6494
+Append: [美团发布LongCat-Image图像生成模型](https://www.yicai.com/news/102946545.html)
+Token length: 268
 Summarized using gemini model: gemini-2.0-flash
-Append: [沈建光：“十五五”规划的十大发展思路](https://www.yicai.com/news/102946473.html)
-Token length: 715
+Append: [年末佳片热度延续 A股影视板块的估值修复空间有多大？](https://www.yicai.com/vip/news/102946625.html)
+Token length: 163
 Summarized using gemini model: gemini-2.0-flash
-Append: [IMF上海中心正式启动运营，聚焦新兴市场研究与区域金融稳定](https://www.yicai.com/news/102946454.html)
-Token length: 2222
+Append: [公告臻选丨燃料电池+氢能+航空航天+可控核聚变！公司为“华龙一号”核电站提供成套混凝土冷却系统](https://www.yicai.com/vip/news/102946674.html)
+Token length: 1039
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海押注“未来”，具身智能、量子计算、脑机接口又传好消息](https://www.yicai.com/news/102946425.html)
+Append: [大众乘用车高管：“强标”政策抬高竞争门槛，利好成熟制造商](https://www.yicai.com/news/102946652.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [立案调查一个多月就开出罚单，第一创业再遭鸿达兴业造假余波重创](https://www.yicai.com/news/102946426.html)
-Token length: 1879
+Append: [11月汽车零售销量三年来同比首降](https://www.yicai.com/news/102946651.html)
+Token length: 1448
 Summarized using gemini model: gemini-2.0-flash
-Append: [国家林草局：推广“林业标准地”模式发展林下经济](https://www.yicai.com/news/102946427.html)
-append_entries: 11
-Finish: 2025-12-08 14:23:50.406296
+Append: [一财社论：要在更多渠道、更宽领域听取民营企业的意见和建议](https://www.yicai.com/news/102946612.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [政治局会议定调明年经济工作：实施更加积极有为的宏观政策](https://www.yicai.com/news/102945700.html)
+Token length: 3941
+Summarized using gemini model: gemini-2.0-flash
+Append: [首版商保创新药目录出炉：入选药有四大共性，含5款“天价抗癌药”](https://www.yicai.com/news/102944699.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [男子毒杀子女案将二次开庭，县纪委正调查派出所“接警不出警”问题](https://m.thepaper.cn/detail/32130208)
+Token length: 1113
+Summarized using gemini model: gemini-2.0-flash
+Append: [江苏溧阳通报演员名单照搬百度文库：已严肃处理相关人员及单位](https://m.thepaper.cn/detail/32129882)
+Token length: 617
+Summarized using gemini model: gemini-2.0-flash
+Append: [浙江一未来乡村项目照搬百度人名大全：十余人共用一套监测指标](https://m.thepaper.cn/detail/32128732)
+Token length: 891
+Summarized using gemini model: gemini-2.0-flash
+Append: [人民锐评：“全网最忙五人组”，背后猫腻要一查到底](https://m.thepaper.cn/detail/32127874)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [依托“汽车智能 + 北斗通导”战略加速出海，北斗智联完成数亿元B轮战略融资｜36氪首发](https://www.36kr.com/p/3582529960049545)
+append_entries: 14
+Finish: 2025-12-08 16:29:20.000441
