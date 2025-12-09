@@ -1,40 +1,24 @@
 ------------------------------------------------------
-Started: 2025-12-09 16:27:37.631373
-Existing_entries: 12
+Started: 2025-12-09 18:27:41.942685
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
+Token length: 818
 Summarized using gemini model: gemini-2.0-flash
-Append: [H200放行，能否助力英伟达冲刺6万亿？](https://www.huxiu.com/article/4815691.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [美联储年终大戏即将上演，一文解密四大看点](https://www.yicai.com/news/102946944.html)
-Token length: 1384
+Append: [“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点](https://wallstreetcn.com/articles/3761037)
+Token length: 2233
 Summarized using gemini model: gemini-2.0-flash
-Append: [浙金中心“暂停营业”现场直击｜东站服务点关门多日，总部大楼安保明显加强，连日维权持续](https://www.yicai.com/news/102949049.html)
-Token length: 2092
+Append: [分享下我创业烧了 几十万的 AI Coding 经验](https://juejin.cn/post/7581545175509434420)
+Token length: 2940
 Summarized using gemini model: gemini-2.0-flash
-Append: [每年万亿医保基金如何支持创新药？国家医保局详解](https://www.yicai.com/news/102946498.html)
-Token length: 2733
+Append: [12月9日这些公告有看头](https://www.yicai.com/news/102949067.html)
+Token length: 2147
 Summarized using gemini model: gemini-2.0-flash
-Append: [“祥源系”3家上市公司股价狂泻，俞发祥“家底”再缩水](https://www.yicai.com/news/102948996.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [PD-1为何没进商保创新药目录？国家医保局解释](https://www.yicai.com/news/102948992.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元](https://wallstreetcn.com/articles/3760999)
-Token length: 741
+Append: [特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格](https://wallstreetcn.com/articles/3761018)
+Token length: 1980
 Summarized using gemini model: gemini-2.0-flash
-Append: [最大的冰淇淋公司梦龙独立上市，但中国冰淇淋市场均价正在下滑](https://www.yicai.com/news/102948975.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [独家｜祥源系关联公司曾间接参股浙金中心](https://www.yicai.com/news/102948945.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [公告臻选丨半导体+先进封装+中芯国际概念！公司签订累计4.33亿元半导体量检测设备销售合同](https://www.yicai.com/vip/news/102948894.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [谷歌携手中国企业推出AR眼镜 哪些A股企业将受益？](https://www.yicai.com/vip/news/102948840.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [玉渊谭天披露：音频实证日本有意滋扰中方训练](https://m.thepaper.cn/detail/32139825)
-Token length: 4743
+Append: [释新闻｜日本青森县近海强震，未来一周大规模地震风险多高？](https://m.thepaper.cn/detail/32137168)
+Token length: 4742
 Summarized using gemini model: gemini-2.0-flash
-Append: [Token 到底怎么来的? 大模型分词的核心逻辑, 看完秒懂!](https://juejin.cn/post/7580570363602911284)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [C#AI系列(5): 从零开始 C# 轻松语音识别](https://www.cnblogs.com/luojin765/p/19316914)
-append_entries: 14
-Finish: 2025-12-09 16:28:52.468160
+Append: [汽车行业波澜壮阔，他们却为何选择逃离](https://www.yicai.com/news/102945498.html)
+append_entries: 6
+Finish: 2025-12-09 18:28:13.686944
