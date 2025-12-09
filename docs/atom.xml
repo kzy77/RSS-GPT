@@ -2,174 +2,474 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-12-08T22:20:21Z</updated>
+    <updated>2025-12-09T01:41:59Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[影子联储主席哈塞特：公布未来六个月利率路径不负责，鲍威尔或也认为降息是审慎的]]></title>
-        <link href="https://wallstreetcn.com/articles/3760942" />
-        <id>https://wallstreetcn.com/articles/3760942</id>
-        <updated>Mon, 08 Dec 2025 23:30:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美联储, 利率, 鲍威尔, 数据, 人工智能
+        <title><![CDATA[Claude用不好浪费钱？10个高级技巧让效率翻3倍]]></title>
+        <link href="https://juejin.cn/post/7579451710303109146" />
+        <id>https://juejin.cn/post/7579451710303109146</id>
+        <updated>Wed, 03 Dec 2025 19:12:35 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Claude, ChatGPT, Artifacts, Projects, 工作流
 
 <br><br>总结:
-1. 白宫经济委员会主任哈塞特认为，美联储提前公布未来六个月的利率政策是不负责任的，应以经济数据为依据。
-2. 哈塞特认为鲍威尔在协调委员会意见方面做得很好，推动了本周可能降息的共识。
-3. 他表示要盯紧数据，谨慎地适度下调利率。
-4. 他认为人工智能投资可能带来正向供给冲击，类似于90年代的计算机技术繁荣，从而降低通胀，推动经济增长。
-5. 哈塞特指出债券市场已经有所改善，但仍存在波动，这与市场对美联储行动的不确定性有关。
+1.  **Claude与ChatGPT的区别**: Claude更擅长长文档分析、代码项目，写作更自然，代码能力和安全性更强。ChatGPT更适合日常闲聊、需要记忆功能和创意brainstorming。
+2.  **基础技巧升级**: 通过系统提示词给Claude设定人设，使用XML标签结构化信息，Few-shot Examples让Claude模仿风格，Extended Thinking让Claude深度思考。
+3.  **高级功能**: 使用Artifacts快速创建交互式工具，利用Projects建立知识库，告别重复解释背景，MCP集成连接工作流。
+4.  **Prompt链接与工作流**: 将复杂任务拆分为多个步骤，通过Prompt链接和Claude Skills模板化，实现工作流自动化。
+5.  **实战案例**: 文章提供了5个开箱即用的完整工作流，包括技术写作、代码开发、数据分析、市场调研和内容创作。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[12月8日这些公告有看头]]></title>
-        <link href="https://www.yicai.com/news/102946782.html" />
-        <id>https://www.yicai.com/news/102946782.html</id>
-        <updated>Mon, 08 Dec 2025 23:08:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：人形机器人，万科，光模块，云母纸，中冶置业
+        <title><![CDATA[美债异动！美股全线下挫道指跌超200点，中概股逆势上涨]]></title>
+        <link href="https://www.yicai.com/news/102946861.html" />
+        <id>https://www.yicai.com/news/102946861.html</id>
+        <updated>Tue, 09 Dec 2025 09:00:43 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 派拉蒙, 华纳兄弟, 美联储, 降息预期, 美债收益率
 
 <br><br>总结:
-1. 立中集团与伟景智能签署人形机器人加工件定点采购协议，预计合同金额约为7500万元。
-2. 万科A不调整“21万科02”票面利率，投资者可选择回售或继续持有。
-3. 剑桥科技拟增资1亿美元，扩张北美及东南亚地区高速光模块产能。
-4. 浙江荣泰拟约5.45亿元在泰国投建云母纸及机器人部件生产项目。
-5. 中国中冶拟606.76亿元出售中冶置业等资产给五矿地产控股和中国五矿。
+1. 派拉蒙向华纳兄弟探索频道发起千亿美元敌意收购，旨在与奈飞竞争，导致相关公司股价波动。
+2. 美国三大股指下跌，受美债收益率走高影响，投资者关注美联储货币政策更新。
+3. 市场对美联储12月降息预期强烈，但预计本次会议分歧严重，关注未来政策动向。
+4. 美债收益率上扬，对股市构成压力，10年期国债收益率走高。
+5. 市场关注科技板块估值，以及企业在人工智能和并购方面的支出情况。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[中央政治局会议定调2026年经济工作：宏观政策更加积极有为，建设强大国内市场]]></title>
-        <link href="https://m.thepaper.cn/detail/32130446" />
-        <id>https://m.thepaper.cn/detail/32130446</id>
-        <updated>Mon, 08 Dec 2025 19:29:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 宏观政策, 内需, 新质生产力, 风险防范, 稳增长
+        <title><![CDATA[重庆将重塑空间格局，打造两大城市副中心]]></title>
+        <link href="https://www.yicai.com/news/102946526.html" />
+        <id>https://www.yicai.com/news/102946526.html</id>
+        <updated>Tue, 09 Dec 2025 08:37:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 重庆，一城独大，城市副中心，区域协调，十五五规划
 
 <br><br>总结:
-*  政治局会议定调2026年经济工作，强调实施更加积极有为的宏观政策，提升政策的前瞻性、针对性、协同性。
-*  要持续扩大内需，优化供给，做优增量、盘活存量，因地制宜发展新质生产力。
-*  要纵深推进全国统一大市场建设，持续防范化解重点领域风险，着力稳就业、稳企业、稳市场、稳预期。
-*  专家建议，财政赤字率不低于4%，加大中央转移支付，优化支出结构，提高居民端和民生保障倾斜。
-*  货币政策方面，预计2026年可能继续降息降准，并可能单独引导5年期以上LPR报价较大幅度下调。
-*  要继续优化用好各类结构性货币政策工具，加大对科技创新、制造业转型升级、绿色发展、小微企业的支持。
-*  未来经济工作需促进形成更多由内需主导、消费拉动、内生增长的经济发展模式。
+1. 重庆存在“一城独大”问题，主城都市区GDP和人口占比过高，需优化市域空间布局。<br><br>
+2. 《重庆“十五五”规划建议》提出“一核引领、多点支撑、协调发展”的超大城市空间形态，构建中心城区—城市副中心—区县城—中心镇的城镇体系。<br><br>
+3. 将深入实施中心城区强核提能级行动，提升其吸引力和辐射力，类似于“强省会”战略。<br><br>
+4. 推动万州、永川、黔江分别建设重要城市副中心、城市副中心和区域中心城市，赋予其功能和职权，带动周边地区发展。<br><br>
+5. 通过副中心建设，连接各区域，最终带动重庆整体发展，形成优势互补、功能协调的区域高质量发展新格局。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[澎湃漫评｜“最忙五人组”该如何退场]]></title>
-        <link href="https://m.thepaper.cn/detail/32129230" />
-        <id>https://m.thepaper.cn/detail/32129230</id>
-        <updated>Mon, 08 Dec 2025 19:27:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：五人组，造假，形式主义，调查，自省
+        <title><![CDATA[606亿大交易！中国中冶“大象转身”，打包剥离非核心资产]]></title>
+        <link href="https://www.yicai.com/news/102946769.html" />
+        <id>https://www.yicai.com/news/102946769.html</id>
+        <updated>Tue, 09 Dec 2025 08:25:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 中国中冶, 资产剥离, 五矿地产, 核心主业, 资产整合
 
 <br><br>总结:
-1. “全网最忙五人组”事件持续引发关注，该现象暴露出机构部门在项目评审、行政处罚、公益资助、比赛活动等多领域存在频繁使用相同人名的造假行为。
-2. 造假现象背后暴露的是形式主义和傲慢心态，认为无人关注，因此敷衍了事。
-3. 必须严肃处理此类造假行为，对已曝光的案例进行深入调查，追究相关责任人，并依法依规进行处罚。
-4. 相关部门和单位需进行自省，查漏补缺，完善工作流程和监督机制，以预防类似事件再次发生。
+1.  中国中冶拟向中国五矿出售中冶置业100%股权及债权、有色院等公司股权，以及华冶杜达100%股权，总交易额约606.76亿元。
+2.  中国中冶此举旨在剥离非核心资产，优化资源配置，聚焦冶金工程、有色与矿山工程等核心主业，提升盈利能力。
+3.  五矿地产将收购中冶置业，实现两大地产平台资产整合，可能有助于提升整体竞争力，但整合效果仍需观察。
+4.  中国五矿希望通过本次交易，使中国中冶更专注于工程建设等优势领域，与其他业务板块形成更紧密的协同效应。
+5.  交易前，中国中冶和五矿地产业绩均处于亏损状态。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪]]></title>
-        <link href="https://m.thepaper.cn/detail/32130139" />
-        <id>https://m.thepaper.cn/detail/32130139</id>
-        <updated>Mon, 08 Dec 2025 19:22:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 高市早苗, 对华战略, 台海安全化, 南海, 东北亚安全链
+        <title><![CDATA[摩根士丹利投资管理：理解中国机遇 答案在身临其境]]></title>
+        <link href="https://www.yicai.com/video/102946407.html" />
+        <id>https://www.yicai.com/video/102946407.html</id>
+        <updated>Tue, 09 Dec 2025 08:24:51 +0800</updated>
+        <summary type="html"><![CDATA[关键词:  摩根士丹利, 新兴市场, 中国投资, 多元化配置, 创新领域
 
 <br><br>总结:
-1.  高市早苗内阁上任后，对华采取强硬政策，在涉台问题上挑战中国红线，试图突破战后体制，强化日本军事存在，形成“蝎形”遏华地缘态势。
-2.  在台海问题上，日本通过国际迎合美国战略、国内利用保守势力，将台湾问题“安全化”，破坏中日关系。
-3.  在南海方向，日本放宽武器出口限制，加强与东南亚国家防务合作，构建“左钳”战略，延伸安全影响力。
-4.  在东北亚方向，日本渲染朝鲜威胁，推进美日韩三边协作，构建“右钳”，牵制中国。
-5.  在中亚、南亚地区，日本试图通过与中亚国家合作，获取关键矿产，重构供应链，形成“蝎尾”，对中国施加战略压力，但面临中国经济和安全影响力挑战。
+1.  Amy Oldenburg今年第二次访华，考察了中国科技、制造和生物医药企业，认为国际投资者应实地考察中国，以免错失机会。
+2.  全球投资者寻求“去美国化”的多元化投资，新兴市场表现亮眼，MSCI新兴市场指数涨幅超30%。 预计2026年将有更多资金重新配置。
+3.  虽然AI领域存在过热现象，可能短期降温，但长期来看仍具价值。
+4.  中国市场是摩根士丹利新兴市场投资组合中的核心，占比达30%，看好“十五五”规划建议中与创新领域相关的投资机会。
+5.  虽然中国电动车行业“内卷”带来财务压力，但长期来看推动了中国制造的强大实力。中国经济向消费领域再平衡，服务业增长对就业市场至关重要。期待中国对外开放的进一步举措，促进价值重估。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册时间, 赠金5美元, 应用部署
+        <title><![CDATA[“央行中的央行”警告：黄金与股市走势趋同，可能是泡沫信号]]></title>
+        <link href="https://www.yicai.com/news/102946887.html" />
+        <id>https://www.yicai.com/news/102946887.html</id>
+        <updated>Tue, 09 Dec 2025 08:20:15 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 黄金，股市，泡沫，国际清算银行，人工智能
 
-<br><br>总结:  
-1. Claw Cloud Run是一款免费容器平台，适用于长期免费使用。  
-2. 只要Github账号注册时间超过180天，即可每月获得5美元赠金。  
-3. 用户可以通过访问 https://api.github.com/users/XXX （替换为用户名）查询注册时间，注意请求次数限制。  
-4. 平台支持一键从应用商店自动部署Docker应用，也支持手动部署。  
-5. 推荐部署的两款应用分别是轻笔记应用Memos和网盘挂载工具AList，详细介绍见Youtube视频。]]></summary>
+<br><br>总结:
+1. 国际清算银行（BIS）指出，今年黄金与股市同步飙升，为近半世纪来首次，可能存在泡沫风险。
+2. 黄金表现异常，呈现投机性特征，涨幅或创1979年来最大，传统避险角色受质疑。
+3. 黄金和标普500指数首次共同呈现“暴涨式走势”，散户涌入，ETF价格高于资产净值，央行购金奠定基调。
+4. 推动金价上涨因素与七八十年代相似，地缘政治担忧、美元走弱及央行购金是主要原因。
+5. 国际清算银行还警惕AI板块估值过高，以及加密货币暴跌，担忧风险偏好环境的“脆弱性日益加剧”。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费，VPS，费用，快照设置，科学上网  
+        <title><![CDATA[日本东部深夜强震，福岛第一核电站暂停核污水排海，区域内核电站暂无异常]]></title>
+        <link href="https://www.yicai.com/news/102946921.html" />
+        <id>https://www.yicai.com/news/102946921.html</id>
+        <updated>Tue, 09 Dec 2025 08:19:42 +0800</updated>
+        <summary type="html"><![CDATA[地震, 海啸, 核电站, 污染水, 暂停
 
-<br><br>总结:  
-1. 作者使用谷歌云免费VPS八个月，共扣费0.03美元，扣费主要因快照时间表未设置为“无备份”。  
-2. 注册谷歌云账号需添加外币信用卡/借记卡，三个月试用期结束后再激活完整版，旧账号仍可用。  
-3. 创建免费VPS实例推荐配置：地区选择俄勒冈，机器类型E2-micro，操作系统Linux（Ubuntu），30GB标准永久磁盘，快照时间表改为“无备份”避免产生额外费用。  
-4. 防火墙规则建议全部开放入站和出站，方便使用。  
-5. 科学上网方面建议用Hysteria 2节点，标准层级入站免费，出站前200GB免费，避免使用Cloudflare CDN和Argo隧道，以免产生费用；搭建方式支持命令行、面板和一键脚本。]]></summary>
+<br><br>总结:
+*   12月8日，日本本州东部附近海域发生7.5级地震，震源深度50千米。
+*   日本气象厅对福岛县沿岸发布了海啸注意报告，自然资源部海啸预警中心判断地震可能引发局地海啸，但预计不会对中国沿岸造成影响。
+*   日本多个核电站报告观测到震动，但目前尚未确认出现异常，辐射量监测数值未发生变化。其中，女川核电站2号机组已重启运行。
+*   东京电力公司已指示作业人员从靠近海岸的现场撤离，并于当地时间12月8日23时42分暂停了福岛第一核电站的核污染水排海，此前已进行了16次排放，累计排放量已超过12.5万吨。
+*   原本预计将持续至12月22日的第17轮核污染水排放因此暂停。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址，免费域名，us.kg，续期，教程
+        <title><![CDATA[中国驻日大使馆提醒在日中国公民注意防范地震灾害；美国将为受关税政策影响农民提供120亿美元救助]]></title>
+        <link href="https://www.yicai.com/news/102946949.html" />
+        <id>https://www.yicai.com/news/102946949.html</id>
+        <updated>Tue, 09 Dec 2025 08:19:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 经济、地震、贸易、税务、安全
+
+<br><br>总结:
+1. **国内经济:** 中央政治局会议强调明年要实施更积极有为的宏观政策，扩大内需，优化供给，发展新质生产力，建设统一大市场，防范重点领域风险，稳就业、稳企业、稳市场、稳预期。
+2. **日本地震:** 青森县附近海域发生7.5级地震，中国驻日本大使馆发布领事提醒，日本政府专家会议预测东京可能发生7.3级地震，造成巨大损失。
+3. **中美贸易:** 特朗普政府因关税政策对美国农业造成不利影响，将提供120亿美元救助。外交部回应美国国家安全战略报告涉台内容，强调台湾问题是中国核心利益，不容外部干涉。
+4. **税务监管:** 国家税务总局查处1818名“双高”人员，查补税款15.23亿元。
+5. **国际贸易 & 石油:** 尽管全球需求收缩，中国外贸仍具韧性，11月进出口同比增长。国内汽、柴油价格将下调，全年油价整体下跌。
+6. **新能源汽车:** 11月新能源乘用车市场零售同比增长，渗透率提升。
+7. **中日关系 & 电信诈骗:** 中国大陆赴日航班量创新低。中缅泰联合行动抓获涉电诈中国籍嫌疑人。
+8. **其他:** 国际货币基金组织预计明年国际贸易不会大幅下滑。联合国对泰柬边境冲突表示关切。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[不止地产惹的“祸”！浙商大佬深陷“祥源系”理财产品兑付危机]]></title>
+        <link href="https://www.yicai.com/news/102946860.html" />
+        <id>https://www.yicai.com/news/102946860.html</id>
+        <updated>Tue, 09 Dec 2025 08:18:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 祥源控股, 兑付危机, 俞发祥, 地产, 文旅
+
+<br><br>总结:
+1. 祥源控股爆发兑付危机，涉及浙金中心理财产品，待兑付资金高达上百亿，投资者损失惨重。
+2. 危机原因是地产行业下行，导致祥源控股资金链断裂，过去地产是盈利支柱，文旅利润微薄。
+3. 祥源控股曾借力地产起家，后涉足文旅，并通过收购上市公司进行资本运作，但文旅业务回报周期长，地产业务又面临困境。
+4. 俞发祥通过高质押上市公司股份套取资金，但质押资产难以变现，加上地产项目变现困难，加剧了危机。
+5. 浙江省已成立工作专班处理此事，但祥源控股的600亿资产能否覆盖400亿负债，以及如何变现，仍是未知数。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[调研：公司Q3营收超9亿元，为夸克AI眼镜供电源芯片]]></title>
+        <link href="https://www.yicai.com/vip/news/102946534.html" />
+        <id>https://www.yicai.com/vip/news/102946534.html</id>
+        <updated>Tue, 09 Dec 2025 07:59:13 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 营收增长, AI端侧, 汽车电子, AI算力电源, 多元化业务
+
+<br><br>总结:
+1. 公司营收连续环比增长，第三季度同比增长40.26%。
+2. 公司在AI端侧（夸克AI眼镜电源芯片）、汽车电子和AI算力电源等高端领域取得突破。
+3. 公司采用平台化布局，驱动长期成长。
+4. 公司业绩高速增长，2025年前三季度营收增长69.6%，净利润增长51.2%。
+5. 公司多元化业务布局，数据中心和汽车电子等新业务实现翻倍增长。
+6. 公司拥有强大的研发和全球供应链优势，提升长期竞争力。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[8点1氪｜盒马回应“草莓蛋糕制作中将糖放成盐”；万达集团被恢复执行17亿；国家税务总局：严禁平台向“小哥”转嫁涉税义务]]></title>
+        <link href="https://www.36kr.com/p/3587542278471681" />
+        <id>https://www.36kr.com/p/3587542278471681</id>
+        <updated>Tue, 09 Dec 2025 07:58:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 油价, 万达, 税务, 茅台, 智元
+
+<br><br>总结:
+1.  **油价下调:** 12月8日晚国内汽、柴油零售限价下调，加满一箱92号汽油预计少花2元。
+<br><br>
+2.  **万达被执行:** 大连万达集团新增恢复执行信息，执行标的17亿余元，累计被执行金额超69亿元。
+<br><br>
+3.  **税务监管:** 国家税务总局严禁平台企业向“小哥”等转嫁涉税义务，并查处包括明星网红在内的“双高”人员，共计查补税款15.23亿元。
+<br><br>
+4.  **茅台新品:** 53度、1.1L装贵州茅台酒（巴拿马万国博览会金奖110周年纪念）新品在i茅台App正式开售，定价11000元/瓶，该新品上市首日“秒光”。
+<br><br>
+5.  **智元机器人:** 智元第5000台人形机器人量产下线。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[王毅：台湾地位已被“七重锁定”]]></title>
+        <link href="https://www.yicai.com/news/102946915.html" />
+        <id>https://www.yicai.com/news/102946915.html</id>
+        <updated>Tue, 09 Dec 2025 07:49:18 +0800</updated>
+        <summary type="html"><![CDATA[台湾问题, 王毅, 历史事实, 法理经纬, 日本
+
+<br><br>总结:
+1. 王毅外长向德国外长全面阐述了台湾问题的历史和法理。
+2. 王毅指出，日本领导人关于台湾问题的言论严重侵犯中国主权，违背承诺，挑战二战成果和战后秩序。
+3. 台湾自古以来就是中国领土，这已被《开罗宣言》、《波茨坦公告》等国际法文件明确规定，并被联合国2758号决议确认。
+4. 《中日联合声明》和《中日和平友好条约》也确认了中国对台湾的主权。
+5. 王毅强调，图谋“台独”就是分裂中国领土，是违反中国宪法和国际法的行为。中国人民有责任阻止日本再军事化和复活军国主义的野心。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[IBM将收购Confluent以拓展人工智能服务]]></title>
+        <link href="https://www.yicai.com/news/102946909.html" />
+        <id>https://www.yicai.com/news/102946909.html</id>
+        <updated>Tue, 09 Dec 2025 07:43:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词：IBM, Confluent, 收购, 数据流, 人工智能
+
+<br><br>总结:
+1. IBM将以每股31美元的价格收购数据流平台Confluent。
+2. 这笔交易的企业价值，包括债务在内，为110亿美元。
+3. 这反映了IBM对人工智能工具所需企业软件的重大投资。
+4. 双方预计交易将于2026年年中前完成。
+5. 如果交易失败，IBM将支付4.536亿美元的解约费。
+6. 受此消息影响，Confluent股价大幅上涨，IBM股价小幅上涨。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[美股全线下跌道指跌超200点；中国中冶拟606.76亿元出售资产]]></title>
+        <link href="https://www.yicai.com/news/102946873.html" />
+        <id>https://www.yicai.com/news/102946873.html</id>
+        <updated>Tue, 09 Dec 2025 07:33:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美股下跌, 油价下跌, 监管加强, 新能源汽车, 春季躁动
+
+<br><br>总结:
+1.  美股三大股指周一收跌，科技股分化，特斯拉评级被下调，国际油价和金价均下跌。
+2.  国内汽柴油零售限价下调，降低消费者用油成本。
+3.  金融监管总局强调加强非银行金融资产监管，防范风险传播，提高保险资产稳健性。
+4.  市场监管总局建设新能源汽车“双失控”风险防控技术体系，旨在锁定事故原因，提升事故鉴定效率。
+5.  多家机构认为市场整体趋势向上，部分机构预测“春季躁动”行情可能提前启动，建议均衡配置成长和周期股。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华尔街见闻早餐FM-Radio | 2025年12月9日]]></title>
+        <link href="https://wallstreetcn.com/articles/3760957" />
+        <id>https://wallstreetcn.com/articles/3760957</id>
+        <updated>Tue, 09 Dec 2025 07:08:42 +0800</updated>
+        <summary type="html"><![CDATA[关键词：美联储，中国经济，特朗普，人工智能，市场趋势
+
+<br><br>总结:
+1.  全球市场：美股三大指数回落，欧美国债价格齐跌，美元指数反弹，大宗商品多数下跌，伦铜创新高。亚洲股市A股高开高走，港股下跌。
+<br><br>
+2.  中国经济：政治局会议强调稳中求进，提质增效，实施更加积极的财政政策和适度宽松的货币政策，扩大内需。11月外贸增速回升，出口转增，但对美出口下降。
+<br><br>
+3.  美国政策：特朗普暗示可能在高院关税案上败诉，将发布人工智能行政命令，并称通胀问题已基本解决。
+<br><br>
+4.  科技行业：谷歌将与中国AR企业合作开发AI眼镜，软银和英伟达据称商议参与Skild AI新融资，苹果芯片主管否认离职传言。
+<br><br>
+5.  公司动态：特朗普质疑奈飞后派拉蒙抢购华纳兄弟，泡泡玛特股价重挫，沐曦股份中签率极低，显示市场对国产算力的押注。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[《疯狂动物城2》热播后引发剧毒蛇类热卖，律师称寄售有毒活体或违法]]></title>
+        <link href="https://m.thepaper.cn/detail/32131382" />
+        <id>https://m.thepaper.cn/detail/32131382</id>
+        <updated>Mon, 08 Dec 2025 21:36:08 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 海岛竹叶青，《疯狂动物城2》，剧毒，网络售卖，平台监管
+
+<br><br>总结:
+1.  《疯狂动物城2》上映后，因海岛竹叶青与剧中角色相似，导致其在闲鱼等平台被大量售卖，价格不一。
+2.  海岛竹叶青具有剧毒，且属于禁食野生动物，但网售渠道并未严格要求相关手续，存在安全隐患。
+3.  澎湃新闻调查发现，抖音、小红书、闲鱼等多家平台均有商家售卖，部分平台表示禁止但实际监管不力。
+4.  律师指出，公开售卖剧毒蛇类威胁公众安全，暴露平台、物流及监管漏洞，且违反邮政法相关规定。
+5.  社会公众应抵制购买此类剧毒外来蛇类，避免参与违规交易。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[铜陵广播电视台回应“获奖名单照搬人名大全”]]></title>
+        <link href="https://m.thepaper.cn/detail/32130869" />
+        <id>https://m.thepaper.cn/detail/32130869</id>
+        <updated>Mon, 08 Dec 2025 19:51:33 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 铜陵广播电视台, 小主持人大赛, 辰星艺术培训, 虚假名单, 责任追究
+
+<br><br>总结:
+1. 铜陵广播电视台授权辰星艺术培训有限公司承办小主持人大赛。
+2. 辰星艺术培训公司为扩大影响，擅自复制网络人名添加到报名和获奖名单中，造成虚假名单。
+3. 铜陵广播电视台承认监管疏漏，相关人员责任意识不强，工作作风不实。
+4. 已终止与辰星艺术培训有限公司的合作，将追究相关部门及人员责任。
+5. 铜陵广播电视台将全面排查整改，加强活动监管，杜绝类似问题再次发生。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级]]></title>
+        <link href="https://wallstreetcn.com/articles/3760909" />
+        <id>https://wallstreetcn.com/articles/3760909</id>
+        <updated>Mon, 08 Dec 2025 16:09:32 +0800</updated>
+        <summary type="html"><![CDATA[科技股, Mag7, 超配, 全球配置, 利润率
+
+<br><br>总结:
+1. 亚德尼结束了长达15年的科技股超配策略，建议减持"Mag7"巨型科技股。
+2. 原因在于竞争加剧侵蚀科技巨头利润率，科技普及提升其他成分股的生产率。
+3. 建议增持金融、工业和医疗保健板块，将信息技术和通信服务板块调整至市场权重水平。
+4. 重新审视美国市场溢价，认为在全球配置中继续超配美国市场的理由不足。
+5. 全球其他市场估值更低、美元走弱，以及全球企业盈利展现出的韧性是重新评估的原因。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[所有商品都将“像黄金一样”！美银Hartnett：做多大宗商品是明年最佳“火热交易”]]></title>
+        <link href="https://wallstreetcn.com/articles/3760908" />
+        <id>https://wallstreetcn.com/articles/3760908</id>
+        <updated>Mon, 08 Dec 2025 15:31:56 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 大宗商品, 财政宽松, 去全球化, 石油能源, 美联储
+
+<br><br>总结:
+*   美银策略师预测2026年做多大宗商品是最佳交易，理由是全球经济范式转变为"财政宽松+去全球化"。
+*   特朗普政府的火热经济政策和俄乌问题解决后的油价反弹将推动大宗商品走强。
+*   特别看好长期被市场忽视的石油和能源板块，认为是2026年的逆向投资机会。
+*   尽管看好大宗商品，但对债券市场持谨慎态度，认为美联储主席提名后美债收益率大概率上涨，债券市场正在对火热交易进行监督。
+*   股市呈现分化格局，看好AI技术的采用者而非支出者，以及受益于特朗普政府刺激政策的周期性板块。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[中共中央政治局召开会议，中共中央总书记习近平主持会议]]></title>
+        <link href="https://m.thepaper.cn/detail/32128866" />
+        <id>https://m.thepaper.cn/detail/32128866</id>
+        <updated>Mon, 08 Dec 2025 13:27:16 +0800</updated>
+        <summary type="html"><![CDATA[经济工作, 高质量发展, 全面依法治国, 党的领导, 新质生产力
+
+<br><br>总结:
+1.  会议总结了2023年中国经济社会发展取得的成就，认为主要目标将顺利实现，并肯定了过去五年在应对各种挑战中取得的进步。
+2.  会议部署了2024年经济工作，强调以习近平新时代中国特色社会主义思想为指导，推动高质量发展，坚持稳中求进，实施更加积极有为的宏观政策，着力稳就业、稳企业、稳市场、稳预期。
+3.  会议明确了明年经济工作的八个重点方向：内需主导、创新驱动、改革攻坚、对外开放、协调发展、“双碳”引领、民生为大、守牢底线。
+4.  会议强调要加强党的领导，编制好“十五五”规划，做好岁末年初民生保障工作，抓好安全生产。
+5.  会议指出制定《中国共产党领导全面依法治国工作条例》的重要意义，强调要加强党对全面依法治国的领导，全面贯彻习近平法治思想，为中国式现代化提供法治保障。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[关键词：爪云，内网穿透，Docker，固定隧道，Cloudflare
 
 总结:  
-1. 提供了注册地址与美国地址生成器，方便用户注册使用。  
-2. 介绍了两种域名服务，分别是免费域名dpdns.org和收费域名us.kg（12元/个）。  
-3. 免费域名额度：新用户初始1个，Github加Star后可增至2个；老用户初始3个，Github加Star后可增至4个。  
-4. us.kg域名需每年续期，但永久免费，续期时间为到期前180天内完成，且不占用免费域名额度。  
-5. 提供了Cloudflare Pages自定义域及SSL证书的视频教程，以及us.kg域名详细续期教程的Youtube视频链接，方便用户参考学习。]]></summary>
+1. 前置工作包括获取root权限及安装Docker。  
+2. 临时隧道模式通过命令`docker run -d --name seven 7techlife/seven && docker logs -f seven`快速启动。  
+3. 固定隧道模式需要准备UUID、Cloudflare隧道Token及隧道域名，UUID可通过网站或代理工具生成。  
+4. 运行固定隧道的Docker命令需带入上述三个环境变量，且容器名可自定义。  
+5. 常用Docker命令如查看容器、查看日志、停止及删除容器均包含在文档中，方便日常管理。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg，免费域名，Cloudflare，域名托管，注册情况
 
 <br><br>总结:  
-1. 稳定性和速度方面，服务表现较为稳定，节点测速显示速度良好，能够满足日常使用需求。  
-2. 关于是否需要保活，建议根据具体使用场景决定，长时间使用时保活能保证连接不中断。  
-3. 对于ChatGPT降智问题，存在一定争议，部分用户反馈性能有所下降，但整体体验依然流畅。  
-4. 购买过程顺畅，官方态度积极，价格合理，续费方式便捷。  
-5. 综合来看，若对稳定性和速度有一定要求且能接受价格，整体还是值得购买的。详细信息可参考提供的视频链接。]]></summary>
+1. 已经注册的us.kg免费域名目前仍然可用，没有被全面注销。  
+2. 新注册的us.kg域名能否正常托管存在不确定性，需要具体情况具体分析。  
+3. dpdns.org域名可以临时托管到Cloudflare，提供了一种替代使用方案。  
+4. 通过FreeDNS临时托管，也是当前应对us.kg异动的可行方法之一。  
+5. 目前us.kg域名注册是否开放需关注官方动态，部分新域名尚未完全恢复注册功能。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[免费域名，Cloudflare，注册账号，身份信息生成器，优惠码newuser
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键字：Serv00登录，科学上网节点，Cloudflare隧道，CDN回源，远程保活
+
+总结:  
+1. 通过s*.serv00.com、cache*.serv00.com或web*.serv00.com任一域名登录Serv00，若三者被墙需使用系统代理。  
+2. 搭建科学上网节点包括系统初始化、端口重置和安装相关脚本流程。  
+3. 使用Cloudflare固定隧道，需要已托管域名，创建HTTP类型隧道并设置为localhost指定端口，输入隧道域名及令牌完成配置。  
+4. 配置CDN回源，添加A记录解析至Serv00 IP，设置回源规则将流量重写到指定端口。  
+5. 利用多功能主页接口实现网页保活（启动、重启、重置端口及查看节点订阅），并通过Cloudflare Worker远程保活，定时触发访问保证节点稳定运行。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG，域名注册，KYC验证，Cloudflare，身份信息生成器
 
 <br><br>总结:  
-1. 由于US.KG不支持注册，推荐使用其它免费域名服务，该服务提供免费一年域名注册。  
-2. 注册时可使用身份信息生成器辅助填写个人信息，提高注册成功率。  
-3. 购买域名时需输入优惠码“newuser”，即可享受一年免费使用期限。  
-4. 域名注册完成后，将域名托管到Cloudflare，登录Cloudflare添加域名。  
-5. 根据Cloudflare分配的两个名称服务器，将名称服务器信息填写到域名管理界面，实现免费托管。  
-6. 有详细的视频教程，包含注册账号、购买域名、绑定Cloudflare及相关操作步骤，方便学习。]]></summary>
+1. 由于US.KG域名目前受限，建议先通过https://dash.domain.digitalplat.org/完成注册和KYC验证。  
+2. 注册流程包括账户注册（可用身份信息生成器辅助）、邮箱验证和上传排版后的KYC文件截图。  
+3. 完成验证后，可进行域名注册并将域名托管至Cloudflare，设置对应名称服务器。  
+4. 视频时间轴详细讲解了从开场到免费续订及免费域名缺点的各步骤。  
+5. 建议等待US.KG状态恢复后，再将域名正式迁移到Cloudflare使用，保证稳定性。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek，API，本地部署，第三方应用，使用方法
+
+<br><br>总结:  
+1. 视频首先介绍了Deepseek及其功能和作用（00:00）。  
+2. 展示了Deepseek的网页端和手机客户端的使用方法（04:28）。  
+3. 说明了Deepseek API的使用及注册方式，注册需使用+86手机号，赠送10元体验金，体验期一个月（07:18）。  
+4. 讲解了Perplexity及其他应用如何结合Deepseek进行使用（09:35），并介绍了部分第三方应用。  
+5. 详细介绍了Deepseek的本地部署流程，包括下载Ollama软件、终端命令下载及运行指令，以及如何在Chatbox中选择Ollama API模型（10:11-15:46）。  
+6. 视频结尾总结和补充了Deepseek的官方网站、客户端获取渠道及相关使用建议。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
