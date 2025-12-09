@@ -1,39 +1,40 @@
 ------------------------------------------------------
-Started: 2025-12-09 14:22:55.443712
-Existing_entries: 20
+Started: 2025-12-09 16:27:37.631373
+Existing_entries: 12
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 4742
+Token length: 0
 Summarized using gemini model: gemini-2.0-flash
-Append: [汽车行业波澜壮阔，他们却为何选择逃离](https://www.yicai.com/news/102945498.html)
-Token length: 3303
-Summarized using gemini model: gemini-2.0-flash
-Append: [中央定调明年经济工作：宏观政策更加积极有为，加大跨周期调节力度](https://www.yicai.com/news/102946608.html)
-Token length: 286
-Summarized using gemini model: gemini-2.0-flash
-Append: [AI进化速递 | 微软宣布在加拿大斥资190亿加元布局人工智能](https://www.yicai.com/news/102948758.html)
-Token length: 3549
-Summarized using gemini model: gemini-2.0-flash
-Append: [陈兵：以新国标动态施行规范外卖全流程丨法经兵言](https://www.yicai.com/news/102948456.html)
+Append: [H200放行，能否助力英伟达冲刺6万亿？](https://www.huxiu.com/article/4815691.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [李旭红：推动税收增长与人口变化良性互动丨天笠语税](https://www.yicai.com/news/102948459.html)
-Token length: 1588
+Append: [美联储年终大戏即将上演，一文解密四大看点](https://www.yicai.com/news/102946944.html)
+Token length: 1384
 Summarized using gemini model: gemini-2.0-flash
-Append: [一财社论：经济治理，有效为矛、有为为盾](https://www.yicai.com/news/102948622.html)
+Append: [浙金中心“暂停营业”现场直击｜东站服务点关门多日，总部大楼安保明显加强，连日维权持续](https://www.yicai.com/news/102949049.html)
+Token length: 2092
+Summarized using gemini model: gemini-2.0-flash
+Append: [每年万亿医保基金如何支持创新药？国家医保局详解](https://www.yicai.com/news/102946498.html)
+Token length: 2733
+Summarized using gemini model: gemini-2.0-flash
+Append: [“祥源系”3家上市公司股价狂泻，俞发祥“家底”再缩水](https://www.yicai.com/news/102948996.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [Zorin OS 18 突然爆火！最像 Windows 的轻量级 Linux 系统，流畅到惊讶！（3分钟上手） | 零度解说](https://www.freedidi.com/22044.html)
-Token length: 484
-Summarized using gemini model: gemini-2.0-flash
-Append: [山姆致歉：麻薯盒现活老鼠初判在取货点被周边虫害偶然侵入所致](https://m.thepaper.cn/detail/32138377)
+Append: [PD-1为何没进商保创新药目录？国家医保局解释](https://www.yicai.com/news/102948992.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [非法收受财物1.13亿余元，罗保铭一审被判十五年](https://m.thepaper.cn/detail/32138407)
-Token length: 3590
+Append: [美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元](https://wallstreetcn.com/articles/3760999)
+Token length: 741
 Summarized using gemini model: gemini-2.0-flash
-Append: [中产最体面的省钱方式：去五星酒店“捡剩菜”](https://www.36kr.com/p/3587611611709442)
-Token length: 3085
+Append: [最大的冰淇淋公司梦龙独立上市，但中国冰淇淋市场均价正在下滑](https://www.yicai.com/news/102948975.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [独家｜祥源系关联公司曾间接参股浙金中心](https://www.yicai.com/news/102948945.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [公告臻选丨半导体+先进封装+中芯国际概念！公司签订累计4.33亿元半导体量检测设备销售合同](https://www.yicai.com/vip/news/102948894.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [谷歌携手中国企业推出AR眼镜 哪些A股企业将受益？](https://www.yicai.com/vip/news/102948840.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [玉渊谭天披露：音频实证日本有意滋扰中方训练](https://m.thepaper.cn/detail/32139825)
+Token length: 4743
 Summarized using gemini model: gemini-2.0-flash
-Append: [新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱](https://m.thepaper.cn/detail/32131597)
-Token length: 86
-Summarized using gemini model: gemini-2.0-flash
-Append: [大国江河｜水润西辽河，中华文明之源的绿色答卷](https://m.thepaper.cn/detail/32124388)
-append_entries: 12
-Finish: 2025-12-09 14:24:00.412908
+Append: [Token 到底怎么来的? 大模型分词的核心逻辑, 看完秒懂!](https://juejin.cn/post/7580570363602911284)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [C#AI系列(5): 从零开始 C# 轻松语音识别](https://www.cnblogs.com/luojin765/p/19316914)
+append_entries: 14
+Finish: 2025-12-09 16:28:52.468160
