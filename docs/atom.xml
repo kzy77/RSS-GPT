@@ -2,253 +2,363 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-12-10T10:26:15Z</updated>
+    <updated>2025-12-10T12:45:31Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Telegram 开启通行密钥登录：不用短信验证码的简单方法]]></title>
-        <link href="https://uuzi.net/telegram-passkey-login-guide/" />
-        <id>https://uuzi.net/telegram-passkey-login-guide/</id>
-        <updated>Wed, 10 Dec 2025 10:36:17 +0800</updated>
-        <summary type="html"><![CDATA[通行密钥, Telegram, 安全, 无密码, 登录
+        <title><![CDATA[00后大模型实习生「扒光」豆包手机，千字实测揭秘]]></title>
+        <link href="https://www.36kr.com/p/3589329638146309" />
+        <id>https://www.36kr.com/p/3589329638146309</id>
+        <updated>Wed, 10 Dec 2025 14:49:12 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 豆包手机, GUI Agent, UI-TARS, OS级, 多模态
 
 <br><br>总结:
-1. Telegram 现在支持通行密钥登录，是一种更安全便捷的登录方式，可以摆脱传统的短信验证码。
-2. 通行密钥利用设备自身的生物识别或PIN码进行验证，安全性更高。
-3. 文章提供了在 iPhone 和 Android 设备上开启 Telegram 通行密钥功能的详细步骤指南。
-4. 用户可以根据指南逐步操作，设置并使用通行密钥登录自己的 Telegram 账号。
-5. 作者分享了使用通行密钥登录Telegram的个人体验。
+1. 豆包手机通过在Android Framework层构建OS级影子系统，实现了标准模式（快速但直觉）和Pro模式（慢速但鲁棒）两种Agent模式，后者采用UI-TARS完整版，具备深度推理和工具调用能力。
+2. 采用XML+Vision混合感知路由，动态选择XML或视觉路线，应对复杂UI环境，并使用OS级虚拟化技术，实现Agent后台运行与前台应用隔离，避免卡顿。
+3. 通过启发式工程（延迟）对抗APP异步加载，采用任务层级过滤机制，保护用户隐私，只抓取特定任务界面，避免监控录屏。
+4. 在Pro模式下，通过RAG-MCP架构和列表记忆解决数据调用和跨屏上下文问题，同时具备任务目标导向的动态规划能力，增强Agent韧性。
+5. 豆包手机的GUI操作能力已通过UI-TARS开源，GUI Agent通过多模态大模型的发展和OS级深度集成，正在重塑AI手机的形态。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[部分 iCloud 数据未在同步？我这样解决的（简单方法）]]></title>
-        <link href="https://uuzi.net/fix-icloud-partial-data-not-syncing/" />
-        <id>https://uuzi.net/fix-icloud-partial-data-not-syncing/</id>
-        <updated>Wed, 10 Dec 2025 09:52:11 +0800</updated>
-        <summary type="html"><![CDATA[Apple ID、iCloud、同步、密码、验证失败
+        <title><![CDATA[玩家口中「凉了」的国民游戏，在工作日晚上排起长队]]></title>
+        <link href="https://www.36kr.com/p/3589290026107138" />
+        <id>https://www.36kr.com/p/3589290026107138</id>
+        <updated>Wed, 10 Dec 2025 14:00:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词：英雄联盟，海克斯大乱斗，电竞，玩法迭代，用户流失
 
 <br><br>总结:
-1.  问题描述：Mac、iPhone 或 iPad 提示部分 iCloud 数据未同步，且输入密码总是验证失败。
-2.  解决方法：修改 Apple ID 密码。
-3.  适用范围：该方法不仅适用于Mac、iPhone 或 iPad，也适用于其他苹果设备。
-4.  效果：成功解决 iCloud 数据同步问题和密码验证失败问题。
-5.  特点：方法简单易行。
+1. 《英雄联盟》用户流失，排队情况罕见，但新模式“海克斯大乱斗”吸引大量玩家回流。
+2. 游戏推出15投机制等，试图顺应快节奏趋势。
+3. 电竞是重要组成部分，赛事能带来爆火周期，但近年LPL赛事关注度疲态。
+4. 游戏通过玩法模式迭代，如海克斯大乱斗，和借鉴斗魂竞技场的Roguelike元素，重新吸引玩家。
+5. 拳头有足够的成本和受众进行试错，并能顺应时代趋势，不断迭代成熟玩法。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Avalonia UI的演进逻辑与Qt生态深度对比]]></title>
-        <link href="https://www.cnblogs.com/shanyou/p/19329439" />
-        <id>https://www.cnblogs.com/shanyou/p/19329439</id>
-        <updated>Wed, 10 Dec 2025 09:29:00 +0800</updated>
-        <summary type="html"><![CDATA[跨平台GUI，C++，Qt，性能，原生体验
+        <title><![CDATA[公司烂不烂，看老员工就知道了]]></title>
+        <link href="https://www.36kr.com/p/3589040765272580" />
+        <id>https://www.36kr.com/p/3589040765272580</id>
+        <updated>Wed, 10 Dec 2025 10:51:04 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 老员工, 公司文化, 态度, 投入度, 价值观
 
 <br><br>总结:
-一、跨平台GUI开发长期面临效率与质量的权衡，开发者需要在“一次编写，到处运行”的效率与“原生级性能与体验”之间进行选择。
-二、C++及其框架Qt在跨平台GUI开发中扮演重要角色。
+1.  观察老员工对公司的态度：在烂公司中，老员工对问题视而不见或私下抱怨，但在好公司，他们会积极提出建议，并具有主人翁意识。
+2.  考察老员工对核心工作的投入度：烂公司的老员工只做指令性任务，缺乏创新；好公司的老员工则深度参与关键业务，主动优化流程，并乐于带新人。
+3.  了解公司如何对待老员工：烂公司倾向于“卸磨杀驴”，而好公司会在制度和资源上承认老员工的贡献，重视其长期价值。
+4.  评估老员工如何对待同事：烂公司内部办公室政治严重，老员工之间互相提防；好公司则协作默契，老员工愿意帮助新人成长。
+5.  关注老员工自身的状态：烂公司的老员工普遍疲惫，缺乏归属感；好公司的老员工即使压力大，依然充满活力，并持续学习和迭代能力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[12月9日这些公告有看头]]></title>
-        <link href="https://www.yicai.com/news/102949067.html" />
-        <id>https://www.yicai.com/news/102949067.html</id>
-        <updated>Tue, 09 Dec 2025 23:05:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 重组终止, 风险警示, 控制权变更, 股份转让, 增减持
+        <title><![CDATA[GPT-5.2 内幕曝光：停掉 Sora，八周内死磕 ChatGPT 求生，AGI 梦想向生存低头]]></title>
+        <link href="https://www.36kr.com/p/3589115987623938" />
+        <id>https://www.36kr.com/p/3589115987623938</id>
+        <updated>Wed, 10 Dec 2025 10:38:45 +0800</updated>
+        <summary type="html"><![CDATA[关键词: OpenAI, ChatGPT, Google, AGI, 用户体验
 
 <br><br>总结:
-1.  中科曙光终止了与海光信息换股吸收合并的重组计划，原因是市场环境变化和实施条件不成熟。
-2.  惠伦晶体和嘉澳环保因年度报告虚假记载及收到行政处罚事先告知书，股票将被实施其他风险警示，股票简称变更为“ST惠伦”和“ST嘉澳”。
-3.  思瑞浦终止购买奥拉股份股权的重大资产重组事项，股票复牌。
-4.  ST凯文撤销其他风险警示，股票简称变更为“凯撒文化”。
-5.  嘉美包装控股股东正在筹划控制权变更事宜，股票停牌。
-6.  再升科技控股股东拟协议转让6.04%股份给中融华信。
-7.  兴福电子拟投资4.8亿元建设4万吨/年电子级磷酸项目。
-8.  隆基绿能终止境外发行全球存托凭证事项。
-9.  英派斯控股股东拟增持公司股份，奥康国际和神州信息股东拟减持股份。
-10. 佰奥智能预中标2750.21万元项目，精测电子获4.33亿元半导体设备订单，*ST围海联合中标6.52亿元智慧农业项目。
+1.  OpenAI因Google竞争压力和市场份额流失，启动“红色警报”，暂停Sora等项目，全力提升ChatGPT竞争力，计划发布GPT-5.2模型。
+2.  战略方向从追求AGI转向迎合用户，通过“LUPO”优化用户体验，但曾导致用户心理健康问题，新模型在调整后又面临用户不满。
+3.  内部产品派和研究派出现分歧，产品派主张优化现有功能，研究派追求“推理模型”技术，但研究方向面临商业化压力。
+4.  Altman认为未来AI竞争在终端设备，而非云端，将苹果视为真正对手，并组建硬件团队，探索AI原生设备。
+5.  OpenAI面临增长和变现压力，需在市场竞争中生存，可能牺牲“负责任AI”等承诺，GPT-5.2的仓促发布体现了这种焦虑。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点]]></title>
-        <link href="https://wallstreetcn.com/articles/3761037" />
-        <id>https://wallstreetcn.com/articles/3761037</id>
-        <updated>Tue, 09 Dec 2025 22:41:20 +0800</updated>
-        <summary type="html"><![CDATA[美联储，降息，通胀，哈塞特，特朗普
+        <title><![CDATA[小米还有 3 款重磅新车要发布，更卷了]]></title>
+        <link href="https://www.36kr.com/p/3588466462638088" />
+        <id>https://www.36kr.com/p/3588466462638088</id>
+        <updated>Wed, 10 Dec 2025 10:28:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 2026年, 汽车市场, 小米汽车, 价格战, 新能源汽车
 
 <br><br>总结:
-1. 哈塞特认为美联储有进一步降息空间，但前提是数据支持。
-2. 特朗普寻求大幅降息，并以此作为挑选美联储主席的标准。
-3. 哈塞特表示会坚持自己的经济判断，认为总统信任他的判断。
-4. 如果通胀上升，哈塞特表示不能降息。
-5. 哈塞特批评美联储政策“带有政治性”，强调关注经济数据的重要性。
+1.  2026年汽车市场将面临政策退坡、行业增长放缓和产能库存压力，导致价格战加剧。
+2.  各大品牌将推出大量新车，例如鸿蒙智行预计发布超20款，小鹏7款增程新车，市场竞争激烈。
+3.  小米汽车计划发布三款新车：增程旗舰SUV小米YU9、高性能SUV小米YU7 GT和加长版行政轿车小米SU7 L，分别针对家庭长途、极致性能和行政商务市场。
+4.  小米汽车YU9定位家庭用户，竞争理想L9和问界M9；YU7 GT追求极致性能，竞争特斯拉Model Y高性能版；SU7 L则注重后排空间和豪华体验，对标保时捷帕拉梅拉。
+5.  小米汽车面临产能挑战，但二期和三期工厂正在建设中，有望缓解产能问题。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[理想的实践与回归]]></title>
-        <link href="https://www.36kr.com/p/3588246570451201" />
-        <id>https://www.36kr.com/p/3588246570451201</id>
-        <updated>Tue, 09 Dec 2025 20:04:50 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI, 理想, 李想, 管理, 战略回归
+        <title><![CDATA[8点1氪｜山姆回应“麻薯盒内出现活老鼠”；水银体温计明年起禁产；京东外卖回应“随心囤”Bug ：将承担商家全部损失]]></title>
+        <link href="https://www.36kr.com/p/3588961105330434" />
+        <id>https://www.36kr.com/p/3588961105330434</id>
+        <updated>Wed, 10 Dec 2025 08:02:36 +0800</updated>
+        <summary type="html"><![CDATA[关键词：山姆, 水银体温计, 京东外卖, SpaceX, 泡泡玛特
 
 <br><br>总结:
-1. 李想早期效仿华为，推行IPD流程并引入华为高管，同时大力投入AI研发，推出AI眼镜Livis，战略上类似马斯克，先稳定公司再投入AI。
-2. 理想试图通过提高员工待遇和高端化产品（MEGA）进入高端市场，但遭遇市场内卷，MEGA遇挫。
-3. 市场竞争压力增大，增程市场显现颓势，理想被迫调整战略，加快i6上市，以更具竞争力的价格应对。
-4. 李想反思经理人模式，回归创始人模式，重新聚焦产品思维、效率运营和管理，强调专业的人做专业的事，充分发挥团队能力。
-5. 理想当前的核心是战略回归，包括创始人回归、找到纯电市场优势、聚焦制造环节，目标明确地解决产能问题，同时推进AI和汽车业务。
+1.  山姆回应麻薯盒老鼠事件，初步判断为取货点被虫害侵入，已与消费者妥善解决，将加强包装管理和配送服务。
+2.  水银体温计和血压计将于2026年1月1日起禁止生产，原因是水银的毒性及安全问题。
+3.  京东外卖“随心囤”功能出现BUG，导致用户可全额退款后仍持有大量优惠券，平台将承担商家全部损失。
+4.  SpaceX计划在2026年进行IPO，拟募资超300亿美元，目标估值约1.5万亿美元。
+5.  泡泡玛特股价持续下跌，市值蒸发超2000亿港元，或因产能大幅提升导致稀缺性降低。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[她靠TikTok“吃播”爆火，转身卖护肤品年入千万美元]]></title>
-        <link href="https://www.36kr.com/p/3588163121250305" />
-        <id>https://www.36kr.com/p/3588163121250305</id>
-        <updated>Tue, 09 Dec 2025 20:03:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词：莉莉·莱因哈特, Personal Day, 痤疮, TikTok, 美妆品牌
+        <title><![CDATA[国产多模态AI再开源，实测截图转网页、搜图购物，价格减半]]></title>
+        <link href="https://www.36kr.com/p/3588181400207360" />
+        <id>https://www.36kr.com/p/3588181400207360</id>
+        <updated>Tue, 09 Dec 2025 20:01:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词：GLM-4.6V, 多模态, 开源, AutoGLM, 体验
 
 <br><br>总结:
-1. 莉莉·莱因哈特因自身痤疮问题创立护肤品牌Personal Day，旨在为有同样困扰的人提供解决方案。
-2. 她巧妙利用TikTok等社交媒体平台进行营销，包括美食测评和ASMR护肤视频，迅速积累了大量粉丝和精准受众。
-3. Personal Day首个自然年营收达到1000万美元，并成功入驻Ulta门店，部分产品迅速售罄。
-4. 莱因哈特不希望品牌过度依赖个人名气，团队致力于打造具有独立影响力的品牌。
-5. 莱因哈特在发展品牌的同时，也在积极发展演艺事业，并利用社交媒体为新作品宣传。
+1.  智谱开源了GLM-4.6V系列多模态大模型，包括基础版和轻量版，以及AutoGLM智能体。
+2.  GLM-4.6V具备智能图文混排、识图购物、网页复刻、长文本/视频理解等能力，但实际体验中图文混排图片无法显示，模糊指令理解存在偏差。
+3.  GLM-4.6V系列模型上下文窗口提升至128k tokens，并首次将Function Call原生融入视觉模型，在多模态交互、逻辑推理和长上下文等方面表现出色。
+4.  性能测试中，轻量版在多项测试中超越Qwen3-VL-8B，基础版接近Qwen3-VL-235B的性能。
+5.  GLM-4.6V系列价格大幅降低，轻量版免费，降低了视觉模型的使用门槛。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[在大厂，人人都想成为老白兔]]></title>
+        <link href="https://www.36kr.com/p/3588097376846600" />
+        <id>https://www.36kr.com/p/3588097376846600</id>
+        <updated>Tue, 09 Dec 2025 18:20:28 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 老白兔, 互联网, 组织, 绩效, 裁员
+
+<br><br>总结:
+1.  "老白兔"指价值观好但业绩差的员工，在大厂中普遍存在，尤其是在增长放缓、组织固化时。
+2.  基层员工认为他们占位、影响晋升，管理者认为清理成本高，企业清除他们，也在培养他们。
+3.  "老白兔"的产生与组织文化、晋升机制、年龄压力等因素有关，业务周期停滞、系统陈旧、组织惯性沉重，是老白兔滋生的土壤。
+4.  他们常被诟病能力不足，但深谙大厂文化和规矩，善于汇报，熟悉流程能兜底。
+5.  清除"老白兔"涉及招聘、培训等成本，可能造成业务断档、团队波动，维稳成本有时低于清理收益，越来越多新人也在向老白兔看齐。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Waymo数据意外曝光：2500台车每周45万订单，重返全球第一]]></title>
-        <link href="https://www.36kr.com/p/3588084088520706" />
-        <id>https://www.36kr.com/p/3588084088520706</id>
-        <updated>Tue, 09 Dec 2025 18:23:47 +0800</updated>
-        <summary type="html"><![CDATA[关键词: Waymo, Robotaxi, 自动驾驶, 订单量, 市场份额
+        <title><![CDATA[字节跳动，新王炸诞生了]]></title>
+        <link href="https://www.36kr.com/p/3588058597048325" />
+        <id>https://www.36kr.com/p/3588058597048325</id>
+        <updated>Tue, 09 Dec 2025 17:44:44 +0800</updated>
+        <summary type="html"><![CDATA[关键词：红果短剧, 字节跳动, 短剧出海, 爆款, 汽水音乐
 
 <br><br>总结:
-1. Waymo Robotaxi周订单量被投资者泄露，最新数据为每周45万单，相较于4月公布的25万单，暴涨80%。
-2. Waymo Robotaxi车队规模已达2500辆，落地美国凤凰城、旧金山、洛杉矶、奥斯汀、亚特兰大5座城市，并计划明年扩展到更多城市。
-3. Waymo运营范围已覆盖560万人口，约占美国人口的1.7%。
-4. 在旧金山湾区的出租车市场中，Waymo的市场份额约为27%，已超过Lyft，仅次于Uber。
-5. 预计到2032年，美国出租车市场将形成Waymo、特斯拉和Uber三强鼎立的局面。
+1. 红果短剧作为字节跳动旗下的短剧APP迅速崛起，月活用户超过2亿，单月播放量逼近百亿，已超越优酷和小红书，2025年预计成为短剧爆发之年。
+2. 红果短剧通过内容和流量变现，2025年预计剧本总分账突破7300万元，部分编剧月入百万。
+3. 短剧正从中国走向海外，成为中国文化出海的新载体，字节跳动推出海外短剧平台Melolo。
+4. 汽水音乐也快速崛起，月活跃用户数达到1.2亿，成为音乐市场月活跃用户规模第四的APP。
+5. 字节跳动持续推出爆款应用，包括Lemon8、豆包AI等，显示出其强大的爆款制造能力。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[分享下我创业烧了 几十万的 AI Coding 经验]]></title>
-        <link href="https://juejin.cn/post/7581545175509434420" />
-        <id>https://juejin.cn/post/7581545175509434420</id>
-        <updated>Tue, 09 Dec 2025 15:39:38 +0800</updated>
-        <summary type="html"><![CDATA[关键词: AI Coding, 上下文工程, 软件开发, 团队分工, 研发模式
+        <title><![CDATA[极越汽车复活？停摆这一年，车主怎么样了？]]></title>
+        <link href="https://www.36kr.com/p/3587943950712833" />
+        <id>https://www.36kr.com/p/3587943950712833</id>
+        <updated>Tue, 09 Dec 2025 16:32:29 +0800</updated>
+        <summary type="html"><![CDATA[极越, 预重整, OTA, 智能驾驶, 售后服务
 
 <br><br>总结:
-1.  传统软件开发模式将被AI Coding颠覆，创业公司可尝试从零开始，完全依赖AI Coding进行产品开发。
-2.  上下文工程旨在解决AI在编码过程中缺乏记忆的问题，目前有三种主要方法：AI自主读写、结合RAG做索引、手工选择+自动注入，其中手工选择方法准确性高但成本也高。
-3.  AI Coding 的核心在于将所有信息文本化并增量、低成本、快速地传递给AI，这需要产品和技术紧密结合。
-4.  AI Coding 的影响是革命性的，传统的分工模式将被打破，未来将演变为“工程师+AI”的模式。
-5.  要实现基于AI的研发团队高度扁平化和工程师的自由流动，必须完全放手让AI写代码，并构建基于AI的效率平台。
+1. 极越汽车因资金问题启动预重整程序，旨在引入新战略投资人，保障用户售后权益，由吉利领克全面承接车辆维保。
+2. 部分车主对极越的智能驾驶功能仍有期待，车辆主要问题包括氛围灯带老化、阅读灯自亮、后排屏幕卡顿等，配件等待时间长。
+3. 车主们普遍诉求是尽快进行智能辅助驾驶OTA更新，希望新投资方能兑现OTA更新承诺，保障正常维修和终身质保。
+4. 极越通过公开招募意向投资人的形式寻求“复活”，预重整阶段主要任务是寻找投资方和整合债权人意见。
+5. 预重整降低投资人顾虑，企业可与潜在投资人协商投资比例、股权架构等细节，提升合作意愿，但能否成功“复活”仍需时间和市场验证。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[RunCat 竟然要 139MB？我用纯 C 仅花了100KB 就实现了，还支持直接使用表情包gif/webp]]></title>
-        <link href="https://www.cnblogs.com/vladelaina/p/19321904" />
-        <id>https://www.cnblogs.com/vladelaina/p/19321904</id>
-        <updated>Mon, 08 Dec 2025 15:11:00 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 动图, 运行内存, Microsoft Store, API, 限制
+        <title><![CDATA[苏宁，资不抵债了，谁的错？]]></title>
+        <link href="https://www.36kr.com/p/3587954264129796" />
+        <id>https://www.36kr.com/p/3587954264129796</id>
+        <updated>Tue, 09 Dec 2025 15:51:39 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 苏宁, 破产重整, 债务, 多元化, 张近东
 
 <br><br>总结:
-要点1: 软件体积139MB，却只能显示3个动图，引发作者质疑。
-要点2: 软件运行内存仅27MB，让作者感到惊讶。
-要点3: 某个 Commit 仅使用可提交到 Microsoft Store 的 API 实现。
-要点4: 为了满足 Microsoft Store 的审核机制，软件被迫放弃了一些 Window 的功能。
+1.  苏宁系公司因资不抵债，被南京中院受理破产重整，涉及苏宁电器集团、苏宁控股集团、苏宁置业集团等38家公司。
+2.  苏宁面临巨额债务，高达2300亿，而资产清算价值远低于账面，股东权益面临被调整或清零，实控人张近东需让渡个人资产。
+3.  苏宁的多元化战略，包括投资房地产、收购家乐福中国等，未能成功，反而加剧了资金链紧张，导致债务危机爆发。
+4.  苏宁线上转型不彻底，线下门店成本高昂，加上对外投资与多元化经营，导致集团资源分散。
+5.  苏宁系债务集中到期，叠加疫情影响，加速了问题的暴露。重整方案目标是通过债务信托管理，出售资产，继续运营有价值的公司，但方案仍存在不确定性。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[Claw Cloud Run, 免费容器, Github注册, Docker应用, 应用部署
+        <title><![CDATA[gemini3手势互动圣诞树保姆级教程来了！附提示词]]></title>
+        <link href="https://juejin.cn/post/7581545175508762676" />
+        <id>https://juejin.cn/post/7581545175508762676</id>
+        <updated>Tue, 09 Dec 2025 14:31:29 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Gemini3, Three.js, MediaPipe, 粒子系统, 手势识别
+
+<br><br>总结:
+1.  文章介绍了一个使用Gemini3和AI生成3D圣诞树的互动项目，用户可以通过手势隔空操控。
+2.  项目利用Three.js创建WebGL场景，PBR材质实现奢华视觉效果，UnrealBloomPass增加辉光特效。
+3.  通过Google MediaPipe进行手势识别，纯前端推理手部关键点，将手势映射为粒子系统的状态触发器，实现捏合聚焦照片，张开散开，握拳聚合成树等效果。
+4.  粒子系统使用Lerp线性插值算法，使粒子在形态切换时平滑过渡。
+5.  用户复制提示词给Gemini3，生成HTML代码，在浏览器中打开并允许摄像头，即可体验手势控制3D圣诞树。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[使用 TRAE SOLO 一分钟写个简易版飞机大战]]></title>
+        <link href="https://juejin.cn/post/7581097545671327763" />
+        <id>https://juejin.cn/post/7581097545671327763</id>
+        <updated>Mon, 08 Dec 2025 20:00:12 +0800</updated>
+        <summary type="html"><![CDATA[TRAE, AI, 飞机大战, SOLO模式, 跨平台
+
+<br><br>总结:
+1.  TRAE是一款深度融合AI能力的开发工具，能够理解需求并完成开发任务。
+2.  文章使用了TRAE SOLO模式，通过AI自动生成一个简易版的飞机大战游戏。
+3.  AI经历了安装pygame失败，改用turtle库失败等问题，最终采用文本界面和Python标准库实现了跨平台游戏。
+4.  游戏功能包括玩家控制、武器系统、敌机系统、碰撞检测和分数系统，支持游戏结束、重新开始和退出。
+5.  TRAE提供IDE和SOLO双重开发模式，覆盖编码、调试、测试、重构、部署等任务，旨在提高开发效率。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[库克告别苹果，「九子夺嫡」争夺 CEO 大战开始了]]></title>
+        <link href="https://juejin.cn/post/7580674010838532142" />
+        <id>https://juejin.cn/post/7580674010838532142</id>
+        <updated>Mon, 08 Dec 2025 10:53:09 +0800</updated>
+        <summary type="html"><![CDATA[关键词：苹果, 人才流失, AI, 库克, 接班人
+
+<br><br>总结:
+1.  苹果正经历自乔布斯回归以来最严重的人才流失，工程师和设计师纷纷转向Meta和OpenAI等公司，反映了硅谷人才引力场的转移。<br><br>
+2.  设计团队遭受重创，艾伦·戴等核心人物离职，体现了苹果“确定性的完美”设计哲学与Meta“生成式的可能性”设计理念的冲突，以及Meta高薪的诱惑。<br><br>
+3.  芯片之父斯鲁吉考虑离职，暗示技术官僚在苹果的晋升天花板已触顶，可能导致技术断层、人才雪崩和资本动荡。<br><br>
+4.  AI战略受挫，詹南德雷亚离职，反映了苹果在AI领域的文化困境，包括保密文化、算力不足和技术债务等问题，导致人才流向OpenAI。<br><br>
+5.  库克时代的核心管理层面临换血，约翰·特努斯成为接班人领跑者，但其过于稳健的风格引发外界对其能否带领苹果在AI时代重塑辉煌的担忧。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[爪云，内网穿透，Docker，Cloudflare，UUID
 
 <br><br>总结:  
-1. Claw Cloud Run是一款免费的容器服务，只要Github账户注册时间超过180天，即可每月获得5美元赠金，实现长期免费使用。  
-2. 用户可以利用Claw Cloud Run搭建各种Docker应用，支持应用商店一键自动部署，也可以进行手动部署。  
-3. 通过访问https://api.github.com/users/你的Github用户名 可查询Github注册时间，注意接口请求有IP限流，建议关闭代理避免请求失败。  
-4. 推荐在Claw Cloud Run上部署两款应用：轻笔记应用“Memos”和网盘挂载工具“AList”。  
-5. 更多详细使用和部署内容，可以参考相关的Youtube视频教程。]]></summary>
+1. 文章介绍了爪云（Claw Cloud Run）及其内网穿透功能的部署流程。  
+2. 部署前需获取root权限并安装Docker环境。  
+3. 提供了两种隧道模式：临时隧道模式通过运行简单Docker命令启动；固定隧道模式需准备UUID、Cloudflare隧道Token及隧道域名，并通过Docker环境变量配置启动。  
+4. UUID可通过多种方式生成，包括生成网站、代理工具v2rayN或手工编写。  
+5. 文中附带了常用Docker命令，方便查看、管理和删除爪云相关容器，同时提供了相关视频教程链接以供参考。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[谷歌云免费、VPS、配置、费用注意、科学上网  
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[us.kg，免费域名，Cloudflare，域名托管，注册问题
+
+<br><br>总结:  
+1. 已经注册的us.kg免费域名依然存在，可以正常使用。  
+2. 新注册的us.kg域名是否还能注册存在不确定性，目前部分渠道显示暂停。  
+3. dpdns.org等免费域名服务可以将域名托管到Cloudflare，实现更稳定的解析服务。  
+4. 作为临时方案，用户也可以将域名托管至FreeDNS，保证基础解析功能。  
+5. 文章区分了两种域名的使用和托管方式，帮助用户了解当前免费域名的使用现状与选择。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Serv00登录，科学上网，Cloudflare隧道，CDN回源，网页保活  
 
 总结:  
-1. 用户使用谷歌云免费VPS超过8个月，共扣费0.03美元，扣费原因可参考两个YouTube视频。  
-2. 谷歌云免费VPS配置建议：选择俄勒冈、爱荷华或南卡罗来纳区域，机器选E2-micro，操作系统推荐Ubuntu，存储选择30GB标准永久磁盘，并关闭快照备份以避免收费。  
-3. 谷歌云账号注册需添加有效外币信用卡或借记卡，但在试用期过后再激活完整版账号。  
-4. 防火墙配置建议放行所有入站和出站规则，SSH登录可通过官方后台直接操作或第三方工具配合密钥登录。  
-5. 科学上网推荐使用Hysteria 2节点，注意流量费用限制及避免选择CDN加速，安装方式有命令行、面板或一键脚本多种选择。]]></summary>
+1. 登录阶段：通过s*.serv00.com、cache*.serv00.com、web*.serv00.com任意域名登录，如被墙可设置系统代理。  
+2. 科学上网节点搭建：初始化系统，重置端口，执行安装脚本完成节点搭建。  
+3. Cloudflare固定隧道：创建HTTP类型隧道，配置隧道域名、Token及指向本地指定端口。  
+4. CDN回源配置：添加DNS A记录解析到Serv00 IP，设置回源规则将流量转发到指定端口。  
+5. 网页和Cloudflare远程保活：通过多功能主页接口实现网页启动、重启、重置端口及查看节点状态；使用Cloudflare Worker实现远程定时保活，保证服务持续在线。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[注册地址 免费域名 续期 us.kg dpdns.org<br><br>总结:  
-1. 提供两个域名选择：免费域名dpdns.org和收费域名us.kg（12元/个）。  
-2. 新用户默认可免费申请1个免费域名，完成Github加星操作后可增加到2个；老用户默认3个，完成加星后增加到4个。  
-3. us.kg域名不占用免费域名额度。  
-4. 域名均需每年续期一次，续期永久免费，用户需在到期前180天内完成续期操作。  
-5. 相关教程和视频资料可查阅DigitalPlat的Github仓库与Youtube详细教程。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[US.KG域名，注册流程，KYC验证，Cloudflare托管，免费续订  
 
 <br><br>总结:  
-1. 稳定性和速度方面，该服务表现良好，节点测速显示响应迅速，能够满足日常使用需求。  
-2. 是否需要保活取决于使用场景，部分情况下保持长期连接能提升体验稳定性。  
-3. 关于ChatGPT“降智”问题，经过测试存在一定程度的性能下降，但并未影响核心功能，用户体验依旧流畅。  
-4. 购买过程顺畅，官方支持修改登录密码及代理节点搭建，对用户较为友好。  
-5. 综合来看，服务性价比较高，适合对稳定连接和速度有一定要求的用户，购买值得考虑。  
-相关资源和详细讲解均可参考提供的YouTube视频和GitHub链接。]]></summary>
+1. 由于US.KG域名目前受限，建议先通过 https://dash.domain.digitalplat.org/ 完成注册及KYC验证。  
+2. 注册流程包括：注册账号（邮箱需真实有效）、邮箱验证、上传排版好的KYC信息截图。  
+3. 注册完成后，输入所需域名前缀进行域名注册。  
+4. 注册成功后，将域名托管至Cloudflare，配置分配的名称服务器以实现管理。  
+5. 域名支持免费续订，但免费域名存在一定缺点，详细说明可参考视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[免费域名，身份信息生成器，优惠码，Cloudflare，域名托管
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[Deepseek，API，本地部署，第三方应用，使用方法  
 
 <br><br>总结:  
-1. 由于US.KG域名注册失败，推荐使用带有优惠码（newuser）的一年免费域名注册服务。  
-2. 通过身份信息生成器辅助填写注册信息，提升注册成功率。  
-3. 在指定平台注册账号，完成实名认证及填写资料。  
-4. 购买域名时输入优惠码，即可享受首年免费使用。  
-5. 将注册完成的域名托管到Cloudflare，添加域名后将Cloudflare分配的两个名称服务器填写至域名管理面板，实现DNS解析和托管。  
-6. 提供的Youtube教程视频涵盖注册账号、注册域名及Cloudflare托管全流程，帮助用户快速上手。]]></summary>
+1. Deepseek介绍及简介，涵盖网页端和APP的使用方式。  
+2. Deepseek提供API服务，用户需用+86手机号注册，注册后赠送10元体验金，有效期一个月。  
+3. Deepseek可与Perplexity及其他第三方应用结合，提升使用体验和功能。  
+4. 支持本地部署，通过下载安装Ollama工具，在终端执行指令完成模型下载与运行，支持Chatbox等软件调用Ollama API。  
+5. 提供官方以及第三方客户端入口，详细硬件配置和操作方法建议观看相关视频教程。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
