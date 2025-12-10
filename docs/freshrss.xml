@@ -2,215 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>首页 | FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Wed, 10 Dec 2025 04:32:57 GMT</updated>
+    <updated>Wed, 10 Dec 2025 06:33:29 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[媒体：德云社被投诉内容低俗，中国曲协回应]]></title>
-        <link href="https://m.thepaper.cn/detail/32140947" />
-        <id>https://m.thepaper.cn/detail/32140947</id>
-        <updated>Tue, 09 Dec 2025 22:29:02 +0800</updated>
-        <summary type="html"><![CDATA[郭德纲，于谦，相声，低俗，曲艺家协会
+        <title><![CDATA[RunCat 竟然要 139MB？我用纯 C 仅花了100KB 就实现了，还支持直接使用表情包gif/webp]]></title>
+        <link href="https://www.cnblogs.com/vladelaina/p/19321904" />
+        <id>https://www.cnblogs.com/vladelaina/p/19321904</id>
+        <updated>Mon, 08 Dec 2025 15:11:00 +0800</updated>
+        <summary type="html"><![CDATA[关键词：Microsoft Store, 动图, 运行内存, API, 审核机制
 
 <br><br>总结:
-1. 郭德纲、于谦相声《艺高人胆小》因被举报内容低俗，正被北京西城区文旅局处理。
-2. 观众投诉该段相声存在伦理哏、荤段子等低俗内容。
-3. 西城区文旅局工作人员表示投诉正在处理中，但具体情况需等待后续进展。
-4. 中国曲艺家协会表示关注此事，将维护风清气正的行业生态。
-5. 截至目前，西城文旅局尚未通报，德云社及郭德纲也未正面回应。
+1. 作者对某应用在Microsoft Store上的表现感到惊讶，139MB的安装包只能显示3个动图，运行内存占用却高达27MB。
+2.  发现该应用为了符合Microsoft Store的审核机制，commit bd38df8表明其仅使用了可提交到Microsoft Store的API。
+3.  作者暗示，为了迎合商店的审核机制，该应用被迫放弃了一些Windows原生功能，以满足商店的要求。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[教科书上的朱元璋不再是“鞋拔子脸”，到底哪个形象更接近他本人？]]></title>
-        <link href="https://m.thepaper.cn/detail/32137164" />
-        <id>https://m.thepaper.cn/detail/32137164</id>
-        <updated>Tue, 09 Dec 2025 18:43:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 明太祖, 肖像, 正形像, 异形像, 历史课本
+        <title><![CDATA[Telegram 开启通行密钥登录：不用短信验证码的简单方法]]></title>
+        <link href="https://uuzi.net/telegram-passkey-login-guide/" />
+        <id>https://uuzi.net/telegram-passkey-login-guide/</id>
+        <updated>Wed, 10 Dec 2025 10:36:17 +0800</updated>
+        <summary type="html"><![CDATA[关键词: Telegram, 通行密钥, Passkey, 无密码, 安全
 
 <br><br>总结:
-1.  人教版历史课本更换了朱元璋的肖像，从广为人知的“鞋拔子脸”异形像变为更符合史实的正形像。
-2.  文献记载，朱元璋的“异相”起源于永乐帝朱棣为巩固政权而进行的吹捧和神话，在民间流传甚广，而正形像则用于宫中缅怀祭祀。
-3.  朱元璋异像的流行是政治宣传与民间心理共同作用的结果，将帝王神话化是建构王朝天命的手段。
-4.  明代公开展示的太祖像多为写实性肖像，而“异相”画像则受到了相术书籍的影响，以符合“天命所归”之说。
-5.  随着写实肖像画的兴盛，夸张的“异形像”逐渐被社会上层视为不雅，正形像逐渐成为主流。
+1. Telegram 已支持通行密钥 (Passkey) 登录，替代传统短信验证码方式。
+2. 用户可在 Telegram 设置中开启 Passkey 功能，提供更安全的登录体验。
+3. 支持 iPhone 和 Android 设备，设置过程相对简单。
+4. 通行密钥利用设备本地生物识别或PIN码进行身份验证。
+5. 用户通过 Passkey 可以实现无密码登录，提高账号安全性并简化登录流程。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[H200放行，能否助力英伟达冲刺6万亿？]]></title>
-        <link href="https://www.huxiu.com/article/4815691.html" />
-        <id>https://www.huxiu.com/article/4815691.html</id>
-        <updated>Tue, 09 Dec 2025 23:03:29 +0800</updated>
-        <summary type="html"><![CDATA[关键词： AI绘画, 创意生成, 效率提升, 工具应用, 艺术变革
+        <title><![CDATA[部分 iCloud 数据未在同步？我这样解决的（简单方法）]]></title>
+        <link href="https://uuzi.net/fix-icloud-partial-data-not-syncing/" />
+        <id>https://uuzi.net/fix-icloud-partial-data-not-syncing/</id>
+        <updated>Wed, 10 Dec 2025 09:52:11 +0800</updated>
+        <summary type="html"><![CDATA[关键词：iCloud，同步，密码，Apple ID，验证失败
 
 <br><br>总结:
-1. AI绘画工具正在兴起，显著提升了创作效率，帮助用户快速生成图像。
-2. 这些工具促进了创意生成，用户可以通过文本描述或其他方式引导AI创造独特的视觉作品。
-3. AI绘画正广泛应用于各个领域，例如设计、艺术创作、内容生成等，改变了传统的工作流程。
-4. 尽管AI绘画带来便利，但同时也引发了关于版权、原创性和艺术本质的讨论。
-5. AI绘画被认为是艺术创作领域的一场变革，未来将与人类创作者共同塑造艺术的未来。
+1.  问题：Mac、iPhone或iPad提示部分iCloud数据未同步，且输入密码验证失败。
+2.  解决方法：修改Apple ID密码。
+3.  适用范围：此方法不仅适用于出现同步问题的设备，也可能适用于其他苹果设备。
+4.  特点：该方法操作简单。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美联储年终大戏即将上演，一文解密四大看点]]></title>
-        <link href="https://www.yicai.com/news/102946944.html" />
-        <id>https://www.yicai.com/news/102946944.html</id>
-        <updated>Tue, 09 Dec 2025 22:57:06 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 美联储, 降息, 就业, 通胀, 资产负债表
+        <title><![CDATA[“影子美联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点]]></title>
+        <link href="https://wallstreetcn.com/articles/3761037" />
+        <id>https://wallstreetcn.com/articles/3761037</id>
+        <updated>Tue, 09 Dec 2025 22:41:20 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 美联储, 降息, 哈塞特, 特朗普, 通胀
 
 <br><br>总结:
-1. 美联储议息会议预计将连续第三次降息，但内部存在分歧，多位官员对降息持反对或怀疑态度。
-2. 经济前景方面，预计2026年美国经济温和增长，但就业市场疲软，通胀压力依然存在。
-3. 明年降息预测存在分歧，市场普遍预计美联储将降息两次，但具体时间和幅度尚不确定。
-4. 美联储面临全面改组，新任主席和理事可能改变政策思路。
-5. 资产负债表未来走向与利率决议同等重要，美联储需谨慎管理流动性，避免重蹈2019年回购市场危机。
+1.  哈塞特认为美联储有“充足的空间”进一步降息，但前提是经济数据支持。
+2.  哈塞特与特朗普立场一致，可能被选为美联储主席，引发外界对其独立性的担忧。特朗普将迅速降低借贷成本作为选择美联储主席的“试金石”。
+3.  哈塞特表示他会坚持自己的经济判断，并认为总统信任他的判断。
+4.  如果通胀率上升，哈塞特认为不适合降息。
+5.  哈塞特批评美联储近年来的政策选择，强调美联储主席应关注经济数据，避免卷入政治。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[浙金中心“暂停营业”现场直击｜东站服务点关门多日，总部大楼安保明显加强，连日维权持续]]></title>
-        <link href="https://www.yicai.com/news/102949049.html" />
-        <id>https://www.yicai.com/news/102949049.html</id>
-        <updated>Tue, 09 Dec 2025 22:52:54 +0800</updated>
-        <summary type="html"><![CDATA[关键词：浙金中心，兑付问题，维权登记，投资者，东站服务点
+        <title><![CDATA[分享下我创业烧了 几十万的 AI Coding 经验]]></title>
+        <link href="https://juejin.cn/post/7581545175509434420" />
+        <id>https://juejin.cn/post/7581545175509434420</id>
+        <updated>Tue, 09 Dec 2025 15:39:38 +0800</updated>
+        <summary type="html"><![CDATA[关键词: AI Coding, 上下文工程, 软件开发, 团队分工, 效率平台
 
 <br><br>总结:
-1. 浙金中心相关产品密集出现兑付问题，引发投资者维权。
-2. 浙金中心东站服务点已连续多日关门，总部安保明显加强，前台公司标识已拆除但仍在运作。
-3. 投资者被引导至章家坝运河公园进行维权登记，登记活动已持续多日，参与者多为老年人。
-4. 平台提现功能已关闭，投资者希望能拿回部分投资。
-5. 投资者自发组织微信群，希望联系更多投资者了解最新进展。
+1. 传统软件开发模式将被AI Coding颠覆，创业公司可率先采用完全基于AI Coding的开发模式，无需传统岗位分工。
+2. 上下文工程旨在解决AI在编码时缺乏记忆的问题，目前最佳实践是手工选择+自动注入，但成本较高。
+3. AI Coding对团队分工产生颠覆性影响，未来将趋向于“工程师+AI”的扁平化模式，传统岗位将大量消失。
+4. 要最大化AI Coding的收益，必须完全放手让AI写代码，避免混合式写法，并构建数字化、平台化的协同方式。
+5. 传统的IDE对AI来说上下文不完整，需要从AI出发，为其量身打造一套效率平台。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[每年万亿医保基金如何支持创新药？国家医保局详解]]></title>
-        <link href="https://www.yicai.com/news/102946498.html" />
-        <id>https://www.yicai.com/news/102946498.html</id>
-        <updated>Tue, 09 Dec 2025 22:51:36 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 医保, 商保, 创新药, 目录, 协同
+        <title><![CDATA[12月9日这些公告有看头]]></title>
+        <link href="https://www.yicai.com/news/102949067.html" />
+        <id>https://www.yicai.com/news/102949067.html</id>
+        <updated>Tue, 09 Dec 2025 23:05:59 +0800</updated>
+        <summary type="html"><![CDATA[关键词：重组终止, 风险警示, 控制权变更, 股份转让, 大额订单
 
 <br><br>总结:
-1.  国家医保局明确表示基本医保仍是中国创新药的主要支付方，并发布了2025年医保药品目录，新增114种药品，包含50种一类创新药，目录药品总数增至3253种。
-2.  国家医保局通过价值引领战略购买支持医药创新，8年调整医保药品目录，累计调入949种新药，医保基金支付超4600亿元，拉动销售超6000亿元。
-3.  首次发布商保创新药目录，纳入19种药品，与基本医保形成互补，推动商业健康保险与基本医保错位发展，建立多层次医疗保障体系，发挥商保在资金运营、产品设计等领域的优势。
-4.  国家医保局强调医保和商保的协同互补是正确方向，两者是协同而非内卷，互补而非替代，基本医保保基本，商保满足个性化需求，未来商保应在保障广度上拓展。
-5.  基本医保要有边界，为市场“留白”，推动医保商保协同，共同支持创新药发展，助力医药产业迈向创新驱动的高质量发展道路。
+1. 中科曙光：终止了与海光信息的换股吸收合并计划，原因是交易规模大、市场环境变化。
+2. 惠伦晶体和嘉澳环保：因年报虚假记载和收到行政处罚事先告知书，股票将被实施其他风险警示，股票简称变更为“ST惠伦”和“ST嘉澳”。
+3. 思瑞浦：终止购买奥拉股份股权，股票复牌。
+4. ST凯文：撤销其他风险警示，股票简称变更为“凯撒文化”。
+5. 嘉美包装：控股股东筹划控制权变更，股票停牌。
+6. 再升科技：控股股东拟协议转让6.04%股份给中融华信。
+7. 兴福电子：拟投资4.8亿元建设4万吨/年电子级磷酸项目。
+8. 隆基绿能：终止境外发行全球存托凭证事项。
+9. 英派斯：控股股东拟增持公司股份，金额不低于6000万元。奥康国际和神州信息：股东或控股股东计划减持股份。
+10. 佰奥智能、精测电子和*ST围海：分别预中标或获得大额订单，总额合计超过13.5亿元。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[“祥源系”3家上市公司股价狂泻，俞发祥“家底”再缩水]]></title>
-        <link href="https://www.yicai.com/news/102948996.html" />
-        <id>https://www.yicai.com/news/102948996.html</id>
-        <updated>Tue, 09 Dec 2025 22:48:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 祥源控股, 俞发祥, 逾期兑付, 上市公司, 资产
+        <title><![CDATA[特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格]]></title>
+        <link href="https://wallstreetcn.com/articles/3761018" />
+        <id>https://wallstreetcn.com/articles/3761018</id>
+        <updated>Tue, 09 Dec 2025 21:28:24 +0800</updated>
+        <summary type="html"><![CDATA[关键词：特朗普, 美联储主席, 降息, 关税, 医保补贴
 
 <br><br>总结:
-1. "祥源系"产品出现逾期兑付，在浙金中心交易，涉及百亿规模，引发市场关注。
-2. 祥源控股旗下的三家上市公司（祥源文旅、交建股份、海昌海洋公园）股价大幅下跌，两个交易日市值蒸发约32亿元，公司发布公告称与上市公司无关。
-3. 祥源方面承认资金链断裂，地产资产价值超300亿元但难以变现，希望政府协助处置。
-4. 评估了祥源控股、俞发祥可回笼的资产，主要包括未质押的交建股份市值约5.96亿元。
-5. 祥源控股的资产总额近600亿元，但现金流紧张，依赖“借新还旧”模式，面临兑付压力。
+1. 特朗普表示，支持大幅降息将成为他选择美联储主席的决定性因素，暗示哈塞特是潜在人选。
+2. 他考虑调整关税政策以应对物价压力，可能对部分商品降低或提高关税，但未明确具体调整措施。
+3. 特朗普坚称美国经济表现良好，与民调显示选民对高物价不满的现实存在出入。
+4. 奥巴马医改补贴即将到期，可能导致2026年医疗保险费大幅上涨，但特朗普对是否延长补贴态度模糊。
+5. 特朗普政府在医保政策上的意图不确定，他仍承诺推出替代奥巴马医改的方案，但未提供具体细节。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[PD-1为何没进商保创新药目录？国家医保局解释]]></title>
-        <link href="https://www.yicai.com/news/102948992.html" />
-        <id>https://www.yicai.com/news/102948992.html</id>
-        <updated>Tue, 09 Dec 2025 22:48:11 +0800</updated>
-        <summary type="html"><![CDATA[关键词: PD-1，医保目录，商保创新药，价格谈判，肿瘤药
+        <title><![CDATA[释新闻｜日本青森县近海强震，未来一周大规模地震风险多高？]]></title>
+        <link href="https://m.thepaper.cn/detail/32137168" />
+        <id>https://m.thepaper.cn/detail/32137168</id>
+        <updated>Tue, 09 Dec 2025 14:20:04 +0800</updated>
+        <summary type="html"><![CDATA[地震, 海啸, 日本, 海沟, 警报
 
 <br><br>总结:
-1. 目前基本医保目录内已有约10款PD-1抑制剂，肿瘤治疗药物是基本医保新增药物的大头。
-2. 今年申报的商保创新药目录中，PD-1类药品未成功入选，原因在于它们与基本医保目录内的药品有很强的替代性。
-3. 纳入商保创新药目录的药品具有创新程度高、临床价值大、无法被基本医保目录替代和多元化支付等特征。
-4. 部分PD-1未能通过基本医保目录谈判，主要原因是药企报价过高，缺乏谈判诚意，与现有目录内PD-1价格相差悬殊。
-5. 基本医保目录新增药品具有填补临床空白、同类更优和更具性价比等共性特征。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨]]></title>
-        <link href="https://wallstreetcn.com/articles/3760999" />
-        <id>https://wallstreetcn.com/articles/3760999</id>
-        <updated>Tue, 09 Dec 2025 23:58:09 +0800</updated>
-        <summary type="html"><![CDATA[美联储利率决议, 就业岗位空缺, 国债收益率, 日元, 铜价
-
-<br><br>总结:
-*   市场在美联储利率决议前情绪谨慎，美股小幅低开，投资者等待美联储的决定。
-*   美国10月份就业岗位空缺数量超预期，提振市场情绪。
-*   美国和德国国债收益率小幅下降，但此前美债收益率创数月新高。
-*   日本央行加息预期升温，但日元汇率依然疲软。
-*   现货黄金短线走高，而前期飙升的铜价出现回调。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[最大的冰淇淋公司梦龙独立上市，但中国冰淇淋市场均价正在下滑]]></title>
-        <link href="https://www.yicai.com/news/102948975.html" />
-        <id>https://www.yicai.com/news/102948975.html</id>
-        <updated>Tue, 09 Dec 2025 22:45:21 +0800</updated>
-        <summary type="html"><![CDATA[梦龙，上市，冰淇淋，市场份额，中国市场
-
-<br><br>总结:
-1. 梦龙冰淇淋公司从联合利华拆分，将于2025年7月正式独立运营，并在阿姆斯特丹、伦敦与纽约三地上市。
-2. 梦龙冰淇淋公司是全球最大的冰淇淋公司，2024年营收79亿欧元，占据全球21%市场份额。
-3. 中国市场是梦龙冰淇淋公司全球十大核心市场之一，且零售销售额位居第二。
-4. 可爱多和梦龙在中国冰淇淋市场市占率分别位列第5和第7。
-5. 中国冰淇淋市场面临增长放缓和均价下滑的挑战。
-6. 分析师认为梦龙独立后优势仍在，但需建立完善的产品金字塔。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[独家｜祥源系关联公司曾间接参股浙金中心]]></title>
-        <link href="https://www.yicai.com/news/102948945.html" />
-        <id>https://www.yicai.com/news/102948945.html</id>
-        <updated>Tue, 09 Dec 2025 22:05:49 +0800</updated>
-        <summary type="html"><![CDATA[浙金中心, 祥源系, 收益权产品, 杭州民置, 股权关系
-
-<br><br>总结:
-1. 浙金中心被质疑沦为祥源系收益权产品的“专属平台”，存在兑付危机，交易规模超过120亿元。
-2. 浙金中心原股东陆续退出，杭州民置成为第一大股东，持股58.57%。
-3. 杭州民置与祥源系关系密切，祥源系曾是杭州民置的股东，并通过安徽翔誉等公司控制杭州民置。
-4. 祥源系人员通过一系列公司，包括合肥图展商贸、合肥久旺通等，持续控制安徽翔誉，间接影响杭州民置。
-5. 祥源系与杭州民置通过成立合资公司杭州微游荟继续合作。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[公告臻选丨半导体+先进封装+中芯国际概念！公司签订累计4.33亿元半导体量检测设备销售合同]]></title>
-        <link href="https://www.yicai.com/vip/news/102948894.html" />
-        <id>https://www.yicai.com/vip/news/102948894.html</id>
-        <updated>Tue, 09 Dec 2025 21:44:20 +0800</updated>
-        <summary type="html"><![CDATA[半导体, 先进封装, 集成电路, 电子级磷酸, 防爆机器人
-
-<br><br>总结:
-① 子公司签订4.33亿元半导体量检测设备销售合同，主要应用于先进存储领域，涉及半导体和先进封装。
-② 公司拟投资4.8亿元建设4万吨/年电子级磷酸项目，主要应用于晶圆制造，与集成电路和先进存储相关。
-③ 公司预中标大型国有公司项目，涉芯模工装及人机协同系统，主要业务为防爆机器人。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[谷歌携手中国企业推出AR眼镜 哪些A股企业将受益？]]></title>
-        <link href="https://www.yicai.com/vip/news/102948840.html" />
-        <id>https://www.yicai.com/vip/news/102948840.html</id>
-        <updated>Tue, 09 Dec 2025 21:40:19 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 谷歌, AI眼镜, Meta, Android XR, 中国产业链
-
-<br><br>总结:
-* 谷歌计划开发两种AI眼镜，与Meta竞争。
-* 第一款合作开发的AI眼镜将于2026年上市，三星电子、Warby Parker和Gentle Monster是早期硬件合作伙伴。
-* 谷歌还将与中国AR企业Xreal合作开发独立眼镜“Project Aura”，运行Android XR系统。
-* 谷歌的硬件研发和制造将高度依赖中国产业链。
+1. 2025年12月8日，日本青森县东部海域发生7.5级地震，随后发生多次余震，并发布海啸警报，造成人员受伤和建筑受损。
+2. 地震发生在历史上海啸多发区域，专家指出未来可能诱发更大规模地震，并存在引发海啸的可能性。
+3. 日本气象厅首次发布“北海道·三陆沿海续发地震注意情报”，提醒相关地区一周内需做好避难准备。
+4. 地震发生在沿日本海沟和千岛海沟延伸的地震设想震源区域内，这两条海沟过去曾多次发生大地震，政府曾进行最坏情况假设，死亡人数可能高达数十万。
+5. 日本政府计划设置防灾厅，并在日本海沟和千岛海沟地震预计会造成损害的地区设置地方据点。
 ]]></summary>
     </entry>
     
