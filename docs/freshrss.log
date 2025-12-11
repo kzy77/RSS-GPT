@@ -1,20 +1,51 @@
 ------------------------------------------------------
-Started: 2025-12-11 16:30:53.775064
-Existing_entries: 15
+Started: 2025-12-11 18:30:03.610442
+Existing_entries: 5
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 220
+Token length: 27929
 Summarized using gemini model: gemini-2.0-flash
-Append: [2025CSR盛典暨第一财经善商业论坛与会嘉宾金句集锦](http://m.yicai.com/image/102954398.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [一财社论：筑牢底线、拉升高线，守住质量认证的“生命线”](https://www.yicai.com/news/102954423.html)
-Token length: 2296
+Append: [屌炸天！一句话搞定一个商用级的商城列表页面](https://juejin.cn/post/7581676787380174867)
+Token length: 3252
 Summarized using gemini model: gemini-2.0-flash
-Append: [渣打丁爽：明年美国可能无息可降，中国上半年或有一次降准一次降息](https://www.yicai.com/news/102954399.html)
-Token length: 119
+Append: [「文生图 -> 动图 -> 视频」 全链路 SOP 整理汇总](https://juejin.cn/post/7581299982671069218)
+Token length: 9743
 Summarized using gemini model: gemini-2.0-flash
-Append: [公告臻选丨工业母机+AI眼镜+稀土永磁+光伏+第三代半导体！公司斩获2亿元海外市场大订单](https://www.yicai.com/vip/news/102954373.html)
-Token length: 312
+Append: [LangChain1.0实战之多模态RAG系统（四）——Trae Solo搭建部署多模态RAG前端(附AI编程实践指南)](https://juejin.cn/post/7580723992498438180)
+Token length: 5678
 Summarized using gemini model: gemini-2.0-flash
-Append: [自动驾驶赛道扩容升级 万亿市场开启 如何把握投资大机会？](https://www.yicai.com/vip/news/102954312.html)
-append_entries: 5
-Finish: 2025-12-11 16:31:08.656385
+Append: [我的 Claude Code 使用小记 2](https://juejin.cn/post/7580329353353248814)
+Token length: 2347
+Summarized using gemini model: gemini-2.0-flash
+Append: [把社会责任融入生意，如何重构下一个十年的ESG价值路线图](https://www.yicai.com/news/102954481.html)
+Token length: 1963
+Summarized using gemini model: gemini-2.0-flash
+Append: [董战峰：生物多样性信披成商业未来发展新“底座”](https://www.yicai.com/news/102954438.html)
+Token length: 2304
+Summarized using gemini model: gemini-2.0-flash
+Append: [柳云虎：用“过去的经验”无法应对未来，可持续发展需全球破局](https://www.yicai.com/news/102954437.html)
+Token length: 3133
+Summarized using gemini model: gemini-2.0-flash
+Append: [12月11日这些公告有看头](https://www.yicai.com/news/102954462.html)
+Token length: 508
+Summarized using gemini model: gemini-2.0-flash
+Append: [零跑创始人再掷超1亿港元增持](https://www.yicai.com/news/102954465.html)
+Token length: 2402
+Summarized using gemini model: gemini-2.0-flash
+Append: [万泰争锋默沙东：HPV疫苗“最甜”的市场已经没了 | 海斌访谈](https://www.yicai.com/news/102954449.html)
+Token length: 1433
+Summarized using gemini model: gemini-2.0-flash
+Append: [泡泡玛特四个月市值蒸发2000亿，Labubu市场溢价在消退](https://www.yicai.com/news/102954444.html)
+Token length: 2360
+Summarized using gemini model: gemini-2.0-flash
+Append: [百亿基金经理年末动作频频，调仓调研暗藏明年投资线索](https://www.yicai.com/news/102954288.html)
+Token length: 2514
+Summarized using gemini model: gemini-2.0-flash
+Append: [年内IPO保荐承销费同比增近四成，头部券商“油水更足”](https://www.yicai.com/news/102954311.html)
+Token length: 1066
+Summarized using gemini model: gemini-2.0-flash
+Append: [明码标价！特朗普金卡正式接受申请，能为美国留住人才吗？](https://www.yicai.com/news/102953561.html)
+Token length: 2473
+Summarized using gemini model: gemini-2.0-flash
+Append: [中小企业数量超6000万户，广东江苏山东占比近三成|数读“十四五”](https://www.yicai.com/news/102954266.html)
+append_entries: 15
+Finish: 2025-12-11 18:31:19.647500
