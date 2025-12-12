@@ -2,447 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2025-12-12T12:45:50Z</updated>
+    <updated>2025-12-12T14:20:34Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[OpenAI 正式发布 GPT-5.2！实测 效果惊人，附最新免费使用教程！切勿错过 | 零度解说]]></title>
-        <link href="https://www.freedidi.com/22048.html" />
-        <id>https://www.freedidi.com/22048.html</id>
-        <updated>Fri, 12 Dec 2025 19:42:39 +0800</updated>
+        <title><![CDATA[别再付费生图了！N8N+即梦4.5无限免费用！]]></title>
+        <link href="https://juejin.cn/post/7581786379804475427" />
+        <id>https://juejin.cn/post/7581786379804475427</id>
+        <updated>Wed, 10 Dec 2025 14:04:40 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 即梦4.5，图片生成，开源项目，Docker，免费积分
+
+<br><br>总结:
+1.  即梦4.5图片生成模型在人像一致性、美学质感、指令遵循、编辑准确度和微小文字渲染方面都有显著提升。
+2.  可以通过部署一个基于Docker的开源项目，模拟普通用户的请求，免费调用即梦4.5模型。
+3.  该方案利用个人账号的每日免费积分，普通用户每天可免费生成多组图片，无需API费用。
+4.  此方法适用于个人玩家和创作者，能够满足日常的图片生成需求。
+5.  强调合理使用平台资源，技术方案仅供学习交流。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[数据库AI方向探索-MCP原理解析&DB方向实战｜得物技术]]></title>
+        <link href="https://juejin.cn/post/7581670270844174376" />
+        <id>https://juejin.cn/post/7581670270844174376</id>
+        <updated>Tue, 09 Dec 2025 16:55:49 +0800</updated>
+        <summary type="html"><![CDATA[关键词: MCP, RAG, Function Calling, 资源, 工具
+
+<br><br>总结:
+
+一、MCP 是一种开放标准协议，统一 LLM 与外部资源交互，基于 JSON-RPC 2.0 格式，通过 MCP Host, Client, Server 三组件实现。它在 RAG 和 Function Calling 基础上抽象，让应用更简单、安全地对接外部资源。
+<br><br>二、MCP 架构包含资源、工具和提示词三大核心功能。资源提供上下文，工具执行操作，提示词封装调用。LLM 自主调用工具，资源访问受限，需用户授权。
+<br><br>三、MCP 底层通信基于 JSON-RPC 2.0 协议，支持 Stdio 和 SSE 等传输层协议。Stdio 适用于本地进程间通信，SSE 适用于远程或云端部署。通信过程包括建立连接、交换消息、断开连接。
+<br><br>四、文章以 DW-DBA-MCP 项目为例，展示了如何使用 uv 搭建 MCP 服务，并详细解析了项目的架构和设计思路。通过该项目，可以了解如何实现资源的自动注册和发现，以及如何与大模型进行交互。
+<br><br>五、未来规划包括利用 AI 技术实现数据库的智能自治运维和全域数据价值挖掘，并提升 DBA 的数据安全治理和工程化落地能力。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[人民日报社论：坚定信心、鼓足干劲，确保“十五五”开好局起好步]]></title>
+        <link href="https://m.thepaper.cn/detail/32157580" />
+        <id>https://m.thepaper.cn/detail/32157580</id>
+        <updated>Thu, 11 Dec 2025 22:34:31 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 十五五, 开局, 经济工作, 现代化, 高质量发展
+
+<br><br>总结:
+*   中央经济工作会议总结2025年经济工作，分析形势，部署2026年经济工作，为“十五五”开好局提供指引。
+*   强调我国经济长期向好，总结“五个必须”，深化对经济工作规律的认识。
+*   指出“十四五”打下坚实基础，“十五五”要全面发力，确保基本实现社会主义现代化取得决定性进展。
+*   明确2026年经济工作的总体要求和“八个坚持”的重点任务，强调高质量发展。
+*   强调加强党的领导，统一思想行动，结合实际抓好落实，创造良好环境，确保“十五五”开好局。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普金卡，100万美元的新国家安全“生意”？]]></title>
+        <link href="https://www.huxiu.com/article/4816867.html" />
+        <id>https://www.huxiu.com/article/4816867.html</id>
+        <updated>Fri, 12 Dec 2025 21:33:58 +0800</updated>
+        <summary type="html"><![CDATA[关键词：GPT-4, 语言模型, AI安全, 红队, 风险评估
+
+<br><br>总结:
+GPT-4 作为更强大的语言模型，带来更高的风险。<br><br>
+AI安全团队利用红队测试评估GPT-4的潜在危害，包括策划网络攻击、传播虚假信息等。<br><br>
+研究发现GPT-4在某些方面表现出比以往模型更强的能力，但也受到上下文长度和推理能力的限制。<br><br>
+报告强调，需要持续改进AI安全措施，以应对GPT-4及其后续模型带来的风险，并建立更可靠的AI风险评估方法。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“大字小字”、人造“第一”？汽车营销这套行不通了]]></title>
+        <link href="https://www.yicai.com/news/102956431.html" />
+        <id>https://www.yicai.com/news/102956431.html</id>
+        <updated>Fri, 12 Dec 2025 21:32:50 +0800</updated>
+        <summary type="html"><![CDATA[关键词：广告引证, 营销乱象, 细分领域, 大字吸睛, 市场监管
+
+<br><br>总结:
+- 市场监管总局发布《广告引证内容执法指南（征求意见稿）》，旨在规范营销乱象，特别是汽车行业中的“大字吸睛，小字免责”等问题。
+- 《公告》明确要求广告引证内容必须清晰可辨，不得利用字体、颜色等手段误导消费者。
+- 对于细分领域的“行业第一”宣传，《公告》要求相关信息必须真实、完整、准确，避免误导消费者对企业市场地位的认知。
+- 广告中引用的文献、资料必须真实存在且可查询，其观点必须符合科学常识。
+- 广告主应对全部广告内容的真实性、合法性负责，并承担法律责任。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[AI进化速递丨OpenAI发布GPT-5.2]]></title>
+        <link href="https://www.yicai.com/news/102956401.html" />
+        <id>https://www.yicai.com/news/102956401.html</id>
+        <updated>Fri, 12 Dec 2025 21:15:53 +0800</updated>
+        <summary type="html"><![CDATA[GPT-5.2, AgentScope 1.0, 数据中心电力, 软银收购, Rivian AI芯片
+
+<br><br>总结:
+① OpenAI发布了更先进的GPT-5.2模型。
+② 阿里通义大模型更新AgentScope 1.0，升级智能体应用基础设施。
+③ 英伟达下周将举办峰会，解决数据中心电力短缺问题。
+④ 软银考虑收购数据中心运营商Switch，进一步布局AI。
+⑤ Rivian正在开发AI芯片，计划未来替代英伟达产品。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[国家出手：卖车须明码标价，并提前告知交付时间]]></title>
+        <link href="https://www.yicai.com/news/102956256.html" />
+        <id>https://www.yicai.com/news/102956256.html</id>
+        <updated>Fri, 12 Dec 2025 20:57:55 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[拿下梅龙镇广场20年期租约，恒隆在南京西路扩大“地盘”]]></title>
-        <link href="https://www.yicai.com/news/102956209.html" />
-        <id>https://www.yicai.com/news/102956209.html</id>
-        <updated>Fri, 12 Dec 2025 19:31:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 恒隆地产, 梅龙镇广场, 南京西路, 商业升级, 战略扩张
+        <title><![CDATA[荣耀品牌营销总裁郭锐离职]]></title>
+        <link href="https://www.yicai.com/news/102956277.html" />
+        <id>https://www.yicai.com/news/102956277.html</id>
+        <updated>Fri, 12 Dec 2025 20:07:56 +0800</updated>
+        <summary type="html"><![CDATA[荣耀，郭锐，离职，海外增长，国内承压
 
 <br><br>总结:
-- 恒隆地产以20年租赁形式获得上海南京西路梅龙镇广场的运营权，项目总投资将超20亿，其中恒隆投资不低于5亿用于装修。
-- 项目将升级改造为集零售、酒店、办公于一体的综合商业地标，预计2027年初商业部分开业，2028年5月前办公与酒店部分启用，酒店为国际顶尖品牌酒店。
-- 九百集团将与恒隆合作，探索文商旅融合，助力南京西路发展，提升其全球影响力。
-- 恒隆通过此次升级扩大在南京西路的物业组合，商业面积扩大至约12万平方米，增加品牌和业态空间，增强竞争力。
-- 此次升级是恒隆“V.3”策略的体现，侧重在已建成项目周边进行再投资，扩大规模和影响力，此前恒隆还获得了无锡新世界百货的经营权。
+1. 荣耀高级副总裁兼CMO郭锐离职，可能二次创业。
+2. 郭锐曾任职华为终端，后加入荣耀，负责品牌营销。
+3. 荣耀目前海外市场增长迅速，但在国内市场面临压力，份额有所下降。
+4. 郭锐离职正值荣耀全球化和AI转型关键期。
+5. 原极氪汽车首席品牌官关海涛重回荣耀，负责全球市场营销。
 ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美团、京东放大招：给骑手快递员“安家”，背后有这些考量]]></title>
-        <link href="https://www.yicai.com/news/102956131.html" />
-        <id>https://www.yicai.com/news/102956131.html</id>
-        <updated>Fri, 12 Dec 2025 19:26:59 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 福利创新, 住房保障, 骑手, 快递员, 平台竞争
-
-<br><br>总结:
-1. 美团和京东通过提供住房，旨在稳定核心人力资产，提升服务质量和市场竞争力。
-2. 京东已提供2.8万套住房，未来5年计划投入220亿提供15万套“小哥之家”，租金远低于市场价。
-3. 美团在北京、深圳、重庆试点“骑手公寓”，首批房源预计满足超过600名骑手需求，租金补贴后仅需700元。
-4. 平台提供的住房有效解决了骑手和快递员的居住难题，增强了他们的归属感，提升了工作积极性。
-5. 这种“福利比拼”是平台应对激烈竞争的战略选择，同时响应了政策导向和社会对灵活就业者权益的关注，推动行业向质量提升转型。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[上海3年孵化300部精品微短剧，业界共话如何用AI降本增效]]></title>
-        <link href="https://www.yicai.com/news/102956139.html" />
-        <id>https://www.yicai.com/news/102956139.html</id>
-        <updated>Fri, 12 Dec 2025 19:26:37 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 微短剧, AI技术, 上海, 精品化, 产业发展
-
-<br><br>总结:
-1.  2025年中国微短剧市场规模预计将大幅增长，产值接近900亿元，上海市将继续支持微短剧行业发展，设立专项资金，目标在2027年达到150亿元产业规模。
-2.  AI技术在微短剧制作中应用广泛，可大幅提高剪辑效率、降低成本，并能实现传统实拍难以呈现的场景，助力文旅宣传。
-3.  AI技术应用也存在人才短缺的痛点，需要具备驾驭AI的能力的人才，而人才培养周期较长。
-4.  上海市杨浦区正推动网络视听产业“文化+科技”融合，将出台专项扶持政策，打造微短剧产业生态闭环。
-5.  大会旨在探讨如何通过技术与机制创新，促进微短剧行业从“野蛮生长”向“精品化”转型。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[实探新能源车购置税倒计时 车企厂家兜底政策在11月截止 门店：现车紧张 有客户直接下订｜一探]]></title>
-        <link href="https://www.yicai.com/video/102956213.html" />
-        <id>https://www.yicai.com/video/102956213.html</id>
-        <updated>Fri, 12 Dec 2025 19:26:16 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 新能源车, 购置税, 补贴, 消费冲刺, 提车
-
-<br><br>总结:
-1. 新能源车购置税政策调整临近，市场迎来年底消费冲刺。
-2. 多数车企的新能源车购置税兜底补贴在11月截止，仅部分提车周期长车型仍有。
-3. 近期提车人数明显上升。
-4. 门店现车数量紧张。
-5. 出现电话直接下订的现象。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[“石油王国”经济版图重塑，沙特非石油经济是怎样撬动的]]></title>
-        <link href="https://www.yicai.com/news/102956125.html" />
-        <id>https://www.yicai.com/news/102956125.html</id>
-        <updated>Fri, 12 Dec 2025 19:11:24 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 沙特2030愿景, 经济多元化, 非石油经济, 国家发展基金(NDF), 中沙合作
-
-<br><br>总结:
-1.  沙特正积极推进“沙特2030愿景”，经济多元化取得显著进展，非石油部门在GDP中占比大幅提升。
-2.  非石油经济成为增长引擎，预计2025年增速将达5%，受益于投资增长、消费提升和政府政策支持。
-3.  沙特国家发展基金（NDF）在转型中扮演关键角色，统筹协调各专业基金，吸引国内外资本参与经济建设。
-4.  NDF优先考虑资金的乘数效应，积极调整商业模式，从公共支出模式转向资本引导模式，促进资金的有效应用。
-5.  中沙两国在多领域合作深化，特别是在基础设施领域，NDF正积极搭建合作桥梁，吸引中国资本参与沙特发展。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何推动投资止跌回升？罗志恒：重点是基建和房地产 | 首席观大势]]></title>
-        <link href="https://www.yicai.com/video/102956141.html" />
-        <id>https://www.yicai.com/video/102956141.html</id>
-        <updated>Fri, 12 Dec 2025 19:05:36 +0800</updated>
-        <summary type="html"><![CDATA[财政政策，积极有为，投资止跌，稳定预期，基建投资
-
-<br><br>总结:
-要点1：当前实施更加积极的财政政策，既符合“十五五”规划建议，也是宏观经济形势发展的需要。
-要点2：今年的财政政策延续了去年“更加积极”的总基调，保持政策稳定性和连续性，稳定市场预期。
-要点3：中央经济工作会议要求保持必要的财政赤字、债务总规模和支出总量，优化支出结构，规范税收优惠和补贴。
-要点4：推动投资止跌回稳是重要目标，适当增加中央预算内投资规模，优化实施“两重”项目。
-要点5：基建投资和房地产投资是推动投资止跌回稳的重点领域。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[首版商保创新药目录从发布走向落地，你的健康险会有什么变化？]]></title>
-        <link href="https://www.yicai.com/news/102956034.html" />
-        <id>https://www.yicai.com/news/102956034.html</id>
-        <updated>Fri, 12 Dec 2025 19:02:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：商保目录, 创新药, 惠民保, 百万医疗险, 医保
-
-<br><br>总结:
-1.  商保目录的发布对患者、药企和险企均有积极意义，为创新药提供支付支持，并为保险公司提供价值参考。
-2.  惠民保成为首批与商保目录对接的保险产品，部分地区已官宣将目录内药品纳入保障范围，百万医疗险也在考虑中。
-3.  商保目录落地面临定价管理和风险管控挑战，包括缺乏长期数据、用药量增长以及适用人群和疗效判定标准复杂等问题。
-4.  商保目录药品带有折扣属性，短期内对商业健康险定价影响预计不大，但长期来看，阿尔茨海默病等药品可能会对保费产生影响。
-5.  需进一步明确目录衔接细则，提升规则透明度，深化保险与医药行业间的跨界协同，打通数据接口和处方流转等问题，实现商保目录的真正落地。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[开市场先河！国联民生承销保荐招聘“直通总裁”，独家回应来了]]></title>
-        <link href="https://www.yicai.com/news/102955960.html" />
-        <id>https://www.yicai.com/news/102955960.html</id>
-        <updated>Fri, 12 Dec 2025 18:37:44 +0800</updated>
-        <summary type="html"><![CDATA[关键词：国联民生，招聘，新质生产力，总裁直聘，团队
-
-<br><br>总结:
-1. 国联民生承销保荐在行业收缩背景下逆势扩张，大规模招聘全业务线团队，覆盖股权、债权、国际业务。
-2. 此次招聘由总裁张明举亲自负责，意在整体引进成熟团队，提高招聘效率并尊重人才隐私。
-3. 扩张的根本原因是服务新质生产力，对未来“十五五”期间科技企业上市和传统产业升级进行长周期服务。
-4. 国联民生旨在打造全生命周期服务体系，服务关键核心技术的产业孵化和融资支持。
-5. 得益于“国联+民生”合并后的成效，国联民生前三季度投行业务净收入同比增长约161%。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[中央经济工作会议精神解读：以高质量发展扎实推进中国式现代化]]></title>
-        <link href="https://www.yicai.com/news/102955794.html" />
-        <id>https://www.yicai.com/news/102955794.html</id>
-        <updated>Fri, 12 Dec 2025 18:35:55 +0800</updated>
-        <summary type="html"><![CDATA[关键词：中央经济工作会议，“十五五”规划，科技自立自强，财政政策，消费
-
-<br><br>总结:
-1.  中央经济工作会议研判经济形势，释放积极政策信号，为“十五五”规划稳步实施奠定基础。
-2.  政策体系注重逆周期和跨周期调节，落实“质的有效提升和量的合理增长”战略，防范化解重点领域风险。
-3.  2026年，财政政策向科技创新倾斜，外需支撑GDP实现5%左右的增长；内循环提升科技自立自强，外循环受益于发达经济体政策。
-4.  宏观政策保持支持性取向，系统谋划增量政策工具，广义财政支出聚焦“投资于人”，加大超长期特别国债对“两新”领域的支持力度。
-5.  消费品以旧换新政策预计将扩围提质，“新三大件”消费持续升温，资本市场有望在流动性充裕环境下向好发展，A股市场呈现低波红利与科技成长双轮驱动。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉]]></title>
-        <link href="https://m.thepaper.cn/detail/32163675" />
-        <id>https://m.thepaper.cn/detail/32163675</id>
-        <updated>Fri, 12 Dec 2025 17:26:25 +0800</updated>
-        <summary type="html"><![CDATA[关键词：小米，销售，视频，失实，道歉
-
-<br><br>总结:
-1. 小米公司针对社交平台上流传的“小米公司不让卖小米”的视频内容发表声明，否认了相关说法，并指出视频内容是歪曲和污蔑。
-2. 山东威海村支书冯玉宽发布视频，对之前发布的错误信息进行了道歉。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[马上评｜别让经典在玩梗狂欢中沦为流量的牺牲品]]></title>
-        <link href="https://m.thepaper.cn/detail/32163136" />
-        <id>https://m.thepaper.cn/detail/32163136</id>
-        <updated>Fri, 12 Dec 2025 17:04:44 +0800</updated>
-        <summary type="html"><![CDATA[红楼梦, 悼明说, 索隐派, 新媒体, 经典传承
-
-<br><br>总结:
-1. 近期“红楼梦是悼明之作”的观点在新媒体平台流行，实为索隐派的再度走红。
-2. 这种解读借助新媒体环境放大，容易引发民族主义情绪共鸣，偏离学术轨道，沦为猜谜、附会和恶搞。
-3. 大众对历史隐秘的兴趣和经典普及的困境是狂欢的原因，索隐式“解密”虽吸引流量，却牺牲了作品丰富性。
-4. 经典传承需要包容和创新表达，但更需守住底线，警惕无底线的流量炒作，避免将文学经典降格为单一政治寓言。
-5. 《红楼梦》的真正魅力在于对人性、情感与时代的深刻洞察，需要读者保持敬畏之心，回归文本本身，实现文学价值的传承。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[菲多架小型机非法侵入我黄岩岛领空，南部战区：强力警告、坚决驱离]]></title>
-        <link href="https://m.thepaper.cn/detail/32163587" />
-        <id>https://m.thepaper.cn/detail/32163587</id>
-        <updated>Fri, 12 Dec 2025 16:55:26 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 黄岩岛, 菲律宾, 侵犯领空, 南部战区, 驱离
-
-<br><br>总结:
-- 菲律宾多架小型机未经中国政府批准，非法侵入中国黄岩岛领空。
-- 中国人民解放军南部战区组织海空兵力，对菲律宾飞机进行跟踪监视、强力警告和坚决驱离。
-- 中国声明黄岩岛是中国固有领土，要求菲律宾停止侵权挑衅。
-- 南部战区部队保持高度戒备，捍卫国家领土主权安全和南海地区和平稳定。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[陕西太白县采购围网拟整治违法穿越“鳌太线”被质疑影响动物迁徙]]></title>
-        <link href="https://m.thepaper.cn/detail/32162158" />
-        <id>https://m.thepaper.cn/detail/32162158</id>
-        <updated>Fri, 12 Dec 2025 15:26:15 +0800</updated>
-        <summary type="html"><![CDATA[关键词：鳌太线，违规穿越，围网，野生动物，人员伤亡
-
-<br><br>总结:
-1. 陕西太白县为整治鳌太线、冻山违规穿越，计划设置围网，包括绿围网、倒刺和铁门等。
-2. 该举措引发网友质疑，认为围网可能影响野生动物迁徙，造成伤害，一只野生麂子曾被拦网卡住。
-3. 太白县秦岭保护办解释，设置围网是防止违法穿越的措施之一，并强调有人员巡视防止伤害动物，环评正在办理。
-4. 鳌太线地势险峻，气候多变，是“国内死亡率最高的徒步线路”，曾多次发生人员伤亡事故。
-5. 陕西省已明令禁止“鳌太穿越”，并开展专项整治行动，对非法穿越者进行查处，检察机关也已立案办理相关公益诉讼案件。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[香港特区政府要求独立委员会9个月内完成大埔火灾成因报告]]></title>
-        <link href="https://m.thepaper.cn/detail/32162597" />
-        <id>https://m.thepaper.cn/detail/32162597</id>
-        <updated>Fri, 12 Dec 2025 15:13:53 +0800</updated>
-        <summary type="html"><![CDATA[关键词：香港，李家超，火灾，独立委员会，宏福苑
-
-<br><br>总结:
-*   香港特区行政长官李家超召开记者会。
-*   宣布委任陆启康法官等三人组成独立委员会。
-*   该委员会将审视大埔宏福苑火灾成因。
-*   并调查相关维修工程是否存在违法行为。
-*   委员会需在9个月内完成报告。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[14岁男生杀害女同学被判无期后，被害人家属申请抗诉被驳回]]></title>
-        <link href="https://m.thepaper.cn/detail/32162038" />
-        <id>https://m.thepaper.cn/detail/32162038</id>
-        <updated>Fri, 12 Dec 2025 14:56:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 故意杀人, 无期徒刑, 不抗诉, 未成年人, 犯罪动机
-
-<br><br>总结:
-*   深圳中院一审判决同班同学杀害案，被告人钟某某因故意杀人罪被判处无期徒刑，剥夺政治权利终身。
-*   被害人父母向深圳市检察院申请抗诉，但深圳市检察院审理后认为一审判决认定事实清楚，适用法律正确，量刑适当，决定不予抗诉。
-*   检察院不抗诉的理由包括：事实清楚、证据充分，适用法律正确，量刑适当，诉讼程序合法。
-*   被告人钟某某曾尝试购买毒药未果，并检索未成年人杀人刑责，作案前一天曾踩点，作案动机为认为被害人看不起自己。
-*   法院认定钟某某预谋行凶，手段残忍，但因其作案时未满十八周岁，依法从轻处罚，判处无期徒刑。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[湖北十堰通报“最忙五人组”事件：竹溪县住建局局长等多人被处分并免职]]></title>
-        <link href="https://m.thepaper.cn/detail/32162093" />
-        <id>https://m.thepaper.cn/detail/32162093</id>
-        <updated>Fri, 12 Dec 2025 14:18:07 +0800</updated>
-        <summary type="html"><![CDATA[十堰竹溪，虚假招标，资金挪用，纪律处分，全面排查
-
-<br><br>总结:
-1. 湖北十堰竹溪县属国有企业为获取资金，虚构项目，涉及金额500万元。
-2. 竹溪县住建局帮助企业弄虚作假，招投标代理公司套用网络人名发布虚假中标公告。
-3. 相关资金挪用于其他工程建设，后已全部归还。
-4. 多名相关责任人受到党纪政纪处分，包括县委常委、县住建局局长、相关企业负责人及工作人员。
-5. 竹溪县委县政府被责令进行深刻检查和整改，并建立常态化项目监督检查机制，目前正在全面排查相关问题。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[向上的力量丨上海最后的报刊门市部：38年无休，不仅卖报还有这些……]]></title>
-        <link href="https://m.thepaper.cn/detail/32129965" />
-        <id>https://m.thepaper.cn/detail/32129965</id>
-        <updated>Fri, 12 Dec 2025 13:47:31 +0800</updated>
-        <summary type="html"><![CDATA[关键词：上海, 报刊门市部, 姜俊, 38年, 搬迁
-
-<br><br>总结:
-*   上海最后一家报刊门市部位于虹口吴淞路边。
-*   店主姜俊已在此经营了38年。
-*   姜俊对老读者非常熟悉，能提供个性化阅读服务。
-*   门市部即将搬迁新址。
-*   故事讲述了姜俊与报刊门市部的长久历史。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[广西一中职学校7.7万采购22套服装引质疑，招标负责人称采购合规]]></title>
-        <link href="https://m.thepaper.cn/detail/32161603" />
-        <id>https://m.thepaper.cn/detail/32161603</id>
-        <updated>Fri, 12 Dec 2025 13:06:18 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 招标, 服装, 质疑, 价格, 合规
-
-<br><br>总结:
-* 广西农牧工程学校计划花费不超过7.7万元采购22套教师服装，用于讲授、参赛等用途。
-* 有教师质疑服装单价过高（平均3500元/套），且可能只供个别教师使用。
-* 招标公告显示采购服装包括西装、西裤、鞋子等，需量身定制。
-* 学校回应称采购合规，服装质量好，全校教师均可使用，且经过学校与政府部门批准，专款专用。
-* “量身定制”主要针对出镜多、比赛多的老师，采购目的是为了取代以往租借服装的方式。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[又一L4玩家冲刺IPO，估值超38亿，前百度大牛创办，博世蔚来资本都投了]]></title>
-        <link href="https://www.36kr.com/p/3592009452158984" />
-        <id>https://www.36kr.com/p/3592009452158984</id>
-        <updated>Fri, 12 Dec 2025 12:17:03 +0800</updated>
-        <summary type="html"><![CDATA[关键词: 主线科技, 自动驾驶卡车, IPO, L4级, 商业化
-
-<br><br>总结:
-1. 主线科技是一家L4级自动驾驶卡车企业，已向港交所递交上市申请。
-2. 该公司构建了"车-端-云"一体化的产品生态系统，提供智能卡车、智能终端和智能云服务。
-3. 近年来，主线科技营收增长迅速，毛利率持续提升，但仍处于净亏损状态。
-4. 公司创始人张天雷拥有丰富的自动驾驶技术研发经验，公司已获得多轮融资，投后估值达38.6亿元。
-5. 主线科技在封闭道路场景市场份额领先，此次IPO募集资金将用于提升研发、建设供应链、拓展市场等。
-]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[爪云，内网穿透，固定隧道，Docker，Cloudflare
-
-<br><br>总结:  
-1. 前置准备：获取root权限并安装Docker。  
-2. 临时隧道模式：通过docker命令快速启动爪云临时隧道容器。  
-3. 固定隧道模式：需要准备UUID、Cloudflare隧道Token和隧道域名，UUID可通过生成网站、代理工具或自己编写获取。  
-4. Cloudflare配置：进入Zero Trust后台创建固定隧道。  
-5. 运行及管理：使用指定环境变量启动固定隧道容器，并通过常用docker命令查看、停止和删除容器。  
-此外附有相关视频教程链接，方便用户快速部署和使用。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <title><![CDATA[何立峰：2026要严防“爆雷”]]></title>
+        <link href="https://wallstreetcn.com/articles/3761279" />
+        <id>https://wallstreetcn.com/articles/3761279</id>
+        <updated>Fri, 12 Dec 2025 19:12:29 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[us.kg，免费域名，Cloudflare，FreeDNS，域名注册
-
-<br><br>总结:  
-1. us.kg的免费域名服务现状介绍，部分已注册域名依然可用，但整体服务出现波动。  
-2. 已注册的域名基本还在，用户仍能正常访问和管理。  
-3. 新注册的us.kg域名可否托管到Cloudflare存在不确定性，目前可选择临时托管到FreeDNS以保持域名可用。  
-4. 目前域名使用仍可通过FreeDNS等方式进行管理，保障域名解析正常。  
-5. 新用户注册us.kg免费域名仍可能，但存在限制，未来使用体验和服务稳定性仍需关注。]]></summary>
+        <title><![CDATA[中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大]]></title>
+        <link href="https://wallstreetcn.com/articles/3761280" />
+        <id>https://wallstreetcn.com/articles/3761280</id>
+        <updated>Fri, 12 Dec 2025 17:43:49 +0800</updated>
+        <summary type="html"><![CDATA[社融, 人民币贷款, M2, M1, 存量<br><br>总结:
+1. 11月新增社融2.49万亿元，新增人民币贷款3900亿元。
+2. 11月末社融规模存量同比增长8.5%，为440.07万亿元。
+3. M2同比增长8%，M1同比增长4.9%，M2-M1剪刀差扩大至3.1个百分点。
+4. 贷款增速放缓反映经济动能转换，传统领域信贷需求降温，新经济增长点较少依赖银行贷款。
+5. 前十一个月人民币贷款增加15.36万亿元，人民币存款增加24.73万亿元。
+]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Serv00登录，科学上网节点，Cloudflare隧道，CDN回源，远程保活
+        <title><![CDATA[小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用]]></title>
+        <link href="https://m.thepaper.cn/detail/32163635" />
+        <id>https://m.thepaper.cn/detail/32163635</id>
+        <updated>Fri, 12 Dec 2025 17:08:55 +0800</updated>
+        <summary type="html"><![CDATA[关键词: 小米，造谣，污蔑，助农，维权
+
+<br><br>总结:
+1. 小米公司针对某社交媒体账号发布的歪曲事实、恶意造谣“小米公司不让卖小米”视频进行澄清，声明该视频内容完全失实，属于彻头彻尾的污蔑。
+2. 小米此前投诉针对的是该账号恶意模仿、捏造污蔑，侵害小米公司及高管名誉的行为，并非针对“小米”二字或“小米”农产品的正常使用。
+3. 小米指责该账号偷换概念，以“助农”议题为名，行污蔑造谣、博取流量之实。
+4. 小米强调长期以来一直积极支农、助农，通过各种方式助力乡村振兴，并例举了在贵州、云南、新疆等地捐赠支持乡村学校及农场发展的案例。
+5. 小米表示将运用法律武器，坚决维护自身合法权益，并呼吁大家一起抵制虚假网络信息和刻意挑动网络舆情的行为。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[湖北十堰联合调查组通报“全网最忙五人组”事件]]></title>
+        <link href="https://m.thepaper.cn/detail/32162137" />
+        <id>https://m.thepaper.cn/detail/32162137</id>
+        <updated>Fri, 12 Dec 2025 14:32:44 +0800</updated>
+        <summary type="html"><![CDATA[关键词： 十堰，竹溪县，中标公告，评审小组，网络人名
+
+<br><br>总结:
+1. 湖北十堰竹溪县某项目中标公告中，评审小组成员姓名出现套用网络人名的情况，引发社会关注。
+2. 十堰市委市政府高度重视，迅速成立联合调查组。
+3. 调查组将对事件进行深入调查，以查明真相，回应公众关切。
+]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[Claw Cloud Run, GitHub注册时间, 免费赠金, Docker应用, 应用推荐  
+
+<br><br>总结:  
+1. Claw Cloud Run是一款免费容器服务，用户GitHub注册时间超过180天即可获得每月5美元赠金，实现长期免费使用。  
+2. 该平台支持各种Docker应用的部署，既可以通过应用商店一键自动部署，也支持手动部署。  
+3. 查看GitHub注册时间的方法是访问：https://api.github.com/users/你的用户名，页面中“created_at”字段显示注册日期。  
+4. 由于该API对同一IP请求有限制，建议网络拥堵时关闭代理或更换IP访问。  
+5. 推荐使用Claw Cloud Run部署的两款应用分别是轻笔记工具Memos和网盘挂载工具AList，详情可参考相关YouTube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[谷歌云，免费VPS，设置方法，费用说明，科学上网
 
 总结:  
-1. 登录步骤：使用s*.serv00.com、cache*.serv00.com和web*.serv00.com三个域名之一登录，如IP被墙可设置系统代理。  
-2. 科学上网节点搭建：进行系统初始化，重置端口，运行安装脚本。  
-3. Cloudflare固定隧道：需有托管Cloudflare的域名，新建HTTP类型隧道，设置隧道域名和令牌，指向本地指定端口。  
-4. CDN回源配置：添加DNS A记录指向Serv00的IP，创建回源规则，将请求重写至指定端口。  
-5. 网页及远程保活：通过多功能主页接口管理节点（启动、重启、重置端口、查看信息），并利用Cloudflare Worker定时访问实现远程自动保活。]]></summary>
+1. 谷歌云免费VPS政策包括免费配置和免费流量，但使用时需注意部分设置会产生费用。  
+2. 注册谷歌云账号需添加付款资料，使用外币信用卡或借记卡，避免提前激活完整账号以保留三个月免费试用资格。  
+3. 创建免费VM实例选择特定地区（俄勒冈、爱荷华、南卡罗来纳）、E2-micro配置、Linux系统、标准永久性磁盘30GB，并关闭快照备份以避免额外收费。  
+4. 配置防火墙允许全部出入站规则方便使用，SSH登录可直接使用谷歌云控制台或上传密钥方式。  
+5. 科学上网建议使用Hysteria 2节点，充分利用标准层级流量免费额度，避免使用产生额外费用的服务如Cloudflare CDN和Argo隧道。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[US.KG域名，注册流程，KYC验证，Cloudflare托管，免费续订
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[注册地址 免费域名 us.kg 续期 Cloudflare  
 
 <br><br>总结:  
-1. 由于US.KG域名目前处于受限状态，建议先通过 https://dash.domain.digitalplat.org/ 进行注册和KYC验证。  
-2. 注册流程包括注册账号、验证邮箱、完成KYC验证、注册域名、以及将域名托管到Cloudflare。  
-3. 账号注册时，除邮箱外，其他身份信息可使用身份信息生成器辅助填写。  
-4. KYC验证需将填写的身份信息排版截图作为文件上传。  
-5. 完成注册后，可以免费续订域名，但免费域名存在一定缺点，详细操作可参考对应Youtube教学视频。]]></summary>
+1. 提供了注册地址和美国地址生成器，方便用户注册使用。  
+2. 推荐了两个域名选择：免费域名dpdns.org和收费域名us.kg，us.kg价格为12元/个且不占用免费域名额度。  
+3. 免费域名额度方面，新用户默认1个，Github加Star后增至2个，老用户默认3个，Star后增至4个。  
+4. us.kg域名永久免费，但需要每年续期，续期时间为到期前180天内。  
+5. Cloudflare官网及GitHub仓库可供用户参考，Cloudflare Pages中自定义域名及SSL证书问题可通过指定视频教程解决，详细us.kg域名续期教程也在YouTube视频中。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[Deepseek，API，本地部署，第三方应用，Ollama<br><br>总结:  
-1. 视频介绍了Deepseek的功能和使用方法，包括网页端、APP及API接口。  
-2. Deepseek API支持使用+86手机号注册，注册后赠送10元体验金，有效期一个月，可用于沉浸式翻译、Chatbox及欧路词典等软件。  
-3. 还介绍了第三方应用中集成了Deepseek功能，提升用户体验。  
-4. 讲解了Deepseek的本地部署流程，需先下载并安装Ollama，然后通过命令行输入指令完成下载和运行，首次运行会自动下载所需模型。  
-5. 使用本地部署时，推荐通过Chatbox选择Ollama API模型，具体模型和硬件要求建议参考视频内容。]]></summary>
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[稳定性，速度，保活，降智，购买价值
+
+<br><br>总结:
+1. 稳定性和速度方面，服务整体表现较为稳定，节点测速结果显示速度符合预期，但部分时间段存在波动。
+2. 是否需要保活：建议开启保活功能，以保证连接稳定，避免频繁断开影响使用体验。
+3. 关于ChatGPT降智问题，视频中讨论了降智现象原因及其表现，用户体验可能受不同节点和代理配置影响。
+4. 购买价值方面，结合价格和总体体验，性价比较高，适合有长期使用需求的用户购买。
+5. 购买及使用流程包括修改登录密码、搭建代理节点等步骤，官方态度积极，续费流程也较为便捷。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[免费域名，Cloudflare，注册账号，身份信息生成器，托管<br><br>总结:  
+1. 由于US.KG域名无法注册，推荐使用另一款免费域名服务，享受一年免费使用。  
+2. 通过身份信息生成器辅助填写个人信息，快速完成注册账号步骤。  
+3. 注册域名时输入优惠码“newuser”，即可获得一年免费域名使用权。  
+4. 域名注册完成后，可将域名托管到Cloudflare，通过添加域名并使用Cloudflare分配的两个名称服务器完成设置。  
+5. 详细操作流程及演示可参考提供的YouTube视频，时间节点明确，便于按步骤操作。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     

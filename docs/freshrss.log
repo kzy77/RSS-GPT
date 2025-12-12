@@ -1,65 +1,40 @@
 ------------------------------------------------------
-Started: 2025-12-12 12:43:22.350572
-Existing_entries: 15
+Started: 2025-12-12 14:19:12.376315
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
+Token length: 0
+Summarized using gemini model: gemini-2.0-flash
+Append: [特朗普金卡，100万美元的新国家安全“生意”？](https://www.huxiu.com/article/4816867.html)
+Token length: 1308
+Summarized using gemini model: gemini-2.0-flash
+Append: [“大字小字”、人造“第一”？汽车营销这套行不通了](https://www.yicai.com/news/102956431.html)
+Token length: 233
+Summarized using gemini model: gemini-2.0-flash
+Append: [AI进化速递丨OpenAI发布GPT-5.2](https://www.yicai.com/news/102956401.html)
 Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
-Append: [OpenAI 正式发布 GPT-5.2！实测 效果惊人，附最新免费使用教程！切勿错过 | 零度解说](https://www.freedidi.com/22048.html)
-Token length: 1432
+Append: [国家出手：卖车须明码标价，并提前告知交付时间](https://www.yicai.com/news/102956256.html)
+Token length: 785
 Summarized using gemini model: gemini-2.0-flash
-Append: [拿下梅龙镇广场20年期租约，恒隆在南京西路扩大“地盘”](https://www.yicai.com/news/102956209.html)
-Token length: 1111
+Append: [荣耀品牌营销总裁郭锐离职](https://www.yicai.com/news/102956277.html)
+Summarization failed for 'freshrss' (gemini/gemini-2.0-flash): Gemini summary failed with model gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}
+Append: [何立峰：2026要严防“爆雷”](https://wallstreetcn.com/articles/3761279)
+Token length: 2779
 Summarized using gemini model: gemini-2.0-flash
-Append: [美团、京东放大招：给骑手快递员“安家”，背后有这些考量](https://www.yicai.com/news/102956131.html)
-Token length: 1353
+Append: [中国11月新增社融2.49万亿元，新增人民币贷款3900亿元，M2-M1剪刀差扩大](https://wallstreetcn.com/articles/3761280)
+Token length: 485
 Summarized using gemini model: gemini-2.0-flash
-Append: [上海3年孵化300部精品微短剧，业界共话如何用AI降本增效](https://www.yicai.com/news/102956139.html)
-Token length: 383
+Append: [小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用](https://m.thepaper.cn/detail/32163635)
+Token length: 87
 Summarized using gemini model: gemini-2.0-flash
-Append: [实探新能源车购置税倒计时 车企厂家兜底政策在11月截止 门店：现车紧张 有客户直接下订｜一探](https://www.yicai.com/video/102956213.html)
-Token length: 2562
+Append: [湖北十堰联合调查组通报“全网最忙五人组”事件](https://m.thepaper.cn/detail/32162137)
+Token length: 1729
 Summarized using gemini model: gemini-2.0-flash
-Append: [“石油王国”经济版图重塑，沙特非石油经济是怎样撬动的](https://www.yicai.com/news/102956125.html)
-Token length: 486
+Append: [人民日报社论：坚定信心、鼓足干劲，确保“十五五”开好局起好步](https://m.thepaper.cn/detail/32157580)
+Token length: 1481
 Summarized using gemini model: gemini-2.0-flash
-Append: [如何推动投资止跌回升？罗志恒：重点是基建和房地产 | 首席观大势](https://www.yicai.com/video/102956141.html)
-Token length: 3404
+Append: [别再付费生图了！N8N+即梦4.5无限免费用！](https://juejin.cn/post/7581786379804475427)
+Token length: 42786
 Summarized using gemini model: gemini-2.0-flash
-Append: [首版商保创新药目录从发布走向落地，你的健康险会有什么变化？](https://www.yicai.com/news/102956034.html)
-Token length: 1232
-Summarized using gemini model: gemini-2.0-flash
-Append: [开市场先河！国联民生承销保荐招聘“直通总裁”，独家回应来了](https://www.yicai.com/news/102955960.html)
-Token length: 1129
-Summarized using gemini model: gemini-2.0-flash
-Append: [中央经济工作会议精神解读：以高质量发展扎实推进中国式现代化](https://www.yicai.com/news/102955794.html)
-Token length: 78
-Summarized using gemini model: gemini-2.0-flash
-Append: [村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉](https://m.thepaper.cn/detail/32163675)
-Token length: 1160
-Summarized using gemini model: gemini-2.0-flash
-Append: [马上评｜别让经典在玩梗狂欢中沦为流量的牺牲品](https://m.thepaper.cn/detail/32163136)
-Token length: 149
-Summarized using gemini model: gemini-2.0-flash
-Append: [菲多架小型机非法侵入我黄岩岛领空，南部战区：强力警告、坚决驱离](https://m.thepaper.cn/detail/32163587)
-Token length: 1035
-Summarized using gemini model: gemini-2.0-flash
-Append: [陕西太白县采购围网拟整治违法穿越“鳌太线”被质疑影响动物迁徙](https://m.thepaper.cn/detail/32162158)
-Token length: 85
-Summarized using gemini model: gemini-2.0-flash
-Append: [香港特区政府要求独立委员会9个月内完成大埔火灾成因报告](https://m.thepaper.cn/detail/32162597)
-Token length: 1286
-Summarized using gemini model: gemini-2.0-flash
-Append: [14岁男生杀害女同学被判无期后，被害人家属申请抗诉被驳回](https://m.thepaper.cn/detail/32162038)
-Token length: 625
-Summarized using gemini model: gemini-2.0-flash
-Append: [湖北十堰通报“最忙五人组”事件：竹溪县住建局局长等多人被处分并免职](https://m.thepaper.cn/detail/32162093)
-Token length: 144
-Summarized using gemini model: gemini-2.0-flash
-Append: [向上的力量丨上海最后的报刊门市部：38年无休，不仅卖报还有这些……](https://m.thepaper.cn/detail/32129965)
-Token length: 970
-Summarized using gemini model: gemini-2.0-flash
-Append: [广西一中职学校7.7万采购22套服装引质疑，招标负责人称采购合规](https://m.thepaper.cn/detail/32161603)
-Token length: 2386
-Summarized using gemini model: gemini-2.0-flash
-Append: [又一L4玩家冲刺IPO，估值超38亿，前百度大牛创办，博世蔚来资本都投了](https://www.36kr.com/p/3592009452158984)
-append_entries: 20
-Finish: 2025-12-12 12:44:57.335327
+Append: [数据库AI方向探索-MCP原理解析&DB方向实战｜得物技术](https://juejin.cn/post/7581670270844174376)
+append_entries: 12
+Finish: 2025-12-12 14:20:19.424942
