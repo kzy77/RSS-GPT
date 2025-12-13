@@ -1,66 +1,8 @@
 ------------------------------------------------------
-Started: 2025-12-13 12:38:27.738717
-Existing_entries: 11
+Started: 2025-12-13 14:17:56.224851
+Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Token length: 0
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普：如果不是我重新担任美国总统，第三世界大战已经爆发了](https://www.huxiu.com/article/4817125.html)
-Token length: 1335
-Summarized using gemini model: gemini-2.0-flash
-Append: [加紧清理拖欠企业账款，国家发改委明确时间表](https://www.yicai.com/news/102956901.html)
-Token length: 2790
-Summarized using gemini model: gemini-2.0-flash
-Append: [腾势D9达成30万辆交付，吉利全球全域安全中心正式启用 ｜一周车闻](https://www.yicai.com/news/102956944.html)
-Token length: 1526
-Summarized using gemini model: gemini-2.0-flash
-Append: [国内首款！华山医院联合脑虎科技完成内置电池脑机接口人体植入](https://www.yicai.com/news/102956945.html)
-Token length: 0
-Summarized using gemini model: gemini-2.0-flash
-Append: [【建议收藏】一次搞懂所有 NAT 类型，实战各NAT类型之间的打洞可行性，通过p2p vpn实现无公网ip穿透家庭内网，p2p直连打洞，游戏联机，BT下载](https://www.youtube.com/watch?v=T8Fx9b8z5w0)
-Token length: 2425
-Summarized using gemini model: gemini-2.0-flash
-Append: [国家发改委：多措并举促进投资止跌回稳 适当增加中央预算内投资规模](https://www.yicai.com/news/102956978.html)
-Token length: 203
-Summarized using gemini model: gemini-2.0-flash
-Append: [第六交易日丨A股：布局静待景气时！](https://www.yicai.com/video/102956964.html)
-Token length: 2753
-Summarized using gemini model: gemini-2.0-flash
-Append: [多家上市公司拟提价，磷酸铁锂行业寻求以标准提升准入门槛](https://www.yicai.com/news/102956936.html)
-Token length: 410
-Summarized using gemini model: gemini-2.0-flash
-Append: [专访阿提哈德信用保险CEO：AI重塑风险评估 中阿保险领域合作火热](https://www.yicai.com/video/102956928.html)
-Token length: 2537
-Summarized using gemini model: gemini-2.0-flash
-Append: [2500亿，网红薯片被卖了](https://www.36kr.com/p/3593664270942215)
-Token length: 3803
-Summarized using gemini model: gemini-2.0-flash
-Append: [中俄巡航是“对日示威”？军事专家：日方既想挑衅又很心虚](https://m.thepaper.cn/detail/32171114)
-Token length: 7651
-Summarized using gemini model: gemini-2.0-flash
-Append: [11年前拍摄的24位“慰安妇”幸存者均已去世](https://m.thepaper.cn/detail/32155387)
-Token length: 1645
-Summarized using gemini model: gemini-2.0-flash
-Append: [特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低](https://wallstreetcn.com/articles/3761314)
-Token length: 4812
-Summarized using gemini model: gemini-2.0-flash
-Append: [TGA上宣布定档，梁其伟终于把《影之刃零》端上来了](https://www.36kr.com/p/3592724488356097)
-Token length: 4749
-Summarized using gemini model: gemini-2.0-flash
-Append: [三大国产AI学习助手实测：谁能真正带学生提高一分？](https://www.36kr.com/p/3592489796092160)
-Token length: 5321
-Summarized using gemini model: gemini-2.0-flash
-Append: [商业航天不是送火箭，是建“太空基础设施”：下一代产业链正在重构](https://www.36kr.com/p/3592405468840192)
-Token length: 1198
-Summarized using gemini model: gemini-2.0-flash
-Append: [天桥脑科学研究院成立尖峰智能实验室，支持“发现式智能”](https://www.yicai.com/news/102956892.html)
-Token length: 1067
-Summarized using gemini model: gemini-2.0-flash
-Append: [国内首个无人运力中心落户合肥，全域开放待成熟](https://www.yicai.com/news/102956898.html)
-Token length: 1345
-Summarized using gemini model: gemini-2.0-flash
-Append: [财政部：用好用足各类政府债券资金，发行超长期特别国债](https://www.yicai.com/news/102956870.html)
-Token length: 547
-Summarized using gemini model: gemini-2.0-flash
-Append: [国家医保局：力争明年全国基本实现政策范围内分娩个人“无自付”](https://m.thepaper.cn/detail/32170923)
-append_entries: 20
-Finish: 2025-12-13 12:40:01.017075
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by ConnectTimeoutError(<HTTPSConnection(host='freshrss.chunkj.qzz.io', port=443) at 0x7fccb262a5e0>, 'Connection to freshrss.chunkj.qzz.io timed out. (connect timeout=30)'))
+Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
+append_entries: 0
+error when rendering xml, skip docs/freshrss
