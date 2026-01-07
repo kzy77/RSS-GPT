@@ -1,8 +1,8 @@
 ------------------------------------------------------
-Started: 2026-01-07 06:34:15.085318
+Started: 2026-01-07 08:31:03.153450
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by ConnectTimeoutError(<HTTPSConnection(host='freshrss.chunkj.qzz.io', port=443) at 0x7f660188ef70>, 'Connection to freshrss.chunkj.qzz.io timed out. (connect timeout=30)'))
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by ConnectTimeoutError(<HTTPSConnection(host='freshrss.chunkj.qzz.io', port=443) at 0x7fc750010e20>, 'Connection to freshrss.chunkj.qzz.io timed out. (connect timeout=30)'))
 Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
 append_entries: 0
 error when rendering xml, skip docs/freshrss
