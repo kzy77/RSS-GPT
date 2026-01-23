@@ -1,8 +1,8 @@
 ------------------------------------------------------
-Started: 2026-01-22 22:22:54.046133
+Started: 2026-01-23 01:46:24.576362
 Existing_entries: 20
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by NameResolutionError("HTTPSConnection(host='freshrss.chunkj.qzz.io', port=443): Failed to resolve 'freshrss.chunkj.qzz.io' ([Errno -3] Temporary failure in name resolution)"))
+Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=chunkj&token=chunkj&hours=24 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1147)')))
 Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=chunkj&token=chunkj&hours=24
 append_entries: 0
 error when rendering xml, skip docs/freshrss
