@@ -1,47 +1,18 @@
 ------------------------------------------------------
-Started: 2026-01-30 06:51:04.578442
-Existing_entries: 10
+Started: 2026-01-30 08:38:52.908399
+Existing_entries: 14
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
-Token length: 1459
+Token length: 127
 Summarized using gemini model: gemini-2.5-flash
-Append: [航班“锁座”多少合适？选座能收费吗？中航协征求意见稿来了](https://www.yicai.com/news/103030555.html)
-Token length: 126
+Append: [Jimmy Kimmel Teases ‘Melania’](https://www.nytimes.com/2026/01/30/arts/television/jimmy-kimmel-melania-trump-documentary.html)
+Token length: 3928
 Summarized using gemini model: gemini-2.5-flash
-Append: [The End of Nuclear Arms Control](https://www.nytimes.com/2026/01/30/opinion/nuclear-treaty-deal-start.html)
-Token length: 80
+Append: [对话｜“孙子学法为爷爷翻案”当事人张坤宇：希望爷爷的悲剧不要再上演](https://m.thepaper.cn/detail/32496905)
+Token length: 154
 Summarized using gemini model: gemini-2.5-flash
-Append: [Trump’s Board of Peace Is Anything But](https://www.nytimes.com/2026/01/30/opinion/trump-peace-conflict-united-nations.html)
-Token length: 168
+Append: [从0到1打造Skill：完整实战指南](https://www.cnblogs.com/deep-sky/p/19550524)
+Token length: 8186
 Summarized using gemini model: gemini-2.5-flash
-Append: [Panama Court Strikes Down Hong Kong Firm’s Canal Contract](https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html)
-Token length: 500
-Summarized using gemini model: gemini-2.5-flash
-Append: [中国公民东京街头遭催泪瓦斯袭击被劫，我使馆再次提醒近期避免赴日](https://m.thepaper.cn/detail/32497398)
-Token length: 213
-Summarized using gemini model: gemini-2.5-flash
-Append: [Democrats Reach Spending Deal With Trump, Seeking to Rein In ICE](https://www.nytimes.com/2026/01/29/us/politics/democrats-dhs-spending.html)
-Token length: 5000
-Summarized using gemini model: gemini-2.5-flash
-Append: [对付特朗普，卡尼袖子里有一件秘密武器](https://www.huxiu.com/article/4831034.html)
-Token length: 2683
-Summarized using gemini model: gemini-2.5-flash
-Append: [菲政客造谣式“爱国”，会害惨菲律宾](https://www.huxiu.com/article/4831032.html)
-Token length: 6824
-Summarized using gemini model: gemini-2.5-flash
-Append: [对话美前国土安全部探员：再次枪击无辜公民，执法人员在明州为何这么嚣张？](https://www.huxiu.com/article/4831030.html)
-Token length: 7416
-Summarized using gemini model: gemini-2.5-flash
-Append: [高市这段咄咄逼人的质询，暴露了日本右翼多大的无知与野心？](https://www.huxiu.com/article/4831028.html)
-Token length: 4421
-Summarized using gemini model: gemini-2.5-flash
-Append: [沈逸：“美式良家子”死于ICE枪口下，犹太人坐不住了……](https://www.huxiu.com/article/4831027.html)
-Token length: 20450
-Summarized using gemini model: gemini-2.5-flash
-Append: [最能体现沃什政策主张的一场对话：通胀是美联储的一种选择](https://wallstreetcn.com/articles/3761461)
-Token length: 49
-Summarized using gemini model: gemini-2.5-flash
-Append: [特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税](https://m.thepaper.cn/detail/32496464)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 19.118299337s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
-Append: [一支核航母大军开赴格陵兰……](https://www.huxiu.com/article/4830928.html)
-append_entries: 14
-Finish: 2026-01-30 06:53:40.937065
+Append: [Clawdbot手机访问完整教程：像用App一样方便](https://juejin.cn/post/7599601258640195622)
+append_entries: 4
+Finish: 2026-01-30 08:39:33.031682
