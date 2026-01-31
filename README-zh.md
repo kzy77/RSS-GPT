@@ -52,5 +52,4 @@
 
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-- https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168 -> https://kzy77.github.io/RSS-GPT/| FreshRSS.xml
 - https://7techlife.blogspot.com/atom.xml -> https://kzy77.github.io/RSS-GPT/Seven科技生活.xml
