@@ -2,117 +2,375 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2026-01-31T08:31:40Z</updated>
+    <updated>2026-01-31T10:28:50Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存]]></title>
-        <link href="https://m.thepaper.cn/detail/32502341" />
-        <id>https://m.thepaper.cn/detail/32502341</id>
-        <updated>Sat, 31 Jan 2026 07:38:47 +0800</updated>
-        <summary type="html"><![CDATA[特朗普, 伊朗, 接触, 军事威胁, 专访
+        <title><![CDATA[clawbot接入飞书阿里云，立即拥有24小时AI助理贾维斯]]></title>
+        <link href="https://juejin.cn/post/7600581247019646985" />
+        <id>https://juejin.cn/post/7600581247019646985</id>
+        <updated>Thu, 29 Jan 2026 15:36:31 +0800</updated>
+        <summary type="html"><![CDATA[Clawbot, AI助手, 飞书, 阿里云, 部署
+
 <br><br>总结:
-1月29日，美国总统特朗普公开表示他已与伊朗方面进行接触。同时，特朗普重申了对伊朗采取军事行动的威胁。针对这些动态，澎湃新闻为此专访了上海国际问题研究院中东研究中心主任金良祥，寻求专家对当前局势的解读。]]></summary>
+Clawbot（现Moltbot）是一款开源AI个人助手，支持本地部署，提供24小时在线、自动化、知识库等服务，其AI模型主要基于阿里云百炼千问。部署该助手有两种主要方案：
+1. 飞书接入：相对复杂。需本地安装Moltbot（Node.js>=22），在飞书开放平台创建应用、机器人，并配置权限、获取App ID/Secret。终端安装飞书插件、配置百炼API Key、绑定飞书凭证并重启网关，最后在飞书后台激活长连接并发布应用。
+2. 阿里云接入：更为便捷。通过租用阿里云轻量应用服务器，选择Moltbot镜像实现一键部署。用户只需获取阿里云百炼API Key，开放18789端口，并执行“一键配置”即可完成AI大脑初始化。此方案由阿里云承担环境搭建，适合非技术用户。
+两种方案都能帮助用户建立一个永不下线的云端AI助手。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[金晨就交通事故致歉：作为公众人物未能做好表率，会深刻反省]]></title>
-        <link href="https://m.thepaper.cn/detail/32499360" />
-        <id>https://m.thepaper.cn/detail/32499360</id>
-        <updated>Fri, 30 Jan 2026 18:06:39 +0800</updated>
-        <summary type="html"><![CDATA[金晨 交通事故 致歉 责任 赔偿
+        <title><![CDATA[石家庄栾城区政府被诉后无人出席庭审：法院判定缺席审判，继续庭审]]></title>
+        <link href="https://m.thepaper.cn/detail/32506879" />
+        <id>https://m.thepaper.cn/detail/32506879</id>
+        <updated>Sat, 31 Jan 2026 16:39:47 +0800</updated>
+        <summary type="html"><![CDATA[民告官 缺席审判 强拆 行政赔偿 栾城区政府<br><br>总结:
+1.  1月28日，石家庄中院审理一起行政诉讼案件时，被告栾城区政府无正当理由缺席庭审，审判长当庭宣布缺席审判。
+2.  该案原告为88岁归侨张向新夫妇，被告是栾城区政府，案由是一起强拆引发的行政赔偿案件。
+3.  此前的判决显示，栾城区政府于2023年非法强拆了原告夫妇1992年合法取得宅基地上建造的房屋，河北省高院于2025年终审判决强拆行为违法，并要求依法赔偿。
+4.  栾城区政府随后作出38万余元的赔偿决定，但原告李玉珍不服该决定，再次将栾城区政府诉至法院。
+5.  庭审当天，原告方、合议庭成员均已就位，被告方却始终未到，审判长电话联系被告方后，对方称“忘了”。原告代理律师对被告公然缺席感到震惊，并要求法院对被告行为予以惩戒。栾城区政府方面表示正在了解缺席原因。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[应急管理部部长王祥喜任上被查]]></title>
+        <link href="https://m.thepaper.cn/detail/32506874" />
+        <id>https://m.thepaper.cn/detail/32506874</id>
+        <updated>Sat, 31 Jan 2026 16:01:14 +0800</updated>
+        <summary type="html"><![CDATA[王祥喜, 应急管理部, 违纪违法, 审查调查, 中管干部
 <br><br>总结:
-金晨发文就其交通事故致歉。<br>
-她于2025年3月16日驾车躲避小狗时，不慎撞上路边设施。<br>
-事故后，因金晨受伤送医，助理顶替驾驶人处理了事故。<br>
-金晨清醒后主动承担全部责任，撤销保险理赔，并已自费完成所有损失赔偿。<br>
-她表示作为公众人物未做好表率，会深刻反省并严格遵守法规。]]></summary>
+中央纪委国家监委网站1月31日通报，应急管理部党委书记、部长王祥喜因涉嫌严重违纪违法，目前正接受纪律审查和监察调查。
+王祥喜生于1962年8月，曾长期任职于湖北煤炭系统。他后历任湖北省经济贸易委员会副主任、荆州市市长、随州市委书记、省政府秘书长、省委政法委书记等职。
+2019年，王祥喜调任国家能源集团董事长，并于2022年出任应急管理部党委书记、部长，现为中共二十届中央委员。
+此次王祥喜落马，使他成为2026年以来中央纪委国家监委网站公开通报的第8位被审查调查的中管干部。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[关键词：Claw Cloud Run、Github、容器、Docker、应用部署<br><br>总结:  
-1. Claw Cloud Run是一款提供免费容器服务的平台，用户注册Github时间需大于180天，每月可获得5美元赠金，支持长期免费使用。  
-2. 平台允许用户搭建多种Docker应用，可通过应用商店一键自动部署，也支持手动部署。  
-3. 注册Github用户的时间通过访问特定API链接获取，方法是将用户名替换到指定网址中，查看“created at”字段。  
-4. 文章推荐用户部署两款应用：Memos（轻笔记应用）和AList（网盘挂载工具），提供便捷的使用体验。  
-5. 为了避免请求限制，建议在访问API时关闭代理，确保顺利获取注册时间信息。]]></summary>
+        <title><![CDATA[重庆綦江一小学回应“有班级收1500元请人打扫教室”：实为家长自发请的保洁]]></title>
+        <link href="https://m.thepaper.cn/detail/32506300" />
+        <id>https://m.thepaper.cn/detail/32506300</id>
+        <updated>Sat, 31 Jan 2026 15:22:19 +0800</updated>
+        <summary type="html"><![CDATA[学校 收费 家长 家委会 整改
+<br><br>总结:
+重庆家长举报綦江实验小学涉嫌违规收费。学校回应：
+1.  18.95元实为代收15元作业本费（符合政策）和家长自愿团购的3.95元英语阅读资料费。
+2.  1500元清洁费是二年级家长自发委托家委会聘请清洁工产生，学校无此收费项目。
+学校已立即整改：
+*   组织教职工学习收费政策，确保收费自愿、非营利。
+*   明确家委会职责边界，禁止组织涉费活动。
+*   优化低年级劳动教育，提升学生自主清洁能力。
+*   建立健全监督反馈机制，确保公开透明，接受社会监督。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[关键词：谷歌云、免费VPS、账户注册、SSH登录、科学上网
+        <title><![CDATA[《太平年》历史顾问胡耀飞：合理改编无关宏旨，但历史整体走向不得改变]]></title>
+        <link href="https://m.thepaper.cn/detail/32505975" />
+        <id>https://m.thepaper.cn/detail/32505975</id>
+        <updated>Sat, 31 Jan 2026 14:56:03 +0800</updated>
+        <summary type="html"><![CDATA[太平年, 五代十国, 历史虚构, 历史顾问, 纳土归宋
+
+<br><br>总结:
+电视剧《太平年》播出后，观众在了解五代十国历史的同时，也关注到剧中大量虚构、挪用甚至架空史实的现象，并质疑部分历史人物如冯道被美化。
+该剧历史顾问胡耀飞副教授在专访中回应，将五代十国搬上荧幕本身稀少且不易。他认为《太平年》的虚构在可理解和接受范围内，旨在推进剧情。
+平衡虚构与史实的关键在于“历史整体走向不得改变”，如纳土归宋这一核心事实，以及主要历史人物的核心行为不偏离太远。
+关于冯道等人物的刻画，胡耀飞指出历史人物形象本身无定论，影视化形象亦是其可能面貌之一。他认为吴越钱氏的“纳土归宋”虽被适度拔高，但并未美化或神化，是和平解决分裂问题的典范。
+胡耀飞还提及他的著作对认识吴越钱氏家族世系及相关历史事件有帮助，并介绍了吴越钱氏研究现状。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[违规穿越秦岭，警方通报：领队被行拘穿越者受处罚]]></title>
+        <link href="https://m.thepaper.cn/detail/32506168" />
+        <id>https://m.thepaper.cn/detail/32506168</id>
+        <updated>Sat, 31 Jan 2026 13:53:44 +0800</updated>
+        <summary type="html"><![CDATA[秦岭, 违规穿越, 领队, 生态保护, 行政处罚<br><br>总结:
+西安市公安局通报一起秦岭违规穿越案。
+领队姚某辉于2025年11月15日带领多名人员，在长安区破坏隔离铁丝网，非法穿越至鄠邑区朱雀森林公园，并收取费用。
+穿越途中，姚某辉在秦岭核心保护区内使用便携式燃气罐野外用火烧水做饭。
+两名参与者于11月16日被捕获后补票出园，姚某辉于2026年1月22日被抓获。公安机关对两名违规穿越人员处以警告，领队姚某辉因故意毁坏公私财物被行政拘留3日。
+此行为严重违反《陕西省秦岭生态环境保护条例》等法规，秦岭作为我国重要生态屏障，其核心保护区严禁违规穿越和野外用火，造成重大损失可能承担刑事责任。
+警方提醒，户外探险须敬畏法律和自然，拒绝违规行为，共同守护秦岭生态环境。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How Europe Is Moving to Reduce Dependence on Trump]]></title>
+        <link href="https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html" />
+        <id>https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html</id>
+        <updated>Sat, 31 Jan 2026 13:01:07 +0800</updated>
+        <summary type="html"><![CDATA[特朗普, 格陵兰, 美方关系, 恶化, 领导人
+
+总结:
+*   美国前总统特朗普曾对格陵兰岛发出威胁。
+*   自此，欧洲大陆的领导人开始关注并讨论此事。
+*   讨论的焦点是美国关系的迅速恶化。
+*   他们通过政策文件和私人晚宴等形式进行讨论。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms]]></title>
+        <link href="https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html" />
+        <id>https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html</id>
+        <updated>Sat, 31 Jan 2026 13:01:07 +0800</updated>
+        <summary type="html"><![CDATA[请提供您要总结的文章。我无法对“None”进行总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Draft Epstein Indictment Accused Him of Crimes Against More Than a Dozen Girls]]></title>
+        <link href="https://www.nytimes.com/2026/01/30/us/politics/epstein-2007-draft-indictment.html" />
+        <id>https://www.nytimes.com/2026/01/30/us/politics/epstein-2007-draft-indictment.html</id>
+        <updated>Sat, 31 Jan 2026 11:41:47 +0800</updated>
+        <summary type="html"><![CDATA[无内容 无内容 无内容 无内容 无内容<br><br>总结:
+1.  **任务识别**: 您的请求是总结一篇文章并提取关键词。
+2.  **内容缺失**: 我未能收到任何文章内容供我处理，输入的文本是“None”。
+3.  **操作受限**: 由于缺少原始文本，我无法执行关键词提取和文章总结的功能。
+4.  **后续步骤**: 请您提供具体的文章内容，我将非常乐意按照您的要求，首先提取五个关键词，然后撰写一个包含所有要点、字数在200字以内的中文总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[帅极了！37岁张帅斩获澳网女双冠军，收获生涯大满贯第三冠]]></title>
+        <link href="https://m.thepaper.cn/detail/32503013" />
+        <id>https://m.thepaper.cn/detail/32503013</id>
+        <updated>Sat, 31 Jan 2026 11:04:15 +0800</updated>
+        <summary type="html"><![CDATA[无文章, 无法总结, 缺少内容, 无法提取, 请提供
+<br><br>总结:
+很抱歉，我未能收到任何文章内容。您提供的输入是'None'，这意味着我无法找到任何文本供我进行分析和总结。
+1. 我无法从一篇不存在的文章中提取出5个关键词。
+2. 同样地，我也无法为您生成一个包含所有要点的总结，因为没有具体的文章内容作为基础。
+3. 为了能够为您提供有效的帮助，请您务必提供完整的文章文本。一旦您提供文章，我将能够按照您的要求，首先提取关键词，然后撰写一个精炼的总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ICE Expands Power of Agents to Arrest People Without Warrants]]></title>
+        <link href="https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html" />
+        <id>https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html</id>
+        <updated>Sat, 31 Jan 2026 10:53:40 +0800</updated>
+        <summary type="html"><![CDATA[无文章 无法总结 缺少内容 空白 无信息
+
+总结:
+1. 由于您未提供任何文章内容，我无法从中提取关键词或进行总结。
+2. 请您提供具体的文章文本，我将能够按照您的要求，先提取出5个关键词，然后换行，用中文在200字内写一个包含所有要点的总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Trump Called for ‘De-Escalation’ in Minneapolis. It Didn’t Last Long.]]></title>
+        <link href="https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html" />
+        <id>https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html</id>
+        <updated>Sat, 31 Jan 2026 10:45:20 +0800</updated>
+        <summary type="html"><![CDATA[文章缺失, 无法处理, 请提供, 无法总结, 空内容
+<br><br>总结:
+1. 用户未提供任何文章内容进行总结。
+2. 由于输入为“None”，我无法识别任何可供分析或提取信息的文本。
+3. 因此，无法从缺失的内容中提取5个关键词。
+4. 亦无法撰写包含要点的中文总结，因为没有原文可供提炼。
+5. 请您提供具体的中文文章，我将非常乐意按照您要求的格式进行总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Release of Three Million Epstein Pages Falls Short, Survivors Say]]></title>
+        <link href="https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html" />
+        <id>https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html</id>
+        <updated>Sat, 31 Jan 2026 10:08:01 +0800</updated>
+        <summary type="html"><![CDATA[无文章输入, 无法提取关键词
+<br><br>总结:
+您未提供任何文章内容进行总结。<br>因此，我无法提取关键词或生成摘要。<br>请提供一篇完整的中文文章，我将按照您的要求进行处理，提取5个关键词并在200字内进行总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华尔街见闻早餐FM-Radio | 2026年1月31日]]></title>
+        <link href="https://wallstreetcn.com/articles/3764632" />
+        <id>https://wallstreetcn.com/articles/3764632</id>
+        <updated>Sat, 31 Jan 2026 07:25:43 +0800</updated>
+        <summary type="html"><![CDATA[美联储 市场震荡 AI算力 通胀担忧 中美经贸<br><br>总结:特朗普提名沃什引爆美联储鹰派预期，导致市场剧烈震荡：美元大涨，贵金属暴跌，美股下跌。美国PPI通胀数据意外抬头。同时，AI算力需求驱动中国光模块和AI芯片公司业绩飙升，昆仑万维则加大投入。国内方面，中共中央政治局会议定调，中美经贸磋商继续，中方在WTO裁决中胜诉，证监会拟扩大战略投资者类型。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息]]></title>
+        <link href="https://wallstreetcn.com/articles/3764621" />
+        <id>https://wallstreetcn.com/articles/3764621</id>
+        <updated>Sat, 31 Jan 2026 02:16:03 +0800</updated>
+        <summary type="html"><![CDATA[特朗普, 沃什, 美联储主席, 降息, 挑战
+
+<br><br>总结:
+*   特朗普已提名凯文·沃什为下一任美联储主席，接替鲍威尔。特朗普对沃什寄予厚望，认为他将无需施压自行降息，并称赞沃什将成为最伟大的美联储主席之一。
+*   沃什曾是鹰派，但在去年转变立场，公开支持降息并批评美联储，此举被视为他获得特朗普提名的关键，因为这符合特朗普关于大幅降息的观点。
+*   此次提名被视为美联储自1979年以来最重要的权力交接，可能打破政策延续性。消息传出后，美元大反弹，美债收益率曲线趋陡，反映市场认为沃什选择相对鹰派。
+*   沃什上任后将面临多重挑战：需平衡总统期望与因其过往批评而持怀疑态度的联储同僚关系，同时应对全球贸易、人工智能、数字资产等复杂经济问题，并改革美联储6.6万亿美元的资产负债表。
+*   沃什的参议院确认过程存在不确定性，可能因司法部对现任主席鲍威尔的调查而复杂化，部分关键参议员已表示将在调查解决前反对提名。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[商务部新闻发言人就中国诉美《通胀削减法》世贸争端案专家组发布裁决答记者问]]></title>
+        <link href="https://m.thepaper.cn/detail/32501992" />
+        <id>https://m.thepaper.cn/detail/32501992</id>
+        <updated>Fri, 30 Jan 2026 23:35:17 +0800</updated>
+        <summary type="html"><![CDATA[世贸组织 通胀削减法 中美争端 违反规则 纠正错误
+
+<br><br>总结:
+日内瓦时间1月30日，世贸组织专家组就中国诉美《通胀削减法》世贸争端案发布裁决。
+专家组裁定，美国涉案的清洁能源补贴措施违反世贸组织规则，并驳回美方以保护“公共道德”为由的抗辩。
+裁决要求美国取消涉案补贴措施。
+中方对此客观公正的裁决表示欢迎和赞赏。
+中方重申其作为世贸组织规则坚定守护者的立场，并呼吁美方尊重裁决，尽快采取措施纠正错误做法，以维护国际经贸秩序的稳定和发展。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[安徽石台县通报驴友擅自进入牯牛降保护区：罚款5000元]]></title>
+        <link href="https://m.thepaper.cn/detail/32501194" />
+        <id>https://m.thepaper.cn/detail/32501194</id>
+        <updated>Fri, 30 Jan 2026 22:43:15 +0800</updated>
+        <summary type="html"><![CDATA[牯牛降 驴友擅入 迷路求助 行政处罚 自然保护区条例
+<br><br>总结:
+1. 安徽石台县通报2024年1月，牯牛降国家级自然保护区发生两起驴友擅自进入事件。
+2. 滁州吴某某擅入核心区迷路求助获救，被罚5000元。另有陈某某等四人擅入实验区，一人失联后获救，四人各被罚1000元。
+3. 两案均依据《中华人民共和国自然保护区条例》处理。该条例严禁未经批准进入保护区，违者可处100至5000元罚款。
+4. 石台县强调保护区是重要生态屏障，呼吁公众务必遵守法规，切勿擅自进入，共同守护珍贵自然资源和生命安全。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[万科：预计2025年净亏损约820亿元]]></title>
+        <link href="https://m.thepaper.cn/detail/32500602" />
+        <id>https://m.thepaper.cn/detail/32500602</id>
+        <updated>Fri, 30 Jan 2026 21:11:43 +0800</updated>
+        <summary type="html"><![CDATA[亏损 业绩预告 债券展期 风险化解 股东支持
+
+<br><br>总结:万科发布2025年度业绩预告，预计净亏损约820亿元，主要原因包括结算规模下降、毛利率低、新增减值及部分经营性业务亏损。公司正积极化解风险，已成功推动多笔境内公开债展期，并有部分债券停牌以保护投资者。大股东深圳地铁集团提供了超300亿股东借款及业务协同支持。万科虽保质交付并优化管理，但仍面临严峻挑战，将通过战略聚焦等措施推动业务优化，力求走出困境。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[关键词：爪云、Cloudflare、Docker、UUID、隧道
+
+<br><br>总结:
+一、前置工作：先获取root权限，并安装Docker。
+二、临时隧道模式：使用Docker运行命令创建临时隧道。
+三、固定隧道模式：需要准备UUID、Cloudflare隧道Token和域名。UUID可通过网站生成或使用代理工具生成。
+四、创建Cloudflare固定隧道：在Zero Trust平台创建隧道。
+五、运行固定隧道命令：使用Docker命令运行固定隧道，并自定义容器名称。
+六、相关Docker命令：能够查看、停止和删除Docker容器及其日志。  
+提供了视频教程链接以供进一步操作和学习。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[关键词：us.kg、免费域名、Cloudflare、FreeDNS、注册情况  
+
+<br><br>总结：  
+1. **已注册的域名**：us.kg域名的已注册用户仍然可以正常使用他们的域名，没有受到影响。  
+2. **域名托管**：目前，虽然us.kg官网出现问题，但新注册的us.kg域名依旧可以托管到Cloudflare和FreeDNS等服务。  
+3. **域名使用**：用户可以通过临时托管服务来维持域名的正常访问，避免中断。  
+4. **新域名注册**：目前，us.kg域名的注册功能似乎已经关闭，但不排除未来可能恢复。  
+5. **域名区别**：文章中对us.kg和其他免费域名服务进行了比较，强调了各自的特点和优势。  ]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Sing-box-yg、Cloudflare、科学上网、回源、保活
 
 <br><br>总结:  
-1. 谷歌云提供免费的VPS，用户可在俄勒冈等地区创建实例，建议选择E2-micro配置。  
-2. 注册时需添加外币信用卡，激活完整账号的时间需在试用期结束后再启动。  
-3. 创建虚拟机时，建议选择Linux系统（如Ubuntu）和30GB的标准永久性磁盘，快照时间表需设为“无备份”以避免费用。  
-4. SSH登录可通过官方后台或第三方工具，后者需创建密钥对。  
-5. 科学上网时推荐使用Hysteria 2节点，注意流量政策，确保不选用会产生额外费用的CDN服务。]]></summary>
+1. 登录方法：使用s*.serv00.com、cache*.serv00.com与web*.serv00.com中的任一域名登陆，如被墙可设置系统代理。  
+2. 科学上网节点搭建：初始化系统、重置端口并安装脚本。  
+3. Cloudflare固定隧道搭建：需拥有托管到Cloudflare的域名，设置隧道域名与URL，输入隧道令牌。  
+4. CDN回源配置：添加DNS记录将A记录解析到Serv00的IP，并设定主机名与重写端口的回源规则。  
+5. 网页保活功能：通过特定指令启动、重启或查看节点信息。还需创建Cloudflare Worker并修改代码以保活多功能主页。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[关键词：注册地址、免费域名、Cloudflare、us.kg、续期  
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG、域名、注册、KYC验证、Cloudflare
+
+<br><br>总结: 
+1. 开场介绍US.KG域名处于受限状态，注册可以先通过指定链接完成。 
+2. US.KG域名的优点包括简洁性和免费的续订服务。 
+3. 注册账号步骤包括点击Signup并填写信息，可使用身份信息生成器。 
+4. 验证邮箱步骤，需接收邮件并进行验证，如遇问题可稍等再试。 
+5. KYC验证要求将注册信息排版并截图保存，以便上传。 
+6. 注册域名时输入所需的域名前缀，并完成托管到Cloudflare，输入名称服务器。 
+7. 最后总结提到免费域名的缺点，推荐查阅详细教程视频了解更多信息。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek，网页端，API，本地部署，应用  
 
 <br><br>总结:  
-1. 提供了注册地址和美国地址生成器的链接。  
-2. DigitalPlat的GitHub仓库和Cloudflare官网链接可供访问。  
-3. Cloudflare Pages的自定义域名和SSL证书相关问题有视频教程说明。  
-4. 提到两种域名：dpdns.org（免费）和us.kg（收费，12元/个）。  
-5. 新用户免费域名额度为1个，老用户为3个，GitHub加Star后可增加额度。  
-6. us.kg域名需要每年续期，续期是永久免费的，在到期前180天内可进行续期。  
-7. 提供详细的域名续期教程，建议查阅YouTube视频。]]></summary>
+1. 关于Deepseek：Deepseek是一个多功能的信息检索和处理平台。  
+2. Deepseek网页端和APP：用户可通过网页和移动应用访问Deepseek，方便快捷。  
+3. Deepseek API：提供API接口，支持注册用户使用，包括沉浸式翻译和其他应用。  
+4. 应用示例：Perplexity等第三方应用通过Deepseek的API实现功能扩展。  
+5. 本地部署：用户可以下载Ollama并通过命令提示符安装和运行Deepseek，实现本地使用。  
+6. 模型选择硬件：不同模型对硬件有不同的要求，可以根据需求进行选择。观看视频获取详细指导。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[关键词：稳定性、速度、保活、降智、购买
-
-<br><br>总结：
-1. **稳定性和速度**：该服务在稳定性和速度方面表现良好，用户在使用过程中很少遇到卡顿的问题。
-2. **保活需求**：使用过程中需定期保活，确保服务持续可用，避免断线。
-3. **ChatGPT降智**：讨论了是否存在“降智”现象，官方态度较为谨慎，认为此现象可能与用户的期望有关系。
-4. **价格问题**：价格相对合理，部分用户表示购买是值得的，尤其是在使用体验上。
-5. **购买及续费**：购买过程简单，后续续费也有明确的指引，用户反馈较为积极。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[关键词：US.KG，免费域名，Cloudflare，身份信息生成器，注册账号  
-
-<br><br>总结:  
-1. US.KG域名注册遇到问题，建议寻找其他免费域名选择。  
-2. 可选择托管到Cloudflare的免费域名，注册时可输入优惠码（newuser）享受一年免费。  
-3. 使用身份信息生成器可以辅助填写个人信息，简化注册过程。  
-4. 注册账号后，需登录Cloudflare并添加新域名。  
-5. 将Cloudflare分配的两个名称服务器填入所注册域名的管理界面，完成域名托管操作。  
-6. 详细教程的视频可在YouTube上查找，包含各个步骤的时间标签，帮助用户更好地理解和操作。]]></summary>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
