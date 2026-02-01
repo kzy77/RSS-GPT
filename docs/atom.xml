@@ -2,272 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2026-02-01T08:34:52Z</updated>
+    <updated>2026-02-01T10:26:39Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[My Patient Was Dying. His Wife Would Not Accept It.]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html" />
-        <id>https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html</id>
-        <updated>Sun, 01 Feb 2026 14:44:16 +0800</updated>
-        <summary type="html"><![CDATA[沟通, 同理心, 界限, 冲突管理, 团队支持
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[关键词：Claw Cloud Run，免费容器，GitHub注册，Docker应用，自动部署
 
 <br><br>总结:
-医生在面对难缠患者及家属时常感到挑战，但可采用多方面策略有效应对。
-1. **建立有效沟通：** 医生应积极倾听患者及家属的担忧和需求，用清晰易懂的语言解释病情和治疗方案，并管理好他们的预期，减少误解。
-2. **展现同理心：** 努力理解患者或家属行为背后的深层原因，如恐惧、悲伤、焦虑或信息不对称，从而建立信任和理解的基础。
-3. **设定专业界限：** 学会设定并维护清晰的专业界限，避免过度卷入情绪，必要时坚定但礼貌地重申医疗原则和决策，保持专业性。
-4. **掌握冲突管理：** 运用降级策略，保持冷静和客观，引导对话回到解决问题的轨道，专注于医疗目标而不是情绪对抗。
-5. **寻求团队支持：** 与同事、护理人员、社工或伦理委员会等团队成员协作，共同应对复杂情况，并获取必要的专业咨询和情感支持，分担压力。
-通过这些策略，医生不仅能更有效地应对困难局面，还能改善医患关系，保障医疗服务的顺利进行。]]></summary>
+1. Claw Cloud Run是一个提供免费容器的服务，只要GitHub注册时间超过180天，用户每月可以获得5美元的赠金，从而实现长期免费使用。
+2. 该平台支持多种Docker应用的搭建，有应用商店可进行一键自动部署，也支持手动部署。
+3. 注册用户可以通过特定链接查看自己的GitHub注册时间，地址为https://api.github.com/users/XXX（将XXX替换为自己的用户名）。
+4. 该链接的请求次数有 IP 限制，建议在节点IP使用人数较多时关闭代理后再访问。
+5. 推荐用户部署两款应用：Memos（轻笔记应用）和AList（网盘挂载工具），具体内容可参考相关的YouTube视频。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Democratic Upset in Deep Red Texas District Rattles Republicans]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html" />
-        <id>https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html</id>
-        <updated>Sun, 01 Feb 2026 14:09:46 +0800</updated>
-        <summary type="html"><![CDATA[民主党, 特别选举, 胜选, 特朗普票仓, 共和党不安
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[关键词：谷歌云，免费VPS，注册，SSH登录，科学上网
 
 <br><br>总结:
-一名民主党人在一场州立法机构的特别选举中获胜。
-这次选举的选区，曾是特朗普总统以17个百分点高票领先的地区。
-这一出人意料的胜利，令德克萨斯州乃至其他地区的共和党人感到担忧和不安。]]></summary>
+一、谷歌云提供免费VPS的政策，其中包括免费配置和流量。  
+二、注册账号需添加外币支付信息，尽量在试用期结束后再激活完整账号。  
+三、创建完全免费的VM实例时，建议选择俄勒冈地区的E2-micro配置，操作系统最好使用Ubuntu，并确保快照时间表设置为“无备份”以避免收费。  
+四、开放防火墙时可以选择全部放行的出入站规则，便于新手用户。  
+五、SSH登录可以通过官方后台直接进入，或使用第三方工具进行密钥登录。  
+六、科学上网时建议使用Hysteria节点，注意流量收费政策，避免使用Cloudflare CDN。  
+七、搭建科学上网节点可以通过命令行、H-UI、S-UI或甬哥一键脚本等方式完成。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[官宣！增值税5%征收率保留，不会降至3%]]></title>
-        <link href="https://www.yicai.com/news/103033549.html" />
-        <id>https://www.yicai.com/news/103033549.html</id>
-        <updated>Sun, 01 Feb 2026 11:08:50 +0800</updated>
-        <summary type="html"><![CDATA[很抱歉，您没有提供任何文章内容，因此我无法为您提取关键词或进行总结。
-
-请提供您希望我总结的文章。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身]]></title>
-        <link href="https://m.thepaper.cn/detail/32509724" />
-        <id>https://m.thepaper.cn/detail/32509724</id>
-        <updated>Sun, 01 Feb 2026 10:54:42 +0800</updated>
-        <summary type="html"><![CDATA[美伊 紧张 谈判 外交 缓和
-
-<br><br>总结:
-1. 美伊局势持续紧张，但双方近期均释放了通过外交途径对话和谈判的信号。伊朗总统佩泽希齐扬强调外交优先于战争，其最高安全委员会秘书拉里贾尼称谈判架构正逐步形成，伊朗愿在不讨论导弹防御的前提下进行核谈判。
-2. 美国总统特朗普证实伊朗正“交谈”，表示愿达成协议，但同时部署庞大舰队并威胁干预，认为伊朗最终将选择核协议而非军事对抗。
-3. 国际社会积极斡旋，埃及和卡塔尔等国呼吁缓和局势，推动美伊核问题谈判；俄罗斯也与伊朗高层举行了会谈。
-4. 尽管伊朗否认了此前流传的袭击爆炸传闻，但在美国威胁下，伊朗国内普遍弥漫着对潜在军事行动的焦虑与不安情绪。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普称就格陵兰岛的谈判即将达成一致]]></title>
-        <link href="https://m.thepaper.cn/detail/32509775" />
-        <id>https://m.thepaper.cn/detail/32509775</id>
-        <updated>Sun, 01 Feb 2026 10:44:20 +0800</updated>
-        <summary type="html"><![CDATA[您好！为了能准确地为您总结文章，我需要先阅读文章内容。请您提供需要总结的文章文本。
-
-一旦您提供了文章，我将按照您要求的格式进行输出，包括提取5个关键词，并在200字内分要点撰写总结。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓]]></title>
-        <link href="https://m.thepaper.cn/detail/32509153" />
-        <id>https://m.thepaper.cn/detail/32509153</id>
-        <updated>Sun, 01 Feb 2026 10:34:20 +0800</updated>
-        <summary type="html"><![CDATA[加密货币大跌, 美联储主席, 货币政策, 爆仓, 资金流出
-<br><br>总结:
-近期加密货币市场再次大幅下跌，比特币、以太坊等主流币种价格创下新低，全球超过42万人爆仓，爆仓总金额高达25.74亿美元。此次大跌的直接诱因是美国总统特朗普提名鹰派人士凯文·沃什为下任美联储主席。沃什是量化宽松的强烈反对者，其提名引发了市场对货币政策收紧、实际利率上升及“缩表”的预期。这一人事消息首先冲击了黄金、白银等传统金融市场，随后传导至加密货币市场。加密货币的“牛市”往往依赖宽松的货币政策，因此沃什所代表的货币紧缩预期，无疑是对其的“重锤”。此外，美国上市的比特币现货ETF已连续三个月呈现资金净流出，短期避险资金更青睐实体背书的传统硬资产。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[华尔街聚焦沃什：“降息+缩表”如何同时做到？，“导师”德鲁肯米勒：他不一定是鹰派]]></title>
-        <link href="https://wallstreetcn.com/articles/3764677" />
-        <id>https://wallstreetcn.com/articles/3764677</id>
-        <updated>Sun, 01 Feb 2026 10:31:16 +0800</updated>
-        <summary type="html"><![CDATA[特朗普、沃什、缩表、政策冲突、德鲁肯米勒
-<br><br>总结:
-特朗普提名沃什执掌美联储，引发市场对政策方向的重新定价。
-沃什曾任美联储理事，长期主张大幅缩减央行资产负债表，并批评大规模购债扭曲资产价格且有固化通胀风险，但这与特朗普要求压低长期借贷成本的诉求形成潜在冲突，导致市场关注及债市波动。
-沃什的长期导师、亿万富翁投资者德鲁肯米勒则澄清，沃什并非永久“鹰派”，而是对货币政策持开放态度，相信可在不引发通胀的情况下实现经济增长，尤其受益于人工智能发展。
-未来的挑战在于，如何在降低短期利率和缩减资产负债表之间取得平衡，同时避免加剧通胀和政府债务问题。德鲁肯米勒强调，沃什与财政部长贝森特（亦为其门生）之间的政策协调将至关重要。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[从“百度一下”到“豆包一下”：答案变快了，你的判断还在吗]]></title>
-        <link href="https://m.thepaper.cn/detail/32509647" />
-        <id>https://m.thepaper.cn/detail/32509647</id>
-        <updated>Sun, 01 Feb 2026 09:46:31 +0800</updated>
-        <summary type="html"><![CDATA[豆包一下 百度一下 语言习惯 认知转变 独立思考
-
-<br><br>总结:
-文章指出，“豆包一下”取代“百度一下”成为流行语，反映语言习惯及权力转移。过去“百度一下”需用户提炼关键词，自行鉴别信息，培养独立判断力。现在“豆包一下”让用户详细描述情境，由AI提供“草稿答案”，将问题结构化和初稿外包。这种认知转变虽便利，却可能削弱用户质疑、创新思维与判断力，导致思维同质化。作者警示，应将AI视为“实习生”，用户需主动思考、验证，避免过度依赖，以防认知退化，保持独立判断和独特趣味。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[伊朗阿巴斯港一楼房发生爆炸，已致1死14伤]]></title>
-        <link href="https://m.thepaper.cn/detail/32508070" />
-        <id>https://m.thepaper.cn/detail/32508070</id>
-        <updated>Sat, 31 Jan 2026 22:13:21 +0800</updated>
-        <summary type="html"><![CDATA[伊朗 阿巴斯港 爆炸 伤亡 调查
-<br><br>总结:
-1. 当地时间1月31日，伊朗霍尔木兹甘省阿巴斯港一处居民区建筑发生爆炸。
-2. 事故已造成1人死亡，14人受伤。
-3. 爆炸发生在一栋八层楼房，摧毁了其中两层，并损坏了附近的多辆汽车和一家商店。
-4. 事件原因正在调查中，官方稍后将公布调查结果。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[魔都怎么样｜纸飞机打破世界纪录需要几步？]]></title>
-        <link href="https://m.thepaper.cn/detail/32460610" />
-        <id>https://m.thepaper.cn/detail/32460610</id>
-        <updated>Sat, 31 Jan 2026 20:42:32 +0800</updated>
-        <summary type="html"><![CDATA[青少年 纸飞机 吉尼斯纪录 刷新 98.43米
-<br><br>总结:
-近日，六名平均年龄17岁的中国青少年在上海刷新了“纸飞机飞行最远距离”吉尼斯世界纪录，飞行距离达到98.43米。主力投手刘力文表示，尽管该纪录看似无用，但挑战与超越自我的精神才是其真正意义所在。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Syria Must Protect Its Minorities]]></title>
-        <link href="https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html" />
-        <id>https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html</id>
-        <updated>Sat, 31 Jan 2026 20:00:05 +0800</updated>
-        <summary type="html"><![CDATA[叙利亚 库尔德人 少数民族 保护 稳定
-<br><br>总结:
-文章指出，叙利亚的稳定与否，与该国境内对库尔德人和其他少数民族的保护紧密相关。
-如果没有对这些少数民族提供应有的保护，叙利亚将永远无法实现真正的稳定。保障他们的权益是实现叙利亚长期稳定的前提。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[关键词：爪云、Cloudflare、隧道、Docker、VPS<br><br>总结: 
-1. 前置工作：获取root权限并安装Docker。使用命令`sudo -i`获取权限，随后用`curl -fsSL https://get.docker.com | sh`安装Docker。
-2. 模式选择：提供了两种隧道模式，临时隧道模式使用`docker run -d --name seven 7techlife/seven`命令启动。 
-3. 固定隧道模式：需要准备UUID、Cloudflare隧道Token及隧道域名，UUID可以通过多个方式生成。进入Cloudflare控制台创建固定隧道。
-4. 运行命令：使用命令启动固定隧道模式的Docker容器，命令示例包含变量填充。
-5. Docker管理：提供了基本的Docker管理命令，包括查看、停止和删除容器的命令，方便对容器进行管理。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[关键词：us.kg免费域名、注册状态、Cloudflare托管、FreeDNS、域名使用
-
-<br><br>总结:
-1. us.kg免费域名的注册功能目前存在问题，用户询问的注册状态尚不明朗。
-2. 已经注册的域名依旧可以使用，并没有被清除或取消。
-3. 新域名是否可以托管到Cloudflare上存在不确定性，具体要视情况而定。
-4. 用户可以选择临时将域名托管到FreeDNS，以解决现阶段的使用需求。
-5. 目前新域名的注册情况还需进一步确认，建议用户关注相关更新。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[关键词：科学上网，Cloudflare，隧道，DNS记录，网页保活  
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[关键词：注册地址、免费域名、us.kg、续期、Cloudflare  
 
 <br><br>总结:  
-1. **登录**：用户需通过s*.serv00.com等域名登录，如果遇到封锁，可以设置系统代理访问。  
-2. **科学上网节点搭建**：初始化系统，重置端口，并运行相应安装脚本完成节点搭建。  
-3. **Cloudflare固定隧道**：用户需拥有一个托管到Cloudflare的域名，创建HTTP类型的新隧道，并输入隧道域名及令牌。  
-4. **CDN回源**：添加A记录将域名解析到对应IP，设置回源规则以确保流量正确转发。  
-5. **网页保活及Cloudflare远程保活**：用户可通过特定指令控制节点状态，并利用Cloudflare Worker实现远程保活，确保服务持续运行。]]></summary>
+1. 提供了注册地址和美国地址生成器的信息，其中包括DigitalPlat的Github仓库链接。  
+2. 对于Cloudflare的使用，推荐查看相关视频以了解如何处理自定义域和SSL证书问题。  
+3. 提到两种域名选择，dpdns.org为免费，us.kg为收费（12元/个）。  
+4. 新用户可获得1个免费域名，若加Star至Github后可增至2个；老用户则有3个免费名额，加Star后增至4个。  
+5. us.kg域名和免费域名的续期均为永久免费，需在到期前180天内续期。详细教程可在Youtube视频中查找。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[关键词: US.KG 域名 注册 KYC验证 Cloudflare 免费续订
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[关键词：稳定性，速度，保活，降智，购买
 
-<br><br>总结:
-1. 开场介绍US.KG域名的当前受限状态，并提供备用域名链接供注册和KYC验证。
-2. 指出US.KG域名的优点，包括免费获取与管理简便。
-3. 注册账号时，通过身份信息生成器可生成除邮箱外的所有信息，完成步骤。
-4. 验证邮箱的过程中，若收不到邮件可稍等后再试，继续进行KYC验证。
-5. KYC验证时需将输入信息排版并截图上传。
-6. 注册域名时，输入需要的域名前缀完成注册，随后进行Cloudflare托管。
-7. 提及域名的免费续订服务和可能存在的缺点，鼓励观看视频获取详细教程。]]></summary>
+<br><br>总结: 
+1. 稳定性和速度：文章讨论了服务的稳定性和响应速度，表示整体表现良好，适合长时间使用。 
+2. 是否需要保活：提到在使用中是否需要进行保活操作，以保持连接的稳定性。 
+3. ChatGPT降智问题：讨论了用户对ChatGPT智力下降的担忧，包括可能的影响和官方的态度。 
+4. 价格方面：分析了产品的定价是否合理，用户购买时需要考虑的因素。 
+5. 总体体验和购买过程：分享了个人使用体验以及购买和续费的步骤，建议用户在购买前对这些信息进行充分了解。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek、网页端、API、本地部署、应用
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG、免费域名、Cloudflare、注册账号、身份信息生成器  
 
-<br><br>总结:
-1. 介绍了Deepseek的基本概念及功能，强调其在信息检索领域的重要性。
-2. Deepseek提供了网页端和手机应用，可以通过官方网站和各大应用商店下载。
-3. 深入讲解了Deepseek API的使用，用户需注册并可获得10元体验金，API可用于各种应用场景。
-4. 讨论了使用Deepseek的第三方应用，展示了其在沉浸式翻译和Chatbox等领域的实际应用。
-5. 提供本地部署的方法，用户需先下载Ollama，再通过命令提示符输入指令以运行，并在Chatbox中选择Ollama API作为模型提供方。]]></summary>
+<br><br>总结：  
+1. US.KG域名无法注册，建议找其他免费域名。  
+2. 可选择一个可托管到Cloudflare的免费域名，免费使用一年。  
+3. 注册域名需要使用身份信息生成器辅助填写个人信息。  
+4. 在购买域名时，输入优惠码“newuser”可享受一年免费。  
+5. 注册完成后，需登录Cloudflare添加域名，并将分配的两个名称服务器填写到域名管理界面。  
+6. 提供详细的步骤视频，帮助用户顺利完成注册和托管操作。  ]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     

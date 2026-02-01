@@ -1,39 +1,8 @@
 ------------------------------------------------------
-Started: 2026-02-01 08:32:54.840385
-Existing_entries: 5
+Started: 2026-02-01 10:26:23.221437
+Existing_entries: 11
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
-Token length: 745
-Summarized using gemini model: gemini-2.5-flash
-Append: [加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓](https://m.thepaper.cn/detail/32509153)
-Token length: 2860
-Summarized using gemini model: gemini-2.5-flash
-Append: [从“百度一下”到“豆包一下”：答案变快了，你的判断还在吗](https://m.thepaper.cn/detail/32509647)
-Token length: 80
-Summarized using gemini model: gemini-2.5-flash
-Append: [魔都怎么样｜纸飞机打破世界纪录需要几步？](https://m.thepaper.cn/detail/32460610)
-Token length: 64
-Summarized using gemini model: gemini-2.5-flash
-Append: [My Patient Was Dying. His Wife Would Not Accept It.](https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html)
-Token length: 162
-Summarized using gemini model: gemini-2.5-flash
-Append: [Democratic Upset in Deep Red Texas District Rattles Republicans](https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html)
-Token length: 1289
-Summarized using gemini model: gemini-2.5-flash
-Append: [伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身](https://m.thepaper.cn/detail/32509724)
-Token length: 2113
-Summarized using gemini model: gemini-2.5-flash
-Append: [华尔街聚焦沃什：“降息+缩表”如何同时做到？，“导师”德鲁肯米勒：他不一定是鹰派](https://wallstreetcn.com/articles/3764677)
-Token length: 156
-Summarized using gemini model: gemini-2.5-flash
-Append: [伊朗阿巴斯港一楼房发生爆炸，已致1死14伤](https://m.thepaper.cn/detail/32508070)
-Token length: 89
-Summarized using gemini model: gemini-2.5-flash
-Append: [Syria Must Protect Its Minorities](https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html)
-Token length: 4
-Summarized using gemini model: gemini-2.5-flash
-Append: [官宣！增值税5%征收率保留，不会降至3%](https://www.yicai.com/news/103033549.html)
-Token length: 66
-Summarized using gemini model: gemini-2.5-flash
-Append: [特朗普称就格陵兰岛的谈判即将达成一致](https://m.thepaper.cn/detail/32509775)
-append_entries: 11
-Finish: 2026-02-01 08:34:28.902034
+Fetch error: 525
+Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
+append_entries: 0
+error when rendering xml, skip docs/freshrss
