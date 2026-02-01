@@ -1,18 +1,39 @@
 ------------------------------------------------------
-Started: 2026-02-01 06:49:44.921650
-Existing_entries: 11
+Started: 2026-02-01 08:32:54.840385
+Existing_entries: 5
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
+Token length: 745
+Summarized using gemini model: gemini-2.5-flash
+Append: [加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓](https://m.thepaper.cn/detail/32509153)
+Token length: 2860
+Summarized using gemini model: gemini-2.5-flash
+Append: [从“百度一下”到“豆包一下”：答案变快了，你的判断还在吗](https://m.thepaper.cn/detail/32509647)
+Token length: 80
+Summarized using gemini model: gemini-2.5-flash
+Append: [魔都怎么样｜纸飞机打破世界纪录需要几步？](https://m.thepaper.cn/detail/32460610)
+Token length: 64
+Summarized using gemini model: gemini-2.5-flash
+Append: [My Patient Was Dying. His Wife Would Not Accept It.](https://www.nytimes.com/2026/02/01/opinion/hospital-doctors-difficult-patients.html)
+Token length: 162
+Summarized using gemini model: gemini-2.5-flash
+Append: [Democratic Upset in Deep Red Texas District Rattles Republicans](https://www.nytimes.com/2026/02/01/us/democratic-upset-texas-district-republicans.html)
+Token length: 1289
+Summarized using gemini model: gemini-2.5-flash
+Append: [伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身](https://m.thepaper.cn/detail/32509724)
+Token length: 2113
+Summarized using gemini model: gemini-2.5-flash
+Append: [华尔街聚焦沃什：“降息+缩表”如何同时做到？，“导师”德鲁肯米勒：他不一定是鹰派](https://wallstreetcn.com/articles/3764677)
 Token length: 156
 Summarized using gemini model: gemini-2.5-flash
-Append: [The Richest 2026 Players: A.I., Crypto, Pro-Israel Groups and Trump](https://www.nytimes.com/2026/02/01/us/politics/ai-crypto-trump-super-pac-israel-2026-midterms.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 3.065268572s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}
-Append: [Why Is Taking the Rest of the Donetsk Region So Important to Putin?](https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 2.967699349s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}
-Append: [Republican National Committee Enters 2026 With Nearly $100 Million Edge on D.N.C.](https://www.nytimes.com/2026/01/31/us/politics/republican-national-committee-dnc-money.html)
-Token length: 2210
+Append: [伊朗阿巴斯港一楼房发生爆炸，已致1死14伤](https://m.thepaper.cn/detail/32508070)
+Token length: 89
 Summarized using gemini model: gemini-2.5-flash
-Append: [高盛交易员：大逻辑没有变化，不要"过度解读"过去两天的暴跌，尤其要考虑1月的大涨](https://wallstreetcn.com/articles/3764676)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 55.031409867s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}
-Append: [硬核科普：为何小米任天堂封杀 Root？揭秘操作系统从启动到“夺权”的底层游戏](https://www.cnblogs.com/kaiux/p/19558207)
-append_entries: 5
-Finish: 2026-02-01 06:50:05.018453
+Append: [Syria Must Protect Its Minorities](https://www.nytimes.com/2026/01/31/opinion/syria-kurds-turkey-pkk.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [官宣！增值税5%征收率保留，不会降至3%](https://www.yicai.com/news/103033549.html)
+Token length: 66
+Summarized using gemini model: gemini-2.5-flash
+Append: [特朗普称就格陵兰岛的谈判即将达成一致](https://m.thepaper.cn/detail/32509775)
+append_entries: 11
+Finish: 2026-02-01 08:34:28.902034
