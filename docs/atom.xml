@@ -2,95 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2026-02-01T10:26:39Z</updated>
+    <updated>2026-02-01T12:53:19Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[关键词：Claw Cloud Run，免费容器，GitHub注册，Docker应用，自动部署
-
+        <title><![CDATA[Federal Courts Undercut Trump’s Mass Deportation Campaign]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/us/habeas-corpus-detainee-immigrant-trump-federal-courts.html" />
+        <id>https://www.nytimes.com/2026/02/01/us/habeas-corpus-detainee-immigrant-trump-federal-courts.html</id>
+        <updated>Sun, 01 Feb 2026 19:20:49 +0800</updated>
+        <summary type="html"><![CDATA[政策 移民 无限期拘留 诉讼 释放
 <br><br>总结:
-1. Claw Cloud Run是一个提供免费容器的服务，只要GitHub注册时间超过180天，用户每月可以获得5美元的赠金，从而实现长期免费使用。
-2. 该平台支持多种Docker应用的搭建，有应用商店可进行一键自动部署，也支持手动部署。
-3. 注册用户可以通过特定链接查看自己的GitHub注册时间，地址为https://api.github.com/users/XXX（将XXX替换为自己的用户名）。
-4. 该链接的请求次数有 IP 限制，建议在节点IP使用人数较多时关闭代理后再访问。
-5. 推荐用户部署两款应用：Memos（轻笔记应用）和AList（网盘挂载工具），具体内容可参考相关的YouTube视频。]]></summary>
+一项旨在无限期拘留移民的政策，导致了大量诉讼的产生。这些诉讼使一些联邦法院不堪重负，并最终导致了许多移民被释放。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[关键词：谷歌云，免费VPS，注册，SSH登录，科学上网
+        <title><![CDATA[Ukraine Peace Talks Delayed After Russia and U.S. Meet]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/world/europe/ukraine-russia-us-peace-talks.html" />
+        <id>https://www.nytimes.com/2026/02/01/world/europe/ukraine-russia-us-peace-talks.html</id>
+        <updated>Sun, 01 Feb 2026 19:07:38 +0800</updated>
+        <summary type="html"><![CDATA[谈判 推迟 不明 原定 数日
 
 <br><br>总结:
-一、谷歌云提供免费VPS的政策，其中包括免费配置和流量。  
-二、注册账号需添加外币支付信息，尽量在试用期结束后再激活完整账号。  
-三、创建完全免费的VM实例时，建议选择俄勒冈地区的E2-micro配置，操作系统最好使用Ubuntu，并确保快照时间表设置为“无备份”以避免收费。  
-四、开放防火墙时可以选择全部放行的出入站规则，便于新手用户。  
-五、SSH登录可以通过官方后台直接进入，或使用第三方工具进行密钥登录。  
-六、科学上网时建议使用Hysteria节点，注意流量收费政策，避免使用Cloudflare CDN。  
-七、搭建科学上网节点可以通过命令行、H-UI、S-UI或甬哥一键脚本等方式完成。]]></summary>
+最新一轮谈判原计划于周日举行。然而，此次谈判被推迟了数日。至于推迟的具体原因，目前尚不明确。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[关键词：注册地址、免费域名、us.kg、续期、Cloudflare  
+        <title><![CDATA[The White House Is the Crisis]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html" />
+        <id>https://www.nytimes.com/2026/02/01/opinion/trump-minneapolis-power-muzzle-velocity.html</id>
+        <updated>Sun, 01 Feb 2026 19:00:26 +0800</updated>
+        <summary type="html"><![CDATA[总统 任期 失败 全面 表现
+<br><br>总结:
+这篇文章的核心观点是对一个总统任期的明确负面评估。
+首先，它直接指出该任期的表现是失败的。
+其次，这种失败是全面性的，意即无论从任何标准或角度衡量，其结果都无法被视为成功。
+最后，这表明作者认为该总统职位在运作和成果上存在根本性缺陷，构成了一场彻底的失败。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[The Fight to Define Renee Good and Alex Pretti in Death]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/opinion/renee-good-alex-pretti-ice-minneapolis.html" />
+        <id>https://www.nytimes.com/2026/02/01/opinion/renee-good-alex-pretti-ice-minneapolis.html</id>
+        <updated>Sun, 01 Feb 2026 19:00:14 +0800</updated>
+        <summary type="html"><![CDATA[家庭 悲痛 对抗 特朗普 总统
+<br><br>总结:
+1. 一群正经历悲痛的家庭，正在采取行动。
+2. 他们直接与时任美国总统特朗普进行对抗或提出挑战。
+3. 这表明家庭可能因其所承受的悲痛经历，而对总统、其政府的某些政策或言论表达不满。
+4. 这是一场公民个体（受害者家庭）与国家最高领导人之间的冲突或抗议事件。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Takeaways From Gavin Newsom’s New Memoir, ‘Young Man in a Hurry’]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/us/politics/gavin-newsom-memoir-takeaways.html" />
+        <id>https://www.nytimes.com/2026/02/01/us/politics/gavin-newsom-memoir-takeaways.html</id>
+        <updated>Sun, 01 Feb 2026 18:02:04 +0800</updated>
+        <summary type="html"><![CDATA[回忆录 内省 挑战传统 婚姻探索 私事爆料
+
+<br><br>总结:
+1. 这本内省式回忆录旨在挑战关于他成长的传统观念。
+2. 书中深入探讨了他多段婚姻关系。
+3. 它还披露了一些个人私密细节。
+4. 然而，该书对政治议题的讨论相对较少。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[2026 Grammys: How to Watch, Red Carpet Time and Stream Details]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/arts/music/grammys-2026-when-time-how-watch.html" />
+        <id>https://www.nytimes.com/2026/02/01/arts/music/grammys-2026-when-time-how-watch.html</id>
+        <updated>Sun, 01 Feb 2026 18:01:01 +0800</updated>
+        <summary type="html"><![CDATA[年度 奖项 指南 盛典 须知
+<br><br>总结:
+这篇文章旨在为即将到来的第68届年度颁奖典礼提供一份全面的观看指南。它涵盖了周日晚间举行这一年度盛典的所有必要信息。
+1.  指南将详细介绍典礼的具体时间、直播平台及观看方式。
+2.  读者可以从中了解到主要奖项的提名名单，以及各奖项的看点与预测。
+3.  文中还会揭示本届颁奖典礼的主持人阵容，以及可能登台表演的嘉宾名单。
+4.  此外，文章可能还会提供红毯环节的精彩看点，以及其他不容错过的亮点，确保观众能充分体验这场年度盛事。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How Alex Pretti’s Death Became a National Tipping Point]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/us/alex-pretti-minneapolis.html" />
+        <id>https://www.nytimes.com/2026/02/01/us/alex-pretti-minneapolis.html</id>
+        <updated>Sun, 01 Feb 2026 18:00:59 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[This Hasidic Reporter Has a Few Questions for Mayor Mamdani]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/nyregion/jacob-kornbluh-mamdani-hasidic-jewish-reporter.html" />
+        <id>https://www.nytimes.com/2026/02/01/nyregion/jacob-kornbluh-mamdani-hasidic-jewish-reporter.html</id>
+        <updated>Sun, 01 Feb 2026 18:00:53 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Gavin Newsom Memoir Describes Difficult Childhood, Contrary to Image]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/us/politics/with-new-memoir-newsom-wants-americans-to-know-he-struggled-growing-up.html" />
+        <id>https://www.nytimes.com/2026/02/01/us/politics/with-new-memoir-newsom-wants-americans-to-know-he-struggled-growing-up.html</id>
+        <updated>Sun, 01 Feb 2026 18:00:51 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元]]></title>
+        <link href="https://wallstreetcn.com/articles/3764687" />
+        <id>https://wallstreetcn.com/articles/3764687</id>
+        <updated>Sun, 01 Feb 2026 17:18:29 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[抢先开启 Gemini in Chrome 功能！支持（AI Agent）自动浏览网页和完成任务！]]></title>
+        <link href="https://www.freedidi.com/22697.html" />
+        <id>https://www.freedidi.com/22697.html</id>
+        <updated>Sun, 01 Feb 2026 16:54:44 +0800</updated>
+        <summary type="html"><![CDATA[Chrome, Gemini AI, 侧边栏, 智能体, 部署
+
+总结:
+谷歌近日宣布Chrome浏览器将更新并新增基于Gemini的AI侧边栏功能。该功能支持AI智能体自动浏览网页、完成任务，并可直接编辑图像。用户点击Chrome顶部Gemini图标即可启用，它能在多标签页中处理不同任务，访问Gmail、日历等谷歌服务应用数据，且强调侧边栏操作不会与访问网页共享数据。
+
+目前，抢先启用此功能需满足特定条件：包括Python 3.13+环境、使用美国代理IP、最新版Chrome浏览器并登录谷歌帐号，以及将浏览器语言设为英文（美国）。具体启用步骤涉及安装`uv`工具，克隆并运行GitHub上的`enable-chrome-ai`开源项目脚本。成功部署后，用户可免费选择Auto、Fast、Thinking、Pro等基于Gemini 3的模型。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[“摧毁伊朗”还是再次“极限施压”？美国选择一鱼二吃]]></title>
+        <link href="https://www.huxiu.com/article/4831496.html" />
+        <id>https://www.huxiu.com/article/4831496.html</id>
+        <updated>Sun, 01 Feb 2026 16:06:54 +0800</updated>
+        <summary type="html"><![CDATA[美伊局势, 海鲲号, 军事部署, 极限施压, 下潜测试
+<br><br>总结:
+本周，美国对伊朗的军事行动由口头威慑升级为“箭在弦上”，军事部署迅速增强，特朗普寻求“毕其功于一役”，对伊朗施加“极限施压”，要求其去核等。伊朗防空薄弱，但可利用导弹与无人机进行有限报复。
+台湾“海鲲”号潜艇完成首次下潜测试，官方与媒体将其视为重大突破。然而，该项目此前饱受技术问题、延期与丑闻困扰，潜艇本身仍有诸多待解决的缺陷，距离全面完成海试尚远，各方围绕其政治利益纷争不断。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Woman Says Tal Alexander Assaulted Her When She Was 13 Years Old]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/nyregion/alexanders-trial-victim-abuse.html" />
+        <id>https://www.nytimes.com/2026/02/01/nyregion/alexanders-trial-victim-abuse.html</id>
+        <updated>Sun, 01 Feb 2026 16:00:25 +0800</updated>
+        <summary type="html"><![CDATA[女性,被下药,侵犯,警方,亚历山大
+<br><br>总结:
+一名女性向警方报案，称她在派对上被下药。
+随后遭到包括亚历山大先生在内的五名男子侵犯。
+亚历山大先生目前正因性贩卖而受审。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How Trump Took Up the ‘Christian Genocide’ Cause in Nigeria]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/world/africa/nigeria-christians-trump.html" />
+        <id>https://www.nytimes.com/2026/02/01/world/africa/nigeria-christians-trump.html</id>
+        <updated>Sun, 01 Feb 2026 16:00:14 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Mamdani’s 31-Day Challenge: Showing Voters They Were ‘Right to Believe’]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/nyregion/mamdanis-31-day-challenge-showing-voters-they-were-right-to-believe.html" />
+        <id>https://www.nytimes.com/2026/02/01/nyregion/mamdanis-31-day-challenge-showing-voters-they-were-right-to-believe.html</id>
+        <updated>Sun, 01 Feb 2026 16:00:14 +0800</updated>
+        <summary type="html"><![CDATA[Zohran Mamdani, 纽约市长, 上任首月, 表演才能, 胜利与挫折
+
+<br><br>总结:
+*   Zohran Mamdani 在其担任纽约市长的首月，展现了独特的个人风格。
+*   他巧妙地运用了自身的表演才能和表现力。
+*   旨在成功地向公众突显他在上任初期所取得的一些显著胜利。
+*   尽管在此过程中，他的任期首月也伴随并遭遇了一些挫折和挑战。
+*   总体而言，他的表现喜忧参半，但其个人魅力有效地吸引了公众的关注。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[央视中文国际频道迎来新主播陶忆雯]]></title>
+        <link href="https://m.thepaper.cn/detail/32510636" />
+        <id>https://m.thepaper.cn/detail/32510636</id>
+        <updated>Sun, 01 Feb 2026 15:53:26 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[特朗普：美委将“分享”石油收益]]></title>
+        <link href="https://m.thepaper.cn/detail/32510288" />
+        <id>https://m.thepaper.cn/detail/32510288</id>
+        <updated>Sun, 01 Feb 2026 13:40:54 +0800</updated>
+        <summary type="html"><![CDATA[特朗普 石油 委内瑞拉 古巴 格陵兰
+<br><br>总结:
+美国总统特朗普1月31日表示：
+1. 美国与委内瑞拉两国领导层关系非常好，双方将分享石油收益，美方也会从中获益。
+2. 他认为古巴方面可能会来寻求同美国谈判，并有望达成协议。
+3. 关于格陵兰岛的谈判已启动并基本达成一致，他强调这是一项对国家安全“非常重要”的协议。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[轰-6K战巡黄岩岛，专家解析“空中战神”的硬核作战能力]]></title>
+        <link href="https://m.thepaper.cn/detail/32509895" />
+        <id>https://m.thepaper.cn/detail/32509895</id>
+        <updated>Sun, 01 Feb 2026 12:41:29 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[右翼退潮, 左翼归来？委内瑞拉事件, 或促成全球思潮的又一次大分野]]></title>
+        <link href="https://www.huxiu.com/article/4831469.html" />
+        <id>https://www.huxiu.com/article/4831469.html</id>
+        <updated>Sun, 01 Feb 2026 12:04:51 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[当街杀人的美国ICE，被盟友怒斥为“盖世太保”]]></title>
+        <link href="https://www.huxiu.com/article/4831460.html" />
+        <id>https://www.huxiu.com/article/4831460.html</id>
+        <updated>Sun, 01 Feb 2026 10:59:14 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[关键词：爪云、内网穿透、Docker、Cloudflare、VPS
 
 <br><br>总结:  
-1. 提供了注册地址和美国地址生成器的信息，其中包括DigitalPlat的Github仓库链接。  
-2. 对于Cloudflare的使用，推荐查看相关视频以了解如何处理自定义域和SSL证书问题。  
-3. 提到两种域名选择，dpdns.org为免费，us.kg为收费（12元/个）。  
-4. 新用户可获得1个免费域名，若加Star至Github后可增至2个；老用户则有3个免费名额，加Star后增至4个。  
-5. us.kg域名和免费域名的续期均为永久免费，需在到期前180天内续期。详细教程可在Youtube视频中查找。]]></summary>
+一、前置工作：获取root权限并安装Docker。  
+二、临时隧道模式：使用docker命令运行爪云容器并查看日志。  
+三、固定隧道模式：  
+（一）准备三项变量：UUID、Cloudflare隧道Token和隧道域名。UUID可以通过多个工具生成或自行编写。  
+（二）运行固定隧道的docker命令，配置相应的环境变量并查看日志。  
+四、相关docker命令：提供查看、停止和删除Docker容器的基本命令。  
+此外，提供了视频教程链接，用于帮助用户更好地理解爪云的使用和科学上网节点的部署。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[关键词：稳定性，速度，保活，降智，购买
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[关键词：us.kg、域名、注册、Cloudflare、FreeDNS  
 
-<br><br>总结: 
-1. 稳定性和速度：文章讨论了服务的稳定性和响应速度，表示整体表现良好，适合长时间使用。 
-2. 是否需要保活：提到在使用中是否需要进行保活操作，以保持连接的稳定性。 
-3. ChatGPT降智问题：讨论了用户对ChatGPT智力下降的担忧，包括可能的影响和官方的态度。 
-4. 价格方面：分析了产品的定价是否合理，用户购买时需要考虑的因素。 
-5. 总体体验和购买过程：分享了个人使用体验以及购买和续费的步骤，建议用户在购买前对这些信息进行充分了解。]]></summary>
+<br><br>总结:  
+1. us.kg免费域名目前仍在运行，已注册的域名用户仍然可以正常使用。  
+2. 新用户可通过dpdns.org将新注册的域名托管到Cloudflare，但具体情况需要查看相关性说明。  
+3. 对于已经注册的用户，建议继续正常使用域名，并采取相应的管理措施。  
+4. 目前临时托管服务可以使用FreeDNS，为使用者提供了灵活的解决方案。  
+5. 用户仍然可以注册新的us.kg域名，具体注册情况可联系注册机构以获取最新信息。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[关键词：US.KG、免费域名、Cloudflare、注册账号、身份信息生成器  
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：科学上网、Cloudflare、隧道、CDN、保活
 
-<br><br>总结：  
-1. US.KG域名无法注册，建议找其他免费域名。  
-2. 可选择一个可托管到Cloudflare的免费域名，免费使用一年。  
-3. 注册域名需要使用身份信息生成器辅助填写个人信息。  
-4. 在购买域名时，输入优惠码“newuser”可享受一年免费。  
-5. 注册完成后，需登录Cloudflare添加域名，并将分配的两个名称服务器填写到域名管理界面。  
-6. 提供详细的步骤视频，帮助用户顺利完成注册和托管操作。  ]]></summary>
+<br><br>总结:
+1. 登录步骤：可以通过s*.serv00.com、cache*.serv00.com或web*.serv00.com中的任意一个域名登录，如果被墙，可以设置系统代理。
+2. 科学上网节点搭建：需要系统初始化、重置端口，然后安装相应脚本。
+3. Cloudflare固定隧道：需拥有一个托管在Cloudflare的域名，设置隧道域名及类型为HTTP，并输入隧道令牌和相关端口。
+4. CDN回源设置：添加DNS记录，确保指向Serv00的IP，并设置回源规则实现主机名与指定端口的重写。
+5. 网页保活功能：提供多种命令如/start、/re、/rp等管理节点，且可通过Cloudflare设置远程保活以保持服务稳定。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG、域名注册、KYC验证、Cloudflare、免费续订  
+
+<br><br>总结:  
+00:00 开场介绍US.KG域名的现状，目前处于受限状态；  
+00:49 该域名的优点分析；  
+02:06 注册账号的步骤，通过链接 https://dash.domain.digitalplat.org/ 完成；  
+05:39 验证邮箱，接收邮件后进行验证；  
+06:47 KYC验证，需要将注册时信息整理成文档并上传；  
+10:45 注册域名步骤，点击“Domain Name Registration”进行域名前缀的输入；  
+14:24 完成域名的托管到Cloudflare，添加域名并输入名称服务器；  
+15:32 讨论免费域名的缺点，建议在域名状态恢复后托管到Cloudflare。  
+详细教程可参考相应的YouTube视频。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek，网页端，API，本地部署，应用
+
+<br><br>总结:
+1. Deepseek简介：Deepseek是一种智能搜索技术，提供多种应用和服务，旨在提升信息获取效率。
+2. 网页端和APP：用户可以通过Deepseek的官方网站和手机客户端方便地访问其功能，满足不同使用需求。
+3. Deepseek API：用户可通过API接口与其他应用集成，注册时需用+86手机号，赠送10元体验金，有效期一个月，可用于翻译及聊天等功能。
+4. 第三方应用：Deepseek支持与多个第三方应用集成，如沉浸式翻译、Chatbox及欧路词典等，提升用户体验。
+5. 本地部署：用户可通过下载Ollama并在终端操作进行本地部署，进一步扩大Deepseek的应用范围，支持多种硬件配置。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
