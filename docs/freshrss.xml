@@ -2,92 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>| FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Mon, 02 Feb 2026 05:23:16 GMT</updated>
+    <updated>Mon, 02 Feb 2026 07:02:35 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[N.Y. Republican in Swing District Gets Rowdy Reception at Town Hall]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/nyregion/mike-lawler-ny-town-hall.html" />
-        <id>https://www.nytimes.com/2026/02/01/nyregion/mike-lawler-ny-town-hall.html</id>
-        <updated>Mon, 02 Feb 2026 11:36:53 +0800</updated>
-        <summary type="html"><![CDATA[迈克·劳勒, 市政厅会议, 寻求连任, 被诘问, 罗克兰县
+        <title><![CDATA[2026 Grammys Takeaways: Bad Bunny and Kendrick Lamar Take Top Awards]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/arts/music/grammy-awards-2026-takeaways.html" />
+        <id>https://www.nytimes.com/2026/02/01/arts/music/grammy-awards-2026-takeaways.html</id>
+        <updated>Mon, 02 Feb 2026 14:13:12 +0800</updated>
+        <summary type="html"><![CDATA[Bad Bunny, 肯德里克·拉马尔, 格莱美, 大奖, 政治表态
+<br><br>总结:
+在一个充满明确政治表态的颁奖典礼之夜，多位艺术家创造了历史：
+1. Bad Bunny成为首位斩获该典礼最高奖项的西班牙语艺人。
+2. 肯德里克·拉马尔则荣膺格莱美历史上获奖最多的说唱歌手，成就斐然。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[2025美团技术年货，「马」上到来]]></title>
+        <link href="https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html" />
+        <id>https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html</id>
+        <updated>Mon, 02 Feb 2026 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[美团技术, 技术文章, 电子书, 新年礼物, 技术探索
+<br><br>总结:
+美团技术团队：该团队在过去一年中，精选了微信公众号上发布的40多篇优质技术文章。
+内容汇编：这些精选文章被精心汇编成一本超过500页的电子书。
+发布时机：值此马年春节来临之际。
+目的意义：作为一份特别的新年礼物推出。
+目标读者：旨在献给每一位热爱技术、持续探索的学习者或从业人员。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[多维创新打造强泛化智能体模型，LongCat-Flash-Thinking-2601技术报告发布]]></title>
+        <link href="https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html" />
+        <id>https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html</id>
+        <updated>Mon, 02 Feb 2026 08:00:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[媒体：员工如厕遭解雇牵动敏感神经，不是打工人小题大做]]></title>
+        <link href="https://m.thepaper.cn/detail/32511052" />
+        <id>https://m.thepaper.cn/detail/32511052</id>
+        <updated>Sun, 01 Feb 2026 20:18:53 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[OpenClaw 远程浏览器使用指南：从入门到踩坑]]></title>
+        <link href="https://juejin.cn/post/7600986495927386153" />
+        <id>https://juejin.cn/post/7600986495927386153</id>
+        <updated>Sat, 31 Jan 2026 10:52:26 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[.NET周刊【12月】]]></title>
+        <link href="https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_12" />
+        <id>https://www.cnblogs.com/InCerry/p/-/dotnet_week_25_12</id>
+        <updated>Sun, 25 Jan 2026 19:41:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[技术面：如何让你的系统抗住高并发的流量？]]></title>
+        <link href="https://www.cnblogs.com/jimoer/p/19523255" />
+        <id>https://www.cnblogs.com/jimoer/p/19523255</id>
+        <updated>Fri, 23 Jan 2026 17:01:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[黄金、白银资产大面积跌停，机构争议“二次探底”]]></title>
+        <link href="https://www.yicai.com/news/103034657.html" />
+        <id>https://www.yicai.com/news/103034657.html</id>
+        <updated>Mon, 02 Feb 2026 13:17:06 +0800</updated>
+        <summary type="html"><![CDATA[暴跌, 监管, 投机, 机构分歧, 长期看多
+<br><br>总结:
+贵金属市场近期经历史诗级暴涨后急剧下跌，现货金银大幅下挫，国内期市及A股贵金属板块普遍跌停。
+*   市场分析认为，此次暴跌超越基本面，由情绪和资金驱动，传统模型失效，散户投机情绪主导。
+*   国内外交易所紧急上调保证金和涨跌停板比例，并对异常交易者采取限制措施，以遏制过度投机。
+*   这些监管措施加速获利盘平仓，进一步放大了跌幅。
+*   短期机构虽谨慎，但部分机构（如中信证券）仍长期看好贵金属，预测2026年金银价格将创新高，因核心支撑未变，受益于货币属性、避险情绪及能源、AI等需求。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How a Village in Italy Became a Slice of Caracas]]></title>
+        <link href="https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venezuela-migrants.html" />
+        <id>https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venezuela-migrants.html</id>
+        <updated>Mon, 02 Feb 2026 13:01:28 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.]]></title>
+        <link href="https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html" />
+        <id>https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html</id>
+        <updated>Mon, 02 Feb 2026 13:01:08 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Squeezed Between Trump and China, India Looks for Faraway Friendships]]></title>
+        <link href="https://www.nytimes.com/2026/02/02/business/india-trump-china-trade-deals.html" />
+        <id>https://www.nytimes.com/2026/02/02/business/india-trump-china-trade-deals.html</id>
+        <updated>Mon, 02 Feb 2026 13:00:09 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Laura Fernández Wins Costa Rican Presidency]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html" />
+        <id>https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html</id>
+        <updated>Mon, 02 Feb 2026 12:55:58 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Unforgettable Grammys 2026 Looks: Chappell Roan, Sabrina Carpenter, Bad Bunny]]></title>
+        <link href="https://www.nytimes.com/2026/02/01/style/grammys-red-carpet-2026.html" />
+        <id>https://www.nytimes.com/2026/02/01/style/grammys-red-carpet-2026.html</id>
+        <updated>Mon, 02 Feb 2026 12:25:38 +0800</updated>
+        <summary type="html"><![CDATA[羽毛, 亮片, 礼服, 西装, 解放
 
 <br><br>总结:
-众议员迈克·劳勒承诺举行多场市政厅会议，以寻求连任。在罗克兰县的会议上，他被听众反复诘问。]]></summary>
+这段文字列举了当前时尚界的一些显著特征，涵盖了多样化的着装风格。首先，提到了华丽的羽毛礼服，展现出奢华与精致。其次，亮片西装也是一个亮点，它结合了闪耀元素与经典剪裁。此外，解放乳头这一大胆趋势，则代表了一种更加自由和无拘束的时尚表达。这些元素共同描绘了一个充满创意、突破传统界限的时尚场景。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[黄金估值已达极端水平！下半年避险情绪消退将成最大利空]]></title>
-        <link href="https://wallstreetcn.com/articles/3764721" />
-        <id>https://wallstreetcn.com/articles/3764721</id>
-        <updated>Mon, 02 Feb 2026 11:22:50 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Man and Dog Found Dead Inside Mobile Veterinary Van in Queens]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/nyregion/man-dog-dead-van-queens.html" />
-        <id>https://www.nytimes.com/2026/02/01/nyregion/man-dog-dead-van-queens.html</id>
-        <updated>Mon, 02 Feb 2026 11:11:26 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Oscar-Nominated Screenwriter Arrested in Iran for Criticizing Regime]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/world/middleeast/iran-mehdi-mahmoudian-arrest.html" />
-        <id>https://www.nytimes.com/2026/02/01/world/middleeast/iran-mehdi-mahmoudian-arrest.html</id>
-        <updated>Mon, 02 Feb 2026 11:04:01 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Trump Says Kennedy Center Will Close for 2-Year Reconstruction Project]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/us/politics/trump-kennedy-center.html" />
-        <id>https://www.nytimes.com/2026/02/01/us/politics/trump-kennedy-center.html</id>
-        <updated>Mon, 02 Feb 2026 10:56:44 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[James Sallis, 81, Dies; Novelist Whose ‘Drive’ Became a Hit Movie]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/obituaries/james-sallis-dead.html" />
-        <id>https://www.nytimes.com/2026/02/01/obituaries/james-sallis-dead.html</id>
-        <updated>Mon, 02 Feb 2026 08:46:23 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Agent Skills 傻瓜式教程，26 年最火 AI 技术就这？]]></title>
-        <link href="https://www.cnblogs.com/yupi/p/19537546" />
-        <id>https://www.cnblogs.com/yupi/p/19537546</id>
-        <updated>Tue, 27 Jan 2026 11:47:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Kehlani, Justin Bieber and More Wear ‘ICE Out’ Pins and Support Immigrants at Grammys]]></title>
-        <link href="https://www.nytimes.com/2026/02/01/arts/music/grammys-ice-immigration-kehlani.html" />
-        <id>https://www.nytimes.com/2026/02/01/arts/music/grammys-ice-immigration-kehlani.html</id>
-        <updated>Mon, 02 Feb 2026 10:52:57 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[金银暴跌之后，所有目光都盯着周一中国开盘]]></title>
-        <link href="https://wallstreetcn.com/articles/3764708" />
-        <id>https://wallstreetcn.com/articles/3764708</id>
-        <updated>Mon, 02 Feb 2026 08:38:54 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[特朗普再次表态：将与古巴达成协议]]></title>
-        <link href="https://m.thepaper.cn/detail/32512449" />
-        <id>https://m.thepaper.cn/detail/32512449</id>
-        <updated>Mon, 02 Feb 2026 04:18:27 +0800</updated>
+        <title><![CDATA[缅北白家犯罪集团案4名罪犯被执行死刑]]></title>
+        <link href="https://m.thepaper.cn/detail/32513494" />
+        <id>https://m.thepaper.cn/detail/32513494</id>
+        <updated>Mon, 02 Feb 2026 10:41:14 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
