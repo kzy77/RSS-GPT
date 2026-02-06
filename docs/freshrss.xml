@@ -2,60 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>| FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Fri, 06 Feb 2026 08:41:29 GMT</updated>
+    <updated>Fri, 06 Feb 2026 10:39:22 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Late Night Finds Trump Out of Place at Prayer Breakfast]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/arts/television/late-night-trump-prayer-breakfast.html" />
-        <id>https://www.nytimes.com/2026/02/06/arts/television/late-night-trump-prayer-breakfast.html</id>
-        <updated>Fri, 06 Feb 2026 15:51:16 +0800</updated>
-        <summary type="html"><![CDATA[国家祈祷早餐会, 特朗普, 常态, 无党派, 偏离
+        <title><![CDATA[How the Capitalists Broke Capitalism]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/opinion/capitalism-industry-financialization.html" />
+        <id>https://www.nytimes.com/2026/02/06/opinion/capitalism-industry-financialization.html</id>
+        <updated>Fri, 06 Feb 2026 18:02:37 +0800</updated>
+        <summary type="html"><![CDATA[监管, 行业, 有益, 谴责, 至关重要
 <br><br>总结:
-要点一：塞斯·梅耶斯评论称，一年一度的“国家祈祷早餐会”理应是一个正常且无党派的活动。
-要点二：然而，他同时指出，唐纳德·特朗普无法保持常态，使得这一本应如此的活动偏离了其既定性质。]]></summary>
+1. 文章指出，对行业实施监管是具有积极作用和益处的。
+2. 而更关键的是，对行业中的不良行为进行公开批评或谴责（即“羞辱”），则被认为是至关重要的手段。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[U.S. and Iran Set for Talks in Oman]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html" />
-        <id>https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html</id>
-        <updated>Fri, 06 Feb 2026 15:40:05 +0800</updated>
-        <summary type="html"><![CDATA[中东, 外交官, 伊朗核计划, 进展, 悲观
+        <title><![CDATA[Russian General Is Shot in Moscow]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html" />
+        <id>https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html</id>
+        <updated>Fri, 06 Feb 2026 17:14:22 +0800</updated>
+        <summary type="html"><![CDATA[袭击, 暗杀, 军官, 俄首都, 特征
+<br><br>总结:
+此次袭击事件：
+1.  具有明显的行事特征。
+2.  这些特征与此前在俄罗斯首都发生的多起未遂暗杀事件高度吻合。
+3.  而那些未遂暗杀的目标均为俄罗斯的高级军事官员。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[刚刚，Claude Opus 4.6 和 GPT-5.3-Codex 同时炸场！AI 编程要变天了]]></title>
+        <link href="https://juejin.cn/post/7603263490341945353" />
+        <id>https://juejin.cn/post/7603263490341945353</id>
+        <updated>Fri, 06 Feb 2026 10:39:54 +0800</updated>
+        <summary type="html"><![CDATA[AI模型 编程 Claude 4.6 GPT 5.3<br><br>总结:
+Anthropic和OpenAI同步发布了最新大模型Claude Opus 4.6和GPT-5.3-Codex，均聚焦编程与实际工作能力。
+*   Claude Opus 4.6：编程能力大幅提升，支持100万token超长上下文和128k输出，增强任务持久性与多智能体协作。它深度整合Excel、PPT等办公应用，展现全面“六边形战士”能力。
+*   GPT-5.3-Codex：编程跑分全面领先，尤其在真实桌面操作（OSWorld）能力上显著提升。它速度更快、成本更低，具备实时协作与汇报能力，前端开发、电脑操作超强，能自主训练并增强网络安全。
+两大模型均追求实用价值，旨在提升日常工作效率。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Russian General Is Shot in Moscow]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alexeyev.html" />
+        <id>https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alexeyev.html</id>
+        <updated>Fri, 06 Feb 2026 16:55:05 +0800</updated>
+        <summary type="html"><![CDATA[袭击, 手法, 暗杀, 高级军官, 俄首都
+<br><br>总结:
+这次袭击事件：
+1.  具有某种特定的手法或特征。
+2.  这些特征与此前发生的多起暗杀企图高度相似。
+3.  此前被暗杀企图针对的目标均为俄罗斯的高级军官。
+4.  并且所有这些事件都发生在俄罗斯首都。
+这表明此次袭击与过去针对俄首都高级军官的暗杀行动在作案模式上存在关联。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Toyota Names Kenta Kon C.E.O. as Automaker Faces Tariffs and Increasing Competition]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/business/toyota-ceo-kenta-kon.html" />
+        <id>https://www.nytimes.com/2026/02/06/business/toyota-ceo-kenta-kon.html</id>
+        <updated>Fri, 06 Feb 2026 18:23:14 +0800</updated>
+        <summary type="html"><![CDATA[汽车巨头, 电动化转型, 成功应对, 新领导层, 地缘政治
 
 <br><br>总结:
-中东地区的外交官对当前美国与伊朗关系的进展持复杂且分化的看法。
-*   他们普遍认为，在伊朗核计划这一核心问题上，目前存在着取得积极进展的机遇。这表明通过外交努力或持续谈判，有可能在该特定领域实现突破或达成某种形式的解决方案。
-*   然而，对于美国向伊朗提出的其他各项要求，这些外交官们则普遍表达了悲观的态度。这意味着除了核问题之外，在例如地区影响力、导弹计划或人权等其他争议议题上，达成共识或取得实质性进展的可能性较低。
-*   总体而言，中东外交界对特定问题的解决抱有一线希望，但对美伊关系全面改善和地区更广泛的挑战则普遍缺乏信心，预示着未来的道路充满不确定性。]]></summary>
+全球最大的汽车制造商已成功应对了行业动荡的电动汽车转型。然而，面对日益加剧的地缘政治挑战，该公司正寻求新的领导层来有效管理这些复杂问题。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[关注青少年近视、肥胖，代表建议推动家庭医生签约服务进校园]]></title>
-        <link href="https://m.thepaper.cn/detail/32525796" />
-        <id>https://m.thepaper.cn/detail/32525796</id>
-        <updated>Fri, 06 Feb 2026 09:58:00 +0800</updated>
-        <summary type="html"><![CDATA[儿童青少年健康, 五健, 医校融合, 家庭医生, 校园防控
-<br><br>总结:
-市人大代表金迎建议，为促进儿童青少年“五健”（体重、视力、心理、骨骼、口腔）健康，应深化医校融合，推动家庭医生签约服务进校园，把校园作为防控主战场。国家已出台“五健”促进行动计划。金迎强调，学生阶段健康干预回报率高，家庭医生进校园能构建“校园-社区-家庭”全周期服务模式，并缓解专科就医压力。
-为落地“五健”促进行动，她提出：首先，压实校方主体责任，由市教委牵头制定规范，并根据签约率和健康改善指标对学校予以奖励。其次，建立“入学即签约”机制，学生通过线上平台自动匹配家庭医生团队，获得健康档案、体检解读、个性化干预（如肥胖三联处方）等专属服务包。同时，依托社区心理门诊，构建儿童精神心理筛查、干预、转诊闭环，并健全心理治疗人才队伍。金迎希望通过政府、学校、医疗、家庭多方合力，让家庭医生成为学生的“健康守门人”，助力青少年健康成长。]]></summary>
+        <title><![CDATA[预制菜国标征求意见：保质期最长不应超12个月，明确4类食品不是预制菜]]></title>
+        <link href="https://m.thepaper.cn/detail/32550330" />
+        <id>https://m.thepaper.cn/detail/32550330</id>
+        <updated>Fri, 06 Feb 2026 16:05:39 +0800</updated>
+        <summary type="html"><![CDATA[预制菜, 食品安全, 国家标准, 规范管理, 营养健康
+
+总结:
+1. 国家卫健委发布《预制菜食品安全国家标准》征求意见稿，旨在保障消费者健康，规范产业发展。
+2. 标准明确预制菜定义，排除主食、净菜、即食食品和中央厨房菜肴，并详细解释了原因。
+3. 它强化从原料到销售的全链条风险管控，整合现有食品安全标准。
+4. 严格管理污染物和食品添加剂，严禁使用防腐剂，强调“非必要不添加”，严格限制添加剂品种。
+5. 注重营养品质，避免过度烹饪，鼓励减油盐糖，并规定预制菜保质期最长不得超过12个月。
+6. 对原料安全（可追溯、无腐败变质）和生产过程（卫生、温度控制、防交叉污染）提出具体要求。
+7. 要求标签清晰标示食用方式（如“需加热”或“需熟制”）及包装材料适用性，指导消费者安全食用。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Clawdbot/OpenClaw 本地部署 Ollama/Qwen3 无消耗无token]]></title>
-        <link href="https://juejin.cn/post/7602447286606856201" />
-        <id>https://juejin.cn/post/7602447286606856201</id>
-        <updated>Tue, 03 Feb 2026 16:17:09 +0800</updated>
-        <summary type="html"><![CDATA[Clawdbot, Ollama, 本地部署, Qwen3, 无消耗
+        <title><![CDATA[扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路]]></title>
+        <link href="https://m.thepaper.cn/detail/32543746" />
+        <id>https://m.thepaper.cn/detail/32543746</id>
+        <updated>Fri, 06 Feb 2026 14:52:56 +0800</updated>
+        <summary type="html"><![CDATA[高市早苗 闪电大选 危机政治 黑金特赦 政局失衡
+
 <br><br>总结:
-本文介绍Clawdbot与本地Ollama（Qwen3）无消耗部署，实现私有AI。
-*   **Ollama配置：** Windows上安装Ollama，拉取Qwen3模型，并设置`OLLAMA_HOST=0.0.0.0`允许局域网访问。
-*   **Clawdbot配置：** `clawdbot.json`中，`baseUrl`指向Ollama局域网IP，`api`设`openai-completions`，`reasoning`设`false`确保兼容性。
-*   **智能代理：** 部署代理脚本，使Telegram请求走代理、Ollama局域网请求直连，解决网络分流。
-*   **使用建议：** 总结常见故障及排查。因开源模型Tool Calling能力弱，建议混合使用：本地模型处理简单对话，复杂任务回退至Claude等API。]]></summary>
+1.  日本首相高市早苗强行解散众议院，发动“闪电大选”，旨在建立“高市体制”。
+2.  她通过“危机政治”转移公众对“黑金丑闻”的视线，并特赦涉案议员以巩固权力。
+3.  此举牺牲了自民党形象，引发党内大佬不满和基层动员困境。
+4.  “高市经济学”面临金融震荡风险，日元信誉脆弱，3月预算审议亦成重大挑战。
+5.  文章预测，高市政权虽或维持形式多数，但将陷入权力高频摩擦、政策被架空、金融脆弱的“慢性死亡”局面，导致政局严重失衡。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[上海两会快评｜路边停车，要规范秩序也要便利营商]]></title>
+        <link href="https://m.thepaper.cn/detail/32548902" />
+        <id>https://m.thepaper.cn/detail/32548902</id>
+        <updated>Fri, 06 Feb 2026 13:26:01 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[华尔街有多悲观？高盛直接把“软件”类比“报纸”]]></title>
+        <link href="https://wallstreetcn.com/articles/3765114" />
+        <id>https://wallstreetcn.com/articles/3765114</id>
+        <updated>Fri, 06 Feb 2026 09:51:09 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[杭州一男子家住40层，因每天等电梯20分钟卖房]]></title>
+        <link href="https://m.thepaper.cn/detail/32541728" />
+        <id>https://m.thepaper.cn/detail/32541728</id>
+        <updated>Thu, 05 Feb 2026 19:08:08 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[OpenClaw-CN/openclaw-cn]]></title>
+        <link href="https://gitee.com/OpenClaw-CN/openclaw-cn" />
+        <id>https://gitee.com/OpenClaw-CN/openclaw-cn</id>
+        <updated>Fri, 06 Feb 2026 22:37:49 +0800</updated>
+        <summary type="html"><![CDATA[AI助手, 私人, 全系统兼容, 全平台覆盖, OpenClaw
+
+<br><br>总结:
+*要点1:* OpenClaw致力于打造一款高度个性化的私人AI助手。
+*要点2:* 它最大的特色在于实现了全系统兼容，能够支持用户使用的各种操作系统。
+*要点3:* 同时，该助手还确保了全平台覆盖，使用户能在不同设备和平台上无缝体验。
+*要点4:* 这种无处不在、提供专属服务的理念，构成了OpenClaw品牌的核心精髓与承诺。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[America’s Rare-Earths Solution Is Hiding in Plain Sight]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/opinion/china-us-rare-earths.html" />
+        <id>https://www.nytimes.com/2026/02/06/opinion/china-us-rare-earths.html</id>
+        <updated>Fri, 06 Feb 2026 14:00:06 +0800</updated>
+        <summary type="html"><![CDATA[请提供文章内容，我才能为您总结。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[We’re All Canadian Now]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html" />
+        <id>https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html</id>
+        <updated>Fri, 06 Feb 2026 14:00:05 +0800</updated>
+        <summary type="html"><![CDATA[无文章 无法总结 未提供内容 输入缺失 请提供文章
+<br><br>总结:
+1. 检测到输入内容为“None”，表示未提供具体的文章文本。
+2. 由于缺乏原文内容，我无法从中提取任何关键词。
+3. 因此，无法按照要求对一篇不存在的文章进行总结。
+4. 请您提供具体的文章内容，以便我能进行关键词提取和总结。
+5. 收到文章后，我将严格遵循先输出5个关键词（在同一行），然后换行，再输出200字以内、包含所有要点并按顺序分要点输出的总结格式。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[New Jersey House Primary Remains Too Close to Call]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-results-congress.html" />
+        <id>https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-results-congress.html</id>
+        <updated>Fri, 06 Feb 2026 13:11:29 +0800</updated>
+        <summary type="html"><![CDATA[您没有提供任何文章内容。因此，我无法为您提取关键词并进行总结。如果您能提供文章内容，我将很乐意为您完成此任务。
+
+[无法提取关键词，请提供文章内容]
+<br><br>总结: [无法进行总结，请提供文章内容。]]]></summary>
     </entry>
     
 </feed>

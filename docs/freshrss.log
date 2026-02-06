@@ -1,18 +1,45 @@
 ------------------------------------------------------
-Started: 2026-02-06 08:41:19.189061
-Existing_entries: 10
+Started: 2026-02-06 10:39:16.548841
+Existing_entries: 4
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
-Token length: 164
+Token length: 57
 Summarized using gemini model: gemini-2.5-flash
-Append: [Late Night Finds Trump Out of Place at Prayer Breakfast](https://www.nytimes.com/2026/02/06/arts/television/late-night-trump-prayer-breakfast.html)
-Token length: 128
+Append: [How the Capitalists Broke Capitalism](https://www.nytimes.com/2026/02/06/opinion/capitalism-industry-financialization.html)
+Token length: 111
 Summarized using gemini model: gemini-2.5-flash
-Append: [U.S. and Iran Set for Talks in Oman](https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html)
-Token length: 844
+Append: [Russian General Is Shot in Moscow](https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alekseyev.html)
+Token length: 2737
 Summarized using gemini model: gemini-2.5-flash
-Append: [关注青少年近视、肥胖，代表建议推动家庭医生签约服务进校园](https://m.thepaper.cn/detail/32525796)
-Token length: 8960
+Append: [刚刚，Claude Opus 4.6 和 GPT-5.3-Codex 同时炸场！AI 编程要变天了](https://juejin.cn/post/7603263490341945353)
+Token length: 111
 Summarized using gemini model: gemini-2.5-flash
-Append: [Clawdbot/OpenClaw 本地部署 Ollama/Qwen3 无消耗无token](https://juejin.cn/post/7602447286606856201)
-append_entries: 4
-Finish: 2026-02-06 08:42:25.577715
+Append: [Russian General Is Shot in Moscow](https://www.nytimes.com/2026/02/06/world/europe/russian-general-shot-moscow-alexeyev.html)
+Token length: 166
+Summarized using gemini model: gemini-2.5-flash
+Append: [Toyota Names Kenta Kon C.E.O. as Automaker Faces Tariffs and Increasing Competition](https://www.nytimes.com/2026/02/06/business/toyota-ceo-kenta-kon.html)
+Token length: 4204
+Summarized using gemini model: gemini-2.5-flash
+Append: [预制菜国标征求意见：保质期最长不应超12个月，明确4类食品不是预制菜](https://m.thepaper.cn/detail/32550330)
+Token length: 3252
+Summarized using gemini model: gemini-2.5-flash
+Append: [扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路](https://m.thepaper.cn/detail/32543746)
+Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 37.416720358s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}
+Append: [上海两会快评｜路边停车，要规范秩序也要便利营商](https://m.thepaper.cn/detail/32548902)
+Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 37.270859767s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}
+Append: [华尔街有多悲观？高盛直接把“软件”类比“报纸”](https://wallstreetcn.com/articles/3765114)
+Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 37.128675816s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}
+Append: [杭州一男子家住40层，因每天等电梯20分钟卖房](https://m.thepaper.cn/detail/32541728)
+Token length: 209
+Summarized using gemini model: gemini-2.5-flash
+Append: [OpenClaw-CN/openclaw-cn](https://gitee.com/OpenClaw-CN/openclaw-cn)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [America’s Rare-Earths Solution Is Hiding in Plain Sight](https://www.nytimes.com/2026/02/06/opinion/china-us-rare-earths.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [We’re All Canadian Now](https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [New Jersey House Primary Remains Too Close to Call](https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-results-congress.html)
+append_entries: 14
+Finish: 2026-02-06 10:40:58.094079
