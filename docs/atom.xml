@@ -2,234 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2026-02-06T06:56:51Z</updated>
+    <updated>2026-02-06T08:42:39Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[32岁程序员猝死：让我想起了我曾经的加班经历，庆幸自己还活着]]></title>
-        <link href="https://www.cnblogs.com/StephenYoung/p/19539895" />
-        <id>https://www.cnblogs.com/StephenYoung/p/19539895</id>
-        <updated>Thu, 05 Feb 2026 20:42:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[OpenClaw-CN/openclaw-cn]]></title>
-        <link href="https://gitee.com/OpenClaw-CN/openclaw-cn" />
-        <id>https://gitee.com/OpenClaw-CN/openclaw-cn</id>
-        <updated>Fri, 06 Feb 2026 22:37:49 +0800</updated>
-        <summary type="html"><![CDATA[AI助手, 私人, 全系统兼容, 全平台覆盖, OpenClaw
-
+        <title><![CDATA[Clawdbot/OpenClaw 本地部署 Ollama/Qwen3 无消耗无token]]></title>
+        <link href="https://juejin.cn/post/7602447286606856201" />
+        <id>https://juejin.cn/post/7602447286606856201</id>
+        <updated>Tue, 03 Feb 2026 16:17:09 +0800</updated>
+        <summary type="html"><![CDATA[Clawdbot, Ollama, 本地部署, Qwen3, 无消耗
 <br><br>总结:
-*要点1:* OpenClaw 致力于为用户提供一个高度个性化的私人AI助手体验。
-*要点2:* 它最大的特点是实现了全系统兼容，无论用户使用何种操作系统，都能获得支持。
-*要点3:* 同时，该助手还确保了全平台覆盖，让用户能在各种设备和平台上无缝使用。
-*要点4:* 这种无处不在、专属服务的理念，正是OpenClaw品牌的核心精髓和承诺。]]></summary>
+本文介绍Clawdbot与本地Ollama（Qwen3）无消耗部署，实现私有AI。
+*   **Ollama配置：** Windows上安装Ollama，拉取Qwen3模型，并设置`OLLAMA_HOST=0.0.0.0`允许局域网访问。
+*   **Clawdbot配置：** `clawdbot.json`中，`baseUrl`指向Ollama局域网IP，`api`设`openai-completions`，`reasoning`设`false`确保兼容性。
+*   **智能代理：** 部署代理脚本，使Telegram请求走代理、Ollama局域网请求直连，解决网络分流。
+*   **使用建议：** 总结常见故障及排查。因开源模型Tool Calling能力弱，建议混合使用：本地模型处理简单对话，复杂任务回退至Claude等API。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[America’s Rare-Earths Solution Is Hiding in Plain Sight]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/opinion/china-us-rare-earths.html" />
-        <id>https://www.nytimes.com/2026/02/06/opinion/china-us-rare-earths.html</id>
-        <updated>Fri, 06 Feb 2026 14:00:06 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[We’re All Canadian Now]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html" />
-        <id>https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html</id>
-        <updated>Fri, 06 Feb 2026 14:00:05 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[New Jersey House Primary Remains Too Close to Call]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-results-congress.html" />
-        <id>https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-results-congress.html</id>
-        <updated>Fri, 06 Feb 2026 13:11:29 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[She’s Upending Japanese Politics With Two Words: ‘I’m Pregnant’]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/world/asia/japan-election-pregnant-candidate.html" />
-        <id>https://www.nytimes.com/2026/02/06/world/asia/japan-election-pregnant-candidate.html</id>
-        <updated>Fri, 06 Feb 2026 13:01:49 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[The Olympics Are a Show Of Global Harmony. The World is Anything But.]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html" />
-        <id>https://www.nytimes.com/2026/02/06/world/europe/olympics-world-order-war.html</id>
-        <updated>Fri, 06 Feb 2026 13:01:16 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Milan Winter Olympics Opening Ceremony: How to Watch, Timing and More]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html" />
-        <id>https://www.nytimes.com/2026/02/06/world/europe/milan-winter-olympics-opening-ceremony-how-to-watch.html</id>
-        <updated>Fri, 06 Feb 2026 13:01:05 +0800</updated>
-        <summary type="html"><![CDATA[举行 周五 下午两点 意大利北部 四个场地
-
+        <title><![CDATA[Late Night Finds Trump Out of Place at Prayer Breakfast]]></title>
+        <link href="https://www.nytimes.com/2026/02/06/arts/television/late-night-trump-prayer-breakfast.html" />
+        <id>https://www.nytimes.com/2026/02/06/arts/television/late-night-trump-prayer-breakfast.html</id>
+        <updated>Fri, 06 Feb 2026 15:51:16 +0800</updated>
+        <summary type="html"><![CDATA[国家祈祷早餐会, 特朗普, 常态, 无党派, 偏离
 <br><br>总结:
-某项活动将于本周五，即美国东部时间下午两点举行。此次活动将在意大利北部的四个不同场地同步进行。]]></summary>
+要点一：塞斯·梅耶斯评论称，一年一度的“国家祈祷早餐会”理应是一个正常且无党派的活动。
+要点二：然而，他同时指出，唐纳德·特朗普无法保持常态，使得这一本应如此的活动偏离了其既定性质。]]></summary>
     </entry>
     
     <entry>
         <title><![CDATA[U.S. and Iran Set for Talks in Oman]]></title>
-        <link href="https://www.nytimes.com/2026/02/06/world/europe/us-and-iran-set-for-talks-in-oman-as-regional-leaders-seek-to-prevent-war.html" />
-        <id>https://www.nytimes.com/2026/02/06/world/europe/us-and-iran-set-for-talks-in-oman-as-regional-leaders-seek-to-prevent-war.html</id>
-        <updated>Fri, 06 Feb 2026 13:00:28 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[科技爱好者周刊（第 384 期）：为什么软件股下跌]]></title>
-        <link href="http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html" />
-        <id>http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html</id>
-        <updated>Fri, 06 Feb 2026 08:14:20 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
-        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
-        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
-        <updated>2025-07-18T09:52:45.209-07:00</updated>
-        <summary type="html"><![CDATA[关键词：爪云、Docker、Cloudflare、隧道、UUID
+        <link href="https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html" />
+        <id>https://www.nytimes.com/2026/02/06/world/europe/us-iran-talks-oman.html</id>
+        <updated>Fri, 06 Feb 2026 15:40:05 +0800</updated>
+        <summary type="html"><![CDATA[中东, 外交官, 伊朗核计划, 进展, 悲观
 
 <br><br>总结:
-一、前置工作：获取root权限并安装Docker。  
-二、临时隧道模式：通过命令运行七号容器并查看日志。  
-三、固定隧道模式：  
-(一) 需准备的三个变量为UUID、Cloudflare隧道Token和隧道域名。  
-UUID可以通过网站或工具生成，亦可自行编写。进入Cloudflare的Zero Trust选项创建固定隧道。  
-(二) 运行一个包含这些变量的Docker命令来部署容器，并可自定义容器名称。  
-四、相关docker命令：可使用命令查看运行中的容器、查看日志、停止或删除容器。  
-此外，提供了相关视频教程的链接，便于用户理解和操作。]]></summary>
+中东地区的外交官对当前美国与伊朗关系的进展持复杂且分化的看法。
+*   他们普遍认为，在伊朗核计划这一核心问题上，目前存在着取得积极进展的机遇。这表明通过外交努力或持续谈判，有可能在该特定领域实现突破或达成某种形式的解决方案。
+*   然而，对于美国向伊朗提出的其他各项要求，这些外交官们则普遍表达了悲观的态度。这意味着除了核问题之外，在例如地区影响力、导弹计划或人权等其他争议议题上，达成共识或取得实质性进展的可能性较低。
+*   总体而言，中东外交界对特定问题的解决抱有一线希望，但对美伊关系全面改善和地区更广泛的挑战则普遍缺乏信心，预示着未来的道路充满不确定性。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
-        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
-        <updated>2025-07-17T21:01:07.142-07:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+        <title><![CDATA[关注青少年近视、肥胖，代表建议推动家庭医生签约服务进校园]]></title>
+        <link href="https://m.thepaper.cn/detail/32525796" />
+        <id>https://m.thepaper.cn/detail/32525796</id>
+        <updated>Fri, 06 Feb 2026 09:58:00 +0800</updated>
+        <summary type="html"><![CDATA[儿童青少年健康, 五健, 医校融合, 家庭医生, 校园防控
+<br><br>总结:
+市人大代表金迎建议，为促进儿童青少年“五健”（体重、视力、心理、骨骼、口腔）健康，应深化医校融合，推动家庭医生签约服务进校园，把校园作为防控主战场。国家已出台“五健”促进行动计划。金迎强调，学生阶段健康干预回报率高，家庭医生进校园能构建“校园-社区-家庭”全周期服务模式，并缓解专科就医压力。
+为落地“五健”促进行动，她提出：首先，压实校方主体责任，由市教委牵头制定规范，并根据签约率和健康改善指标对学校予以奖励。其次，建立“入学即签约”机制，学生通过线上平台自动匹配家庭医生团队，获得健康档案、体检解读、个性化干预（如肥胖三联处方）等专属服务包。同时，依托社区心理门诊，构建儿童精神心理筛查、干预、转诊闭环，并健全心理治疗人才队伍。金迎希望通过政府、学校、医疗、家庭多方合力，让家庭医生成为学生的“健康守门人”，助力青少年健康成长。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
-        <updated>2025-03-22T21:31:44.376-07:00</updated>
-        <summary type="html"><![CDATA[关键词：us.kg域名、注册情况、Cloudflare托管、FreeDNS、域名使用
+        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
+        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
+        <updated>2025-07-18T09:53:10.805-07:00</updated>
+        <summary type="html"><![CDATA[关键词：Claw Cloud Run、Github注册、免费容器、Docker应用、部署
 
-<br><br>总结：  
-1. **us.kg域名状态**：目前us.kg免费域名项目已经停止运营，导致新用户无法再注册新的us.kg域名。  
-2. **已注册域名**：对于已经注册的us.kg域名，用户仍然能够使用，但可能面临不稳定的情况。  
-3. **Cloudflare托管**：目前无法将新的us.kg域名托管到Cloudflare，但如果已经在Cloudflare上的域名能够继续使用。  
-4. **临时托管方案**：可以考虑将us.kg域名临时托管到FreeDNS，确保继续访问。  
-5. **新域名注册**：在us.kg停止注册后，用户可以探索其他域名服务提供商，寻找替代方案。]]></summary>
+<br><br>总结:
+1. Claw Cloud Run 是一款提供免费容器服务的平台，用户只需在Github注册超过180天，即可每月获得5美元的赠金，实现长期免费使用。
+2. 用户可以利用Claw Cloud Run 搭建各种Docker应用，支持一键自动部署和手动部署。
+3. 注册Claw Cloud Run 的用户需访问特定链接以获取注册信息，确认Github注册时间。
+4. 提供的链接需替换成个人的Github用户名，通过查看“created at”字段获取注册日期。
+5. 推荐用户部署的应用包括Memos（轻笔记应用）和AList（网盘挂载工具），具体的操作和指引可在YouTube视频中查看。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
-        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
-        <updated>2025-03-08T23:54:55.305-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Cloudflare，科学上网，隧道，DNS记录，保活
+        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
+        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
+        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
+        <updated>2025-05-23T06:59:16.194-07:00</updated>
+        <summary type="html"><![CDATA[关键词：谷歌云，免费VPS，注册验证，SSH登录，科学上网
+
+<br><br>总结:
+一、谷歌云免费VPS政策，提供免费配置和流量。  
+二、注册谷歌云账号需添加外币信用卡，注意付款资料，建议三个月试用期后再激活完整账号。  
+三、创建免费VM实例时，选择地理位置、E2-micro机器配置，使用Linux系统及标准永久性磁盘，并将快照时间表改为“无备份”以免额外收费。  
+四、开放防火墙的入站和出站规则，建议入站全部放行。  
+五、SSH登录可以通过官方后台或使用第三方工具，并需创建密钥对。  
+六、科学上网推荐使用Hysteria 2节点，注意Cloudflare CDN流量将产生费用。  
+七、可选择使用面板搭建工具或一键脚本来设置科学上网节点。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
+        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
+        <updated>2025-04-21T03:58:43.568-07:00</updated>
+        <summary type="html"><![CDATA[关键词：注册地址、免费域名、续期、Github、Cloudflare
 
 <br><br>总结: 
-1. 登录方法：使用特定域名登录，如s*.serv00.com等；如果被墙，设置系统代理。
-2. 科学上网节点搭建：进行系统初始化、重置端口并安装相关脚本。
-3. Cloudflare固定隧道：创建新的隧道，设置隧道域名和类型HTTP，同时输入隧道相关信息。
-4. CDN回源设置：建立DNS记录，指向Serv00 IP，并添加回源规则以重写指定端口。
-5. 网页保活功能：可通过特定命令启动、重启、重置端口和查看节点信息。
-6. Cloudflare远程保活：创建Worker，粘贴相应脚本，修改为主页地址及设置保活频率。]]></summary>
+1. 本文提及的注册地址可通过提供的相关链接获取，方便用户注册需要的地址。
+2. 用户可以使用DigitalPlat的Github仓库和Cloudflare的资源，来支持其项目和搭建服务。
+3. 提到的两种域名选择中，dpdns.org为免费域名，而us.kg为收费域名（每个12元）。
+4. 新用户可享受1个免费域名，老用户则为3个，通过Github加Star后可以增加额度。
+5. 所有域名需要每年续期，dpdns.org是永久免费续期，而us.kg同样需每年续期，具体续期流程可通过Youtube视频了解。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
-        <updated>2025-02-22T05:11:37.365-08:00</updated>
-        <summary type="html"><![CDATA[关键词：US.KG, 域名注册, KYC验证, Cloudflare, 免费续订
+        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
+        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
+        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
+        <updated>2025-04-14T02:02:33.433-07:00</updated>
+        <summary type="html"><![CDATA[关键词：稳定性，速度，保活，降智，购买体验  
 
 <br><br>总结:  
-1. 开场介绍US.KG域名的受限状态，并说明当前的注册步骤。  
-2. 提到US.KG域名的优点，如容易获取和使用。  
-3. 注册账号时，使用身份信息生成器生成除邮箱外的各类信息。  
-4. 在注册后，需要验证邮箱并进行KYC验证，上传相关文件。  
-5. 完成以上步骤后，可注册域名并将其托管到Cloudflare进行管理。  
-6. 最后提到免费续订域名的优势及缺点，鼓励观看详细教程的视频以获取更多信息。]]></summary>
+1. 稳定性和速度方面，总体表现良好，用户体验比较流畅。  
+2. 需要进行保活，以保证服务的持续性和高效性。  
+3. 关于ChatGPT的降智现象，官方态度尚未明确，但有用户对其智能水平表示担忧。  
+4. 价格方面，视使用需求而定，需考虑性价比，值得根据个人情况进行购买。  
+5. 购买过程简便，修改登录密码和搭建代理节点的步骤详细，且节点测速情况良好，续费方法易于理解。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
-        <updated>2025-02-02T02:04:20.313-08:00</updated>
-        <summary type="html"><![CDATA[关键词：Deepseek、网页端、API、本地部署、应用 
+        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
+        <updated>2025-03-01T06:00:55.496-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG、免费域名、Cloudflare、注册、步骤
 
-<br><br>总结：  
-1. **关于Deepseek**：Deepseek是一个强大的信息检索工具，提供多种使用方式。  
-2. **Deepseek网页端和APP**：用户可以通过官方网站和手机应用随时访问Deepseek的强大功能。  
-3. **Deepseek API**：通过Deepseek API，用户可以利用其服务进行各种应用，比如沉浸式翻译和自定义聊天机器人，且注册后可享受10元体验金。  
-4. **Perplexity及其他应用**：Deepseek可以与多种第三方应用整合，提升使用体验。  
-5. **Deepseek本地部署**：用户可通过Ollama本地部署Deepseek，具体步骤包括下载Ollama、输入指令运行模型等，适配不同硬件需求。]]></summary>
+<br><br>总结:
+1. US.KG域名注册存在问题，建议寻找其他免费域名。
+2. 在选定的域名注册网站上，可享受推广优惠，使用代码（newuser）可获得一年免费域名。
+3. 注册过程中，可以利用身份信息生成器帮助填写必要的注册信息。
+4. 购买域名后，需要将其托管到Cloudflare，登录Cloudflare并添加新域名。
+5. 在域名管理界面中，将Cloudflare分配的两个名称服务器填写进去，以完成域名托管设置。
+6. 详细教程可在YouTube视频中找到，视频包含各步骤的时间标记，便于查阅。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
-        <updated>2025-01-26T01:10:43.041-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
-        <updated>2025-01-18T05:38:36.998-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
-        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
-        <updated>2025-01-12T04:02:12.270-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
-        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
-        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
-        <updated>2025-01-01T23:44:31.163-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
-        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
-        <updated>2024-12-27T23:47:35.365-08:00</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
-        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
-        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
-        <updated>2024-12-22T20:07:22.836-08:00</updated>
+        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
+        <updated>2025-02-16T04:42:01.173-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
