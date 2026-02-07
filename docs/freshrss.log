@@ -1,21 +1,36 @@
 ------------------------------------------------------
-Started: 2026-02-07 06:42:03.110039
-Existing_entries: 15
+Started: 2026-02-07 08:32:11.965247
+Existing_entries: 6
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
-Token length: 3039
+Token length: 863
 Summarized using gemini model: gemini-2.5-flash
-Append: [“DeepSeek时刻”1年后，市场见证了“Claude冲击”](https://wallstreetcn.com/articles/3765209)
-Token length: 176
+Append: [被欧盟认定存在上瘾式设计，TikTok回应：调查结果完全错误](https://m.thepaper.cn/detail/32557769)
+Token length: 112
 Summarized using gemini model: gemini-2.5-flash
-Append: [Olympics Officials Signal Sanctions on Russia in Sports May End](https://www.nytimes.com/2026/02/07/world/europe/russia-olympics-sports-sanctions-ukraine.html)
-Token length: 968
+Append: [山西朔州山阴县一企业车间发生爆炸，致5人遇难](https://m.thepaper.cn/detail/32557862)
+Token length: 3907
 Summarized using gemini model: gemini-2.5-flash
-Append: [中国央行黄金储备"十五连增"，1月环比增持4万盎司，增持节奏略有加快](https://wallstreetcn.com/articles/3765215)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.56428708s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
-Append: [Officials Pressed Schumer to Help Name Penn Station and Dulles Airport for Trump](https://www.nytimes.com/2026/02/06/us/politics/trump-schumer-penn-station-dulles-airport-renaming.html)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.390373663s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
-Append: [伊美谈判“暂时”结束，伊朗外长称开局良好](https://m.thepaper.cn/detail/32555521)
-Summarization failed for 'freshrss' (gemini/gemini-2.5-flash): Gemini summary failed with model gemini-2.5-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.213174674s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}
-Append: [阿里杀疯了，桌面端 Agent 强势来袭，自动做 PPT，视频，太牛了。](https://juejin.cn/post/7602162571380195334)
-append_entries: 6
-Finish: 2026-02-07 06:42:58.869050
+Append: [全网催更李煜上线：这曲失败者的悲歌为什么动人](https://m.thepaper.cn/detail/32535308)
+Token length: 2656
+Summarized using gemini model: gemini-2.5-flash
+Append: [贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职](https://wallstreetcn.com/articles/3765201)
+Token length: 4420
+Summarized using gemini model: gemini-2.5-flash
+Append: [试试看 94.4k 的 OpenCode 到底火在哪里](https://juejin.cn/post/7601384029610967055)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [China Reverses Death Sentence for Canadian in a Small Win for Carney](https://www.nytimes.com/2026/02/06/world/asia/china-canada-death-sentence-overturned.html)
+Token length: 104
+Summarized using gemini model: gemini-2.5-flash
+Append: [Hegseth Says Defense Department Will Cut Ties With Harvard](https://www.nytimes.com/2026/02/06/us/politics/hegseth-defense-harvard.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [In a Close Election, Voters Send a Sharp Anti-Trump Message](https://www.nytimes.com/2026/02/06/nyregion/new-jersey-special-election-malinowski-mejia.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [Super Bowl Visitors Find San Francisco Better Than Its Apocalyptic Image](https://www.nytimes.com/2026/02/06/us/san-francisco-super-bowl.html)
+Token length: 4
+Summarized using gemini model: gemini-2.5-flash
+Append: [How Is Security Different at These Olympic Games?](https://www.nytimes.com/video/world/100000010687900/how-is-security-different-at-these-olympic-games.html)
+append_entries: 10
+Finish: 2026-02-07 08:33:36.351628
