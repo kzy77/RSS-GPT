@@ -2,182 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>| FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 08 Feb 2026 10:27:21 GMT</updated>
+    <updated>Sun, 08 Feb 2026 12:51:18 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[Ollama + OpenClaw 真正本地部署：完全免费、断网可用、多模型切换！]]></title>
-        <link href="https://www.freedidi.com/22787.html" />
-        <id>https://www.freedidi.com/22787.html</id>
-        <updated>Sun, 08 Feb 2026 17:08:49 +0800</updated>
-        <summary type="html"><![CDATA[OpenClaw, 本地部署, Ollama, 多模型, AI助手
+        <title><![CDATA[The Secret History of the Deep State]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html" />
+        <id>https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html</id>
+        <updated>Sun, 08 Feb 2026 20:00:11 +0800</updated>
+        <summary type="html"><![CDATA[尼克松 大陪审团证词 煽动性 隐匿 公众
 
 总结:
-1.  本文详细阐述了如何通过本地部署OpenClaw，结合Ollama实现一个100%本地运行的AI助手，该方案免费、无需API Key且支持断网使用。
-2.  OpenClaw支持灵活切换多种主流大模型，包括GPT-OSS、Qwen 3、GLM 4.7等，提升了AI助手的实用性。
-3.  部署前需进行环境准备，包括安装Git、最新版Ollama客户端，并下载至少64k上下文长度的推荐本地大模型。
-4.  随后，通过提供的通用或Windows安装命令安装OpenClaw，并使用`ollama launch openclaw`启动服务。
-5.  文章还介绍了将OpenClaw与Telegram电报机器人对接的详细步骤，包括创建Bot、获取Token，并通过配对码完成绑定，实现AI助手的远程交互。]]></summary>
+1. 理查德·尼克松的七页大陪审团证词因其被认为具有极强的煽动性。
+2. 因此，这份证词曾被长时间向公众隐匿。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家]]></title>
-        <link href="https://wallstreetcn.com/articles/3765250" />
-        <id>https://wallstreetcn.com/articles/3765250</id>
-        <updated>Sun, 08 Feb 2026 15:55:45 +0800</updated>
-        <summary type="html"><![CDATA[牛熊指标 卖出信号 科技巨头 实体经济 全球再平衡
-
-总结:
-*   华尔街“牛熊指标”升至2006年新高9.6，美银Hartnett发出明确“卖出”信号，指出是“仓位、流动性、不平等”三重峰值。
-*   他建议2026年“做多主街，做空华尔街”，即资金撤离拥挤的科技巨头和加密货币，转向小盘股、国际市场等实体经济。
-*   市场回调已验证预警：软件股、比特币等崩盘，谷歌、亚马逊高资本开支亦重挫股价。政治事件引发比特币暴跌，逆转财富效应将打击经济。
-*   科技巨头因AI巨额资本开支（预计2026年占现金储备96%）正转向“重资产”模式，失去资产负债表优势。相对地，“主街”将受益于政府干预物价与AI降温劳动力，利好小盘股。
-*   资金流向显示，黄金、加密货币基金净流出，韩国、欧洲股市及投资级债券获大额流入。Hartnett认为当前是“迟来的泡沫去化”，2025-2026年将开启“全球再平衡”，国际股票、中国消费股和新兴市场商品生产商为新赢家。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[OpenAI第一款硬件要来了，但可能“没那么AI”?]]></title>
-        <link href="https://wallstreetcn.com/articles/3765244" />
-        <id>https://wallstreetcn.com/articles/3765244</id>
-        <updated>Sun, 08 Feb 2026 11:25:22 +0800</updated>
-        <summary type="html"><![CDATA[OpenAI, 硬件终端, Dime, 规格降级, 云端依赖
-
-总结:
-OpenAI正将其影响力从生成式AI软件拓展至硬件终端。其首款消费级设备代号“Dime”（原名“Sweetpea”），原本规划为搭载高性能芯片、具备独立计算能力的“端侧智能”耳机。然而，受全球存储芯片成本飙升影响，OpenAI被迫调整策略，将Dime降级为一款主要依赖云端、功能更简单的“基础耳机”。尽管产品定义面临妥协，OpenAI仍将硬件列为最高优先级项目，并计划Dime于2026年9月发售，由富士康在越南生产，首年目标销量达4000万至5000万台。此外，OpenAI还在研发代号为“Gumdrop”的第二款无屏幕消费级设备，形态类似笔，主打环境感知与交互，支持本地AI模型与云端算力结合，并能将手写笔记转换为文本。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[深一度｜创造历史最佳战绩！南方姑娘曾坪在冬奥会飞得更高]]></title>
-        <link href="https://m.thepaper.cn/detail/32558897" />
-        <id>https://m.thepaper.cn/detail/32558897</id>
-        <updated>Sun, 08 Feb 2026 09:41:35 +0800</updated>
-        <summary type="html"><![CDATA[曾坪,跳台滑雪,冬奥历史,跨界选材,突破
+        <title><![CDATA[A Movie About America Broke My Heart]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html" />
+        <id>https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html</id>
+        <updated>Sun, 08 Feb 2026 20:00:11 +0800</updated>
+        <summary type="html"><![CDATA[震教徒 非关联 安·李遗训 感动 情感共鸣
 <br><br>总结:
-中国选手曾坪在北京时间2月8日米兰冬奥会跳台滑雪女子个人标准台项目中获得第15名，创造了中国在该项目的冬奥历史最好成绩。
-曾坪原本是跆拳道运动员，通过国家体育总局的跨界跨项选材项目接触到跳台滑雪，并逐渐爱上“飞翔”的感觉。
-她在职业生涯中曾经历伤病、暂离国家队等低谷。直到四川跳台滑雪队成立并聘请罗曼·帕什金教练，罗曼的关键“一推”帮助曾坪突破心理障碍，重拾信心。
-此后，她状态回升，不仅打破全国纪录，并在2026年世界杯赛中斩获第二名，实现了中国队在该项目国际A类赛事奖牌零的突破。
-这些磨砺最终让她羽翼丰满，在冬奥会上再次书写历史，并享受着飞翔的独特魅力。]]></summary>
+1. 文本的作者明确指出自己并非震教徒，与该宗教团体不存在直接的隶属或身份关联。
+2. 尽管如此，作者在接触到名为“安·李的遗训”这部作品时，却深受触动，情感上反应强烈，以至于感动落泪。
+3. 这一经历体现了该作品超越个人信仰和身份背景，能够引发广泛而深刻的情感共鸣，即使是非震教徒也能被其打动。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[万亿市值一夜蒸发！Claude Cowork 血洗全球软件业，老黄急了]]></title>
-        <link href="https://juejin.cn/post/7603054272158957618" />
-        <id>https://juejin.cn/post/7603054272158957618</id>
-        <updated>Thu, 05 Feb 2026 18:15:32 +0800</updated>
-        <summary type="html"><![CDATA[Anthropic 插件 市值蒸发 SaaS AI替代 自动化
+        <title><![CDATA[手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元]]></title>
+        <link href="https://wallstreetcn.com/articles/3765249" />
+        <id>https://wallstreetcn.com/articles/3765249</id>
+        <updated>Sun, 08 Feb 2026 19:04:51 +0800</updated>
+        <summary type="html"><![CDATA[罗斯柴尔德 爱泼斯坦 司法部 顾问费 幕后
 
 <br><br>总结:
-*   Anthropic推出的插件引发全球软件股集体跳水，导致短短一周内蒸发近万亿美金。
-*   其为Claude Cowork新增的11款插件，能直接接管财务、销售、法律等业务流程，实现AI自动化，取代传统SaaS软件的功能。
-*   这直接冲击了SaaS按席位收费的商业模式，转变为按产出计费，AI在后台直接操作无需复杂UI，引发了“SaaS末日”的恐慌。
-*   甲骨文、Adobe、Salesforce等软件巨头股价大跌，市场恐慌情绪蔓延至全球。
-*   尽管市场对“SaaS已死”的说法存在争议，但文章强调这标志着脑力劳动自动化的“奇点来临”，是人类经济史上巨大的价值转移。]]></summary>
+解密文件揭示，埃德蒙·罗斯柴尔德集团曾深度依赖杰弗里·爱泼斯坦。
+爱泼斯坦于2015年末协助该银行“摆平”美国司法部对其涉嫌隐匿资产的调查，促成银行支付4500万美元罚金的和解，并因此收取高达2500万美元酬劳。
+从2013年至2019年，爱泼斯坦是集团掌门人阿丽亚娜·德·罗斯柴尔德的私人知己和最高商业顾问。他不仅处理司法事务，还深度介入家族权力交接、内部斗争及个人生活。
+爱泼斯坦亦试图利用其华尔街人脉，为罗斯柴尔德银行策划并购与资本运作，显示出其非凡影响力。
+面对铁证，罗斯柴尔德集团承认支付了报酬，但坚称对爱泼斯坦的个人罪行毫不知情，并予以谴责。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[鸿枫/openclaw-dindin-chart]]></title>
-        <link href="https://gitee.com/hongmaple/openclaw-dindin-chart" />
-        <id>https://gitee.com/hongmaple/openclaw-dindin-chart</id>
-        <updated>Mon, 09 Feb 2026 00:11:00 +0800</updated>
-        <summary type="html"><![CDATA[OpenClaw, 钉钉, AI机器人, 聊天, 协同工作
-<br><br>总结:
-OpenClaw提供了一项钉钉聊天集成功能，旨在将AI能力引入企业沟通。
-1. 它支持在钉钉群中部署多个基于OpenClaw的AI机器人。
-2. 这些AI机器人能够与群内的人类成员进行实时互动聊天。
-3. 更重要的是，它们之间也能进行相互对话，实现信息交流与任务协作。
-4. 最终目标是提升团队的协同工作效率和智能化水平。]]></summary>
+        <title><![CDATA[缅北明家犯罪集团首要分子明珍珍当庭忏悔，视频曝光]]></title>
+        <link href="https://m.thepaper.cn/detail/32562788" />
+        <id>https://m.thepaper.cn/detail/32562788</id>
+        <updated>Sun, 08 Feb 2026 17:42:45 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？]]></title>
-        <link href="https://wallstreetcn.com/articles/3765245" />
-        <id>https://wallstreetcn.com/articles/3765245</id>
-        <updated>Sun, 08 Feb 2026 13:02:35 +0800</updated>
-        <summary type="html"><![CDATA[AI基建 资本支出 现金流 股东回报 债务风险<br><br>总结:
-AI基础设施建设的军备竞赛使亚马逊、谷歌和Meta正面临自由现金流耗尽甚至透支的风险。
-摩根大通预测，2026年美国四大云巨头（亚马逊、谷歌、Meta、微软）总资本支出预计将达6450亿美元，同比激增56%。
-具体来看，谷歌资本支出增速高达97%；亚马逊约2000亿美元的资本支出将超过其运营现金流，导致实质性现金净流出；Meta的巨额开支也将几乎抹平其自由现金流。
-现金流压力将导致股东回报承压，例如Meta股票回购可能缩减，谷歌和Meta的股息支付会进一步挤压紧张的现金流。
-为应对资金缺口，巨头们开始利用资产负债表弹性，如谷歌保持零净债务，亚马逊准备大规模发债。微软是财务韧性的例外，预计仍能产生大量自由现金流。
-文章警告投资者警惕“甲骨文陷阱”，若AI豪赌未能转化为实际收入增长，过度透支资产负债表可能引发估值重构。]]></summary>
+        <title><![CDATA[下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战]]></title>
+        <link href="https://wallstreetcn.com/articles/3765243" />
+        <id>https://wallstreetcn.com/articles/3765243</id>
+        <updated>Sun, 08 Feb 2026 11:37:40 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[史诗级失误：韩国交易所“手滑”发出440亿美元比特币]]></title>
-        <link href="https://wallstreetcn.com/articles/3765240" />
-        <id>https://wallstreetcn.com/articles/3765240</id>
-        <updated>Sun, 08 Feb 2026 08:56:44 +0800</updated>
-        <summary type="html"><![CDATA[Bithumb 错发比特币 操作失误 监管审查 系统风险
-<br><br>总结:
-*   韩国Bithumb交易所因内部操作失误，错误地向695名用户错发了总价值超440亿美元的比特币（原为小额韩元奖励），并非黑客攻击。
-*   交易所在35分钟内限制账户并追回99.7%的错发比特币，但事件仍引发平台比特币价格一度暴跌17%。
-*   韩国金融监管机构迅速介入，指出事故暴露了虚拟资产的脆弱性及系统风险。
-*   监管层已启动对Bithumb及其他交易所内控、资产和运营的全面审查，可能进行现场检查，预示行业监管将全面升级。]]></summary>
+        <title><![CDATA[解放军报刊文谈反腐大片披露蒋超良案：为官莫喝“迷魂汤”]]></title>
+        <link href="https://m.thepaper.cn/detail/32561452" />
+        <id>https://m.thepaper.cn/detail/32561452</id>
+        <updated>Sun, 08 Feb 2026 08:06:00 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投]]></title>
-        <link href="https://m.thepaper.cn/detail/32550732" />
-        <id>https://m.thepaper.cn/detail/32550732</id>
-        <updated>Sun, 08 Feb 2026 07:19:35 +0800</updated>
-        <summary type="html"><![CDATA[泰国大选 经济挑战 三党抗衡 修宪公投 联合执政
-<br><br>总结:
-泰国于2月8日举行国会下议院大选，这是其近十年来的重要抉择。当前，高家庭债务（近GDP的90%）和缓慢的经济增长（1-3%）是影响选民的关键经济挑战。
-
-此次选举形成人民党、自豪泰党、为泰党“三足鼎立”格局，改革派人民党民调领先。各党派广泛利用民族主义和民粹主义情绪，并引入技术官僚入主领导层，预示着政治专业化的趋势。
-
-由于普遍预计无单一政党能获得压倒性多数，最终将由党派间谈判形成联合执政。最可能的结果是，在建制力量支持下，自豪泰党牵头与为泰党及小党组建政府，导致未来政策可能延续碎片化。
-
-大选当日还举行修宪公投，旨在决定是否取代2017年宪法。此举被视为军方支持的保皇派与大众民主政治运动数十年博弈的产物，其结果将深刻影响泰国未来的权力结构走向，并成为长期政治博弈的焦点。]]></summary>
+        <title><![CDATA[At the Super Bowl, it’s Nice Guy vs. Underdog.]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/podcasts/the-daily/at-the-super-bowl-its-nice-guy-vs-underdog.html" />
+        <id>https://www.nytimes.com/2026/02/08/podcasts/the-daily/at-the-super-bowl-its-nice-guy-vs-underdog.html</id>
+        <updated>Sun, 08 Feb 2026 19:00:11 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[侧记｜改变，从“进步一点点”和“进步多一点点”开始]]></title>
-        <link href="https://m.thepaper.cn/detail/32557508" />
-        <id>https://m.thepaper.cn/detail/32557508</id>
-        <updated>Sat, 07 Feb 2026 18:58:45 +0800</updated>
-        <summary type="html"><![CDATA[人大代表 履职 建议 民生 改变
-<br><br>总结:
-上海市第十六届人民代表大会第四次会议已闭幕。
-1. 人大代表们在履职中日益成熟，通过深入调研广泛反映基层声音，推动社会逐步改变，并感受到政府在采纳建议时的包容与尊重。
-2. 代表们肩负为民责任，更加直言不讳。例如，李向农代表针对虹桥机场出租车短途拒载及司机排队机制不合理等问题，建议改善乘车体验，修补城市服务短板。
-3. 洪程栋代表通过实地调研，提出启动“生命门守护”专项行动，排查整治高层建筑防火门，并建议授权消防部门快速启用维修资金，并由政府兜底。
-4. 翁雷均代表建议将黄浦江上游岸线生态旅游开发提升至区域战略层面，并积极推介地方农文旅产品。
-5. 金银淑代表则指出种业研发存在科研与市场脱节的结构性矛盾，呼吁上海加快完善农业科创顶层设计，引导错位协同发展，旨在通过这些努力，切实提升民众的获得感。]]></summary>
+        <title><![CDATA[订婚强奸案电梯视频首曝光，认定席某强奸关键证据披露]]></title>
+        <link href="https://m.thepaper.cn/detail/32563001" />
+        <id>https://m.thepaper.cn/detail/32563001</id>
+        <updated>Sun, 08 Feb 2026 18:33:14 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[The Demise of U.S.A.I.D. Was a Warning]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/opinion/usaid-humanitarian-aid-america.html" />
-        <id>https://www.nytimes.com/2026/02/08/opinion/usaid-humanitarian-aid-america.html</id>
-        <updated>Sun, 08 Feb 2026 14:00:06 +0800</updated>
-        <summary type="html"><![CDATA[援外署, 关闭, 残酷, 漠视人道, 封闭世界
-<br><br>总结:
-*   美国援外署（USAID）正面临关闭的命运。
-*   此次关闭的过程被描述为残酷无情，并被批评为严重漠视了可能导致的人道代价。
-*   文章指出，USAID的关闭及其相关行为，揭示了一种令人担忧的未来愿景，预示着一个更加残酷、卑劣且日益封闭的世界。]]></summary>
+        <title><![CDATA[vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&type=ws&host=digikala.sorza.ir&path=/?ed%3D2560&security=tls...]]></title>
+        <link href="https://t.me/V2rayNg_madam/2908" />
+        <id>https://t.me/V2rayNg_madam/2908</id>
+        <updated>Sun, 08 Feb 2026 18:20:30 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Ultraprocessed, Industrial Food Is Fine]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/opinion/food-industrial-local-organic.html" />
-        <id>https://www.nytimes.com/2026/02/08/opinion/food-industrial-local-organic.html</id>
-        <updated>Sun, 08 Feb 2026 14:00:05 +0800</updated>
-        <summary type="html"><![CDATA[人口 喂养 本地 有机 低技术
-
-<br><br>总结:
-文章指出，面对美国3.4亿的庞大人口，仅依靠本地、有机及低技术方式生产的膳食，不足以满足其喂养需求。这揭示了此类生产模式在提供大规模人口粮食供应上的固有局限性。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[44岁华人连环性侵犯被判，竟是你我身边之人？]]></title>
-        <link href="https://www.huxiu.com/article/4833473.html" />
-        <id>https://www.huxiu.com/article/4833473.html</id>
-        <updated>Sun, 08 Feb 2026 11:00:27 +0800</updated>
+        <title><![CDATA[For $1 Million, Donors to U.S.A. Birthday Group Offered Access to Trump]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/us/politics/freedom-250-trump-donors.html" />
+        <id>https://www.nytimes.com/2026/02/08/us/politics/freedom-250-trump-donors.html</id>
+        <updated>Sun, 08 Feb 2026 18:02:36 +0800</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
