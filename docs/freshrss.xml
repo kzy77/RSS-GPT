@@ -2,105 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>| FreshRSS</title>
     <link href="https://freshrss.chunkj.qzz.io" />
-    <updated>Sun, 08 Feb 2026 12:51:18 GMT</updated>
+    <updated>Sun, 08 Feb 2026 14:28:06 GMT</updated>
     <author>
         <name></name>
     </author>
     <id></id>
     
     <entry>
-        <title><![CDATA[The Secret History of the Deep State]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html" />
-        <id>https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html</id>
-        <updated>Sun, 08 Feb 2026 20:00:11 +0800</updated>
-        <summary type="html"><![CDATA[尼克松 大陪审团证词 煽动性 隐匿 公众
+        <title><![CDATA[公告臻选丨特高压+虚拟电厂+‌智能电网‌+绿色电力！公司去年在国家电网集中招标采购中中标金额超9亿元]]></title>
+        <link href="https://www.yicai.com/vip/news/103044175.html" />
+        <id>https://www.yicai.com/vip/news/103044175.html</id>
+        <updated>Sun, 08 Feb 2026 21:31:53 +0800</updated>
+        <summary type="html"><![CDATA[半导体、显示驱动芯片、旋涂滤光片、智能电网、国产替代
 
+<br><br>总结:
+*   公司在半导体及集成电路领域实力雄厚，尤其在面板显示驱动芯片方面，客户覆盖多数国际一线公司，并积极布局AI、先进制程、显示技术及国产替代。
+*   在CPO、F5G、光通信、消费电子、无人驾驶、激光雷达等领域，公司的“旋涂滤光片”等高端产品已实现向国内主流手机品牌大批量出货。
+*   在特高压、虚拟电厂、智能电网和绿色电力等方向，公司去年在国家电网集中招标采购中中标金额超9亿元，目前订单储备充足。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[How Bad Bunny Gives Voice to Puerto Rico’s ‘Crisis Generation’]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/us/bad-bunny-puerto-rico.html" />
+        <id>https://www.nytimes.com/2026/02/08/us/bad-bunny-puerto-rico.html</id>
+        <updated>Sun, 08 Feb 2026 21:07:04 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Talk to Your Parents]]></title>
+        <link href="https://www.nytimes.com/2026/02/08/briefing/talk-to-your-parents.html" />
+        <id>https://www.nytimes.com/2026/02/08/briefing/talk-to-your-parents.html</id>
+        <updated>Sun, 08 Feb 2026 20:32:12 +0800</updated>
+        <summary type="html"><![CDATA[老年父母, 健康, 沟通, 建议, 技巧
+<br><br>总结:
+*   今天的建议聚焦于如何与老年父母就其健康问题进行有效沟通。
+*   强调了这种对话的敏感性和重要性，指导子女运用恰当的沟通技巧和策略。
+*   旨在帮助子女更好地理解父母的健康状况与需求，从而提供必要的支持与协助。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[宝可梦、柯南、张本智和，被中国军网点名]]></title>
+        <link href="https://m.thepaper.cn/detail/32563007" />
+        <id>https://m.thepaper.cn/detail/32563007</id>
+        <updated>Sun, 08 Feb 2026 18:35:07 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[新华视评：谁在制造“细思极恐”？警惕网络“伪真相”蚕食真相本身]]></title>
+        <link href="https://m.thepaper.cn/detail/32559524" />
+        <id>https://m.thepaper.cn/detail/32559524</id>
+        <updated>Sat, 07 Feb 2026 23:06:31 +0800</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[他把Claude Code给玩通关了]]></title>
+        <link href="https://juejin.cn/post/7602154171108048959" />
+        <id>https://juejin.cn/post/7602154171108048959</id>
+        <updated>Tue, 03 Feb 2026 08:03:39 +0800</updated>
+        <summary type="html"><![CDATA[Claude Code, AI编程技巧, 效率提升, 自动化, 开发者工作流
+<br><br>总结:
+Boris总结了10个Claude Code的AI编程高效技巧：
+1.  **并行多开**: 多开`git worktree`并行运行Claude，提升任务效率。
+2.  **计划先行**: 复杂任务先用“计划模式”详尽规划，减少返工。
+3.  **迭代CLAUDE.md**: 更新CLAUDE.md，让Claude从错误中学习并积累经验。
+4.  **定制技能包**: 制作专属技能，自动化重复任务、清理技术债及部署AI代理。
+5.  **AI智能修复**: 将Bug讨论或CI日志交Claude，实现高效自动修复。
+6.  **优化提示词**: 引导Claude审查代码，要求最佳方案，详述需求提高质量。
+7.  **开发环境优化**: 优化终端配置与语音输入，提高Claude交互效率。
+8.  **活用子智能体**: 复杂任务交子智能体，主Agent专注，用Hook处理权限。
+9.  **AI数据分析**: 指挥Claude调用命令行工具分析数据，替代手动SQL。
+10. **AI辅助学习**: 设解释/教学模式，生成可视化图表，交互式深化学习。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[鸿枫/openclaw-dindin-chart]]></title>
+        <link href="https://gitee.com/hongmaple/openclaw-dindin-chart" />
+        <id>https://gitee.com/hongmaple/openclaw-dindin-chart</id>
+        <updated>Mon, 09 Feb 2026 00:11:00 +0800</updated>
+        <summary type="html"><![CDATA[OpenClaw, 钉钉, AI机器人, 聊天, 协同工作
 总结:
-1. 理查德·尼克松的七页大陪审团证词因其被认为具有极强的煽动性。
-2. 因此，这份证词曾被长时间向公众隐匿。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[A Movie About America Broke My Heart]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html" />
-        <id>https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html</id>
-        <updated>Sun, 08 Feb 2026 20:00:11 +0800</updated>
-        <summary type="html"><![CDATA[震教徒 非关联 安·李遗训 感动 情感共鸣
-<br><br>总结:
-1. 文本的作者明确指出自己并非震教徒，与该宗教团体不存在直接的隶属或身份关联。
-2. 尽管如此，作者在接触到名为“安·李的遗训”这部作品时，却深受触动，情感上反应强烈，以至于感动落泪。
-3. 这一经历体现了该作品超越个人信仰和身份背景，能够引发广泛而深刻的情感共鸣，即使是非震教徒也能被其打动。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元]]></title>
-        <link href="https://wallstreetcn.com/articles/3765249" />
-        <id>https://wallstreetcn.com/articles/3765249</id>
-        <updated>Sun, 08 Feb 2026 19:04:51 +0800</updated>
-        <summary type="html"><![CDATA[罗斯柴尔德 爱泼斯坦 司法部 顾问费 幕后
-
-<br><br>总结:
-解密文件揭示，埃德蒙·罗斯柴尔德集团曾深度依赖杰弗里·爱泼斯坦。
-爱泼斯坦于2015年末协助该银行“摆平”美国司法部对其涉嫌隐匿资产的调查，促成银行支付4500万美元罚金的和解，并因此收取高达2500万美元酬劳。
-从2013年至2019年，爱泼斯坦是集团掌门人阿丽亚娜·德·罗斯柴尔德的私人知己和最高商业顾问。他不仅处理司法事务，还深度介入家族权力交接、内部斗争及个人生活。
-爱泼斯坦亦试图利用其华尔街人脉，为罗斯柴尔德银行策划并购与资本运作，显示出其非凡影响力。
-面对铁证，罗斯柴尔德集团承认支付了报酬，但坚称对爱泼斯坦的个人罪行毫不知情，并予以谴责。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[缅北明家犯罪集团首要分子明珍珍当庭忏悔，视频曝光]]></title>
-        <link href="https://m.thepaper.cn/detail/32562788" />
-        <id>https://m.thepaper.cn/detail/32562788</id>
-        <updated>Sun, 08 Feb 2026 17:42:45 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战]]></title>
-        <link href="https://wallstreetcn.com/articles/3765243" />
-        <id>https://wallstreetcn.com/articles/3765243</id>
-        <updated>Sun, 08 Feb 2026 11:37:40 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[解放军报刊文谈反腐大片披露蒋超良案：为官莫喝“迷魂汤”]]></title>
-        <link href="https://m.thepaper.cn/detail/32561452" />
-        <id>https://m.thepaper.cn/detail/32561452</id>
-        <updated>Sun, 08 Feb 2026 08:06:00 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[At the Super Bowl, it’s Nice Guy vs. Underdog.]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/podcasts/the-daily/at-the-super-bowl-its-nice-guy-vs-underdog.html" />
-        <id>https://www.nytimes.com/2026/02/08/podcasts/the-daily/at-the-super-bowl-its-nice-guy-vs-underdog.html</id>
-        <updated>Sun, 08 Feb 2026 19:00:11 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[订婚强奸案电梯视频首曝光，认定席某强奸关键证据披露]]></title>
-        <link href="https://m.thepaper.cn/detail/32563001" />
-        <id>https://m.thepaper.cn/detail/32563001</id>
-        <updated>Sun, 08 Feb 2026 18:33:14 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&type=ws&host=digikala.sorza.ir&path=/?ed%3D2560&security=tls...]]></title>
-        <link href="https://t.me/V2rayNg_madam/2908" />
-        <id>https://t.me/V2rayNg_madam/2908</id>
-        <updated>Sun, 08 Feb 2026 18:20:30 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[For $1 Million, Donors to U.S.A. Birthday Group Offered Access to Trump]]></title>
-        <link href="https://www.nytimes.com/2026/02/08/us/politics/freedom-250-trump-donors.html" />
-        <id>https://www.nytimes.com/2026/02/08/us/politics/freedom-250-trump-donors.html</id>
-        <updated>Sun, 08 Feb 2026 18:02:36 +0800</updated>
-        <summary type="html"><![CDATA[None]]></summary>
+OpenClaw提供了一项钉钉聊天集成功能，旨在将AI能力引入企业沟通。
+1. 它支持在钉钉群中部署多个基于OpenClaw的AI机器人。
+2. 这些AI机器人能够与群内的人类成员进行实时互动聊天。
+3. 更重要的是，它们之间也能进行相互对话，实现信息交流与任务协作。
+4. 最终目标是提升团队的协同工作效率和智能化水平。]]></summary>
     </entry>
     
 </feed>
