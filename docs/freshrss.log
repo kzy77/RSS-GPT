@@ -1,8 +1,8 @@
 ------------------------------------------------------
-Started: 2026-02-19 14:47:15.491829
+Started: 2026-02-19 16:52:54.685820
 Existing_entries: 15
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
-Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Read timed out. (read timeout=30)
+Fetch error: 525
 Fetch failed from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
 append_entries: 0
 error when rendering xml, skip docs/freshrss
