@@ -2,98 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>RSS-GPT Aggregated Feed</title>
     <link href="https://kzy77.github.io/RSS-GPT/" />
-    <updated>2026-04-16T02:40:09Z</updated>
+    <updated>2026-04-16T06:02:18Z</updated>
     <author>
         <name>kzy77</name>
     </author>
     <id>https://kzy77.github.io/RSS-GPT/</id>
     
     <entry>
-        <title><![CDATA[Claw Cloud Run 免费容器 部署Docker应用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html" />
-        <id>https://7techlife.blogspot.com/2025/04/claw-cloud-run-docker.html</id>
-        <updated>2025-07-18T09:53:10.805-07:00</updated>
-        <summary type="html"><![CDATA[关键词：Claw Cloud Run、免费容器、Github注册、Docker应用、Memos AList  
+        <title><![CDATA[Cloudflare固定隧道：爪云轻松代理，拯救垃圾VPS，内网穿透]]></title>
+        <link href="https://7techlife.blogspot.com/2025/06/cloudflarevps.html" />
+        <id>https://7techlife.blogspot.com/2025/06/cloudflarevps.html</id>
+        <updated>2025-07-18T09:52:45.209-07:00</updated>
+        <summary type="html"><![CDATA[关键词：爪云、内网穿透、Docker、Cloudflare、UUID  
+
+<br><br>总结：  
+一、前置工作：获取root权限并安装Docker，通过命令 `curl -fsSL https://get.docker.com | sh` 完成。  
+二、临时隧道模式：通过命令 `docker run -d --name seven 7techlife/seven` 启动临时隧道，使用 `docker logs -f seven` 查看日志。  
+三、固定隧道模式：需准备三个变量：UUID（可用v2rayN等工具生成）、Cloudflare隧道Token及隧道域名。在Cloudflare上创建隧道后，运行命令：  
+```
+docker run -d --name seven --restart unless-stopped -e uuid=你的固定UUID -e token=你的Cloudflare隧道Token -e domain=你的隧道域名 7techlife/seven
+```  
+四、相关Docker命令：使用 `docker ps` 查看运行容器、`docker logs seven` 查看日志、`docker stop seven` 停止容器或 `docker rm seven` 删除容器。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[一个IPTV教程，带你免费实现看电视自由]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/iptv.html" />
+        <id>https://7techlife.blogspot.com/2024/12/iptv.html</id>
+        <updated>2025-07-17T21:01:07.142-07:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[us.kg免费域名真的挂了吗？新情况解读]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/uskg.html" />
+        <id>https://7techlife.blogspot.com/2025/03/uskg.html</id>
+        <updated>2025-03-22T21:31:44.376-07:00</updated>
+        <summary type="html"><![CDATA[关键词：us.kg免费域名、域名托管、Cloudflare、FreeDNS、注册情况
+
+<br><br>总结:
+1. us.kg免费域名目前的状况引起了许多人关注，尤其是关于已注册域名的可用性。
+2. 已注册的us.kg域名仍然可以使用，并未被彻底下线。
+3. 用户可以将新的域名托管到Cloudflare，但需注意相关设置和限制。
+4. 如果需要临时解决方案，可以将域名托管到FreeDNS，以继续使用域名服务。
+5. 目前关于是否可以注册新域名的问题仍待确认，但相关注册链接可查找以获取最新信息。]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00搭建代理节点最佳方案 | 甬哥脚本 | 持久保活 | 无视IP被墙 | Cloudflare固定隧道 | CDN回源]]></title>
+        <link href="https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html" />
+        <id>https://7techlife.blogspot.com/2025/03/serv00-ip-cloudflare-cdn.html</id>
+        <updated>2025-03-08T23:54:55.305-08:00</updated>
+        <summary type="html"><![CDATA[关键词：科学上网、Cloudflare、隧道、DNS记录、网页保活
 
 <br><br>总结:  
-1. Claw Cloud Run是一款提供免费容器的服务，只要在Github的注册时间超过180天，即可每月获得5美元的赠金，实现长期免费使用。  
-2. 用户可以利用这个平台搭建各种Docker应用，支持一键自动部署和手动部署。  
-3. 通过访问特定的API链接，可以查看到自己的Github注册时间，从而判断是否符合获得赠金的条件。  
-4. 文章推荐了两款值得部署的应用：Memos（轻笔记应用）和AList（网盘挂载工具）。  
-5. 详细操作和应用的使用说明可以在相关的YouTube视频中找到。]]></summary>
+1. 登录方法：使用s*.serv00.com、cache*.serv00.com或web*.serv00.com中的任意域名进行登录，如无法连接可通过设置系统代理。  
+2. 科学上网节点搭建：系统初始化、重置端口并安装必要的脚本。  
+3. Cloudflare固定隧道：在Cloudflare中创建新隧道，设置隧道域名为HTTP类型，并输入相关令牌。  
+4. CDN回源：在Cloudflare添加A记录，将其解析到Serv00的IP，并配置主机名和端口的回源规则。  
+5. 网页保活功能：通过特定指令实现启动、重启、重置端口及查看节点信息；同时，新建Cloudflare Worker以实现远程保活。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[永久白嫖谷歌云服务器 | 3个月试用过后依然有效 | 全网最详细小白教程]]></title>
-        <link href="https://7techlife.blogspot.com/2025/05/3.html" />
-        <id>https://7techlife.blogspot.com/2025/05/3.html</id>
-        <updated>2025-05-23T06:59:16.194-07:00</updated>
-        <summary type="html"><![CDATA[关键词：谷歌云、免费VPS、SSH登录、科学上网、搭建节点
-
-<br><br>总结: 
-一、谷歌云提供免费VPS，用户需关注配置和流量限制。 
-二、注册时需添加外币信用卡或借记卡，激活完整账号请在试用期后操作。 
-三、创建VM实例需选择特定区域和机器配置，确保存储设置为无备份，以避免费用。 
-四、SSH登录方式推荐使用官方后台，确保安全性；第三方工具需上传公钥。 
-五、科学上网时需注意节点选择，建议使用Hysteria 2节点，并避免使用Cloudflare CDN以防额外费用。 
-六、搭建节点可通过命令行、面板或一键脚本完成，简化操作流程。]]></summary>
+        <title><![CDATA[US.KG 免费域名注册 2025年最新教程 | 永久免费 | 可托管到Cloudflare]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html" />
+        <id>https://7techlife.blogspot.com/2025/02/uskg-2025-cloudflare.html</id>
+        <updated>2025-02-22T05:11:37.365-08:00</updated>
+        <summary type="html"><![CDATA[关键词：US.KG域名、注册、KYC验证、Cloudflare、免费续订  
+<br><br>总结:  
+00:00 开场介绍US.KG域名的受限状态。  
+00:49 讲解US.KG域名的优点，适合需要免费域名的用户。  
+02:06 提供注册账号的步骤，使用身份信息生成器生成必要的信息。  
+05:39 指导用户进行邮箱验证，并提示如未收到邮件可稍等再试。  
+06:47 进行KYC验证，要求上传已排版的信息截图。  
+10:45 演示如何注册域名，输入前缀完成注册。  
+14:24 讲解域名托管到Cloudflare的步骤，并输入分配的名称服务器。  
+15:32 说明免费域名的缺点，提醒用户注意相关问题。  
+相关网址提供可供参考，详细教程将在YouTube视频中展示。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[DigitalPlat 免费域名开放注册 | 免费 无门槛 支持托管到Cloudflare | us.kg | dpdns.org | 老用户也有福利 | 最佳免费二级域名]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html" />
-        <id>https://7techlife.blogspot.com/2025/04/digitalplat-cloudflare-uskg-dpdnsorg.html</id>
-        <updated>2025-04-21T03:58:43.568-07:00</updated>
-        <summary type="html"><![CDATA[关键词：注册地址，免费域名，us.kg域名，续期，Cloudflare
-
-<br><br>总结: 
-1. 注册地址和美国地址生成器提供支持。
-2. DigitalPlat在Github的仓库和Cloudflare的官网为用户提供各类服务。
-3. Cloudflare Pages支持自定义域名及SSL证书，相关问题可参照指定视频。
-4. 提供两种域名选择：dpdns.org（免费）和us.kg（收费12元/个）。
-5. 新用户可获得1个免费域名，通过Github加Star后可增加至2个；老用户起始可获3个，增加至4个。
-6. us.kg域名为收费域名，需每年续期，续期过程永久免费，需在到期前180天内完成续期。 
-7. 详细教程可在指定的YouTube视频中找到。]]></summary>
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Serv00付费版 | HostUNO | 体验报告 | 购买过程、搭建代理、使用分享]]></title>
-        <link href="https://7techlife.blogspot.com/2025/04/serv00-hostuno.html" />
-        <id>https://7techlife.blogspot.com/2025/04/serv00-hostuno.html</id>
-        <updated>2025-04-14T02:02:33.433-07:00</updated>
-        <summary type="html"><![CDATA[关键词：稳定性、速度、保活、降智、购买
+        <title><![CDATA[对Deepseek的看法，并介绍使用方法 | 最简单的本地部署]]></title>
+        <link href="https://7techlife.blogspot.com/2025/02/deepseek.html" />
+        <id>https://7techlife.blogspot.com/2025/02/deepseek.html</id>
+        <updated>2025-02-02T02:04:20.313-08:00</updated>
+        <summary type="html"><![CDATA[关键词：Deepseek，网页端，API，本地部署，第三方应用
 
 <br><br>总结:
-1. 开场介绍了ChatGPT的基本情况和用户关注点。
-2. 官方态度表明他们注重服务质量，致力于提升用户体验。
-3. 关于价格，视频中分析了ChatGPT的价值和性价比，值得考虑。
-4. 总体体验情况反馈积极，但也提到了稳定性和速度方面的问题，用户需根据自身需求评估。
-5. 购买过程简单明了，同时演示了如何安全地修改登录密码。
-6. 提供了搭建代理节点的指导，以及节点测速情况以确保良好的连接。
-7. 讨论了ChatGPT降智的问题，用户应理性看待其使用效果。
-8. 最后，续费事宜也进行了说明，强调了保持持续使用的重要性。]]></summary>
+1. **关于Deepseek**：Deepseek是一个强大的信息检索工具，提供了丰富的数据查询和处理功能。
+2. **Deepseek网页端和APP**：用户可以通过官方网站和手机应用商店下载并使用Deepseek的网页端和APP，方便进行日常使用。
+3. **Deepseek API**：支持开发者通过API接入Deepseek功能，注册时使用+86手机号可获得10元体验金，有效期一个月。
+4. **第三方应用**：Deepseek的API可与多款第三方应用兼容，如沉浸式翻译、Chatbox及欧路词典等，提高用户体验和功能扩展。
+5. **本地部署**：用户可以通过下载Ollama进行本地部署，安装后在命令提示符输入指令，可直接使用Chatbox和进行模型选择，具体操作请参考视频指南。]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[US.KG注册不了？推荐另一个免费域名 | l53.net | 可托管到Cloudflare | 稳定使用]]></title>
-        <link href="https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html" />
-        <id>https://7techlife.blogspot.com/2025/03/uskg-l53net-cloudflare.html</id>
-        <updated>2025-03-01T06:00:55.496-08:00</updated>
-        <summary type="html"><![CDATA[关键词：免费域名、Cloudflare、身份信息生成器、注册账号、托管
-
-<br><br>总结:
-1. 由于US.KG注册不成功，推荐其他免费的域名。
-2. 使用Cloudflare进行域名托管，确保域名的安全性和性能。
-3. 注册账号时可以利用身份信息生成器帮助填写所需信息。
-4. 在注册域名时，输入优惠码（newuser），可以享受一年的免费服务。
-5. 完成域名注册后，登录Cloudflare添加域名，并将所分配的两个名称服务器填入域名管理界面以完成托管设置。]]></summary>
+        <title><![CDATA[Serv00搭建代理节点完整版 | Serv00-Play]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00-serv00-play.html</id>
+        <updated>2025-01-26T01:10:43.041-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
     <entry>
-        <title><![CDATA[Deepseek R1满血版免费用 | API + 客户端 | 免费Deepseek R1满血版API羊毛汇总 | 阿里云百炼 | Cherry Studio | 联网搜索]]></title>
-        <link href="https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html" />
-        <id>https://7techlife.blogspot.com/2025/02/deepseek-r1-api-deepseek-r1api-cherry.html</id>
-        <updated>2025-02-16T04:42:01.173-08:00</updated>
+        <title><![CDATA[如何解决ChatGPT降智问题？]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/chatgpt.html</id>
+        <updated>2025-01-18T05:38:36.998-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00另类注册方法，小黄鱼过程分享，100%成功]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/serv00100.html" />
+        <id>https://7techlife.blogspot.com/2025/01/serv00100.html</id>
+        <updated>2025-01-12T04:02:12.270-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[让Windows也可以像Mac那样优雅使用ChatGPT]]></title>
+        <link href="https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html" />
+        <id>https://7techlife.blogspot.com/2025/01/windowsmacchatgpt.html</id>
+        <updated>2025-01-01T23:44:31.163-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[ChatGPT搜索高效使用技巧，一键直达，更加合理]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/chatgpt.html" />
+        <id>https://7techlife.blogspot.com/2024/12/chatgpt.html</id>
+        <updated>2024-12-27T23:47:35.365-08:00</updated>
+        <summary type="html"><![CDATA[None]]></summary>
+    </entry>
+    
+    <entry>
+        <title><![CDATA[Serv00免费主机，一次解决三个问题。系统初始化、应对IP被封、进程和账号保活]]></title>
+        <link href="https://7techlife.blogspot.com/2024/12/serv00ip.html" />
+        <id>https://7techlife.blogspot.com/2024/12/serv00ip.html</id>
+        <updated>2024-12-22T20:07:22.836-08:00</updated>
         <summary type="html"><![CDATA[None]]></summary>
     </entry>
     
