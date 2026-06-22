@@ -1,5 +1,5 @@
 ------------------------------------------------------
-Started: 2026-06-22 16:56:17.009673
+Started: 2026-06-22 20:47:58.912950
 Existing_entries: 15
 Fetching from https://freshrss.chunkj.qzz.io/i/?a=rss&user=freshrss&token=freshrss&hours=168
 Fetch error: HTTPSConnectionPool(host='freshrss.chunkj.qzz.io', port=443): Max retries exceeded with url: /i/?a=rss&user=freshrss&token=freshrss&hours=168 (Caused by NameResolutionError("HTTPSConnection(host='freshrss.chunkj.qzz.io', port=443): Failed to resolve 'freshrss.chunkj.qzz.io' ([Errno -2] Name or service not known)"))
